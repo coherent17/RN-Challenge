@@ -3,8 +3,8 @@
 <p class="eyebrow"><span class="en">Quick Quiz</span><span class="zh">快速測驗</span></p>
 <h1><span class="en">Test yourself across <em>all</em> chapters</span><span class="zh">跨<em>所有章節</em>隨機測驗</span></h1>
 <p class="lead"><span class="en">10 random questions, instant feedback, XP for every right answer, and bonus XP for a perfect run.</span><span class="zh">隨機 10 題、即時回饋、答對賺 XP，全對還有額外獎勵。</span></p></div></section>
-<main class="wrap qz" id="qz"><div id="qz-setup" class="card setup rv"><h3><span class="en">Pick a topic area</span><span class="zh">選擇範圍</span></h3>
-<div class="chips" id="qz-parts"><button class="chip on" data-p="all"><span class="en">Everything</span><span class="zh">全部</span></button>{% for part, chs in parts %}<button class="chip" data-p="{{ part.roman }}" style="--h:{{ chs[0].hue }}">{{ part.roman }} · <span class="en">{{ part.title }}</span><span class="zh">{{ chs[0].part_zh }}</span></button>{% endfor %}</div>
-<div class="cta"><button class="btn pri big" id="qz-start"><span class="en">Start quiz</span><span class="zh">開始測驗</span></button><span class="note" id="qz-pool"></span></div></div>
+<main class="wrap qz" id="qz"><div id="qz-setup" class="card setup rv"><h3><span class="en">Ready?</span><span class="zh">準備好了嗎？</span></h3>
+<div class="cta"><button class="btn pri big" id="qz-start"><span class="en">Start quiz</span><span class="zh">開始測驗</span></button><span class="note" id="qz-pool"></span></div><h4 class="topicsh"><span class="en">Or pick a topic area</span><span class="zh">或選擇範圍</span></h4><div class="chips" id="qz-parts"><button class="chip on" data-p="all"><span class="en">Everything</span><span class="zh">全部</span></button>{% for part, chs in parts %}<button class="chip" data-p="{{ part.roman }}" style="--h:{{ chs[0].hue }}">{{ part.roman }} · <span class="en">{{ part.title }}</span><span class="zh">{{ chs[0].part_zh }}</span></button>{% endfor %}</div>
+</div>
 <div id="qz-play" hidden></div><div id="qz-result" hidden></div></main>
 {% endblock %}

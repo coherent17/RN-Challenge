@@ -134,7 +134,7 @@ function upPool(){pool=poolFor();$('#qz-pool').innerHTML=L(pool.length+' questio
 $$('#qz-parts .chip').forEach(function(c){c.onclick=function(){$$('#qz-parts .chip').forEach(function(x){x.classList.remove('on')});c.classList.add('on');partSel=c.dataset.p;upPool()}});upPool();fetch(BASE+'questions.json').then(function(r){return r.json()}).then(function(d){DATA=d;upPool()});
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
 $('#qz-start').onclick=startQuiz;
-function startQuiz(){if(!pool.length)return;run={qs:shuffle(pool).slice(0,10),i:0,ok:0,combo:0,xp:0,missed:[]};setup.hidden=true;res.hidden=true;play.hidden=false;renderQ();scrollTo({top:0,behavior:'smooth'})}
+function startQuiz(){if(!pool.length)return;run={qs:shuffle(pool).slice(0,10),i:0,ok:0,combo:0,xp:0,missed:[]};setup.hidden=true;res.hidden=true;play.hidden=false;renderQ();$('#qz').scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'})}
 function renderQ(){var q=run.qs[run.i],multi=q.answer.length>1,n=run.qs.length;
 play.innerHTML='<div class="qtop"><span class="qmeta">'+(run.i+1)+' / '+n+'</span><div class="qprog"><i style="width:'+(run.i/n*100)+'%"></i></div>'+(run.combo>=2?'<span class="combo">×'+run.combo+' '+L('combo','連對')+'</span>':'')+'</div>'+
 '<article class="q"><a class="qchap" href="ch'+('0'+q.ch).slice(-2)+'.html">'+L('Ch '+q.ch+' · '+esc(q.t.en),'第 '+q.ch+' 章 · '+esc(q.t.zh))+'</a><p class="stem"><b class="qn">'+(run.i+1)+'</b><span>'+bi(q.stem)+(multi?' <em class="sata">'+L('(Select all that apply)','（複選）')+'</em>':'')+'</span></p>'+

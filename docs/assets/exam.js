@@ -52,7 +52,7 @@ function intro(){var M=run.M;nxEl.innerHTML=frame('<div class="nx-tool"></div><d
 '<li>'+L('You will not see whether an answer was right until the exam ends.','考試結束前不會看到答案對錯。')+'</li>'+
 '<li>'+L('Time allowed: '+M.mins+' minutes. The clock is shown at the top right.','限時 '+M.mins+' 分鐘，倒數計時顯示於右上角。')+'</li>'+
 (M.adaptive?'<li>'+L('Between '+M.min+' and '+M.max+' questions. The exam may end as soon as the result is clear.','共 '+M.min+'–'+M.max+' 題；結果明確時可能提前結束。')+'</li>':'<li>'+L(M.n+' questions.',M.n+' 題。')+'</li>')+
-'<li>'+L('Use the Calculator button for calculations. You can cross out options with the ✕ beside each one.','計算題可使用「Calculator」按鈕；每個選項旁的 ✕ 可劃掉該選項。')+'</li></ul><p>'+L('Click the <b>Next</b> button to proceed.','請按 <b>Next</b> 開始。')+'</p></div></div>'+
+'<li>'+L('Use the Calculator button for calculations. Right-click (or long-press) an option to cross it out.','計算題可使用「Calculator」按鈕；對選項按右鍵（手機長按）可劃掉。')+'</li></ul><p>'+L('Click the <b>Next</b> button to proceed.','請按 <b>Next</b> 開始。')+'</p></div></div>'+
 '<div class="nx-bot"><span></span><button type="button" class="nx-next" id="nx-go"><span><u>N</u>ext</span><span class="ar">➔</span></button><button type="button" class="nx-quit" id="nx-quit">'+L('Cancel','取消')+'</button></div>');
 $('#nx-go').onclick=begin;$('#nx-quit').onclick=function(){run=null;closeFrame();setup.hidden=false}}
 function begin(){run.t0=Date.now();run.deadline=run.t0+run.M.mins*60000;clearInterval(timerId);timerId=setInterval(tick,1000);next()}
@@ -65,10 +65,10 @@ return same?one(e):'<div class="en">'+one(e)+'</div><div class="zh">'+one(z)+'</
 function render(q){var M=run.M,n=run.answered.length+1,multi=q.answer.length>1,tot=M.adaptive?null:M.n;
 nxEl.hidden=false;nxEl.innerHTML=frame('<div class="nx-tool"><button type="button" id="ex-calc"><svg viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M8 7h8M8 12h2M12 12h2M16 12h0M8 16h2M12 16h2"/></svg>Calculator</button><button type="button" id="ex-exit">'+L('End exam','結束考試')+'</button></div>'+
 '<div class="nx-main"><div class="nx-gut"></div><div class="nx-body" id="nx-body">'+stemHtml(q.stem)+(multi?'<p class="nx-sata">'+L('Select all that apply.','請選出所有適當的答案。')+'</p>':'')+
-'<ul class="nxo">'+q.options.map(function(o,i){return '<li><label class="nxl"><input type="'+(multi?'checkbox':'radio')+'" name="nxo" value="'+i+'"><span class="nn">'+(i+1)+'.</span><span class="txt">'+bi(o)+'</span></label><button type="button" class="strike" data-s title="Cross out / 劃掉" aria-label="Cross out option">✕</button></li>'}).join('')+'</ul></div></div>'+
+'<ul class="nxo">'+q.options.map(function(o,i){return '<li><label class="nxl"><input type="'+(multi?'checkbox':'radio')+'" name="nxo" value="'+i+'"><span class="nn">'+(i+1)+'.</span><span class="txt">'+bi(o)+'</span></label></li>'}).join('')+'</ul></div></div>'+
 '<div class="nx-bot"><span></span><button type="button" class="nx-next" id="ex-next"><span><u>N</u>ext</span><span class="ar">➔</span></button></div>','<span class="nx-timer" id="ex-t">'+clock(run.deadline-Date.now())+'</span><span class="nx-cnt"><svg viewBox="0 0 24 24"><path d="M4 7h14M4 12h14M4 17h14"/></svg>'+(tot?n+' of '+tot:'Item '+n)+'</span>');
 var inputs=$$('input[name=nxo]',nxEl);
-$$('.strike',nxEl).forEach(function(b){b.onclick=function(){b.parentNode.classList.toggle('struck')}});
+$$('.nxo li',nxEl).forEach(function(li){li.addEventListener('contextmenu',function(e){e.preventDefault();li.classList.toggle('struck')});var tm=0;li.addEventListener('touchstart',function(){tm=setTimeout(function(){li.classList.toggle('struck')},550)},{passive:true});['touchend','touchmove','touchcancel'].forEach(function(ev){li.addEventListener(ev,function(){clearTimeout(tm)},{passive:true})})});
 function go(){var sel=inputs.filter(function(x){return x.checked}).map(function(x){return+x.value});if(!sel.length){dialog(L('Response Required','需要作答'),L('You cannot continue with this question unanswered.','此題尚未作答，無法繼續。'),[['OK',function(){}]]);return}submit(q,sel)}
 $('#ex-next').onclick=go;
 $('#ex-calc').onclick=calc;$('#ex-exit').onclick=function(){dialog(L('End Exam','結束考試'),L('End the exam now? Your answers so far will be scored, but there is no pass/fail verdict.','現在結束考試？已作答的題目會計分，但不會產生通過／未通過判定。'),[[L('End exam','結束考試'),function(){finish('quit')}],[L('Cancel','取消'),function(){}]])};

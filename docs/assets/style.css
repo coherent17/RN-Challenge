@@ -336,3 +336,8 @@ body.nx-on{overflow:hidden}
 .nxd .mbtns{justify-content:center;padding:0 0 18px;gap:14px}.nxbtn{padding:3px 24px;border:1px solid #fff;background:none;color:#fff;font:inherit;cursor:pointer}.nxbtn:hover,.nxbtn:focus{background:rgba(255,255,255,.2);outline:none}
 .offc a{font-weight:700}
 @media(max-width:760px){.nx-gut{display:none}.nx-body{padding:16px 16px 30px}.nx-title{font-size:.9rem}.nx-top{font-size:1rem}.nx-r{gap:10px}}
+
+[hidden]{display:none!important}
+.nextrow{position:sticky;bottom:calc(14px + env(safe-area-inset-bottom));z-index:6;pointer-events:none}.nextrow .btn{pointer-events:auto;box-shadow:0 14px 30px -8px color-mix(in srgb,var(--ac) 80%,transparent)}
+.nxo li.struck .txt,.nxo li.struck .nn{text-decoration:line-through;color:#888}
+.topicsh{margin:22px 0 10px;font-size:.9rem;color:var(--mut);font-weight:700}.setup .cta{margin-top:0}
