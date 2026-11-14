@@ -39,8 +39,11 @@ for c in chapters:
 env = Environment(loader=FileSystemLoader(str(root / "scripts/templates")), autoescape=select_autoescape(["html"]))
 env.globals["pagerefs"] = pagerefs
 
+import hashlib
+ASSET_V = hashlib.md5(b"".join((root / "docs/assets" / f).read_bytes() for f in ("app.js", "style.css"))).hexdigest()[:8]   # cache-buster
+
 def render(name, **kw):
-    return env.get_template(name).render(chapters=chapters, **kw)
+    return env.get_template(name).render(chapters=chapters, v=ASSET_V, **kw)
 
 def resolve_refs(d):
     for key in ("sections", "critical_points", "mnemonics", "questions"):
