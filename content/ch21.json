@@ -1,0 +1,91 @@
+{
+"number":21,
+"title":{"en":"Reproductive System","zh":"生殖系統"},
+"overview":{"en":"This chapter covers reproductive anatomy, the menstrual cycle, pelvis types and measurements, fertilization and implantation, fetal development, fetal environment and circulation, and family planning and infertility. Fetal circulation shunts and normal fetal heart rate are favorite exam topics.","zh":"本章涵蓋生殖解剖、月經週期、骨盆類型與測量、受精與著床、胎兒發育、胎兒環境與循環，以及家庭計畫與不孕。胎兒循環分流與正常胎心率是常考重點。"},
+"sections":[
+{"heading":{"en":"Reproductive Structures and Functions","zh":"生殖構造與功能"},"points":[
+{"en":"Ovaries form and release ova and secrete estrogen and progesterone.","zh":"卵巢產生並排出卵子，分泌雌激素與黃體素。"},
+{"en":"Fallopian tubes carry the ovum to the uterus; the uterus is the pear-shaped organ where the fetus grows and menstruation occurs.","zh":"輸卵管將卵子送往子宮；子宮為梨形肌肉器官，胎兒在此生長，月經亦由此而來。"},
+{"en":"Cervix links uterus and vagina; vagina is the 7.6-10 cm birth canal and menstrual outflow tract.","zh":"子宮頸連接子宮與陰道；陰道長約 7.6-10 公分，是產道與經血出口。"},
+{"en":"Scrotum keeps the testes slightly cooler than body temperature; prostate secretes alkaline fluid that aids sperm and neutralizes vaginal acidity.","zh":"陰囊使睪丸溫度略低於體溫；攝護腺分泌鹼性液，助精子活動並中和陰道酸性。"}],
+"pdf_pages":[313]},
+{"heading":{"en":"Menstrual Cycle","zh":"月經週期"},"points":[
+{"en":"Average cycle about 28 days; FSH and LH from the anterior pituitary drive ovarian and endometrial changes.","zh":"平均週期約 28 天；腦下垂體前葉的 FSH 與 LH 驅動卵巢與子宮內膜變化。"},
+{"en":"Follicular phase: FSH grows follicles; estrogen rises and triggers the LH surge; ovulation occurs around days 12-16.","zh":"濾泡期：FSH 促進濾泡生長；雌激素上升引發 LH 高峰；約第 12-16 天排卵。"},
+{"en":"Luteal phase: corpus luteum secretes estrogen and progesterone for 12-14 days, then degenerates if no pregnancy; body temperature rises 0.5-1 F after ovulation.","zh":"黃體期：黃體分泌雌激素與黃體素 12-14 天，若未懷孕即退化；排卵後基礎體溫升高 0.5-1 華氏度。"},
+{"en":"Uterine phases: menstrual (4-6 days), proliferative (about 9 days, estrogen high), secretory (about 12 days, progesterone prepares endometrium).","zh":"子宮週期：月經期（4-6 天）、增生期（約 9 天，雌激素高）、分泌期（約 12 天，黃體素準備內膜）。"}],
+"pdf_pages":[313,314]},
+{"heading":{"en":"Pelvis Types and Measurements","zh":"骨盆類型與測量"},"points":[
+{"en":"True pelvis (inlet, midpelvis, outlet) is below the brim; false pelvis supports abdominal organs.","zh":"真骨盆（入口、中骨盆、出口）在骨盆緣下方；假骨盆支撐腹部臟器。"},
+{"en":"Gynecoid is normal and most favorable for labor; android (heart-shaped) and platypelloid (flat) make vaginal birth difficult; anthropoid is oval with adequate outlet.","zh":"女性型為正常骨盆，最利於生產；男性型（心形）與扁平型使陰道生產困難；類人猿型呈橢圓、出口足夠。"},
+{"en":"Obstetric conjugate is the smallest front-to-back inlet distance the fetal head must pass; the outlet is the smallest plane of the canal.","zh":"產科結合徑為胎頭須通過的入口最小前後徑；骨盆出口為產道最小平面。"},
+{"en":"Cephalopelvic disproportion usually leads to cesarean birth.","zh":"頭骨盆不對稱通常需剖腹產。"}],
+"pdf_pages":[313,314]},
+{"heading":{"en":"Fertilization and Implantation","zh":"受精與著床"},"points":[
+{"en":"Fertilization occurs in the ampulla (outer third) of the tube; ovum is viable up to about 72 hours.","zh":"受精發生於輸卵管壺腹（外三分之一）；卵子約可存活至 72 小時。"},
+{"en":"Each gamete carries 23 chromosomes; sperm carry X or Y, so sperm determines sex (XY male, XX female).","zh":"每個生殖細胞有 23 條染色體；精子帶 X 或 Y，決定性別（XY 男、XX 女）。"},
+{"en":"Zygote implants 6-10 days after ovulation; the blastocyst makes hCG to keep the corpus luteum going for the first 2-3 months.","zh":"受精卵於排卵後 6-10 天著床；囊胚分泌 hCG 維持黃體約前 2-3 個月。"},
+{"en":"The tubal isthmus stays contracted about 3 days so the ovum can develop and implant normally in the fundus.","zh":"輸卵管峽部約 3 天維持收縮，使受精卵發育並正常著床於子宮底。"}],
+"pdf_pages":[314,315,319]},
+{"heading":{"en":"Fetal Development","zh":"胎兒發育"},"points":[
+{"en":"Preembryonic: first 2 weeks; embryonic: day 15 to week 8; fetal: week 9 to birth.","zh":"前胚胎期：前 2 週；胚胎期：第 15 天至第 8 週；胎兒期：第 9 週至出生。"},
+{"en":"Week 8: all organ systems present; week 12: kidneys make urine, Doppler heartbeat 10-12 weeks; week 16-20: sex visible on ultrasound, fetoscope heartbeat at 20 weeks.","zh":"第 8 週：所有器官系統成形；第 12 週：腎臟開始產尿，10-12 週可用都卜勒聽胎心；16-20 週：超音波可辨性別，20 週可用胎心聽診器。"},
+{"en":"Week 24: surfactant begins; week 28: lungs can exchange gas; week 36: L/S ratio over 2:1, lungs mature.","zh":"第 24 週：開始產生表面張力素；第 28 週：肺可交換氣體；第 36 週：L/S 比值大於 2:1，肺成熟。"},
+{"en":"Week 40: length about 40 cm, over 3200 g; sole creases cover two-thirds of foot, entire sole after 41 weeks.","zh":"第 40 週：身長約 40 公分、體重超過 3200 公克；足底紋路覆蓋三分之二，超過 41 週則滿布足底。"}],
+"pdf_pages":[315,316]},
+{"heading":{"en":"Fetal Environment","zh":"胎兒環境"},"points":[
+{"en":"Amnion is the inner membrane, chorion the outer and forms the fetal placenta.","zh":"羊膜為內層膜；絨毛膜為外層，形成胎盤的胎兒部分。"},
+{"en":"Amniotic fluid (800-1200 mL at term) cushions, allows movement, maintains temperature, and reflects fetal kidney function.","zh":"羊水（足月 800-1200 mL）緩衝、利於胎動、維持體溫並反映胎兒腎功能。"},
+{"en":"Placenta exchanges nutrients and wastes, forms by week 12 and takes over hormone production; maternal IgG gives passive immunity.","zh":"胎盤進行養分與廢物交換，12 週完成並接手荷爾蒙生產；母體 IgG 提供被動免疫。"},
+{"en":"Alcohol, drugs, antibiotics, viruses, antibodies and bacteria can cross the placenta.","zh":"酒精、藥物、抗生素、病毒、抗體與細菌皆可通過胎盤。"},
+{"en":"CVS can be done at 10-12 weeks for genetic testing.","zh":"絨毛膜取樣（CVS）可於 10-12 週進行基因檢查。"}],
+"pdf_pages":[315]},
+{"heading":{"en":"Fetal Circulation","zh":"胎兒循環"},"points":[
+{"en":"Umbilical cord: two arteries carry deoxygenated blood away from the fetus; one vein carries oxygenated blood to it.","zh":"臍帶：兩條動脈將缺氧血帶離胎兒；一條靜脈將含氧血送往胎兒。"},
+{"en":"Three shunts: ductus venosus (umbilical vein to IVC, bypasses liver), foramen ovale (right to left atrium), ductus arteriosus (pulmonary artery to aorta); the latter two bypass the lungs.","zh":"三個分流：靜脈導管（臍靜脈至下腔靜脈，繞過肝）、卵圓孔（右心房至左心房）、動脈導管（肺動脈至主動脈）；後兩者繞過肺。"},
+{"en":"Normal FHR 110-160 bpm (160-170 in first trimester), about twice the maternal rate.","zh":"正常胎心率 110-160 次/分（第一孕期 160-170），約為母親心率兩倍。"}],
+"pdf_pages":[315,317]},
+{"heading":{"en":"Family Planning and Infertility","zh":"家庭計畫與不孕"},"points":[
+{"en":"Contraceptive choice depends on effectiveness, safety, preference, beliefs, age, intercourse frequency, and ability to adhere; the client's preference matters most.","zh":"避孕方式依有效性、安全性、偏好、信念、年齡、性交頻率與遵從能力而定；以個案偏好最重要。"},
+{"en":"Sterilization is for couples who have completed their families; reversal may fail, so ask about future childbearing plans.","zh":"結紮適用已完成生育的夫妻；復通可能失敗，故應詢問未來生育計畫。"},
+{"en":"Infertility is inability to conceive when desired; causes in men (sperm, erection, seminal fluid) and women (ovulation, tubes, cervix, scarring).","zh":"不孕為想懷孕卻無法受孕；男性（精子、勃起、精液）與女性（排卵、輸卵管、子宮頸、沾黏）皆可能。"},
+{"en":"Options: medications, surgery, artificial insemination, IVF, surrogate, adoption; support the couple's decision-making.","zh":"選項：藥物、手術、人工授精、試管嬰兒、代理孕母、領養；支持夫妻決策。"}],
+"pdf_pages":[317,318]}
+],
+"critical_points":[
+{"en":"Normal FHR is 110-160 bpm; 174 at 38 weeks is abnormal, notify the provider.","zh":"正常胎心率 110-160 次/分；38 週時 174 為異常，應通報醫師。","pdf_pages":[315,319]},
+{"en":"Umbilical cord: 2 arteries (deoxygenated) and 1 vein (oxygenated).","zh":"臍帶：2 動脈（缺氧血）、1 靜脈（含氧血）。","pdf_pages":[315]},
+{"en":"Ductus venosus: umbilical vein to IVC; foramen ovale: right to left atria; ductus arteriosus: pulmonary artery to aorta.","zh":"靜脈導管：臍靜脈到下腔靜脈；卵圓孔：右到左心房；動脈導管：肺動脈到主動脈。","pdf_pages":[315,317]},
+{"en":"Gynecoid pelvis is most favorable for vaginal birth.","zh":"女性型骨盆最利於陰道生產。","pdf_pages":[313,320]},
+{"en":"Fertilization occurs in the outer third of the fallopian tube; implantation 6-10 days after ovulation.","zh":"受精於輸卵管外三分之一；排卵後 6-10 天著床。","pdf_pages":[314,315]},
+{"en":"hCG from the blastocyst maintains the corpus luteum until the placenta takes over by week 12.","zh":"囊胚的 hCG 維持黃體直到 12 週胎盤接手。","pdf_pages":[315]},
+{"en":"Lung maturity: L/S ratio 2:1 or greater at 36 weeks; surfactant begins at 24 weeks.","zh":"肺成熟：36 週 L/S 比值 2:1 以上；24 週開始產生表面張力素。","pdf_pages":[316]},
+{"en":"Substances including alcohol, drugs and viruses cross the placenta; counsel pregnant adolescents on avoiding alcohol.","zh":"酒精、藥物、病毒可通過胎盤；須輔導懷孕青少年避免飲酒。","pdf_pages":[315]},
+{"en":"Sperm determines fetal sex; sex visible on ultrasound at 16-20 weeks.","zh":"精子決定胎兒性別；16-20 週超音波可見。","pdf_pages":[314,316,319]},
+{"en":"Sterilization counseling: ask whether the couple wants more children.","zh":"結紮諮詢：詢問是否還想生育。","pdf_pages":[317,320]},
+{"en":"Amniotic fluid reflects fetal kidney function; abnormal volume prompts further evaluation.","zh":"羊水反映胎兒腎功能。","pdf_pages":[315]},
+{"en":"For sexual concerns use open-ended questions first to build trust.","zh":"談性問題時先用開放式問句建立信任。","pdf_pages":[319]}
+],
+"mnemonics":[
+{"en":"Fetal shunts: 'Venosus = Vein to Vena cava'; 'Ovale = Over (between atria)'; 'Arteriosus = Artery to Aorta'.","zh":"胎兒分流：靜脈導管＝臍靜脈到下腔靜脈；卵圓孔＝心房之間；動脈導管＝肺動脈到主動脈。","pdf_pages":[315]},
+{"en":"Cord: 'AVA' = 2 Arteries, 1 Vein; arteries away carry blood low in oxygen.","zh":"臍帶：2 動脈 1 靜脈；動脈帶離胎兒、缺氧。","pdf_pages":[315]}
+],
+"figures":[
+{"pdf_page":314,"caption":{"en":"Box 21.1: menstrual cycle ovarian and uterine phases and hormones.","zh":"框 21.1：月經週期的卵巢與子宮各期與荷爾蒙。"}},
+{"pdf_page":316,"caption":{"en":"Box 21.2: week-by-week fetal development milestones.","zh":"框 21.2：逐週胎兒發育里程碑。"}},
+{"pdf_page":317,"caption":{"en":"Fig. 21.1: fetal circulation and the three shunts.","zh":"圖 21.1：胎兒循環與三個分流。"}}
+],
+"questions":[
+{"stem":{"en":"Which statements about fetal circulation are correct? Select all that apply.","zh":"關於胎兒循環，何者正確？（複選）"},"options":[{"en":"The ductus arteriosus bypasses the fetal lungs","zh":"動脈導管使血液繞過肺"},{"en":"One vein carries oxygenated blood to the fetus","zh":"一條靜脈把含氧血送給胎兒"},{"en":"Normal FHR is 160-180 bpm","zh":"正常胎心率 160-180"},{"en":"Two arteries carry deoxygenated blood to the placenta","zh":"兩條動脈把缺氧血送往胎盤"}],"answer":[0,1,3],"rationale":{"en":"Normal FHR is 110-160 bpm.","zh":"正常胎心率為 110-160。"},"pdf_pages":[315,317],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which describes the ductus venosus?","zh":"何者描述靜脈導管？"},"options":[{"en":"Pulmonary artery to aorta","zh":"肺動脈至主動脈"},{"en":"Right to left atrium","zh":"右心房至左心房"},{"en":"Umbilical vein to inferior vena cava","zh":"臍靜脈至下腔靜脈"},{"en":"Umbilical artery to vena cava","zh":"臍動脈至下腔靜脈"}],"answer":[2],"rationale":{"en":"It lets oxygenated blood bypass the liver.","zh":"使含氧血繞過肝臟。"},"pdf_pages":[315],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"At 38 weeks' gestation the FHR is 174 bpm. What is the priority action?","zh":"懷孕 38 週，胎心率 174 次/分。優先處置為何？"},"options":[{"en":"Document only","zh":"僅記錄"},{"en":"Notify the obstetric provider","zh":"通知產科醫師"},{"en":"Tell the client it is normal","zh":"告訴個案正常"},{"en":"Reassess in 1 week","zh":"一週後再測"}],"answer":[1],"rationale":{"en":"The FHR is above the normal range of 110-160 bpm, so the provider must be told.","zh":"高於正常 110-160，須通報醫師。"},"pdf_pages":[315,319],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which are functions of amniotic fluid? Select all that apply.","zh":"羊水的功能有哪些？（複選）"},"options":[{"en":"Cushions and protects the fetus","zh":"緩衝保護胎兒"},{"en":"Maintains fetal temperature","zh":"維持胎兒體溫"},{"en":"Reflects fetal kidney function","zh":"反映胎兒腎功能"},{"en":"Exchanges nutrients and wastes","zh":"交換養分與廢物"}],"answer":[0,1,2],"rationale":{"en":"Nutrient and waste exchange is a placental function.","zh":"養分與廢物交換是胎盤功能。"},"pdf_pages":[315],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which pelvis type is most favorable for vaginal birth?","zh":"哪一種骨盆最利於陰道生產？"},"options":[{"en":"Android","zh":"男性型"},{"en":"Gynecoid","zh":"女性型"},{"en":"Platypelloid","zh":"扁平型"},{"en":"Anthropoid with narrow arch","zh":"類人猿型且恥骨弓窄"}],"answer":[1],"rationale":{"en":"Gynecoid is the normal pelvis.","zh":"女性型為正常骨盆。"},"pdf_pages":[313,314],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A couple asks about sterilization. Which question best determines suitability?","zh":"一對夫妻詢問結紮，哪個問題最能判斷是否適合？"},"options":[{"en":"Have you had surgery?","zh":"您開過刀嗎？"},{"en":"Do you plan to have more children?","zh":"你們還打算生小孩嗎？"},{"en":"Do you have diabetes?","zh":"有糖尿病嗎？"},{"en":"Do you have hypertension?","zh":"有高血壓嗎？"}],"answer":[1],"rationale":{"en":"Sterilization should be regarded as permanent.","zh":"結紮應視為永久性。"},"pdf_pages":[317,320],"source":{"type":"original","title":"Original practice question based on the chapter"}}
+],
+"resources":[
+{"title":"Reproductive System Disorders NCLEX Practice Exam (Nurseslabs)","url":"https://nurseslabs.com/quizzes/nclex-reproductive-quiz-2/","note":{"en":"Free 25-question reproductive disorder quiz.","zh":"免費 25 題生殖系統疾病測驗。"}},
+{"title":"Menstrual Cycle Practice Questions (Simple Nursing)","url":"https://simplenursing.com/menstrual-cycle-nclex-practice-questions-review/","note":{"en":"Menstrual cycle questions with rationales.","zh":"含解析的月經週期練習題。"}},
+{"title":"Maternity Nursing NCLEX Practice Quiz and Test Bank (Nurseslabs)","url":"https://nurseslabs.com/maternity-nursing-nclex-practice-questions/","note":{"en":"Large free maternity test bank including antepartum content.","zh":"大型免費產科題庫，含產前內容。"}}
+]
+}

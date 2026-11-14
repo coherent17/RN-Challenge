@@ -1,0 +1,261 @@
+{
+  "number": 69,
+  "title": {"en": "Psychotherapeutic Medications", "zh": "精神科治療藥物"},
+  "overview": {
+    "en": "This chapter reviews the major psychotropic drug classes by action, adverse effects, antidote or monitoring, and nursing teaching: antidepressants (SSRIs, SNRIs, TCAs, MAOIs), mood stabilizers (lithium), anxiolytics, sedative-hypnotics, antipsychotics, drugs for alcohol and opioid use disorders, ADHD stimulants, and Alzheimer drugs. Expect NCLEX items on lithium levels, tyramine and hypertensive crisis, serotonin syndrome, extrapyramidal effects, NMS, and safe tapering.",
+    "zh": "本章依藥物類別整理精神科藥物的作用、重要不良反應、解毒劑或監測項目及護理衛教：抗憂鬱劑（SSRI、SNRI、TCA、MAOI）、情緒穩定劑（鋰鹽）、抗焦慮藥、鎮靜安眠藥、抗精神病藥、酒精與鴉片類使用障礙用藥、ADHD 刺激劑及阿茲海默症用藥。NCLEX 常考鋰鹽濃度、酪胺與高血壓危象、血清素症候群、錐體外症狀、NMS 及安全減藥。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "SSRIs and SNRIs", "zh": "選擇性血清素再吸收抑制劑（SSRI）與 SNRI"},
+      "points": [
+        {"en": "Action: block serotonin reuptake; first-line for depression with anxiety or agitation. Examples: citalopram, escitalopram, fluoxetine, paroxetine, sertraline. SNRIs (venlafaxine, duloxetine) also block norepinephrine.", "zh": "作用：抑制血清素再吸收，為合併焦慮或躁動之憂鬱症的首選。例：citalopram、escitalopram、fluoxetine、paroxetine、sertraline；SNRI（venlafaxine、duloxetine）另可抑制正腎上腺素再吸收。"},
+        {"en": "Fewer anticholinergic effects than TCAs. Common effects: insomnia or somnolence, nervousness, tremor, weight change, decreased libido, BP changes, dry mouth.", "zh": "抗膽鹼作用比 TCA 少。常見副作用：失眠或嗜睡、神經質、顫抖、體重改變、性慾下降、血壓變化、口乾。"},
+        {"en": "Serotonin syndrome (excess serotonin, especially SSRI + MAOI or OTC cold medicines/St. John's wort): restlessness, tachycardia, fever, high BP, delirium, myoclonus, rigidity, seizures, abdominal pain/diarrhea.", "zh": "血清素症候群（SSRI 合併 MAOI、感冒成藥或聖約翰草）：躁動、心搏過速、發燒、高血壓、譫妄、肌躍症、僵硬、抽搐、腹痛腹瀉。"},
+        {"en": "Teaching: give with food or a snack; takes 2-4 weeks for full effect; avoid alcohol; do not stop abruptly (discontinuation syndrome: GI upset, movement disorders, insomnia, sensory disturbance); ibuprofen/NSAIDs raise upper GI bleeding risk.", "zh": "衛教：隨餐或點心服用；2–4 週才達完整療效；避免酒精；不可驟停（停藥症候群：腸胃不適、動作異常、失眠、感覺異常）；併用 ibuprofen／NSAID 會增加上消化道出血風險。"},
+        {"en": "Monitor suicidality closely, especially when mood and energy begin to improve; monitor WBC/neutrophils, liver and renal function with long-term use; interacts with digoxin and warfarin; extra caution in children, adolescents, older adults, and pregnancy.", "zh": "密切監測自殺風險，特別是情緒與精力開始改善時；長期使用需監測白血球／嗜中性球及肝腎功能；可與 digoxin、warfarin 交互作用；兒童、青少年、老年人及孕婦需特別謹慎。"}
+      ],
+      "pdf_pages": [1106, 1107]
+    },
+    {
+      "heading": {"en": "Tricyclic Antidepressants (TCAs)", "zh": "三環抗憂鬱劑（TCA）"},
+      "points": [
+        {"en": "Action: block norepinephrine and serotonin reuptake. Examples: amitriptyline, imipramine, nortriptyline, doxepin; clomipramine is used for OCD.", "zh": "作用：抑制正腎上腺素與血清素再吸收。例：amitriptyline、imipramine、nortriptyline、doxepin；clomipramine 用於強迫症。"},
+        {"en": "Anticholinergic effects: dry mouth, blurred vision, constipation, urinary retention; also orthostatic hypotension, tachycardia/dysrhythmias, sedation, lowered seizure threshold.", "zh": "抗膽鹼作用：口乾、視力模糊、便秘、尿滯留；另有姿勢性低血壓、心搏過速／心律不整、鎮靜、降低癲癇閾值。"},
+        {"en": "Cardiac toxicity: obtain ECG before and periodically during therapy. Overdose is life-threatening: airway, oxygen, cardiac monitoring, ECG, activated charcoal/lavage if within 2 hours, IV fluids.", "zh": "心臟毒性：治療前及期間定期做心電圖。過量可致命：維持呼吸道、給氧、心電監視、心電圖、2 小時內可做洗胃／活性碳、靜脈輸液。"},
+        {"en": "Give the whole daily dose at bedtime (sedating). Teach slow position changes, high-fiber diet and fluids, oral hygiene/hard candy for dry mouth, no alcohol/OTC cold meds, taper gradually.", "zh": "每日全量於睡前服用（有鎮靜作用）。衛教緩慢改變姿勢、高纖與多喝水、口腔衛生及硬糖緩解口乾、避免酒精與非處方感冒藥、需逐步減藥。"},
+        {"en": "Concurrent MAOI can cause hypertensive crisis; alcohol/antihistamines add CNS depression; may reduce antihypertensive effect. Therapeutic effect takes 2-4 weeks. Watch for suicide risk as energy returns.", "zh": "併用 MAOI 可致高血壓危象；酒精與抗組織胺加重中樞抑制；可能降低降血壓藥效果。療效需 2–4 週。精力恢復時留意自殺風險。"}
+      ],
+      "pdf_pages": [1107, 1108]
+    },
+    {
+      "heading": {"en": "Monoamine Oxidase Inhibitors (MAOIs)", "zh": "單胺氧化酶抑制劑（MAOI）"},
+      "points": [
+        {"en": "Action: inhibit MAO, raising dopamine, norepinephrine, serotonin and tyramine levels. Examples: isocarboxazid, phenelzine, selegiline, tranylcypromine. Reserved for depression not responding to other therapy.", "zh": "作用：抑制 MAO，使多巴胺、正腎上腺素、血清素及酪胺升高。例：isocarboxazid、phenelzine、selegiline、tranylcypromine。用於其他治療無效的憂鬱症。"},
+        {"en": "Hypertensive crisis: severe hypertension, occipital headache, neck stiffness, N/V, sweating, fever, dilated pupils, palpitations, chest pain. Antidote: IV phentolamine.", "zh": "高血壓危象：嚴重高血壓、後枕部頭痛、頸部僵硬、噁心嘔吐、冒汗、發燒、瞳孔放大、心悸、胸痛。解毒劑：靜脈注射 phentolamine。"},
+        {"en": "Avoid tyramine-rich foods: aged cheese, wine/beer, sausage/salami, sauerkraut, soy sauce, avocado, banana, figs, raisins, yogurt, sour cream, liver, caffeine/chocolate. Avoid amphetamines, decongestants, other antidepressants, levodopa, meperidine/opioids.", "zh": "避免高酪胺食物：陳年乳酪、紅酒／啤酒、香腸／臘腸、酸菜、醬油、酪梨、香蕉、無花果、葡萄乾、優格、酸奶油、肝臟、咖啡因／巧克力。避免安非他命、鼻充血劑、其他抗憂鬱劑、levodopa、meperidine／鴉片類。"},
+        {"en": "Teaching: BP monitoring; report headache, neck stiffness or palpitations immediately; change positions slowly; carry a MedicAlert card; take in the morning (insomnia); missed dose may be taken within 3 hours; benefit may need up to 3 weeks; taper gradually.", "zh": "衛教：監測血壓；頭痛、頸部僵硬或心悸立即通報；緩慢改變姿勢；隨身攜帶醫療警示卡；早上服用（避免失眠）；漏服 3 小時內可補服；療效最多需 3 週；需逐步減藥。"}
+      ],
+      "pdf_pages": [1108, 1109]
+    },
+    {
+      "heading": {"en": "Atypical Antidepressants and Other Mood Stabilizers", "zh": "非典型抗憂鬱劑與其他情緒穩定劑"},
+      "points": [
+        {"en": "Atypical antidepressants listed: bupropion, mirtazapine, trazodone, nefazodone, vortioxetine, brexanolone. Bupropion lowers seizure threshold; seizures signal excess dose.", "zh": "非典型抗憂鬱劑：bupropion、mirtazapine、trazodone、nefazodone、vortioxetine、brexanolone。bupropion 降低癲癇閾值，出現抽搐表示劑量過高。"},
+        {"en": "Other mood stabilizers: anticonvulsants (valproate, carbamazepine, lamotrigine, oxcarbazepine, gabapentin) and atypical antipsychotics (olanzapine, quetiapine, risperidone, aripiprazole, ziprasidone, etc.).", "zh": "其他情緒穩定劑：抗癲癇藥（valproate、carbamazepine、lamotrigine、oxcarbazepine、gabapentin）及非典型抗精神病藥（olanzapine、quetiapine、risperidone、aripiprazole、ziprasidone 等）。"}
+      ],
+      "pdf_pages": [1107, 1109]
+    },
+    {
+      "heading": {"en": "Lithium", "zh": "鋰鹽"},
+      "points": [
+        {"en": "Therapeutic serum level 0.6-1.2 mEq/L; margin to toxicity is narrow. Draw level in the morning 12 hours after the last dose; check frequently at start, then every 1-2 months or when behavior changes.", "zh": "治療血中濃度 0.6–1.2 mEq/L，與中毒濃度很接近。於末次給藥後 12 小時的早晨抽血；起始時頻繁檢測，之後每 1–2 個月或行為改變時檢測。"},
+        {"en": "Levels rise with low sodium intake, dehydration, sweating, vomiting/diarrhea, diuretics, NSAIDs, fluoxetine. Never give diuretics with lithium. Keep fluids 6-8 glasses/day and normal salt intake.", "zh": "低鈉攝取、脫水、大量流汗、嘔吐腹瀉、利尿劑、NSAID、fluoxetine 會使濃度上升。鋰鹽期間不可給利尿劑。每日飲水 6–8 杯並維持正常鹽分攝取。"},
+        {"en": "Expected effects: polyuria, polydipsia, fine hand tremor, nausea, soft stools, weight gain, hypothyroidism/goiter. Baseline ECG, renal and thyroid tests needed. Crosses the placenta (fetal toxicity).", "zh": "預期副作用：多尿、多渴、手部細微顫抖、噁心、軟便、體重增加、甲狀腺低下／甲狀腺腫。治療前需基礎心電圖、腎功能及甲狀腺檢查。可通過胎盤（胎兒毒性）。"},
+        {"en": "Toxicity begins at about 1.5 mEq/L. Mild (1.5): lethargy, coarse tremor, mild ataxia. Moderate (1.5-2.0): vomiting, severe diarrhea, slurred speech, tinnitus, blurred vision. Severe (>2.0): nystagmus, fasciculations, hyperreflexia, oliguria, seizures, coma.", "zh": "約 1.5 mEq/L 開始中毒。輕度（1.5）：倦怠、粗顫、輕度共濟失調。中度（1.5–2.0）：嘔吐、嚴重腹瀉、言語不清、耳鳴、視力模糊。重度（>2.0）：眼球震顫、肌束顫動、反射亢進、少尿、抽搐、昏迷。"},
+        {"en": "Toxicity actions: withhold lithium, notify provider, monitor VS, LOC and ECG, obtain lithium, electrolytes, BUN/creatinine, CBC; seizure and suicide precautions. Missed dose: take within 2 hours, otherwise skip. Do not stop abruptly.", "zh": "中毒處置：停藥並通知醫師，監測生命徵象、意識與心電圖，抽鋰濃度、電解質、BUN／肌酸酐、全血球計數；採取抽搐與自殺防範。漏服 2 小時內可補服，否則跳過。不可驟停。"}
+      ],
+      "pdf_pages": [1109, 1110]
+    },
+    {
+      "heading": {"en": "Benzodiazepines, Buspirone, Barbiturates and Sedative-Hypnotics", "zh": "苯二氮平類、buspirone、巴比妥類與鎮靜安眠藥"},
+      "points": [
+        {"en": "Benzodiazepines (alprazolam, lorazepam, diazepam, clonazepam, midazolam...) enhance GABA: anxiolytic, sedative, muscle relaxant, anticonvulsant. Contraindicated in acute narrow-angle glaucoma; cautious use in older adults and liver impairment; short-term use.", "zh": "苯二氮平類（alprazolam、lorazepam、diazepam、clonazepam、midazolam 等）增強 GABA：抗焦慮、鎮靜、肌肉鬆弛、抗痙攣。急性窄角青光眼禁用；老年人與肝功能不全者慎用；宜短期使用。"},
+        {"en": "Adverse effects: sedation, dizziness, hypotension, amnesia, slurred speech, paradoxical excitement (older adults). Antidote for overdose: flumazenil IV (acts within about 5 minutes; may cause agitation or seizures).", "zh": "不良反應：鎮靜、頭暈、低血壓、失憶、言語不清、老年人矛盾性興奮。過量解毒劑：flumazenil 靜脈注射（約 5 分鐘起效）。"},
+        {"en": "Never stop abruptly (seizures). Taper over 2-6 weeks; withdrawal: restlessness, irritability, insomnia, tremor, cramps, sweating, vomiting, seizures. Avoid alcohol; fall precautions.", "zh": "不可驟停（抽搐）。應在 2–6 週內逐步減量；戒斷症狀：不安、易怒、失眠、顫抖、痙攣、冒汗、嘔吐、抽搐。避免酒精；防跌。"},
+        {"en": "Buspirone is a non-benzodiazepine anxiolytic; effective when anxiety signs such as rapid heartbeat and tension are absent after several weeks; no sedation or dependence.", "zh": "buspirone 為非苯二氮平類抗焦慮藥，數週後心跳加速、緊張等焦慮表現消失代表有效；無明顯鎮靜與依賴。"},
+        {"en": "Barbiturates (phenobarbital, pentobarbital) and hypnotics (zolpidem, eszopiclone, zaleplon, ramelteon, chloral hydrate): depress the CNS via GABA. Overdose: respiratory depression, hypotension, shock, coma. Withdrawal within 24 hours in dependent clients: tremor, delirium, seizures. Avoid alcohol; take 30 minutes before bed; morning hangover possible.", "zh": "巴比妥類（phenobarbital、pentobarbital）及安眠藥（zolpidem、eszopiclone、zaleplon、ramelteon、chloral hydrate）經 GABA 抑制中樞。過量：呼吸抑制、低血壓、休克、昏迷。依賴者 24 小時內可出現戒斷：顫抖、譫妄、抽搐。避免酒精；睡前 30 分鐘服用；隔日可能宿醉感。"}
+      ],
+      "pdf_pages": [1110, 1111, 1112]
+    },
+    {
+      "heading": {"en": "Antipsychotics and Neuroleptic Malignant Syndrome", "zh": "抗精神病藥與抗精神病藥惡性症候群（NMS）"},
+      "points": [
+        {"en": "Block dopamine receptors. Typical (haloperidol, chlorpromazine, fluphenazine): better for positive symptoms (hallucinations, delusions, aggression). Atypical (risperidone, olanzapine, clozapine, quetiapine, aripiprazole): also help negative symptoms (apathy, avolition, alogia).", "zh": "阻斷多巴胺受體。典型藥（haloperidol、chlorpromazine、fluphenazine）對陽性症狀（幻覺、妄想、攻擊）較有效；非典型藥（risperidone、olanzapine、clozapine、quetiapine、aripiprazole）對陰性症狀（冷漠、無意志、言語貧乏）亦有效。"},
+        {"en": "Extrapyramidal effects: parkinsonism (tremor, rigidity, shuffling gait, drooling), dystonia (oculogyric crisis, grimacing, torso twisting), akathisia (restlessness), tardive dyskinesia (tongue protrusion, chewing, involuntary movements).", "zh": "錐體外症狀：類帕金森氏症（顫抖、僵硬、拖曳步態、流口水）、急性肌張力不全（眼動危象、扮鬼臉、軀幹扭曲）、靜坐不能（坐立不安）、遲發性運動障礙（吐舌、咀嚼、不自主運動）。"},
+        {"en": "Other effects: anticholinergic effects, orthostatic hypotension, photosensitivity, weight gain and hyperglycemia, agranulocytosis (sore throat, fever, malaise; clozapine: stop if WBC < 3000/mm3), jaundice, impaired temperature regulation, gynecomastia/lactation.", "zh": "其他：抗膽鹼作用、姿勢性低血壓、光敏感、體重增加與高血糖、顆粒性白血球缺乏（喉嚨痛、發燒、不適；clozapine 白血球 < 3000/mm3 須停藥）、黃疸、體溫調節受損、男性女乳症／泌乳。"},
+        {"en": "Teaching: onset in 7-10 days, full effect 3-6 weeks; sunscreen and protective clothing; rise slowly; no alcohol; dilute liquid concentrate in juice, avoid skin contact; urine may turn pink to red-brown; taper gradually; long-acting injectables help adherence; monitor glucose and urine output.", "zh": "衛教：7–10 天見初效、3–6 週完整療效；使用防曬與防護衣物；緩慢改變姿勢；避免酒精；濃縮液以果汁稀釋並避免接觸皮膚；尿液可能變粉紅至紅褐色；需逐步減藥；長效針劑可提升服藥順從性；監測血糖與尿量。"},
+        {"en": "NMS (rare, life-threatening; usually with first-generation drugs, at start, dose increase or switch): hyperpyrexia, severe muscle rigidity, autonomic instability (labile BP, tachycardia, diaphoresis, drooling), altered LOC, dysphagia, elevated WBC, CPK and LFTs.", "zh": "NMS（罕見、危及生命；多見於第一代藥物，開始、增量或換藥時）：高熱、嚴重肌肉僵硬、自律神經不穩（血壓波動、心搏過速、冒汗、流口水）、意識改變、吞嚥困難、白血球、CPK 及肝功能升高。"},
+        {"en": "NMS actions: stop the drug, notify provider, VS and LOC monitoring, seizure precautions, antipyretics and cooling blanket, IV fluids/electrolytes; watch for DVT and rhabdomyolysis.", "zh": "NMS 處置：停藥、通知醫師、監測生命徵象與意識、抽搐防範、退燒藥及冷卻毯、靜脈輸液與電解質；注意深部靜脈栓塞與橫紋肌溶解。"}
+      ],
+      "pdf_pages": [1112, 1113, 1114]
+    },
+    {
+      "heading": {"en": "Alcohol Withdrawal and Alcohol Use Disorder Drugs", "zh": "酒精戒斷與酒精使用障礙用藥"},
+      "points": [
+        {"en": "Benzodiazepines (chlordiazepoxide, diazepam, lorazepam, oxazepam) are the most effective for withdrawal: stabilize vital signs and reduce seizure and delirium tremens risk; long half-life agents give best protection.", "zh": "苯二氮平類（chlordiazepoxide、diazepam、lorazepam、oxazepam）為戒斷首選：穩定生命徵象、降低抽搐與震顫譫妄風險；長半衰期藥物保護最佳。"},
+        {"en": "Atenolol/propranolol and clonidine reduce autonomic symptoms but only as adjuncts to benzodiazepines.", "zh": "atenolol／propranolol 與 clonidine 可減少自律神經症狀，但只能作為苯二氮平的輔助。"},
+        {"en": "Thiamine (B1) IM then oral to prevent Wernicke's encephalopathy; also folic acid, multivitamin, magnesium if low.", "zh": "先肌肉注射再口服 thiamine（B1）預防 Wernicke 腦病變；另補葉酸、綜合維他命，鎂低時補鎂。"},
+        {"en": "Maintaining abstinence (only after withdrawal is over): naltrexone blocks the pleasurable effect of alcohol; acamprosate reduces discomfort of abstinence; disulfiram causes a severe reaction if alcohol is ingested.", "zh": "維持戒酒（須戒斷結束後才用）：naltrexone 阻斷飲酒愉悅感；acamprosate 減輕戒酒不適；disulfiram 一旦飲酒會引起嚴重反應。"},
+        {"en": "Disulfiram reaction: flushing, throbbing headache, nausea/vomiting, sweating, hypotension, tachycardia; begins within minutes, lasts 30 min-2 hr. Abstain at least 12 hours before first dose; avoid alcohol in cough medicines, mouthwash, aftershave, vinegar, rubbing alcohol; effect can persist several days after stopping.", "zh": "disulfiram 反應：臉潮紅、搏動性頭痛、噁心嘔吐、冒汗、低血壓、心搏過速；數分鐘內出現，持續 30 分鐘至 2 小時。首次用藥前至少戒酒 12 小時；避免含酒精之咳嗽藥、漱口水、刮鬍水、醋、消毒酒精；停藥後數天仍可能反應。"}
+      ],
+      "pdf_pages": [1114]
+    },
+    {
+      "heading": {"en": "Opioid Use Disorder Drugs", "zh": "鴉片類使用障礙用藥"},
+      "points": [
+        {"en": "Methadone: full opioid agonist replacing the abused opioid; prevents withdrawal; given only under close supervision (overdose risk: bradypnea, cyanosis, stupor, coma).", "zh": "methadone：完全鴉片類促效劑，取代濫用的鴉片；預防戒斷；須嚴密監督使用（過量風險：呼吸過慢、發紺、木僵、昏迷）。"},
+        {"en": "Buprenorphine: partial agonist-antagonist for maintenance or detox; can be prescribed in general medical settings; low overdose and abuse potential but suppresses cravings.", "zh": "buprenorphine：部分促效／拮抗劑，用於維持治療或戒毒；可於一般醫療場所開立；濫用與過量風險低但可抑制渴求。"},
+        {"en": "Naltrexone: opioid antagonist used after detoxification to block euphoria and discourage relapse.", "zh": "naltrexone：鴉片類拮抗劑，戒毒後使用，阻斷欣快感以防復發。"},
+        {"en": "Clonidine decreases autonomic withdrawal symptoms (fatigue, dizziness, dry mouth).", "zh": "clonidine 減輕自律神經戒斷症狀（疲倦、頭暈、口乾）。"}
+      ],
+      "pdf_pages": [1114, 1115]
+    },
+    {
+      "heading": {"en": "ADHD Stimulants and Alzheimer Drugs", "zh": "ADHD 刺激劑與阿茲海默症藥物"},
+      "points": [
+        {"en": "ADHD CNS stimulants (methylphenidate, dexmethylphenidate, amphetamine salts, lisdexamfetamine; also atomoxetine, guanfacine) calm children and lengthen attention span. Effects: tachycardia, high BP, anorexia and weight loss, insomnia, agitation.", "zh": "ADHD 中樞刺激劑（methylphenidate、dexmethylphenidate、安非他命鹽類、lisdexamfetamine；另有 atomoxetine、guanfacine）使兒童穩定並延長專注。副作用：心搏過速、高血壓、食慾不振與體重下降、失眠、躁動。"},
+        {"en": "Nursing: baseline ECG, BP, height and weight; last dose at least 6 hours before bedtime (14 hours for extended release); avoid OTC drugs; drug holidays may be used; benefit takes weeks.", "zh": "護理：基礎心電圖、血壓、身高體重；最後一劑至少於睡前 6 小時（長效劑型 14 小時）；避免非處方藥；可安排藥物假期；療效需數週。"},
+        {"en": "Cholinesterase inhibitors for mild to moderate Alzheimer disease: donepezil (bradycardia), galantamine (bronchoconstriction; caution in asthma/COPD), rivastigmine (give with food; caution in ulcer, bradycardia, sick sinus, urinary obstruction). Common: nausea, vomiting, diarrhea, anorexia, weight loss.", "zh": "輕中度阿茲海默症之膽鹼酯酶抑制劑：donepezil（心搏過緩）、galantamine（支氣管收縮；氣喘／COPD 慎用）、rivastigmine（隨餐服用；潰瘍、心搏過緩、病竇症候群、尿路阻塞者慎用）。常見：噁心、嘔吐、腹瀉、食慾不振、體重下降。"},
+        {"en": "Memantine: NMDA antagonist for moderate to severe disease; dizziness, headache, confusion, constipation; avoid with amantadine or ketamine; urine-alkalinizing drugs (sodium bicarbonate) and renal impairment raise levels.", "zh": "memantine：NMDA 受體拮抗劑，用於中重度；副作用頭暈、頭痛、混亂、便秘；避免與 amantadine 或 ketamine 併用；鹼化尿液藥物（碳酸氫鈉）及腎功能不全會使濃度上升。"}
+      ],
+      "pdf_pages": [1115, 1116]
+    }
+  ],
+  "critical_points": [
+    {"en": "Lithium therapeutic range 0.6-1.2 mEq/L; toxicity signs begin at 1.5 mEq/L; at 2.5 mEq/L with vomiting, diarrhea, tinnitus, blurred vision and tremor, treat as toxic.", "zh": "鋰鹽治療濃度 0.6–1.2 mEq/L；1.5 mEq/L 開始出現中毒症狀；2.5 mEq/L 並有嘔吐、腹瀉、耳鳴、視力模糊、顫抖，視為中毒。", "pdf_pages": [1109, 1110, 1116]},
+    {"en": "Lithium: maintain 6-8 glasses of water and adequate sodium; no diuretics or NSAIDs; draw level 12 hours after the last dose.", "zh": "鋰鹽：每日喝水 6–8 杯並維持足夠鈉攝取；避免利尿劑與 NSAID；於末次給藥 12 小時後抽血。", "pdf_pages": [1109, 1110]},
+    {"en": "MAOI plus tyramine foods (aged cheese, wine, cured meats, soy sauce, sauerkraut, avocado, banana) can cause hypertensive crisis; antidote is IV phentolamine; report headache and neck stiffness at once.", "zh": "MAOI 加高酪胺食物（陳年乳酪、酒、醃肉、醬油、酸菜、酪梨、香蕉）可致高血壓危象；解毒劑為靜脈 phentolamine；頭痛與頸部僵硬須立即通報。", "pdf_pages": [1108, 1109]},
+    {"en": "Never combine SSRIs with MAOIs (serotonin syndrome); OTC cold medicines and St. John's wort also raise risk.", "zh": "SSRI 絕不可與 MAOI 併用（血清素症候群）；非處方感冒藥與聖約翰草亦增加風險。", "pdf_pages": [1106, 1107]},
+    {"en": "Antidepressants take 2-4 weeks for full effect (MAOI up to 3 weeks); monitor for suicide as energy improves before mood; do not stop abruptly.", "zh": "抗憂鬱劑需 2–4 週才達療效（MAOI 最多 3 週）；精力先於情緒改善時須留意自殺風險；不可驟停。", "pdf_pages": [1107, 1108, 1116]},
+    {"en": "TCA overdose: ABCs, oxygen, cardiac monitor and ECG, charcoal/lavage if within 2 hours, IV fluids. Baseline ECG for all TCA clients.", "zh": "TCA 過量：維持 ABC、給氧、心電監視與心電圖、2 小時內活性碳／洗胃、靜脈輸液。所有 TCA 使用者需基礎心電圖。", "pdf_pages": [1107]},
+    {"en": "Bupropion excess presents as seizures; TCAs and bupropion lower seizure threshold.", "zh": "bupropion 過量表現為抽搐；TCA 與 bupropion 皆降低癲癇閾值。", "pdf_pages": [1107, 1117]},
+    {"en": "Benzodiazepine antidote is flumazenil; abrupt withdrawal can cause seizures, so taper over 2-6 weeks.", "zh": "苯二氮平解毒劑為 flumazenil；驟停可致抽搐，應 2–6 週逐步減量。", "pdf_pages": [1111]},
+    {"en": "Avoid alcohol with all CNS depressants (benzodiazepines, barbiturates, hypnotics, antipsychotics, TCAs).", "zh": "所有中樞抑制劑（苯二氮平、巴比妥、安眠藥、抗精神病藥、TCA）皆須避免酒精。", "pdf_pages": [1111, 1112, 1113]},
+    {"en": "Clozapine: monitor WBC for agranulocytosis; interrupt therapy if WBC falls below 3000/mm3.", "zh": "clozapine：監測白血球以防顆粒性白血球缺乏；低於 3000/mm3 須中斷治療。", "pdf_pages": [1117, 1118]},
+    {"en": "Tardive dyskinesia (tongue protrusion, chewing, grimacing) is a late antipsychotic effect; dystonia and akathisia occur earlier; assess for EPS regularly.", "zh": "遲發性運動障礙（吐舌、咀嚼、扮鬼臉）為抗精神病藥晚期副作用；肌張力不全與靜坐不能較早出現；需定期評估錐體外症狀。", "pdf_pages": [1113, 1117]},
+    {"en": "NMS red flags: high fever, lead-pipe rigidity, autonomic instability, altered LOC, elevated CPK and WBC; stop the drug, cool, IV fluids.", "zh": "NMS 警訊：高熱、鉛管樣僵硬、自律神經不穩、意識改變、CPK 與白血球升高；停藥、降溫、靜脈輸液。", "pdf_pages": [1113, 1114]},
+    {"en": "Disulfiram: abstain from alcohol at least 12 hours before the first dose and avoid alcohol-containing products (mouthwash, cough syrup, vinegar, aftershave).", "zh": "disulfiram：首次用藥前至少戒酒 12 小時，並避免含酒精產品（漱口水、咳嗽糖漿、醋、刮鬍水）。", "pdf_pages": [1114]},
+    {"en": "Naltrexone and acamprosate are started only after withdrawal is over; benzodiazepines are first-line for alcohol withdrawal; give thiamine to prevent Wernicke encephalopathy.", "zh": "naltrexone 與 acamprosate 須戒斷結束後才開始；酒精戒斷首選苯二氮平；給 thiamine 預防 Wernicke 腦病變。", "pdf_pages": [1114]},
+    {"en": "Methadone is a full agonist, buprenorphine a partial agonist-antagonist, naltrexone an antagonist for opioid use disorder.", "zh": "鴉片類使用障礙：methadone 為完全促效劑，buprenorphine 為部分促效／拮抗劑，naltrexone 為拮抗劑。", "pdf_pages": [1114, 1115]},
+    {"en": "ADHD stimulants: last dose 6 hours before bedtime (14 hours for extended release); monitor BP, ECG, height and weight.", "zh": "ADHD 刺激劑：最後一劑於睡前至少 6 小時（長效 14 小時）；監測血壓、心電圖、身高體重。", "pdf_pages": [1115]},
+    {"en": "Donepezil slows the heart rate; galantamine can bronchoconstrict; rivastigmine with food; memantine is an NMDA antagonist for moderate to severe disease.", "zh": "donepezil 會減慢心率；galantamine 可致支氣管收縮；rivastigmine 隨餐；memantine 為 NMDA 拮抗劑，用於中重度。", "pdf_pages": [1115, 1116]}
+  ],
+  "mnemonics": [
+    {"en": "Lithium toxicity ladder: 1.5 = coarse tremor and lethargy; 2.0 = GI upset, slurred speech, tinnitus; above 2.0 = seizures and coma. 'Lithium needs Na and H2O to leave.'", "zh": "鋰中毒階梯：1.5＝粗顫與倦怠；2.0＝腸胃不適、言語不清、耳鳴；>2.0＝抽搐昏迷。記憶：鋰鹽需要鈉與水才排得出去。", "pdf_pages": [1110]},
+    {"en": "TCA anticholinergic effects: 'dry as a bone, blind as a bat, red as a beet (flushed), mad as a hatter, full as a flask (retention)'.", "zh": "TCA 抗膽鹼效應口訣：乾如骨（口乾）、盲如蝙蝠（視力模糊）、紅如甜菜（潮紅）、瘋如帽匠（混亂）、滿如燒瓶（尿滯留／便秘）。", "pdf_pages": [1107]},
+    {"en": "Antipsychotic EPS: 'Fast to slow' timing - dystonia (hours-days), akathisia, parkinsonism, then tardive dyskinesia (months-years).", "zh": "錐體外症狀出現時間由快到慢：肌張力不全（數小時至數天）→靜坐不能→類帕金森→遲發性運動障礙（數月至數年）。", "pdf_pages": [1113]},
+    {"en": "NMS = 'FEVER': Fever, Encephalopathy, Vitals unstable, Elevated enzymes (CPK), Rigidity.", "zh": "NMS 口訣 FEVER：發燒、腦病變、生命徵象不穩、酵素升高（CPK）、僵硬。", "pdf_pages": [1113, 1114]}
+  ],
+  "figures": [
+    {"pdf_page": 1107, "caption": {"en": "Box 69.1 and 69.2 list SSRI/SNRI/atypical and TCA drug names to recognize by generic name; Take Action box gives TCA overdose steps.", "zh": "Box 69.1、69.2 列出 SSRI／SNRI／非典型及 TCA 藥名，並有 TCA 過量處置步驟（Take Action）。"}},
+    {"pdf_page": 1109, "caption": {"en": "Box 69.4 foods containing tyramine and Fig. 69.1 showing how MAOIs let dietary tyramine reach the circulation and trigger norepinephrine release; Box 69.5 lists mood stabilizers.", "zh": "Box 69.4 高酪胺食物與圖 69.1：MAOI 使膳食酪胺進入循環並釋放正腎上腺素；Box 69.5 列出情緒穩定劑。"}},
+    {"pdf_page": 1111, "caption": {"en": "Box 69.6 benzodiazepine list and Clinical Judgment box on tapering alprazolam over 2-6 weeks.", "zh": "Box 69.6 苯二氮平藥名及 alprazolam 2–6 週減量之臨床判斷。"}},
+    {"pdf_page": 1113, "caption": {"en": "Box 69.9 groups antipsychotic side effects: anticholinergic, extrapyramidal, dystonias, akathisia, tardive dyskinesia.", "zh": "Box 69.9 將抗精神病藥副作用分為抗膽鹼、錐體外、肌張力不全、靜坐不能、遲發性運動障礙。"}},
+    {"pdf_page": 1114, "caption": {"en": "Box 69.10 disulfiram reaction and client education.", "zh": "Box 69.10 disulfiram 反應與衛教。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "A client taking lithium reports vomiting, severe diarrhea, tinnitus, blurred vision and coarse tremors. The serum lithium level is 2.0 mEq/L. What is the nurse's priority action?", "zh": "服用鋰鹽的個案出現嘔吐、嚴重腹瀉、耳鳴、視力模糊及粗顫，血中鋰濃度 2.0 mEq/L。護理師首要行動為何？"},
+      "options": [
+        {"en": "Give the next scheduled dose with food", "zh": "隨餐給予下一劑"},
+        {"en": "Withhold lithium and notify the provider", "zh": "暫停鋰鹽並通知醫師"},
+        {"en": "Encourage salt restriction", "zh": "鼓勵限制鹽分"},
+        {"en": "Administer a diuretic", "zh": "給予利尿劑"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "These are signs of moderate lithium toxicity. Hold the drug, notify the provider, monitor vital signs, LOC and cardiac status, and expect labs. Salt restriction and diuretics raise lithium levels and are contraindicated.", "zh": "此為中度鋰中毒徵象。應停藥並通知醫師，監測生命徵象、意識與心臟狀態，並備妥檢驗。限鹽與利尿劑會使鋰濃度升高，禁用。"},
+      "pdf_pages": [1110],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client starting phenelzine asks which foods to avoid. Which choices indicate the client needs further teaching? Select all that apply.", "zh": "開始服用 phenelzine 的個案詢問飲食禁忌。下列哪些選擇顯示需要再衛教？（複選）"},
+      "options": [
+        {"en": "Aged cheddar cheese", "zh": "陳年切達乳酪"},
+        {"en": "Fresh garden salad", "zh": "新鮮蔬菜沙拉"},
+        {"en": "Salami sandwich", "zh": "臘腸三明治"},
+        {"en": "Plain crackers", "zh": "原味餅乾"},
+        {"en": "Red wine with dinner", "zh": "晚餐配紅酒"}
+      ],
+      "answer": [0, 2, 4],
+      "rationale": {"en": "Aged cheese, cured sausages and red wine contain tyramine and can trigger hypertensive crisis with an MAOI. Salad and crackers are acceptable.", "zh": "陳年乳酪、醃製香腸與紅酒含酪胺，併用 MAOI 可引發高血壓危象。沙拉與餅乾可食用。"},
+      "pdf_pages": [1108, 1109],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client on an MAOI develops a severe occipital headache, neck stiffness, palpitations and BP 210/120 mm Hg. Which medication does the nurse anticipate?", "zh": "服用 MAOI 的個案出現嚴重後枕部頭痛、頸部僵硬、心悸，血壓 210/120 mm Hg。護理師預期使用哪種藥物？"},
+      "options": [
+        {"en": "Flumazenil", "zh": "Flumazenil"},
+        {"en": "Phentolamine", "zh": "Phentolamine"},
+        {"en": "Naloxone", "zh": "Naloxone"},
+        {"en": "Deferoxamine", "zh": "Deferoxamine"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "This is hypertensive crisis; IV phentolamine is the antidote. Flumazenil reverses benzodiazepines, naloxone reverses opioids.", "zh": "此為高血壓危象，解毒劑為靜脈 phentolamine。Flumazenil 拮抗苯二氮平，naloxone 拮抗鴉片類。"},
+      "pdf_pages": [1108],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client taking haloperidol develops high fever, severe muscle rigidity, diaphoresis, labile blood pressure and confusion. Which action is first?", "zh": "服用 haloperidol 的個案出現高熱、嚴重肌肉僵硬、冒汗、血壓不穩及意識混亂。首先應採取何行動？"},
+      "options": [
+        {"en": "Administer the next dose of haloperidol", "zh": "給予下一劑 haloperidol"},
+        {"en": "Withhold the medication and notify the provider", "zh": "暫停藥物並通知醫師"},
+        {"en": "Give benztropine only", "zh": "僅給 benztropine"},
+        {"en": "Encourage fluids and reassess in 4 hours", "zh": "鼓勵喝水並 4 小時後再評估"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "The picture is neuroleptic malignant syndrome, an emergency. Stop the antipsychotic, notify the provider, monitor vital signs, cool the client, and give IV fluids as prescribed.", "zh": "此為抗精神病藥惡性症候群，屬緊急狀況。應停用藥物並通知醫師，監測生命徵象、降溫，依醫囑靜脈輸液。"},
+      "pdf_pages": [1113, 1114],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with schizophrenia taking an antipsychotic is observed protruding the tongue, chewing and grimacing while watching television. The nurse identifies this as:", "zh": "服用抗精神病藥的思覺失調症個案看電視時出現吐舌、咀嚼、扮鬼臉。護理師判斷為："},
+      "options": [
+        {"en": "Parkinsonism", "zh": "類帕金森氏症"},
+        {"en": "Tardive dyskinesia", "zh": "遲發性運動障礙"},
+        {"en": "Hypertensive crisis", "zh": "高血壓危象"},
+        {"en": "Akathisia", "zh": "靜坐不能"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Tongue protrusion, chewing and involuntary facial movements describe tardive dyskinesia. Akathisia is restlessness; parkinsonism is tremor, rigidity, shuffling gait.", "zh": "吐舌、咀嚼及不自主臉部動作為遲發性運動障礙。靜坐不能是坐立不安；類帕金森為顫抖、僵硬、拖曳步態。"},
+      "pdf_pages": [1113, 1117],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which statements by a client prescribed amitriptyline indicate understanding of the teaching? Select all that apply.", "zh": "下列哪些個案陳述顯示對 amitriptyline 衛教理解正確？（複選）"},
+      "options": [
+        {"en": "I will take my whole dose at bedtime.", "zh": "我會把全日劑量在睡前服用。"},
+        {"en": "I will increase fluids and fiber to prevent constipation.", "zh": "我會多喝水並增加纖維預防便秘。"},
+        {"en": "I can drink a glass of wine to relax.", "zh": "我可以喝杯酒放鬆。"},
+        {"en": "I will rise slowly from lying to standing.", "zh": "我會從躺姿緩慢起身。"},
+        {"en": "I should feel the full effect within 2 days.", "zh": "我預期 2 天內就會有完整療效。"}
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {"en": "TCAs are sedating (bedtime dosing), cause constipation and orthostatic hypotension. Alcohol adds CNS depression, and full effect takes 2-4 weeks.", "zh": "TCA 有鎮靜作用（睡前服用）、造成便秘與姿勢性低血壓。酒精加重中樞抑制，且療效需 2–4 週。"},
+      "pdf_pages": [1107, 1108],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client has taken lorazepam daily for several months for anxiety and wants to stop it today because of drowsiness. What is the best nurse response?", "zh": "個案每日服用 lorazepam 治療焦慮已數月，因嗜睡想今天起停藥。護理師最佳回應為何？"},
+      "options": [
+        {"en": "Stopping now is safe if you drink more water.", "zh": "多喝水就可以安全地立刻停藥。"},
+        {"en": "Do not stop abruptly; the provider will taper it over several weeks to prevent seizures.", "zh": "不可驟停；醫師會在數週內逐步減量以防抽搐。"},
+        {"en": "Switch to alcohol at bedtime.", "zh": "改在睡前喝酒。"},
+        {"en": "Take double the dose on alternate days.", "zh": "隔天服用雙倍劑量。"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Abrupt benzodiazepine withdrawal can cause seizures; taper over 2-6 weeks under supervision. Alcohol adds CNS depression.", "zh": "苯二氮平驟停可致抽搐；應在監督下於 2–6 週內逐步減量。酒精會加重中樞抑制。"},
+      "pdf_pages": [1111],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a history of alcohol use disorder is prescribed disulfiram. Which instruction is most important?", "zh": "有酒精使用障礙病史的個案獲開立 disulfiram。哪項衛教最重要？"},
+      "options": [
+        {"en": "Small amounts of alcohol in mouthwash are safe.", "zh": "漱口水中的少量酒精是安全的。"},
+        {"en": "Avoid all alcohol-containing products, including cough syrups and aftershave.", "zh": "避免所有含酒精產品，包括咳嗽糖漿與刮鬍水。"},
+        {"en": "Begin the drug while still intoxicated.", "zh": "仍在酒醉時即可開始用藥。"},
+        {"en": "Effects stop immediately when the drug is stopped.", "zh": "停藥後效果立即消失。"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Any alcohol, including hidden sources, can cause flushing, throbbing headache, vomiting, hypotension and tachycardia. Abstain 12 hours before starting; effects may persist several days after discontinuation.", "zh": "任何酒精（含隱藏來源）皆可引發潮紅、搏動性頭痛、嘔吐、低血壓與心搏過速。開始前須戒酒 12 小時；停藥後效果可持續數天。"},
+      "pdf_pages": [1114],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Psychiatric & Mental Health Medications Practice Questions for NCLEX (GoodNurse)", "url": "https://goodnurse.com/free-nclex-practice-questions/psych-medications-nclex-practice-quiz", "note": {"en": "Free NCLEX-style psychiatric medication practice questions.", "zh": "免費 NCLEX 風格精神科藥物練習題。"}},
+    {"title": "Bipolar Medications Practice Questions with Answers and NCLEX Review (Simple Nursing)", "url": "https://simplenursing.com/bipolar-medications-nclex-practice-questions-review/", "note": {"en": "Free practice questions on lithium and mood stabilizers with rationales.", "zh": "鋰鹽與情緒穩定劑免費練習題與解析。"}},
+    {"title": "Psychotropic & Related Meds Study Quiz (NCLEX-Style)", "url": "https://studyhubmatt.neocities.org/PharmQuiz.html", "note": {"en": "Self-scored 50-item quiz on psychotropic drugs (verify content against a current reference).", "zh": "50 題自評式精神科藥物測驗（內容請對照最新參考資料）。"}},
+    {"title": "NCLEX Psychopharmacology Flashcards (Brainscape)", "url": "https://www.brainscape.com/flashcards/9701489/packs/17089416", "note": {"en": "Flashcard deck covering lithium, MAOI diet and other psychotropic drugs; some items may be outdated.", "zh": "涵蓋鋰鹽、MAOI 飲食等的閃卡；部分內容可能過時。"}}
+  ]
+}

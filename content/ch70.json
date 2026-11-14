@@ -1,0 +1,320 @@
+{
+  "number": 70,
+  "title": {"en": "Complex Care", "zh": "複雜照護"},
+  "overview": {
+    "en": "This broad chapter covers high-acuity nursing skills and emergencies: IV therapy and central lines, parenteral nutrition, blood transfusion, GI/airway/chest tubes, burns, oncologic and endocrine emergencies, respiratory and cardiovascular crises, hemodynamic monitoring, neurological injury, sedation, anaphylaxis, shock and sepsis. NCLEX prioritizes airway, perfusion, early recognition of complications, and knowing when to stop an infusion or call the provider.",
+    "zh": "本章涵蓋高急性度照護技能與急症：靜脈治療與中心靜脈導管、全靜脈營養、輸血、胃腸／氣道／胸管、燒傷、腫瘤與內分泌急症、呼吸與心血管危象、血行動力學監測、神經損傷、鎮靜、過敏性休克、休克與敗血症。NCLEX 重視呼吸道、灌流、及早辨識併發症，以及何時停止輸注並通知醫師。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "IV Therapy, Devices and Central Lines", "zh": "靜脈輸液、裝置與中心靜脈導管"},
+      "points": [
+        {"en": "Isotonic fluids (NS, LR) expand extracellular volume; hypotonic fluids move water into cells (give slowly); hypertonic fluids pull water out of cells; colloids pull fluid into the vascular space (second line). LR is avoided in kidney injury (contains potassium) and caution in severe liver disease.", "zh": "等張液（NS、LR）擴增細胞外液；低張液使水進入細胞（需緩慢）；高張液將水拉出細胞；膠體液將水拉入血管內（第二線）。LR 含鉀，腎損傷者避免，嚴重肝病慎用。"},
+        {"en": "Gauge: smaller number = larger lumen. 16-18 for rapid fluids, blood, surgery; 20-22 for lipids; 22-24 standard; 24-26 fragile veins. Macrodrip 10-20 gtt/mL; microdrip 60 gtt/mL for slow rates (<50 mL/hr) or potent drugs.", "zh": "管徑：號數越小管腔越大。16–18 G 用於快速輸液、輸血、手術；20–22 G 用於脂肪乳劑；22–24 G 為一般；24–26 G 用於脆弱血管。大滴管 10–20 gtt/mL；微滴管 60 gtt/mL 用於慢速（<50 mL/hr）或強效藥。"},
+        {"en": "Site and care: use forearm veins, start distally, avoid legs in adults, edematous, paralyzed, mastectomy-side or dialysis-fistula arms. Change site every 72-96 hours, tubing every 96 hours, hang no solution longer than 24 hours; label with date and time, not marker on plastic bags.", "zh": "部位與照護：優先前臂靜脈、由遠端開始；成人避免下肢、水腫、癱瘓、乳房切除側、透析瘻管手臂。每 72–96 小時更換部位，管路每 96 小時更換，溶液掛置不超過 24 小時；貼標籤註明日期時間，勿在塑膠袋上直接用麥克筆書寫。"},
+        {"en": "Complications: air embolism (clamp, left side-lying Trendelenburg, notify); circulatory overload (slow infusion, raise head, oxygen, notify); infiltration (stop, remove, elevate, compress; do not rub); phlebitis (remove, warm compress, restart in other arm); hematoma; infection; catheter embolism (tourniquet proximal).", "zh": "併發症：空氣栓塞（夾管、左側臥頭低、通報）；循環超載（減慢輸注、抬高床頭、給氧、通報）；滲漏（停止、拔除、抬高、冷／熱敷，勿搓揉）；靜脈炎（拔除、溫濕敷、改對側手臂）；血腫；感染；導管斷裂栓塞（近端綁止血帶）。"},
+        {"en": "Central lines (PICC, tunneled Hickman/Broviac/Groshong, implanted port with Huber needle) allow hyperosmolar solutions and long-term therapy; confirm position by x-ray. For tubing changes use Trendelenburg and Valsalva to prevent air embolism.", "zh": "中心靜脈導管（PICC、隧道式 Hickman／Broviac／Groshong、植入式port須用 Huber 針）可輸注高滲液與長期治療；以 X 光確認位置。換管時採頭低位並做 Valsalva 動作以防空氣栓塞。"},
+        {"en": "Epidural catheter: assess VS, LOC, lower-extremity motor/sensory function; if aspiration returns more than 1 mL clear fluid or blood do not inject and notify the anesthesia provider. PCA is locked with a lockout interval and verified by two RNs.", "zh": "硬膜外導管：評估生命徵象、意識及下肢運動感覺；若回抽超過 1 mL 澄清液或血液，勿注藥並通知麻醉人員。PCA 上鎖、設鎖定間隔並由兩位 RN 核對。"}
+      ],
+      "pdf_pages": [1124, 1125, 1126, 1127, 1128, 1129, 1130, 1131, 1132, 1133]
+    },
+    {
+      "heading": {"en": "Parenteral Nutrition (PN)", "zh": "靜脈營養（PN）"},
+      "points": [
+        {"en": "PN supplies dextrose, amino acids, lipids, vitamins, minerals, electrolytes; hypertonic. PPN goes through peripheral line or midline; TPN needs a central vein. Use only when enteral feeding is not possible.", "zh": "PN 提供葡萄糖、胺基酸、脂肪、維生素、礦物質、電解質，屬高張液。PPN 經周邊或中線導管；TPN 須經中心靜脈。僅在無法腸道營養時使用。"},
+        {"en": "Lipids are isotonic, contain egg yolk (check egg allergy), need a 1.2-micron filter, start at 1 mL/min, check VS every 10 minutes for 30 minutes; stop for chest/back pain, dyspnea, fever, flushing. Do not use if emulsion has separated.", "zh": "脂肪乳劑為等張、含蛋黃（確認蛋過敏）、需 1.2 微米濾器，起始 1 mL/min，前 30 分鐘每 10 分鐘測生命徵象；若胸背痛、呼吸困難、發燒、潮紅則停止。乳劑分層則不可使用。"},
+        {"en": "If the PN bag runs out, infuse D10W at the same rate to prevent hypoglycemia. Taper gradually over 1-2 hours when stopping; never stop abruptly. Do not give blood or IV drugs through the PN line.", "zh": "PN 袋用完時，以相同速率輸注 10% 葡萄糖預防低血糖。停止時 1–2 小時逐步減量，不可驟停。勿由 PN 管路輸血或給藥。"},
+        {"en": "Monitor glucose about every 4 hours (hyperglycemia > 200 mg/dL), daily weight, I&O, electrolytes, liver and renal function. Refeeding syndrome in malnourished clients: low K, Mg, phosphate. Solutions refrigerated, used within 24 hours; discard if cloudy.", "zh": "約每 4 小時監測血糖（高血糖 > 200 mg/dL）、每日體重、出入量、電解質、肝腎功能。營養不良者留意再餵食症候群：低鉀、低鎂、低磷。溶液冷藏、24 小時內使用，混濁則丟棄。"},
+        {"en": "Complications: infection (sterile technique, culture catheter tip), air embolism, pneumothorax (confirm placement by x-ray before starting), hypervolemia, hyper/hypoglycemia. Home teaching: report weight gain > 3 lb/week, arm swelling, catheter leaking.", "zh": "併發症：感染（無菌技術、導管尖端培養）、空氣栓塞、氣胸（開始前以 X 光確認位置）、容積過多、高／低血糖。居家衛教：每週體重增加 > 3 磅、手臂腫脹、導管滲漏須通報。"}
+      ],
+      "pdf_pages": [1133, 1134, 1135, 1136, 1137]
+    },
+    {
+      "heading": {"en": "Blood Products and Transfusion Reactions", "zh": "血液製品與輸血反應"},
+      "points": [
+        {"en": "PRBCs (1 unit raises Hgb about 1 g/dL, Hct 3%, infuse 2-4 hours); platelets (give rapidly 15-30 min, +5000-10,000/mm3 per unit); FFP (clotting factors, within 2 hours of thaw); cryoprecipitate (factor VIII, fibrinogen); granulocytes for refractory infection.", "zh": "濃縮紅血球（1 單位約升 Hgb 1 g/dL、Hct 3%，輸注 2–4 小時）；血小板（15–30 分鐘快速輸注，每單位升 5000–10,000/mm3）；新鮮冷凍血漿（凝血因子，解凍後 2 小時內）；冷凍沉澱品（第 VIII 因子、纖維蛋白原）；顆粒球用於難治感染。"},
+        {"en": "Compatibility: O negative = universal RBC donor, AB positive = universal recipient. Two licensed nurses verify the client with two identifiers, order, blood tag and ABO/Rh at the bedside. Use 18-19 G, normal saline only, blood tubing with filter, no meds added.", "zh": "相容性：O 型陰性為萬能供血者，AB 型陽性為萬能受血者。兩位合格護理師於床邊以兩種辨識資料核對個案、醫囑、血袋標籤及 ABO／Rh。使用 18–19 G、僅用生理食鹽水、含濾器血液管路，不加藥。"},
+        {"en": "Start slowly and stay with the client for the first 15 minutes (most critical); check VS before, at 15 minutes, then every 30-60 minutes. Start within 20-30 minutes of blood bank release; each unit within 4 hours. Fever before transfusion: hold and notify provider.", "zh": "緩慢開始並於前 15 分鐘陪伴個案（最關鍵）；輸血前、15 分鐘、之後每 30–60 分鐘測生命徵象。血庫領出後 20–30 分鐘內開始；每單位 4 小時內輸完。輸血前發燒：暫緩並通知醫師。"},
+        {"en": "Suspected reaction (chills, back pain, hives, dyspnea, hypotension): STOP the transfusion, change tubing down to IV site, keep line open with saline, check VS, notify provider and blood bank, stay with client, collect urine, return bag and tubing to blood bank.", "zh": "疑似反應（寒顫、背痛、蕁麻疹、呼吸困難、低血壓）：立即停止輸血，更換自針頭以下管路並以生理食鹽水維持通路，測生命徵象，通知醫師與血庫，陪伴個案，留尿檢體，血袋與管路送回血庫。"},
+        {"en": "Other complications: circulatory overload (slow, upright, O2, diuretic); septicemia (cultures, antibiotics); hypocalcemia/citrate toxicity with massive transfusion; hyperkalemia with old blood; iron overload (deferoxamine); hepatitis C most common transmitted disease.", "zh": "其他併發症：循環超載（減速、坐起、給氧、利尿劑）；敗血症（培養、抗生素）；大量輸血之低血鈣／檸檬酸中毒；舊血之高血鉀；鐵過載（deferoxamine）；最常傳播之疾病為 C 型肝炎。"}
+      ],
+      "pdf_pages": [1137, 1138, 1139, 1140, 1141, 1142]
+    },
+    {
+      "heading": {"en": "Gastrointestinal Tubes and Tube Feeding", "zh": "胃腸管路與管灌飲食"},
+      "points": [
+        {"en": "NG tubes decompress, feed, medicate, or lavage. Levin is single lumen; Salem sump is double lumen with an air vent that must not be clamped and stays above stomach level. Measure NEX (nose-earlobe-xiphoid); confirm by x-ray before first use.", "zh": "鼻胃管用於減壓、灌食、給藥或灌洗。Levin 為單腔；Salem sump 為雙腔，空氣通氣孔不可夾閉並維持高於胃的位置。以 NEX（鼻–耳垂–劍突）測量長度；首次使用前以 X 光確認。"},
+        {"en": "Before every feeding or medication check placement (aspirate, pH of 3.5 or lower) and residual; hold feeding if residual > 100 mL (agency policy) or no bowel sounds. High-Fowler's for feeding; semi-Fowler's at all times for continuous feeds; flush 30-50 mL.", "zh": "每次灌食或給藥前確認位置（抽吸、pH 3.5 以下）與殘留量；殘留 > 100 mL（依院規）或無腸蠕動音則暫停。灌食採高坐臥位；持續灌食全程至少半坐臥；沖洗 30–50 mL。"},
+        {"en": "Complications: aspiration (verify placement, HOB up), diarrhea (room-temperature, slow, fiber formula), clogged tube (liquid meds, flush), vomiting (stop feeding, side-lying, suction).", "zh": "併發症：吸入（確認位置、抬高床頭）、腹瀉（室溫、慢速、含纖維配方）、管路阻塞（液態藥物、沖洗）、嘔吐（停灌、側臥、抽吸）。"},
+        {"en": "Intestinal tubes (Cantor single lumen, Miller-Abbott double lumen) have a tungsten bag; position on the right side, do not tape until final position. Esophageal balloon tubes (Sengstaken-Blakemore, Minnesota) tamponade varices: keep scissors at bedside and cut tubes if respiratory distress, watch for esophageal rupture.", "zh": "腸管（單腔 Cantor、雙腔 Miller-Abbott）末端含鎢袋；右側臥以利通過幽門，到達最終位置前不固定膠帶。食道氣囊管（Sengstaken-Blakemore、Minnesota）壓迫靜脈曲張：床邊備剪刀，呼吸窘迫時剪斷管路，留意食道破裂。"},
+        {"en": "Lavage tubes (Lavacuator, Ewald) remove toxic substances from the stomach. Gastrostomy/jejunostomy sites: clean skin, dressing changes, check for leakage.", "zh": "灌洗管（Lavacuator、Ewald）用於移除胃內毒物。胃造口／空腸造口：清潔皮膚、更換敷料、檢查滲漏。"}
+      ],
+      "pdf_pages": [1142, 1143, 1144, 1145, 1146]
+    },
+    {
+      "heading": {"en": "Endotracheal and Tracheostomy Tubes", "zh": "氣管內管與氣切管"},
+      "points": [
+        {"en": "Confirm ET placement with end-tidal CO2 detector, bilateral breath sounds and gastric auscultation, then chest x-ray (tip 1-2 cm above carina). Absent left breath sounds suggest right main-stem intubation. Cuff pressure should not exceed 20 mm Hg per text (minimal leak or occlusive technique).", "zh": "以呼氣末 CO2 偵測、雙側呼吸音與胃部聽診確認氣管內管位置，再以 X 光確認（尖端距隆突 1–2 公分）。左側呼吸音消失提示管入右主支氣管。依本書氣囊壓不超過 20 mm Hg（最小漏氣或封閉技術）。"},
+        {"en": "Oral tube: move to opposite side of mouth daily with two providers; secure, suction only when needed; keep Ambu bag at bedside. Extubation: hyperoxygenate and suction, deflate cuff, remove at peak inspiration, assess voice and stridor (laryngeal edema).", "zh": "經口管：每日由兩人換至口腔另一側；固定、必要時才抽吸；床邊備 Ambu 袋。拔管：給高濃度氧並抽吸，放氣囊、於吸氣高峰拔除，評估發聲與喘鳴（喉頭水腫）。"},
+        {"en": "Tracheostomy: keep obturator, spare same-size tube and Ambu bag at bedside; humidified oxygen; cuff inflated for meals and 1 hour after if eating; never cap a tube until cuff deflated and inner cannula removed; cuffed fenestrated tube is not used for weaning.", "zh": "氣切：床邊備閉塞器、同尺寸備用管及 Ambu 袋；給予加濕氧；進食時及餐後 1 小時氣囊充氣；氣囊未放氣且內管未移除前不可蓋上塞子；有氣囊開窗管不用於脫離。"},
+        {"en": "Complications: tracheomalacia, tracheal stenosis, tracheoesophageal fistula, tracheoinnominate artery fistula (pulsating tube/bleeding: direct pressure, emergency), obstruction, dislodgement within 72 hours of surgery (ventilate with Ambu and call rapid response).", "zh": "併發症：氣管軟化、氣管狹窄、氣管食道瘻管、氣管無名動脈瘻管（管子搏動／出血：直接加壓、緊急處理）、阻塞、術後 72 小時內脫出（以 Ambu 通氣並呼叫快速反應團隊）。"}
+      ],
+      "pdf_pages": [1146, 1147, 1148, 1149]
+    },
+    {
+      "heading": {"en": "Chest Tube Drainage Systems", "zh": "胸管引流系統"},
+      "points": [
+        {"en": "Three chambers: collection (notify if > 70-100 mL/hr or bright red/sudden increase), water seal (fluctuates with breathing; continuous bubbling = air leak), suction control (gentle bubbling expected in wet system; dry system uses orange float).", "zh": "三個腔室：收集腔（> 70–100 mL/hr 或鮮紅色／驟增須通報）、水封腔（隨呼吸擺動；持續冒泡＝漏氣）、抽吸控制腔（濕式系統應有輕柔氣泡；乾式用橘色浮標）。"},
+        {"en": "Keep system below chest level, tubing free of kinks and dependent loops, occlusive dressing, all connections secure. Do not strip or milk tubes without order; never clamp without a prescription.", "zh": "系統保持低於胸部、管路無扭曲與下垂圈、密閉敷料、接頭牢固。無醫囑不可擠壓管路；無處方不可夾管。"},
+        {"en": "Absent fluctuation means kinked/obstructed tube or lung re-expansion. If system cracks, put tube end in sterile water and replace. If tube pulled out: pinch skin opening, apply an occlusive sterile dressing secured with overlapping tape, and call the provider immediately. Keep clamp and sterile occlusive dressing at bedside.", "zh": "水封腔不再擺動表示管路扭曲／阻塞或肺已復張。系統破裂時將管端置入無菌水再更換系統。若管路被拉出：捏緊皮膚開口、貼密閉無菌敷料並以重疊膠帶固定，立即通知醫師。床邊備夾子與無菌密閉敷料。"}
+      ],
+      "pdf_pages": [1149, 1150, 1151, 1152, 1153]
+    },
+    {
+      "heading": {"en": "Burn Injuries", "zh": "燒傷"},
+      "points": [
+        {"en": "Major burn: 25% or more TBSA in adults (10% in children). Rule of nines estimates extent. Depth: superficial (red, painful, no blisters), superficial partial (blisters, wet, painful), deep partial (red/dry/white areas), full thickness (leathery, painless, eschar).", "zh": "重度燒傷：成人 TBSA 25% 以上（兒童 10%）。以九分法估計範圍。深度：淺層（紅、痛、無水泡）、淺部分層（水泡、濕、痛）、深部分層（紅／乾／白色區）、全層（皮革樣、無痛、焦痂）。"},
+        {"en": "Airway first: inhalation injury signs include facial burns, singed nasal hair, hoarseness, sooty sputum, stridor. Give 100% oxygen by nonrebreather; carbon monoxide has 200 times the affinity for hemoglobin; continue until carboxyhemoglobin < 15%.", "zh": "先顧呼吸道：吸入性損傷徵象包括臉部燒傷、鼻毛燒焦、聲音嘶啞、含煙灰痰、喘鳴。以非再吸入面罩給 100% 氧；一氧化碳與血紅素親和力為氧的 200 倍；持續至碳氧血紅素 < 15%。"},
+        {"en": "Emergent phase: fluid shift with hypovolemia, hyponatremia, hyperkalemia, hemoconcentration. Parkland formula 4 mL x kg x %TBSA (half in first 8 hours, from time of injury). Titrate to urine output 30-50 mL/hr, the best indicator of perfusion. IV opioids, not IM/oral; NPO, NG tube, tetanus prophylaxis.", "zh": "急性期：液體移位造成低血容、低鈉、高鉀、血液濃縮。Parkland 公式 4 mL x 公斤 x %TBSA（前 8 小時給一半，自受傷時間起算）。依尿量 30–50 mL/hr 調整，為最佳灌流指標。使用靜脈鴉片類止痛，非肌肉／口服；禁食、置鼻胃管、破傷風預防。"},
+        {"en": "Circumferential burns: elevate extremities, check pulses and capillary refill; escharotomy (bedside) or fasciotomy (OR) for compartment syndrome. Diuretics generally avoided. Protective isolation, stress ulcer prophylaxis, expect 15-20 lb weight gain in 72 hours.", "zh": "環狀燒傷：抬高肢體、檢查脈搏與微血管充填；因腔室症候群行焦痂切開術（床邊）或筋膜切開術（開刀房）。一般避免利尿劑。保護性隔離、預防壓力性潰瘍；72 小時內預期增重 15–20 磅。"},
+        {"en": "Acute phase: wound care, debridement, hydrotherapy under 30 minutes, high protein/calorie diet (> 5000 calories for major burns), grafts. Autograft immobilized 3-7 days, watch for bleeding beneath graft; donor site heals in 7-14 days. Splinting and pressure garments 23 hours/day for 18-24 months in rehabilitation.", "zh": "急性後期：傷口護理、清創、水療 30 分鐘內、高蛋白高熱量飲食（重度燒傷 > 5000 大卡）、植皮。自體植皮固定 3–7 天，注意皮下出血；供皮區 7–14 天癒合。復健期夾板與壓力衣每日穿 23 小時，持續 18–24 個月。"}
+      ],
+      "pdf_pages": [1153, 1154, 1155, 1156, 1157, 1158, 1159, 1160]
+    },
+    {
+      "heading": {"en": "Oncologic Emergencies and DKA/HHS", "zh": "腫瘤急症與 DKA／HHS"},
+      "points": [
+        {"en": "Sepsis/DIC in cancer: strict asepsis, IV antibiotics, anticoagulants early, cryoprecipitate when bleeding dominates. SIADH: water retention, Na 115-120 mild, near 110 seizures; fluid restriction and ADH antagonist.", "zh": "癌症敗血症／DIC：嚴格無菌、靜脈抗生素、早期抗凝劑、出血為主時給冷凍沉澱品。SIADH：水滯留，鈉 115–120 為輕度，近 110 會抽搐；限水並給 ADH 拮抗劑。"},
+        {"en": "Spinal cord compression: back pain precedes deficits; high-dose corticosteroids, radiation. Hypercalcemia: fatigue, constipation, polyuria, ECG change; fluids, calcium-lowering drugs, mobility. SVC syndrome: facial/neck edema, collar tightness (Stokes' sign), semi-Fowler's, steroids, radiation, stent.", "zh": "脊髓壓迫：背痛先於神經缺損；大劑量皮質類固醇、放射治療。高血鈣：疲倦、便秘、多尿、心電圖變化；輸液、降鈣藥物、活動。上腔靜脈症候群：臉頸水腫、領口變緊（Stokes 徵象）、半坐臥、類固醇、放療、支架。"},
+        {"en": "Tumor lysis syndrome: hyperkalemia, hyperphosphatemia, hypocalcemia, hyperuricemia; hydration, allopurinol, low K/phosphorus diet, insulin and glucose, dialysis if refractory.", "zh": "腫瘤溶解症候群：高血鉀、高血磷、低血鈣、高尿酸；水分補充、allopurinol、低鉀低磷飲食、胰島素加葡萄糖、無效時透析。"},
+        {"en": "DKA: type 1, rapid onset, glucose > 300, pH < 7.35, HCO3 < 15, ketones, Kussmaul respirations. Treat with isotonic fluids, IV regular insulin on a pump, potassium replacement once urine output adequate; add dextrose when glucose reaches 250-300 mg/dL. Watch for cerebral edema and hypokalemia.", "zh": "DKA：第 1 型、急性發作、血糖 > 300、pH < 7.35、HCO3 < 15、酮體、Kussmaul 呼吸。處置：等張輸液、幫浦靜脈速效胰島素、尿量足夠後補鉀；血糖降至 250–300 mg/dL 時加入葡萄糖。留意腦水腫與低血鉀。"},
+        {"en": "HHS: type 2, gradual, glucose > 800, osmolality > 350, no ketosis, pH > 7.4. Rehydrate carefully (older adults, heart failure); insulin less critical.", "zh": "HHS：第 2 型、漸進發作、血糖 > 800、滲透壓 > 350、無酮症、pH > 7.4。小心補液（老年人、心衰竭）；胰島素重要性較低。"}
+      ],
+      "pdf_pages": [1160, 1161, 1162, 1163]
+    },
+    {
+      "heading": {"en": "GI Bleeding, Varices and Respiratory Support", "zh": "消化道出血、食道靜脈曲張與呼吸支持"},
+      "points": [
+        {"en": "Esophageal varices: portal hypertension; hematemesis, melena, ascites, shock signs. NPO, IV fluids, blood, vasoconstrictors, banding/sclerotherapy, balloon tamponade, TIPS. Upper GI bleed: PPIs/H2 blockers; Hgb/Hct may lag 24-72 hours.", "zh": "食道靜脈曲張：門脈高壓；吐血、黑便、腹水、休克徵象。禁食、輸液、輸血、血管收縮藥、結紮／硬化治療、氣囊壓迫、TIPS。上消化道出血：PPI／H2 阻斷劑；Hgb／Hct 可能延遲 24–72 小時下降。"},
+        {"en": "Chest physiotherapy: contraindicated with unstable VS, increased ICP, rib fractures, chest incisions; do before meals or 2-3 hours after; stop if pain or cyanosis.", "zh": "胸腔物理治療：生命徵象不穩、顱內壓升高、肋骨骨折、胸部傷口為禁忌；餐前或餐後 2–3 小時進行；疼痛或發紺即停止。"},
+        {"en": "Oxygen devices: nasal cannula 1-6 L/min (24-44%); simple mask 5-8 L/min (40-60%); Venturi precise FiO2; partial rebreather 6-15 L/min (70-90%); nonrebreather 60-100% with bag two-thirds full; COPD with chronic hypercapnia often needs low-flow 1-2 L/min.", "zh": "氧療裝置：鼻導管 1–6 L/min（24–44%）；簡單面罩 5–8 L/min（40–60%）；Venturi 面罩可精準控制 FiO2；部分再吸入面罩 6–15 L/min（70–90%）；非再吸入面罩 60–100% 且儲氣袋保持三分之二滿；慢性高碳酸血症之 COPD 常需 1–2 L/min 低流量。"},
+        {"en": "CPAP gives continuous pressure; BiPAP gives IPAP and EPAP. Ventilator modes: control, assist-control (risk of respiratory alkalosis), SIMV (weaning). Assess the client first, then the ventilator; never turn alarms off; high-pressure alarm = secretions, kinks, biting, cough; low-pressure = disconnection or leak.", "zh": "CPAP 提供持續正壓；BiPAP 提供吸氣與呼氣壓。呼吸器模式：控制、輔助控制（可能呼吸性鹼中毒）、SIMV（脫離）。先評估個案再看呼吸器；不可關閉警報；高壓警報＝分泌物、管路扭曲、咬管、咳嗽；低壓警報＝接頭脫落或漏氣。"},
+        {"en": "Ventilator complications: hypotension, pneumothorax, stress ulcers, infection, bradycardia. Weaning methods: SIMV rate reduction, T-piece trials, pressure support. Alarm fatigue is the leading contributor to alarm-related sentinel events.", "zh": "呼吸器併發症：低血壓、氣胸、壓力性潰瘍、感染、心搏過緩。脫離方法：降低 SIMV 次數、T 型管試驗、壓力支持。警報疲勞是警報相關警訊事件最常見的促成因素。"}
+      ],
+      "pdf_pages": [1164, 1165, 1166, 1167, 1168, 1169, 1170]
+    },
+    {
+      "heading": {"en": "Chest Trauma, Respiratory Failure and Cardiovascular Crises", "zh": "胸部創傷、呼吸衰竭與心血管危象"},
+      "points": [
+        {"en": "Rib fracture: pain, shallow breathing, splinting; Fowler's, analgesia. Flail chest: paradoxical movement, hypoxia; oxygen, pain control, possible ventilation with PEEP. Pulmonary contusion: risk of ARDS.", "zh": "肋骨骨折：疼痛、淺呼吸、護胸；半坐臥、止痛。連枷胸：反常呼吸、低氧；給氧、止痛、必要時呼吸器加 PEEP。肺挫傷：有 ARDS 風險。"},
+        {"en": "Pneumothorax: absent breath sounds, tracheal deviation to unaffected side (tension); open wound gets a nonporous dressing taped on three sides; chest tube. Respiratory failure: PaO2 < 60, PaCO2 > 50 with acidemia. ARDS: earliest sign is increased respiratory rate; refractory hypoxemia, bilateral infiltrates; PEEP.", "zh": "氣胸：呼吸音消失、氣管偏向健側（張力性）；開放性傷口用不透氣敷料三邊固定；置胸管。呼吸衰竭：PaO2 < 60、PaCO2 > 50 並酸血症。ARDS：最早徵象為呼吸速率增加；難治性低氧、雙側浸潤；使用 PEEP。"},
+        {"en": "Cardiogenic shock: SBP < 90, UO < 30 mL/hr, cold clammy skin, pulmonary congestion. Treat with oxygen, vasopressors and inotropes, morphine, diuretics, intra-aortic balloon pump, reperfusion. Normal CVP 3-8, PAWP 4-12, MAP 70-105 mm Hg.", "zh": "心因性休克：收縮壓 < 90、尿量 < 30 mL/hr、冰冷濕黏皮膚、肺充血。處置：給氧、升壓劑與強心劑、morphine、利尿劑、主動脈內氣球幫浦、再灌流。正常值：CVP 3–8、PAWP 4–12、MAP 70–105 mm Hg。"},
+        {"en": "Pulseless rhythms: VF/VT shockable (shock, epinephrine 1 mg every 3-5 min, amiodarone 300 mg then 150 mg); asystole/PEA not shockable (CPR, epinephrine); look for reversible causes (5 Hs, 5 Ts). Post-arrest: SpO2 > 94%, avoid hyperventilation, 12-lead ECG, targeted temperature management.", "zh": "無脈搏心律：VF／VT 可電擊（電擊、epinephrine 1 mg 每 3–5 分鐘、amiodarone 300 mg 後 150 mg）；心搏停止／PEA 不可電擊（CPR、epinephrine）；找可逆原因（5H、5T）。心跳恢復後：SpO2 > 94%、避免過度換氣、12 導程心電圖、目標體溫管理。"},
+        {"en": "Cardiac tamponade: Beck's signs (JVD with clear lungs, muffled heart sounds, hypotension), pulsus paradoxus, narrowing pulse pressure; pericardiocentesis. After CABG: report chest tube drainage > 100-150 mL/hr, sudden cessation of drainage suggests tamponade; keep K 4-5 mEq/L; rewarm slowly. Urosepsis: culture before antibiotics. CRRT without machine needs MAP > 60.", "zh": "心包填塞：Beck 三徵（頸靜脈怒張但肺清晰、心音遙遠、低血壓）、奇脈、脈壓變窄；心包穿刺。CABG 後：胸管引流 > 100–150 mL/hr 須通報，引流突然停止提示填塞；維持鉀 4–5 mEq/L；緩慢復溫。泌尿道敗血症：先培養再給抗生素。無需透析機的 CRRT 需 MAP > 60。"}
+      ],
+      "pdf_pages": [1170, 1171, 1172, 1173, 1174, 1175, 1176]
+    },
+    {
+      "heading": {"en": "Neurological Emergencies and Sedation", "zh": "神經急症與鎮靜"},
+      "points": [
+        {"en": "Head injury: epidural hematoma is arterial, rapid, with lucid interval; subdural venous and slower. CSF leak: halo sign, glucose-positive; do not suction or pack nose or ears, no nose blowing. GCS < 8: consider intubation.", "zh": "頭部外傷：硬腦膜外血腫為動脈性、快速、有清醒期；硬腦膜下為靜脈性、較慢。腦脊髓液漏：暈環徵象、葡萄糖陽性；不可抽吸或填塞鼻耳，禁擤鼻。GCS < 8：考慮插管。"},
+        {"en": "Increased ICP: earliest sign is decreased LOC; late signs Cushing's triad (rising SBP, widened pulse pressure, bradycardia), pupil changes, posturing. HOB 30-40 degrees, neutral neck, avoid Trendelenburg, Valsalva, hip flexion; PaCO2 30-35; avoid opioids; mannitol, controlled fluids.", "zh": "顱內壓升高：最早徵象為意識降低；晚期為 Cushing 三徵（收縮壓上升、脈壓變寬、心搏過緩）、瞳孔變化、異常姿勢。床頭抬高 30–40 度、頸部中線、避免頭低位、Valsalva、髖部屈曲；PaCO2 30–35；避免鴉片類；mannitol、控制輸液。"},
+        {"en": "Craniotomy positioning depends on surgery: supratentorial HOB 30 degrees; posterior fossa flat or on side; bone-flap removal turn to non-operative side. Drain output over 30-50 mL per shift: notify.", "zh": "開顱術後擺位依手術而異：幕上手術床頭 30 度；後顱窩手術平躺或側臥；去骨瓣減壓轉向非手術側。引流量超過每班 30–50 mL 須通報。"},
+        {"en": "Spinal cord injury: immobilize on backboard with neutral head, logroll. Injury above C4 compromises breathing. Neurogenic shock: hypotension and bradycardia (above T6). Spinal shock: flaccid paralysis, loss of reflexes. Halo vest: never lift by the frame, keep wrench at bedside.", "zh": "脊髓損傷：以脊板固定、頭頸中立、滾木式翻身。C4 以上損傷影響呼吸。神經性休克：低血壓與心搏過緩（T6 以上）。脊髓休克：弛緩性癱瘓、反射消失。Halo 背架：不可抓框架抬舉、床邊備扳手。"},
+        {"en": "Autonomic dysreflexia (injury at or above T6): severe headache, severe hypertension, bradycardia, flushing above lesion, sweating. Sit client upright, loosen clothing, check bladder (catheter) and bowel, remove stimulus, give antihypertensive; neurological emergency.", "zh": "自律神經反射異常（T6 或以上損傷）：劇烈頭痛、嚴重高血壓、心搏過緩、損傷平面以上潮紅冒汗。讓個案坐起、鬆開衣物、檢查膀胱（導尿）與直腸、移除刺激、給降壓藥；屬神經急症。"},
+        {"en": "Sedation: use RASS to titrate; propofol is a lipid, change tubing every 6-12 hours, watch propofol infusion syndrome; dexmedetomidine for short-term sedation. Treat the cause of agitation (pain first); haloperidol over benzodiazepines for agitation/delirium; CAM-ICU for delirium.", "zh": "鎮靜：以 RASS 調整；propofol 為脂肪乳劑，管路每 6–12 小時更換，留意丙泊酚輸注症候群；dexmedetomidine 用於短期鎮靜。先處理躁動原因（先排除疼痛）；躁動／譫妄優先用 haloperidol 而非苯二氮平；以 CAM-ICU 評估譫妄。"}
+      ],
+      "pdf_pages": [1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186]
+    },
+    {
+      "heading": {"en": "Anaphylaxis, Shock, Sepsis, SIRS and MODS", "zh": "過敏性休克、休克、敗血症、SIRS 與 MODS"},
+      "points": [
+        {"en": "Anaphylaxis: assess airway and breathing, call for help but stay with the client, oxygen, IV line with normal saline, epinephrine, diphenhydramine, corticosteroids; document.", "zh": "過敏性休克：評估呼吸道與呼吸、求援但不離開個案、給氧、建立靜脈通路輸注生理食鹽水、epinephrine、diphenhydramine、皮質類固醇；記錄。"},
+        {"en": "Shock types: hypovolemic (most common), cardiogenic, distributive/vasogenic (septic, anaphylactic, neurogenic), obstructive (tamponade, tension pneumothorax, PE). CPP = MAP - ICP, normal 70-100; MAP > 60 needed for organ perfusion.", "zh": "休克類型：低血容性（最常見）、心因性、分佈性／血管性（敗血性、過敏性、神經性）、阻塞性（填塞、張力性氣胸、肺栓塞）。CPP＝MAP－ICP，正常 70–100；器官灌流需 MAP > 60。"},
+        {"en": "Stages: initial (restless, tachycardia, cool pale skin); compensatory (CO low, SBP < 100, oliguria, confusion); progressive (edema, dysrhythmias, thready pulse); refractory (unresponsive to pressors). Early intervention is the priority. Restore volume first in hypovolemia; in cardiogenic shock avoid fluids and support the heart.", "zh": "階段：初期（躁動、心搏過速、皮膚冷白）；代償期（心輸出量低、收縮壓 < 100、少尿、混亂）；進展期（水腫、心律不整、脈搏細弱）；難治期（對升壓劑無反應）。早期介入為首要。低血容先補容積；心因性休克避免輸液並支持心臟。"},
+        {"en": "Sepsis criteria: temp > 100.9 F (38.3 C) or < 97 F (36 C), HR > 90, RR > 22, SBP <= 100 or MAP < 70, altered mental status, oliguria, ileus, lactate > 1. Septic shock: 30-50 mL/kg isotonic crystalloids, vasopressors, antibiotics within 1 hour after cultures, glucose < 180 mg/dL.", "zh": "敗血症標準：體溫 > 100.9 F（38.3 C）或 < 97 F（36 C）、心率 > 90、呼吸 > 22、收縮壓 <= 100 或 MAP < 70、意識改變、少尿、腸阻塞、乳酸 > 1。敗血性休克：30–50 mL/kg 等張晶體液、升壓劑、培養後 1 小時內給抗生素、血糖 < 180 mg/dL。"},
+        {"en": "SIRS is widespread inflammation from infection, trauma or pancreatitis; MODS is failure of two or more organs, with poor prognosis when three or more fail. Support failing organs, maintain MAP > 65, stress ulcer and VTE prophylaxis, watch for DIC.", "zh": "SIRS 為感染、創傷或胰臟炎引起的廣泛性發炎；MODS 為兩個以上器官衰竭，三個以上預後差。支持衰竭器官、維持 MAP > 65、預防壓力性潰瘍與靜脈血栓、留意 DIC。"}
+      ],
+      "pdf_pages": [1186, 1187, 1188, 1189]
+    }
+  ],
+  "critical_points": [
+    {"en": "Air embolism: clamp the tubing, turn client onto left side with head down, give oxygen, notify provider. Prevent with Trendelenburg and Valsalva during central line tubing changes.", "zh": "空氣栓塞：夾管、左側臥頭低、給氧、通報醫師。中心靜脈換管時以頭低位與 Valsalva 預防。", "pdf_pages": [1129, 1132, 1136]},
+    {"en": "Circulatory overload from IV fluids: slow the infusion first, raise head of bed, oxygen, notify provider; do not remove the IV.", "zh": "輸液循環超載：先減慢輸注、抬高床頭、給氧、通報醫師；不要拔除靜脈導管。", "pdf_pages": [1129, 1190, 1191]},
+    {"en": "Suspected transfusion reaction: stop transfusion, change tubing below the bag, keep line open with saline, check VS, notify provider and blood bank, stay with client, return bag and tubing.", "zh": "疑似輸血反應：停止輸血、更換血袋下方管路、以生理食鹽水維持通路、測生命徵象、通知醫師與血庫、陪伴個案、送回血袋與管路。", "pdf_pages": [1140, 1141]},
+    {"en": "Stay with the client during the first 15 minutes of a transfusion; ABO incompatibility or severe allergy usually shows within the first 50 mL. Fever before transfusion: notify provider before hanging.", "zh": "輸血前 15 分鐘須陪伴個案；ABO 不合或嚴重過敏通常在前 50 mL 內出現。輸血前發燒：掛血前先通知醫師。", "pdf_pages": [1140, 1141, 1191]},
+    {"en": "Two nurses verify identity and compatibility at the bedside; use only normal saline with blood; give within 4 hours per unit and start within 20-30 minutes of release from blood bank.", "zh": "兩位護理師於床邊核對身分與相容性；輸血僅用生理食鹽水；每單位 4 小時內輸完，血庫領出後 20–30 分鐘內開始。", "pdf_pages": [1139, 1140]},
+    {"en": "Lipid emulsion (contains egg yolk): 1.2-micron filter, 1 mL/min start, VS every 10 min for 30 min; stop with chest pain, dyspnea, fever. Never stop PN abruptly; use D10W to prevent rebound hypoglycemia.", "zh": "脂肪乳劑（含蛋黃）：1.2 微米濾器、起始 1 mL/min、前 30 分鐘每 10 分鐘測生命徵象；胸痛、呼吸困難、發燒即停止。PN 不可驟停；用 10% 葡萄糖預防反彈性低血糖。", "pdf_pages": [1134, 1135, 1136]},
+    {"en": "Verify NG tube placement before every feeding or medication (pH 3.5 or lower, x-ray initially); hold feeding if residual > 100 mL or bowel sounds absent; HOB elevated.", "zh": "每次灌食或給藥前確認鼻胃管位置（pH 3.5 以下、初次 X 光）；殘留 > 100 mL 或無腸蠕動音暫停灌食；抬高床頭。", "pdf_pages": [1144, 1145]},
+    {"en": "Esophageal balloon tamponade tube: keep scissors at bedside; cut tubes to deflate balloons if respiratory distress; report signs of esophageal rupture (hypotension, tachycardia, back/upper abdominal pain).", "zh": "食道氣囊管：床邊備剪刀；呼吸窘迫時剪管使氣囊洩氣；通報食道破裂徵象（低血壓、心搏過速、背部／上腹痛）。", "pdf_pages": [1146]},
+    {"en": "Tracheostomy: never plug the tube until the cuff is deflated and inner cannula removed; keep obturator, spare tube and Ambu bag at bedside; pulsating tube with heavy bleeding = tracheoinnominate fistula emergency.", "zh": "氣切：氣囊未放氣且內管未移除前不可堵管；床邊備閉塞器、備用管與 Ambu 袋；管子搏動並大量出血＝氣管無名動脈瘻管緊急狀況。", "pdf_pages": [1148, 1150]},
+    {"en": "Chest tube: continuous bubbling in the water seal chamber = air leak; no fluctuation = kink, obstruction or re-expansion; drainage > 70-100 mL/hr or sudden bright red = notify; never clamp without prescription; if pulled out, occlusive sterile dressing and call provider.", "zh": "胸管：水封腔持續冒泡＝漏氣；無擺動＝扭曲、阻塞或肺復張；引流 > 70–100 mL/hr 或突然鮮紅須通報；無處方不可夾管；管路脫出時貼密閉無菌敷料並通知醫師。", "pdf_pages": [1151, 1152, 1153]},
+    {"en": "Burns: airway is the first priority; 100% oxygen for inhalation injury; fluid resuscitation guided by urine output 30-50 mL/hr; IV (not IM) analgesics; Parkland 4 mL/kg/%TBSA with half in first 8 hours from injury.", "zh": "燒傷：呼吸道為首要；吸入性損傷給 100% 氧；以尿量 30–50 mL/hr 引導輸液；使用靜脈（非肌肉）止痛；Parkland 4 mL/kg/%TBSA，自受傷起前 8 小時給一半。", "pdf_pages": [1155, 1157, 1158]},
+    {"en": "Carbon monoxide binds hemoglobin 200 times more than oxygen; administer 100% oxygen until carboxyhemoglobin falls below 15%.", "zh": "一氧化碳與血紅素結合力為氧的 200 倍；給 100% 氧直到碳氧血紅素低於 15%。", "pdf_pages": [1155, 1157]},
+    {"en": "DKA: isotonic fluids, IV regular insulin by pump, monitor potassium (falls with treatment), add dextrose at glucose 250-300 mg/dL; too rapid correction risks cerebral edema. HHS: glucose > 800, osmolality > 350, no ketones.", "zh": "DKA：等張輸液、幫浦靜脈速效胰島素、監測鉀（治療後下降）、血糖降至 250–300 mg/dL 時加葡萄糖；矯正過快有腦水腫風險。HHS：血糖 > 800、滲透壓 > 350、無酮體。", "pdf_pages": [1162, 1163, 1192]},
+    {"en": "Tumor lysis syndrome: hyperkalemia, hyperphosphatemia, hypocalcemia, hyperuricemia; hydrate, allopurinol; SVC syndrome: facial edema and collar tightness in the morning (Stokes' sign).", "zh": "腫瘤溶解症候群：高鉀、高磷、低鈣、高尿酸；水分補充、allopurinol；上腔靜脈症候群：晨間臉部水腫與領口緊繃（Stokes 徵象）。", "pdf_pages": [1161, 1162]},
+    {"en": "Earliest sign of ARDS is increased respiratory rate; hypoxemia refractory to oxygen; treat with PEEP ventilation.", "zh": "ARDS 最早徵象為呼吸速率增加；氧療無效之低氧血症；以 PEEP 呼吸器治療。", "pdf_pages": [1172, 1192]},
+    {"en": "Always assess the client first, then the ventilator; never turn off alarms; if the cause of alarm is unclear, bag the client manually.", "zh": "先評估個案再看呼吸器；不可關閉警報；警報原因不明時以人工袋瓣罩通氣。", "pdf_pages": [1168, 1169]},
+    {"en": "Increased ICP: decreasing LOC is the earliest sign; Cushing's triad is late; HOB 30-40 degrees, avoid Trendelenburg/Valsalva/neck flexion and opioids; PaCO2 30-35.", "zh": "顱內壓升高：意識降低為最早徵象；Cushing 三徵為晚期；床頭 30–40 度、避免頭低位／Valsalva／頸部屈曲與鴉片類；PaCO2 30–35。", "pdf_pages": [1178, 1179, 1193]},
+    {"en": "Suspected spinal cord injury: immobilize, neutral head, logroll. Autonomic dysreflexia (above T6): sit upright, check bladder/bowel, remove trigger, antihypertensive.", "zh": "疑似脊髓損傷：固定、頭頸中立、滾木翻身。自律神經反射異常（T6 以上）：坐起、檢查膀胱／直腸、移除誘因、給降壓藥。", "pdf_pages": [1182, 1183]},
+    {"en": "Cardiogenic shock: avoid volume expanders (pulmonary edema); give inotropes/vasopressors. In hypovolemic shock with low CVP (2 mm Hg) and MAP 60, increase IV fluids first.", "zh": "心因性休克：避免擴容（肺水腫）；給強心劑／升壓劑。低血容性休克且 CVP 2 mm Hg、MAP 60 時，首先加快靜脈輸液。", "pdf_pages": [1187, 1191, 1193]},
+    {"en": "Anaphylaxis: airway first, stay with the client, oxygen, IV saline, epinephrine, diphenhydramine; sepsis: cultures then antibiotics within 1 hour, 30-50 mL/kg crystalloid.", "zh": "過敏性休克：先顧呼吸道、不離開個案、給氧、靜脈生理食鹽水、epinephrine、diphenhydramine；敗血症：先培養再於 1 小時內給抗生素、30–50 mL/kg 晶體液。", "pdf_pages": [1186, 1188, 1191]}
+  ],
+  "mnemonics": [
+    {"en": "NEX for NG tube length: Nose to Earlobe to Xiphoid process.", "zh": "鼻胃管長度 NEX：鼻尖→耳垂→劍突。", "pdf_pages": [1144]},
+    {"en": "Reversible causes of cardiac arrest: 5 Hs (hypoxia, hypovolemia, hydrogen ion acidosis, hyper/hypokalemia, hypothermia) and 5 Ts (tension pneumothorax, tamponade, toxins, thrombosis PE, thrombosis coronary).", "zh": "心臟停止可逆原因：5H（缺氧、低血容、酸中毒、高／低血鉀、低體溫）與 5T（張力性氣胸、填塞、毒物、肺栓塞、冠狀動脈栓塞）。", "pdf_pages": [1174]},
+    {"en": "Beck's triad of tamponade: muffled heart sounds, JVD, hypotension.", "zh": "心包填塞 Beck 三徵：心音遙遠、頸靜脈怒張、低血壓。", "pdf_pages": [1174, 1175]},
+    {"en": "Chest tube: 'Tidal water, bubbles are bad' in the water seal: fluctuation is normal, continuous bubbling means leak.", "zh": "胸管水封腔：擺動正常，持續冒泡代表漏氣。", "pdf_pages": [1152]},
+    {"en": "Rule of nines: head 9, each arm 9, anterior trunk 18, posterior trunk 18, each leg 18, perineum 1.", "zh": "九分法：頭 9、單臂 9、前軀幹 18、後軀幹 18、單腿 18、會陰 1。", "pdf_pages": [1153]}
+  ],
+  "figures": [
+    {"pdf_page": 1125, "caption": {"en": "Table 70.1 types of IV solutions with uses and tonicity.", "zh": "表 70.1 靜脈輸液種類、用途與張力。"}},
+    {"pdf_page": 1129, "caption": {"en": "Table 70.2 complications of IV therapy: air embolism, catheter embolism, overload, infiltration and phlebitis with interventions.", "zh": "表 70.2 靜脈治療併發症：空氣栓塞、導管栓塞、超載、滲漏與靜脈炎及處置。"}},
+    {"pdf_page": 1136, "caption": {"en": "Table 70.3 complications of parenteral nutrition: hyperglycemia, hypoglycemia, infection, pneumothorax.", "zh": "表 70.3 靜脈營養併發症：高血糖、低血糖、感染、氣胸。"}},
+    {"pdf_page": 1139, "caption": {"en": "Table 70.4 RBC compatibility chart (donor vs recipient).", "zh": "表 70.4 紅血球輸血相容表（供血者與受血者）。"}},
+    {"pdf_page": 1143, "caption": {"en": "Fig. 70.8 comparison of GI tubes: Levin, Salem sump, Miller-Abbott, Cantor, Sengstaken-Blakemore, Lavacuator.", "zh": "圖 70.8 胃腸管比較：Levin、Salem sump、Miller-Abbott、Cantor、Sengstaken-Blakemore、Lavacuator。"}},
+    {"pdf_page": 1152, "caption": {"en": "Fig. 70.12 wet and dry chest drainage systems with chamber functions.", "zh": "圖 70.12 濕式與乾式胸腔引流系統及各腔室功能。"}},
+    {"pdf_page": 1163, "caption": {"en": "Table 70.9 differences between DKA and HHS.", "zh": "表 70.9 DKA 與 HHS 之差異。"}},
+    {"pdf_page": 1166, "caption": {"en": "Table 70.10 supplemental oxygen delivery systems with flow rates and nursing considerations.", "zh": "表 70.10 氧療裝置之流速與護理要點。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "Ten minutes into a unit of packed red blood cells, the client reports chills, low back pain and itching, and has facial flushing. What is the nurse's first action?", "zh": "輸注濃縮紅血球 10 分鐘後，個案主訴寒顫、下背痛及癢，臉部潮紅。護理師首要行動為何？"},
+      "options": [
+        {"en": "Slow the transfusion and recheck in 15 minutes", "zh": "減慢輸血速度並 15 分鐘後再評估"},
+        {"en": "Stop the transfusion and infuse normal saline through new tubing at the IV site", "zh": "停止輸血，並以新管路於靜脈處輸注生理食鹽水"},
+        {"en": "Administer acetaminophen and continue", "zh": "給予 acetaminophen 並繼續輸血"},
+        {"en": "Remove the IV catheter", "zh": "拔除靜脈導管"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Signs suggest a hemolytic reaction. Stop the transfusion, change tubing down to the IV site, keep the vein open with saline, then check vital signs, notify provider and blood bank and return the bag.", "zh": "徵象提示溶血反應。應停止輸血，更換針頭以下管路並以生理食鹽水維持通路，再測生命徵象、通知醫師與血庫並送回血袋。"},
+      "pdf_pages": [1140, 1141],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client receiving TPN is found with an empty bag and the pharmacy replacement is 2 hours away. Which solution does the nurse anticipate infusing?", "zh": "接受 TPN 的個案發現 TPN 袋已空，藥局補送需 2 小時。護理師預期輸注哪種溶液？"},
+      "options": [
+        {"en": "0.9% sodium chloride", "zh": "0.9% 氯化鈉"},
+        {"en": "10% dextrose in water at the prescribed rate", "zh": "依醫囑速率輸注 10% 葡萄糖水"},
+        {"en": "Lactated Ringer's", "zh": "乳酸林格氏液"},
+        {"en": "Stop all infusions", "zh": "停止所有輸注"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Abrupt loss of high-dextrose PN can cause rebound hypoglycemia; D10W at the PN rate prevents this until new solution arrives.", "zh": "高濃度葡萄糖 PN 驟停會引起反彈性低血糖；在新溶液送達前以 PN 速率輸注 D10W 可預防。"},
+      "pdf_pages": [1134, 1136],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "The nurse assesses a client with a chest tube and finds continuous bubbling in the water seal chamber. What does the nurse conclude?", "zh": "護理師評估置有胸管的個案，發現水封腔持續冒泡。護理師的判斷為何？"},
+      "options": [
+        {"en": "The lung has fully re-expanded", "zh": "肺已完全復張"},
+        {"en": "There is an air leak in the system", "zh": "系統有漏氣"},
+        {"en": "Suction is working correctly", "zh": "抽吸運作正常"},
+        {"en": "Drainage is excessive", "zh": "引流量過多"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Continuous bubbling in the water seal chamber indicates an air leak (check connections; notify the provider). Gentle bubbling in the suction control chamber is the expected suction finding.", "zh": "水封腔持續冒泡表示系統漏氣（檢查接頭並通知醫師）。抽吸控制腔輕柔冒泡才是預期的抽吸表現。"},
+      "pdf_pages": [1152],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with burns to the face and neck from a house fire has singed nasal hair and hoarseness. Which actions are appropriate? Select all that apply.", "zh": "因住宅火災導致臉頸燒傷的個案出現鼻毛燒焦及聲音沙啞。下列哪些行動適當？（複選）"},
+      "options": [
+        {"en": "Administer 100% oxygen by nonrebreather mask", "zh": "以非再吸入面罩給予 100% 氧氣"},
+        {"en": "Monitor for airway obstruction and prepare for intubation", "zh": "監測呼吸道阻塞並準備插管"},
+        {"en": "Give oral analgesics", "zh": "給予口服止痛藥"},
+        {"en": "Maintain urine output at 30-50 mL/hr with IV fluids", "zh": "以靜脈輸液維持尿量 30–50 mL/hr"},
+        {"en": "Lay the client flat", "zh": "讓個案平躺"}
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {"en": "These are inhalation injury signs: airway is priority, give 100% oxygen, anticipate intubation. Fluid resuscitation targets urine output 30-50 mL/hr. IV not oral analgesics (GI dysfunction); elevate head for face/neck burns.", "zh": "此為吸入性損傷徵象：呼吸道優先，給 100% 氧並預期插管。輸液目標尿量 30–50 mL/hr。因腸胃功能障礙須用靜脈而非口服止痛；臉頸燒傷應抬高床頭。"},
+      "pdf_pages": [1155, 1157, 1158],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with DKA has been receiving IV regular insulin and normal saline. The blood glucose is now 260 mg/dL (14.4 mmol/L). Which prescription does the nurse expect next?", "zh": "DKA 個案正接受靜脈速效胰島素與生理食鹽水，血糖現為 260 mg/dL（14.4 mmol/L）。護理師預期下一步醫囑為何？"},
+      "options": [
+        {"en": "Discontinue the insulin infusion", "zh": "停止胰島素輸注"},
+        {"en": "Add dextrose to the IV fluids", "zh": "於輸液中加入葡萄糖"},
+        {"en": "Give NPH insulin subcutaneously", "zh": "皮下注射 NPH 胰島素"},
+        {"en": "Increase the saline rate", "zh": "加快生理食鹽水速率"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "When glucose reaches 250-300 mg/dL, dextrose is added to prevent hypoglycemia and cerebral edema while insulin continues to clear ketosis.", "zh": "血糖達 250–300 mg/dL 時加入葡萄糖以預防低血糖與腦水腫，同時持續胰島素以清除酮症。"},
+      "pdf_pages": [1162, 1192],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a T4 spinal cord injury suddenly develops a pounding headache, BP 200/110 mm Hg, HR 52, flushing above the injury and sweating. What is the nurse's first action?", "zh": "T4 脊髓損傷個案突然劇烈搏動性頭痛，血壓 200/110 mm Hg、心率 52，損傷平面以上潮紅冒汗。護理師首要行動為何？"},
+      "options": [
+        {"en": "Lay the client flat and elevate the legs", "zh": "讓個案平躺並抬高雙腿"},
+        {"en": "Sit the client upright and check for bladder distention", "zh": "讓個案坐起並檢查膀胱是否脹大"},
+        {"en": "Administer an opioid for headache", "zh": "給予鴉片類止頭痛"},
+        {"en": "Apply a warm blanket", "zh": "蓋上保暖毯"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "This is autonomic dysreflexia. Raise the head of bed, loosen clothing, find and remove the trigger (usually bladder distention or fecal impaction), notify the provider, and give an antihypertensive if needed.", "zh": "此為自律神經反射異常。抬高床頭、鬆開衣物、找出並移除誘因（常為膀胱脹或糞便嵌塞）、通知醫師，必要時給降壓藥。"},
+      "pdf_pages": [1181, 1183],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "The nurse monitors a client with a head injury. Which finding is the earliest sign of increased intracranial pressure?", "zh": "護理師監測頭部外傷個案，下列何者為顱內壓升高最早出現的徵象？"},
+      "options": [
+        {"en": "Bradycardia", "zh": "心搏過緩"},
+        {"en": "Widened pulse pressure", "zh": "脈壓變寬"},
+        {"en": "Decreased level of consciousness", "zh": "意識程度下降"},
+        {"en": "Decerebrate posturing", "zh": "去腦姿勢"}
+      ],
+      "answer": [2],
+      "rationale": {"en": "A change in level of consciousness is the earliest and most sensitive sign. Bradycardia, widened pulse pressure and posturing are late.", "zh": "意識程度改變為最早且最敏感的徵象。心搏過緩、脈壓變寬與異常姿勢屬晚期。"},
+      "pdf_pages": [1178, 1179],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client in hypovolemic shock has CVP 2 mm Hg, MAP 60 mm Hg and urine output 20 mL/hr. Which intervention does the nurse implement first?", "zh": "低血容性休克個案 CVP 2 mm Hg、MAP 60 mm Hg、尿量 20 mL/hr。護理師首先執行何項？"},
+      "options": [
+        {"en": "Obtain an arterial blood gas", "zh": "抽動脈血氣體"},
+        {"en": "Increase the rate of IV fluids", "zh": "加快靜脈輸液速率"},
+        {"en": "Administer a diuretic", "zh": "給予利尿劑"},
+        {"en": "Place the client in high Fowler's position", "zh": "採高坐臥位"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Low CVP and MAP show volume depletion; restoring circulating volume to improve perfusion is the priority. Diuretics would worsen hypovolemia.", "zh": "CVP 與 MAP 偏低顯示容積不足；首要為補足循環容積以改善灌流。利尿劑會加重低血容。"},
+      "pdf_pages": [1187, 1193],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which findings are consistent with the diagnostic criteria for sepsis? Select all that apply.", "zh": "下列哪些發現符合敗血症診斷標準？（複選）"},
+      "options": [
+        {"en": "Temperature 102 F (38.9 C)", "zh": "體溫 102 F（38.9 C）"},
+        {"en": "Heart rate 96 beats/min", "zh": "心率 96 次／分"},
+        {"en": "Respiratory rate 14 breaths/min", "zh": "呼吸速率 14 次／分"},
+        {"en": "Mean arterial pressure 65 mm Hg", "zh": "平均動脈壓 65 mm Hg"},
+        {"en": "Urine output 50 mL/hr", "zh": "尿量 50 mL/hr"}
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {"en": "Criteria include temperature above 100.9 F, heart rate above 90, RR above 22, MAP below 70 or SBP at or below 100, altered mental status, and oliguria. RR 14 and urine 50 mL/hr are normal.", "zh": "標準包括體溫高於 100.9 F、心率高於 90、呼吸高於 22、MAP 低於 70 或收縮壓 100 以下、意識改變及少尿。呼吸 14 與尿量 50 mL/hr 正常。"},
+      "pdf_pages": [1188, 1193, 1194],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a tracheostomy that has a cuffed tube is to have the tube capped for speech trials. What must the nurse do before capping?", "zh": "有氣囊之氣切管個案要進行蓋管說話試驗。蓋管前護理師必須做什麼？"},
+      "options": [
+        {"en": "Deflate the cuff completely and remove the inner cannula", "zh": "完全放氣囊並移除內管"},
+        {"en": "Inflate the cuff fully", "zh": "將氣囊完全充氣"},
+        {"en": "Increase the oxygen to 100%", "zh": "將氧氣提高至 100%"},
+        {"en": "Clamp the pilot balloon only", "zh": "僅夾住指示氣囊"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Never plug a tracheostomy tube until the cuff is deflated and the inner cannula is removed; otherwise the client's airway is completely blocked.", "zh": "氣囊未放氣且內管未移除前絕不可堵氣切管，否則個案呼吸道將完全阻塞。"},
+      "pdf_pages": [1148],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "NCLEX-PN Quiz: Blood Product Transfusion Monitoring (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-pn/quiz/blood-product-transfusion-monitoring", "note": {"en": "Free practice questions with explanations on transfusion monitoring and reactions.", "zh": "輸血監測與反應之免費練習題與解析。"}},
+    {"title": "FULL-TEXT: Burns & Burn Injury (100 Questions) (Nurseslabs)", "url": "https://nurseslabs.com/full-text-burns-burn-injury-100-questions/", "note": {"en": "Free 100-item burn question bank with rationales.", "zh": "免費 100 題燒傷題庫與解析。"}},
+    {"title": "Burns NCLEX Questions & Reviewer (100 Items) (Nurseslabs)", "url": "https://nurseslabs.com/nclex-exam-burn-injury-nursing-management-1-20-items/", "note": {"en": "Burn nursing management practice items in 20-question sets.", "zh": "燒傷護理處置練習題，每組 20 題。"}},
+    {"title": "Emergency & Trauma Nursing Review (GetOnCourse)", "url": "https://getoncourse.ai/notes/nclex-rn/critical-care-emergency-nursing/emergency-trauma-nursing/", "note": {"en": "Study notes on emergency and trauma nursing for NCLEX-RN (some features gated).", "zh": "NCLEX-RN 急症與創傷護理複習筆記（部分功能需註冊）。"}}
+  ]
+}

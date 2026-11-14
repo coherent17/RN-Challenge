@@ -1,0 +1,769 @@
+{
+ "number": 4,
+ "title": {
+  "en": "Clinical Judgment and Test-Taking Strategies",
+  "zh": "臨床判斷與應試策略"
+ },
+ "overview": {
+  "en": "This chapter gives a toolkit for answering NCLEX questions: read the question carefully, note strategic words and the subject, prioritize with ABCs, Maslow and the nursing process, apply NCJMM skills, and eliminate poor options. It also covers delegation, available-resources thinking and pharmacology tips.",
+  "zh": "本章提供作答工具：仔細讀題、注意策略性字詞與主題，以 ABC、馬斯洛與護理過程排定優先順序、運用 NCJMM 技能並刪去不佳選項。另含委派、資源假設與藥理應試技巧。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Clinical judgment and key strategies",
+    "zh": "臨床判斷與關鍵策略"
+   },
+   "points": [
+    {
+     "en": "Combine the NCJMM cognitive skills with other test-taking strategies.",
+     "zh": "將 NCJMM 認知技能與其他應試策略合併運用。"
+    },
+    {
+     "en": "Read every word, identify the subject, who the client is, strategic words, and whether the query is positive or negative.",
+     "zh": "逐字閱讀，找出主題、題目中的病人是誰、策略性字詞，以及題目是正向或負向。"
+    },
+    {
+     "en": "Use process of elimination; reread the question before the final choice.",
+     "zh": "運用刪去法；選定前再讀一次題目。"
+    },
+    {
+     "en": "Avoid 'What if...' reading into traditional items, but for NGN items consider existing and potential concerns.",
+     "zh": "傳統題避免『如果……』過度臆測；NGN 題則需考量現存與潛在問題。"
+    }
+   ],
+   "pdf_pages": [
+    42,
+    43
+   ]
+  },
+  {
+   "heading": {
+    "en": "Avoiding reading into the question; ingredients of a question",
+    "zh": "避免過度解讀；題目的組成"
+   },
+   "points": [
+    {
+     "en": "Base the answer only on the data given; look for abnormalities, the client of the question, and assume all needed resources are at the bedside.",
+     "zh": "只依題目資料作答；找出異常、確認題目中的病人，並假設床邊具備所有所需資源。"
+    },
+    {
+     "en": "Ingredients: event (the situation), event query (the question stem) and options.",
+     "zh": "題目組成：事件（情境）、事件詢問（題幹）與選項。"
+    },
+    {
+     "en": "Multiple response: each option is true or false; choose all true ones. Ordered response: prioritize actions.",
+     "zh": "多重選擇：每個選項為真或假，選出所有真者；排序題：依優先順序排列。"
+    },
+    {
+     "en": "Chart/exhibit items contain relevant data and distractors; fill-in-the-blank requires rechecking calculations with the on-screen calculator.",
+     "zh": "圖表題含相關資料與干擾資訊；填空題需用螢幕計算機再次檢查計算。"
+    },
+    {
+     "en": "NGN trend example: for a client with new type 2 diabetes, rising pulse, rising respirations, high glucose, falling potassium and falling urine output are worsening findings to follow up.",
+     "zh": "NGN 趨勢範例：新診斷第 2 型糖尿病病人，脈搏上升、呼吸上升、血糖偏高、鉀下降與尿量減少為惡化而需追蹤的發現。"
+    }
+   ],
+   "pdf_pages": [
+    43,
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "heading": {
+    "en": "Strategic words, subject, positive and negative event queries",
+    "zh": "策略性字詞、主題、正負向詢問"
+   },
+   "points": [
+    {
+     "en": "Prioritizing words: best, early or late, essential, first, highest priority, immediate, initial, most, next, priority, primary.",
+     "zh": "需排序的字詞：最佳、早期或晚期、必要、首先、最優先、立即、起始、最、接下來、優先、主要。"
+    },
+    {
+     "en": "Assessment words (assess, check, determine, monitor, obtain information) often point to assessing first.",
+     "zh": "評估字詞（評估、檢查、確定、監測、蒐集資料）常指向先評估。"
+    },
+    {
+     "en": "A positive query asks for a correct item; a negative query (need for further teaching/follow-up) asks for an incorrect one.",
+     "zh": "正向詢問要選正確項；負向詢問（需再教導/追蹤）要選不正確項。"
+    },
+    {
+     "en": "Identify the subject; focus on it to rule out options that are true but irrelevant.",
+     "zh": "辨識題目主題，排除正確但無關的選項。"
+    }
+   ],
+   "pdf_pages": [
+    43,
+    46,
+    47
+   ]
+  },
+  {
+   "heading": {
+    "en": "Prioritizing: ABCs, CAB, Maslow",
+    "zh": "優先順序：ABC、CAB、馬斯洛"
+   },
+   "points": [
+    {
+     "en": "ABCs: airway, then breathing, then circulation; for CPR use CAB (compressions, airway, breathing).",
+     "zh": "ABC：先氣道、再呼吸、再循環；CPR 使用 CAB（按壓、氣道、呼吸）。"
+    },
+    {
+     "en": "Maslow: physiological, safety and security, love and belonging, self-esteem, self-actualization; if no physiological option exists, choose safety.",
+     "zh": "馬斯洛：生理、安全與保障、愛與歸屬、自尊、自我實現；若無生理選項，選安全。"
+    },
+    {
+     "en": "When prioritizing, all options may be correct; choose the order or the most urgent.",
+     "zh": "排序時所有選項可能都正確；需選最緊急或排出順序。"
+    },
+    {
+     "en": "Actual problems take priority over potential problems in most situations.",
+     "zh": "多數情況下，現存問題優先於潛在問題。"
+    }
+   ],
+   "pdf_pages": [
+    47,
+    48,
+    50
+   ]
+  },
+  {
+   "heading": {
+    "en": "Nursing process and NCJMM in questions",
+    "zh": "題目中的護理過程與 NCJMM"
+   },
+   "points": [
+    {
+     "en": "Assessment/recognize cues is first: choose the option collecting data when asked for first or initial action, unless it is an emergency.",
+     "zh": "評估/辨識線索為第一步：問『首先』時選蒐集資料的選項，緊急情況除外。"
+    },
+    {
+     "en": "Analysis: analyze cues and prioritize hypotheses; these are the hardest items and require interpreting data (e.g., ABG: pH 7.45, PCO2 30, HCO3 22 = compensated respiratory alkalosis).",
+     "zh": "分析：分析線索並排序假設；最困難，需解讀資料（例：動脈血氣 pH 7.45、PCO2 30、HCO3 22 = 代償性呼吸性鹼中毒）。"
+    },
+    {
+     "en": "Planning/generate solutions: set priorities and goals; implementation/take action: choose nursing actions, not medical actions.",
+     "zh": "計畫/產生方案：設定優先順序與目標；執行/採取行動：選護理行動而非醫療行動。"
+    },
+    {
+     "en": "Evaluation/evaluate outcomes: compare observed outcomes with expected; negative queries are common.",
+     "zh": "評值/評值結果：比較實際與預期結果；常出現負向詢問。"
+    },
+    {
+     "en": "If an abnormality exists, further assessment or action is needed; do not choose just continue monitoring or documenting.",
+     "zh": "若有異常，需進一步評估或行動；不要選僅持續監測或記錄。"
+    },
+    {
+     "en": "Choose options that ensure client safety.",
+     "zh": "選擇確保病人安全的選項。"
+    }
+   ],
+   "pdf_pages": [
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "heading": {
+    "en": "Client Needs categories and strategies",
+    "zh": "病人需求類別與策略"
+   },
+   "points": [
+    {
+     "en": "Physiological Integrity: Maslow, ABCs, nursing process.",
+     "zh": "生理完整性：馬斯洛、ABC、護理過程。"
+    },
+    {
+     "en": "Safe and Effective Care Environment: safety, handwashing, call system, side rails, asepsis, precautions, triage, emergency planning.",
+     "zh": "安全有效照護環境：安全、洗手、呼叫系統、床欄、無菌、隔離措施、檢傷、緊急應變。"
+    },
+    {
+     "en": "Health Promotion and Maintenance: teaching-learning theory, client readiness first; negative queries are frequent.",
+     "zh": "健康促進與維護：教與學理論，先確認病人準備度；常出現負向詢問。"
+    },
+    {
+     "en": "Psychosocial Integrity: therapeutic communication focused on the client's feelings; avoid 'why' questions, false reassurance and blunt replies.",
+     "zh": "心理社會整合：以病人感受為主的治療性溝通；避免『為什麼』、虛假保證與生硬回應。"
+    }
+   ],
+   "pdf_pages": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "heading": {
+    "en": "Eliminating options: alike, closed-ended words, umbrella",
+    "zh": "刪去選項：相似、封閉字詞、傘狀選項"
+   },
+   "points": [
+    {
+     "en": "Comparable or alike options can usually be eliminated.",
+     "zh": "相似的選項通常可刪除。"
+    },
+    {
+     "en": "Closed-ended words (all, always, every, must, none, never, only) usually make an option wrong; open-ended words (may, usually, generally) are more likely right.",
+     "zh": "封閉字詞（所有、總是、每個、必須、沒有、絕不、只）通常使選項錯誤；開放字詞（可能、通常、一般）較可能正確。"
+    },
+    {
+     "en": "The umbrella option is broad and includes the concepts of other options; it is often correct (e.g., contact precautions includes gown and gloves).",
+     "zh": "傘狀選項涵蓋其他選項概念，常為正確答案（如接觸隔離包含隔離衣與手套）。"
+    }
+   ],
+   "pdf_pages": [
+    53
+   ]
+  },
+  {
+   "heading": {
+    "en": "Delegation, resources and pharmacology",
+    "zh": "委派、資源與藥理"
+   },
+   "points": [
+    {
+     "en": "AP: noninvasive care (skin care, ROM, ambulation, hygiene). LPN/LVN: AP tasks plus focused assessments, dressings, suctioning, catheterization, oral/SC/IM medications; RN: comprehensive assessment, teaching initiation, IV medications, supervision.",
+     "zh": "助理（AP）：非侵入性照護（皮膚、關節活動、行走、衛生）。LPN/LVN：AP 工作加聚焦評估、換藥、抽吸、導尿、口服/皮下/肌肉藥物；RN：完整評估、起始衛教、靜脈給藥、督導。"
+    },
+    {
+     "en": "Use national standards and the Nurse Practice Act; assume ideal conditions with all equipment at the bedside (e.g., chest tube dislodged: cover the site with a sterile dressing).",
+     "zh": "依全國標準與護理執業法；假設理想狀況且設備齊全（例：胸管脫出，用無菌敷料覆蓋傷口）。"
+    },
+    {
+     "en": "Pharmacology: identify drug class from name stems (-lol beta blocker, -pril ACE inhibitor), know the question focus (intended, side, adverse, toxic effect).",
+     "zh": "藥理：由藥名字尾辨識類別（-lol 乙型阻斷劑、-pril ACE 抑制劑），確認題目焦點（預期、副作用、不良反應、毒性）。"
+    },
+    {
+     "en": "Pyramid points: no antacids with meds; do not crush enteric-coated/sustained-release; never change doses or stop meds abruptly; avoid OTC/herbals unless approved; avoid alcohol; do not give unclear or abnormal orders.",
+     "zh": "重點：服藥時不併用制酸劑；腸溶/緩釋劑不可壓碎；不可自行調整或突然停藥；非經核准避免 OTC/草藥；避免酒精；醫囑不清或劑量異常不給藥。"
+    }
+   ],
+   "pdf_pages": [
+    54,
+    55
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Airway is always first (ABCs); in CPR use CAB.",
+   "zh": "氣道永遠第一（ABC）；CPR 用 CAB。",
+   "pdf_pages": [
+    47
+   ]
+  },
+  {
+   "en": "Physiological needs come first (Maslow); if none, choose safety.",
+   "zh": "生理需求優先（馬斯洛）；若無，選安全。",
+   "pdf_pages": [
+    47,
+    48
+   ]
+  },
+  {
+   "en": "Assessment is the first step of the nursing process unless the scenario is an emergency.",
+   "zh": "護理過程第一步為評估，除非是緊急情況。",
+   "pdf_pages": [
+    48
+   ]
+  },
+  {
+   "en": "Base answers only on the data given; avoid the 'What if' syndrome on traditional items.",
+   "zh": "只依題目資料作答；傳統題避免『如果』症候群。",
+   "pdf_pages": [
+    43
+   ]
+  },
+  {
+   "en": "Negative query (need for further teaching/follow-up) asks for the incorrect statement.",
+   "zh": "負向詢問（需再教導/追蹤）要選不正確的陳述。",
+   "pdf_pages": [
+    47
+   ]
+  },
+  {
+   "en": "Eliminate options with closed-ended words (always, never, only, all, must).",
+   "zh": "刪除含封閉字詞（總是、絕不、只、所有、必須）的選項。",
+   "pdf_pages": [
+    53
+   ]
+  },
+  {
+   "en": "Digoxin toxicity: GI upset, neurologic and visual changes, bradycardia; call provider if pulse < 60; keep potassium normal (3.5-5.0 mEq/L).",
+   "zh": "毛地黃中毒：腸胃不適、神經與視覺改變、心搏過緩；脈搏低於 60 要通報；鉀需維持正常（3.5-5.0 mEq/L）。",
+   "pdf_pages": [
+    47,
+    51
+   ]
+  },
+  {
+   "en": "Morphine suppresses cough and respiration: priority is coughing and deep breathing (airway/breathing).",
+   "zh": "嗎啡抑制咳嗽與呼吸：優先鼓勵咳嗽與深呼吸（氣道/呼吸）。",
+   "pdf_pages": [
+    48
+   ]
+  },
+  {
+   "en": "Cast with pain on passive movement: assess for paresthesia/paralysis (compartment syndrome) first.",
+   "zh": "石膏處被動活動疼痛：先評估感覺異常/麻痺（腔室症候群）。",
+   "pdf_pages": [
+    49
+   ]
+  },
+  {
+   "en": "Nitroglycerin: unrelieved chest pain after one SL tablet, give another (up to 3 tablets 5 minutes apart) after checking blood pressure.",
+   "zh": "硝化甘油：舌下一顆後胸痛未緩解，可再給（每 5 分鐘最多 3 顆），並先確認血壓。",
+   "pdf_pages": [
+    50
+   ]
+  },
+  {
+   "en": "Early hypovolemic shock sign is increased pulse (and restlessness); increased respiratory depth comes later.",
+   "zh": "低血容性休克早期徵象為脈搏加快（與不安）；呼吸加深較晚出現。",
+   "pdf_pages": [
+    46
+   ]
+  },
+  {
+   "en": "Reference ranges cited: Na 135-145, K 3.5-5.0, phosphorus 3.0-4.5 mg/dL, Mg 1.8-2.6 mEq/L, pH 7.35-7.45.",
+   "zh": "本章所列參考值：鈉 135-145、鉀 3.5-5.0、磷 3.0-4.5 mg/dL、鎂 1.8-2.6 mEq/L、pH 7.35-7.45。",
+   "pdf_pages": [
+    49,
+    51
+   ]
+  },
+  {
+   "en": "First-dose ACE inhibitor (-pril): monitor blood pressure (first-dose hypotension).",
+   "zh": "ACE 抑制劑（-pril）首劑：監測血壓（首劑低血壓）。",
+   "pdf_pages": [
+    55
+   ]
+  },
+  {
+   "en": "Delegation: AP for stable, noninvasive tasks; client with bed rest to AP; invasive/unstable clients to licensed nurses.",
+   "zh": "委派：穩定、非侵入性工作給 AP；臥床休養者可給 AP；侵入性/不穩定者給有執照護理人員。",
+   "pdf_pages": [
+    54
+   ]
+  },
+  {
+   "en": "Therapeutic communication: address the client's feelings; avoid asking 'why', false reassurance and blunt replies.",
+   "zh": "治療性溝通：回應病人感受；避免問『為什麼』、虛假保證與生硬回應。",
+   "pdf_pages": [
+    53
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "ABC then CAB for CPR: Airway-Breathing-Circulation normally; Compressions-Airway-Breathing during CPR.",
+   "zh": "一般 ABC（氣道-呼吸-循環）；CPR 時改為 CAB（按壓-氣道-呼吸）。",
+   "pdf_pages": [
+    47
+   ]
+  },
+  {
+   "en": "Maslow ladder: Physiological, Safety, Love/belonging, Esteem, Self-actualization.",
+   "zh": "馬斯洛階梯：生理、安全、愛與歸屬、自尊、自我實現。",
+   "pdf_pages": [
+    48
+   ]
+  },
+  {
+   "en": "Closed-ended words to distrust: all, always, every, must, none, never, only.",
+   "zh": "需警覺的封閉字詞：所有、總是、每個、必須、沒有、絕不、只。",
+   "pdf_pages": [
+    53
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 44,
+   "caption": {
+    "en": "Box 4.4: ingredients of a question (event, event query, options).",
+    "zh": "Box 4.4：題目組成（事件、詢問、選項）。"
+   }
+  },
+  {
+   "pdf_page": 45,
+   "caption": {
+    "en": "Box 4.5: NGN trend highlight-in-table item (type 2 diabetes vitals and labs).",
+    "zh": "Box 4.5：NGN 趨勢表格標示題（第 2 型糖尿病生命徵象與檢驗）。"
+   }
+  },
+  {
+   "pdf_page": 46,
+   "caption": {
+    "en": "Strategy table showing normal/abnormal, trend and complication for each finding.",
+    "zh": "各發現的正常/異常、趨勢與併發症判斷表。"
+   }
+  },
+  {
+   "pdf_page": 48,
+   "caption": {
+    "en": "Fig 4.1: Maslow's hierarchy of needs applied to nursing priorities.",
+    "zh": "圖 4.1：馬斯洛需求層次在護理優先順序的應用。"
+   }
+  },
+  {
+   "pdf_page": 54,
+   "caption": {
+    "en": "Delegation guidelines for AP, LPN/LVN and RN (Box 4.24).",
+    "zh": "AP、LPN/LVN 與 RN 的委派原則（Box 4.24）。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client taking morphine for cancer pain is receiving care. Which action has priority?",
+    "zh": "癌症病人使用嗎啡止痛。哪項措施優先？"
+   },
+   "options": [
+    {
+     "en": "Monitor stools",
+     "zh": "監測排便"
+    },
+    {
+     "en": "Monitor urine output",
+     "zh": "監測尿量"
+    },
+    {
+     "en": "Encourage fluid intake",
+     "zh": "鼓勵飲水"
+    },
+    {
+     "en": "Encourage coughing and deep breathing",
+     "zh": "鼓勵咳嗽與深呼吸"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Use ABCs: opioids can depress respiration and cough, so airway/breathing come first.",
+    "zh": "運用 ABC：鴉片類藥物可抑制呼吸與咳嗽，故氣道/呼吸優先。"
+   },
+   "pdf_pages": [
+    48
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client has a new right arm cast and pain at the wrist with passive movement. What should the nurse do first?",
+    "zh": "病人右臂新打石膏，被動活動手腕時疼痛。護理師首先該做什麼？"
+   },
+   "options": [
+    {
+     "en": "Elevate the arm",
+     "zh": "抬高手臂"
+    },
+    {
+     "en": "Document the finding",
+     "zh": "記錄"
+    },
+    {
+     "en": "Check for paresthesia and paralysis",
+     "zh": "檢查感覺異常與麻痺"
+    },
+    {
+     "en": "Give an additional opioid",
+     "zh": "額外給予鴉片類藥物"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Assessment comes first; the cue suggests possible compartment syndrome.",
+    "zh": "先評估；此線索提示可能的腔室症候群。"
+   },
+   "pdf_pages": [
+    49
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which statements reflect test-taking strategy? Select all that apply.",
+    "zh": "下列哪些符合應試策略？（複選）"
+   },
+   "options": [
+    {
+     "en": "Eliminate options containing 'always' or 'never'",
+     "zh": "刪除含『總是』或『絕不』的選項"
+    },
+    {
+     "en": "Choose the umbrella option when it covers the others",
+     "zh": "涵蓋其他選項的傘狀選項常為答案"
+    },
+    {
+     "en": "Assume resources are not available at the bedside",
+     "zh": "假設床邊沒有所需資源"
+    },
+    {
+     "en": "For first-action questions, collecting data is often correct",
+     "zh": "問首先行動時，蒐集資料常為正確"
+    },
+    {
+     "en": "Treat several clients in one traditional item",
+     "zh": "傳統題要同時顧及其他病人"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "The nurse should assume the client in the question is the only client and that all resources are available.",
+    "zh": "應假設題中病人是唯一病人，且資源齊備。"
+   },
+   "pdf_pages": [
+    53,
+    54,
+    51
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking digoxin reports nausea. Which laboratory value needs follow-up?",
+    "zh": "服用毛地黃的病人噁心。哪項檢驗值需追蹤？"
+   },
+   "options": [
+    {
+     "en": "Sodium 138 mEq/L",
+     "zh": "鈉 138 mEq/L"
+    },
+    {
+     "en": "Potassium 3.3 mEq/L",
+     "zh": "鉀 3.3 mEq/L"
+    },
+    {
+     "en": "Phosphorus 3.1 mg/dL",
+     "zh": "磷 3.1 mg/dL"
+    },
+    {
+     "en": "Magnesium 1.8 mEq/L",
+     "zh": "鎂 1.8 mEq/L"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Potassium below 3.5 raises the risk of digoxin toxicity.",
+    "zh": "鉀低於 3.5 會增加毛地黃中毒風險。"
+   },
+   "pdf_pages": [
+    51
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "ABG: pH 7.45, PCO2 30 mm Hg, HCO3 22 mEq/L. Interpret.",
+    "zh": "動脈血氣：pH 7.45、PCO2 30 mm Hg、HCO3 22 mEq/L。判讀為何？"
+   },
+   "options": [
+    {
+     "en": "Compensated metabolic acidosis",
+     "zh": "代償性代謝性酸中毒"
+    },
+    {
+     "en": "Compensated respiratory alkalosis",
+     "zh": "代償性呼吸性鹼中毒"
+    },
+    {
+     "en": "Uncompensated metabolic alkalosis",
+     "zh": "未代償代謝性鹼中毒"
+    },
+    {
+     "en": "Uncompensated respiratory acidosis",
+     "zh": "未代償呼吸性酸中毒"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "PCO2 is low with pH at the high-normal end, indicating respiratory alkalosis that is compensated.",
+    "zh": "PCO2 低且 pH 在正常高端，為已代償的呼吸性鹼中毒。"
+   },
+   "pdf_pages": [
+    49
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which client would the nurse assign to the assistive personnel?",
+    "zh": "護理師會將哪位病人指派給助理（AP）？"
+   },
+   "options": [
+    {
+     "en": "A client on strict bed rest",
+     "zh": "嚴格臥床休養的病人"
+    },
+    {
+     "en": "A client receiving oxygen for dyspnea",
+     "zh": "因呼吸困難使用氧氣的病人"
+    },
+    {
+     "en": "A client scheduled for transfer to surgery",
+     "zh": "將轉送手術的病人"
+    },
+    {
+     "en": "A client with tube feedings every 4 hours",
+     "zh": "每 4 小時管灌的病人"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "The AP can care for stable clients needing noninvasive care; others need licensed nurse assessment.",
+    "zh": "AP 可照顧穩定且非侵入性需求的病人；其他需有執照護理人員評估。"
+   },
+   "pdf_pages": [
+    54
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client on contact precautions for MRSA needs a wound vac foam change. Which is the umbrella answer?",
+    "zh": "MRSA 接觸隔離病人需更換負壓傷口敷料泡棉。哪個是傘狀答案？"
+   },
+   "options": [
+    {
+     "en": "Gloves and a mask",
+     "zh": "手套與口罩"
+    },
+    {
+     "en": "Contact precautions",
+     "zh": "接觸隔離措施"
+    },
+    {
+     "en": "Airborne precautions",
+     "zh": "空氣隔離措施"
+    },
+    {
+     "en": "Face shield and gloves",
+     "zh": "面罩與手套"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Contact precautions include gown and gloves, plus face shield if splashing, covering the other options' concepts.",
+    "zh": "接觸隔離含隔離衣與手套，若有噴濺加面罩，涵蓋其他選項概念。"
+   },
+   "pdf_pages": [
+    54
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client scheduled for surgery says, \"I'm not sure if I should have this surgery.\" Which response is best?",
+    "zh": "術前病人說：「我不確定該不該開這個刀。」最佳回應為何？"
+   },
+   "options": [
+    {
+     "en": "It's your decision.",
+     "zh": "這是你的決定。"
+    },
+    {
+     "en": "Don't worry. Everything will be fine.",
+     "zh": "別擔心，一切都會好的。"
+    },
+    {
+     "en": "Why don't you want the surgery?",
+     "zh": "你為什麼不想開刀？"
+    },
+    {
+     "en": "Tell me what concerns you have about the surgery.",
+     "zh": "告訴我你對手術有什麼擔心。"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Open-ended therapeutic communication addresses the client's feelings.",
+    "zh": "開放式治療性溝通回應病人感受。"
+   },
+   "pdf_pages": [
+    53
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Delegation & Assignment NCLEX Practice Quiz (GoodNurse)",
+   "url": "https://goodnurse.com/free-nclex-practice-questions/delegation-and-assignment-quiz",
+   "note": {
+    "en": "Free delegation practice questions.",
+    "zh": "免費委派練習題。"
+   }
+  },
+  {
+   "title": "Nursing Prioritization, Delegation, Assignment Practice Exam (Nurseslabs)",
+   "url": "https://nurseslabs.com/quizzes/nclex-prioritization-quiz-2/",
+   "note": {
+    "en": "25-question prioritization quiz.",
+    "zh": "25 題優先順序測驗。"
+   }
+  },
+  {
+   "title": "How to Use the Clinical Judgment Measurement Model on the NGN",
+   "url": "https://dailynurse.springerpub.com/?p=60957",
+   "note": {
+    "en": "NCJMM explanation for test strategy.",
+    "zh": "NCJMM 說明，供應試策略參考。"
+   }
+  },
+  {
+   "title": "Free 2026 NCLEX Practice Questions with Answers",
+   "url": "https://allhealthcarecareers.com/nclex-practice-tests/",
+   "note": {
+    "en": "Free practice tests across Client Needs.",
+    "zh": "涵蓋各病人需求的免費模擬題。"
+   }
+  }
+ ]
+}

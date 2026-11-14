@@ -1,0 +1,99 @@
+{
+"number":20,
+"title":{"en":"Care of the Older Client","zh":"老年個案的照護"},
+"overview":{"en":"This chapter reviews normal age-related changes in each body system, common psychosocial and mental health concerns, pain, infection, medication safety, and mistreatment in older adults. Falls, medication toxicity, and atypical presentation of illness are the recurring NCLEX themes.","zh":"本章整理老化在各身體系統的正常變化，以及老年人常見的心理社會與心理健康問題、疼痛、感染、用藥安全與受虐議題。跌倒、藥物毒性與疾病非典型表現是 NCLEX 常考重點。"},
+"sections":[
+{"heading":{"en":"Aging and Gerontology; Skin, Neuro and Musculoskeletal Changes","zh":"老化與老年學；皮膚、神經與肌肉骨骼變化"},"points":[
+{"en":"Aging is a lifelong biopsychosocial process; gerontology is the study of aging.","zh":"老化是從出生到死亡的生物、心理、社會變化歷程；老年學是研究老化的學科。"},
+{"en":"Skin: thinner epidermis, less elasticity, turgor, subcutaneous fat and sweating; bruises and tears easily, tolerates temperature extremes poorly.","zh":"皮膚：表皮變薄、彈性與膚質張力下降、皮下脂肪與出汗減少；容易瘀青撕裂，對冷熱耐受差。"},
+{"en":"Skin care: inspect nails, cut toenails straight across, moisturize, ensure protein and fluids, dress for the weather.","zh":"皮膚照護：檢查指甲、趾甲剪平、擦保濕劑、補充蛋白質與水分、依氣溫穿衣。"},
+{"en":"Neuro: slowed reflexes, tremor, poor balance, more night awakenings, short-term memory may decline while long-term memory is kept; do not rush the client.","zh":"神經：反射變慢、輕微顫抖、平衡差、夜間易醒；短期記憶可能下降，長期記憶多半保留；不要催促個案。"},
+{"en":"Musculoskeletal: muscle atrophy, bone demineralization, kyphosis and height loss, wider-based shortened gait; combined with neuro changes this raises fall risk.","zh":"肌肉骨骼：肌肉萎縮、骨質流失、駝背與身高變矮、步態變短且底寬；與神經變化合併使跌倒風險增加。"}],
+"pdf_pages":[301,302]},
+{"heading":{"en":"Cardiovascular, Respiratory, Blood, Immune and GI Changes","zh":"心血管、呼吸、血液、免疫與消化變化"},"points":[
+{"en":"Cardiovascular: stiffer, thicker valves, lower cardiac output and exercise tolerance, weaker pulses, higher BP yet prone to orthostatic hypotension.","zh":"心血管：瓣膜變厚變硬、心輸出量與運動耐受下降、脈搏較弱、血壓偏高但易姿勢性低血壓。"},
+{"en":"Respiratory: lower chest wall compliance, fewer alveoli, shallow breaths, weaker cough; respiratory rate itself is unchanged; infections are worse.","zh":"呼吸：胸壁順應性下降、肺泡減少、呼吸變淺、咳痰能力差；呼吸速率本身不變；感染更嚴重。"},
+{"en":"Blood: Hgb/Hct at low end of normal, more clotting tendency, less albumin available to bind drugs.","zh":"血液：Hgb/Hct 偏低正常範圍、較易凝血、可結合藥物的蛋白質減少。"},
+{"en":"Immune: reduced resistance; recommend influenza, pneumococcal and shingles vaccines.","zh":"免疫：抵抗力下降；建議接種流感、肺炎鏈球菌與帶狀疱疹疫苗。"},
+{"en":"GI: lower caloric need, appetite and thirst, slowed motility, constipation, dehydration risk, dental problems, reduced taste/smell/saliva.","zh":"消化：熱量需求、食慾與口渴感下降、腸蠕動變慢、便秘、易脫水、牙齒問題、味覺嗅覺與唾液減少。"}],
+"pdf_pages":[301,302]},
+{"heading":{"en":"Endocrine, Renal, Reproductive and Sensory Changes","zh":"內分泌、腎臟、生殖與感覺變化"},"points":[
+{"en":"Endocrine: lower metabolic rate, decreased glucose tolerance with peripheral insulin resistance; dress warmly.","zh":"內分泌：代謝率下降、葡萄糖耐受降低且周邊胰島素阻抗；需保暖。"},
+{"en":"Renal: smaller kidneys, lower GFR, reduced concentrating ability, smaller bladder capacity, more residual urine and infection; impaired drug excretion.","zh":"腎臟：腎臟縮小、GFR 下降、濃縮能力差、膀胱容量小、殘尿與感染增加；藥物排除受損。"},
+{"en":"Bladder tips: limit fluids 2-4 hr before bed and void at least every 2 hr to prevent overflow incontinence.","zh":"膀胱照護：睡前 2-4 小時減少飲水，至少每 2 小時排尿以預防滿溢性尿失禁。"},
+{"en":"Reproductive: lower testosterone, prostate changes (hesitancy, retention), vaginal dryness and reduced tone after menopause; teach Kegel exercises; sexual function varies.","zh":"生殖：睪固酮下降、攝護腺改變（遲滯、滯留）、停經後陰道乾澀與肌張力下降；教導凱格爾運動；性功能因人而異。"},
+{"en":"Senses: reduced acuity, glare sensitivity, presbyopia and cataracts; hearing loss of high-frequency sounds so low-pitched tones are heard better; reduced pain awareness.","zh":"感覺：視力下降、怕眩光、老花與白內障；高頻聽力喪失，低音調較易聽見；痛覺遲鈍。"}],
+"pdf_pages":[302,303]},
+{"heading":{"en":"Psychosocial and Mental Health Concerns","zh":"心理社會與心理健康議題"},"points":[
+{"en":"Concerns include loss of independence, retirement and income, role change, loss of loved ones, health-care costs, and body image.","zh":"常見困擾：失去獨立性、退休與收入減少、角色改變、親友逝去、醫療費用、身體形象。"},
+{"en":"Depression is common and may present as helplessness and low self-worth; always take suicide threats seriously.","zh":"憂鬱常見，可表現為無助感與低自尊；任何自殺言語都須重視。"},
+{"en":"Grief and isolation are also frequent; effective coping after a death includes social activities and reminiscing, not neglect of grooming.","zh":"哀傷與孤立也常見；喪親後有效的因應包括參與社交與回憶，而非忽略儀容。"},
+{"en":"Differentiate delirium (sudden, fluctuating, worse at night, impaired attention), depression (recent onset, flat affect, 'I don't know'), and dementia (insidious, years, stable).","zh":"鑑別譫妄（突發、波動、夜間加重、注意力受損）、憂鬱（近期發作、情感平淡、常答不知道）與失智（隱匿、歷時數年、穩定）。"},
+{"en":"Promote autonomy by letting the client make choices.","zh":"提供選擇讓個案自己決定，以促進自主。"}],
+"pdf_pages":[303,304]},
+{"heading":{"en":"Pain","zh":"疼痛"},"points":[
+{"en":"Pain is often musculoskeletal and under-reported because older adults think it is normal aging or fear tests.","zh":"疼痛多來自肌肉骨骼退化，且老人常因以為是老化或害怕檢查而少報。"},
+{"en":"Cues: restlessness, agitation, moaning, crying, verbal report.","zh":"線索：躁動不安、激動、呻吟、哭泣、口述疼痛。"},
+{"en":"Set functional goals; use nonpharmacologic measures (distraction, relaxation, massage, heat/ice, stretching).","zh":"設定功能性目標；採用非藥物措施（分散注意、放鬆、按摩、冷熱敷、伸展）。"},
+{"en":"Avoid opioids when possible; acetaminophen, topical lidocaine and others may be prescribed; evaluate effect.","zh":"盡量避免使用鴉片類；可處方乙醯胺酚、利多卡因貼片等；並評估成效。"}],
+"pdf_pages":[303]},
+{"heading":{"en":"Infection","zh":"感染"},"points":[
+{"en":"Altered mental status, especially with a urinary tract infection, is a common sign of infection in the older adult.","zh":"意識狀態改變是老人感染（尤其泌尿道感染）的常見徵象。"},
+{"en":"Nonspecific signs: anorexia, apathy, functional decline, falls, incontinence, tachypnea, hyperglycemia, BP below baseline.","zh":"非特異性徵象：厭食、冷漠、功能下降、跌倒、尿失禁、呼吸急促、高血糖、血壓低於基準。"},
+{"en":"Risks: poor hygiene, poor nutrition or weight loss, inactivity, poor support, low albumin.","zh":"風險因子：衛生不佳、營養不良或體重減輕、缺乏活動、社會支持差、低白蛋白。"}],
+"pdf_pages":[304]},
+{"heading":{"en":"Medication Safety","zh":"用藥安全"},"points":[
+{"en":"Problems: adverse effects, interactions, errors, nonadherence, polypharmacy, cost. Doses are often one-third to one-half of adult dose.","zh":"問題：副作用、交互作用、用藥錯誤、不遵從、多重用藥、費用。劑量常為成人的三分之一至二分之一。"},
+{"en":"A sudden mental status change is a common sign of adverse drug reaction.","zh":"突然的意識狀態改變是藥物不良反應的常見徵象。"},
+{"en":"Beers Criteria drugs to avoid: NSAIDs/ketorolac/indomethacin/meperidine, first-generation tricyclics and antihistamines, alpha-1 blockers, oxybutynin/tolterodine, muscle relaxants, benzodiazepines and barbiturates.","zh":"Beers 準則應避免：NSAIDs/ketorolac/indomethacin/meperidine、第一代三環抗憂鬱劑與抗組織胺、alpha-1 阻斷劑、oxybutynin/tolterodine、肌肉鬆弛劑、苯二氮平類與巴比妥類。"},
+{"en":"Aspiration-safe oral meds: sit upright, one pill at a time, stay upright 30 min; do not crush enteric-coated or sustained-release tablets; thicken liquids, avoid straws.","zh":"預防吸入的口服給藥：坐直、一次一顆、服後維持直立 30 分鐘；腸溶或長效錠不可磨碎；液體增稠、避免用吸管。"},
+{"en":"Polypharmacy first step: identify duplications; use one pharmacy, pill organizer, up-to-date list, and teach-back.","zh":"多重用藥首要步驟：找出重複用藥；固定一家藥局、使用藥盒、隨身攜帶最新藥單、使用回覆示教。"}],
+"pdf_pages":[304,305,306]},
+{"heading":{"en":"Mistreatment of the Older Adult","zh":"老人受虐"},"points":[
+{"en":"Domestic mistreatment occurs at home (physical, psychological, financial, sexual, neglect, abandonment); institutional mistreatment occurs in facilities.","zh":"家庭內虐待發生於家中（身體、心理、財務、性、疏忽、遺棄）；機構內虐待發生於照護機構。"},
+{"en":"Self-neglect is a competent person's choice; the person may refuse care unless declared incompetent.","zh":"自我忽視是有行為能力者的選擇，除非被判無行為能力，否則有權拒絕照護。"},
+{"en":"Highest risk: dependent, immobile or cognitively impaired clients living with the abuser.","zh":"高風險：依賴、行動不便或認知受損且與施虐者同住者。"},
+{"en":"Nurse actions: thorough injury assessment, private nonjudgmental interview, report to authorities, safety plan and resources.","zh":"護理行動：完整傷勢評估、隱私且不批判的會談、通報主管機關、擬定安全計畫並提供資源。"},
+{"en":"Teach about scams: verify callers and never give bank, card, password or SSN information.","zh":"教導防詐騙：查證來電者，絕不透露銀行、信用卡、密碼或社會安全號碼。"}],
+"pdf_pages":[306]}
+],
+"critical_points":[
+{"en":"Falls risk comes from combined neurologic and musculoskeletal changes; do not rush the client and assess need for a cane or walker.","zh":"跌倒風險來自神經與肌肉骨骼變化的合併；不要催促個案並評估是否需拐杖或助行器。","pdf_pages":[301]},
+{"en":"Decreased lean mass and GFR cause drug accumulation, so older clients are at risk for medication toxicity (e.g., digoxin).","zh":"瘦體重與 GFR 下降使藥物蓄積，老人易發生藥物毒性（如 digoxin）。","pdf_pages":[302,306]},
+{"en":"Respiratory rate is usually unchanged with aging; heart rate tends to decrease.","zh":"老化時呼吸速率通常不變；心跳速率傾向下降。","pdf_pages":[302]},
+{"en":"Short-term memory may decline but long-term memory is usually preserved; marked loss is not normal.","zh":"短期記憶可能下降但長期記憶通常保留。","pdf_pages":[301]},
+{"en":"Sudden confusion in an older adult suggests infection (often UTI) or drug reaction: assess first.","zh":"老人突發意識混亂應考慮感染（常為 UTI）或藥物反應，先行評估。","pdf_pages":[304,305]},
+{"en":"Delirium is sudden, fluctuating and worse at night; dementia is slow and progressive; depression has flat affect.","zh":"譫妄突發、波動、夜間惡化；失智緩慢進行；憂鬱情感平淡。","pdf_pages":[304]},
+{"en":"Any suicide threat by an older client must be taken seriously.","zh":"老人任何自殺言語都必須嚴肅處理。","pdf_pages":[303]},
+{"en":"High-frequency hearing is lost first; speak in a low pitch, face the client.","zh":"高頻聽力先喪失；說話用低音調並面對個案。","pdf_pages":[303,307]},
+{"en":"Avoid Beers Criteria drugs (benzodiazepines, first-generation antihistamines, meperidine, NSAIDs, etc.).","zh":"避免 Beers 準則所列藥物（苯二氮平類、第一代抗組織胺、meperidine、NSAIDs 等）。","pdf_pages":[305]},
+{"en":"Do not crush enteric-coated or sustained-release tablets; keep upright 30 minutes after oral meds if aspiration risk.","zh":"腸溶與長效錠不可磨碎；有吸入風險者服藥後維持直立 30 分鐘。","pdf_pages":[305]},
+{"en":"With polypharmacy, first identify duplicate medications, then interactions, then involve the provider.","zh":"多重用藥時先找重複用藥，再查交互作用，最後聯絡醫療提供者。","pdf_pages":[304,307,308]},
+{"en":"Suspected elder abuse: assess, protect confidentiality, report, safety plan; most at risk are dependent, impaired clients.","zh":"疑似老人虐待：評估、保密、通報、安全計畫；最高風險為依賴、功能受損者。","pdf_pages":[306]},
+{"en":"Older adults need flu, pneumococcal and shingles vaccines.","zh":"老人應接種流感、肺炎鏈球菌與帶狀疱疹疫苗。","pdf_pages":[302]}
+],
+"mnemonics":[
+{"en":"Three D's: Delirium = acute and fluctuating; Depression = affect flat; Dementia = decades slow.","zh":"三個 D：譫妄＝急性波動；憂鬱＝情感平淡；失智＝多年緩慢。","pdf_pages":[304]},
+{"en":"Beers drug groups: 'Pain, Mood, Allergy, BP, Bladder, Muscle, Sleep' (analgesics, TCAs, antihistamines, alpha blockers, antimuscarinics, relaxants, sedatives).","zh":"Beers 藥物類別記憶：痛、情緒、過敏、血壓、膀胱、肌肉、睡眠。","pdf_pages":[305]}
+],
+"figures":[
+{"pdf_page":302,"caption":{"en":"Fig. 20.1: spine at ages 40, 60, 70 showing osteoporotic kyphosis and height loss up to 6 inches (dowager's hump).","zh":"圖 20.1：40、60、70 歲脊椎變化，顯示骨質疏鬆造成駝背與身高減少最多約 15 公分。"}},
+{"pdf_page":304,"caption":{"en":"Table 20.1 compares delirium, depression and dementia; Box 20.1 lists nonspecific signs of infection.","zh":"表 20.1 比較譫妄、憂鬱與失智；框 20.1 列出感染的非特異性徵象。"}},
+{"pdf_page":305,"caption":{"en":"Box 20.2 (Beers drugs to avoid) and Box 20.3 (oral medication steps for aspiration risk).","zh":"框 20.2（應避免的 Beers 藥物）與框 20.3（吸入風險者口服給藥步驟）。"}},
+{"pdf_page":306,"caption":{"en":"Clinical Judgment box: actions for suspected elder abuse.","zh":"臨床判斷框：疑似老人虐待的處置。"}}
+],
+"questions":[
+{"stem":{"en":"An older client with heart failure takes digoxin. Which age-related changes put the client at risk for digoxin toxicity?","zh":"一位服用 digoxin 的老年心衰竭個案，哪些老化變化使其有 digoxin 中毒風險？"},"options":[{"en":"Decreased gastric absorption","zh":"胃吸收下降"},{"en":"Decreased lean body mass and decreased GFR","zh":"瘦體重與 GFR 下降"},{"en":"Increased albumin levels","zh":"白蛋白上升"},{"en":"Increased hepatic blood flow","zh":"肝血流增加"}],"answer":[1],"rationale":{"en":"Less lean mass and lower renal clearance cause drug accumulation and toxicity.","zh":"瘦體重減少與腎清除率降低使藥物蓄積而中毒。"},"pdf_pages":[302,306],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which are normal age-related changes? Select all that apply.","zh":"下列何者為正常老化變化？（複選）"},"options":[{"en":"Decline in visual acuity","zh":"視力下降"},{"en":"Decreased respiratory rate","zh":"呼吸速率下降"},{"en":"Increased susceptibility to urinary tract infection","zh":"泌尿道感染易感性增加"},{"en":"More awakenings after sleep onset","zh":"入睡後易醒增加"},{"en":"Loss of long-term memory","zh":"長期記憶喪失"}],"answer":[0,2,3],"rationale":{"en":"Respiratory rate is unchanged and long-term memory is usually preserved.","zh":"呼吸速率不變，長期記憶通常保留。"},"pdf_pages":[302,303],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"An older client suddenly becomes confused, with a low-grade temperature and no previous cognitive problems. What is the nurse's priority?","zh":"一位老年個案突然意識混亂、微燒，先前無認知問題。護理師的優先處置為何？"},"options":[{"en":"Attribute it to dementia and document","zh":"歸因於失智並記錄"},{"en":"Assess for infection such as UTI and medication effects","zh":"評估是否有感染（如 UTI）及藥物影響"},{"en":"Apply restraints","zh":"使用約束"},{"en":"Give a sedative","zh":"給予鎮靜劑"}],"answer":[1],"rationale":{"en":"Acute confusion (delirium) is often the first sign of infection or adverse drug reaction in older adults.","zh":"急性混亂（譫妄）常是老人感染或藥物不良反應的首發徵象。"},"pdf_pages":[304,305],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which client is MOST likely a victim of elder abuse?","zh":"下列何者最可能是老人虐待受害者？"},"options":[{"en":"Moderate hypertension, independent","zh":"中度高血壓、生活自理"},{"en":"New cataracts","zh":"新診斷白內障"},{"en":"Advanced Parkinson disease, dependent on a caregiver","zh":"晚期帕金森氏症、依賴照顧者"},{"en":"Early Lyme disease","zh":"早期萊姆病"}],"answer":[2],"rationale":{"en":"Dependence from immobility or impairment is the main risk factor.","zh":"行動或功能受損導致依賴是主要風險。"},"pdf_pages":[306,307],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A home care nurse reviews a first-visit client taking 19 prescriptions plus OTC drugs. Which action is first?","zh":"居家護理師首次訪視，個案服用 19 種處方藥及成藥。首要措施為何？"},"options":[{"en":"Check for interactions","zh":"檢查交互作用"},{"en":"Identify duplicate medications","zh":"找出重複用藥"},{"en":"Call the provider about polypharmacy","zh":"打電話給醫師報告多重用藥"},{"en":"Ask who supervises","zh":"詢問誰監督服藥"}],"answer":[1],"rationale":{"en":"You must know what is taken, including duplications, before judging interactions or calling the provider.","zh":"需先清楚用藥內容與重複，再評估交互作用與聯絡醫師。"},"pdf_pages":[304,307],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"The nurse teaches an assistant about a client with age-related hearing loss. What is correct?","zh":"護理師向助理說明老年聽力喪失個案，何者正確？"},"options":[{"en":"They hear high-pitched tones best","zh":"高音調聽得最清楚"},{"en":"They respond to low-pitched tones","zh":"對低音調反應較佳"},{"en":"Shout loudly in a high voice","zh":"用高音量大喊"},{"en":"They have increased cerumen moisture","zh":"耳垢變濕"}],"answer":[1],"rationale":{"en":"High-frequency loss means low-pitched voices are better understood.","zh":"高頻喪失，因此低音調較易聽懂。"},"pdf_pages":[303,307],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which medication-administration actions are appropriate for an older client at risk for aspiration? Select all that apply.","zh":"對有吸入風險的老年個案，下列哪些給藥措施合適？（複選）"},"options":[{"en":"Sit the client upright","zh":"讓個案坐直"},{"en":"Crush the enteric-coated tablet","zh":"磨碎腸溶錠"},{"en":"Give pills one at a time","zh":"一次給一顆藥"},{"en":"Thicken liquids and avoid straws","zh":"液體增稠並避免吸管"},{"en":"Keep upright 30 minutes afterward","zh":"服藥後維持直立 30 分鐘"}],"answer":[0,2,3,4],"rationale":{"en":"Enteric-coated and sustained-release tablets must not be crushed.","zh":"腸溶與長效錠不可磨碎。"},"pdf_pages":[305],"source":{"type":"original","title":"Original practice question based on the chapter"}}
+],
+"resources":[
+{"title":"Toronto Metropolitan University Pressbooks: Long-Term Care and Homecare NCLEX-style questions","url":"https://pressbooks.library.torontomu.ca/ppn202/chapter/nclex-style-questions-5/","note":{"en":"Open-textbook NCLEX-style questions on long-term care and home care.","zh":"開放教科書中的長照與居家照護 NCLEX 風格題。"}},
+{"title":"Oncourse: Aging and Health Promotion questions","url":"https://getoncourse.ai/questions/nclex-rn/gerontological-nursing/aging-health-promotion/","note":{"en":"Sample gerontological NCLEX-RN questions (some content may need sign-up).","zh":"老年護理 NCLEX-RN 範例題（部分內容可能需註冊）。"}},
+{"title":"ANCC Gerontological sample test questions (nursingworld.org)","url":"https://www.nursingworld.org/certification/our-certifications/study-aids-ce/sample-test-questions/stq-gero","note":{"en":"Free sample questions for the gerontological certification exam; format differs from NCLEX.","zh":"老年護理認證考試免費範例題，格式與 NCLEX 不同。"}}
+]
+}

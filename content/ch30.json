@@ -1,0 +1,648 @@
+{
+ "number": 30,
+ "title": {
+  "en": "Integumentary Problems",
+  "zh": "皮膚問題"
+ },
+ "overview": {
+  "en": "Pediatric skin disorders: eczema, impetigo, head lice, scabies and burns. Focus on infection control, correct topical medication use, home decontamination teaching and the special features of burns in children.",
+  "zh": "小兒皮膚疾病：濕疹、膿痂疹、頭蝨、疥瘡與燒傷。重點為感染控制、外用藥正確使用、居家環境處理衛教，以及兒童燒傷的特殊性。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Eczema (dermatitis)",
+    "zh": "濕疹（皮膚炎）"
+   },
+   "points": [
+    {
+     "en": "Superficial inflammation of the epidermis; linked to family history, allergies, asthma, allergic rhinitis.",
+     "zh": "表皮淺層發炎；與家族史、過敏、氣喘、過敏性鼻炎有關。"
+    },
+    {
+     "en": "Signs: itching, redness, scaling, tiny papules and vesicles, weeping/oozing and crusting; typical on scalp, face, elbow/knee creases, neck, wrists, ankles; axilla, buttocks, groin uncommon.",
+     "zh": "症狀：搔癢、紅斑、脫屑、小丘疹與水泡、滲液結痂；好發頭皮、臉、肘膝彎處、頸、腕、踝；腋下、臀、鼠蹊少見。"
+    },
+    {
+     "en": "Infantile form starts at 2-6 months and may remit by 3 years; childhood form 2-3 years; adolescent form from about 12 years onward.",
+     "zh": "嬰兒型 2–6 個月開始，3 歲前可能緩解；兒童型 2–3 歲；青少年型約 12 歲起。"
+    },
+    {
+     "en": "Goals: relieve itch, hydrate skin, reduce inflammation, prevent/control secondary infection.",
+     "zh": "目標：止癢、保濕、消炎、預防或控制續發感染。"
+    }
+   ],
+   "pdf_pages": [
+    438
+   ]
+  },
+  {
+   "heading": {
+    "en": "Eczema care",
+    "zh": "濕疹照護"
+   },
+   "points": [
+    {
+     "en": "Short (5-10 min) lukewarm baths, oatmeal soothing; moisturize immediately with thick cream/ointment.",
+     "zh": "短時間（5–10 分鐘）微溫水浴，可用燕麥浴；浴後立即塗厚層乳霜或軟膏。"
+    },
+    {
+     "en": "Topical medication goes on within 3 minutes after the bath, before the moisturizer; corticosteroids in a thin layer rubbed in well.",
+     "zh": "外用藥於浴後 3 分鐘內先塗，再塗保濕劑；類固醇薄塗並充分推開。"
+    },
+    {
+     "en": "Avoid irritants: harsh soaps, detergents, fabric softeners, wipes, powder, wool, latex, heat, wet diapers.",
+     "zh": "避免刺激物：刺激性肥皂、洗衣精、柔軟精、濕紙巾、爽身粉、羊毛、乳膠、高溫、濕尿布。"
+    },
+    {
+     "en": "Keep nails short, cover hands with gloves/cotton socks; cool wet compresses for itch.",
+     "zh": "指甲剪短，手戴手套或棉襪；冷濕敷止癢。"
+    },
+    {
+     "en": "Honey-colored crusts with surrounding redness means secondary infection: seek care promptly.",
+     "zh": "蜜黃色痂皮伴周圍紅斑代表續發感染，應立即就醫。"
+    }
+   ],
+   "pdf_pages": [
+    438,
+    439
+   ]
+  },
+  {
+   "heading": {
+    "en": "Impetigo",
+    "zh": "膿痂疹"
+   },
+   "points": [
+    {
+     "en": "Contagious skin infection by group A strep and Staphylococcus aureus; more common in hot, humid months, often at insect bites or damaged skin.",
+     "zh": "由 A 群鏈球菌與金黃色葡萄球菌引起的傳染性皮膚感染；炎熱潮濕季節多見，常發生於蚊蟲叮咬或受損皮膚。"
+    },
+    {
+     "en": "Most common on face around mouth/nose, then hands, neck, extremities; vesicles/pustules rupture leaving honey-colored crusts.",
+     "zh": "好發於口鼻周圍，其次手、頸、四肢；水泡/膿疱破裂後留下蜜黃色痂皮。"
+    },
+    {
+     "en": "Contact isolation plus standard precautions; contagious until 24 hours after antibiotics started.",
+     "zh": "接觸隔離加標準防護；開始抗生素後 24 小時內仍具傳染性。"
+    },
+    {
+     "en": "Cover lesions, warm compresses 2-3 times daily to soften crusts, topical or oral antibiotics; finish the full course (risk of glomerulonephritis with strep).",
+     "zh": "覆蓋傷口，每日 2–3 次溫敷軟化痂皮，外用或口服抗生素；須完成療程（鏈球菌可併發腎絲球腎炎）。"
+    },
+    {
+     "en": "Separate towels, linens, utensils; hot-water wash of linens; bleach the tub; short nails; careful handwashing.",
+     "zh": "毛巾、床單、餐具分開；寢具以熱水清洗；浴缸以漂白水清潔；指甲剪短；勤洗手。"
+    }
+   ],
+   "pdf_pages": [
+    439
+   ]
+  },
+  {
+   "heading": {
+    "en": "Pediculosis capitis (lice)",
+    "zh": "頭蝨"
+   },
+   "points": [
+    {
+     "en": "Lice infest hair/scalp, mostly occipital area and behind ears; nits are glued to the hair shaft near the scalp and do not flake off like dandruff.",
+     "zh": "蝨子寄生頭髮與頭皮，多在枕部與耳後；蟲卵（蝨卵）牢固黏於近頭皮髮幹，不像頭皮屑易掉落。"
+    },
+    {
+     "en": "Spread by direct/indirect contact (brushes, hats, towels, bedding); lice live about 48 hours off the host; nits hatch in 7-10 days.",
+     "zh": "經直接或間接接觸（梳子、帽子、毛巾、寢具）傳播；離開宿主約存活 48 小時；卵 7–10 天孵化。"
+    },
+    {
+     "en": "Use pediculicide as prescribed; most not for infants under 6 months; lindane not for under 2 years (neurotoxicity, seizures).",
+     "zh": "依醫囑使用殺蝨劑；多數不適用 6 個月以下；林丹（lindane）不可用於 2 歲以下（神經毒性、癲癇）。"
+    },
+    {
+     "en": "Daily nit removal with fine metal comb (wear gloves); examine and treat contacts as needed.",
+     "zh": "每日以細齒金屬梳除卵（戴手套）；檢查並視需要治療接觸者。"
+    },
+    {
+     "en": "Launder clothing/bedding from previous 2 days in hot water and hot dryer 20 min; seal nonwashables in plastic bag 2 weeks; vacuum and discard bag; soak combs in boiling water 10 min.",
+     "zh": "洗滌前 2 天衣物寢具用熱水並熱烘 20 分鐘；不可洗物品密封塑膠袋 2 週；吸塵並丟棄集塵袋；梳子以沸水浸泡 10 分鐘。"
+    }
+   ],
+   "pdf_pages": [
+    439,
+    440
+   ]
+  },
+  {
+   "heading": {
+    "en": "Scabies",
+    "zh": "疥瘡"
+   },
+   "points": [
+    {
+     "en": "Caused by the itch mite Sarcoptes scabiei; spread by close contact; infectious throughout the infestation.",
+     "zh": "由疥蟲引起；經密切接觸傳染；整個感染期皆具傳染性。"
+    },
+    {
+     "en": "Findings: pruritic papular rash and burrows (fine grayish-red threadlike lines).",
+     "zh": "表現：搔癢丘疹與皮膚隧道（細灰紅色線狀）。"
+    },
+    {
+     "en": "Permethrin: apply to cool, dry skin at least 30 min after bath, over all skin surfaces, head to soles per this chapter (scabicides in general: neck down, not face; follow product label), leave 8-14 hours, then wash off; repeat if needed.",
+     "zh": "Permethrin：於沐浴後至少 30 分鐘、皮膚涼且乾時塗抹，全身皮膚（非僅皮疹處；本章述及頭至腳底，一般殺疥劑為頸部以下、避開臉，依產品說明）塗抹，停留 8–14 小時後洗去；必要時重複。"
+    },
+    {
+     "en": "Treat all household members and contacts simultaneously.",
+     "zh": "所有同住者與接觸者須同時治療。"
+    },
+    {
+     "en": "Change and hot-wash linens daily for at least 1 week; seal nonwashables in bags at least 4 days.",
+     "zh": "每日更換並熱水清洗寢具至少 1 週；不可洗物品密封至少 4 天。"
+    }
+   ],
+   "pdf_pages": [
+    440,
+    441
+   ]
+  },
+  {
+   "heading": {
+    "en": "Burn injuries in children",
+    "zh": "兒童燒傷"
+   },
+   "points": [
+    {
+     "en": "Thinner skin: lower temperature and shorter exposure cause deeper burns; higher mortality in very young children.",
+     "zh": "皮膚較薄：較低溫度與較短時間即可造成深度燒傷；幼童死亡率較高。"
+    },
+    {
+     "en": "Greater risk of fluid and heat loss, dehydration, metabolic acidosis, protein-calorie deficiency, infection, severe scarring, body image problems and growth delay.",
+     "zh": "較易發生水分與熱量散失、脫水、代謝性酸中毒、蛋白質熱量不足、感染、嚴重疤痕、身體心像問題與生長遲緩。"
+    },
+    {
+     "en": "Do not use the rule of nines; use age-related charts (Lund-Browder type, Fig 30.3) for %TBSA.",
+     "zh": "勿用九分法；以依年齡之圖表（圖 30.3）估算燒傷面積百分比。"
+    },
+    {
+     "en": "Burns >10% TBSA need fluid resuscitation during the first 24 hours; crystalloids first, colloids to maintain volume.",
+     "zh": "燒傷 >10% TBSA 需於前 24 小時液體復甦；先給晶體液，膠體液維持血容量。"
+    },
+    {
+     "en": "Adequacy of resuscitation: heart rate, urine output, capillary refill, sensorium.",
+     "zh": "復甦是否足夠：心跳、尿量、微血管再充填、意識狀態。"
+    },
+    {
+     "en": "First aid: stop burning, check airway, CAB if needed, remove burned clothing not stuck, cool (not cold) running water, cover clean, keep warm, call EMS.",
+     "zh": "急救：停止燒灼、確認呼吸道、必要時 CAB、移除未黏著衣物、以涼（非冰）流水沖、乾淨布覆蓋、保暖、呼叫 EMS。"
+    }
+   ],
+   "pdf_pages": [
+    441,
+    442
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Monitor any child with a skin disorder for local skin infection and systemic infection.",
+   "zh": "皮膚疾病孩童須監測局部皮膚感染與全身感染。",
+   "pdf_pages": [
+    439
+   ]
+  },
+  {
+   "en": "Best indicators of burn fluid resuscitation adequacy: HR, urine output, capillary refill, sensorium.",
+   "zh": "評估燒傷液體復甦是否足夠：心跳、尿量、微血管再充填、意識。",
+   "pdf_pages": [
+    441,
+    443
+   ]
+  },
+  {
+   "en": "Burns >10% TBSA in a child require fluid resuscitation.",
+   "zh": "兒童燒傷 >10% TBSA 需液體復甦。",
+   "pdf_pages": [
+    441
+   ]
+  },
+  {
+   "en": "Use age-specific charts, not rule of nines, for pediatric burns.",
+   "zh": "兒童燒傷使用年齡別圖表，不用九分法。",
+   "pdf_pages": [
+    441,
+    442
+   ]
+  },
+  {
+   "en": "Lindane shampoo is contraindicated under 2 years (CNS toxicity, seizures).",
+   "zh": "林丹洗髮精 2 歲以下禁用（中樞神經毒性、癲癇）。",
+   "pdf_pages": [
+    440,
+    444
+   ]
+  },
+  {
+   "en": "Scabies = burrows (fine grayish-red lines); impetigo = honey-colored crusts; nits = white sacs stuck to hair shaft.",
+   "zh": "疥瘡＝隧道（灰紅細線）；膿痂疹＝蜜黃色痂；蝨卵＝黏在髮幹的白色小囊。",
+   "pdf_pages": [
+    440,
+    443
+   ]
+  },
+  {
+   "en": "Permethrin goes on all skin surfaces, not just the rash, for 8-14 hours on cool dry skin 30+ minutes after bathing.",
+   "zh": "Permethrin 塗全身皮膚（非僅皮疹）、停留 8–14 小時，須於沐浴 30 分鐘後在涼乾皮膚上使用。",
+   "pdf_pages": [
+    440,
+    443
+   ]
+  },
+  {
+   "en": "Treat all household contacts of scabies at the same time.",
+   "zh": "疥瘡的所有同住接觸者須同時治療。",
+   "pdf_pages": [
+    440
+   ]
+  },
+  {
+   "en": "Impetigo is contagious for 24 hours after antibiotic start; complete the antibiotic course to prevent glomerulonephritis.",
+   "zh": "膿痂疹開始抗生素後 24 小時內仍有傳染性；須完成療程以防腎絲球腎炎。",
+   "pdf_pages": [
+    439
+   ]
+  },
+  {
+   "en": "Topical steroid: thin layer, rubbed in, on affected skin only; apply topical medication within 3 minutes of bath.",
+   "zh": "外用類固醇：只塗患處、薄層並推開；沐浴後 3 分鐘內塗藥。",
+   "pdf_pages": [
+    438,
+    444
+   ]
+  },
+  {
+   "en": "Fire/burn first aid: cool (not cold) water, remove clothing not stuck, cover clean, keep child warm.",
+   "zh": "燒燙傷急救：涼（非冰）水、移除未黏衣物、乾淨覆蓋、保暖。",
+   "pdf_pages": [
+    441
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Eczema triggers to avoid: latex, wool, heat, wet diapers, harsh detergents.",
+   "zh": "濕疹誘因：乳膠、羊毛、高溫、濕尿布、刺激性洗劑。",
+   "pdf_pages": [
+    438
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 438,
+   "caption": {
+    "en": "Table: forms of eczema by age (infantile, childhood, adolescent).",
+    "zh": "表：濕疹依年齡分型（嬰兒、兒童、青少年）。"
+   }
+  },
+  {
+   "pdf_page": 439,
+   "caption": {
+    "en": "Photo of impetigo contagiosa with honey-colored crusts.",
+    "zh": "膿痂疹蜜黃色痂皮照片。"
+   }
+  },
+  {
+   "pdf_page": 441,
+   "caption": {
+    "en": "Photo of scabies rash and Clinical Judgment box for burn first aid.",
+    "zh": "疥瘡皮疹照片與燒燙傷急救臨床判斷框。"
+   }
+  },
+  {
+   "pdf_page": 442,
+   "caption": {
+    "en": "Fig 30.3: age-related burn %TBSA estimation chart for children.",
+    "zh": "圖 30.3：兒童燒傷面積（依年齡）估算圖。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "The nurse is caring for a child with burns over 15% of the body. Which finding best indicates adequate fluid resuscitation?",
+    "zh": "護理師照護燒傷 15% 體表面積的孩童，何項最能顯示液體復甦足夠？"
+   },
+   "options": [
+    {
+     "en": "Decreased edema at the burn site",
+     "zh": "燒傷處水腫減輕"
+    },
+    {
+     "en": "Capillary refill under 2 seconds with adequate urine output",
+     "zh": "微血管再充填 <2 秒且尿量足夠"
+    },
+    {
+     "en": "Child tolerates oral fluids",
+     "zh": "孩童可耐受口服液體"
+    },
+    {
+     "en": "Skin is warm",
+     "zh": "皮膚溫暖"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Heart rate, urine output, capillary refill and sensorium are the key parameters.",
+    "zh": "心跳、尿量、微血管再充填與意識狀態為關鍵指標。"
+   },
+   "pdf_pages": [
+    441,
+    443
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instruction should the nurse give the parent about permethrin for scabies?",
+    "zh": "關於疥瘡使用 permethrin，護理師應如何指導家長？"
+   },
+   "options": [
+    {
+     "en": "Apply only to the rash",
+     "zh": "只塗在皮疹處"
+    },
+    {
+     "en": "Apply to all skin on cool dry skin at least 30 minutes after bathing and wash off after 8-14 hours",
+     "zh": "於沐浴後至少 30 分鐘、涼乾皮膚塗全身，8–14 小時後洗去"
+    },
+    {
+     "en": "Leave on for 2 hours",
+     "zh": "停留 2 小時"
+    },
+    {
+     "en": "Apply to the face generously",
+     "zh": "大量塗於臉部"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Permethrin is applied to all skin surfaces, left 8-14 hours, avoiding the eyes.",
+    "zh": "Permethrin 需塗全身皮膚、停留 8–14 小時並避開眼睛。"
+   },
+   "pdf_pages": [
+    440,
+    443
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A prescriber orders lindane shampoo for lice. The nurse questions the order for which child?",
+    "zh": "醫師開立林丹洗髮精治療頭蝨，護理師對哪位孩童會提出質疑？"
+   },
+   "options": [
+    {
+     "en": "A 9-year-old",
+     "zh": "9 歲"
+    },
+    {
+     "en": "An 18-month-old",
+     "zh": "18 個月大"
+    },
+    {
+     "en": "A 12-year-old",
+     "zh": "12 歲"
+    },
+    {
+     "en": "A 7-year-old",
+     "zh": "7 歲"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Lindane is contraindicated under 2 years because of absorption, neurotoxicity and seizures.",
+    "zh": "2 歲以下因吸收增加有神經毒性與癲癇風險，禁用林丹。"
+   },
+   "pdf_pages": [
+    440,
+    444
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which statements by a parent about impetigo show correct understanding? Select all that apply.",
+    "zh": "下列哪些家長對膿痂疹的陳述正確？（多選）"
+   },
+   "options": [
+    {
+     "en": "It is highly contagious.",
+     "zh": "高度傳染。"
+    },
+    {
+     "en": "Lesions often appear around the mouth and nose.",
+     "zh": "病灶常在口鼻周圍。"
+    },
+    {
+     "en": "My child can share towels once treatment starts.",
+     "zh": "開始治療後可共用毛巾。"
+    },
+    {
+     "en": "Finish all antibiotics even if crusts clear.",
+     "zh": "即使痂皮消退也要吃完抗生素。"
+    },
+    {
+     "en": "It occurs only in winter.",
+     "zh": "只發生在冬天。"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Impetigo is contagious, favors face, is more common in hot humid months, and requires separate linens and full antibiotic course.",
+    "zh": "膿痂疹傳染性高、好發臉部、多見於濕熱季節，需分開使用寢具並完成抗生素療程。"
+   },
+   "pdf_pages": [
+    439,
+    443
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A school nurse inspects a child's scalp. Which finding is a positive head check for lice?",
+    "zh": "校護檢查頭皮，何項為頭蝨陽性？"
+   },
+   "options": [
+    {
+     "en": "White flakes that brush off easily",
+     "zh": "容易拍落的白色片狀物"
+    },
+    {
+     "en": "White sacs firmly attached to hair shafts at the occiput",
+     "zh": "枕部髮幹上牢固附著的白色小囊"
+    },
+    {
+     "en": "Maculopapular rash behind ears",
+     "zh": "耳後斑丘疹"
+    },
+    {
+     "en": "Lesions at the hairline",
+     "zh": "髮際線病灶"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Nits adhere to the hair shaft near the scalp; flakes are dandruff.",
+    "zh": "蝨卵牢固黏於近頭皮髮幹；片狀物為頭皮屑。"
+   },
+   "pdf_pages": [
+    440,
+    444
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which are pediatric considerations in burn care? Select all that apply.",
+    "zh": "下列哪些是兒童燒傷照護的考量？（多選）"
+   },
+   "options": [
+    {
+     "en": "Scarring tends to be more severe",
+     "zh": "疤痕往往更嚴重"
+    },
+    {
+     "en": "Growth delay may occur",
+     "zh": "可能生長遲緩"
+    },
+    {
+     "en": "Immature immune system raises infection risk",
+     "zh": "免疫系統未成熟增加感染風險"
+    },
+    {
+     "en": "Resuscitation is only needed above 25% TBSA",
+     "zh": "超過 25% TBSA 才需復甦"
+    },
+    {
+     "en": "Protein and calorie deficiency risk is higher",
+     "zh": "蛋白質熱量缺乏風險較高"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Burns over 10% TBSA need fluids; children have less muscle mass and fat.",
+    "zh": "燒傷超過 10% TBSA 即需液體；兒童肌肉與脂肪較少。"
+   },
+   "pdf_pages": [
+    441,
+    444
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A toddler has atopic dermatitis. Which skin care teaching is correct?",
+    "zh": "幼兒有異位性皮膚炎，何項皮膚照護指導正確？"
+   },
+   "options": [
+    {
+     "en": "Long hot baths twice daily",
+     "zh": "每日兩次長時間熱水浴"
+    },
+    {
+     "en": "5-10 minute lukewarm bath then moisturize immediately",
+     "zh": "5–10 分鐘微溫水浴後立即保濕"
+    },
+    {
+     "en": "Use fabric softener on clothing",
+     "zh": "衣物使用柔軟精"
+    },
+    {
+     "en": "Apply powder to weeping areas",
+     "zh": "滲液處撲粉"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Short lukewarm baths followed by immediate moisturizer; avoid irritants.",
+    "zh": "短時間微溫浴後立即保濕；避免刺激物。"
+   },
+   "pdf_pages": [
+    438
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Impetigo and scabies/lice nursing notes (Wisconsin Technical College System, open textbook)",
+   "url": "https://wtcs.pressbooks.pub/healthpromo/?p=3063",
+   "note": {
+    "en": "Open-access nursing text page with skin infection content.",
+    "zh": "開放取用護理教材，含皮膚感染內容。"
+   }
+  },
+  {
+   "title": "Skin infections and infestations - NCLEX-RN review",
+   "url": "https://getoncourse.ai/revision/nclex-rn/medical-surgical-nursing/integumentary-disorders/skin-infections-and-infestations/",
+   "note": {
+    "en": "Revision summary of skin infections and infestations.",
+    "zh": "皮膚感染與寄生蟲病複習摘要。"
+   }
+  },
+  {
+   "title": "Integumentary System Disorders NCLEX Quiz",
+   "url": "https://www.proprofs.com/quiz-school/story.php?title=mjaxnty5mazgd2",
+   "note": {
+    "en": "Free online integumentary quiz.",
+    "zh": "免費皮膚系統線上測驗。"
+   }
+  },
+  {
+   "title": "Pediatric integumentary chapter notes (EduRev)",
+   "url": "https://edurev.in/t/526534/chapter-notes-integumentary-disorders",
+   "note": {
+    "en": "Chapter notes on pediatric integumentary disorders.",
+    "zh": "小兒皮膚疾病章節筆記。"
+   }
+  }
+ ]
+}

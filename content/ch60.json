@@ -1,0 +1,749 @@
+{
+ "number": 60,
+ "title": {
+  "en": "Neurological Medications",
+  "zh": "神經系統藥物"
+ },
+ "overview": {
+  "en": "Drug classes used in neurological care: antimyasthenics, multiple sclerosis agents, antiparkinsonians, antiseizure drugs, CNS stimulants, NSAIDs and acetaminophen, opioids and antagonists, and osmotic diuretics. Focus on actions, toxicity signs, serum levels, antidotes and teaching.",
+  "zh": "涵蓋神經照護常用藥物類別：抗肌無力藥、多發性硬化症用藥、抗帕金森藥、抗癲癇藥、中樞神經興奮劑、NSAID與acetaminophen、鴉片類與拮抗劑、滲透性利尿劑。重點為作用、毒性徵象、血中濃度、解毒劑與衛教。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Antimyasthenic (anticholinesterase) drugs",
+    "zh": "抗肌無力藥（抗膽鹼酯酶）"
+   },
+   "pdf_pages": [
+    969
+   ],
+   "points": [
+    {
+     "en": "Class/examples: neostigmine, pyridostigmine (treatment); edrophonium (diagnosis, distinguishes myasthenic from cholinergic crisis).",
+     "zh": "類別/例：neostigmine、pyridostigmine（治療）；edrophonium（診斷，區分肌無力與膽鹼性危象）。"
+    },
+    {
+     "en": "Action: block acetylcholine breakdown at the neuromuscular junction, improving strength.",
+     "zh": "作用：阻斷神經肌肉接合處乙醯膽鹼分解，增進肌力。"
+    },
+    {
+     "en": "Adverse effects (overdose = cholinergic crisis): abdominal cramps, nausea, vomiting, diarrhea, miosis, blurred vision, bradycardia, bronchospasm, increased secretions, sweating, hypotension, facial twitching.",
+     "zh": "不良反應（過量＝膽鹼性危象）：腹絞痛、噁心嘔吐、腹瀉、瞳孔縮小、視力模糊、心搏過緩、支氣管痙攣、分泌物增加、出汗、低血壓、臉部抽動。"
+    },
+    {
+     "en": "Antidote: atropine sulfate; keep atropine and resuscitation equipment ready during edrophonium use.",
+     "zh": "解毒劑：atropine sulfate；使用edrophonium時備妥atropine與急救設備。"
+    },
+    {
+     "en": "Nursing: give on time (lifelong), with a little food; meal 45-60 min after dose to reduce aspiration risk; assess strength, reflexes, gait; MedicAlert bracelet.",
+     "zh": "護理：準時服用（終生）、搭配少量食物；服藥後45-60分鐘再進餐以降低吸入風險；評估肌力、反射、步態；配戴醫療警示手環。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Multiple sclerosis medications",
+    "zh": "多發性硬化症藥物"
+   },
+   "pdf_pages": [
+    969,
+    970
+   ],
+   "points": [
+    {
+     "en": "Disease-modifying immunomodulators: interferon beta, glatiramer, dimethyl fumarate, fingolimod, teriflunomide, cladribine; reduce relapses and lesions.",
+     "zh": "疾病修飾免疫調節劑：interferon beta、glatiramer、dimethyl fumarate、fingolimod、teriflunomide、cladribine；減少復發與病灶。"
+    },
+    {
+     "en": "Immunomodulator adverse effects: flu-like reactions, hepatotoxicity, myelosuppression, injection-site reactions, depression.",
+     "zh": "免疫調節劑不良反應：類流感反應、肝毒性、骨髓抑制、注射部位反應、憂鬱。"
+    },
+    {
+     "en": "Immunosuppressants (mitoxantrone) and monoclonal antibodies (alemtuzumab, natalizumab, ocrelizumab, ofatumumab): myelosuppression, cardiotoxicity, fetal harm, alopecia, GI injury.",
+     "zh": "免疫抑制劑（mitoxantrone）與單株抗體（alemtuzumab、natalizumab、ocrelizumab、ofatumumab）：骨髓抑制、心毒性、胎兒傷害、落髮、胃腸黏膜損傷。"
+    },
+    {
+     "en": "Acute relapse: high-dose IV glucocorticoid (methylprednisolone) or IV immune globulin.",
+     "zh": "急性復發：高劑量靜脈類固醇（methylprednisolone）或靜脈免疫球蛋白。"
+    },
+    {
+     "en": "Symptom drugs: psyllium/docusate (bowel), memantine (cognition), fluoxetine/sertraline (depression), amantadine/modafinil (fatigue), gabapentin/carbamazepine (neuropathic pain), dalfampridine (walking speed).",
+     "zh": "症狀用藥：psyllium/docusate（腸道）、memantine（認知）、fluoxetine/sertraline（憂鬱）、amantadine/modafinil（疲倦）、gabapentin/carbamazepine（神經痛）、dalfampridine（行走速度）。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antiparkinsonian drugs",
+    "zh": "抗帕金森藥"
+   },
+   "pdf_pages": [
+    970,
+    971
+   ],
+   "points": [
+    {
+     "en": "Dopaminergics (carbidopa-levodopa, pramipexole, ropinirole, bromocriptine, amantadine, apomorphine, selegiline, rasagiline): increase dopamine activity; contraindicated in significant cardiac, renal or psychiatric disease.",
+     "zh": "多巴胺類（carbidopa-levodopa、pramipexole、ropinirole、bromocriptine、amantadine、apomorphine、selegiline、rasagiline）：增加多巴胺作用；重度心、腎或精神疾病者禁用。"
+    },
+    {
+     "en": "Adverse effects: dyskinesia, orthostatic hypotension, nausea/vomiting, hallucinations, confusion, depression, urinary retention, constipation, insomnia.",
+     "zh": "不良反應：異動症、姿位性低血壓、噁心嘔吐、幻覺、意識混亂、憂鬱、尿滯留、便秘、失眠。"
+    },
+    {
+     "en": "Carbidopa-levodopa with MAO inhibitor antidepressant can cause hypertensive crisis; avoid excess vitamin B6; spread protein across meals; urine and sweat may darken (harmless); do not stop abruptly.",
+     "zh": "carbidopa-levodopa與MAO抑制劑類抗憂鬱藥併用可致高血壓危象；避免過量維生素B6；蛋白質平均分配於各餐；尿與汗可能變色（無害）；勿突然停藥。"
+    },
+    {
+     "en": "Diabetic clients should not rely on urine glucose testing with levodopa.",
+     "zh": "糖尿病病人使用levodopa時勿以尿糖檢測。"
+    },
+    {
+     "en": "Anticholinergics (benztropine, trihexyphenidyl): reduce tremor and drooling; little effect on rigidity/bradykinesia; contraindicated in glaucoma.",
+     "zh": "抗膽鹼藥（benztropine、trihexyphenidyl）：減少顫抖與流口水；對僵硬與動作遲緩效果小；青光眼禁用。"
+    },
+    {
+     "en": "Anticholinergic effects: dry mouth, blurred vision, tachycardia, constipation, urinary retention, confusion, photophobia; use ice chips/sugarless candy, sunglasses, fluids and fiber; abrupt stop worsens parkinsonism.",
+     "zh": "抗膽鹼副作用：口乾、視力模糊、心搏過速、便秘、尿滯留、意識混亂、畏光；以冰塊/無糖糖果、太陽眼鏡、水分與纖維緩解；突然停藥使症狀加重。"
+    },
+    {
+     "en": "COMT inhibitors (entacapone, opicapone, tolcapone) block peripheral dopamine metabolism and extend levodopa effect.",
+     "zh": "COMT抑制劑（entacapone、opicapone、tolcapone）阻斷周邊多巴胺代謝，延長levodopa效果。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antiseizure drugs",
+    "zh": "抗癲癇藥"
+   },
+   "pdf_pages": [
+    971,
+    972,
+    973
+   ],
+   "points": [
+    {
+     "en": "Action: depress abnormal neuronal discharge and prevent spread. Monitor serum levels, liver and renal function, signs of toxicity (CNS depression, ataxia, nystagmus, visual disturbance). Seizure precautions.",
+     "zh": "作用：抑制異常神經放電並防止擴散。監測血中濃度、肝腎功能與毒性徵象（中樞抑制、運動失調、眼震、視覺障礙）。癲癇預防措施。"
+    },
+    {
+     "en": "Therapeutic ranges: phenytoin 10-20 mcg/mL, carbamazepine 3-14, divalproex 50-100, phenobarbital 15-40, ethosuximide 40-100 mcg/mL; clonazepam 20-80 and lorazepam 50-240 ng/mL.",
+     "zh": "治療濃度：phenytoin 10-20 mcg/mL、carbamazepine 3-14、divalproex 50-100、phenobarbital 15-40、ethosuximide 40-100 mcg/mL；clonazepam 20-80、lorazepam 50-240 ng/mL。"
+    },
+    {
+     "en": "Hydantoins (phenytoin, fosphenytoin): gingival hyperplasia, nystagmus, ataxia, hirsutism, blood dyscrasias, hyperglycemia, teratogenic, may reduce birth control effectiveness. IV: normal saline only (dextrose precipitates), inline filter, no faster than 25-50 mg/min (hypotension, dysrhythmias); separate tube feedings.",
+     "zh": "乙內醯脲類（phenytoin、fosphenytoin）：牙齦增生、眼震、運動失調、多毛、血液惡病質、高血糖、致畸胎、可能降低避孕藥效果。靜脈：僅用生理食鹽水（葡萄糖會沈澱）、使用過濾器、速率不超過25-50 mg/分（低血壓、心律不整）；與管灌飲食分開給藥。"
+    },
+    {
+     "en": "Barbiturates (phenobarbital): tonic-clonic and status epilepticus; sedation, respiratory depression, hypotension, tolerance.",
+     "zh": "巴比妥類（phenobarbital）：強直-陣攣與癲癇重積；鎮靜、呼吸抑制、低血壓、耐受性。"
+    },
+    {
+     "en": "Benzodiazepines (diazepam, lorazepam, clonazepam, clorazepate): status epilepticus, absence; sedation, dependence, hepatotoxicity, blood dyscrasias; IV slowly; antidote flumazenil but avoid in increased ICP or status epilepticus treated with benzodiazepines.",
+     "zh": "苯二氮平類（diazepam、lorazepam、clonazepam、clorazepate）：癲癇重積、失神發作；鎮靜、依賴、肝毒性、血液惡病質；靜脈緩慢給予；解毒劑flumazenil，但顱內壓升高或以苯二氮平治療的癲癇重積者避免使用。"
+    },
+    {
+     "en": "Succinimides (ethosuximide): absence seizures; GI upset, blood dyscrasias.",
+     "zh": "Succinimide類（ethosuximide）：失神發作；腸胃不適、血液惡病質。"
+    },
+    {
+     "en": "Valproates (valproic acid, divalproex): pancreatitis, hepatotoxicity, thrombocytopenia, teratogenic (neural tube defects).",
+     "zh": "Valproate類（valproic acid、divalproex）：胰臟炎、肝毒性、血小板低下、致畸胎（神經管缺損）。"
+    },
+    {
+     "en": "Carbamazepine (iminostilbene): also trigeminal neuralgia; drowsiness, rash, agranulocytosis/aplastic anemia - report sore throat, bruising, fever; check CBC.",
+     "zh": "Carbamazepine（亞胺芪類）：亦用於三叉神經痛；嗜睡、皮疹、顆粒球缺乏/再生不良性貧血－喉嚨痛、瘀青、發燒須通報；監測CBC。"
+    },
+    {
+     "en": "Education: never stop abruptly, avoid alcohol, take with food but not milk/antacids, soft toothbrush and dental care, medical ID.",
+     "zh": "衛教：勿突然停藥、避免酒精、隨食物服用但避免牛奶/制酸劑、軟毛牙刷與牙科檢查、配戴醫療警示。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "CNS stimulants",
+    "zh": "中樞神經興奮劑"
+   },
+   "pdf_pages": [
+    973,
+    974
+   ],
+   "points": [
+    {
+     "en": "Examples: amphetamines, methylphenidate, dexmethylphenidate, lisdexamfetamine, atomoxetine, caffeine; anorexiants (phentermine). Used for narcolepsy, ADHD, adjunct for obesity.",
+     "zh": "例：安非他命類、methylphenidate、dexmethylphenidate、lisdexamfetamine、atomoxetine、咖啡因；食慾抑制劑（phentermine）。用於猝睡症、ADHD、肥胖輔助。"
+    },
+    {
+     "en": "Adverse effects: irritability, insomnia, tachycardia, hypertension, dysrhythmias, anorexia/weight loss, psychosis, dependence.",
+     "zh": "不良反應：易怒、失眠、心搏過速、高血壓、心律不整、厭食/體重減輕、精神病症狀、依賴。"
+    },
+    {
+     "en": "Nursing: monitor vital signs, CBC, growth in children; give before meals, last dose at least 6 h before bedtime; do not crush long-acting forms; avoid caffeine; do not stop abruptly; effect in ADHD in 3-4 weeks.",
+     "zh": "護理：監測生命徵象、CBC、兒童生長；餐前服用、最後一劑在睡前至少6小時；長效劑型勿壓碎；避免咖啡因；勿突然停藥；ADHD約3-4週見效。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "NSAIDs, aspirin and acetaminophen",
+    "zh": "NSAID、阿斯匹靈與acetaminophen"
+   },
+   "pdf_pages": [
+    974,
+    975
+   ],
+   "points": [
+    {
+     "en": "NSAIDs/aspirin inhibit prostaglandin synthesis: analgesic, antipyretic, anti-inflammatory, antiplatelet. Examples: ibuprofen, naproxen, ketorolac, diclofenac, indomethacin, meloxicam; celecoxib (COX-2).",
+     "zh": "NSAID/aspirin抑制前列腺素合成：止痛、退燒、抗發炎、抗血小板。例：ibuprofen、naproxen、ketorolac、diclofenac、indomethacin、meloxicam；celecoxib（COX-2）。"
+    },
+    {
+     "en": "Adverse effects: GI irritation/bleeding, renal impairment, fluid retention, tinnitus (salicylism), cardiovascular thrombotic events, blood dyscrasias. Monitor salicylate level with high doses.",
+     "zh": "不良反應：胃腸刺激/出血、腎功能下降、水腫、耳鳴（水楊酸中毒）、心血管血栓事件、血液惡病質。大劑量時監測水楊酸濃度。"
+    },
+    {
+     "en": "Avoid in anticoagulant therapy and liver/renal disease; do not combine aspirin with another NSAID; children with flu/varicella: no aspirin (Reye's syndrome); stop aspirin 3-7 days before surgery as prescribed.",
+     "zh": "抗凝血治療與肝腎疾病者避免；aspirin不與其他NSAID併用；兒童流感/水痘勿用aspirin（雷氏症候群）；依醫囑術前3-7天停aspirin。"
+    },
+    {
+     "en": "Teach: take with food/milk, sit upright 20-30 min after aspirin, do not crush enteric-coated tablets, avoid alcohol, watch for tarry stools and bruising.",
+     "zh": "衛教：隨食物/牛奶服用、服aspirin後坐直20-30分鐘、腸溶錠勿壓碎、避免酒精、注意黑便與瘀青。"
+    },
+    {
+     "en": "Acetaminophen: analgesic and antipyretic; hepatotoxicity risk above 4000 mg/day; antidote acetylcysteine; avoid in liver disease and alcoholism; self-use no longer than 10 days (adult) / 5 days (child); monitor liver enzymes.",
+     "zh": "Acetaminophen：止痛退燒；每日超過4000 mg有肝毒性風險；解毒劑acetylcysteine；肝病與酗酒者避免；自行使用成人不超過10天、兒童5天；監測肝酵素。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Opioids and opioid antagonists",
+    "zh": "鴉片類與鴉片拮抗劑"
+   },
+   "pdf_pages": [
+    975,
+    976
+   ],
+   "points": [
+    {
+     "en": "Examples: morphine, hydromorphone, fentanyl, methadone, oxycodone, codeine, tapentadol. Act on opioid receptors; cause sedation, euphoria, dependence.",
+     "zh": "例：morphine、hydromorphone、fentanyl、methadone、oxycodone、codeine、tapentadol。作用於鴉片受體；造成鎮靜、欣快、依賴。"
+    },
+    {
+     "en": "Adverse effects: respiratory depression, orthostatic hypotension, urinary retention, nausea/vomiting, constipation, sedation, confusion, cough suppression, miosis.",
+     "zh": "不良反應：呼吸抑制、姿位性低血壓、尿滯留、噁心嘔吐、便秘、鎮靜、意識混亂、咳嗽抑制、瞳孔縮小。"
+    },
+    {
+     "en": "Hold dose if adult respiratory rate <12 (unless ventilated or terminal as prescribed) or bradycardia; give 30-60 min before painful activity; encourage turning, deep breathing; manage constipation.",
+     "zh": "成人呼吸<12次/分（除非有呼吸支持或依醫囑末期）或心搏過緩時暫停給藥；疼痛活動前30-60分鐘給藥；鼓勵翻身深呼吸；處理便秘。"
+    },
+    {
+     "en": "Opioid antagonists (naloxone, naltrexone, methylnaltrexone, naloxegol, alvimopan): reverse opioid respiratory depression.",
+     "zh": "鴉片拮抗劑（naloxone、naltrexone、methylnaltrexone、naloxegol、alvimopan）：逆轉鴉片所致呼吸抑制。"
+    },
+    {
+     "en": "After naloxone: check BP, pulse, respirations every 5 min then taper, cardiac monitor, stay with client; its short half-life means overdose signs can return.",
+     "zh": "給予naloxone後：每5分鐘測血壓、脈搏、呼吸後逐漸延長、心電監測、不離開病人；因半衰期短，過量症狀可能再發。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Osmotic diuretics (mannitol)",
+    "zh": "滲透性利尿劑（mannitol）"
+   },
+   "pdf_pages": [
+    976,
+    977
+   ],
+   "points": [
+    {
+     "en": "Action: raises osmotic pressure of filtrate; used to lower ICP and intraocular pressure and for oliguria.",
+     "zh": "作用：提高濾液滲透壓；用於降低顱內壓與眼壓、少尿。"
+    },
+    {
+     "en": "Adverse effects: fluid and electrolyte imbalance, pulmonary edema, hyponatremia, dehydration, headache, tachycardia.",
+     "zh": "不良反應：體液電解質失衡、肺水腫、低血鈉、脫水、頭痛、心搏過速。"
+    },
+    {
+     "en": "Monitor weight, urine output, electrolytes, lungs, neuro status; do not use mannitol vials with crystals; change position slowly.",
+     "zh": "監測體重、尿量、電解質、肺部、神經狀態；有結晶之mannitol瓶勿使用；緩慢改變姿勢。"
+    }
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Cholinergic crisis (anticholinesterase overdose): cramps, diarrhea, miosis, bradycardia, secretions; withhold drug and give atropine.",
+   "zh": "膽鹼性危象（抗膽鹼酯酶過量）：絞痛、腹瀉、瞳孔縮小、心搏過緩、分泌物多；停藥並給atropine。",
+   "pdf_pages": [
+    969,
+    970
+   ]
+  },
+  {
+   "en": "Edrophonium: improvement = myasthenic crisis (needs more drug); worsening = cholinergic crisis. Have atropine and resuscitation equipment ready.",
+   "zh": "Edrophonium：改善＝肌無力危象（需加藥）；惡化＝膽鹼性危象。備妥atropine與急救設備。",
+   "pdf_pages": [
+    969,
+    978
+   ]
+  },
+  {
+   "en": "Phenytoin therapeutic level 10-20 mcg/mL; nystagmus above 20, ataxia and slurred speech above 30.",
+   "zh": "Phenytoin治療濃度10-20 mcg/mL；超過20出現眼震、超過30出現運動失調與口齒不清。",
+   "pdf_pages": [
+    972,
+    978
+   ]
+  },
+  {
+   "en": "IV phenytoin: normal saline only, inline filter, max 25-50 mg/min; fast infusion causes hypotension and dysrhythmias.",
+   "zh": "靜脈phenytoin：僅用生理食鹽水、過濾器、最快25-50 mg/分；過快造成低血壓與心律不整。",
+   "pdf_pages": [
+    972
+   ]
+  },
+  {
+   "en": "Phenytoin: gingival hyperplasia - good oral hygiene; may decrease birth control effectiveness; teratogenic.",
+   "zh": "Phenytoin：牙齦增生－保持口腔衛生；可能降低避孕藥效果；致畸胎。",
+   "pdf_pages": [
+    972
+   ]
+  },
+  {
+   "en": "Carbamazepine: agranulocytosis/aplastic anemia; low WBC is the adverse-effect lab finding.",
+   "zh": "Carbamazepine：顆粒球缺乏/再生不良性貧血；白血球過低為不良反應檢驗發現。",
+   "pdf_pages": [
+    973,
+    979
+   ]
+  },
+  {
+   "en": "Valproate: hepatotoxicity, pancreatitis, thrombocytopenia, neural tube defects.",
+   "zh": "Valproate：肝毒性、胰臟炎、血小板低下、神經管缺損。",
+   "pdf_pages": [
+    973
+   ]
+  },
+  {
+   "en": "Flumazenil reverses benzodiazepines but avoid with increased ICP or seizure disorders treated with benzodiazepines.",
+   "zh": "Flumazenil可逆轉苯二氮平，但顱內壓升高或以苯二氮平控制癲癇者避免。",
+   "pdf_pages": [
+    973
+   ]
+  },
+  {
+   "en": "Carbidopa-levodopa: avoid MAOIs (hypertensive crisis), limit vitamin B6, spread protein; dyskinesia is a key adverse effect; never stop abruptly.",
+   "zh": "Carbidopa-levodopa：避免MAO抑制劑（高血壓危象）、限制維生素B6、蛋白質分散；異動症為重要副作用；勿突然停藥。",
+   "pdf_pages": [
+    970,
+    971
+   ]
+  },
+  {
+   "en": "Anticholinergics are contraindicated in glaucoma; cause dry mouth, constipation, urinary retention.",
+   "zh": "抗膽鹼藥青光眼禁用；造成口乾、便秘、尿滯留。",
+   "pdf_pages": [
+    971
+   ]
+  },
+  {
+   "en": "Acetaminophen: max 4000 mg/day, liver toxicity (elevated bilirubin/enzymes), antidote acetylcysteine.",
+   "zh": "Acetaminophen：每日上限4000 mg、肝毒性（膽紅素/酵素上升）、解毒劑acetylcysteine。",
+   "pdf_pages": [
+    975,
+    979
+   ]
+  },
+  {
+   "en": "Aspirin toxicity (salicylism): tinnitus is the classic early sign; no aspirin in children with viral illness (Reye's).",
+   "zh": "Aspirin中毒（水楊酸中毒）：耳鳴為典型早期徵象；病毒感染兒童勿用aspirin（雷氏症候群）。",
+   "pdf_pages": [
+    974,
+    975,
+    979
+   ]
+  },
+  {
+   "en": "Opioids: hold and notify if respirations <12; keep naloxone available; constipation is expected; naloxone half-life is short.",
+   "zh": "鴉片類：呼吸<12次/分暫停給藥並通報；備妥naloxone；便秘為預期副作用；naloxone半衰期短。",
+   "pdf_pages": [
+    976
+   ]
+  },
+  {
+   "en": "Mannitol: do not use if crystals in vial; monitor for pulmonary edema, electrolytes and urine output.",
+   "zh": "Mannitol：瓶內有結晶勿使用；監測肺水腫、電解質與尿量。",
+   "pdf_pages": [
+    977
+   ]
+  },
+  {
+   "en": "Stimulants: give last dose 6 h before bed, no caffeine, monitor growth in children.",
+   "zh": "興奮劑：最後一劑睡前至少6小時、避免咖啡因、監測兒童生長。",
+   "pdf_pages": [
+    974
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Phenytoin toxicity ladder: 10-20 therapeutic, >20 nystagmus, >30 ataxia/slurred speech.",
+   "zh": "Phenytoin中毒階梯：10-20治療範圍、>20眼震、>30運動失調/口齒不清。",
+   "pdf_pages": [
+    972,
+    978
+   ]
+  },
+  {
+   "en": "Anticholinergic effects: dry as a bone (mouth), blind as a bat (blurred vision), red-flushed, constipated, can't pee.",
+   "zh": "抗膽鹼副作用：口乾、視力模糊、皮膚潮紅、便秘、尿滯留。",
+   "pdf_pages": [
+    971
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 970,
+   "caption": {
+    "en": "Boxes listing MS drugs, symptom-management drugs and Parkinson's drug classes (dopaminergics, anticholinergics, COMT inhibitors).",
+    "zh": "列出多發性硬化症用藥、症狀用藥及帕金森藥物類別（多巴胺類、抗膽鹼、COMT抑制劑）。"
+   }
+  },
+  {
+   "pdf_page": 972,
+   "caption": {
+    "en": "Table 60.1 therapeutic serum ranges of antiseizure drugs and client education box.",
+    "zh": "表60.1 抗癲癇藥治療血中濃度範圍與衛教。"
+   }
+  },
+  {
+   "pdf_page": 973,
+   "caption": {
+    "en": "Box 60.7 other antiseizure drugs and stimulant/anorexiant lists.",
+    "zh": "表60.7 其他抗癲癇藥及興奮劑/食慾抑制劑清單。"
+   }
+  },
+  {
+   "pdf_page": 975,
+   "caption": {
+    "en": "Adverse effects of aspirin versus NSAIDs, and opioid analgesic list.",
+    "zh": "Aspirin與NSAID不良反應比較及鴉片類清單。"
+   }
+  },
+  {
+   "pdf_page": 976,
+   "caption": {
+    "en": "Clinical judgment case: morphine with respiratory rate 10 in head injury; opioid antagonist list.",
+    "zh": "臨床判斷案例：頭部外傷使用morphine且呼吸10次/分；鴉片拮抗劑清單。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client taking carbidopa-levodopa reports the urine and sweat are dark. What should the nurse say?",
+    "zh": "服用carbidopa-levodopa的病人表示尿液與汗水顏色變深。護理師應如何回應？"
+   },
+   "options": [
+    {
+     "en": "Stop the medication immediately",
+     "zh": "立即停藥"
+    },
+    {
+     "en": "This is harmless but may stain clothing",
+     "zh": "此為無害現象但可能染色衣物"
+    },
+    {
+     "en": "This indicates kidney failure",
+     "zh": "表示腎衰竭"
+    },
+    {
+     "en": "Increase protein intake",
+     "zh": "增加蛋白質攝取"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Discoloration of urine and sweat is harmless. Do not stop abruptly, and spread protein over the day.",
+    "zh": "尿與汗變色無害。勿突然停藥，蛋白質應分散於全日。"
+   },
+   "pdf_pages": [
+    971
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client receiving phenytoin has a level of 35 mcg/mL. Which finding is expected?",
+    "zh": "接受phenytoin治療的病人血中濃度35 mcg/mL。預期出現何種表現？"
+   },
+   "options": [
+    {
+     "en": "Hypotension",
+     "zh": "低血壓"
+    },
+    {
+     "en": "Tachycardia",
+     "zh": "心搏過速"
+    },
+    {
+     "en": "Ataxia and slurred speech",
+     "zh": "運動失調與口齒不清"
+    },
+    {
+     "en": "No abnormal finding",
+     "zh": "無異常"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Therapeutic is 10-20; levels above 30 cause ataxia and slurred speech.",
+    "zh": "治療範圍10-20；超過30會出現運動失調與口齒不清。"
+   },
+   "pdf_pages": [
+    972,
+    978
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instructions apply to a client prescribed phenytoin? Select all that apply.",
+    "zh": "下列哪些適用於服用phenytoin的病人？（多選）"
+   },
+   "options": [
+    {
+     "en": "Brush with a soft toothbrush and see the dentist regularly",
+     "zh": "使用軟毛牙刷並定期看牙醫"
+    },
+    {
+     "en": "Stop the drug if gums bleed",
+     "zh": "牙齦出血時自行停藥"
+    },
+    {
+     "en": "Report sore throat, bruising or nosebleeds",
+     "zh": "喉嚨痛、瘀青、流鼻血時通報"
+    },
+    {
+     "en": "Avoid alcohol",
+     "zh": "避免酒精"
+    },
+    {
+     "en": "Take with antacids",
+     "zh": "與制酸劑併服"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Gingival hyperplasia and blood dyscrasias require hygiene and reporting; antacids impair absorption; never stop abruptly.",
+    "zh": "牙齦增生與血液惡病質需注意口腔衛生並通報；制酸劑影響吸收；不可自行停藥。"
+   },
+   "pdf_pages": [
+    972
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A nurse prepares IV phenytoin. Which action is correct?",
+    "zh": "護理師準備靜脈phenytoin。何者正確？"
+   },
+   "options": [
+    {
+     "en": "Dilute in D5W and push rapidly",
+     "zh": "以5%葡萄糖稀釋並快速推注"
+    },
+    {
+     "en": "Dilute in normal saline and infuse no faster than 25-50 mg/min with a filter",
+     "zh": "以生理食鹽水稀釋，使用過濾器且速率不超過25-50 mg/分"
+    },
+    {
+     "en": "Mix with other IV drugs in the same line",
+     "zh": "與其他靜脈藥物同管路混合"
+    },
+    {
+     "en": "Infuse over 1 minute",
+     "zh": "1分鐘內輸注完"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Dextrose causes precipitation; rapid infusion causes hypotension and dysrhythmias.",
+    "zh": "葡萄糖造成沈澱；過快輸注造成低血壓與心律不整。"
+   },
+   "pdf_pages": [
+    972
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client given edrophonium for suspected crisis becomes temporarily weaker. What does this indicate and what is prepared?",
+    "zh": "疑似危象病人注射edrophonium後暫時更無力。此代表何意？應準備什麼？"
+   },
+   "options": [
+    {
+     "en": "Myasthenic crisis; give more neostigmine",
+     "zh": "肌無力危象；加給neostigmine"
+    },
+    {
+     "en": "Cholinergic crisis; prepare atropine",
+     "zh": "膽鹼性危象；準備atropine"
+    },
+    {
+     "en": "Normal response; no action",
+     "zh": "正常反應；不需處置"
+    },
+    {
+     "en": "Cholinergic crisis; prepare naloxone",
+     "zh": "膽鹼性危象；準備naloxone"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Worsening after edrophonium means overmedication; atropine is the antidote.",
+    "zh": "注射後惡化代表藥物過量；解毒劑為atropine。"
+   },
+   "pdf_pages": [
+    969,
+    978
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking oxycodone has a respiratory rate of 10 breaths/min and is drowsy. What is the priority action?",
+    "zh": "服用oxycodone的病人呼吸10次/分且嗜睡。首要行動為何？"
+   },
+   "options": [
+    {
+     "en": "Give the next scheduled dose",
+     "zh": "給予下次排定劑量"
+    },
+    {
+     "en": "Withhold the dose, stimulate the client, give oxygen, and prepare naloxone per prescription",
+     "zh": "暫停給藥、喚醒病人、給氧並依醫囑準備naloxone"
+    },
+    {
+     "en": "Recheck in 2 hours",
+     "zh": "2小時後再評估"
+    },
+    {
+     "en": "Give a laxative",
+     "zh": "給予瀉劑"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Respiratory depression is life-threatening; naloxone has a short half-life so monitor closely afterward.",
+    "zh": "呼吸抑制危及生命；naloxone半衰期短，之後需密切監測。"
+   },
+   "pdf_pages": [
+    976
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which finding suggests acetaminophen toxicity?",
+    "zh": "下列何者提示acetaminophen毒性？"
+   },
+   "options": [
+    {
+     "en": "Tinnitus",
+     "zh": "耳鳴"
+    },
+    {
+     "en": "Elevated direct bilirubin and liver enzymes",
+     "zh": "直接膽紅素與肝酵素升高"
+    },
+    {
+     "en": "Prolonged QT",
+     "zh": "QT延長"
+    },
+    {
+     "en": "Hyperkalemia",
+     "zh": "高血鉀"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Acetaminophen overdose injures the liver; tinnitus is a salicylate sign. Antidote is acetylcysteine.",
+    "zh": "Acetaminophen過量傷肝；耳鳴為水楊酸徵象。解毒劑為acetylcysteine。"
+   },
+   "pdf_pages": [
+    975,
+    979
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Simple Nursing - Neurological Drugs Practice Questions",
+   "url": "https://simplenursing.com/neurological-drugs-nclex-practice-questions-review/",
+   "note": {
+    "en": "Practice questions on anticonvulsants and Parkinson's drugs.",
+    "zh": "抗癲癇藥與帕金森藥物練習題。"
+   }
+  },
+  {
+   "title": "Brainscape - Practice Questions (anticonvulsants/Parkinson's)",
+   "url": "https://brainscape.com/flashcards/practice-questions-7519689/packs/12256020",
+   "note": {
+    "en": "Free flashcards covering neuro drug questions.",
+    "zh": "免費神經藥物閃卡。"
+   }
+  },
+  {
+   "title": "GetOnCourse - Antiparkinson agents",
+   "url": "https://getoncourse.ai/lessons/nclex-rn/applied-pharmacology-by-system/neurologic-psychiatric-medications/antiparkinson-agents/",
+   "note": {
+    "en": "Lesson summary on antiparkinson agents.",
+    "zh": "抗帕金森藥物課程摘要。"
+   }
+  }
+ ]
+}

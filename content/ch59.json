@@ -1,0 +1,910 @@
+{
+ "number": 59,
+ "title": {
+  "en": "Neurological Problems",
+  "zh": "神經系統問題"
+ },
+ "overview": {
+  "en": "Covers brain and spinal cord anatomy, neurological diagnostic tests, assessment (LOC, pupils, posturing, GCS), the unconscious client, increased ICP, head injury, craniotomy, aneurysm, seizures, stroke, and major neurological diseases (MS, myasthenia gravis, Parkinson's, trigeminal neuralgia, Bell's palsy, Guillain-Barre, ALS, encephalitis, West Nile, meningitis). Priority themes: airway, ICP control, neuro checks and safety.",
+  "zh": "涵蓋腦與脊髓解剖、神經診斷檢查、神經評估（意識程度、瞳孔、姿勢、GCS）、昏迷病人照護、顱內壓上升、頭部外傷、開顱術、動脈瘤、癲癇、中風，以及多發性硬化症、重症肌無力、帕金森氏症、三叉神經痛、貝爾氏麻痺、格林-巴利症候群、ALS、腦炎、西尼羅病毒與腦膜炎。重點：呼吸道、顱內壓控制、神經檢查與安全。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Anatomy and physiology",
+    "zh": "解剖與生理"
+   },
+   "pdf_pages": [
+    943,
+    944
+   ],
+   "points": [
+    {
+     "en": "Each cerebral hemisphere senses and controls the opposite side of the body.",
+     "zh": "每側大腦半球感覺並控制身體對側。"
+    },
+    {
+     "en": "Lobes: frontal (Broca's speech, judgment, memory), parietal (touch, pain, spatial perception), temporal (hearing, Wernicke's comprehension), occipital (vision); limbic system governs emotion and memory.",
+     "zh": "額葉（Broca語言區、判斷、記憶）、頂葉（觸痛覺、空間感）、顳葉（聽覺、Wernicke理解區）、枕葉（視覺）；邊緣系統負責情緒與記憶。"
+    },
+    {
+     "en": "Hypothalamus regulates temperature, appetite, sleep, fluid balance; pons holds respiratory centers; medulla controls heart rate, breathing, vomiting, swallowing; cerebellum coordinates movement, posture and balance.",
+     "zh": "下視丘調節體溫、食慾、睡眠、體液；橋腦有呼吸中樞；延腦控制心跳、呼吸、嘔吐、吞嚥；小腦協調動作、姿勢與平衡。"
+    },
+    {
+     "en": "CSF: pressure 6-25 cm H2O, volume 125-150 mL, about 500 mL produced daily; circle of Willis supplies the brain via carotid and vertebral arteries.",
+     "zh": "腦脊髓液：壓力6-25 cm H2O、總量125-150 mL、每日約產生500 mL；威利氏環由頸動脈與椎動脈供血。"
+    },
+    {
+     "en": "Sympathetic (adrenergic, norepinephrine) raises HR/BP and dilates pupils; parasympathetic (cholinergic, acetylcholine) slows HR and increases secretions.",
+     "zh": "交感（腎上腺素性、正腎上腺素）使心跳血壓上升、瞳孔放大；副交感（膽鹼性、乙醯膽鹼）使心跳減慢、分泌增加。"
+    },
+    {
+     "en": "Neurons do not regenerate after the neonatal period; peripheral axon repair is slow and needs an intact neurolemma.",
+     "zh": "神經元出生後不再再生；周邊軸突修復緩慢且需神經鞘完整。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Diagnostic tests",
+    "zh": "診斷檢查"
+   },
+   "pdf_pages": [
+    944,
+    945,
+    946
+   ],
+   "points": [
+    {
+     "en": "CT: check iodine/shellfish allergy and renal function; consider holding metformin with iodinated contrast; encourage fluids afterward.",
+     "zh": "電腦斷層：評估碘/貝類過敏與腎功能；使用含碘顯影劑時考慮暫停metformin；檢查後鼓勵補充水分。"
+    },
+    {
+     "en": "MRI: remove all metal; no pacemaker, implanted defibrillator or certain implants; saline lock instead of IV pump; watch for pulse oximeter burns.",
+     "zh": "核磁共振：移除所有金屬；有心律調節器、植入式去顫器等者不可做；用生理食鹽水留置針取代點滴幫浦；注意血氧夾灼傷。"
+    },
+    {
+     "en": "Lumbar puncture (L3-L4): contraindicated with increased ICP (herniation risk); lateral knee-chest position; afterward lie flat as prescribed, increase fluids, monitor for headache and CSF leak.",
+     "zh": "腰椎穿刺（L3-L4）：顱內壓上升者禁忌（腦疝風險）；側臥屈膝抱胸；術後依醫囑平躺、增加水分、監測頭痛與腦脊髓液滲漏。"
+    },
+    {
+     "en": "Cerebral angiography: assess allergies and renal function, NPO 4-6 h, mark pulses; afterward bed rest ~12 h, check neurovascular status of the limb, and watch for neck swelling or trouble swallowing.",
+     "zh": "腦血管攝影：評估過敏與腎功能、禁食4-6小時、標記脈搏；術後臥床約12小時、監測肢體神經血管狀態，注意頸部腫脹或吞嚥困難。"
+    },
+    {
+     "en": "EEG: wash hair, withhold caffeine (and possibly antiseizure drugs) 24-48 h as prescribed; wash hair afterward.",
+     "zh": "腦電圖：先洗髮，依醫囑24-48小時前避免咖啡因（可能含抗癲癇藥）；檢查後洗髮。"
+    },
+    {
+     "en": "Caloric testing tests CN VIII/brainstem; normal response is vertigo and nystagmus within 20-30 seconds; absent or disconjugate movement suggests brainstem damage.",
+     "zh": "冷熱水試驗評估第八對腦神經/腦幹；正常為20-30秒內出現眩暈與眼震；無反應或雙眼不協調提示腦幹損傷。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Neurological assessment and GCS",
+    "zh": "神經評估與昏迷指數"
+   },
+   "pdf_pages": [
+    946,
+    947,
+    948
+   ],
+   "points": [
+    {
+     "en": "Level of consciousness is the earliest and most sensitive indicator of neurological change.",
+     "zh": "意識程度是神經狀態最早也最敏感的指標。"
+    },
+    {
+     "en": "Pupils: unilateral dilation = CN III compression; midposition fixed = midbrain; pinpoint = pons or opioids; bilateral fixed dilated = ominous.",
+     "zh": "瞳孔：單側放大＝第三對腦神經受壓；中位固定＝中腦；針尖樣＝橋腦或鴉片類；雙側放大固定＝嚴重不良徵兆。"
+    },
+    {
+     "en": "Decorticate (flexor) posturing = cortex dysfunction; decerebrate (extensor) = brainstem lesion; flaccid = no response.",
+     "zh": "去皮質（屈曲）姿勢＝大腦皮質功能不良；去大腦（伸直）姿勢＝腦幹病灶；鬆弛＝無反應。"
+    },
+    {
+     "en": "Respiratory patterns: Cheyne-Stokes (hemispheres/metabolic), neurogenic hyperventilation (midbrain/pons), apneustic (pons), cluster, ataxic (medulla).",
+     "zh": "呼吸型態：陳施氏（大腦/代謝）、神經性過度換氣（中腦/橋腦）、長吸式（橋腦）、群集式、運動失調式（延腦）。"
+    },
+    {
+     "en": "Babinski is abnormal after age 2; loss of corneal reflex = CN V; loss of gag = CN IX and X.",
+     "zh": "兩歲以後巴賓斯基反射陽性為異常；角膜反射消失＝第五對腦神經；嘔吐反射消失＝第九、十對。"
+    },
+    {
+     "en": "Meningeal irritation: nuchal rigidity, Kernig's and Brudzinski's signs, photophobia, severe headache, fever.",
+     "zh": "腦膜刺激：頸項僵硬、Kernig氏與Brudzinski氏徵象、畏光、劇烈頭痛、發燒。"
+    },
+    {
+     "en": "GCS ranges 3-15 (eye 1-4, verbal 1-5, motor 1-6); below 8 indicates coma.",
+     "zh": "GCS範圍3-15分（睜眼1-4、語言1-5、運動1-6）；低於8分表示昏迷。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Unconscious client and increased ICP",
+    "zh": "昏迷病人與顱內壓上升"
+   },
+   "pdf_pages": [
+    948,
+    949,
+    950
+   ],
+   "points": [
+    {
+     "en": "Care of the unconscious client: airway and ventilation first, semi-Fowler's, turn every 2 h, NPO until swallow/gag returns, eye care, ROM, footboard, assume the client can hear.",
+     "zh": "昏迷照護：首重呼吸道與通氣、半坐臥、每2小時翻身、吞嚥/嘔吐反射恢復前禁食、眼部護理、關節活動、腳板防垂足、假設病人聽得見。"
+    },
+    {
+     "en": "Early sign of rising ICP: decreased LOC; later: headache, vomiting, pupil changes, rising systolic BP with widening pulse pressure, bradycardia, irregular respirations (Cushing's triad), fever, posturing, seizures.",
+     "zh": "ICP上升早期：意識下降；後期：頭痛、嘔吐、瞳孔變化、收縮壓升高與脈搏壓增寬、心搏過緩、呼吸不規則（庫欣三徵）、發燒、姿勢異常、癲癇。"
+    },
+    {
+     "en": "Interventions: HOB 30-40 degrees, head midline, avoid hip/neck flexion, Trendelenburg and Valsalva; limit fluids (~1200 mL/day), quiet environment, prevent shivering and hypoxia; avoid morphine.",
+     "zh": "處置：床頭抬高30-40度、頭部正中、避免髖/頸屈曲、頭低腳高位與Valsalva；限水（約1200 mL/日）、安靜環境、預防寒顫與缺氧；避免嗎啡。"
+    },
+    {
+     "en": "Mechanical ventilation with PaCO2 30-35 mm Hg causes cerebral vasoconstriction and lowers ICP.",
+     "zh": "機械通氣維持PaCO2 30-35 mm Hg可使腦血管收縮、降低顱內壓。"
+    },
+    {
+     "en": "Medications: antiseizure, antipyretics/muscle relaxants, BP control (notify if SBP <100 or >150), corticosteroids (taper slowly), IV fluids by pump, osmotic diuretics (monitor renal function).",
+     "zh": "藥物：抗癲癇藥、退燒藥/肌肉鬆弛劑、血壓控制（收縮壓<100或>150通知醫師）、類固醇（需緩慢減量）、點滴使用幫浦、滲透性利尿劑（監測腎功能）。"
+    },
+    {
+     "en": "Hyperthermia (>105 F / 40.6 C) raises cerebral metabolism; cool with fluids, baths, fans or cooling blanket and prevent shivering. VP shunt diverts CSF to the peritoneum; watch for shunt failure and infection.",
+     "zh": "高熱（>105°F/40.6°C）增加腦代謝；以輸液、冷水浴、風扇或降溫毯降溫並防寒顫。腦室腹腔分流將腦脊髓液導入腹腔；注意分流失效與感染。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Head injury and craniotomy",
+    "zh": "頭部外傷與開顱術"
+   },
+   "pdf_pages": [
+    950,
+    951,
+    952,
+    953
+   ],
+   "points": [
+    {
+     "en": "Epidural hematoma: arterial, rapid, lucid interval then coma; surgical emergency. Subdural: venous, slower. Concussion, contusion and skull fractures are other injury types.",
+     "zh": "硬腦膜外血腫：動脈出血、進展快、有清醒期後昏迷，為外科急症。硬腦膜下血腫：靜脈出血、較慢。另有腦震盪、腦挫傷與顱骨骨折。"
+    },
+    {
+     "en": "CSF leak from nose/ear: halo (ring) sign and glucose-positive; do not suction the nose, clean the ear or let the client blow the nose; apply loose dry sterile dressing and notify the PHCP.",
+     "zh": "鼻/耳漏出腦脊髓液：出現暈環徵並葡萄糖陽性；勿經鼻抽吸、清潔耳道或擤鼻；以鬆的乾燥無菌敷料覆蓋並通知醫師。"
+    },
+    {
+     "en": "Head injury care: patent airway, HOB elevated, avoid neck flexion and coughing, seizure precautions, monitor neuro status and for infection; give opioids cautiously.",
+     "zh": "頭部外傷照護：維持呼吸道、抬高床頭、避免頸屈曲與咳嗽、癲癇預防、監測神經狀態與感染；鴉片類藥物須謹慎。"
+    },
+    {
+     "en": "Craniotomy complications: increased ICP, hemorrhage, CSF obstruction, DI, SIADH, infection. Monitor neuro status every 30-60 min, drain output (report >30-50 mL per shift), fluid restriction ~1500 mL/day.",
+     "zh": "開顱術併發症：ICP上升、出血、腦脊髓液阻塞、尿崩症、抗利尿激素分泌不當症候群、感染。每30-60分鐘監測神經狀態、引流量（每班>30-50 mL需通報）、限水約1500 mL/日。"
+    },
+    {
+     "en": "Positioning after surgery follows prescription: bone flap removal - turn to the nonoperative side; posterior fossa - side-lying; infratentorial - flat or HOB 30-45 per order; supratentorial - HOB 30 degrees.",
+     "zh": "術後擺位依醫囑：骨瓣移除－翻向非手術側；後顱窩－側臥；幕下手術－平躺或依醫囑抬高30-45度；幕上手術－床頭抬高30度。"
+    },
+    {
+     "en": "Periorbital edema and ecchymosis may be expected after craniotomy; use ice packs as prescribed.",
+     "zh": "開顱術後可預期眼周水腫與瘀青；依醫囑冰敷。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Cerebral aneurysm and seizures",
+    "zh": "腦動脈瘤與癲癇"
+   },
+   "pdf_pages": [
+    952,
+    953,
+    954
+   ],
+   "points": [
+    {
+     "en": "Aneurysm precautions: bed rest, semi-Fowler's or side-lying, dark quiet room, limited visitors, avoid Valsalva (stool softeners), no rectal temperatures, prevent hypertension, DVT prophylaxis, antiseizure drugs.",
+     "zh": "動脈瘤預防措施：臥床休息、半坐臥或側臥、昏暗安靜、限制訪客、避免Valsalva（給軟便劑）、勿測肛溫、預防高血壓、預防深部靜脈栓塞、抗癲癇藥。"
+    },
+    {
+     "en": "Seizure types: tonic-clonic (tonic 10-20 s then clonic ~30 s), absence (brief staring, children), myoclonic, atonic, simple partial (conscious), complex partial (temporal lobe, altered awareness).",
+     "zh": "癲癇類型：強直-陣攣（強直10-20秒後陣攣約30秒）、失神（短暫凝視、常見於兒童）、肌躁、失張力、單純局部（意識清楚）、複雜局部（顳葉、意識改變）。"
+    },
+    {
+     "en": "During a seizure: note time, protect the head, lower to the floor, side-lying, loosen clothing, suction/oxygen ready, stay with client; do NOT restrain or place anything in the mouth.",
+     "zh": "發作時：記錄時間、保護頭部、移至地板、側臥、鬆開衣物、備好抽吸/氧氣、陪伴；勿約束或放入口中物品。"
+    },
+    {
+     "en": "Status epilepticus: rapid succession of seizures without recovery of consciousness; an emergency with risk of brain damage.",
+     "zh": "癲癇重積狀態：連續發作而意識未恢復；屬急症，可致腦損傷。"
+    },
+    {
+     "en": "Teaching: lifelong medication with level monitoring, avoid alcohol, stress, fatigue and strobe lights, wear a medical ID bracelet.",
+     "zh": "衛教：終生服藥並監測血中濃度、避免酒精、壓力、疲勞與閃光、配戴醫療警示手環。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Stroke (brain attack)",
+    "zh": "中風（腦中風）"
+   },
+   "pdf_pages": [
+    954,
+    955,
+    956
+   ],
+   "points": [
+    {
+     "en": "Ischemic (thrombotic, embolic) vs hemorrhagic; type must be confirmed by CT because symptoms overlap and treatment differs. TIA is a warning sign.",
+     "zh": "缺血性（血栓、栓塞）與出血性；症狀相似但治療不同，需以CT確認類型。短暫性腦缺血發作為警訊。"
+    },
+    {
+     "en": "Check fingerstick glucose to rule out hypoglycemia; airway is always the priority; deficits appear on the side opposite the lesion.",
+     "zh": "測指尖血糖排除低血糖；呼吸道永遠優先；缺損出現在病灶對側。"
+    },
+    {
+     "en": "Left-brain stroke: right hemiplegia, aphasia, slow cautious, aware of deficits. Right-brain stroke: left hemiplegia, neglect, impulsive, poor judgment, denies problems.",
+     "zh": "左腦中風：右側偏癱、失語、緩慢謹慎、知道自己缺損。右腦中風：左側偏癱、忽略症、衝動、判斷力差、否認問題。"
+    },
+    {
+     "en": "Expressive aphasia (Broca's) - understands but cannot speak; receptive (Wernicke's) - cannot understand. Use one-step directions, picture boards, allow time.",
+     "zh": "表達性失語（Broca）－聽得懂但說不出；接受性失語（Wernicke）－聽不懂。使用單一步驟指令、圖卡、給予時間。"
+    },
+    {
+     "en": "Acute phase: keep BP around 150/100 for perfusion, HOB 15-30 degrees, side-lying, suction orally and not longer than 10 seconds, ICP risk highest in first 72 hours.",
+     "zh": "急性期：血壓維持約150/100以保持腦灌流、床頭15-30度、側臥、經口抽吸且不超過10秒、前72小時為ICP高風險期。"
+    },
+    {
+     "en": "Post-acute: position 2 h on unaffected side and 20 min on affected side, passive ROM, swallow evaluation, thickened fluids, chin-down, food on the unaffected side.",
+     "zh": "急性期後：健側臥2小時、患側臥20分鐘、被動關節活動、吞嚥評估、增稠液體、下巴微收、食物放健側。"
+    },
+    {
+     "en": "Homonymous hemianopsia and neglect: approach from the unaffected side, place items in the intact visual field, teach head turning to scan.",
+     "zh": "同側偏盲與忽略症：從健側接近、物品放在可視野、教導轉頭掃視。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "MS, myasthenia gravis, Parkinson's",
+    "zh": "多發性硬化症、重症肌無力、帕金森氏症"
+   },
+   "pdf_pages": [
+    957,
+    958,
+    959
+   ],
+   "points": [
+    {
+     "en": "MS: demyelination, remissions and exacerbations; fatigue, ataxia, spasticity, diplopia, bladder/bowel problems; avoid heat, fatigue, stress and infection; IV glucocorticoids for flare-ups.",
+     "zh": "多發性硬化症：去髓鞘、緩解與惡化交替；疲倦、運動失調、痙攣、複視、膀胱/腸道問題；避免熱、疲勞、壓力與感染；急性發作用靜脈類固醇。"
+    },
+    {
+     "en": "Myasthenia gravis: weakness worse with activity, ptosis, diplopia, dysphagia; respiratory failure risk; plan activity at peak strength; anticholinesterase drugs on time.",
+     "zh": "重症肌無力：活動後無力加重、眼瞼下垂、複視、吞嚥困難；有呼吸衰竭風險；在肌力高峰安排活動；按時給予抗膽鹼酯酶藥。"
+    },
+    {
+     "en": "Myasthenic crisis = too little medication (strength improves with edrophonium); cholinergic crisis = too much (cramps, diarrhea, miosis, bradycardia, secretions; edrophonium worsens weakness); antidote atropine.",
+     "zh": "肌無力危象＝藥量不足（給edrophonium會改善）；膽鹼性危象＝藥量過多（腹絞痛、腹瀉、瞳孔縮小、心搏過緩、分泌物多；edrophonium使無力加重）；解毒劑為atropine。"
+    },
+    {
+     "en": "Edrophonium test: keep atropine and emergency equipment available (risk of ventricular fibrillation/arrest).",
+     "zh": "Edrophonium試驗：備妥atropine與急救設備（有心室顫動/心跳停止風險）。"
+    },
+    {
+     "en": "Parkinson's: dopamine depletion; bradykinesia, resting pill-rolling tremor, rigidity, masklike face, shuffling gait, drooling.",
+     "zh": "帕金森氏症：多巴胺缺乏；動作遲緩、靜止性搓丸樣顫抖、僵硬、面具臉、拖曳步態、流口水。"
+    },
+    {
+     "en": "Parkinson's care: high-calorie, high-protein, high-fiber soft diet, 2000 mL fluids, low-heeled shoes, lift feet, avoid rushing; avoid vitamin B6-rich foods with levodopa and avoid MAO inhibitors.",
+     "zh": "帕金森照護：高熱量高蛋白高纖軟食、水分2000 mL、低跟鞋、抬腳走路、勿催促；使用levodopa時避免高維生素B6食物，避免MAO抑制劑。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Cranial nerve and neuromuscular disorders",
+    "zh": "腦神經與神經肌肉疾病"
+   },
+   "pdf_pages": [
+    959,
+    960
+   ],
+   "points": [
+    {
+     "en": "Trigeminal neuralgia (CN V): severe sharp facial pain triggered by cold, washing, chewing; avoid temperature extremes, chew on unaffected side; surgical options include microvascular decompression and rhizotomy.",
+     "zh": "三叉神經痛（第五對）：因冷、洗臉、咀嚼誘發的劇烈刺痛；避免冷熱、用健側咀嚼；手術包括微血管減壓與神經根切斷術。"
+    },
+    {
+     "en": "Bell's palsy (CN VII): one-sided facial paralysis, loss of taste, cannot close eyelid; protect the eye from dryness, facial exercises, chew on the unaffected side; usually recovers in weeks.",
+     "zh": "貝爾氏麻痺（第七對）：單側顏面麻痺、味覺喪失、眼瞼無法閉合；保護眼睛防乾燥、臉部運動、用健側咀嚼；通常數週內恢復。"
+    },
+    {
+     "en": "Guillain-Barre: follows infection by days to weeks; ascending symmetric weakness, paresthesias, CSF protein elevated; main danger is respiratory failure and dysrhythmias; recovery is slow.",
+     "zh": "格林-巴利症候群：感染後數日至數週發生；上行性對稱無力、感覺異常、腦脊髓液蛋白升高；主要危險為呼吸衰竭與心律不整；恢復緩慢。"
+    },
+    {
+     "en": "ALS: progressive motor neuron disease, sensory, autonomic and mental status spared; weakness, atrophy, fasciculations, dysphagia, dysarthria; supportive care and advance directives.",
+     "zh": "ALS：進行性運動神經元疾病，感覺、自律神經與心智不受影響；無力、萎縮、肌束顫動、吞嚥與構音困難；支持性照護與預立醫囑。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "CNS infections",
+    "zh": "中樞神經感染"
+   },
+   "pdf_pages": [
+    960,
+    961
+   ],
+   "points": [
+    {
+     "en": "Encephalitis: brain inflammation, usually viral (HSV-1, arboviruses); fever, altered LOC, signs of ICP; acyclovir for herpes encephalitis; HOB 30-45 degrees.",
+     "zh": "腦炎：腦實質發炎，多為病毒（HSV-1、蟲媒病毒）；發燒、意識改變、ICP徵象；疱疹性腦炎用acyclovir；床頭抬高30-45度。"
+    },
+    {
+     "en": "West Nile virus: mosquito-borne, symptoms 3-14 days after bite, many asymptomatic; care is supportive; prevent with DEET, long sleeves, eliminating standing water.",
+     "zh": "西尼羅病毒：蚊媒傳播、被叮咬後3-14天發病、許多人無症狀；以支持性照護；以DEET、長袖與清除積水預防。"
+    },
+    {
+     "en": "Meningitis: fever, nuchal rigidity, photophobia, positive Kernig and Brudzinski; CSF cloudy with high protein and WBC and low glucose; meningococcal rash is red macular.",
+     "zh": "腦膜炎：發燒、頸僵硬、畏光、Kernig與Brudzinski陽性；腦脊髓液混濁、蛋白與白血球升高、葡萄糖降低；腦膜炎雙球菌有紅色斑疹。"
+    },
+    {
+     "en": "Meningitis care: droplet/isolation precautions for bacterial types, seizure precautions, quiet dim room, HOB 30 degrees, avoid neck/hip flexion, antibiotics and analgesics.",
+     "zh": "腦膜炎照護：細菌性採飛沫/隔離預防、癲癇預防、安靜昏暗環境、床頭30度、避免頸/髖過度屈曲、給予抗生素與止痛藥。"
+    }
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Change in level of consciousness is the earliest, most sensitive sign of increased ICP.",
+   "zh": "意識程度改變是ICP上升最早且最敏感的徵象。",
+   "pdf_pages": [
+    947,
+    948
+   ]
+  },
+  {
+   "en": "Late ICP signs (Cushing's triad): rising systolic BP with widened pulse pressure, bradycardia, irregular respirations.",
+   "zh": "ICP晚期徵象（庫欣三徵）：收縮壓升高且脈搏壓增寬、心搏過緩、呼吸不規則。",
+   "pdf_pages": [
+    948,
+    949
+   ]
+  },
+  {
+   "en": "Increased ICP: HOB 30-40 degrees, avoid Trendelenburg, neck/hip flexion, Valsalva, coughing; avoid morphine; PaCO2 30-35 mm Hg.",
+   "zh": "ICP上升：床頭30-40度，避免頭低位、頸/髖屈曲、Valsalva、咳嗽；避免嗎啡；PaCO2 30-35 mm Hg。",
+   "pdf_pages": [
+    949
+   ]
+  },
+  {
+   "en": "Lumbar puncture is contraindicated with increased ICP (herniation).",
+   "zh": "顱內壓上升者禁做腰椎穿刺（腦疝）。",
+   "pdf_pages": [
+    945
+   ]
+  },
+  {
+   "en": "GCS below 8 = coma; range 3-15.",
+   "zh": "GCS低於8分＝昏迷；範圍3-15。",
+   "pdf_pages": [
+    948
+   ]
+  },
+  {
+   "en": "Epidural hematoma: arterial bleed, lucid interval, then rapid deterioration; surgical emergency.",
+   "zh": "硬腦膜外血腫：動脈出血、清醒期後急速惡化；為外科急症。",
+   "pdf_pages": [
+    951
+   ]
+  },
+  {
+   "en": "CSF leak: halo sign and glucose-positive; no nasal suction, no nose blowing; loose sterile dry dressing.",
+   "zh": "腦脊髓液漏：暈環徵與葡萄糖陽性；勿經鼻抽吸、擤鼻；鬆敷乾燥無菌敷料。",
+   "pdf_pages": [
+    951
+   ]
+  },
+  {
+   "en": "Seizure: protect head, side-lying, never restrain or put objects in the mouth, record time and characteristics.",
+   "zh": "癲癇發作：保護頭部、側臥、絕不約束或放物入口、記錄時間與特徵。",
+   "pdf_pages": [
+    953
+   ]
+  },
+  {
+   "en": "Stroke: airway first, check glucose, confirm type by CT; BP about 150/100 in acute stroke; ICP risk highest in the first 72 hours.",
+   "zh": "中風：先顧呼吸道、測血糖、CT確認類型；急性期血壓約150/100；前72小時ICP風險最高。",
+   "pdf_pages": [
+    955,
+    956
+   ]
+  },
+  {
+   "en": "Stroke feeding: sit upright, chin slightly flexed, food in the back of the mouth on the unaffected side, thickened fluids; never suction nasally or over 10 seconds.",
+   "zh": "中風進食：坐直、下巴微收、食物置口腔後方健側、增稠液體；勿經鼻抽吸且不超過10秒。",
+   "pdf_pages": [
+    956
+   ]
+  },
+  {
+   "en": "Myasthenic crisis (undermedicated) vs cholinergic crisis (overmedicated): withhold anticholinesterase and give atropine in cholinergic crisis; edrophonium differentiates.",
+   "zh": "肌無力危象（藥量不足）與膽鹼性危象（藥量過多）：膽鹼性危象停用抗膽鹼酯酶並給atropine；edrophonium可區分。",
+   "pdf_pages": [
+    958
+   ]
+  },
+  {
+   "en": "Guillain-Barre: respiratory failure is the major concern; keep intubation equipment and ECG monitoring available.",
+   "zh": "格林-巴利：主要顧慮為呼吸衰竭；備妥插管設備與心電圖監測。",
+   "pdf_pages": [
+    960
+   ]
+  },
+  {
+   "en": "Parkinson's: avoid vitamin B6-rich foods with levodopa and avoid MAO inhibitors (hypertensive crisis).",
+   "zh": "帕金森：使用levodopa時避免高維生素B6食物，避免MAO抑制劑（高血壓危象）。",
+   "pdf_pages": [
+    959
+   ]
+  },
+  {
+   "en": "Aneurysm precautions: quiet, dim room, no straining, no rectal temperatures, prevent hypertension.",
+   "zh": "動脈瘤預防措施：安靜昏暗、勿用力解便、勿測肛溫、預防高血壓。",
+   "pdf_pages": [
+    952,
+    953
+   ]
+  },
+  {
+   "en": "Meningitis: CSF cloudy, high protein/WBC, low glucose; positive Kernig/Brudzinski; isolation for bacterial types.",
+   "zh": "腦膜炎：腦脊髓液混濁、蛋白/白血球高、葡萄糖低；Kernig/Brudzinski陽性；細菌性需隔離。",
+   "pdf_pages": [
+    961
+   ]
+  },
+  {
+   "en": "Pupils: unilateral dilated = CN III compression; bilateral fixed dilated = ominous; pinpoint = pons or opioids.",
+   "zh": "瞳孔：單側放大＝第三對受壓；雙側固定放大＝嚴重；針尖＝橋腦或鴉片類。",
+   "pdf_pages": [
+    947
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Right brain = Risky (impulsive, neglect, left-sided deficits); Left brain = Language (aphasia, slow and cautious, right-sided deficits).",
+   "zh": "右腦＝冒險（衝動、忽略症、左側缺損）；左腦＝語言（失語、緩慢謹慎、右側缺損）。",
+   "pdf_pages": [
+    955
+   ]
+  },
+  {
+   "en": "Cholinergic crisis = SLUDGE/DUMBELS signs (salivation, lacrimation, urination, defecation, GI cramps, emesis) - too much drug; myasthenic crisis = too little.",
+   "zh": "膽鹼性危象＝SLUDGE症狀（流涎、流淚、排尿、排便、腸胃絞痛、嘔吐）－藥過量；肌無力危象＝藥不足。",
+   "pdf_pages": [
+    958
+   ]
+  },
+  {
+   "en": "Cushing's triad: high BP (wide pulse pressure), low HR, irregular respirations.",
+   "zh": "庫欣三徵：高血壓（脈搏壓增寬）、心搏過慢、呼吸不規則。",
+   "pdf_pages": [
+    948,
+    949
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 944,
+   "caption": {
+    "en": "Box 59.1 cerebral cortex lobe functions (frontal, parietal, temporal, occipital, limbic).",
+    "zh": "表59.1 大腦皮質各葉功能（額、頂、顳、枕葉與邊緣系統）。"
+   }
+  },
+  {
+   "pdf_page": 947,
+   "caption": {
+    "en": "Respiratory patterns by brain level (Box 59.2), pupil check figure and reflex assessment.",
+    "zh": "各腦區對應呼吸型態（表59.2）、瞳孔檢查圖與反射評估。"
+   }
+  },
+  {
+   "pdf_page": 948,
+   "caption": {
+    "en": "Meningeal irritation signs and the Glasgow Coma Scale scoring table.",
+    "zh": "腦膜刺激徵象與格拉斯哥昏迷指數評分表。"
+   }
+  },
+  {
+   "pdf_page": 949,
+   "caption": {
+    "en": "Care of the unconscious client checklist and clinical judgment case showing worsening ICP.",
+    "zh": "昏迷病人照護清單，及顱內壓惡化的臨床判斷案例。"
+   }
+  },
+  {
+   "pdf_page": 951,
+   "caption": {
+    "en": "Types of head injury and hematomas (epidural vs subdural).",
+    "zh": "頭部外傷與血腫類型（硬腦膜外與硬腦膜下）。"
+   }
+  },
+  {
+   "pdf_page": 953,
+   "caption": {
+    "en": "Craniotomy positioning and aneurysm precautions boxes.",
+    "zh": "開顱術後擺位與動脈瘤預防措施。"
+   }
+  },
+  {
+   "pdf_page": 954,
+   "caption": {
+    "en": "Seizure types and stroke manifestations by type.",
+    "zh": "癲癇類型與各型中風表現。"
+   }
+  },
+  {
+   "pdf_page": 955,
+   "caption": {
+    "en": "Right versus left brain stroke deficits and stroke assessment findings.",
+    "zh": "右腦與左腦中風缺損比較及中風評估發現。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client with a head injury has a GCS that falls from 15 to 11, with new restlessness and slowed pupil response. What is the nurse's priority action?",
+    "zh": "頭部外傷病人GCS由15降至11，出現躁動且瞳孔反應變慢。護理師的首要行動為何？"
+   },
+   "options": [
+    {
+     "en": "Document the findings and reassess in 4 hours",
+     "zh": "記錄並4小時後再評估"
+    },
+    {
+     "en": "Notify the PHCP immediately",
+     "zh": "立即通知醫師"
+    },
+    {
+     "en": "Administer morphine for restlessness",
+     "zh": "給予嗎啡緩解躁動"
+    },
+    {
+     "en": "Lower the head of the bed",
+     "zh": "降低床頭"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "A falling LOC is the earliest sign of rising ICP and needs immediate reporting. Morphine can depress respiration and raise ICP; lowering the HOB increases ICP.",
+    "zh": "意識程度下降是ICP上升最早徵象，需立即通報。嗎啡會抑制呼吸、增加ICP；降低床頭會增加ICP。"
+   },
+   "pdf_pages": [
+    948,
+    949
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which vital sign trend indicates rising ICP?",
+    "zh": "下列何種生命徵象趨勢表示ICP上升？"
+   },
+   "options": [
+    {
+     "en": "Rising BP with widening pulse pressure, slowing pulse, irregular respirations",
+     "zh": "血壓上升且脈搏壓增寬、脈搏變慢、呼吸不規則"
+    },
+    {
+     "en": "Falling BP, rapid pulse, rapid respirations",
+     "zh": "血壓下降、脈搏快、呼吸快"
+    },
+    {
+     "en": "Falling temperature, falling pulse, falling BP",
+     "zh": "體溫、脈搏、血壓皆下降"
+    },
+    {
+     "en": "Rising pulse with narrowing pulse pressure",
+     "zh": "脈搏上升且脈搏壓變窄"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "This is Cushing's response; temperature also commonly rises.",
+    "zh": "此為庫欣反應；體溫也常上升。"
+   },
+   "pdf_pages": [
+    948,
+    949
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client has clear fluid draining from the nose after a basilar skull fracture. Which findings suggest CSF? Select all that apply.",
+    "zh": "基底顱骨骨折病人鼻腔流出清澈液體。下列哪些發現提示為腦脊髓液？（多選）"
+   },
+   "options": [
+    {
+     "en": "Halo (concentric ring) sign on gauze",
+     "zh": "紗布上出現暈環徵"
+    },
+    {
+     "en": "Positive for glucose on test strip",
+     "zh": "試紙葡萄糖陽性"
+    },
+    {
+     "en": "Fluid is thick and green",
+     "zh": "液體黏稠呈綠色"
+    },
+    {
+     "en": "Negative for glucose",
+     "zh": "葡萄糖陰性"
+    }
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "rationale": {
+    "en": "CSF forms a halo ring and contains glucose; mucus does not. Do not suction or pack the nose.",
+    "zh": "腦脊髓液會形成暈環且含葡萄糖，黏液則否。勿抽吸或填塞鼻腔。"
+   },
+   "pdf_pages": [
+    951
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client begins a tonic-clonic seizure in bed. Which actions are appropriate? Select all that apply.",
+    "zh": "病人在床上發生強直-陣攣癲癇。下列哪些行動適當？（多選）"
+   },
+   "options": [
+    {
+     "en": "Turn the client to the side",
+     "zh": "將病人轉向側臥"
+    },
+    {
+     "en": "Place a padded tongue blade between the teeth",
+     "zh": "將包覆的壓舌板放入齒間"
+    },
+    {
+     "en": "Note the time and characteristics",
+     "zh": "記錄時間與特徵"
+    },
+    {
+     "en": "Restrain the limbs",
+     "zh": "約束四肢"
+    },
+    {
+     "en": "Loosen restrictive clothing",
+     "zh": "鬆開緊身衣物"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Protect airway and prevent injury; never restrain or put objects in the mouth.",
+    "zh": "維持呼吸道並預防受傷；絕不約束或口中放物。"
+   },
+   "pdf_pages": [
+    953
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with a stroke has dysphagia. Which action by the nurse is best when feeding?",
+    "zh": "中風且有吞嚥困難的病人，護理師餵食時何者最佳？"
+   },
+   "options": [
+    {
+     "en": "Position upright with chin slightly flexed and place food on the unaffected side",
+     "zh": "坐直、下巴微收，食物放在健側"
+    },
+    {
+     "en": "Give thin liquids first with the client reclined",
+     "zh": "病人半躺並先給稀薄液體"
+    },
+    {
+     "en": "Place food on the affected side to encourage chewing",
+     "zh": "把食物放患側促進咀嚼"
+    },
+    {
+     "en": "Hurry the meal to prevent fatigue",
+     "zh": "加快進食避免疲倦"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Upright positioning, chin tuck, thickened fluids and food on the unaffected side reduce aspiration and pocketing.",
+    "zh": "坐直、收下巴、增稠液體與食物置健側可降低吸入與食物滯留。"
+   },
+   "pdf_pages": [
+    956
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with myasthenia gravis on pyridostigmine has abdominal cramping, diarrhea, miosis and bradycardia, and increasing weakness. What does the nurse anticipate?",
+    "zh": "服用pyridostigmine的重症肌無力病人出現腹絞痛、腹瀉、瞳孔縮小、心搏過緩與無力加重。護理師預期？"
+   },
+   "options": [
+    {
+     "en": "Give extra anticholinesterase",
+     "zh": "加給抗膽鹼酯酶"
+    },
+    {
+     "en": "Withhold the drug and prepare atropine",
+     "zh": "停藥並準備atropine"
+    },
+    {
+     "en": "Prepare neostigmine IV",
+     "zh": "準備neostigmine靜脈注射"
+    },
+    {
+     "en": "Encourage exercise",
+     "zh": "鼓勵運動"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "These signs indicate cholinergic crisis from overmedication; withhold the drug, support respirations and give atropine as prescribed.",
+    "zh": "這些為藥物過量造成的膽鹼性危象；停藥、支持呼吸並依醫囑給atropine。"
+   },
+   "pdf_pages": [
+    958
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with Guillain-Barre syndrome reports tingling and inability to move the legs. Which equipment is most essential at the bedside?",
+    "zh": "格林-巴利病人主訴麻刺感且雙腿無法移動。床邊最必要的設備為何？"
+   },
+   "options": [
+    {
+     "en": "Flashlight and BP cuff",
+     "zh": "手電筒與血壓計"
+    },
+    {
+     "en": "Intubation tray and ECG monitoring",
+     "zh": "插管用物與心電圖監測"
+    },
+    {
+     "en": "Incentive spirometer only",
+     "zh": "僅誘發性肺量計"
+    },
+    {
+     "en": "Heating pad",
+     "zh": "熱敷墊"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Ascending paralysis can reach respiratory muscles; dysrhythmias also occur.",
+    "zh": "上行性麻痺可能波及呼吸肌；亦可能發生心律不整。"
+   },
+   "pdf_pages": [
+    960
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with trigeminal neuralgia needs more teaching if the client says:",
+    "zh": "三叉神經痛病人說出下列何者表示需再衛教？"
+   },
+   "options": [
+    {
+     "en": "I will wash my face with a cotton pad",
+     "zh": "我會用棉墊洗臉"
+    },
+    {
+     "en": "I will chew on the unaffected side",
+     "zh": "我會用健側咀嚼"
+    },
+    {
+     "en": "I will eat very hot or very cold foods",
+     "zh": "我會吃很燙或很冰的食物"
+    },
+    {
+     "en": "I will rinse my mouth if brushing hurts",
+     "zh": "刷牙會痛時我會漱口"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Temperature extremes trigger pain; use room-temperature foods.",
+    "zh": "極端溫度會誘發疼痛；應吃室溫食物。"
+   },
+   "pdf_pages": [
+    959
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Nurseslabs - NCLEX Neurological Quiz 1",
+   "url": "https://nurseslabs.com/quizzes/nclex-neurological-quiz-1/",
+   "note": {
+    "en": "Free neurological NCLEX-style questions with rationales.",
+    "zh": "免費神經系統NCLEX風格題目附解析。"
+   }
+  },
+  {
+   "title": "Simple Nursing - Increased ICP Practice Questions",
+   "url": "https://simplenursing.com/icp-nclex-practice-questions-review/",
+   "note": {
+    "en": "ICP practice questions with answers and review.",
+    "zh": "顱內壓練習題與解答及複習。"
+   }
+  },
+  {
+   "title": "Simple Nursing - Stroke (CVA) Practice Questions",
+   "url": "https://simplenursing.com/stroke-cva-nclex-practice-questions-review/",
+   "note": {
+    "en": "Stroke practice questions with rationales.",
+    "zh": "中風練習題與解析。"
+   }
+  }
+ ]
+}

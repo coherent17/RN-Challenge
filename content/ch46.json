@@ -1,0 +1,807 @@
+{
+ "number": 46,
+ "title": {
+  "en": "Oncological and Hematological Medications",
+  "zh": "腫瘤與血液用藥"
+ },
+ "overview": {
+  "en": "Covers chemotherapy drug classes, their cell-cycle targets, signature toxicities, safe handling, extravasation and anaphylaxis management, plus colony-stimulating factors and anemia drugs. Focus on matching each drug to its special adverse effect and the monitoring it needs.",
+  "zh": "涵蓋化療藥物分類、作用週期、特徵性毒性、安全處理、藥物外滲與過敏處置，以及群落刺激因子與貧血藥物。重點在將各藥物對應其特殊不良反應與監測項目。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Antineoplastic basics",
+    "zh": "抗腫瘤藥物基礎"
+   },
+   "points": [
+    {
+     "en": "Chemotherapy kills or inhibits neoplastic cells for cure, longer survival, or fewer life-threatening complications; normal rapidly dividing cells are also hurt, which causes most side effects.",
+     "zh": "化療殺死或抑制腫瘤細胞，目的為治癒、延長存活或減少危及生命的併發症；正常的快速分裂細胞也會受損，造成多數副作用。"
+    },
+    {
+     "en": "Cell cycle phase-specific drugs act only in one phase; phase-nonspecific drugs act in any phase (Fig. 46.1).",
+     "zh": "週期特異性藥物只在特定細胞週期作用；非特異性藥物在任何階段都有效（圖46.1）。"
+    },
+    {
+     "en": "Drugs are usually combined, and may be paired with surgery or radiation; IV is the most common route, with oral, intra-arterial, isolated limb perfusion or intracavitary also used.",
+     "zh": "通常合併多種藥物，並可與手術或放療並用；最常見為靜脈給藥，也可口服、動脈內、肢體隔離灌注或體腔內給藥。"
+    },
+    {
+     "en": "Dosing is based on body surface area (BSA), so measure current height and weight before each dose.",
+     "zh": "劑量依體表面積(BSA)計算，每次給藥前須測量當前身高與體重。"
+    },
+    {
+     "en": "Chemotherapy causes rapid cell death with uric acid release; allopurinol may be given, especially in leukemia and lymphoma.",
+     "zh": "化療造成細胞快速死亡並釋出尿酸；尤其白血病與淋巴瘤可給予allopurinol。"
+    }
+   ],
+   "pdf_pages": [
+    651,
+    652
+   ]
+  },
+  {
+   "heading": {
+    "en": "Side effects and general nursing care",
+    "zh": "副作用與一般護理"
+   },
+   "points": [
+    {
+     "en": "Common effects: anorexia, nausea/vomiting, mucositis, alopecia, diarrhea, anemia, neutropenia, thrombocytopenia, infertility and neuropathy.",
+     "zh": "常見副作用：厭食、噁心嘔吐、黏膜炎、落髮、腹瀉、貧血、嗜中性球低下、血小板低下、不孕與神經病變。"
+    },
+    {
+     "en": "Monitor CBC, WBC, platelets, uric acid and electrolytes; give antiemetics hours before and 12-48 hours after chemotherapy; encourage at least 2000 mL fluid per day.",
+     "zh": "監測全血球計數、白血球、血小板、尿酸與電解質；化療前數小時及後12-48小時給予止吐劑；每日至少攝取2000 mL液體。"
+    },
+    {
+     "en": "Platelets below 50,000/mm3 raise bleeding risk; below 20,000/mm3 spontaneous bleeding may occur. Start bleeding precautions and avoid IM injections and venipunctures where possible.",
+     "zh": "血小板低於50,000/mm3出血風險增加；低於20,000/mm3可能自發性出血。應啟動出血預防措施，盡量避免肌肉注射與靜脈穿刺。"
+    },
+    {
+     "en": "ANC = WBC x % neutrophils; ANC below 1000 means neutropenia: hold the drug, notify the oncologist, and start neutropenic precautions (example: ANC 900).",
+     "zh": "ANC=白血球數x嗜中性球百分比；ANC低於1000為嗜中性球低下：暫停給藥、通知腫瘤科醫師並啟動嗜中性球低下防護（例如ANC 900）。"
+    },
+    {
+     "en": "Teach: avoid crowds and sick contacts, soft toothbrush, electric razor, no aspirin, no live vaccines, consult the provider before any vaccination, oral hygiene and mouth rinses.",
+     "zh": "衛教：避免人群與感染者、使用軟毛牙刷與電動刮鬍刀、避免阿斯匹靈、不可施打活性疫苗、接種前先詢問醫師、加強口腔衛生。"
+    },
+    {
+     "en": "Psychosocial: discuss hair loss and wigs before treatment, hair regrows months after the last dose; teratogenic so contraception is needed; infertility may be permanent, so offer sperm banking or egg preservation.",
+     "zh": "心理社會：治療前討論落髮與假髮，髮量於末次治療後數月長回；具致畸性需避孕；不孕可能不可逆，可提供精子或卵子保存。"
+    }
+   ],
+   "pdf_pages": [
+    651,
+    652,
+    653
+   ]
+  },
+  {
+   "heading": {
+    "en": "Safe handling, extravasation and anaphylaxis",
+    "zh": "安全處理、藥物外滲與過敏性反應"
+   },
+   "points": [
+    {
+     "en": "Prepare IV chemotherapy in a biological safety cabinet; wear gloves, gown, eye protection and mask; pregnant nurses should avoid preparing or giving chemotherapy; discard in biohazard containers.",
+     "zh": "在生物安全櫃中調配靜脈化療藥；穿戴手套、隔離衣、護目與口罩；懷孕護理師應避免調配或給藥；廢棄物丟入生物危害容器。"
+    },
+    {
+     "en": "Vesicants go through a central line when possible; with a peripheral line, check blood return first.",
+     "zh": "起疱劑盡可能經中央靜脈導管給予；若用周邊靜脈須先確認有回血。"
+    },
+    {
+     "en": "Extravasation (pain, redness, swelling, slowed infusion): stop infusion, notify the provider, expect heat or ice depending on the drug and possibly an antidote injected into the site. Never restart in the same vein or speed the flow.",
+     "zh": "藥物外滲（疼痛、紅腫、滴速變慢）：停止輸注、通知醫師，依藥物使用冷敷或熱敷，可能需於局部注射解毒劑；不可在同一條靜脈重新建立或加快滴速。"
+    },
+    {
+     "en": "Anaphylaxis signs: dyspnea, chest tightness, urticaria, tachycardia, hypotension, anxiety, cyanosis. Stop the drug, call rapid response, give oxygen, keep IV open with saline, prepare epinephrine and intubation.",
+     "zh": "過敏性休克徵象：呼吸困難、胸悶、蕁麻疹、心搏過速、低血壓、焦慮、發紺。立即停藥、呼叫快速反應小組、給氧、以生理食鹽水維持靜脈通路、備epinephrine與插管。"
+    },
+    {
+     "en": "Prevent anaphylaxis: allergy history, test dose if prescribed, stay with the client, have emergency equipment ready.",
+     "zh": "預防：詢問過敏史、依醫囑做測試劑量、全程陪伴病人、備妥急救設備。"
+    }
+   ],
+   "pdf_pages": [
+    652,
+    653
+   ]
+  },
+  {
+   "heading": {
+    "en": "Alkylating agents and antitumor antibiotics",
+    "zh": "烷化劑與抗腫瘤抗生素"
+   },
+   "points": [
+    {
+     "en": "Alkylating agents (nitrogen mustards, nitrosoureas, platinum compounds) break the DNA helix; they are cell cycle nonspecific.",
+     "zh": "烷化劑（氮芥類、亞硝基脲類、鉑類）破壞DNA雙股螺旋，屬非週期特異性。"
+    },
+    {
+     "en": "Busulfan, chlorambucil and mechlorethamine raise uric acid; cisplatin causes ototoxicity, tinnitus, nephrotoxicity, hypokalemia, hypocalcemia and hypomagnesemia.",
+     "zh": "Busulfan、chlorambucil、mechlorethamine使尿酸升高；cisplatin造成耳毒性、耳鳴、腎毒性、低鉀、低鈣與低鎂。"
+    },
+    {
+     "en": "Cyclophosphamide and ifosfamide cause hemorrhagic cystitis: drink 2-3 L/day; mesna protects against ifosfamide cystitis; oral cyclophosphamide is taken without food.",
+     "zh": "Cyclophosphamide與ifosfamide造成出血性膀胱炎：每日飲水2-3 L；mesna可預防ifosfamide膀胱炎；口服cyclophosphamide宜空腹。"
+    },
+    {
+     "en": "Antitumor antibiotics (bleomycin, daunorubicin, doxorubicin, idarubicin) interfere with DNA/RNA synthesis and are nonspecific.",
+     "zh": "抗腫瘤抗生素（bleomycin、daunorubicin、doxorubicin、idarubicin）干擾DNA/RNA合成，屬非特異性。"
+    },
+    {
+     "en": "Daunorubicin/doxorubicin/idarubicin: cardiotoxicity, heart failure (crackles, edema, weight gain), ECG changes; dexrazoxane is cardioprotective. Bleomycin: pulmonary toxicity and fibrosis, so follow PFTs and lung sounds.",
+     "zh": "Daunorubicin/doxorubicin/idarubicin：心毒性、心衰竭（囉音、水腫、體重增加）、心電圖變化；dexrazoxane具心臟保護作用。Bleomycin：肺毒性與肺纖維化，需追蹤肺功能與呼吸音。"
+    }
+   ],
+   "pdf_pages": [
+    654
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antimetabolites, mitotic inhibitors, topoisomerase inhibitors",
+    "zh": "抗代謝藥、有絲分裂抑制劑、拓樸異構酶抑制劑"
+   },
+   "points": [
+    {
+     "en": "Antimetabolites act in the S phase: cytarabine, fluorouracil, mercaptopurine and methotrexate; bone marrow depression, stomatitis, diarrhea, alopecia.",
+     "zh": "抗代謝藥作用於S期：cytarabine、fluorouracil、mercaptopurine、methotrexate；骨髓抑制、口腔炎、腹瀉、落髮。"
+    },
+    {
+     "en": "Fluorouracil: cerebellar dysfunction (dizziness, weakness, ataxia) and photosensitivity; methotrexate: photosensitivity, hepatotoxicity; give leucovorin rescue with high-dose methotrexate.",
+     "zh": "Fluorouracil：小腦功能異常（頭暈、無力、共濟失調）與光敏感；methotrexate：光敏感、肝毒性；高劑量methotrexate須給leucovorin解救。"
+    },
+    {
+     "en": "Vinca alkaloids (vincristine, vinblastine, vinorelbine) act in the M phase: peripheral neuropathy, ptosis, hoarseness, constipation and paralytic ileus; give by minibag, not IV push.",
+     "zh": "長春花生物鹼（vincristine、vinblastine、vinorelbine）作用於M期：周邊神經病變、眼瞼下垂、聲音沙啞、便祕與麻痺性腸阻塞；以小袋稀釋輸注，不可靜脈推注。"
+    },
+    {
+     "en": "Taxanes (paclitaxel, docetaxel) are also mitotic inhibitors and can trigger hypersensitivity reactions.",
+     "zh": "紫杉醇類（paclitaxel、docetaxel）亦為有絲分裂抑制劑，可能引發過敏反應。"
+    },
+    {
+     "en": "Topoisomerase inhibitors (etoposide, irinotecan, topotecan) act in G2 and S phases: myelosuppression, diarrhea, orthostatic hypotension, hypersensitivity; infuse etoposide slowly over 30-60 minutes.",
+     "zh": "拓樸異構酶抑制劑（etoposide、irinotecan、topotecan）作用於G2與S期：骨髓抑制、腹瀉、姿勢性低血壓、過敏；etoposide須緩慢輸注30-60分鐘。"
+    }
+   ],
+   "pdf_pages": [
+    655,
+    656
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hormonal agents and enzymes",
+    "zh": "荷爾蒙藥物與酵素"
+   },
+   "points": [
+    {
+     "en": "Hormonal agents block or change hormones in hormone-sensitive tumors: estrogens, antiestrogens (tamoxifen, anastrozole, letrozole), antiandrogens, progestins (megestrol), leuprolide, mitotane, asparaginase.",
+     "zh": "荷爾蒙藥物阻斷或改變荷爾蒙敏感腫瘤的激素環境：雌激素、抗雌激素（tamoxifen、anastrozole、letrozole）、抗雄激素、黃體素（megestrol）、leuprolide、mitotane、asparaginase。"
+    },
+    {
+     "en": "Effects: nausea, leukopenia, hot flashes, weight gain, edema, hypertension, thromboembolism, sex-characteristic changes (gynecomastia, masculinizing effects).",
+     "zh": "影響：噁心、白血球低下、熱潮紅、體重增加、水腫、高血壓、血栓栓塞、性徵改變（男性女乳症、女性男性化）。"
+    },
+    {
+     "en": "Tamoxifen: hypercalcemia, high cholesterol and triglycerides, venous thromboembolism risk; used to treat and prevent breast cancer. Monitor calcium.",
+     "zh": "Tamoxifen：高血鈣、膽固醇與三酸甘油酯升高、靜脈血栓風險；用於治療及預防乳癌。需監測血鈣。"
+    },
+    {
+     "en": "Asparaginase impairs pancreatic function: contraindicated with pancreatitis history; watch nausea, vomiting, abdominal pain. Megestrol: caution with venous thromboembolism history.",
+     "zh": "Asparaginase損害胰臟功能：有胰臟炎病史者禁用；注意噁心、嘔吐、腹痛。Megestrol：有靜脈血栓病史者需謹慎。"
+    }
+   ],
+   "pdf_pages": [
+    655,
+    656,
+    659,
+    660
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immunotherapy, targeted therapy, other agents",
+    "zh": "免疫療法、標靶治療與其他藥物"
+   },
+   "points": [
+    {
+     "en": "Immunomodulators (interleukins, interferons) stimulate the immune system to destroy cancer cells.",
+     "zh": "免疫調節劑（介白素、干擾素）刺激免疫系統辨識並消滅癌細胞。"
+    },
+    {
+     "en": "Colony-stimulating factors speed marrow recovery: filgrastim and pegfilgrastim (G-CSF), sargramostim (GM-CSF), epoetin and darbepoetin (erythropoietin).",
+     "zh": "群落刺激因子加速骨髓恢復：filgrastim、pegfilgrastim（G-CSF）、sargramostim（GM-CSF）、epoetin與darbepoetin（紅血球生成素）。"
+    },
+    {
+     "en": "Targeted therapy uses monoclonal antibodies (rituximab, trastuzumab, bevacizumab, cetuximab) and small molecule inhibitors (imatinib, erlotinib); monoclonal antibodies can cause allergic reactions.",
+     "zh": "標靶治療包括單株抗體（rituximab、trastuzumab、bevacizumab、cetuximab）與小分子抑制劑（imatinib、erlotinib）；單株抗體可能引起過敏反應。"
+    },
+    {
+     "en": "Other agents: altretamine (ovarian cancer), denileukin diftitox and bexarotene (cutaneous T-cell lymphoma), pegaspargase (ALL when asparaginase cannot be used).",
+     "zh": "其他藥物：altretamine（卵巢癌）、denileukin diftitox與bexarotene（皮膚T細胞淋巴瘤）、pegaspargase（無法使用asparaginase的急性淋巴性白血病）。"
+    }
+   ],
+   "pdf_pages": [
+    656,
+    657
+   ]
+  },
+  {
+   "heading": {
+    "en": "Medications for anemia",
+    "zh": "貧血治療藥物"
+   },
+   "points": [
+    {
+     "en": "Iron-deficiency anemia: iron. Vitamin B12 deficiency: B12. Folate deficiency: folate.",
+     "zh": "缺鐵性貧血：補鐵；維生素B12缺乏：補B12；葉酸缺乏：補葉酸。"
+    },
+    {
+     "en": "Acute blood-loss anemia: transfusion of packed red cells, platelets or fresh frozen plasma depending on cause.",
+     "zh": "急性失血性貧血：依原因輸注濃縮紅血球、血小板或新鮮冷凍血漿。"
+    },
+    {
+     "en": "Anemia of chronic disease: iron and erythropoietic, leukopoietic and thrombopoietic growth factors.",
+     "zh": "慢性病貧血：鐵劑與紅血球、白血球、血小板生成因子。"
+    }
+   ],
+   "pdf_pages": [
+    657
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Dose by BSA: obtain actual current height and weight before every dose, never client-reported values.",
+   "zh": "依BSA給藥：每次給藥前測量實際身高與體重，不可只憑病人自述。",
+   "pdf_pages": [
+    651,
+    659
+   ]
+  },
+  {
+   "en": "ANC = WBC x neutrophil %. ANC below 1000: hold chemotherapy, notify oncologist, start neutropenic precautions.",
+   "zh": "ANC=白血球x嗜中性球百分比。ANC低於1000：暫停化療、通知腫瘤科醫師、啟動嗜中性球低下防護。",
+   "pdf_pages": [
+    652
+   ]
+  },
+  {
+   "en": "Platelets under 50,000/mm3 start bleeding precautions; under 20,000/mm3 spontaneous bleeding risk. Avoid IM injections, aspirin and NSAIDs.",
+   "zh": "血小板低於50,000/mm3啟動出血預防；低於20,000/mm3有自發性出血風險。避免肌肉注射、阿斯匹靈與NSAIDs。",
+   "pdf_pages": [
+    651,
+    652,
+    653
+   ]
+  },
+  {
+   "en": "Extravasation: stop infusion, notify PHCP, heat or ice per drug, antidote into site. Do not flush faster or restart in the same vein.",
+   "zh": "藥物外滲：停止輸注、通知醫師、依藥物冷熱敷、局部注射解毒劑；不可加快沖洗或在同一條靜脈重打。",
+   "pdf_pages": [
+    652,
+    658
+   ]
+  },
+  {
+   "en": "Anaphylaxis to chemotherapy: stop infusion first, call rapid response, oxygen, keep IV with saline, epinephrine.",
+   "zh": "化療過敏性休克：先停藥、呼叫快速反應、給氧、生理食鹽水維持靜脈通路、給epinephrine。",
+   "pdf_pages": [
+    653
+   ]
+  },
+  {
+   "en": "Antiemetics are given several hours before chemotherapy and for 12-48 hours afterward; keep fluids at 2000 mL/day or more.",
+   "zh": "止吐劑於化療前數小時及後12-48小時給予；每日液體至少2000 mL。",
+   "pdf_pages": [
+    652
+   ]
+  },
+  {
+   "en": "Hyperuricemia from massive cell kill (leukemia, lymphoma): monitor uric acid, give allopurinol; busulfan also raises uric acid.",
+   "zh": "大量細胞死亡造成高尿酸（白血病、淋巴瘤）：監測尿酸、給allopurinol；busulfan亦使尿酸升高。",
+   "pdf_pages": [
+    651,
+    654,
+    659
+   ]
+  },
+  {
+   "en": "Cyclophosphamide/ifosfamide: hemorrhagic cystitis; 2-3 L fluid daily, report hematuria, mesna with ifosfamide.",
+   "zh": "Cyclophosphamide/ifosfamide：出血性膀胱炎；每日飲水2-3 L、通報血尿、ifosfamide併用mesna。",
+   "pdf_pages": [
+    654,
+    660
+   ]
+  },
+  {
+   "en": "Cisplatin: ototoxicity, tinnitus, nephrotoxicity, low K, Ca, Mg.",
+   "zh": "Cisplatin：耳毒性、耳鳴、腎毒性、低鉀鈣鎂。",
+   "pdf_pages": [
+    654
+   ]
+  },
+  {
+   "en": "Doxorubicin/daunorubicin: cardiotoxicity and heart failure (lung crackles, edema, weight gain, ECG changes). Bleomycin: pulmonary fibrosis, follow PFTs.",
+   "zh": "Doxorubicin/daunorubicin：心毒性與心衰竭（肺囉音、水腫、體重增加、心電圖變化）。Bleomycin：肺纖維化，追蹤肺功能。",
+   "pdf_pages": [
+    654,
+    659,
+    660
+   ]
+  },
+  {
+   "en": "Methotrexate high dose: leucovorin rescue. Fluorouracil/methotrexate: sunscreen and protective clothing; fluorouracil: watch ataxia and stomatitis.",
+   "zh": "高劑量methotrexate：leucovorin解救。Fluorouracil/methotrexate：防曬與保護衣物；fluorouracil注意共濟失調與口腔炎。",
+   "pdf_pages": [
+    655
+   ]
+  },
+  {
+   "en": "Vincristine: peripheral neuropathy (numbness, tingling, lost Achilles reflex), constipation and paralytic ileus, ptosis; never IV push.",
+   "zh": "Vincristine：周邊神經病變（麻木刺痛、跟腱反射減弱）、便祕與麻痺性腸阻塞、眼瞼下垂；不可靜脈推注。",
+   "pdf_pages": [
+    655,
+    659
+   ]
+  },
+  {
+   "en": "Etoposide: orthostatic hypotension; infuse over 30-60 minutes and monitor blood pressure.",
+   "zh": "Etoposide：姿勢性低血壓；輸注30-60分鐘並監測血壓。",
+   "pdf_pages": [
+    655,
+    659
+   ]
+  },
+  {
+   "en": "Tamoxifen: monitor calcium (hypercalcemia), lipids, thromboembolism; treats and prevents breast cancer.",
+   "zh": "Tamoxifen：監測血鈣（高血鈣）、血脂、血栓；可治療與預防乳癌。",
+   "pdf_pages": [
+    656,
+    660
+   ]
+  },
+  {
+   "en": "Asparaginase contraindicated in pancreatitis; megestrol caution with venous thromboembolism.",
+   "zh": "Asparaginase禁用於胰臟炎；megestrol對靜脈血栓病史者需謹慎。",
+   "pdf_pages": [
+    656,
+    659,
+    660
+   ]
+  },
+  {
+   "en": "No live vaccines for the client or household contacts; check with PHCP before any immunization. Pregnant nurses avoid handling chemotherapy.",
+   "zh": "病人與同住者不可接種活性疫苗；任何接種前先問醫師。懷孕護理師避免接觸化療藥。",
+   "pdf_pages": [
+    652,
+    653,
+    658
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Phase-specific drugs: S = antimetabolites; M = mitotic inhibitors (vinca, taxanes); G2/S = topoisomerase inhibitors. Nonspecific = Alkylating, Antitumor antibiotics, Hormonal (AAH).",
+   "zh": "週期特異性：S期=抗代謝藥；M期=有絲分裂抑制劑（長春花、紫杉類）；G2/S期=拓樸異構酶抑制劑。非特異性=烷化劑、抗腫瘤抗生素、荷爾蒙（AAH）。",
+   "pdf_pages": [
+    652
+   ]
+  },
+  {
+   "en": "Organ toxicities: Bleomycin = Breath (lungs); Doxorubicin = Dead heart; Cisplatin = Can't hear/kidney; Vincristine = Vincristine nerves; Cyclophosphamide = Cystitis.",
+   "zh": "器官毒性：Bleomycin=肺；Doxorubicin=心；Cisplatin=耳與腎；Vincristine=神經；Cyclophosphamide=膀胱炎。",
+   "pdf_pages": [
+    654,
+    655
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 652,
+   "caption": {
+    "en": "Fig. 46.1 cell cycle diagram showing which drug classes act on each phase; also the neutropenia (ANC) Take Action box.",
+    "zh": "圖46.1細胞週期圖，顯示各類藥物作用的期別；同頁有嗜中性球低下（ANC）處置範例。"
+   }
+  },
+  {
+   "pdf_page": 653,
+   "caption": {
+    "en": "Take Action box for anaphylaxis during paclitaxel infusion: stop drug, rapid response, oxygen, epinephrine.",
+    "zh": "paclitaxel輸注過敏性休克處置範例：停藥、快速反應、給氧、epinephrine。"
+   }
+  },
+  {
+   "pdf_page": 654,
+   "caption": {
+    "en": "Box 46.1 lists alkylating agents and Box 46.2 antitumor antibiotics.",
+    "zh": "Box 46.1列出烷化劑，Box 46.2列出抗腫瘤抗生素。"
+   }
+  },
+  {
+   "pdf_page": 655,
+   "caption": {
+    "en": "Box 46.3 antimetabolites.",
+    "zh": "Box 46.3 抗代謝藥清單。"
+   }
+  },
+  {
+   "pdf_page": 656,
+   "caption": {
+    "en": "Boxes 46.4-46.7: mitotic inhibitors, topoisomerase inhibitors, hormonal agents, immunomodulators and targeted therapies.",
+    "zh": "Box 46.4-46.7：有絲分裂抑制劑、拓樸異構酶抑制劑、荷爾蒙藥物、免疫調節與標靶藥物。"
+   }
+  },
+  {
+   "pdf_page": 657,
+   "caption": {
+    "en": "Box 46.8 colony-stimulating factors and medications for anemia.",
+    "zh": "Box 46.8群落刺激因子與貧血藥物。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client is scheduled for chemotherapy. The morning CBC shows WBC 3000/mm3 with 25% neutrophils. What should the nurse do?",
+    "zh": "病人預定化療，晨間血液檢查白血球3000/mm3，嗜中性球25%。護理師應如何處理？"
+   },
+   "options": [
+    {
+     "en": "Start the infusion as scheduled",
+     "zh": "按計畫開始輸注"
+    },
+    {
+     "en": "Hold the infusion and notify the oncologist",
+     "zh": "暫停輸注並通知腫瘤科醫師"
+    },
+    {
+     "en": "Give the infusion more slowly",
+     "zh": "放慢輸注速度"
+    },
+    {
+     "en": "Ask the client to drink more fluids and begin",
+     "zh": "請病人多喝水後開始"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "ANC = 3000 x 0.25 = 750, below 1000, indicating neutropenia. Withhold the drug, notify the oncologist and begin neutropenic precautions.",
+    "zh": "ANC=3000x0.25=750，低於1000，為嗜中性球低下。應暫停給藥、通知腫瘤科醫師並啟動嗜中性球低下防護。"
+   },
+   "pdf_pages": [
+    652
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client receiving ifosfamide is at risk for which complication, and which measures are appropriate? Select all that apply.",
+    "zh": "接受ifosfamide的病人有哪些風險，哪些措施適當？（複選）"
+   },
+   "options": [
+    {
+     "en": "Hemorrhagic cystitis",
+     "zh": "出血性膀胱炎"
+    },
+    {
+     "en": "Administer mesna as prescribed",
+     "zh": "依醫囑給予mesna"
+    },
+    {
+     "en": "Encourage 2 to 3 L of fluid daily",
+     "zh": "鼓勵每日飲水2-3 L"
+    },
+    {
+     "en": "Restrict fluids to protect the kidneys",
+     "zh": "限制水分以保護腎臟"
+    },
+    {
+     "en": "Report hematuria",
+     "zh": "通報血尿"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Ifosfamide and cyclophosphamide cause hemorrhagic cystitis. Mesna and generous hydration protect the bladder; hematuria must be reported. Restricting fluids would worsen bladder injury.",
+    "zh": "Ifosfamide與cyclophosphamide造成出血性膀胱炎。Mesna與充足水分保護膀胱，血尿須通報；限水會加重傷害。"
+   },
+   "pdf_pages": [
+    654
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client receiving doxorubicin reports shortness of breath, and the nurse hears bilateral crackles and notes weight gain. Which adverse effect is suspected?",
+    "zh": "接受doxorubicin的病人呼吸喘，護理師聽到雙側囉音且體重增加。懷疑何種不良反應？"
+   },
+   "options": [
+    {
+     "en": "Pulmonary fibrosis",
+     "zh": "肺纖維化"
+    },
+    {
+     "en": "Heart failure from cardiotoxicity",
+     "zh": "心毒性導致的心衰竭"
+    },
+    {
+     "en": "Hemorrhagic cystitis",
+     "zh": "出血性膀胱炎"
+    },
+    {
+     "en": "Ototoxicity",
+     "zh": "耳毒性"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Anthracyclines cause cardiomyopathy and heart failure: dyspnea, crackles, edema and weight gain. Pulmonary fibrosis is typical of bleomycin.",
+    "zh": "蔥環類藥物造成心肌病變與心衰竭：呼吸困難、囉音、水腫、體重增加。肺纖維化較屬bleomycin。"
+   },
+   "pdf_pages": [
+    654
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "During a vincristine infusion the nurse should teach the client to report which finding first?",
+    "zh": "vincristine治療期間，護理師應教導病人優先通報何種症狀？"
+   },
+   "options": [
+    {
+     "en": "Hair thinning",
+     "zh": "頭髮變稀疏"
+    },
+    {
+     "en": "Numbness and tingling in fingers and toes",
+     "zh": "手指腳趾麻木刺痛"
+    },
+    {
+     "en": "Mild metallic taste",
+     "zh": "輕微金屬味"
+    },
+    {
+     "en": "Fatigue after treatment",
+     "zh": "治療後疲倦"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Peripheral neuropathy is the effect specific to vincristine, along with constipation and paralytic ileus. Hair loss and fatigue are common to many agents.",
+    "zh": "周邊神經病變為vincristine特有，並伴便祕與麻痺性腸阻塞；落髮與疲倦為許多藥物共通。"
+   },
+   "pdf_pages": [
+    655
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "During an IV chemotherapy infusion the client reports burning at the site, and the site is red and swollen with a slowed infusion. Select all appropriate actions.",
+    "zh": "化療靜脈輸注期間病人訴注射部位灼痛，局部紅腫且滴速變慢。請選出所有適當措施。（複選）"
+   },
+   "options": [
+    {
+     "en": "Stop the infusion",
+     "zh": "停止輸注"
+    },
+    {
+     "en": "Notify the PHCP",
+     "zh": "通知醫師"
+    },
+    {
+     "en": "Flush the line rapidly",
+     "zh": "快速沖洗管路"
+    },
+    {
+     "en": "Prepare for ice or heat and an antidote as prescribed",
+     "zh": "備妥冷熱敷與解毒劑"
+    },
+    {
+     "en": "Restart in a distal site of the same vein",
+     "zh": "在同一條靜脈遠端重打"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Suspected extravasation requires stopping the infusion, notifying the PHCP and preparing for prescribed ice/heat and antidote. Flushing or reusing the vein worsens tissue injury.",
+    "zh": "疑似外滲須停止輸注、通知醫師並備好醫囑的冷熱敷與解毒劑；快速沖洗或重用同一靜脈會加重組織傷害。"
+   },
+   "pdf_pages": [
+    652,
+    658
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client is taking tamoxifen. Which laboratory value does the nurse monitor specifically?",
+    "zh": "病人服用tamoxifen，護理師特別監測哪項檢驗值？"
+   },
+   "options": [
+    {
+     "en": "Serum calcium",
+     "zh": "血鈣"
+    },
+    {
+     "en": "Serum potassium",
+     "zh": "血鉀"
+    },
+    {
+     "en": "Blood glucose",
+     "zh": "血糖"
+    },
+    {
+     "en": "Prothrombin time",
+     "zh": "凝血酶原時間"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Tamoxifen can cause hypercalcemia and raise cholesterol and triglycerides.",
+    "zh": "Tamoxifen可能造成高血鈣並使膽固醇與三酸甘油酯升高。"
+   },
+   "pdf_pages": [
+    656,
+    660
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which history requires the nurse to contact the provider before giving asparaginase?",
+    "zh": "給予asparaginase前，何種病史需通知醫師？"
+   },
+   "options": [
+    {
+     "en": "Pancreatitis",
+     "zh": "胰臟炎"
+    },
+    {
+     "en": "Asthma",
+     "zh": "氣喘"
+    },
+    {
+     "en": "Hypertension",
+     "zh": "高血壓"
+    },
+    {
+     "en": "Gout",
+     "zh": "痛風"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Asparaginase impairs pancreatic function and is contraindicated with pancreatitis or a history of it.",
+    "zh": "Asparaginase損害胰臟功能，胰臟炎或有病史者禁用。"
+   },
+   "pdf_pages": [
+    656,
+    659
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with a platelet count of 18,000/mm3 receives chemotherapy. Which instruction is appropriate?",
+    "zh": "血小板18,000/mm3的化療病人，哪項指導適當？"
+   },
+   "options": [
+    {
+     "en": "Use a soft toothbrush and electric razor",
+     "zh": "使用軟毛牙刷與電動刮鬍刀"
+    },
+    {
+     "en": "Take aspirin for headaches",
+     "zh": "頭痛時服用阿斯匹靈"
+    },
+    {
+     "en": "Use rectal suppositories for constipation",
+     "zh": "便祕時使用肛門栓劑"
+    },
+    {
+     "en": "Floss daily vigorously",
+     "zh": "每天用力使用牙線"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Below 20,000/mm3 spontaneous bleeding can occur; avoid aspirin, rectal items and trauma.",
+    "zh": "低於20,000/mm3可能自發性出血；避免阿斯匹靈、肛門用品及外傷。"
+   },
+   "pdf_pages": [
+    651,
+    652,
+    653
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Cancer & Oncology Nursing NCLEX Practice Quiz",
+   "url": "https://nurseslabs.com/cancer-oncology-nursing-nclex-practice-questions/",
+   "note": {
+    "en": "Free oncology NCLEX-style questions.",
+    "zh": "免費腫瘤護理NCLEX題庫。"
+   }
+  },
+  {
+   "title": "Chemotherapy Practice Exam (20 questions)",
+   "url": "https://nurseslabs.com/quizzes/nclex-nursing-pharmacology-7/",
+   "note": {
+    "en": "Free chemotherapy pharmacology quiz.",
+    "zh": "免費化療藥理測驗。"
+   }
+  },
+  {
+   "title": "Cancer Drugs Practice Questions and NCLEX Review",
+   "url": "https://simplenursing.com/cancer-nclex-practice-questions-review/",
+   "note": {
+    "en": "Review of cancer drugs with practice questions.",
+    "zh": "抗癌藥物複習與練習題。"
+   }
+  },
+  {
+   "title": "Free Hematology, Oncology and Immunology NCLEX Questions",
+   "url": "https://nursing.com/nclex-questions/hematology-oncology-immunology",
+   "note": {
+    "en": "Free sample questions by nurse educators.",
+    "zh": "護理教師編寫的免費範例題。"
+   }
+  }
+ ]
+}

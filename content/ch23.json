@@ -1,0 +1,122 @@
+{
+"number":23,
+"title":{"en":"Risk Conditions Related to Pregnancy","zh":"妊娠相關風險狀況"},
+"overview":{"en":"This chapter covers high-risk pregnancy conditions: bleeding disorders (abortion, ectopic, molar pregnancy, previa, abruption, DIC), medical disorders (cardiac disease, diabetes, hypertensive disorders, infections), and TORCH/STI infections. Know the key assessment differences and priority nursing actions, especially magnesium sulfate safety and previa versus abruption.","zh":"本章涵蓋高危險妊娠：出血性問題（流產、子宮外孕、葡萄胎、前置胎盤、胎盤早期剝離、DIC）、內科疾病（心臟病、糖尿病、高血壓疾患、感染）與 TORCH/性傳染病。須熟記關鍵評估差異與優先處置，特別是硫酸鎂安全與前置胎盤對胎盤早剝。"},
+"sections":[
+{"heading":{"en":"Bleeding, Abortion and Ectopic Pregnancy","zh":"出血、流產與子宮外孕"},"points":[
+{"en":"Implantation bleeding occurs 10-14 days after conception, is light, lasts 1-2 days, and needs no treatment.","zh":"著床出血發生於受孕後 10-14 天，量少、持續 1-2 天，無需治療。"},
+{"en":"Abortion is loss before 20 weeks. Types: threatened (bleeding and cramping, cervix closed), inevitable (cervix dilating), incomplete (some tissue retained), complete, missed (fetal death retained), habitual (3 or more).","zh":"流產為 20 週前終止妊娠。類型：先兆流產（出血痙攣、子宮頸未開）、不可避免流產（子宮頸開始擴張）、不完全流產（部分組織殘留）、完全流產、過期流產（胎死留於子宮）、習慣性流產（連續 3 次以上）。"},
+{"en":"Care: monitor vital signs, count and weigh pads (1 g = 1 mL), save tissue, IV fluids, D&C for incomplete abortion, RhoGAM if Rh-negative, emotional support.","zh":"照護：監測生命徵象、計算並秤重護墊（1 g＝1 mL）、保留排出組織、靜脈輸液、不完全流產做刮除術、Rh 陰性給 RhoGAM、情緒支持。"},
+{"en":"Ectopic pregnancy: usually ampulla of tube; missed period, abdominal pain, dark red/brown spotting; rupture brings severe pain, shoulder pain and shock.","zh":"子宮外孕：多在輸卵管壺腹；停經、腹痛、暗紅或棕色出血；破裂時劇痛、肩痛與休克。"},
+{"en":"Ectopic management: methotrexate (folic acid antagonist) for early cases, or laparotomy/tube removal or repair; RhoGAM if Rh-negative.","zh":"子宮外孕處置：早期用 methotrexate（葉酸拮抗劑），或剖腹手術切除/修補輸卵管；Rh 陰性給 RhoGAM。"},
+{"en":"Incompetent cervix: painless dilation at 4th-5th month, treated with cerclage at 10-14 weeks; remove at 37 weeks.","zh":"子宮頸閉鎖不全：第 4-5 個月無痛性擴張，10-14 週行子宮頸環紮，37 週拆除。"}],
+"pdf_pages":[338,339,342,347]},
+{"heading":{"en":"Hydatidiform Mole and Hyperemesis Gravidarum","zh":"葡萄胎與妊娠劇吐"},"points":[
+{"en":"Mole: abnormal trophoblast, grape-like cluster; no fetal heart tones, hyperemesis, bleeding, early preeclampsia signs before 20 weeks, uterus larger than dates, hCG over 100,000 mIU/mL, snowstorm ultrasound.","zh":"葡萄胎：滋養層異常、葡萄串狀；無胎心、嚴重孕吐、出血、20 週前出現子癇前症徵象、子宮大於週數、hCG 超過 100,000 mIU/mL、超音波呈暴風雪樣。"},
+{"en":"Treat with suction evacuation; follow hCG every 1-2 weeks until normal, then monthly for 1 year; avoid pregnancy during follow-up (risk of choriocarcinoma).","zh":"以抽吸術清除；每 1-2 週追蹤 hCG 至正常，之後每 1-2 個月追蹤一年；追蹤期避孕（可能轉為絨毛膜癌）。"},
+{"en":"Hyperemesis: intractable vomiting in first trimester with weight loss, dehydration, electrolyte imbalance and ketonuria; give IV fluids, antiemetics, small low-fat carbohydrate meals, fluids between meals.","zh":"妊娠劇吐：第一孕期持續嘔吐，伴體重減輕、脫水、電解質失衡與酮尿；給靜脈輸液、止吐藥、低脂碳水少量餐、兩餐間喝水。"}],
+"pdf_pages":[343,344]},
+{"heading":{"en":"Cardiac Disease, Chorioamnionitis, Diabetes","zh":"心臟病、絨毛膜羊膜炎與糖尿病"},"points":[
+{"en":"Blood volume peaks at 32-34 weeks; watch for cardiac decompensation: cough, dyspnea, fatigue, palpitations, edema, chest pain. Limit activity, low-sodium diet, avoid excess weight gain.","zh":"血容積於 32-34 週達高峰；注意心臟代償不全：咳嗽、呼吸困難、疲倦、心悸、水腫、胸痛。限制活動、低鈉飲食、避免體重過度增加。"},
+{"en":"Cardiac labor care: side-lying with head and shoulders raised, oxygen, early pain control, controlled pushing, cardiac and fetal monitoring.","zh":"心臟病產婦產程：側臥並抬高頭肩、給氧、早期止痛、控制用力、心臟與胎兒監測。"},
+{"en":"Chorioamnionitis: infection of amniotic cavity after prolonged rupture; uterine tenderness, fever, maternal/fetal tachycardia, foul fluid, leukocytosis; give antibiotics after cultures.","zh":"絨毛膜羊膜炎：破水過久後羊膜腔感染；子宮壓痛、發燒、母胎心搏過速、羊水惡臭、白血球增加；培養後給抗生素。"},
+{"en":"Diabetes: glucose crosses the placenta, insulin does not; insulin needs fall in first trimester, rise in 2nd/3rd, and drop sharply after placenta delivery.","zh":"糖尿病：葡萄糖可通過胎盤，胰島素不行；第一孕期胰島素需求下降，二、三孕期上升，胎盤娩出後驟降。"},
+{"en":"Infant of diabetic mother: macrosomia, hypoglycemia, hyperbilirubinemia, RDS, hypocalcemia, anomalies.","zh":"糖尿病母親的新生兒：巨嬰、低血糖、高膽紅素、呼吸窘迫、低血鈣、先天異常。"},
+{"en":"GDM: screen 24-28 weeks (1-hr GCT 140 or more, then 3-hr OGTT); diet, exercise, glucose checks 4x daily; targets fasting under 95, 1-hr under 130-140, 2-hr under 120 mg/dL.","zh":"妊娠糖尿病：24-28 週篩檢（1 小時 GCT ≥140 再做 3 小時 OGTT）；飲食、運動、每日 4 次血糖監測；目標空腹小於 95、餐後 1 小時小於 130-140、2 小時小於 120 mg/dL。"},
+{"en":"Labor: continuous fetal monitoring, regulate insulin and IV glucose. Postpartum: watch for hypoglycemia as insulin need falls.","zh":"產程：持續胎心監測，調整胰島素與靜脈葡萄糖。產後：胰島素需求下降，注意低血糖。"}],
+"pdf_pages":[338,339,340,341]},
+{"heading":{"en":"DIC, Hematoma and Hepatitis B","zh":"DIC、血腫與 B 型肝炎"},"points":[
+{"en":"DIC: clotting cascade activated, consuming platelets and factors; bleeding, petechiae, purpura, shock; low fibrinogen/platelets, high PT/PTT and fibrin degradation products; keep urine at least 30 mL/hr.","zh":"DIC：凝血串聯被活化，耗盡血小板與凝血因子；出血、瘀點、紫斑、休克；纖維蛋白原與血小板降低、PT/PTT 與纖維蛋白降解物升高；尿量至少 30 mL/hr。"},
+{"en":"Predisposing: abruptio placentae, amniotic fluid embolism, gestational hypertension, HELLP, fetal demise, sepsis, severe hemorrhage.","zh":"誘發因素：胎盤早剝、羊水栓塞、妊娠高血壓、HELLP、胎死腹中、敗血症、嚴重出血。"},
+{"en":"Vulvar hematoma: severe perineal pain, pressure, swelling, inability to void, falling Hgb/Hct; apply ice, analgesics, catheterize if needed, antibiotics.","zh":"外陰血腫：劇烈會陰疼痛、壓迫感、腫脹、無法排尿、Hgb/Hct 下降；冰敷、止痛、必要時導尿、抗生素。"},
+{"en":"Hepatitis B: after birth wash blood off the newborn first, then give HBIG and hepatitis B vaccine (doses at birth, 1 and 6 months); breastfeeding allowed after newborn treated.","zh":"B 肝：新生兒出生後先清除血液，再給 HBIG 與 B 肝疫苗（出生、1 個月、6 個月）；治療後可哺乳。"}],
+"pdf_pages":[341,342]},
+{"heading":{"en":"HIV/AIDS","zh":"HIV/AIDS"},"points":[
+{"en":"HAART (3 drugs) lowers viral load; zidovudine orally after 12 weeks, IV in labor (1 hr before vaginal birth, 3 hr before cesarean if RNA 400 or more or unknown), and syrup to newborn at 2 hr then q12h for 6 weeks.","zh":"HAART（三合一）降低病毒量；12 週後口服 zidovudine，產程靜脈注射（陰道生產前 1 小時、剖腹前 3 小時，若 RNA ≥400 或不明），新生兒出生 2 小時後起每 12 小時口服糖漿共 6 週。"},
+{"en":"Vaginal birth acceptable if viral load under 1000 copies/mL; otherwise cesarean.","zh":"病毒量小於 1000 copies/mL 可陰道生產；否則剖腹。"},
+{"en":"Single reactive ELISA is not diagnostic; confirm with Western blot or IFA.","zh":"單次 ELISA 反應不能確診；需 Western blot 或 IFA 確認。"},
+{"en":"Avoid amniocentesis, scalp electrodes, episiotomy, oxytocin; remove newborn blood promptly; breastfeeding generally restricted.","zh":"避免羊膜穿刺、胎兒頭皮電極、會陰切開、催產素；盡快清除新生兒身上血液；通常限制哺乳。"}],
+"pdf_pages":[342,343]},
+{"heading":{"en":"Hypertensive Disorders of Pregnancy","zh":"妊娠高血壓疾患"},"points":[
+{"en":"Categories: chronic hypertension (before 20 wk), gestational hypertension (after 20 wk), preeclampsia, chronic hypertension with superimposed preeclampsia; eclampsia means seizures.","zh":"分類：慢性高血壓（20 週前）、妊娠高血壓（20 週後）、子癇前症、慢性高血壓合併子癇前症；子癇指抽搐。"},
+{"en":"Preeclampsia BP 140/90 or higher twice 4 hr apart after 20 weeks; severe features: 160/110 or higher, platelets under 100,000, doubled liver enzymes, creatinine over 1.0, pulmonary edema, headache, visual changes, RUQ pain, oliguria under 500 mL/day.","zh":"子癇前症：20 週後相隔 4 小時兩次血壓 ≥140/90；嚴重特徵：≥160/110、血小板小於 100,000、肝酵素加倍、肌酐酸大於 1.0、肺水腫、頭痛、視覺障礙、右上腹痛、尿量小於 500 mL/天。"},
+{"en":"Proteinuria is no longer a reliable diagnostic criterion. HELLP: hemolysis, elevated liver enzymes, low platelets; an emergency.","zh":"蛋白尿不再是可靠診斷標準。HELLP：溶血、肝酵素升高、血小板低下；屬急症。"},
+{"en":"Care: side-lying rest, BP and weight monitoring, kick counts, urine output at least 30 mL/hr, check reflexes and clonus, lower BP gradually, corticosteroids for fetal lungs, delivery planning.","zh":"照護：側臥休息、監測血壓與體重、數胎動、尿量至少 30 mL/hr、檢查反射與陣攣、血壓緩慢下降、給予類固醇促進胎肺成熟、準備分娩。"},
+{"en":"Magnesium sulfate via controlled pump to prevent seizures (continue 24-48 hr postpartum). Toxicity: flushing, sweating, hypotension, absent reflexes, low urine output, respiratory depression; antidote calcium gluconate.","zh":"硫酸鎂以控制輸液幫浦給予預防抽搐（產後持續 24-48 小時）。中毒徵象：潮紅、出汗、低血壓、反射消失、尿量減少、呼吸抑制；解毒劑為葡萄糖酸鈣。"},
+{"en":"Eclampsia seizure: stay, call for help, side-lying, airway, oxygen 8-10 L/min, monitor FHR, give seizure medication, suction after.","zh":"子癇抽搐：留在床邊並求援、側臥、維持呼吸道、給氧 8-10 L/min、監測胎心、給予抗痙攣藥、抽搐後抽吸。"}],
+"pdf_pages":[344,345,346,347]},
+{"heading":{"en":"TORCH and Other Infections","zh":"TORCH 與其他感染"},"points":[
+{"en":"Toxoplasmosis: raw meat and cat litter; teach avoidance. Rubella: teratogenic in first trimester (eyes, heart, ears, brain); vaccinate postpartum if titer under 1:8.","zh":"弓形蟲：生肉與貓砂；教導避免。德國麻疹：第一孕期致畸（眼、心、耳、腦）；抗體價小於 1:8 者產後接種。"},
+{"en":"CMV: low birth weight, hepatosplenomegaly, jaundice, hearing loss, seizures; contact precautions. HSV: no vaginal exams with active lesions; cesarean if vaginal lesions; acyclovir/valacyclovir suppression late pregnancy.","zh":"CMV：低出生體重、肝脾腫大、黃疸、聽力喪失、抽搐；接觸隔離。HSV：有活動性病灶不做陰道檢查；陰道有病灶時剖腹；孕晚期用 acyclovir/valacyclovir 抑制。"},
+{"en":"GBS: vaginal/rectal culture at 35-37 weeks; IV antibiotics in labor to prevent early-onset newborn sepsis.","zh":"GBS：35-37 週陰道/直腸培養；產程給靜脈抗生素預防新生兒早發型敗血症。"},
+{"en":"COVID-19: pregnant people have higher risk of severe illness and preterm birth. Zika: microcephaly risk; supportive care, avoid aspirin/NSAIDs.","zh":"COVID-19：孕婦重症與早產風險較高。Zika：小頭症風險；支持性療法，避免阿斯匹靈與 NSAIDs。"}],
+"pdf_pages":[347,348,354,355]},
+{"heading":{"en":"Multiple Gestation and Placental Abnormalities","zh":"多胞胎與胎盤異常"},"points":[
+{"en":"Multiples: large-for-dates uterus, more than one FHR, excessive weight gain; risks include anemia, preterm labor, IUGR, hypertension, polyhydramnios, postpartum hemorrhage; give oxytocics after birth.","zh":"多胞胎：子宮大於週數、聽到多個胎心、體重增加過多；風險包括貧血、早產、胎兒生長受限、高血壓、羊水過多、產後出血；產後給子宮收縮劑。"},
+{"en":"Placenta accreta, increta, percreta: abnormal adherence; hemorrhage after birth, possible hysterectomy.","zh":"植入性胎盤（accreta、increta、percreta）：胎盤異常附著；產後出血，可能需子宮切除。"},
+{"en":"Previa: painless bright red bleeding, soft relaxed nontender uterus; NO vaginal exams; types total, partial, marginal; total needs cesarean.","zh":"前置胎盤：無痛性鮮紅色出血、子宮柔軟放鬆無壓痛；禁做陰道檢查；分完全、部分、邊緣型；完全型需剖腹。"},
+{"en":"Abruptio: dark red bleeding (may be concealed), painful rigid tender uterus, fetal distress, shock, DIC risk; rapid delivery.","zh":"胎盤早期剝離：暗紅色出血（可為隱性）、子宮疼痛僵硬壓痛、胎兒窘迫、休克、DIC 風險；儘速分娩。"}],
+"pdf_pages":[348,349,350]},
+{"heading":{"en":"STIs, TB, UTI, Obesity and Other Complications","zh":"性傳染病、結核、泌尿道感染、肥胖與其他"},"points":[
+{"en":"Chlamydia: often asymptomatic, neonatal conjunctivitis/pneumonia; gonorrhea: ophthalmia neonatorum; treat partner; rescreen near term.","zh":"披衣菌：常無症狀，新生兒結膜炎/肺炎；淋病：新生兒眼炎；伴侶需治療；近足月再篩檢。"},
+{"en":"Syphilis: VDRL/RPR at first visit and again at 36 weeks; crosses placenta after month 4; test for HIV too.","zh":"梅毒：首次產檢與 36 週做 VDRL/RPR；4 個月後通過胎盤；亦需驗 HIV。"},
+{"en":"HPV warts: treatment usually delayed until after birth; cesarean only if obstructing. Trichomoniasis and bacterial vaginosis: metronidazole. Candidiasis: topical antifungal; avoid oral fluconazole.","zh":"HPV 生殖器疣：通常延至產後治療；僅阻塞產道才剖腹。滴蟲與細菌性陰道炎：metronidazole。念珠菌：局部抗黴菌劑；避免口服 fluconazole。"},
+{"en":"TB: chest X-ray only after 20 weeks with shield; isoniazid, pyrazinamide, rifampin (add ethambutol if resistance) with pyridoxine; breastfeed only if noninfectious.","zh":"結核：20 週後才拍胸部 X 光並護腹；isoniazid、pyrazinamide、rifampin（可能抗藥加 ethambutol）並併用維生素 B6；僅無傳染性時可哺乳。"},
+{"en":"UTI: screen at first visit or 12-16 weeks; pyelonephritis needs hospitalization, risks preterm labor.","zh":"泌尿道感染：首次產檢或 12-16 週篩檢；腎盂腎炎需住院，有早產風險。"},
+{"en":"Obesity: GDM, hypertension, preeclampsia, VTE, cesarean, postpartum hemorrhage, endometritis; use SCDs/stockings, early ambulation, incision care.","zh":"肥胖：妊娠糖尿病、高血壓、子癇前症、靜脈栓塞、剖腹、產後出血、子宮內膜炎；使用 SCD/彈性襪、早期下床、傷口照護。"},
+{"en":"Iron-deficiency anemia: CBC at first visit, 24-28 and 36 weeks; iron between meals. Asthma meds are generally safe; maintain action plan.","zh":"缺鐵性貧血：首次產檢、24-28 週、36 週做 CBC；鐵劑於兩餐間服用。氣喘藥物一般安全；維持氣喘行動計畫。"}],
+"pdf_pages":[350,351,352,353,354,355]}
+],
+"critical_points":[
+{"en":"Placenta previa: painless bright red bleeding, soft nontender uterus, NO vaginal exam. Abruptio: dark red bleeding, painful rigid uterus.","zh":"前置胎盤：無痛鮮紅出血、子宮柔軟無壓痛、禁陰道檢查。胎盤早剝：暗紅出血、子宮疼痛僵硬。","pdf_pages":[349,350]},
+{"en":"Magnesium sulfate toxicity: absent DTRs, low urine output, respiratory depression; antidote calcium gluconate; use a pump and check reflexes, RR, urine output.","zh":"硫酸鎂中毒：反射消失、尿量減少、呼吸抑制；解毒劑葡萄糖酸鈣；使用幫浦並監測反射、呼吸、尿量。","pdf_pages":[346,347]},
+{"en":"Preeclampsia worsening signs: headache, blurred vision, RUQ/epigastric pain, hyperreflexia, oliguria, BP 160/110 or higher.","zh":"子癇前症惡化徵象：頭痛、視力模糊、右上腹/上腹痛、反射亢進、少尿、血壓 ≥160/110。","pdf_pages":[345,346]},
+{"en":"Eclamptic seizure: side-lying, airway, oxygen 8-10 L/min, monitor FHR, seizure meds, stay with client.","zh":"子癇抽搐：側臥、維持呼吸道、給氧 8-10 L/min、監測胎心、給藥、留在床邊。","pdf_pages":[347]},
+{"en":"Lower BP gradually in preeclampsia to preserve placental perfusion.","zh":"子癇前症血壓應緩慢下降以維持胎盤灌流。","pdf_pages":[346]},
+{"en":"DIC: bleeding with low platelets and fibrinogen, high PT/PTT and FDP; remove cause, replace blood, keep urine at least 30 mL/hr.","zh":"DIC：出血、血小板與纖維蛋白原低、PT/PTT 與 FDP 高；除去病因、輸血、尿量至少 30 mL/hr。","pdf_pages":[341]},
+{"en":"Ectopic pregnancy rupture: sudden severe pain, shoulder pain, shock; methotrexate for early unruptured cases.","zh":"子宮外孕破裂：突發劇痛、肩痛、休克；未破裂早期用 methotrexate。","pdf_pages":[341,342]},
+{"en":"Hydatidiform mole: no FHT, hCG over 100,000, snowstorm ultrasound; follow hCG for 1 year and avoid pregnancy.","zh":"葡萄胎：無胎心、hCG 超過 100,000、暴風雪超音波；追蹤 hCG 一年並避孕。","pdf_pages":[343,344]},
+{"en":"Insulin needs: decrease in first trimester, increase in second/third, drop sharply after delivery of the placenta.","zh":"胰島素需求：第一孕期下降、二三孕期上升、胎盤娩出後驟降。","pdf_pages":[340,341]},
+{"en":"GDM screening 24-28 weeks; 1-hour GCT 140 mg/dL or higher then 3-hour OGTT; exercise is safe.","zh":"妊娠糖尿病 24-28 週篩檢；1 小時 GCT ≥140 mg/dL 再做 3 小時 OGTT；運動安全。","pdf_pages":[340,355]},
+{"en":"Infant of diabetic mother: watch hypoglycemia, hyperbilirubinemia, RDS, hypocalcemia.","zh":"糖尿病母親之新生兒：注意低血糖、高膽紅素、呼吸窘迫、低血鈣。","pdf_pages":[340]},
+{"en":"HIV: zidovudine antepartum, intrapartum and to newborn for 6 weeks; avoid scalp electrodes, episiotomy, oxytocin; formula feeding generally advised.","zh":"HIV：產前、產中與新生兒 6 週給 zidovudine；避免頭皮電極、會陰切開、催產素；一般建議配方奶。","pdf_pages":[343,355]},
+{"en":"HSV with active vaginal lesions: cesarean; no vaginal exams. GBS cultures at 35-37 weeks, IV antibiotics in labor.","zh":"HSV 陰道有活動性病灶：剖腹；不做陰道檢查。GBS 35-37 週培養，產程給靜脈抗生素。","pdf_pages":[348]},
+{"en":"Rubella, toxoplasmosis, CMV: teratogenic infections; avoid raw meat and cat litter.","zh":"德國麻疹、弓形蟲、CMV：致畸感染；避免生肉與貓砂。","pdf_pages":[347,348]},
+{"en":"Syphilis: screen at first visit and 36 weeks; crosses placenta; treat partner.","zh":"梅毒：首次產檢與 36 週篩檢；可通過胎盤；伴侶需治療。","pdf_pages":[351]},
+{"en":"Hepatitis B: remove maternal blood from newborn, then HBIG plus vaccine; breastfeeding allowed after vaccination.","zh":"B 肝：先清除新生兒母血，再給 HBIG 加疫苗；接種後可哺乳。","pdf_pages":[342]},
+{"en":"Cardiac disease in pregnancy: watch decompensation; blood volume peaks 32-34 weeks; low sodium, side-lying in labor.","zh":"孕期心臟病：注意代償不全；血容積 32-34 週最高；低鈉飲食、產程側臥。","pdf_pages":[338,339]}
+],
+"mnemonics":[
+{"en":"TORCH: Toxoplasmosis, Other (syphilis, HIV, hepatitis B, parvovirus), Rubella, Cytomegalovirus, Herpes.","zh":"TORCH：弓形蟲、其他（梅毒、HIV、B 肝、細小病毒）、德國麻疹、巨細胞病毒、疱疹。","pdf_pages":[347,348]},
+{"en":"HELLP: Hemolysis, Elevated Liver enzymes, Low Platelets.","zh":"HELLP：溶血、肝酵素升高、血小板低。","pdf_pages":[345]},
+{"en":"Magnesium toxicity: 'Reflexes gone, Respirations slow, Urine low' - give calcium gluconate.","zh":"硫酸鎂中毒：反射消失、呼吸變慢、尿量少，給葡萄糖酸鈣。","pdf_pages":[346,347]},
+{"en":"Previa = Painless, Pretty red; Abruptio = Agonizing, Dark, rigid.","zh":"前置胎盤＝無痛、鮮紅；早剝＝劇痛、暗紅、僵硬。","pdf_pages":[349,350]}
+],
+"figures":[
+{"pdf_page":339,"caption":{"en":"Box 23.1 types of abortion and Box 23.2 cardiac disease risk groups by maternal mortality.","zh":"框 23.1 流產類型與框 23.2 心臟病風險分級（依母體死亡率）。"}},
+{"pdf_page":341,"caption":{"en":"Fig. 23.1 DIC pathophysiology and Box 23.3 predisposing conditions.","zh":"圖 23.1 DIC 病態生理與框 23.3 誘發因素。"}},
+{"pdf_page":344,"caption":{"en":"Table 23.1 classification of hypertension in pregnancy.","zh":"表 23.1 妊娠期高血壓分類。"}},
+{"pdf_page":345,"caption":{"en":"Table 23.2 preeclampsia without vs with severe features.","zh":"表 23.2 子癇前症無嚴重特徵與有嚴重特徵比較。"}},
+{"pdf_page":346,"caption":{"en":"Box 23.5 how to test reflexes and clonus; grading 0-4+.","zh":"框 23.5 反射與陣攣檢查法及 0-4+ 分級。"}},
+{"pdf_page":349,"caption":{"en":"Fig. 23.3 three types of placenta previa.","zh":"圖 23.3 前置胎盤三種分類。"}},
+{"pdf_page":350,"caption":{"en":"Fig. 23.4 types of abruptio placentae and Table 23.3 STI laboratory screening.","zh":"圖 23.4 胎盤早剝類型與表 23.3 性傳染病篩檢。"}},
+{"pdf_page":351,"caption":{"en":"Box 23.7 stages of syphilis.","zh":"框 23.7 梅毒分期。"}}
+],
+"questions":[
+{"stem":{"en":"A client with preeclampsia is receiving IV magnesium sulfate. Which finding requires immediate action?","zh":"子癇前症個案正接受靜脈硫酸鎂。哪項發現需立即處置？"},"options":[{"en":"Deep tendon reflexes 2+","zh":"深部肌腱反射 2+"},{"en":"Respiratory rate 10/min with absent patellar reflexes","zh":"呼吸 10 次/分且膝反射消失"},{"en":"Urine output 40 mL/hr","zh":"尿量 40 mL/hr"},{"en":"Mild facial flushing","zh":"輕微臉潮紅"}],"answer":[1],"rationale":{"en":"These are signs of magnesium toxicity; stop the infusion, call the provider and have calcium gluconate ready.","zh":"為硫酸鎂中毒徵象；停止輸注、通知醫師並備妥葡萄糖酸鈣。"},"pdf_pages":[346,347],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which findings are expected in placenta previa? Select all that apply.","zh":"前置胎盤預期有哪些發現？（複選）"},"options":[{"en":"Painless bright red bleeding","zh":"無痛鮮紅色出血"},{"en":"Soft relaxed nontender uterus","zh":"子宮柔軟放鬆無壓痛"},{"en":"Rigid board-like uterus","zh":"子宮硬如板"},{"en":"Fundal height may exceed dates","zh":"子宮底高度可能大於週數"},{"en":"Severe abdominal pain","zh":"劇烈腹痛"}],"answer":[0,1,3],"rationale":{"en":"Rigidity and pain are abruptio placentae.","zh":"僵硬與疼痛為胎盤早剝。"},"pdf_pages":[349,350],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A pregnant client at 34 weeks has painless bright red vaginal bleeding. Which provider prescription should the nurse question?","zh":"34 週孕婦無痛性鮮紅色陰道出血。哪項醫囑護理師應質疑？"},"options":[{"en":"Ultrasound","zh":"超音波"},{"en":"Manual pelvic examination","zh":"徒手骨盆檢查"},{"en":"Hemoglobin and hematocrit","zh":"Hgb 與 Hct"},{"en":"External fetal monitoring","zh":"外部胎心監測"}],"answer":[1],"rationale":{"en":"Vaginal exam is contraindicated with suspected previa; it may cause hemorrhage.","zh":"疑似前置胎盤禁做陰道檢查，可能引發大出血。"},"pdf_pages":[349],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A client with type 1 diabetes asks about insulin needs in pregnancy. Which statement shows a need for more teaching?","zh":"第一型糖尿病個案詢問孕期胰島素需求。哪句話顯示需再衛教？"},"options":[{"en":"I will need more insulin in the first trimester","zh":"第一孕期我需要增加胰島素"},{"en":"I will need more insulin in the second and third trimesters","zh":"二三孕期需增加胰島素"},{"en":"Hypoglycemia is more likely in early pregnancy","zh":"孕早期較易低血糖"},{"en":"Needs fall after delivery of the placenta","zh":"胎盤娩出後需求下降"}],"answer":[0],"rationale":{"en":"Insulin needs decrease in the first trimester.","zh":"第一孕期胰島素需求下降。"},"pdf_pages":[340],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which clients are at greatest risk for DIC? Select all that apply.","zh":"哪些個案發生 DIC 風險最高？（複選）"},"options":[{"en":"Abruptio placentae","zh":"胎盤早期剝離"},{"en":"Intrauterine fetal death","zh":"子宮內胎死"},{"en":"Gestational hypertension","zh":"妊娠高血壓"},{"en":"Delivered a 10-lb infant 3 hours ago, normal bleeding","zh":"3 小時前生下 10 磅嬰兒，出血正常"}],"answer":[0,1,2],"rationale":{"en":"Box 23.3 lists these as predisposing conditions.","zh":"框 23.3 列出這些為誘發因素。"},"pdf_pages":[341],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A client with a hydatidiform mole has had suction evacuation. What teaching is most important?","zh":"葡萄胎個案已完成抽吸術。最重要的衛教為何？"},"options":[{"en":"Pregnancy is safe next month","zh":"下個月可安全懷孕"},{"en":"Follow serial hCG for 1 year and use contraception","zh":"追蹤 hCG 一年並避孕"},{"en":"hCG testing only once","zh":"hCG 只需驗一次"},{"en":"No follow-up is needed","zh":"不需追蹤"}],"answer":[1],"rationale":{"en":"Persistent hCG can signal choriocarcinoma; pregnancy would confuse monitoring.","zh":"hCG 持續升高可能是絨毛膜癌；懷孕會干擾追蹤。"},"pdf_pages":[344],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A client with preeclampsia has a seizure. What is the nurse's first action?","zh":"子癇前症個案發生抽搐，護理師首要行動為何？"},"options":[{"en":"Insert a padded tongue blade","zh":"放入壓舌板"},{"en":"Stay with the client, call for help, turn to side, maintain airway and give oxygen","zh":"留在床邊、求援、側臥、維持呼吸道並給氧"},{"en":"Leave to prepare for cesarean","zh":"離開準備剖腹"},{"en":"Give oral antihypertensive","zh":"給口服降壓藥"}],"answer":[1],"rationale":{"en":"Protect airway and oxygenation first; then medication and delivery planning.","zh":"先保護呼吸道與氧合，再處理用藥與分娩。"},"pdf_pages":[347],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A woman with active genital herpes lesions on the vagina is in labor. What is expected?","zh":"陰道有活動性疱疹病灶的產婦進入產程。預期為何？"},"options":[{"en":"Vaginal delivery with internal monitoring","zh":"陰道生產並使用內部監測"},{"en":"Cesarean birth","zh":"剖腹產"},{"en":"Delay delivery until healed","zh":"延遲分娩至痊癒"},{"en":"Oral antibiotics only","zh":"僅口服抗生素"}],"answer":[1],"rationale":{"en":"Cesarean prevents neonatal exposure; avoid vaginal exams.","zh":"剖腹可避免新生兒暴露；避免陰道檢查。"},"pdf_pages":[348,352],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A pregnant client with HIV asks about feeding the newborn. Best response?","zh":"HIV 孕婦詢問新生兒餵養。最佳回應？"},"options":[{"en":"You will need to bottle-feed","zh":"需要以奶瓶餵配方奶"},{"en":"Breastfeed 6 months then bottle","zh":"哺乳 6 個月後改奶瓶"},{"en":"Use nasogastric feeding","zh":"使用鼻胃管餵食"},{"en":"Breastfeed 9 months then bottle","zh":"哺乳 9 個月後改奶瓶"}],"answer":[0],"rationale":{"en":"HIV passes in breast milk; follow the provider's recommendation, usually formula.","zh":"HIV 可經母乳傳染；遵從醫囑，通常為配方奶。"},"pdf_pages":[343,357],"source":{"type":"original","title":"Original practice question based on the chapter"}}
+],
+"resources":[
+{"title":"Maternity Nursing NCLEX Practice Quiz and Test Bank (Nurseslabs)","url":"https://nurseslabs.com/maternity-nursing-nclex-practice-questions/","note":{"en":"Large free maternity bank including high-risk pregnancy.","zh":"大型免費產科題庫，含高危險妊娠。"}},
+{"title":"High-Risk Antepartum Complications Review (Oncourse)","url":"https://getoncourse.ai/notes/nclex-rn/maternal-newborn-womens-health-nursing/high-risk-antepartum-complications/","note":{"en":"Review notes covering GDM, preeclampsia, ectopic pregnancy.","zh":"涵蓋妊娠糖尿病、子癇前症、子宮外孕的複習筆記。"}},
+{"title":"Maternal Nursing for the NCLEX (NURSING.com Academy)","url":"https://academy.nursing.com/course/maternal-nursing-for-the-nclex/","note":{"en":"Course with preeclampsia, GDM and ectopic pregnancy lessons (partly paid).","zh":"含子癇前症、妊娠糖尿病、子宮外孕課程（部分付費）。"}},
+{"title":"Reproductive Disorders NCLEX Practice Quiz (Nurseslabs)","url":"https://nurseslabs.com/reproductive-disorders-nclex-practice-questions/","note":{"en":"Free quiz bank on reproductive and gynecologic disorders.","zh":"免費生殖與婦科疾病題庫。"}}
+]
+}

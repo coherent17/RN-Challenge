@@ -1,0 +1,106 @@
+{
+  "number": 27,
+  "title": {"en": "Postpartum Complications", "zh": "產後併發症"},
+  "overview": {
+    "en": "This chapter covers postpartum complications: cystitis, hematoma, uterine atony, hemorrhage and shock, infection, mastitis, endometritis, pulmonary embolism, subinvolution, thrombophlebitis, and perinatal loss. The key skill is recognizing early hemorrhage and shock and acting in the right order.",
+    "zh": "本章涵蓋產後併發症：膀胱炎、血腫、子宮收縮不良、出血與休克、感染、乳腺炎、子宮內膜炎、肺栓塞、子宮復舊不全、血栓靜脈炎與周產期喪失。重點是及早辨識出血與休克，並依正確順序處置。"
+  },
+  "sections": [
+    {"heading": {"en": "Cystitis and hematoma", "zh": "膀胱炎與血腫"},
+     "points": [
+       {"en": "Cystitis: encourage fluids and frequent voiding; get urine culture (voided or straight cath) before antibiotics.", "zh": "膀胱炎：鼓勵多喝水與頻繁排尿；使用抗生素前先留尿液培養（自解或單次導尿）。"},
+       {"en": "Hematoma (vulvar most common): linked to forceps and vessel injury. Signs: severe unrelieved pain, perineal pressure, bulging discolored mass, inability to void, falling Hgb/Hct, tachycardia/hypotension.", "zh": "血腫（以外陰最常見）：與產鉗及血管損傷有關。徵象：無法緩解的劇痛、會陰壓迫感、隆起變色腫塊、無法排尿、血紅素與血容比下降、心跳快、低血壓。"},
+       {"en": "Care: ice, analgesics, catheter if cannot void, IV fluids, blood products, antibiotics, possible incision and evacuation; small ones reabsorb.", "zh": "處置：冰敷、止痛、無法排尿則導尿、靜脈輸液、輸血、抗生素，必要時切開引流；小血腫可自行吸收。"},
+       {"en": "With epidural anesthesia the client may not feel pain, so changes in vital signs are the best clue.", "zh": "接受硬膜外麻醉者可能無痛感，因此生命徵象改變是最佳線索。"}
+     ], "pdf_pages": [393]},
+    {"heading": {"en": "Uterine atony and postpartum hemorrhage", "zh": "子宮收縮不良與產後出血"},
+     "points": [
+       {"en": "Atony: boggy uterus; massage until firm, empty the bladder, notify provider if not resolved.", "zh": "收縮不良：子宮鬆軟；按摩至變硬、排空膀胱，無改善則通知醫師。"},
+       {"en": "Hemorrhage: >500 mL vaginal birth, >1000 mL cesarean, or 10% Hgb/Hct drop with symptoms. Highest risk in first 4 hours, then first 24 hours; late is beyond 24 hours.", "zh": "出血定義：陰道生產大於500 mL、剖腹產大於1000 mL，或血紅素／血容比下降10%並有症狀。風險最高為產後4小時內，其次24小時內；24小時後為晚期出血。"},
+       {"en": "Causes: atony, lacerations, hematoma, retained placenta fragments. Risk factors: prior PPH, coagulopathy, chorioamnionitis, previa/abruption, overdistention, multiparity, prolonged labor, operative delivery.", "zh": "原因：收縮不良、裂傷、血腫、胎盤殘留。危險因子：曾有產後出血、凝血異常、絨毛膜羊膜炎、前置胎盤／胎盤早剝、子宮過度膨脹、多產、產程延長、手術生產。"},
+       {"en": "Assess: pad soaked in 15 min; weigh pads (1 g = 1 mL). Early signs restlessness and rising pulse; later low BP, cool clammy ashen skin, low urine output, altered consciousness.", "zh": "評估：15分鐘浸濕護墊；秤護墊重量（1 g = 1 mL）。早期徵象為躁動與脈搏上升；晚期為低血壓、皮膚冰冷濕黏灰白、尿量減少、意識改變。"},
+       {"en": "Take-action sequence: airway, oxygen 8-10 L/min nonrebreather, call OB, legs up about 30 degrees, massage if atonic, IV (two lines, 16-18 gauge), uterotonics (oxytocin, prostaglandins), fluids (LR/NS), Foley, blood products, prepare for surgery.", "zh": "處置順序：確保呼吸道、非再吸入面罩給氧8至10 L/分、呼叫產科醫師、抬腿約30度、鬆軟則按摩、建立兩條16至18號靜脈、子宮收縮劑（催產素、前列腺素）、輸液（LR／NS）、導尿、輸血、準備手術。"}
+     ], "pdf_pages": [393, 394, 395]},
+    {"heading": {"en": "Infection, mastitis and endometritis", "zh": "感染、乳腺炎與子宮內膜炎"},
+     "points": [
+       {"en": "Postpartum infection occurs within 28 days; fever at or above 100.4 F after the first 24 hours is infection until proven otherwise. Malodorous discharge, chills, malaise, pelvic pain, high WBC.", "zh": "產後感染發生於28天內；24小時後體溫達100.4°F以上視為感染。惡臭分泌物、畏寒、倦怠、骨盆痛、白血球升高。"},
+       {"en": "Care: VS q2-4h, position for drainage, fluids 3000-4000 mL/day, high-calorie high-protein diet, hand hygiene, antibiotics per culture, antipyretics.", "zh": "處置：每2至4小時測生命徵象、引流姿勢、每日水分3000至4000 mL、高熱量高蛋白飲食、洗手、依培養結果用抗生素、退燒藥。"},
+       {"en": "Mastitis: usually 2-3 weeks postpartum in nursing parents; localized heat, swelling, pain, axillary nodes, fever, flu-like symptoms. Continue emptying the breast (nurse or pump every 3-4 h), fluids 2500-3000 mL, supportive non-underwire bra, antibiotics.", "zh": "乳腺炎：多見於產後2至3週的哺乳者；局部紅熱腫痛、腋下淋巴結痛、發燒、類流感症狀。持續排空乳房（哺乳或每3至4小時擠奶）、水分2500至3000 mL、穿無鋼圈支撐胸罩、抗生素。"},
+       {"en": "Endometritis: fever, chills, tachycardia, headache, backache, severe prolonged afterpains, large tender uterus, foul or reddish-brown lochia, ileus. Fowler's position, private room, IV antibiotics, no need to isolate newborn.", "zh": "子宮內膜炎：發燒、畏寒、心跳快、頭痛、背痛、嚴重持續後陣痛、子宮大而壓痛、惡露惡臭或紅褐色、腸阻塞。採半坐臥、單人房、靜脈抗生素，不需隔離新生兒。"}
+     ], "pdf_pages": [394, 395, 396]},
+    {"heading": {"en": "Pulmonary embolism, subinvolution and thrombophlebitis", "zh": "肺栓塞、子宮復舊不全與血栓靜脈炎"},
+     "points": [
+       {"en": "PE: sudden dyspnea, chest pain, tachypnea, tachycardia, cough, crackles, hemoptysis, impending doom. Oxygen first, elevate head, monitor, IV fluids, anticoagulants, possible thrombolytics.", "zh": "肺栓塞：突發呼吸困難、胸痛、呼吸心跳快、咳嗽、囉音、咳血、瀕死感。先給氧、抬高床頭、監測、輸液、抗凝血劑，必要時溶栓。"},
+       {"en": "Subinvolution: painful, larger than expected uterus, heavy bleeding, prolonged lochia rubra; treat with methylergonovine as prescribed, frequent voiding, monitor Hgb/Hct.", "zh": "子宮復舊不全：子宮疼痛、比預期大、出血多、紅惡露延長；依醫囑給予methylergonovine、常排尿、監測血紅素／血容比。"},
+       {"en": "Thrombophlebitis: hard bumpy tender vessel, warm red area, fever, diminished pulses, swelling. Bed rest, elevate leg, warm moist heat, stockings, anticoagulation; NEVER massage the leg; avoid aspirin-containing drugs with anticoagulants; early ambulation after cesarean prevents it.", "zh": "血栓靜脈炎：血管硬、凹凸、壓痛，局部紅熱、發燒、脈搏減弱、腫脹。臥床休息、抬高患肢、溫濕敷、彈性襪、抗凝血；絕不可按摩小腿；使用抗凝血劑時避免含阿斯匹靈藥物；剖腹產後早期下床可預防。"},
+       {"en": "Teach: avoid leg crossing and prolonged sitting, avoid constrictive clothing, stop smoking, adhere to anticoagulants.", "zh": "衛教：避免蹺腳與久坐、避免緊身衣物、戒菸、確實服用抗凝血劑。"}
+     ], "pdf_pages": [396, 397]},
+    {"heading": {"en": "Perinatal loss", "zh": "周產期喪失"},
+     "points": [
+       {"en": "Includes miscarriage, stillbirth, neonatal death, abortion, and loss from preterm/complicated births or adoption.", "zh": "包括流產、死產、新生兒死亡、人工流產，以及早產／合併症新生兒或送養所致的失落。"},
+       {"en": "Listen actively and allow time to grieve; offer chaplain; offer seeing/holding/bathing the infant and rituals; memory box (footprints, photos); private room with a discreet loss sign; support group referral.", "zh": "積極傾聽並給予哀悼時間；通知院牧；提供看、抱、沐浴嬰兒及儀式的選項；製作紀念盒（腳印、照片）；單人房並於門口放置隱諱標示；轉介支持團體。"},
+       {"en": "Respect cultural, spiritual and religious practices; not every intervention fits every family.", "zh": "尊重文化、靈性與宗教習慣；並非每項措施都適用每個家庭。"}
+     ], "pdf_pages": [397]}
+  ],
+  "critical_points": [
+    {"en": "Earliest sign of postpartum hemorrhage: rising pulse and restlessness; blood pressure drops late.", "zh": "產後出血最早徵象：脈搏上升與躁動；血壓下降較晚。", "pdf_pages": [394, 398]},
+    {"en": "Firm fundus but excessive bleeding suggests laceration: notify the OB; do not keep massaging.", "zh": "子宮底堅硬但出血過多提示裂傷：通知產科醫師，不要一直按摩。", "pdf_pages": [399]},
+    {"en": "Boggy uterus: massage until firm; never push on a boggy uterus (inversion).", "zh": "子宮鬆軟：按摩至變硬；切勿推壓鬆軟子宮（內翻）。", "pdf_pages": [393, 400]},
+    {"en": "PPH: >500 mL vaginal, >1000 mL cesarean; weigh pads 1 g = 1 mL.", "zh": "產後出血：陰道生產大於500 mL、剖腹產大於1000 mL；護墊秤重1 g = 1 mL。", "pdf_pages": [393, 394]},
+    {"en": "Shock bundle: airway, O2 8-10 L/min, legs up 30 degrees (avoid Trendelenburg), call OB, fluids, uterotonics, 2 large IVs, Foley, blood.", "zh": "休克處置：呼吸道、給氧8至10 L/分、抬腿30度（避免頭低腳高）、呼叫醫師、輸液、子宮收縮劑、兩條大管徑靜脈、導尿、輸血。", "pdf_pages": [395, 399]},
+    {"en": "Temperature 100.4 F or higher after 24 hours is infection.", "zh": "24小時後體溫達100.4°F以上為感染。", "pdf_pages": [394]},
+    {"en": "Mastitis: keep emptying the breast, finish antibiotics, fluids, supportive bra.", "zh": "乳腺炎：持續排空乳房、完成抗生素療程、多喝水、穿支撐胸罩。", "pdf_pages": [395, 399]},
+    {"en": "Endometritis: tender boggy uterus, foul lochia, fever; Fowler's position; do not isolate baby.", "zh": "子宮內膜炎：子宮壓痛、惡露惡臭、發燒；半坐臥；不隔離嬰兒。", "pdf_pages": [396]},
+    {"en": "Suspected PE: oxygen first, then IV, vitals, anticoagulant.", "zh": "疑似肺栓塞：先給氧，再建立靜脈、監測生命徵象、抗凝血劑。", "pdf_pages": [396, 399]},
+    {"en": "Never massage a leg with thrombophlebitis; avoid aspirin with anticoagulants; monitor for PE.", "zh": "血栓靜脈炎的腿不可按摩；抗凝血劑期間避免阿斯匹靈；監測肺栓塞。", "pdf_pages": [396, 397]},
+    {"en": "Vulvar hematoma: severe perineal pain/pressure; ice in first 24 hours; with epidural, vital-sign changes are the clue.", "zh": "外陰血腫：會陰劇痛與壓迫；初期冰敷；硬膜外麻醉者以生命徵象改變為線索。", "pdf_pages": [393, 400]},
+    {"en": "Subinvolution: prolonged lochia rubra, large tender uterus; methylergonovine.", "zh": "子宮復舊不全：紅惡露延長、子宮大而壓痛；methylergonovine。", "pdf_pages": [396]},
+    {"en": "Obtain urine culture before starting antibiotics for cystitis; push fluids.", "zh": "膀胱炎於抗生素前先留尿培養；多補充水分。", "pdf_pages": [393, 399]},
+    {"en": "Perinatal loss: individualize to culture and religion; offer memories and time with infant.", "zh": "周產期喪失：依文化與宗教個別化照護；提供紀念與與嬰兒相處的時間。", "pdf_pages": [397]}
+  ],
+  "mnemonics": [
+    {"en": "The 4 Ts of postpartum hemorrhage: Tone (atony), Trauma (lacerations/hematoma), Tissue (retained placenta), Thrombin (coagulopathy).", "zh": "產後出血4T：張力（收縮不良）、創傷（裂傷／血腫）、組織（胎盤殘留）、凝血（凝血異常）。", "pdf_pages": [394]},
+    {"en": "Early shock: restless and fast pulse; late shock: low BP and cool, clammy skin.", "zh": "休克早期：躁動與脈搏快；晚期：低血壓與冰冷濕黏的皮膚。", "pdf_pages": [394]}
+  ],
+  "figures": [
+    {"pdf_page": 394, "caption": {"en": "Box 27.1 causes and risk factors of PPH, vulvar hematoma, fundal massage technique.", "zh": "產後出血原因與危險因子、外陰血腫、子宮底按摩手法。"}},
+    {"pdf_page": 395, "caption": {"en": "Take Action box for hemorrhagic shock and the figure of mastitis.", "zh": "出血性休克處置流程與乳腺炎圖。"}},
+    {"pdf_page": 396, "caption": {"en": "Box 27.2 assessment of thrombophlebitis.", "zh": "血栓靜脈炎評估。"}},
+    {"pdf_page": 397, "caption": {"en": "Box 27.3 client education for thrombophlebitis.", "zh": "血栓靜脈炎衛教。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "Which is the earliest sign of excessive blood loss in the immediate postpartum period?", "zh": "產後立即期，下列何者為失血過多最早徵象？"},
+     "options": [{"en": "Temperature of 100.4 F", "zh": "體溫100.4°F"}, {"en": "Pulse rises from 88 to 102", "zh": "脈搏由88升至102"}, {"en": "BP falls 130/88 to 124/80", "zh": "血壓130/88降至124/80"}, {"en": "Cool clammy skin", "zh": "皮膚冰冷濕黏"}],
+     "answer": [1], "rationale": {"en": "Compensatory tachycardia comes first; hypotension and cool skin are late.", "zh": "代償性心搏過速最先出現；低血壓與冰冷皮膚較晚。"},
+     "pdf_pages": [394, 398], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "The fundus is firm but a postpartum client has bright red bleeding that continues. What is the initial action?", "zh": "子宮底堅硬，但產婦持續鮮紅色出血。第一步處置為何？"},
+     "options": [{"en": "Massage the fundus", "zh": "按摩子宮底"}, {"en": "Notify the obstetrician", "zh": "通知產科醫師"}, {"en": "Trendelenburg position", "zh": "採頭低腳高"}, {"en": "Chart and recheck later", "zh": "記錄後稍後再評估"}],
+     "answer": [1], "rationale": {"en": "A contracted uterus with bleeding suggests laceration needing provider repair.", "zh": "子宮收縮良好仍出血，提示裂傷，需醫師修補。"},
+     "pdf_pages": [399], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which instructions are appropriate for a client with mastitis? Select all that apply.", "zh": "乳腺炎產婦的衛教，哪些適當？（複選）"},
+     "options": [{"en": "Wear a supportive bra", "zh": "穿支撐型胸罩"}, {"en": "Stop breast-feeding immediately", "zh": "立即停止哺乳"}, {"en": "Fluids at least 2500-3000 mL/day", "zh": "每日水分至少2500至3000 mL"}, {"en": "Stop antibiotics when sore subsides", "zh": "疼痛消失即停抗生素"}, {"en": "Continue emptying the breast", "zh": "持續排空乳房"}],
+     "answer": [0, 2, 4], "rationale": {"en": "Emptying the breast prevents abscess; antibiotics must be completed.", "zh": "排空乳房可預防膿瘍；抗生素必須完成療程。"},
+     "pdf_pages": [395, 399], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A postpartum client has sudden chest pain and dyspnea, tachycardia and tachypnea. What is the initial nursing action?", "zh": "產婦突然胸痛、呼吸困難、心搏過速與呼吸過速。首要護理行動為何？"},
+     "options": [{"en": "Start an IV", "zh": "建立靜脈"}, {"en": "Take blood pressure", "zh": "測量血壓"}, {"en": "Administer oxygen 8-10 L/min by face mask", "zh": "面罩給氧8至10 L/分"}, {"en": "Give morphine", "zh": "給予嗎啡"}],
+     "answer": [2], "rationale": {"en": "Suspected PE: correct hypoxemia first (ABCs).", "zh": "疑似肺栓塞：依ABC先矯正缺氧。"},
+     "pdf_pages": [396, 399], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which finding best indicates a vulvar hematoma in a client who received epidural anesthesia?", "zh": "接受硬膜外麻醉的產婦，哪項最能提示外陰血腫？"},
+     "options": [{"en": "Changes in vital signs", "zh": "生命徵象改變"}, {"en": "Intense pain", "zh": "劇烈疼痛"}, {"en": "Tearing sensation", "zh": "撕裂感"}, {"en": "Decreased fundal height", "zh": "子宮底高度下降"}],
+     "answer": [0], "rationale": {"en": "The epidural blunts pain; hypovolemic vital sign changes reveal the bleed.", "zh": "硬膜外麻醉使疼痛不明顯；低血容量的生命徵象改變可揭露出血。"},
+     "pdf_pages": [400], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which are correct actions for a client with thrombophlebitis of the leg? Select all that apply.", "zh": "下肢血栓靜脈炎的正確處置有哪些？（複選）"},
+     "options": [{"en": "Massage the calf", "zh": "按摩小腿"}, {"en": "Elevate the leg", "zh": "抬高患肢"}, {"en": "Apply warm moist heat as prescribed", "zh": "依醫囑溫濕敷"}, {"en": "Give aspirin with heparin", "zh": "肝素合併阿斯匹靈"}, {"en": "Monitor for pulmonary embolism", "zh": "監測肺栓塞"}],
+     "answer": [1, 2, 4], "rationale": {"en": "Massage may dislodge the clot; aspirin adds bleeding risk with anticoagulants.", "zh": "按摩可能使血栓脫落；與抗凝血劑併用阿斯匹靈會增加出血風險。"},
+     "pdf_pages": [396, 397], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which client has the greatest risk for postpartum hemorrhage?", "zh": "哪位產婦產後出血風險最高？"},
+     "options": [{"en": "Primipara 4 hours postpartum", "zh": "初產婦，產後4小時"}, {"en": "Multipara, large baby, oxytocin induction", "zh": "經產婦、大寶寶、催產素引產"}, {"en": "Primipara with epidural", "zh": "初產婦接受硬膜外麻醉"}, {"en": "Multipara 6 hours postpartum, no complications", "zh": "經產婦產後6小時，無併發症"}],
+     "answer": [1], "rationale": {"en": "Multiparity, overdistention from a large fetus and induction are risk factors.", "zh": "多產、大胎兒造成子宮過度膨脹與引產均為危險因子。"},
+     "pdf_pages": [394, 399], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "10 Postpartum Hemorrhage (PPH) NCLEX Style Questions (Nursing.com)", "url": "https://academy.nursing.com/pop-quiz/postpartum-hemorrhage-pph/", "note": {"en": "Free NCLEX-style PPH quiz.", "zh": "產後出血的免費NCLEX式測驗。"}},
+    {"title": "9 Meds for Postpartum Hemorrhage (PPH) NCLEX Style Questions", "url": "https://academy.nursing.com/?p=16480", "note": {"en": "Quiz on uterotonic medications used in PPH.", "zh": "產後出血子宮收縮藥物測驗。"}},
+    {"title": "Postpartum hemorrhage case study, Maryland Next Gen NCLEX Test Bank Project", "url": "https://www.nursing.umaryland.edu/media/son/mnwc/nclex-faculty-case-studies/postpartum-hemmorhage.docx", "note": {"en": "Next Gen NCLEX-style case study with questions.", "zh": "次世代NCLEX式個案題。"}}
+  ]
+}

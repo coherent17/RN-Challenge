@@ -1,0 +1,842 @@
+[
+ {
+  "number": 1,
+  "title": "Clinical Judgment and the Next Generation NCLEX (NGN)-RN® Examination",
+  "part": {
+   "roman": "I",
+   "title": "NCLEX-RN® Exam Preparation"
+  },
+  "pdf_start": 20,
+  "pdf_end": 34,
+  "printed_start": "2",
+  "printed_end": "16"
+ },
+ {
+  "number": 2,
+  "title": "Self-Efficacy and Pathways to Success",
+  "part": {
+   "roman": "I",
+   "title": "NCLEX-RN® Exam Preparation"
+  },
+  "pdf_start": 35,
+  "pdf_end": 39,
+  "printed_start": "17",
+  "printed_end": "21"
+ },
+ {
+  "number": 3,
+  "title": "The NCLEX-RN® Examination from a Graduate’s Perspective",
+  "part": {
+   "roman": "I",
+   "title": "NCLEX-RN® Exam Preparation"
+  },
+  "pdf_start": 40,
+  "pdf_end": 41,
+  "printed_start": "22",
+  "printed_end": "23"
+ },
+ {
+  "number": 4,
+  "title": "Clinical Judgment and Test-Taking Strategies",
+  "part": {
+   "roman": "I",
+   "title": "NCLEX-RN® Exam Preparation"
+  },
+  "pdf_start": 42,
+  "pdf_end": 55,
+  "printed_start": "24",
+  "printed_end": "37"
+ },
+ {
+  "number": 5,
+  "title": "Population Health Nursing",
+  "part": {
+   "roman": "II",
+   "title": "Professional Standards in Nursing"
+  },
+  "pdf_start": 58,
+  "pdf_end": 71,
+  "printed_start": "40",
+  "printed_end": "52.e1"
+ },
+ {
+  "number": 6,
+  "title": "Ethical and Legal Issues",
+  "part": {
+   "roman": "II",
+   "title": "Professional Standards in Nursing"
+  },
+  "pdf_start": 72,
+  "pdf_end": 87,
+  "printed_start": "53",
+  "printed_end": "67.e1"
+ },
+ {
+  "number": 7,
+  "title": "Prioritizing Client Care: Leadership, Delegation, and Emergency Response Planning",
+  "part": {
+   "roman": "II",
+   "title": "Professional Standards in Nursing"
+  },
+  "pdf_start": 88,
+  "pdf_end": 105,
+  "printed_start": "68",
+  "printed_end": "84.e1"
+ },
+ {
+  "number": 8,
+  "title": "Fluids and Electrolytes",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 109,
+  "pdf_end": 127,
+  "printed_start": "88",
+  "printed_end": "105.e1"
+ },
+ {
+  "number": 9,
+  "title": "Acid-Base Balance",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 128,
+  "pdf_end": 138,
+  "printed_start": "106",
+  "printed_end": "115.e1"
+ },
+ {
+  "number": 10,
+  "title": "Vital Signs and Laboratory Reference Intervals",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 139,
+  "pdf_end": 155,
+  "printed_start": "116",
+  "printed_end": "131.e1"
+ },
+ {
+  "number": 11,
+  "title": "Nutrition",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 156,
+  "pdf_end": 167,
+  "printed_start": "132",
+  "printed_end": "142.e1"
+ },
+ {
+  "number": 12,
+  "title": "Health and Physical Assessment of the Adult Client",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 168,
+  "pdf_end": 191,
+  "printed_start": "143",
+  "printed_end": "165.e1"
+ },
+ {
+  "number": 13,
+  "title": "Safety and Infection Control",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 192,
+  "pdf_end": 204,
+  "printed_start": "166",
+  "printed_end": "177.e1"
+ },
+ {
+  "number": 14,
+  "title": "Medication Administration and Intravenous Therapies",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 205,
+  "pdf_end": 217,
+  "printed_start": "178",
+  "printed_end": "188.e2"
+ },
+ {
+  "number": 15,
+  "title": "Perioperative Nursing Care",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 218,
+  "pdf_end": 233,
+  "printed_start": "189",
+  "printed_end": "203.e1"
+ },
+ {
+  "number": 16,
+  "title": "Hygiene, Mobility, and Skin Integrity",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 234,
+  "pdf_end": 248,
+  "printed_start": "204",
+  "printed_end": "217.e1"
+ },
+ {
+  "number": 17,
+  "title": "Urinary and Bowel Elimination",
+  "part": {
+   "roman": "III",
+   "title": "Foundations of Care"
+  },
+  "pdf_start": 249,
+  "pdf_end": 265,
+  "printed_start": "218",
+  "printed_end": "233.e1"
+ },
+ {
+  "number": 18,
+  "title": "Theories of Growth and Development",
+  "part": {
+   "roman": "IV",
+   "title": "Growth and Development Across the Life Span"
+  },
+  "pdf_start": 268,
+  "pdf_end": 276,
+  "printed_start": "236",
+  "printed_end": "243.e1"
+ },
+ {
+  "number": 19,
+  "title": "Growth, Development, and Stages of Life",
+  "part": {
+   "roman": "IV",
+   "title": "Growth and Development Across the Life Span"
+  },
+  "pdf_start": 277,
+  "pdf_end": 300,
+  "printed_start": "244",
+  "printed_end": "265.e2"
+ },
+ {
+  "number": 20,
+  "title": "Care of the Older Client",
+  "part": {
+   "roman": "IV",
+   "title": "Growth and Development Across the Life Span"
+  },
+  "pdf_start": 301,
+  "pdf_end": 310,
+  "printed_start": "266",
+  "printed_end": "274.e1"
+ },
+ {
+  "number": 21,
+  "title": "Reproductive System",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 313,
+  "pdf_end": 321,
+  "printed_start": "277",
+  "printed_end": "284.e1"
+ },
+ {
+  "number": 22,
+  "title": "Prenatal Period",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 322,
+  "pdf_end": 337,
+  "printed_start": "285",
+  "printed_end": "299.e1"
+ },
+ {
+  "number": 23,
+  "title": "Risk Conditions Related to Pregnancy",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 338,
+  "pdf_end": 362,
+  "printed_start": "300",
+  "printed_end": "322.e2"
+ },
+ {
+  "number": 24,
+  "title": "Labor and Birth",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 363,
+  "pdf_end": 376,
+  "printed_start": "323",
+  "printed_end": "335.e1"
+ },
+ {
+  "number": 25,
+  "title": "Problems with Labor and Birth",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 377,
+  "pdf_end": 384,
+  "printed_start": "336",
+  "printed_end": "342.e1"
+ },
+ {
+  "number": 26,
+  "title": "Postpartum Period",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 385,
+  "pdf_end": 392,
+  "printed_start": "343",
+  "printed_end": "349.e1"
+ },
+ {
+  "number": 27,
+  "title": "Postpartum Complications",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 393,
+  "pdf_end": 401,
+  "printed_start": "350",
+  "printed_end": "357.e1"
+ },
+ {
+  "number": 28,
+  "title": "Care of the Newborn",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 402,
+  "pdf_end": 424,
+  "printed_start": "358",
+  "printed_end": "379.e1"
+ },
+ {
+  "number": 29,
+  "title": "Maternity and Newborn Medications",
+  "part": {
+   "roman": "V",
+   "title": "Maternity Nursing"
+  },
+  "pdf_start": 425,
+  "pdf_end": 436,
+  "printed_start": "380",
+  "printed_end": "390.e1"
+ },
+ {
+  "number": 30,
+  "title": "Integumentary Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 438,
+  "pdf_end": 445,
+  "printed_start": "392",
+  "printed_end": "398.e1"
+ },
+ {
+  "number": 31,
+  "title": "Hematological Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 446,
+  "pdf_end": 453,
+  "printed_start": "399",
+  "printed_end": "405.e1"
+ },
+ {
+  "number": 32,
+  "title": "Oncological Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 454,
+  "pdf_end": 464,
+  "printed_start": "406",
+  "printed_end": "415.e1"
+ },
+ {
+  "number": 33,
+  "title": "Metabolic and Endocrine Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 465,
+  "pdf_end": 474,
+  "printed_start": "416",
+  "printed_end": "424.e1"
+ },
+ {
+  "number": 34,
+  "title": "Gastrointestinal Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 475,
+  "pdf_end": 494,
+  "printed_start": "425",
+  "printed_end": "444.e1"
+ },
+ {
+  "number": 35,
+  "title": "Eye, Ear, and Throat Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 495,
+  "pdf_end": 502,
+  "printed_start": "444",
+  "printed_end": "450.e1"
+ },
+ {
+  "number": 36,
+  "title": "Respiratory Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 503,
+  "pdf_end": 519,
+  "printed_start": "451",
+  "printed_end": "466.e1"
+ },
+ {
+  "number": 37,
+  "title": "Cardiovascular Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 520,
+  "pdf_end": 532,
+  "printed_start": "467",
+  "printed_end": "478.e1"
+ },
+ {
+  "number": 38,
+  "title": "Renal and Genitourinary Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 533,
+  "pdf_end": 541,
+  "printed_start": "479",
+  "printed_end": "486.e1"
+ },
+ {
+  "number": 39,
+  "title": "Neurological and Cognitive Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 542,
+  "pdf_end": 553,
+  "printed_start": "487",
+  "printed_end": "497.e1"
+ },
+ {
+  "number": 40,
+  "title": "Musculoskeletal Problems",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 554,
+  "pdf_end": 563,
+  "printed_start": "498",
+  "printed_end": "506.e1"
+ },
+ {
+  "number": 41,
+  "title": "Immune Problems and Infectious Diseases",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 564,
+  "pdf_end": 577,
+  "printed_start": "507",
+  "printed_end": "519.e1"
+ },
+ {
+  "number": 42,
+  "title": "Pediatric Medication Administration and Calculations",
+  "part": {
+   "roman": "VI",
+   "title": "Pediatric Nursing"
+  },
+  "pdf_start": 578,
+  "pdf_end": 585,
+  "printed_start": "520",
+  "printed_end": "526.e1"
+ },
+ {
+  "number": 43,
+  "title": "Integumentary Problems",
+  "part": {
+   "roman": "VII",
+   "title": "Integumentary Problems of the Adult Client"
+  },
+  "pdf_start": 587,
+  "pdf_end": 597,
+  "printed_start": "528",
+  "printed_end": "537.e1"
+ },
+ {
+  "number": 44,
+  "title": "Integumentary Medications",
+  "part": {
+   "roman": "VII",
+   "title": "Integumentary Problems of the Adult Client"
+  },
+  "pdf_start": 598,
+  "pdf_end": 607,
+  "printed_start": "538",
+  "printed_end": "546.e1"
+ },
+ {
+  "number": 45,
+  "title": "Oncological and Hematological Problems",
+  "part": {
+   "roman": "VIII",
+   "title": "Oncological and Hematological Problems of the Adult Client"
+  },
+  "pdf_start": 610,
+  "pdf_end": 650,
+  "printed_start": "549",
+  "printed_end": "586.e3"
+ },
+ {
+  "number": 46,
+  "title": "Oncological and Hematological Medications",
+  "part": {
+   "roman": "VIII",
+   "title": "Oncological and Hematological Problems of the Adult Client"
+  },
+  "pdf_start": 651,
+  "pdf_end": 663,
+  "printed_start": "587",
+  "printed_end": "597.e2"
+ },
+ {
+  "number": 47,
+  "title": "Endocrine Problems",
+  "part": {
+   "roman": "IX",
+   "title": "Endocrine Problems of the Adult Client"
+  },
+  "pdf_start": 665,
+  "pdf_end": 693,
+  "printed_start": "599",
+  "printed_end": "625.e2"
+ },
+ {
+  "number": 48,
+  "title": "Endocrine Medications",
+  "part": {
+   "roman": "IX",
+   "title": "Endocrine Problems of the Adult Client"
+  },
+  "pdf_start": 694,
+  "pdf_end": 710,
+  "printed_start": "626",
+  "printed_end": "640.e2"
+ },
+ {
+  "number": 49,
+  "title": "Gastrointestinal Problems",
+  "part": {
+   "roman": "X",
+   "title": "Gastrointestinal Problems of the Adult Client"
+  },
+  "pdf_start": 713,
+  "pdf_end": 743,
+  "printed_start": "643",
+  "printed_end": "670.e3"
+ },
+ {
+  "number": 50,
+  "title": "Gastrointestinal Medications",
+  "part": {
+   "roman": "X",
+   "title": "Gastrointestinal Problems of the Adult Client"
+  },
+  "pdf_start": 744,
+  "pdf_end": 753,
+  "printed_start": "671",
+  "printed_end": "678.e2"
+ },
+ {
+  "number": 51,
+  "title": "Respiratory Problems",
+  "part": {
+   "roman": "XI",
+   "title": "Respiratory Problems of the Adult Client"
+  },
+  "pdf_start": 755,
+  "pdf_end": 777,
+  "printed_start": "680",
+  "printed_end": "700.e2"
+ },
+ {
+  "number": 52,
+  "title": "Respiratory Medications",
+  "part": {
+   "roman": "XI",
+   "title": "Respiratory Problems of the Adult Client"
+  },
+  "pdf_start": 778,
+  "pdf_end": 797,
+  "printed_start": "701",
+  "printed_end": "718.e2"
+ },
+ {
+  "number": 53,
+  "title": "Cardiovascular Problems",
+  "part": {
+   "roman": "XII",
+   "title": "Cardiovascular Problems of the Adult Client"
+  },
+  "pdf_start": 799,
+  "pdf_end": 840,
+  "printed_start": "720",
+  "printed_end": "759.e2"
+ },
+ {
+  "number": 54,
+  "title": "Cardiovascular Medications",
+  "part": {
+   "roman": "XII",
+   "title": "Cardiovascular Problems of the Adult Client"
+  },
+  "pdf_start": 841,
+  "pdf_end": 860,
+  "printed_start": "760",
+  "printed_end": "777.e2"
+ },
+ {
+  "number": 55,
+  "title": "Renal and Urinary Problems",
+  "part": {
+   "roman": "XIII",
+   "title": "Renal and Urinary Problems of the Adult Client"
+  },
+  "pdf_start": 862,
+  "pdf_end": 895,
+  "printed_start": "779",
+  "printed_end": "810.e2"
+ },
+ {
+  "number": 56,
+  "title": "Renal and Urinary Medications",
+  "part": {
+   "roman": "XIII",
+   "title": "Renal and Urinary Problems of the Adult Client"
+  },
+  "pdf_start": 896,
+  "pdf_end": 907,
+  "printed_start": "811",
+  "printed_end": "820.e2"
+ },
+ {
+  "number": 57,
+  "title": "Eye and Ear Problems",
+  "part": {
+   "roman": "XIV",
+   "title": "Eye and Ear Problems of the Adult Client"
+  },
+  "pdf_start": 909,
+  "pdf_end": 930,
+  "printed_start": "822",
+  "printed_end": "841.e2"
+ },
+ {
+  "number": 58,
+  "title": "Eye and Ear Medications",
+  "part": {
+   "roman": "XIV",
+   "title": "Eye and Ear Problems of the Adult Client"
+  },
+  "pdf_start": 931,
+  "pdf_end": 941,
+  "printed_start": "842",
+  "printed_end": "851.e1"
+ },
+ {
+  "number": 59,
+  "title": "Neurological Problems",
+  "part": {
+   "roman": "XV",
+   "title": "Neurological Problems of the Adult Client"
+  },
+  "pdf_start": 943,
+  "pdf_end": 968,
+  "printed_start": "853",
+  "printed_end": "876.e2"
+ },
+ {
+  "number": 60,
+  "title": "Neurological Medications",
+  "part": {
+   "roman": "XV",
+   "title": "Neurological Problems of the Adult Client"
+  },
+  "pdf_start": 969,
+  "pdf_end": 980,
+  "printed_start": "877",
+  "printed_end": "887.e1"
+ },
+ {
+  "number": 61,
+  "title": "Musculoskeletal Problems",
+  "part": {
+   "roman": "XVI",
+   "title": "Musculoskeletal Problems of the Adult Client"
+  },
+  "pdf_start": 982,
+  "pdf_end": 1004,
+  "printed_start": "889",
+  "printed_end": "909.e2"
+ },
+ {
+  "number": 62,
+  "title": "Musculoskeletal Medications",
+  "part": {
+   "roman": "XVI",
+   "title": "Musculoskeletal Problems of the Adult Client"
+  },
+  "pdf_start": 1005,
+  "pdf_end": 1013,
+  "printed_start": "910",
+  "printed_end": "917.e1"
+ },
+ {
+  "number": 63,
+  "title": "Immune Problems",
+  "part": {
+   "roman": "XVII",
+   "title": "Immune Problems of the Adult Client"
+  },
+  "pdf_start": 1015,
+  "pdf_end": 1030,
+  "printed_start": "919",
+  "printed_end": "932.e2"
+ },
+ {
+  "number": 64,
+  "title": "Immune Medications",
+  "part": {
+   "roman": "XVII",
+   "title": "Immune Problems of the Adult Client"
+  },
+  "pdf_start": 1031,
+  "pdf_end": 1038,
+  "printed_start": "933",
+  "printed_end": "939.e1"
+ },
+ {
+  "number": 65,
+  "title": "Foundations of Psychiatric Mental Health Nursing",
+  "part": {
+   "roman": "XVIII",
+   "title": "Mental Health Problems of the Adult Client"
+  },
+  "pdf_start": 1040,
+  "pdf_end": 1054,
+  "printed_start": "941",
+  "printed_end": "953.e2"
+ },
+ {
+  "number": 66,
+  "title": "Mental Health Problems",
+  "part": {
+   "roman": "XVIII",
+   "title": "Mental Health Problems of the Adult Client"
+  },
+  "pdf_start": 1055,
+  "pdf_end": 1076,
+  "printed_start": "954",
+  "printed_end": "974.e1"
+ },
+ {
+  "number": 67,
+  "title": "Addictions",
+  "part": {
+   "roman": "XVIII",
+   "title": "Mental Health Problems of the Adult Client"
+  },
+  "pdf_start": 1077,
+  "pdf_end": 1089,
+  "printed_start": "975",
+  "printed_end": "986.e1"
+ },
+ {
+  "number": 68,
+  "title": "Crisis Theory and Intervention",
+  "part": {
+   "roman": "XVIII",
+   "title": "Mental Health Problems of the Adult Client"
+  },
+  "pdf_start": 1090,
+  "pdf_end": 1105,
+  "printed_start": "987",
+  "printed_end": "1000.e2"
+ },
+ {
+  "number": 69,
+  "title": "Psychotherapeutic Medications",
+  "part": {
+   "roman": "XVIII",
+   "title": "Mental Health Problems of the Adult Client"
+  },
+  "pdf_start": 1106,
+  "pdf_end": 1121,
+  "printed_start": "1001",
+  "printed_end": "1014.e2"
+ },
+ {
+  "number": 70,
+  "title": "Complex Care",
+  "part": {
+   "roman": "XIX",
+   "title": "Complex Care"
+  },
+  "pdf_start": 1124,
+  "pdf_end": 1196,
+  "printed_start": "1017",
+  "printed_end": "1087.e2"
+ }
+]

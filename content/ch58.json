@@ -1,0 +1,704 @@
+{
+ "number": 58,
+ "title": {
+  "en": "Eye and Ear Medications",
+  "zh": "眼耳用藥"
+ },
+ "overview": {
+  "en": "Covers correct instillation of eye and ear medications and the drug classes used: mydriatics/cycloplegics, anti-infectives, anti-inflammatories, topical anesthetics, lubricants, glaucoma drugs, macular degeneration drugs, otic preparations and ototoxic drugs. Know each class's action, adverse effects, contraindications and the key safety teaching.",
+  "zh": "涵蓋眼藥與耳藥的正確給藥方式，以及散瞳/睫狀肌麻痺劑、抗感染藥、消炎藥、局部麻醉劑、潤滑劑、青光眼藥物、黃斑部病變藥物、耳用製劑與耳毒性藥物。需熟記各類作用、不良反應、禁忌與重要衛教。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Ophthalmic administration",
+    "zh": "眼用藥物給藥"
+   },
+   "points": [
+    {
+     "en": "Wash hands, wear gloves, place drops in the lower conjunctival sac (never on the cornea), do not touch the dropper to the eye; separate bottle per client.",
+     "zh": "洗手、戴手套，將藥液滴入下結膜囊(不可直接滴在角膜)，滴管不可碰到眼睛；每位病人專用藥瓶。"
+    },
+    {
+     "en": "After instilling, press the inner canthus/nasolacrimal duct 30-60 seconds and close eye gently (do not squeeze) to reduce systemic absorption.",
+     "zh": "滴藥後壓住內眼角/鼻淚管30-60秒並輕閉眼(勿用力擠眼)，以減少全身吸收。"
+    },
+    {
+     "en": "Order: drops before ointment; glucocorticoid before other drugs; wait 3-5 min between drops of the same drug and 5-10 min between different drugs.",
+     "zh": "順序：先滴眼藥水再擠藥膏；類固醇先於其他藥物；同藥多滴間隔3-5分鐘，不同藥物間隔5-10分鐘。"
+    },
+    {
+     "en": "Ointment: thin ribbon along lower conjunctival sac from inner to outer canthus, tube not touching eye; vision blurs, best at bedtime.",
+     "zh": "藥膏：沿下結膜囊由內眥向外眥擠一細條，管口不碰眼睛；會暫時視力模糊，最好睡前使用。"
+    },
+    {
+     "en": "Monitor pulse and BP with ophthalmic beta blockers; mydriatic/cycloplegic use means no driving; sunglasses for photophobia; atropine drops in infants may cause abdominal distention.",
+     "zh": "使用眼用β阻斷劑需監測脈搏與血壓；散瞳/睫狀肌麻痺後不可開車；畏光戴太陽眼鏡；嬰兒使用atropine眼藥可能造成腹脹。"
+    },
+    {
+     "en": "Older client with tremor: involve caregiver, home care nurse or adaptive bottle-positioning device. Missed dose: take when remembered unless next dose due in 1-2 h.",
+     "zh": "手抖的老年人：請照顧者、居家護理師協助或使用瓶口定位輔具。漏用：想起即用，除非1-2小時內需下一次用藥。"
+    }
+   ],
+   "pdf_pages": [
+    931,
+    932
+   ]
+  },
+  {
+   "heading": {
+    "en": "Mydriatics, cycloplegics and anticholinergics",
+    "zh": "散瞳劑、睫狀肌麻痺劑與抗膽鹼藥"
+   },
+   "points": [
+    {
+     "en": "Action: dilate the pupil (mydriasis) and paralyze the ciliary muscle (cycloplegia) for exams and surgery. Examples: atropine, cyclopentolate, homatropine, phenylephrine, scopolamine, tropicamide.",
+     "zh": "作用：散瞳並麻痺睫狀肌，用於檢查與手術。例：atropine、cyclopentolate、homatropine、phenylephrine、scopolamine、tropicamide。"
+    },
+    {
+     "en": "Adverse effects: tachycardia, photophobia, raised BP, burning; atropine toxicity: dry mouth, fever, flushing, urinary retention, constipation, confusion, hallucinations, worsening glaucoma.",
+     "zh": "不良反應：心搏過速、畏光、血壓上升、灼熱；atropine中毒：口乾、發燒、潮紅、尿滯留、便秘、混亂、幻覺、青光眼惡化。"
+    },
+    {
+     "en": "Contraindicated in glaucoma (raises IOP); caution with dysrhythmias, elderly, prostatic hypertrophy, diabetes, parkinsonism.",
+     "zh": "青光眼禁用(升高眼壓)；心律不整、老年人、攝護腺肥大、糖尿病、帕金森氏症者小心。"
+    },
+    {
+     "en": "Teach: no driving or hazardous activity for 24 h, sunglasses, report eye pain, vision loss, flushing, difficulty breathing.",
+     "zh": "衛教：24小時內不可開車或從事危險活動、戴太陽眼鏡、眼痛、視力喪失、潮紅或呼吸困難需通報。"
+    }
+   ],
+   "pdf_pages": [
+    933
+   ]
+  },
+  {
+   "heading": {
+    "en": "Anti-infective, anti-inflammatory, anesthetic and lubricant eye drugs",
+    "zh": "抗感染、消炎、麻醉與潤滑眼藥"
+   },
+   "points": [
+    {
+     "en": "Anti-infectives (bacitracin, erythromycin, gentamicin, tobramycin, moxifloxacin, natamycin antifungal, ganciclovir antiviral, sulfacetamide): superinfection, local irritation; complete the course, clean exudate first, hand hygiene.",
+     "zh": "抗感染藥(bacitracin、erythromycin、gentamicin、tobramycin、moxifloxacin、抗黴菌natamycin、抗病毒ganciclovir、sulfacetamide)：重複感染、局部刺激；需完成療程、先清除分泌物、勤洗手。"
+    },
+    {
+     "en": "Anti-inflammatories: corticosteroids (dexamethasone, prednisolone), NSAIDs (ketorolac, diclofenac, nepafenac), mast cell stabilizers (cromolyn, olopatadine). Steroid effects: cataracts, raised IOP/glaucoma, delayed healing, masks infection; not for abrasions or wounds.",
+     "zh": "消炎藥：皮質類固醇(dexamethasone、prednisolone)、NSAIDs(ketorolac、diclofenac、nepafenac)、肥大細胞穩定劑(cromolyn、olopatadine)。類固醇副作用：白內障、眼壓升高/青光眼、延遲癒合、掩蓋感染；不可用於角膜擦傷或傷口。"
+    },
+    {
+     "en": "Topical anesthetics (tetracaine): stinging, loss of corneal blink reflex; never for home or self use; do not rub eye; patch until reflex returns.",
+     "zh": "局部麻醉劑(tetracaine)：刺痛、角膜眨眼反射消失；不可居家或自行使用；勿揉眼；以眼罩保護至反射恢復。"
+    },
+    {
+     "en": "Lubricants (carboxymethylcellulose, hydroxypropyl methylcellulose, polyvinyl alcohol, petrolatum ointment): for dry eye, unconscious or anesthetized clients; may burn on instillation; watch for preservative allergy.",
+     "zh": "潤滑劑(carboxymethylcellulose、hydroxypropyl methylcellulose、polyvinyl alcohol、凡士林藥膏)：用於乾眼、昏迷或麻醉病人；滴入時可能灼熱；留意防腐劑過敏。"
+    }
+   ],
+   "pdf_pages": [
+    933,
+    934
+   ]
+  },
+  {
+   "heading": {
+    "en": "Glaucoma: miotics and beta blockers",
+    "zh": "青光眼：縮瞳劑與β阻斷劑"
+   },
+   "points": [
+    {
+     "en": "Miotics/cholinergic agonists (pilocarpine, carbachol, echothiophate): constrict pupil, contract ciliary muscle, increase aqueous outflow. Side effects: myopia, headache, eye pain, poor vision in dim light.",
+     "zh": "縮瞳劑/膽鹼促效劑(pilocarpine、carbachol、echothiophate)：縮瞳、睫狀肌收縮、增加房水排出。副作用：近視、頭痛、眼痛、暗處視力差。"
+    },
+    {
+     "en": "Systemic cholinergic effects: flushing, sweating, salivation, diarrhea, urinary frequency, bronchospasm; toxicity: bradycardia, hypotension, syncope, seizures. Antidote: atropine sulfate.",
+     "zh": "全身膽鹼效應：潮紅、流汗、流涎、腹瀉、頻尿、支氣管痙攣；中毒：心搏過緩、低血壓、昏厥、癲癇。解毒劑：atropine sulfate。"
+    },
+    {
+     "en": "Contraindicated with retinal detachment, iris-lens adhesions, inflammation; caution with asthma, bradycardia, ulcers, parkinsonism.",
+     "zh": "視網膜剝離、虹膜與水晶體沾黏、發炎時禁用；氣喘、心搏過緩、潰瘍、帕金森氏症者小心。"
+    },
+    {
+     "en": "Beta blockers (timolol, betaxolol, carteolol, levobunolol, metipranolol): reduce aqueous production without changing pupil size.",
+     "zh": "β阻斷劑(timolol、betaxolol、carteolol、levobunolol、metipranolol)：減少房水生成，不影響瞳孔大小。"
+    },
+    {
+     "en": "Beta blocker risks: bradycardia, hypotension, bronchospasm; contraindicated in asthma/COPD; hold and call if pulse <=60 or systolic BP <90; may mask hypoglycemia in diabetics.",
+     "zh": "β阻斷劑風險：心搏過緩、低血壓、支氣管痙攣；氣喘/COPD禁用；脈搏≦60或收縮壓<90應暫停並通報；糖尿病人可能掩蓋低血糖。"
+    },
+    {
+     "en": "Do not stop glaucoma drugs abruptly; change positions slowly.",
+     "zh": "不可突然停用青光眼藥物；改變姿勢要緩慢。"
+    }
+   ],
+   "pdf_pages": [
+    934,
+    935,
+    936
+   ]
+  },
+  {
+   "heading": {
+    "en": "Glaucoma: carbonic anhydrase inhibitors, osmotics, other agents",
+    "zh": "青光眼：碳酸酐酶抑制劑、滲透劑與其他藥物"
+   },
+   "points": [
+    {
+     "en": "Carbonic anhydrase inhibitors (dorzolamide, brinzolamide; oral acetazolamide) decrease aqueous humor formation; contraindicated in sulfonamide allergy; caution in severe renal/liver disease.",
+     "zh": "碳酸酐酶抑制劑(dorzolamide、brinzolamide；口服acetazolamide)減少房水生成；磺胺過敏禁用；嚴重腎/肝病者小心。"
+    },
+    {
+     "en": "Adverse effects: paresthesias, GI upset, polyuria, hypokalemia, renal calculi, photosensitivity, lethargy, depression. Monitor K+, I&O, weight; increase fluids; no contact lenses during or within 15 minutes of drops.",
+     "zh": "不良反應：感覺異常、腸胃不適、多尿、低血鉀、腎結石、光敏感、嗜睡、憂鬱。監測鉀、輸出入量、體重；增加水分；滴藥期間及滴後15分鐘內勿戴隱形眼鏡。"
+    },
+    {
+     "en": "Ocusert: pilocarpine wafer replaced every 7 days, stored in refrigerator, check presence at bedtime and on arising; may leak, migrate or be lost.",
+     "zh": "Ocusert：pilocarpine藥片每7天更換、冷藏保存、睡前與起床時檢查是否在位；可能漏藥、移位或遺失。"
+    },
+    {
+     "en": "Osmotic agents (mannitol): emergency IOP reduction and peri-operative; headache, N/V, dehydration, disorientation, electrolyte imbalance; monitor I&O, weight, orientation.",
+     "zh": "滲透劑(mannitol)：緊急降眼壓及手術前後使用；頭痛、噁心嘔吐、脫水、定向力障礙、電解質失衡；監測輸出入量、體重與定向力。"
+    },
+    {
+     "en": "Other glaucoma agents in Box 58.5: prostaglandin analogs (latanoprost, bimatoprost, travoprost), alpha-2 agonists (brimonidine, apraclonidine), rho kinase inhibitor (netarsudil).",
+     "zh": "方塊58.5其他青光眼藥物：前列腺素類似物(latanoprost、bimatoprost、travoprost)、α2促效劑(brimonidine、apraclonidine)、Rho激酶抑制劑(netarsudil)。"
+    }
+   ],
+   "pdf_pages": [
+    935,
+    936
+   ]
+  },
+  {
+   "heading": {
+    "en": "Macular degeneration medications",
+    "zh": "黃斑部病變藥物"
+   },
+   "points": [
+    {
+     "en": "Wet (neovascular) ARMD is faster and treated with anti-VEGF agents (ranibizumab, bevacizumab, aflibercept, pegaptanib) and verteporfin photodynamic therapy; dry ARMD is more common and slow.",
+     "zh": "濕性(新生血管)黃斑部病變進展較快，使用抗VEGF藥物(ranibizumab、bevacizumab、aflibercept、pegaptanib)與verteporfin光動力療法；乾性較常見且進展慢。"
+    },
+    {
+     "en": "Adverse effects: endophthalmitis, blurred vision, cataract, corneal edema, conjunctival hemorrhage, raised IOP, reduced acuity.",
+     "zh": "不良反應：眼內炎、視力模糊、白內障、角膜水腫、結膜出血、眼壓升高、視力下降。"
+    },
+    {
+     "en": "Teach administration and when to notify the provider (pain, vision loss, redness).",
+     "zh": "教導用藥方式及何時通報(疼痛、視力喪失、紅腫)。"
+    }
+   ],
+   "pdf_pages": [
+    936,
+    937
+   ]
+  },
+  {
+   "heading": {
+    "en": "Otic administration and ototoxic drugs",
+    "zh": "耳用給藥與耳毒性藥物"
+   },
+   "points": [
+    {
+     "en": "Adults: pull pinna up and back; children <3 y: down and back. Tilt head away from affected ear and keep position about 5 minutes (gently move head per text).",
+     "zh": "成人：耳廓向上向後拉；3歲以下兒童：向下向後拉。頭偏向健側並維持姿勢(本書指示輕輕前後移動頭部5次)。"
+    },
+    {
+     "en": "Irrigation requires a prescription and visible tympanic membrane; warm to 37 C (98.6 F); aim at canal wall; client ear up with emesis basin and fall precautions; never irrigate if perforation suspected.",
+     "zh": "沖洗需有醫囑且可見鼓膜；加溫至37°C(98.6°F)；朝耳道壁沖；病人患耳朝上，備嘔吐盆與防跌；懷疑穿孔時禁止沖洗。"
+    },
+    {
+     "en": "Ototoxic drugs: aminoglycosides (gentamicin, amikacin, streptomycin, tobramycin, neomycin), vancomycin, loop diuretics (furosemide, ethacrynic acid), cisplatin, aspirin, NSAIDs, quinine, sildenafil.",
+     "zh": "耳毒性藥物：胺基糖苷類(gentamicin、amikacin、streptomycin、tobramycin、neomycin)、vancomycin、袢利尿劑(furosemide、ethacrynic acid)、cisplatin、阿斯匹靈、NSAIDs、quinine、sildenafil。"
+    },
+    {
+     "en": "Anti-infective ear drops (ofloxacin, ciprofloxacin, gentamicin otic, acetic acid): overgrowth of resistant organisms; keep ears dry; finish course; report dizziness, fever, sore throat.",
+     "zh": "抗感染耳藥(ofloxacin、ciprofloxacin、gentamicin耳劑、acetic acid)：抗藥菌過度生長；保持耳朵乾燥；完成療程；頭暈、發燒、喉嚨痛需通報。"
+    }
+   ],
+   "pdf_pages": [
+    937,
+    938
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antihistamines, decongestants and ceruminolytics",
+    "zh": "抗組織胺、解充血劑與耳垢軟化劑"
+   },
+   "points": [
+    {
+     "en": "Antihistamines/decongestants reduce mucosal edema to open the eustachian tube; drowsiness, blurred vision, dry mouth; hypertensive clients check with provider first.",
+     "zh": "抗組織胺/解充血劑減輕黏膜水腫以打開耳咽管；嗜睡、視力模糊、口乾；高血壓病人需先詢問醫師。"
+    },
+    {
+     "en": "Carbamide peroxide emulsifies cerumen; irritation, redness, swelling; insert cotton plug after drops; irrigate gently with warm water 30 minutes later; mineral oil for chronic impaction.",
+     "zh": "Carbamide peroxide乳化耳垢；刺激、紅腫；滴藥後塞棉球；30分鐘後以溫水輕柔沖洗；慢性耳垢可用礦物油。"
+    },
+    {
+     "en": "Do not exceed prescribed frequency; avoid touching ear with dropper; notify provider if redness, pain, or swelling persists.",
+     "zh": "勿超過處方頻率；滴管勿碰耳朵；紅腫疼痛持續需通報。"
+    }
+   ],
+   "pdf_pages": [
+    938
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Instill eye drops in the lower conjunctival sac, never on the cornea; press nasolacrimal duct 30-60 s to limit systemic absorption.",
+   "zh": "眼藥水滴在下結膜囊，不可滴在角膜；壓迫鼻淚管30-60秒以減少全身吸收。",
+   "pdf_pages": [
+    931,
+    932
+   ]
+  },
+  {
+   "en": "Give eye drops before ointment; separate different eye drugs by 5-10 minutes; glucocorticoid first.",
+   "zh": "先滴眼藥水再擠藥膏；不同眼藥間隔5-10分鐘；類固醇先給。",
+   "pdf_pages": [
+    931,
+    932
+   ]
+  },
+  {
+   "en": "Mydriatics/cycloplegics are contraindicated in glaucoma (raise IOP); no driving 24 h.",
+   "zh": "散瞳/睫狀肌麻痺劑青光眼禁用(升高眼壓)；24小時內不可開車。",
+   "pdf_pages": [
+    933
+   ]
+  },
+  {
+   "en": "Atropine-like drugs raise IOP: glaucoma clients must avoid them; antidote for cholinergic (miotic) toxicity is atropine sulfate.",
+   "zh": "類阿托品藥物升高眼壓：青光眼病人須避免；膽鹼類(縮瞳劑)中毒解毒劑為atropine sulfate。",
+   "pdf_pages": [
+    935
+   ]
+  },
+  {
+   "en": "Ophthalmic beta blockers: check pulse and BP; hold if pulse <=60 or SBP <90; contraindicated in asthma/COPD.",
+   "zh": "眼用β阻斷劑：測脈搏與血壓；脈搏≦60或收縮壓<90暫停；氣喘/COPD禁用。",
+   "pdf_pages": [
+    935
+   ]
+  },
+  {
+   "en": "Carbonic anhydrase inhibitors: sulfonamide allergy contraindication; monitor K+, renal stones, increase fluids.",
+   "zh": "碳酸酐酶抑制劑：磺胺過敏禁用；監測鉀、腎結石，增加水分。",
+   "pdf_pages": [
+    936
+   ]
+  },
+  {
+   "en": "Topical steroids (dexamethasone) can cause cataracts and glaucoma, mask infection, and must not be used for abrasions.",
+   "zh": "局部類固醇(dexamethasone)可造成白內障與青光眼、掩蓋感染，不可用於擦傷。",
+   "pdf_pages": [
+    934,
+    935
+   ]
+  },
+  {
+   "en": "Topical anesthetics are never for home use; protect the anesthetized eye until the blink reflex returns.",
+   "zh": "局部麻醉劑不可居家使用；麻醉後眼睛需保護至眨眼反射恢復。",
+   "pdf_pages": [
+    934
+   ]
+  },
+  {
+   "en": "Glaucoma drugs are lifelong; never stop abruptly.",
+   "zh": "青光眼藥物需終生使用，不可突然停藥。",
+   "pdf_pages": [
+    936
+   ]
+  },
+  {
+   "en": "Ear irrigation: contraindicated if perforation suspected; warm to 37 C; aim at canal wall, not eardrum.",
+   "zh": "耳朵沖洗：懷疑穿孔禁用；加溫至37°C；朝耳道壁沖，不直射鼓膜。",
+   "pdf_pages": [
+    937
+   ]
+  },
+  {
+   "en": "Ear drops: adults pull pinna up and back; children under 3 down and back.",
+   "zh": "耳滴劑：成人耳廓向上向後拉；3歲以下向下向後拉。",
+   "pdf_pages": [
+    937
+   ]
+  },
+  {
+   "en": "Ototoxic drugs: aminoglycosides, loop diuretics, vancomycin, cisplatin, aspirin/NSAIDs, quinine: monitor hearing, tinnitus.",
+   "zh": "耳毒性藥物：胺基糖苷類、袢利尿劑、vancomycin、cisplatin、阿斯匹靈/NSAIDs、quinine：監測聽力與耳鳴。",
+   "pdf_pages": [
+    937
+   ]
+  },
+  {
+   "en": "Atropine eye drops in infants may cause abdominal distention; record bowel movements and auscultate bowel sounds.",
+   "zh": "嬰兒使用atropine眼藥水可能腹脹；記錄排便並聽診腸音。",
+   "pdf_pages": [
+    932
+   ]
+  },
+  {
+   "en": "Ocusert pilocarpine disk: replace every 7 days, refrigerate, check position at bedtime and on arising.",
+   "zh": "Ocusert pilocarpine藥片：每7天更換、冷藏、睡前與起床時檢查位置。",
+   "pdf_pages": [
+    936
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Glaucoma drug action: Miotics open outflow; Beta blockers and Carbonic anhydrase inhibitors reduce production; Osmotics shrink vitreous.",
+   "zh": "青光眼藥物作用：縮瞳劑增加排出；β阻斷劑與碳酸酐酶抑制劑減少生成；滲透劑縮減玻璃體。",
+   "pdf_pages": [
+    934,
+    935,
+    936
+   ]
+  },
+  {
+   "en": "Atropine toxicity: 'dry as a bone, red as a beet, blind as a bat, mad as a hatter, hot as a hare.'",
+   "zh": "Atropine中毒：口乾皮乾、臉紅、視力模糊、精神錯亂、發燒。",
+   "pdf_pages": [
+    933
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 932,
+   "caption": {
+    "en": "Fig. 58.1: punctal occlusion (pressing the nasolacrimal duct) to limit systemic absorption of eye drops.",
+    "zh": "圖58.1：壓迫淚小點(鼻淚管)以減少眼藥水全身吸收。"
+   }
+  },
+  {
+   "pdf_page": 933,
+   "caption": {
+    "en": "Boxes 58.1-58.2: mydriatic/cycloplegic and anti-infective eye medication lists.",
+    "zh": "方塊58.1-58.2：散瞳/睫狀肌麻痺劑與抗感染眼藥清單。"
+   }
+  },
+  {
+   "pdf_page": 934,
+   "caption": {
+    "en": "Boxes 58.3-58.4: anti-inflammatory eye drugs and eye lubricants.",
+    "zh": "方塊58.3-58.4：消炎眼藥與眼用潤滑劑。"
+   }
+  },
+  {
+   "pdf_page": 935,
+   "caption": {
+    "en": "Box 58.5: all glaucoma drug classes (miotics, beta blockers, alpha agonists, prostaglandins, CAIs, rho kinase inhibitor).",
+    "zh": "方塊58.5：所有青光眼藥物類別(縮瞳劑、β阻斷劑、α促效劑、前列腺素、碳酸酐酶抑制劑、Rho激酶抑制劑)。"
+   }
+  },
+  {
+   "pdf_page": 937,
+   "caption": {
+    "en": "Fig. 58.2: ear irrigation technique; Box 58.6: drugs that affect hearing.",
+    "zh": "圖58.2：耳朵沖洗技巧；方塊58.6：影響聽力的藥物。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A nurse must instill an eye ointment and an eye drop at the same time. What is correct?",
+    "zh": "護理師需同時給予眼藥膏與眼藥水，何者正確？"
+   },
+   "options": [
+    {
+     "en": "Ointment first",
+     "zh": "先藥膏"
+    },
+    {
+     "en": "Drop first, then ointment",
+     "zh": "先眼藥水再藥膏"
+    },
+    {
+     "en": "Mix them",
+     "zh": "混合使用"
+    },
+    {
+     "en": "Give only the ointment",
+     "zh": "只給藥膏"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Drops go first because ointment would block absorption of the drop.",
+    "zh": "藥膏會阻礙眼藥水吸收，故先滴眼藥水。"
+   },
+   "pdf_pages": [
+    931
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which client should NOT receive a mydriatic eye medication?",
+    "zh": "哪位病人不可使用散瞳眼藥？"
+   },
+   "options": [
+    {
+     "en": "Client with cataract",
+     "zh": "白內障病人"
+    },
+    {
+     "en": "Client with narrow-angle glaucoma",
+     "zh": "窄角型青光眼病人"
+    },
+    {
+     "en": "Client with myopia",
+     "zh": "近視病人"
+    },
+    {
+     "en": "Client needing a retinal exam",
+     "zh": "需視網膜檢查者"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Mydriatics raise IOP and can precipitate angle closure.",
+    "zh": "散瞳劑升高眼壓，可誘發閉角。"
+   },
+   "pdf_pages": [
+    933
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Before giving timolol eye drops, the nurse finds pulse 56 and BP 86/50. Action?",
+    "zh": "給timolol眼藥前，護理師測得脈搏56、血壓86/50，應："
+   },
+   "options": [
+    {
+     "en": "Give the dose",
+     "zh": "照常給藥"
+    },
+    {
+     "en": "Hold the dose and notify the provider",
+     "zh": "暫停並通知醫師"
+    },
+    {
+     "en": "Give half the dose",
+     "zh": "給半量"
+    },
+    {
+     "en": "Instill in only one eye",
+     "zh": "只滴一眼"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Ophthalmic beta blockers are absorbed systemically; hold with pulse <=60 or SBP <90.",
+    "zh": "眼用β阻斷劑可全身吸收；脈搏≦60或收縮壓<90應暫停。"
+   },
+   "pdf_pages": [
+    935
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with glaucoma is prescribed dorzolamide. Which history is a concern?",
+    "zh": "青光眼病人開立dorzolamide，何病史需注意？"
+   },
+   "options": [
+    {
+     "en": "Sulfonamide allergy",
+     "zh": "磺胺過敏"
+    },
+    {
+     "en": "Hypertension",
+     "zh": "高血壓"
+    },
+    {
+     "en": "Gout",
+     "zh": "痛風"
+    },
+    {
+     "en": "Migraine",
+     "zh": "偏頭痛"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "CAIs are sulfonamide derivatives.",
+    "zh": "碳酸酐酶抑制劑為磺胺衍生物。"
+   },
+   "pdf_pages": [
+    936
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which are correct for administering ear drops to an adult? Select all that apply.",
+    "zh": "成人給予耳滴劑，哪些正確？(多選)"
+   },
+   "options": [
+    {
+     "en": "Pull the pinna up and back",
+     "zh": "耳廓向上向後拉"
+    },
+    {
+     "en": "Tilt the head away from the affected ear",
+     "zh": "頭偏向健側"
+    },
+    {
+     "en": "Pull the pinna down and back",
+     "zh": "耳廓向下向後拉"
+    },
+    {
+     "en": "Ensure medication is at room/body temperature",
+     "zh": "藥液接近室溫/體溫"
+    },
+    {
+     "en": "Insert the dropper deep into the canal",
+     "zh": "滴管深入耳道"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Down and back is for children under 3; never insert the dropper deeply.",
+    "zh": "向下向後拉是3歲以下兒童；滴管不可深入耳道。"
+   },
+   "pdf_pages": [
+    937
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which medications are ototoxic? Select all that apply.",
+    "zh": "下列哪些藥物具耳毒性？(多選)"
+   },
+   "options": [
+    {
+     "en": "Gentamicin",
+     "zh": "gentamicin"
+    },
+    {
+     "en": "Furosemide",
+     "zh": "furosemide"
+    },
+    {
+     "en": "Acetaminophen",
+     "zh": "acetaminophen"
+    },
+    {
+     "en": "Cisplatin",
+     "zh": "cisplatin"
+    },
+    {
+     "en": "Levothyroxine",
+     "zh": "levothyroxine"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Aminoglycosides, loop diuretics and cisplatin are ototoxic.",
+    "zh": "胺基糖苷類、袢利尿劑與cisplatin具耳毒性。"
+   },
+   "pdf_pages": [
+    937
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client receiving pilocarpine shows bradycardia, sweating and excessive salivation. What should be available?",
+    "zh": "使用pilocarpine的病人出現心搏過緩、流汗與流涎過多，應備："
+   },
+   "options": [
+    {
+     "en": "Atropine sulfate",
+     "zh": "atropine sulfate"
+    },
+    {
+     "en": "Naloxone",
+     "zh": "naloxone"
+    },
+    {
+     "en": "Epinephrine",
+     "zh": "epinephrine"
+    },
+    {
+     "en": "Vitamin K",
+     "zh": "維生素K"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Atropine reverses cholinergic toxicity.",
+    "zh": "Atropine可逆轉膽鹼中毒。"
+   },
+   "pdf_pages": [
+    935
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "NCLEX Eye and Ear Disorder Quiz (ProProfs)",
+   "url": "https://www.proprofs.com/quiz-school/story.php?title=mjaxntaznayucr",
+   "note": {
+    "en": "Free eye and ear quiz with explanations, including post-op eye care.",
+    "zh": "附解說的免費眼耳測驗，含術後眼部照護。"
+   }
+  },
+  {
+   "title": "Sensory Disorders (Eye & Ear) Review (getoncourse)",
+   "url": "https://getoncourse.ai/notes/nclex-rn/medical-surgical-nursing/sensory-disorders-eye-ear/",
+   "note": {
+    "en": "Review notes on glaucoma, cataract and ear disorders (some content requires sign-up).",
+    "zh": "青光眼、白內障與耳疾複習筆記(部分需註冊)。"
+   }
+  }
+ ]
+}

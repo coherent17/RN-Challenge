@@ -1,0 +1,781 @@
+{
+ "number": 63,
+ "title": {
+  "en": "Immune Problems",
+  "zh": "免疫問題"
+ },
+ "overview": {
+  "en": "Immune system function, humoral vs cellular response, immunity types, immune lab tests (ANA, anti-dsDNA, HIV tests, CD4 count), skin testing, hypersensitivity, anaphylaxis, latex allergy, immunodeficiency, autoimmune diseases (SLE, scleroderma, polyarteritis nodosa, pemphigus, Goodpasture's), Lyme disease, HIV/AIDS, Kaposi's sarcoma and posttransplant immunosuppression.",
+  "zh": "免疫系統功能、體液與細胞性免疫反應、免疫類型、免疫檢驗（ANA、anti-dsDNA、HIV檢測、CD4計數）、皮膚試驗、過敏反應、類過敏性休克、乳膠過敏、免疫不全、自體免疫疾病（SLE、硬皮症、結節性多動脈炎、天疱瘡、Goodpasture氏症候群）、萊姆病、HIV/AIDS、卡波西氏肉瘤與移植後免疫抑制。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Immune function, response and immunity",
+    "zh": "免疫功能、反應與免疫類型"
+   },
+   "pdf_pages": [
+    1015
+   ],
+   "points": [
+    {
+     "en": "The immune system defends against outside microbes and removes dead or damaged cells.",
+     "zh": "免疫系統抵禦外來微生物並清除死亡或受損細胞。"
+    },
+    {
+     "en": "T and B lymphocytes arise in bone marrow; T cells include helper, suppressor and cytotoxic types.",
+     "zh": "T與B淋巴球源自骨髓；T細胞包括輔助型、抑制型與細胞毒性型。"
+    },
+    {
+     "en": "Humoral (B cell, antibody) response is immediate and protects against acute bacterial and viral infection.",
+     "zh": "體液性（B細胞、抗體）反應迅速，防禦急性細菌與病毒感染。"
+    },
+    {
+     "en": "Cellular response is delayed (delayed hypersensitivity); involved in slow bacterial infections, autoimmunity, some allergies and graft rejection.",
+     "zh": "細胞性反應延遲（遲發型過敏）；與緩慢細菌感染、自體免疫、部分過敏及移植排斥有關。"
+    },
+    {
+     "en": "Innate immunity is present at birth (barriers, inflammation); acquired immunity is passive (maternal antibodies, serum) or active (disease, immunization).",
+     "zh": "先天免疫出生即有（屏障、發炎）；後天免疫分被動（母體抗體、血清）與主動（疾病、疫苗）。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Laboratory studies and skin testing",
+    "zh": "檢驗與皮膚試驗"
+   },
+   "pdf_pages": [
+    1015,
+    1016,
+    1017
+   ],
+   "points": [
+    {
+     "en": "ANA: negative at 1:40 dilution; positive in most SLE (also scleroderma, RA) but not diagnostic alone; false positives occur.",
+     "zh": "ANA：1:40稀釋時為陰性；多數SLE為陽性（硬皮症、RA亦可）但不能單獨診斷；可有偽陽性。"
+    },
+    {
+     "en": "Anti-dsDNA: specific to SLE, tracks disease activity; normal under 70 U/mL by ELISA.",
+     "zh": "Anti-dsDNA：對SLE具特異性、可追蹤疾病活性；ELISA正常小於70 U/mL。"
+    },
+    {
+     "en": "CD4+ count: normal 500-1600 cells/uL; 200-499 immune problems; below 200 severe (AIDS criteria). CD4:CD8 ratio normally about 2:1.",
+     "zh": "CD4+計數：正常500-1600 cells/µL；200-499免疫出現問題；低於200為嚴重（AIDS標準）。CD4:CD8比值正常約2:1。"
+    },
+    {
+     "en": "HIV testing: maintain confidentiality; reactive screening test needs confirmation; viral load measures HIV RNA; p24 antigen assay; oral test uses oral transmucosal fluid and needs blood confirmation.",
+     "zh": "HIV檢測：保密；篩檢陽性需確認；病毒量測HIV RNA；p24抗原檢驗；口腔試驗用口腔黏膜滲出液，陽性需血液確認。"
+    },
+    {
+     "en": "Skin testing: stop systemic steroids/antihistamines 5 days prior as prescribed; consent; observe 30 min; anaphylaxis equipment ready; measure wheal and erythema (1+ about 0.5 cm to 4+ about 2.0 cm); record site, date, time.",
+     "zh": "皮膚試驗：依醫囑前5天停用全身性類固醇/抗組織胺；同意書；觀察30分鐘；備妥過敏性休克急救設備；測量風團與紅暈（1+約0.5 cm至4+約2.0 cm）；記錄部位、日期、時間。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hypersensitivity, anaphylaxis and latex allergy",
+    "zh": "過敏、過敏性休克與乳膠過敏"
+   },
+   "pdf_pages": [
+    1017,
+    1018,
+    1019
+   ],
+   "points": [
+    {
+     "en": "Allergy: abnormal response to normally harmless substances, often on second exposure; manage with allergen identification, antihistamines, anti-inflammatories, corticosteroids, desensitization.",
+     "zh": "過敏：對一般無害物質的異常反應，常於再次接觸時出現；處置包括辨識過敏原、抗組織胺、抗發炎藥、類固醇、減敏治療。"
+    },
+    {
+     "en": "Anaphylaxis (type I, IgE-mediated): airway compromise, stridor, wheeze, hypotension, urticaria, angioedema, GI cramps, sense of doom.",
+     "zh": "過敏性休克（第一型、IgE媒介）：呼吸道受阻、喘鳴、哮鳴、低血壓、蕁麻疹、血管性水腫、腹絞痛、瀕死感。"
+    },
+    {
+     "en": "Anaphylaxis actions: assess airway/breathing, stay with client, call PHCP and rapid response, stop the suspect infusion, start IV normal saline, oxygen, raise HOB if BP normal, prepare epinephrine and diphenhydramine, intubation equipment ready.",
+     "zh": "過敏性休克處置：評估呼吸道/呼吸、不離開病人、呼叫醫師與快速反應小組、停止可疑輸注、建立靜脈輸注生理食鹽水、給氧、血壓正常時抬高床頭、準備epinephrine與diphenhydramine、備妥插管設備。"
+    },
+    {
+     "en": "Latex allergy: type I (anaphylaxis) or type IV delayed contact dermatitis (6-48 h); risk groups: health care workers, rubber industry, multiple surgeries, spina bifida, frequent glove users; cross-reactive foods: banana, kiwi, avocado, chestnut, tropical fruits.",
+     "zh": "乳膠過敏：第一型（過敏性休克）或第四型遲發接觸性皮膚炎（6-48小時）；高風險：醫療人員、橡膠工業、多次手術、脊柱裂、常戴手套者；交叉反應食物：香蕉、奇異果、酪梨、栗子、熱帶水果。"
+    },
+    {
+     "en": "Latex precautions: ask about allergy, nonlatex gloves, latex-safe cart, glass ampules/avoid rubber-stopper vials, cloth barrier under BP cuff, MedicAlert bracelet, epinephrine pen.",
+     "zh": "乳膠防護：詢問過敏史、使用無乳膠手套、備乳膠安全物品車、使用玻璃安瓿/避免橡膠瓶塞、血壓計袖套下墊布、醫療警示手環、攜帶epinephrine筆。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immunodeficiency and autoimmune disease",
+    "zh": "免疫不全與自體免疫疾病"
+   },
+   "pdf_pages": [
+    1019,
+    1020,
+    1021
+   ],
+   "points": [
+    {
+     "en": "Immunodeficiency (primary or secondary): infection is the priority concern; strict asepsis, balanced diet, infection prevention teaching, MedicAlert.",
+     "zh": "免疫不全（原發或續發）：感染為首要顧慮；嚴格無菌技術、均衡飲食、感染預防衛教、醫療警示。"
+    },
+    {
+     "en": "SLE: malar (butterfly) rash, discoid rash, photosensitivity, oral ulcers, joint pain, fatigue, anemia; positive ANA, anti-dsDNA, high ESR/CRP; lupus nephritis early (proteinuria, red cell casts, monitor BUN/creatinine).",
+     "zh": "SLE：蝶形紅斑、盤狀疹、光敏感、口腔潰瘍、關節痛、疲倦、貧血；ANA與anti-dsDNA陽性、ESR/CRP升高；狼瘡腎炎早期（蛋白尿、紅血球圓柱、監測BUN/肌酸酐）。"
+    },
+    {
+     "en": "SLE care: avoid sun/UV, mild soap, pace activity, avoid hot baths and long inactivity, corticosteroids, NSAIDs, hydroxychloroquine, plasmapheresis, emotional support.",
+     "zh": "SLE照護：避免日曬/紫外線、溫和肥皂、活動節奏、避免熱水澡與久不活動、類固醇、NSAID、hydroxychloroquine、血漿置換、情緒支持。"
+    },
+    {
+     "en": "Scleroderma: taut shiny skin, pitting hand edema, dysphagia, contractures; small frequent meals, sit up 1-2 h after meals, constant room temperature, avoid fingersticks and cold extremes, no smoking, corticosteroids.",
+     "zh": "硬皮症：皮膚緊繃光亮、手部凹陷性水腫、吞嚥困難、攣縮；少量多餐、餐後直坐1-2小時、室溫恆定、避免指尖採血與極端低溫、戒菸、類固醇。"
+    },
+    {
+     "en": "Polyarteritis nodosa: systemic vasculitis; fever, severe abdominal pain, bloody diarrhea, high ESR; renal/cardiac involvement; treated like SLE.",
+     "zh": "結節性多動脈炎：全身性血管炎；發燒、劇烈腹痛、血便、ESR升高；腎臟/心臟受累；治療類似SLE。"
+    },
+    {
+     "en": "Pemphigus: autoimmune flaccid bullae, Nikolsky's sign, oral lesions, infection risk; corticosteroids, cytotoxics, antibiotics for secondary infection, oral hygiene.",
+     "zh": "天疱瘡：自體免疫鬆弛性水泡、Nikolsky氏徵象、口腔病灶、感染風險；類固醇、細胞毒性藥物、續發感染用抗生素、口腔衛生。"
+    },
+    {
+     "en": "Goodpasture's: antibodies against glomerular and alveolar basement membranes; hemoptysis, hematuria, dyspnea, edema, HTN; corticosteroids, plasmapheresis, azathioprine, stop smoking.",
+     "zh": "Goodpasture氏症候群：針對腎絲球與肺泡基底膜的自體抗體；咳血、血尿、呼吸困難、水腫、高血壓；類固醇、血漿置換、azathioprine、戒菸。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Lyme disease",
+    "zh": "萊姆病"
+   },
+   "pdf_pages": [
+    1022
+   ],
+   "points": [
+    {
+     "en": "Caused by Borrelia burgdorferi from tick bite; the ring-shaped rash (erythema migrans) does not always occur and may appear away from the bite.",
+     "zh": "由蜱（壁蝨）叮咬傳播的Borrelia burgdorferi所致；環狀紅斑（移行性紅斑）不一定出現，可出現在非叮咬處。"
+    },
+    {
+     "en": "Stage 1: red papule/ring rash, flu-like symptoms; stage 2 (weeks): joint pain, meningitis, facial palsy, cardiac dysrhythmias; stage 3: large-joint arthritis.",
+     "zh": "第一期：紅丘疹/環狀紅斑、類流感症狀；第二期（數週）：關節痛、腦膜炎、顏面麻痺、心律不整；第三期：大關節關節炎。"
+    },
+    {
+     "en": "Remove tick with tweezers close to the skin, pull steadily upward, clean with antiseptic; do not burn it. Blood test reliable 4-6 weeks after bite.",
+     "zh": "以鑷子貼近皮膚夾住蜱並穩定向上拔除、以消毒劑清潔；勿燒灼。血液檢驗於叮咬後4-6週較可靠。"
+    },
+    {
+     "en": "Treatment: doxycycline, cefuroxime or amoxicillin; erythromycin if penicillin-allergic; start promptly.",
+     "zh": "治療：doxycycline、cefuroxime或amoxicillin；青黴素過敏者用erythromycin；及早開始。"
+    },
+    {
+     "en": "Prevention: DEET repellent, long sleeves/pants, light-colored clothing, tuck pants into socks, permethrin on gear, tick checks, stay in trail center.",
+     "zh": "預防：DEET驅蟲劑、長袖長褲、淺色衣物、褲管塞入襪內、裝備噴permethrin、檢查蜱蟲、走在步道中央。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "HIV/AIDS",
+    "zh": "HIV/愛滋病"
+   },
+   "pdf_pages": [
+    1023,
+    1024
+   ],
+   "points": [
+    {
+     "en": "HIV destroys CD4 T cells; AIDS is diagnosed with CD4 <200 or an AIDS-defining opportunistic infection/cancer; long incubation period; now a chronic illness.",
+     "zh": "HIV破壞CD4 T細胞；CD4<200或出現AIDS定義之伺機性感染/癌症即診斷AIDS；潛伏期長；現為慢性疾病。"
+    },
+    {
+     "en": "Findings: fever, malaise, weight loss, night sweats, lymphadenopathy >3 months, diarrhea, leukopenia, opportunistic infections.",
+     "zh": "表現：發燒、倦怠、體重減輕、盜汗、淋巴結腫大>3個月、腹瀉、白血球低下、伺機性感染。"
+    },
+    {
+     "en": "Opportunistic: Pneumocystis jiroveci pneumonia (major cause of death), candidiasis, CMV, herpes, TB, toxoplasmosis, PML; Kaposi's sarcoma, lymphomas, invasive cervical cancer.",
+     "zh": "伺機性：肺囊蟲肺炎（主要死因）、念珠菌、CMV、疱疹、結核、弓漿蟲、進行性多灶性白質腦病；卡波西氏肉瘤、淋巴瘤、侵襲性子宮頸癌。"
+    },
+    {
+     "en": "Labs: decreased CD4, reduced CD4:CD8 ratio, lymphopenia, thrombocytopenia, increased IgG/IgA, anergy; viral load measures therapy effectiveness.",
+     "zh": "檢驗：CD4下降、CD4:CD8比值降低、淋巴球減少、血小板低下、IgG/IgA上升、無反應性；病毒量評估治療效果。"
+    },
+    {
+     "en": "Nursing: respiratory support, standard precautions, protective measures when immunosuppressed, skin care, nutrition, fluid balance, psychosocial support, confidentiality.",
+     "zh": "護理：呼吸支持、標準防護、免疫低下時保護措施、皮膚護理、營養、體液平衡、心理社會支持、保密。"
+    },
+    {
+     "en": "Kaposi's sarcoma: raised purplish/red-brown lesions on skin and organs; radiation, chemotherapy, antivirals, keep lesions clean; use gown and gloves for bathing/linen if draining.",
+     "zh": "卡波西氏肉瘤：皮膚與內臟紫紅/紅褐色隆起病灶；放射、化療、抗病毒藥、保持病灶清潔；有滲液時沐浴/換床單穿隔離衣與戴手套。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Posttransplantation immunodeficiency",
+    "zh": "移植後免疫不全"
+   },
+   "pdf_pages": [
+    1024,
+    1025
+   ],
+   "points": [
+    {
+     "en": "Lifelong immunosuppressants prevent organ rejection but create secondary immunodeficiency.",
+     "zh": "終生免疫抑制劑可預防器官排斥，但造成續發性免疫不全。"
+    },
+    {
+     "en": "Monitor renal and hepatic function, CBC with differential, body secretions for blood; assess for opportunistic infection and rejection.",
+     "zh": "監測腎肝功能、CBC與分類、體液是否有血；評估伺機性感染與排斥。"
+    },
+    {
+     "en": "High-risk: history of malignancy, recent TB, herpes zoster or varicella exposure.",
+     "zh": "高風險：惡性腫瘤病史、近期結核、帶狀疱疹或水痘暴露。"
+    },
+    {
+     "en": "Use strict asepsis, protective isolation as needed, and teach infection and rejection signs plus medication adherence.",
+     "zh": "嚴格無菌技術、必要時保護性隔離，並教導感染與排斥徵象及規則服藥。"
+    }
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Anaphylaxis: airway first, stay with client, stop the causative infusion, call rapid response, IV NS, oxygen, epinephrine, diphenhydramine; HOB up if BP normal.",
+   "zh": "過敏性休克：先顧呼吸道、不離開病人、停止致敏輸注、呼叫快速反應、靜脈生理食鹽水、給氧、epinephrine、diphenhydramine；血壓正常時抬高床頭。",
+   "pdf_pages": [
+    1018
+   ]
+  },
+  {
+   "en": "Skin testing: observe 30 min with anaphylaxis equipment; hold steroids/antihistamines 5 days prior; measure (not estimate) wheal.",
+   "zh": "皮膚試驗：觀察30分鐘並備急救設備；前5天停類固醇/抗組織胺；測量（非估計）風團。",
+   "pdf_pages": [
+    1017
+   ]
+  },
+  {
+   "en": "Latex allergy: nonlatex gloves, latex-safe cart, avoid rubber-stoppered vials; cross-reaction with banana, kiwi, avocado, chestnut.",
+   "zh": "乳膠過敏：無乳膠手套、乳膠安全車、避免橡膠瓶塞藥瓶；與香蕉、奇異果、酪梨、栗子交叉反應。",
+   "pdf_pages": [
+    1018,
+    1019
+   ]
+  },
+  {
+   "en": "Immunodeficiency priority: protect from infection (strict asepsis).",
+   "zh": "免疫不全首要：預防感染（嚴格無菌技術）。",
+   "pdf_pages": [
+    1019
+   ]
+  },
+  {
+   "en": "SLE: butterfly rash, photosensitivity, positive ANA and anti-dsDNA; monitor for lupus nephritis (BUN, creatinine, proteinuria).",
+   "zh": "SLE：蝶形紅斑、光敏感、ANA與anti-dsDNA陽性；監測狼瘡腎炎（BUN、肌酸酐、蛋白尿）。",
+   "pdf_pages": [
+    1020
+   ]
+  },
+  {
+   "en": "SLE fatigue teaching: avoid hot baths and long inactivity, schedule exercise when not fatigued, conserve energy, avoid sun.",
+   "zh": "SLE疲倦衛教：避免熱水澡與久不活動、不疲倦時運動、節省體力、避免日曬。",
+   "pdf_pages": [
+    1020,
+    1026
+   ]
+  },
+  {
+   "en": "Scleroderma: sit upright 1-2 h after meals, avoid fingersticks and cold, constant room temperature, corticosteroids.",
+   "zh": "硬皮症：餐後直坐1-2小時、避免指尖採血與寒冷、室溫恆定、類固醇。",
+   "pdf_pages": [
+    1021
+   ]
+  },
+  {
+   "en": "Pemphigus: flaccid blisters, positive Nikolsky's sign; risk of infection; corticosteroids.",
+   "zh": "天疱瘡：鬆弛性水泡、Nikolsky氏徵象陽性；感染風險；類固醇。",
+   "pdf_pages": [
+    1021
+   ]
+  },
+  {
+   "en": "Goodpasture's: lung plus kidney involvement (hemoptysis, hematuria); plasmapheresis; stop smoking.",
+   "zh": "Goodpasture氏：肺與腎受累（咳血、血尿）；血漿置換；戒菸。",
+   "pdf_pages": [
+    1021,
+    1022
+   ]
+  },
+  {
+   "en": "Lyme disease: remove tick with tweezers, do not burn; test 4-6 weeks after bite; treat with doxycycline/cefuroxime/amoxicillin early.",
+   "zh": "萊姆病：以鑷子拔蜱、勿燒灼；叮咬後4-6週檢驗；及早以doxycycline/cefuroxime/amoxicillin治療。",
+   "pdf_pages": [
+    1022
+   ]
+  },
+  {
+   "en": "CD4 normal 500-1600 cells/uL; <200 = AIDS criterion; viral load assesses treatment effectiveness.",
+   "zh": "CD4正常500-1600 cells/µL；<200＝AIDS標準；病毒量評估治療效果。",
+   "pdf_pages": [
+    1016,
+    1024
+   ]
+  },
+  {
+   "en": "PCP (Pneumocystis jiroveci pneumonia) is a major cause of death in AIDS; Kaposi's sarcoma = purplish skin lesions, confirmed by punch biopsy.",
+   "zh": "肺囊蟲肺炎為AIDS主要死因之一；卡波西氏肉瘤＝紫紅皮膚病灶、以穿刺切片確診。",
+   "pdf_pages": [
+    1023,
+    1028
+   ]
+  },
+  {
+   "en": "HIV confidentiality: positive tests need confirmation and state reporting per protocol.",
+   "zh": "HIV保密：陽性結果需確認並依規定通報。",
+   "pdf_pages": [
+    1016,
+    1017
+   ]
+  },
+  {
+   "en": "Posttransplant: lifelong immunosuppression, strict asepsis, teach rejection and infection signs.",
+   "zh": "移植後：終生免疫抑制、嚴格無菌、教導排斥與感染徵象。",
+   "pdf_pages": [
+    1024,
+    1025
+   ]
+  },
+  {
+   "en": "Draining Kaposi's lesions: gown and gloves for contact with drainage.",
+   "zh": "卡波西氏病灶有滲液：接觸滲液時穿隔離衣並戴手套。",
+   "pdf_pages": [
+    1025,
+    1027
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Type I hypersensitivity = IgE on mast cells, immediate histamine release; type IV = delayed T-cell (6-48 h), e.g., latex contact dermatitis.",
+   "zh": "第一型過敏＝肥大細胞上IgE、立即釋放組織胺；第四型＝延遲T細胞反應（6-48小時），如乳膠接觸性皮膚炎。",
+   "pdf_pages": [
+    1019
+   ]
+  },
+  {
+   "en": "CD4 ladder: >500 healthy, 200-499 problems, <200 AIDS.",
+   "zh": "CD4階梯：>500健康、200-499出現問題、<200為AIDS。",
+   "pdf_pages": [
+    1016
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 1016,
+   "caption": {
+    "en": "Fig. 63.1 components of the immune system (cell-mediated vs humoral, immunoglobulin classes) and HIV test details.",
+    "zh": "圖63.1 免疫系統組成（細胞性與體液性、免疫球蛋白類別）與HIV檢測。"
+   }
+  },
+  {
+   "pdf_page": 1017,
+   "caption": {
+    "en": "Fig. 63.2 interpretation of intradermal skin test wheal sizes (1+ to 4+).",
+    "zh": "圖63.2 皮內試驗風團大小判讀（1+至4+）。"
+   }
+  },
+  {
+   "pdf_page": 1018,
+   "caption": {
+    "en": "Fig. 63.3 manifestations of systemic anaphylaxis and Box 63.1 products containing latex.",
+    "zh": "圖63.3 全身性過敏性休克表現與表63.1含乳膠產品。"
+   }
+  },
+  {
+   "pdf_page": 1019,
+   "caption": {
+    "en": "Fig. 63.4 steps in type I allergic reaction and Box 63.2 latex allergy interventions.",
+    "zh": "圖63.4 第一型過敏反應步驟與表63.2乳膠過敏處置。"
+   }
+  },
+  {
+   "pdf_page": 1022,
+   "caption": {
+    "en": "Box 63.3 stages of Lyme disease, erythema migrans, and tick prevention plan.",
+    "zh": "表63.3 萊姆病分期、移行性紅斑與蜱蟲預防計畫。"
+   }
+  },
+  {
+   "pdf_page": 1023,
+   "caption": {
+    "en": "Fig. 63.6 HIV life cycle with drug intervention sites.",
+    "zh": "圖63.6 HIV生活史及藥物作用位置。"
+   }
+  },
+  {
+   "pdf_page": 1024,
+   "caption": {
+    "en": "Box 63.4 HIV progression tests and Box 63.5 AIDS diagnostic criteria.",
+    "zh": "表63.4 HIV進程檢驗與表63.5 AIDS診斷標準。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client develops anaphylaxis during an IV antibiotic infusion. Which actions should the nurse take? Select all that apply.",
+    "zh": "病人於靜脈抗生素輸注時發生過敏性休克。護理師應採取哪些行動？（多選）"
+   },
+   "options": [
+    {
+     "en": "Stop the infusion",
+     "zh": "停止輸注"
+    },
+    {
+     "en": "Assess airway and breathing",
+     "zh": "評估呼吸道與呼吸"
+    },
+    {
+     "en": "Stay with the client and call for help",
+     "zh": "陪伴病人並呼救"
+    },
+    {
+     "en": "Continue the infusion more slowly",
+     "zh": "減慢速度繼續輸注"
+    },
+    {
+     "en": "Give oxygen and prepare epinephrine",
+     "zh": "給氧並準備epinephrine"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Stop the causative agent, support the airway and give epinephrine; never continue the drug.",
+    "zh": "停止致敏藥物、維持呼吸道並給予epinephrine；絕不繼續輸注。"
+   },
+   "pdf_pages": [
+    1018
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which client statement indicates a need for further teaching about managing SLE fatigue?",
+    "zh": "下列哪一項病人敘述顯示對SLE疲倦處理需再衛教？"
+   },
+   "options": [
+    {
+     "en": "I will take hot baths to relax",
+     "zh": "我會泡熱水澡放鬆"
+    },
+    {
+     "en": "I will sit whenever I can",
+     "zh": "我能坐就坐"
+    },
+    {
+     "en": "I will exercise when I am not fatigued",
+     "zh": "不累時我會運動"
+    },
+    {
+     "en": "I will avoid long periods of rest",
+     "zh": "我會避免長時間休息"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Hot baths worsen fatigue; avoid heat and sun exposure.",
+    "zh": "熱水澡會加重疲倦；避免熱與日曬。"
+   },
+   "pdf_pages": [
+    1020,
+    1026
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client is at highest risk for latex allergy. Which person?",
+    "zh": "下列何者乳膠過敏風險最高？"
+   },
+   "options": [
+    {
+     "en": "Hairdresser who wears gloves daily",
+     "zh": "每日戴手套的美髮師"
+    },
+    {
+     "en": "Child in day care",
+     "zh": "托兒所兒童"
+    },
+    {
+     "en": "Homeless adult",
+     "zh": "遊民"
+    },
+    {
+     "en": "Group home resident",
+     "zh": "團體之家住民"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Frequent glove use is a risk factor (as are health care work, spina bifida, multiple surgeries).",
+    "zh": "頻繁戴手套為危險因子（另有醫療工作、脊柱裂、多次手術）。"
+   },
+   "pdf_pages": [
+    1018
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with latex allergy asks about food. The nurse asks about allergy to which food?",
+    "zh": "乳膠過敏病人詢問食物問題。護理師應詢問對何種食物過敏？"
+   },
+   "options": [
+    {
+     "en": "Eggs",
+     "zh": "蛋"
+    },
+    {
+     "en": "Milk",
+     "zh": "牛奶"
+    },
+    {
+     "en": "Bananas",
+     "zh": "香蕉"
+    },
+    {
+     "en": "Yogurt",
+     "zh": "優格"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Cross-reactivity with banana, kiwi, avocado, chestnut and tropical fruits.",
+    "zh": "與香蕉、奇異果、酪梨、栗子及熱帶水果有交叉反應。"
+   },
+   "pdf_pages": [
+    1018
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client was bitten by a tick, removed and flushed it. Which advice is appropriate? Select all that apply.",
+    "zh": "病人被蜱叮咬，已拔除並沖入馬桶。何種建議適當？（多選）"
+   },
+   "options": [
+    {
+     "en": "Blood testing is reliable 4-6 weeks after the bite",
+     "zh": "叮咬後4-6週血液檢驗較可靠"
+    },
+    {
+     "en": "Never remove ticks in future",
+     "zh": "以後絕不可拔除蜱"
+    },
+    {
+     "en": "Begin prescribed antibiotics promptly",
+     "zh": "儘速開始處方抗生素"
+    },
+    {
+     "en": "Avoid wooded, grassy tick habitats",
+     "zh": "避免林木草叢蜱蟲棲地"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Ticks should be removed with tweezers; early antibiotics prevent later stages.",
+    "zh": "蜱應以鑷子拔除；早期抗生素可預防後期。"
+   },
+   "pdf_pages": [
+    1022,
+    1027
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with scleroderma and esophageal involvement should be taught to:",
+    "zh": "有食道受累的硬皮症病人應被教導："
+   },
+   "options": [
+    {
+     "en": "Lie flat after meals",
+     "zh": "餐後平躺"
+    },
+    {
+     "en": "Sit upright for 1-2 hours after meals",
+     "zh": "餐後直坐1-2小時"
+    },
+    {
+     "en": "Eat three large meals",
+     "zh": "一日三大餐"
+    },
+    {
+     "en": "Use finger sticks frequently",
+     "zh": "常做指尖採血"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Upright positioning and small frequent meals reduce reflux; avoid fingersticks due to poor healing.",
+    "zh": "直坐與少量多餐可減少逆流；因癒合不良避免指尖採血。"
+   },
+   "pdf_pages": [
+    1021
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which CD4+ count is an AIDS-defining threshold?",
+    "zh": "下列何種CD4+計數為AIDS標準？"
+   },
+   "options": [
+    {
+     "en": "Above 500 cells/uL",
+     "zh": "高於500 cells/µL"
+    },
+    {
+     "en": "Between 500 and 1600",
+     "zh": "500至1600之間"
+    },
+    {
+     "en": "Below 200 cells/uL",
+     "zh": "低於200 cells/µL"
+    },
+    {
+     "en": "About 800",
+     "zh": "約800"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "CD4 below 200 indicates severe immune compromise and meets AIDS criteria.",
+    "zh": "CD4低於200表示嚴重免疫低下，符合AIDS標準。"
+   },
+   "pdf_pages": [
+    1016,
+    1024
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "What is the priority nursing intervention for a client with immunodeficiency?",
+    "zh": "免疫不全病人的首要護理措施為何？"
+   },
+   "options": [
+    {
+     "en": "Protect from infection",
+     "zh": "預防感染"
+    },
+    {
+     "en": "Discuss lifestyle changes",
+     "zh": "討論生活型態改變"
+    },
+    {
+     "en": "Identify factors lowering immunity",
+     "zh": "辨識降低免疫的因素"
+    },
+    {
+     "en": "Provide emotional support",
+     "zh": "給予情緒支持"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Physiological safety first: infection is the priority concern.",
+    "zh": "生理安全優先：感染為首要顧慮。"
+   },
+   "pdf_pages": [
+    1019,
+    1027
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Nursing.com - 10 NCLEX Questions for HIV",
+   "url": "https://blog.nursing.com/10-nclex-questions-for-hiv",
+   "note": {
+    "en": "Free HIV NCLEX-style questions with rationales.",
+    "zh": "免費HIV NCLEX風格題目附解析。"
+   }
+  },
+  {
+   "title": "Nursing.com - 5 SLE NCLEX Style Questions",
+   "url": "https://academy.nursing.com/?p=15841",
+   "note": {
+    "en": "Free lupus practice questions.",
+    "zh": "免費紅斑性狼瘡練習題。"
+   }
+  },
+  {
+   "title": "GetOnCourse - Immune & Rheumatologic Disorders Review",
+   "url": "https://getoncourse.ai/notes/nclex-rn/medical-surgical-nursing/immune-rheumatologic-disorders/",
+   "note": {
+    "en": "Review notes covering HIV/AIDS, SLE and immunodeficiency.",
+    "zh": "涵蓋HIV/AIDS、SLE與免疫不全的複習筆記。"
+   }
+  },
+  {
+   "title": "Practice Questions Exam 3 Immune (college PDF)",
+   "url": "https://clasi.edvance360.com/upload/covhs/media/dropbox/135969-PracticeQuestionsExam3Immune.pdf",
+   "note": {
+    "en": "Downloadable immune practice questions with answer key.",
+    "zh": "可下載之免疫練習題與解答。"
+   }
+  }
+ ]
+}

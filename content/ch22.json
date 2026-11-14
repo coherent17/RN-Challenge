@@ -1,0 +1,123 @@
+{
+"number":22,
+"title":{"en":"Prenatal Period","zh":"產前期"},
+"overview":{"en":"This chapter covers dating the pregnancy (Naegele's rule, GTPAL), signs of pregnancy, fundal height, physiological and psychological changes, common discomforts and their remedies, risk factors, and antepartum tests such as Rh screening, GCT, ultrasound, amniocentesis, NST and CST, plus prenatal nutrition.","zh":"本章涵蓋妊娠日期推算（Naegele 法則、GTPAL）、懷孕徵象、子宮底高度、生理與心理變化、常見不適與緩解方式、風險因子、產前檢查（Rh 篩檢、GCT、超音波、羊膜穿刺、NST、CST），以及孕期營養。"},
+"sections":[
+{"heading":{"en":"Gestation, Naegele's Rule, Gravidity and Parity (GTPAL)","zh":"妊娠、Naegele 法則、懷孕與生產史（GTPAL）"},"points":[
+{"en":"Gestation lasts about 280 days.","zh":"妊娠期約 280 天。"},
+{"en":"Naegele's rule (regular 28-day cycle): first day of LMP minus 3 months plus 7 days (plus 1 year if needed). LMP Oct 19, 2023 gives July 26, 2024.","zh":"Naegele 法則（月經週期規則 28 天）：末次月經第一天減 3 個月加 7 天（必要時加 1 年）。LMP 2023/10/19 → 2024/7/26。"},
+{"en":"Gravidity counts all pregnancies including the current one; parity counts births after 20 weeks, not fetuses.","zh":"Gravidity 為包含本次的懷孕次數；parity 為 20 週後的生產次數，不論胎數。"},
+{"en":"GTPAL: Gravida, Term (over 37 wk), Preterm, Abortions (before 20 wk), Living children. Twins count once for G, T or P but twice for L.","zh":"GTPAL：懷孕次數、足月產（超過 37 週）、早產、流產（20 週前）、現存子女數。雙胞胎在 G、T、P 算 1，在 L 算 2。"}],
+"pdf_pages":[322,323]},
+{"heading":{"en":"Signs of Pregnancy","zh":"懷孕徵象"},"points":[
+{"en":"Presumptive: amenorrhea, nausea/vomiting, breast changes, urinary frequency, quickening (16-20 wk), fatigue, linea nigra, melasma.","zh":"推定徵象：停經、噁心嘔吐、乳房變化、頻尿、胎動感（16-20 週）、疲倦、黑線、黃褐斑。"},
+{"en":"Probable: uterine enlargement, Hegar's, Goodell's and Chadwick's signs, ballottement, Braxton Hicks contractions, positive hCG test.","zh":"可能徵象：子宮變大、Hegar、Goodell、Chadwick 徵象、浮球感、Braxton Hicks 收縮、hCG 陽性。"},
+{"en":"Positive (diagnostic): FHR by Doppler at 10-12 wk or fetoscope at 20 wk, palpable active fetal movement, fetal outline on ultrasound or radiograph.","zh":"確定徵象：10-12 週都卜勒或 20 週胎心聽診器聽到胎心、檢查者觸及胎動、超音波或 X 光見胎兒輪廓。"}],
+"pdf_pages":[322,323]},
+{"heading":{"en":"Fundal Height and Physiological Changes","zh":"子宮底高度與生理變化"},"points":[
+{"en":"Weeks 18-30: fundal height in cm approximately equals weeks of gestation, plus or minus 2 cm. 16 wk halfway between symphysis and umbilicus; 20-22 wk at umbilicus; 36 wk at xiphoid. Have client void first.","zh":"18-30 週：子宮底高度（公分）約等於週數 ±2。16 週在恥骨聯合與肚臍中間；20-22 週在肚臍；36 週在劍突。測量前先排尿。"},
+{"en":"Cardiovascular: blood volume up 40-50%, physiological anemia, higher iron need, pulse up 10-15 bpm, BP dips in second trimester.","zh":"心血管：血容積增加 40-50%、生理性貧血、鐵需求增加、脈搏增加 10-15 次/分、第二孕期血壓略降。"},
+{"en":"Respiratory: oxygen consumption up 15-20%, diaphragm elevated, dyspnea possible.","zh":"呼吸：耗氧量增加 15-20%、橫膈上升、可能呼吸困難。"},
+{"en":"GI: nausea from hCG, constipation, heartburn from progesterone slowing motility, hemorrhoids, gum swelling and ptyalism from estrogen.","zh":"消化：hCG 造成噁心；黃體素使蠕動變慢造成便秘、火燒心；痔瘡；雌激素造成牙齦腫脹與流涎。"},
+{"en":"Renal: urinary frequency in 1st and 3rd trimesters; reduced renal glucose threshold so glycosuria may appear.","zh":"腎臟：第一與第三孕期頻尿；腎糖閾下降故可能出現糖尿。"},
+{"en":"Endocrine: higher BMR, prolactin and oxytocin, more insulin production. Uterus grows from about 60 g to 1000 g.","zh":"內分泌：基礎代謝率上升、泌乳素與催產素、胰島素分泌增加。子宮由約 60 公克增至 1000 公克。"},
+{"en":"Cervix softens (Chadwick sign, violet) and forms a mucous plug; breasts enlarge, colostrum may leak; skin shows linea nigra, chloasma, striae.","zh":"子宮頸變軟（Chadwick 徵象、紫藍色）並形成黏液栓；乳房變大、可能漏初乳；皮膚出現黑線、黃褐斑、妊娠紋。"},
+{"en":"Musculoskeletal: relaxin and progesterone loosen joints, lordosis, waddling gait, fall risk; eyes may have corneal edema.","zh":"肌肉骨骼：relaxin 與黃體素使關節鬆弛、腰椎前凸、鴨步、易跌倒；眼睛可能角膜水腫。"}],
+"pdf_pages":[323,324,325]},
+{"heading":{"en":"Psychological Changes","zh":"心理變化"},"points":[
+{"en":"Early ambivalence is normal even in planned pregnancy; partner may be ambivalent too.","zh":"即使是計畫中的懷孕，早期矛盾感也屬正常；伴侶亦可能如此。"},
+{"en":"Tasks: accept pregnancy, identify with parent role, solidify partner relationship, bond with the fetus, prepare for birth.","zh":"任務：接受懷孕、認同父母角色、鞏固伴侶關係、與胎兒建立連結、為生產做準備。"},
+{"en":"Emotional lability and body image changes are common; bonding progresses from accepting pregnancy, to accepting the fetus as separate, to preparing for birth.","zh":"情緒不穩與身體形象改變很常見；連結歷程為接受懷孕、接受胎兒為獨立個體、實際準備生產。"}],
+"pdf_pages":[325,326]},
+{"heading":{"en":"Discomforts of Pregnancy and Interventions","zh":"孕期不適與處置"},"points":[
+{"en":"Nausea: dry crackers before rising, small frequent low-fat meals, fluids between meals, avoid fried/spicy food, protein bedtime snack.","zh":"噁心：起床前吃蘇打餅乾、少量多餐低脂、兩餐間喝水、避免油炸辛辣、睡前吃蛋白質點心。"},
+{"en":"Supine hypotension: avoid lying flat in 2nd/3rd trimester (uterus compresses inferior vena cava); side-lying, change positions slowly.","zh":"仰臥低血壓：第二、三孕期避免平躺（子宮壓迫下腔靜脈）；採側臥並緩慢變換姿勢。"},
+{"en":"Urinary frequency: at least 2000 mL fluid by day, limit evening fluids and diuretic foods, Kegels.","zh":"頻尿：白天至少飲水 2000 mL，傍晚減少並避免利尿食物，做凱格爾運動。"},
+{"en":"Heartburn: small meals, upright 30 min after eating, avoid fatty/spicy food; ask provider about antacids.","zh":"火燒心：少量多餐、飯後坐直 30 分鐘、避免油膩辛辣；詢問醫師可否用制酸劑。"},
+{"en":"Ankle edema and varicose veins: elevate legs, side-lying, support hose, avoid prolonged standing or crossing legs.","zh":"腳踝水腫與靜脈曲張：抬高腿、側臥、穿彈性襪、避免久站久坐或蹺腳。"},
+{"en":"Constipation and hemorrhoids: high fiber, 2000 mL fluids, walking, sitz bath; consult provider for stool softeners.","zh":"便秘與痔瘡：高纖、2000 mL 水分、散步、溫水坐浴；用軟便劑前諮詢醫師。"},
+{"en":"Backache: pelvic tilt, good posture, squat to lift, low-heeled shoes. Leg cramps: dorsiflex the foot, increase calcium, walk.","zh":"背痛：骨盆傾斜運動、良好姿勢、蹲下拿物、穿低跟鞋。腿抽筋：足背屈、增加鈣質、散步。"},
+{"en":"Increased thin vaginal discharge (leukorrhea) is normal; use cotton underwear, no douching or tampons. Nasal stuffiness: humidifier, avoid decongestant sprays unless approved.","zh":"陰道分泌物增加（白帶）正常；穿棉質內褲，不灌洗、不用衛生棉條。鼻塞：用加濕器，未經許可避免鼻噴劑。"},
+{"en":"Headaches are usually benign in first trimester but need evaluation later; acetaminophen only if prescribed.","zh":"頭痛在第一孕期多屬良性，後期需進一步評估；僅在處方下使用乙醯胺酚。"}],
+"pdf_pages":[326,327,328]},
+{"heading":{"en":"Pregnancy Risk Factors","zh":"妊娠風險因子"},"points":[
+{"en":"Age under 20 or over 35 raises perinatal risk; adolescent risks include poor nutrition, hypertension, anemia, CPD, preterm and low-birth-weight infants, and lack of support.","zh":"年齡小於 20 或大於 35 歲增加風險；青少年懷孕風險包括營養不良、高血壓、貧血、頭骨盆不對稱、早產與低出生體重、缺乏支持。"},
+{"en":"Folic acid for all people of childbearing age prevents neural tube defects and orofacial clefts.","zh":"所有育齡者應補充葉酸，預防神經管缺陷與唇顎裂。"},
+{"en":"Rubella in the first 8 weeks has highest fetal infection and anomaly rate.","zh":"前 8 週感染德國麻疹胎兒感染與畸形率最高。"},
+{"en":"Abuse raises risk of abruptio placentae and preterm birth; interview the client alone and examine breasts, abdomen, genitals.","zh":"暴力增加胎盤早期剝離與早產風險；應單獨訪談個案，並檢查乳房、腹部與生殖器。"},
+{"en":"HIV: perinatal zidovudine lowers transmission. Substance use: growth restriction, abruptio, fetal bradycardia; smoking causes low birth weight and stillbirth; alcohol causes fetal alcohol syndrome.","zh":"HIV：周產期給予 zidovudine 可降低傳染。物質濫用：胎兒生長受限、胎盤早剝、胎心過慢；吸菸造成低出生體重與死產；酒精造成胎兒酒精症候群。"}],
+"pdf_pages":[328,329]},
+{"heading":{"en":"Antepartum Laboratory Tests","zh":"產前實驗室檢查"},"points":[
+{"en":"Visit schedule: every 4 weeks to 28-32 wk, every 2 weeks 32-36 wk, weekly 36-40 wk.","zh":"產檢頻率：28-32 週前每 4 週、32-36 週每 2 週、36-40 週每週。"},
+{"en":"Rh-negative with negative antibody screen: RhoGAM at 28 weeks and within 72 hr after birth of an Rh-positive infant; also after miscarriage/termination and CVS.","zh":"Rh 陰性且抗體篩檢陰性：28 週給 RhoGAM，Rh 陽性新生兒出生後 72 小時內再給；流產、人工流產及 CVS 後亦給。"},
+{"en":"Rubella titer under 1:8: give live vaccine subcutaneously postpartum; avoid pregnancy 1-3 months and contact with immunocompromised people; ask about egg allergy; never give during pregnancy.","zh":"德國麻疹抗體價低於 1:8：產後皮下注射活性疫苗；1-3 個月內避免懷孕並避免接觸免疫低下者；詢問蛋過敏；孕期不可施打。"},
+{"en":"Anemia in pregnancy: Hgb under 10 g/dL or Hct under 30%. WBC mildly elevated is normal.","zh":"孕期貧血：Hgb 低於 10 g/dL 或 Hct 低於 30%。白血球輕度上升屬正常。"},
+{"en":"GCT at 24-28 weeks: 50 g glucose, 1-hour level over 140 mg/dL is positive and needs the 3-hour test.","zh":"GCT 於 24-28 週：口服 50 g 葡萄糖，1 小時血糖超過 140 mg/dL 為陽性，需做 3 小時試驗。"},
+{"en":"Urine at each visit for glucose and protein; 2+ to 4+ protein suggests infection or preeclampsia.","zh":"每次產檢驗尿糖與尿蛋白；蛋白 2+ 至 4+ 提示感染或子癇前症。"},
+{"en":"Hepatitis B antigen testing for all; hepatitis B vaccine is not contraindicated in pregnancy. TB: positive skin test needs chest X-ray with shield only after 20 weeks.","zh":"所有孕婦篩檢 B 肝表面抗原；B 肝疫苗孕期不禁忌。結核菌素陽性者需於 20 週後以鉛屏護腹拍胸部 X 光。"},
+{"en":"GBS vaginal/rectal swab at about 36 weeks (20-25% colonized).","zh":"約 36 週採陰道/直腸 GBS 培養（20-25% 帶菌）。"}],
+"pdf_pages":[329,330,332]},
+{"heading":{"en":"Antepartum Fetal Assessment and Procedures","zh":"產前胎兒評估與侵入性檢查"},"points":[
+{"en":"Ultrasound: no known risk; abdominal scan needs a full bladder; transvaginal in first trimester checks cervix length.","zh":"超音波：無已知風險；腹部超音波需憋尿；第一孕期經陰道超音波可測子宮頸長度。"},
+{"en":"Biophysical profile: breathing, movement, tone, amniotic fluid index, NST. Doppler studies placental and fetal blood flow.","zh":"生物物理評估：呼吸、動作、張力、羊水指數、NST。都卜勒評估胎盤與胎兒血流。"},
+{"en":"Quad screen (AFP at 16-18 wk) screens for Down syndrome and neural tube defects; cell-free DNA blood test from 7 weeks screens trisomy 21, 18, 13.","zh":"四指標篩檢（16-18 週 AFP）篩檢唐氏症與神經管缺陷；7 週起可做游離 DNA 抽血篩檢 21、18、13 三染色體。"},
+{"en":"CVS at 10-13 wk (genetic diagnosis, give RhoGAM if Rh-negative, rest 24 hr). Amniocentesis at 15-20 wk (full bladder before 20 wk, empty after; consent; FHR monitoring; left side after).","zh":"CVS 於 10-13 週（基因診斷，Rh 陰性給 RhoGAM，休息 24 小時）。羊膜穿刺於 15-20 週（20 週前憋尿、之後排空；需同意書；監測胎心；術後左側臥）。"},
+{"en":"After CVS or amniocentesis report fever over 100.4 F (38 C), chills, bleeding, fluid leak, decreased fetal movement, contractions or cramping.","zh":"CVS 或羊膜穿刺後，若發燒超過 38 度（100.4 F）、寒顫、出血、漏液、胎動減少、宮縮或痙攣應通報。"},
+{"en":"Kick counts from 28 weeks: sitting or side-lying, at least 10 movements in 2 hours.","zh":"28 週起數胎動：坐或側臥，2 小時至少 10 次。"},
+{"en":"Ruptured membranes: fern test shows ferning; nitrazine paper turns blue (pH 7.0-7.5) versus vaginal pH 4.5-5.5. Fetal fibronectin at 22-34 wk predicts preterm labor (negative is reassuring).","zh":"胎膜破裂：羊齒葉試驗呈羊齒狀；硝氮試紙變藍（pH 7.0-7.5，陰道 pH 4.5-5.5）。22-34 週胎兒纖維連接蛋白預測早產（陰性較安心）。"}],
+"pdf_pages":[330,331,332]},
+{"heading":{"en":"NST, CST and Prenatal Nutrition","zh":"NST、CST 與孕期營養"},"points":[
+{"en":"Reactive NST (normal): 2 or more accelerations of at least 15 bpm lasting at least 15 sec within 20 min with movement. Nonreactive: none in 40 min.","zh":"反應型 NST（正常）：20 分鐘內有 2 次以上、至少上升 15 bpm 且持續 15 秒以上的加速。無反應型：40 分鐘內無。"},
+{"en":"Position side-lying for NST/CST to avoid vena cava compression.","zh":"NST/CST 採側臥避免壓迫下腔靜脈。"},
+{"en":"CST: negative (normal) = no late decelerations; positive (abnormal) = late decelerations with 50% or more of contractions; 3 contractions of 40 sec in 10 min required.","zh":"CST：陰性（正常）＝無晚期減速；陽性（異常）＝50% 以上宮縮出現晚期減速；需 10 分鐘內 3 次、每次 40 秒以上宮縮。"},
+{"en":"Weight gain 25-35 lb (11-16 kg) for normal prepregnancy weight; +300 kcal/day in pregnancy, +500 during lactation; fluids 8-10 glasses; sodium not restricted.","zh":"體重增加：孕前體重正常者 11-16 公斤（25-35 磅）；孕期每日加 300 大卡、哺乳加 500 大卡；水分 8-10 杯；不限鈉。"},
+{"en":"Vegetarian risks: B12, iron, zinc, calcium, vitamin D, omega-3; pair iron with vitamin C. Lactose intolerance: nondairy calcium, lactase.","zh":"素食風險：B12、鐵、鋅、鈣、維生素 D、omega-3；鐵搭配維生素 C。乳糖不耐：非乳製鈣來源、乳糖酶。"},
+{"en":"Pica (eating dirt, clay, starch) can cause iron-deficiency anemia.","zh":"異食癖（吃泥土、黏土、澱粉）可造成缺鐵性貧血。"}],
+"pdf_pages":[332,333]}
+],
+"critical_points":[
+{"en":"Naegele's rule: LMP minus 3 months plus 7 days (plus 1 year).","zh":"Naegele 法則：末次月經減 3 個月加 7 天（再加 1 年）。","pdf_pages":[322,323,336]},
+{"en":"GTPAL: abortions before 20 wk count in gravida but not parity; twins count as one birth but two living children.","zh":"GTPAL：20 週前流產算入 G 不算 P；雙胞胎算一次生產、兩個現存子女。","pdf_pages":[322,323,336]},
+{"en":"Fundal height (cm) equals weeks plus or minus 2 between 18-30 weeks; 36 weeks at xiphoid.","zh":"18-30 週子宮底高度（公分）≈週數 ±2；36 週在劍突。","pdf_pages":[323,336]},
+{"en":"Positive (diagnostic) signs: fetal heart tones, fetal movement felt by examiner, ultrasound outline. Others are presumptive or probable.","zh":"確定徵象：胎心音、檢查者觸及胎動、超音波輪廓；其餘為推定或可能徵象。","pdf_pages":[322,323,336]},
+{"en":"Avoid supine position after 20 weeks (supine hypotension from IVC compression).","zh":"20 週後避免仰臥（壓迫下腔靜脈造成仰臥低血壓）。","pdf_pages":[323,326]},
+{"en":"RhoGAM at 28 weeks and within 72 hours of delivery of an Rh-positive baby for Rh-negative clients.","zh":"Rh 陰性者 28 週與生下 Rh 陽性寶寶後 72 小時內施打 RhoGAM。","pdf_pages":[329]},
+{"en":"Rubella vaccine is live: never in pregnancy; postpartum, avoid pregnancy 1-3 months; compatible with breastfeeding.","zh":"德國麻疹疫苗為活性疫苗：孕期禁用；產後 1-3 個月避免懷孕；可哺乳。","pdf_pages":[329,335]},
+{"en":"Folic acid supplementation prevents neural tube defects.","zh":"補充葉酸預防神經管缺陷。","pdf_pages":[328,333]},
+{"en":"Hgb under 10 g/dL or Hct under 30% means anemia in pregnancy.","zh":"Hgb 低於 10 或 Hct 低於 30% 為孕期貧血。","pdf_pages":[329]},
+{"en":"GCT 24-28 weeks; 1-hr glucose over 140 mg/dL is positive.","zh":"GCT 於 24-28 週；1 小時血糖超過 140 mg/dL 為陽性。","pdf_pages":[330]},
+{"en":"Reactive NST is normal; negative CST is normal; positive CST (late decelerations) is abnormal.","zh":"NST 反應型為正常；CST 陰性為正常；CST 陽性（晚期減速）為異常。","pdf_pages":[332,333,335]},
+{"en":"Amniocentesis: consent, report fever, bleeding, leaking, reduced movement; Rh-negative needs RhoGAM.","zh":"羊膜穿刺：需同意書，通報發燒、出血、漏液、胎動減少；Rh 陰性需 RhoGAM。","pdf_pages":[331,334,335]},
+{"en":"Nitrazine turns blue (pH 7.0-7.5) for amniotic fluid; ferning confirms.","zh":"羊水使硝氮試紙變藍（pH 7.0-7.5）；羊齒狀結晶可確認。","pdf_pages":[331,332]},
+{"en":"Kick counts: 10 movements in 2 hours, sit or side-lying, not flat on back.","zh":"數胎動：2 小時 10 次，坐或側臥，不可平躺。","pdf_pages":[331,335]},
+{"en":"Braxton Hicks (irregular, painless) and leukorrhea are normal; no need for emergency visit.","zh":"Braxton Hicks（不規則無痛）與白帶屬正常，無需急診。","pdf_pages":[323,335,336]},
+{"en":"Screen for abuse privately; ask partner to leave the room.","zh":"私下篩檢家暴；請伴侶離開房間。","pdf_pages":[328]}
+],
+"mnemonics":[
+{"en":"GTPAL: Gravida, Term, Preterm, Abortion, Living.","zh":"GTPAL：懷孕、足月、早產、流產、存活。","pdf_pages":[323]},
+{"en":"Pregnancy signs: Presumptive = what she feels; Probable = what the examiner finds; Positive = the fetus itself.","zh":"懷孕徵象：推定＝孕婦自覺；可能＝檢查者發現；確定＝胎兒本身。","pdf_pages":[322,323]}
+],
+"figures":[
+{"pdf_page":323,"caption":{"en":"Box 22.1 Naegele's rule worked example, Box 22.2 GTPAL example and Box 22.3 fundal height technique.","zh":"框 22.1 Naegele 法則範例、框 22.2 GTPAL 範例、框 22.3 子宮底測量法。"}},
+{"pdf_page":324,"caption":{"en":"Figs. 22.1 and 22.2: fundal height by week and heart/lung position shifts in pregnancy.","zh":"圖 22.1、22.2：各週子宮底高度與孕期心肺位置變化。"}},
+{"pdf_page":332,"caption":{"en":"Box 22.4 Nonstress test: reactive vs nonreactive criteria.","zh":"框 22.4 無壓力試驗：反應型與無反應型標準。"}},
+{"pdf_page":333,"caption":{"en":"Box 22.5 Contraction stress test: negative, positive, equivocal.","zh":"框 22.5 宮縮壓力試驗：陰性、陽性、可疑。"}}
+],
+"questions":[
+{"stem":{"en":"A client's last menstrual period began October 19, 2023 (regular 28-day cycle). Using Naegele's rule, what is the EDD?","zh":"個案末次月經始於 2023 年 10 月 19 日（週期 28 天規則）。依 Naegele 法則預產期為何？"},"options":[{"en":"July 12, 2024","zh":"2024/7/12"},{"en":"July 26, 2024","zh":"2024/7/26"},{"en":"August 12, 2024","zh":"2024/8/12"},{"en":"August 26, 2024","zh":"2024/8/26"}],"answer":[1],"rationale":{"en":"Oct 19 minus 3 months = July 19; plus 7 days = July 26; plus 1 year = 2024.","zh":"10/19 減 3 個月為 7/19，加 7 天為 7/26，再加 1 年為 2024。"},"pdf_pages":[322,323,336],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A client is pregnant with twins, has one healthy 5-year-old born at 38 weeks, and no abortions. What is the GTPAL?","zh":"個案懷雙胞胎，有一名 38 週出生的 5 歲健康孩子，無流產。GTPAL 為何？"},"options":[{"en":"G3 T2 P0 A0 L1","zh":"G3 T2 P0 A0 L1"},{"en":"G2 T1 P0 A0 L1","zh":"G2 T1 P0 A0 L1"},{"en":"G1 T1 P1 A0 L1","zh":"G1 T1 P1 A0 L1"},{"en":"G2 T0 P0 A0 L1","zh":"G2 T0 P0 A0 L1"}],"answer":[1],"rationale":{"en":"The current pregnancy counts once in gravidity even with twins; one term birth; one living child.","zh":"本次懷孕即使雙胞胎仍只算 1 次；1 次足月產；1 名現存子女。"},"pdf_pages":[323,336],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which are PROBABLE signs of pregnancy? Select all that apply.","zh":"下列何者為懷孕的「可能徵象」？（複選）"},"options":[{"en":"Ballottement","zh":"浮球感"},{"en":"Chadwick's sign","zh":"Chadwick 徵象"},{"en":"Positive hCG urine test","zh":"尿 hCG 陽性"},{"en":"FHR heard by Doppler","zh":"都卜勒聽到胎心"},{"en":"Ultrasound outline of fetus","zh":"超音波見胎兒輪廓"}],"answer":[0,1,2],"rationale":{"en":"FHR detection and fetal outline are positive (diagnostic) signs.","zh":"胎心與胎兒輪廓為確定徵象。"},"pdf_pages":[322,323],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A client at 28 weeks has a fundal height of 30 cm. How should the nurse interpret this?","zh":"28 週個案子宮底高度 30 公分，護理師應如何解讀？"},"options":[{"en":"Large for gestational age","zh":"大於週數"},{"en":"Small for gestational age","zh":"小於週數"},{"en":"Normal for gestational age","zh":"符合週數"},{"en":"Cannot be interpreted","zh":"無法判讀"}],"answer":[2],"rationale":{"en":"Fundal height equals weeks plus or minus 2 cm between 18 and 30 weeks.","zh":"18-30 週子宮底高度約等於週數 ±2 公分。"},"pdf_pages":[323,336],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A postpartum client is rubella non-immune (titer under 1:8) and will receive the vaccine. Which teaching is appropriate? Select all that apply.","zh":"產後個案德國麻疹無免疫（抗體價低於 1:8）將接種疫苗。哪些衛教適當？（複選）"},"options":[{"en":"Avoid pregnancy for 1 to 3 months","zh":"1-3 個月避免懷孕"},{"en":"Must stop breastfeeding for 3 months","zh":"必須停止哺乳 3 個月"},{"en":"Given subcutaneously","zh":"皮下注射"},{"en":"Avoid contact with immunosuppressed people","zh":"避免接觸免疫低下者"},{"en":"Report egg allergy","zh":"告知蛋過敏"}],"answer":[0,2,3,4],"rationale":{"en":"Live attenuated vaccine; it is not passed in breast milk in a harmful way, so breastfeeding continues.","zh":"屬活性減毒疫苗；不需停止哺乳。"},"pdf_pages":[329,335],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which statement by a client learning kick counts indicates a need for more teaching?","zh":"學習數胎動的個案哪一句話顯示需再衛教？"},"options":[{"en":"I will record the number of kicks","zh":"我會記錄胎動次數"},{"en":"I need to lie flat on my back","zh":"我必須平躺"},{"en":"Fewer than 10 in 2 hours may mean the baby is sleeping","zh":"2 小時少於 10 次可能是寶寶在睡覺"},{"en":"I will place my hands on my abdomen and concentrate","zh":"我會把手放在腹部專心感受"}],"answer":[1],"rationale":{"en":"Lying flat risks supine hypotension; sit or lie on the side.","zh":"平躺有仰臥低血壓風險；應坐或側臥。"},"pdf_pages":[331,335],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A nonstress test is nonreactive. A contraction stress test follows and is negative. How is this documented?","zh":"NST 為無反應型，接著做 CST 結果為陰性。如何記錄？"},"options":[{"en":"Normal CST result","zh":"CST 正常"},{"en":"Abnormal CST","zh":"CST 異常"},{"en":"High risk of fetal demise","zh":"胎死腹中高風險"},{"en":"Cesarean needed","zh":"需剖腹產"}],"answer":[0],"rationale":{"en":"Negative CST means no late decelerations, a normal result.","zh":"CST 陰性代表無晚期減速，為正常。"},"pdf_pages":[333,335],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A first-trimester client reports thin, colorless vaginal drainage without odor or itching. What is the best response?","zh":"第一孕期個案表示有稀薄無色陰道分泌物，無異味無搔癢。最佳回應為何？"},"options":[{"en":"Come to the clinic immediately","zh":"立刻到診所"},{"en":"This is a normal occurrence; use panty liners, avoid tampons and douching","zh":"屬正常現象；可用護墊，避免棉條與灌洗"},{"en":"Go to the emergency department","zh":"到急診"},{"en":"Use tampons changed every 2 hours","zh":"用棉條每 2 小時更換"}],"answer":[1],"rationale":{"en":"Leukorrhea is expected; tampons raise infection risk.","zh":"白帶為預期變化；棉條增加感染風險。"},"pdf_pages":[326,327,335],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"An Rh-negative client with a negative antibody screen is at 28 weeks. What should the nurse anticipate?","zh":"Rh 陰性、抗體篩檢陰性的個案目前 28 週。護理師預期什麼？"},"options":[{"en":"Rho(D) immune globulin now and within 72 hours after delivery if the baby is Rh-positive","zh":"現在給 Rho(D) 免疫球蛋白，Rh 陽性寶寶出生後 72 小時內再給"},{"en":"No treatment until delivery","zh":"分娩前無需處理"},{"en":"Rubella vaccine","zh":"德國麻疹疫苗"},{"en":"Iron infusion","zh":"靜脈鐵劑"}],"answer":[0],"rationale":{"en":"Prevents maternal sensitization to Rh antigen.","zh":"預防母體對 Rh 抗原敏感化。"},"pdf_pages":[329],"source":{"type":"original","title":"Original practice question based on the chapter"}}
+],
+"resources":[
+{"title":"Maternity Nursing NCLEX Practice Quiz and Test Bank (Nurseslabs)","url":"https://nurseslabs.com/maternity-nursing-nclex-practice-questions/","note":{"en":"Free 500+ question maternity bank incl. antepartum.","zh":"免費 500 題以上產科題庫（含產前）。"}},
+{"title":"Obstetrical Nursing: Antepartum (Nurseslabs)","url":"https://nurseslabs.com/nclex-exam-obstetrical-nursing-antepartum-50-items","note":{"en":"50 free antepartum practice questions.","zh":"50 題免費產前護理練習題。"}},
+{"title":"NCLEX-PN Quiz: Prenatal and Antepartum Support (Varsity Tutors)","url":"https://www.varsitytutors.com/practice/subjects/nclex-pn/quiz/prenatal-and-antepartum-support","note":{"en":"Free short quiz on prenatal care.","zh":"免費產前照護短測驗。"}},
+{"title":"Maternity Nursing 14 NCLEX Questions (GoodNurse)","url":"https://goodnurse.com/article/63/nclex-maternity-practice-questions-25-ob-questions-with-detailed-rationales-ngn-formats-and-study-hacks","note":{"en":"Maternity questions with rationales (partly paywalled).","zh":"含解析的產科題（部分需付費）。"}}
+]
+}

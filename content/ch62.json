@@ -1,0 +1,640 @@
+{
+ "number": 62,
+ "title": {
+  "en": "Musculoskeletal Medications",
+  "zh": "肌肉骨骼系統藥物"
+ },
+ "overview": {
+  "en": "Drug classes for musculoskeletal conditions: skeletal muscle relaxants, antigout drugs, antiarthritic agents (DMARDs and biologics), osteoporosis drugs and analgesics for musculoskeletal pain. Know each class's action, signature toxicity, monitoring labs and patient teaching.",
+  "zh": "肌肉骨骼疾病用藥類別：骨骼肌鬆弛劑、抗痛風藥、抗關節炎藥（DMARD與生物製劑）、骨質疏鬆藥物與肌肉骨骼疼痛止痛藥。需掌握各類別作用、特徵性毒性、監測檢驗與衛教。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Skeletal muscle relaxants",
+    "zh": "骨骼肌鬆弛劑"
+   },
+   "pdf_pages": [
+    1005,
+    1006
+   ],
+   "points": [
+    {
+     "en": "Examples: baclofen, carisoprodol, chlorzoxazone, cyclobenzaprine, dantrolene, diazepam, metaxalone, methocarbamol, orphenadrine, tizanidine.",
+     "zh": "例：baclofen、carisoprodol、chlorzoxazone、cyclobenzaprine、dantrolene、diazepam、metaxalone、methocarbamol、orphenadrine、tizanidine。"
+    },
+    {
+     "en": "Action: central (depress spinal/brain neurons) or peripheral (dantrolene blocks calcium release in muscle); relieve spasm and spasticity.",
+     "zh": "作用：中樞性（抑制脊髓/腦神經元）或周邊性（dantrolene阻斷肌肉鈣釋放）；緩解痙攣與痙直。"
+    },
+    {
+     "en": "Adverse effects: drowsiness, dizziness, hypotension, weakness, dry mouth, GI upset, photosensitivity, hepatotoxicity. Avoid alcohol and other CNS depressants; no driving; take with food; monitor LFTs.",
+     "zh": "不良反應：嗜睡、頭暈、低血壓、無力、口乾、腸胃不適、光敏感、肝毒性。避免酒精與其他中樞抑制劑；勿開車；隨餐服用；監測肝功能。"
+    },
+    {
+     "en": "Baclofen: drowsiness, constipation, urinary retention; intrathecal pump - keep refill appointments, abrupt withdrawal can be life-threatening.",
+     "zh": "Baclofen：嗜睡、便秘、尿滯留；脊髓腔幫浦－按時回診補藥，突然停藥可致命。"
+    },
+    {
+     "en": "Cyclobenzaprine: contraindicated within 14 days of MAOIs and in cardiac disorders; anticholinergic (caution with urinary retention, angle-closure glaucoma); short-term use 2-3 weeks. Orphenadrine has similar anticholinergic effects.",
+     "zh": "Cyclobenzaprine：MAO抑制劑14天內及心臟疾病者禁用；有抗膽鹼作用（尿滯留、閉角型青光眼慎用）；短期使用2-3週。Orphenadrine有類似抗膽鹼作用。"
+    },
+    {
+     "en": "Dantrolene: most serious effect is liver damage (check LFTs before and during), GI bleeding, photosensitivity; report rash, tarry stools, jaundice.",
+     "zh": "Dantrolene：最嚴重為肝損傷（治療前後檢查肝功能）、消化道出血、光敏感；皮疹、黑便、黃疸需通報。"
+    },
+    {
+     "en": "Methocarbamol: IV form can cause hypotension, bradycardia, seizures if rapid, extravasation injury; urine may turn brown, black or green. Chlorzoxazone: urine orange/red, hepatotoxic. Diazepam: sedation. Tizanidine and metaxalone: liver damage.",
+     "zh": "Methocarbamol：靜脈過快可致低血壓、心搏過緩、癲癇，注意外滲；尿液可能變棕、黑或綠。Chlorzoxazone：尿液橘/紅、肝毒性。Diazepam：鎮靜。Tizanidine與metaxalone：肝損傷。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antigout medications",
+    "zh": "抗痛風藥"
+   },
+   "pdf_pages": [
+    1006,
+    1007
+   ],
+   "points": [
+    {
+     "en": "Allopurinol and febuxostat reduce uric acid production; probenecid increases uric acid excretion (uricosuric); colchicine, NSAIDs and glucocorticoids treat acute attacks.",
+     "zh": "Allopurinol與febuxostat減少尿酸生成；probenecid促進尿酸排泄（排尿酸藥）；colchicine、NSAID與類固醇治療急性發作。"
+    },
+    {
+     "en": "Adverse effects: headache, GI upset, bone marrow depression, rash, flushing, uric acid stones, sore gums, metallic taste.",
+     "zh": "不良反應：頭痛、腸胃不適、骨髓抑制、皮疹、潮紅、尿酸結石、牙齦痛、金屬味。"
+    },
+    {
+     "en": "Teaching: fluids 2000-3000 mL/day, avoid alcohol, caffeine and high-purine foods (organ meats, sardines, salmon, scallops, gravy); take with food; no aspirin (raises uric acid).",
+     "zh": "衛教：水分2000-3000 mL/日、避免酒精、咖啡因與高普林食物（內臟、沙丁魚、鮭魚、干貝、肉汁）；隨餐服用；避免aspirin（升高尿酸）。"
+    },
+    {
+     "en": "Allopurinol: raises warfarin and oral hypoglycemic effect; avoid large vitamin C doses (stones); rare hypersensitivity (rash, fever, eosinophilia, liver/kidney changes) - withhold and report; sun protection and annual eye exam.",
+     "zh": "Allopurinol：增強warfarin與口服降血糖藥效果；避免大量維生素C（結石）；罕見過敏症候群（皮疹、發燒、嗜酸性球增多、肝腎異常）－停藥並通報；防曬並每年眼科檢查。"
+    },
+    {
+     "en": "Colchicine: caution in older, debilitated, cardiac, renal or GI disease; if nausea, vomiting, diarrhea or abdominal pain develop, withhold and notify PHCP.",
+     "zh": "Colchicine：老年、體弱、心、腎或胃腸疾病者慎用；出現噁心、嘔吐、腹瀉或腹痛時停藥並通報。"
+    },
+    {
+     "en": "Monitor serum uric acid, I&O, CBC, renal and liver function.",
+     "zh": "監測血清尿酸、輸出入量、CBC、腎與肝功能。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antiarthritic medications (DMARDs and biologics)",
+    "zh": "抗關節炎藥（DMARD與生物製劑）"
+   },
+   "pdf_pages": [
+    1007,
+    1008,
+    1009
+   ],
+   "points": [
+    {
+     "en": "RA therapy: NSAIDs, glucocorticoids, conventional DMARDs and biologic DMARDs; early aggressive treatment preserves joints.",
+     "zh": "類風濕性關節炎治療：NSAID、類固醇、傳統DMARD與生物性DMARD；早期積極治療可保護關節。"
+    },
+    {
+     "en": "Conventional DMARDs: methotrexate, leflunomide, hydroxychloroquine, azathioprine, cyclosporine, sulfasalazine, penicillamine; risks: infection, neutropenia, low platelets, liver damage.",
+     "zh": "傳統DMARD：methotrexate、leflunomide、hydroxychloroquine、azathioprine、cyclosporine、sulfasalazine、penicillamine；風險：感染、嗜中性球低下、血小板低下、肝損傷。"
+    },
+    {
+     "en": "Biologics: abatacept, adalimumab, anakinra, etanercept, infliximab, rituximab (tofacitinib is a JAK inhibitor): injection-site reactions, serious infection/TB, malignancy risk.",
+     "zh": "生物製劑：abatacept、adalimumab、anakinra、etanercept、infliximab、rituximab（tofacitinib為JAK抑制劑）：注射部位反應、嚴重感染/結核、惡性腫瘤風險。"
+    },
+    {
+     "en": "Drug-specific: methotrexate - hepatic fibrosis, marrow suppression, GI ulcers, pneumonitis; hydroxychloroquine - retinal damage (report vision changes); cyclosporine - nephrotoxicity; azathioprine - hepatitis, blood dyscrasias; leflunomide - hepatotoxic, reversible hair loss; etanercept - heart failure risk, demyelination; adalimumab - neurological injury signs; infliximab - infusion reactions and hepatotoxicity.",
+     "zh": "藥物特點：methotrexate－肝纖維化、骨髓抑制、胃腸潰瘍、肺炎；hydroxychloroquine－視網膜損傷（視覺改變需通報）；cyclosporine－腎毒性；azathioprine－肝炎、血液惡病質；leflunomide－肝毒性、可逆性落髮；etanercept－心衰竭風險、去髓鞘；adalimumab－神經損傷徵象；infliximab－輸注反應與肝毒性。"
+    },
+    {
+     "en": "Gold salts: toxicity = pruritus, rash, metallic taste, stomatitis, diarrhea; antidote dimercaprol.",
+     "zh": "金鹽：毒性＝搔癢、皮疹、金屬味、口腔炎、腹瀉；解毒劑dimercaprol。"
+    },
+    {
+     "en": "Nursing: baseline and ongoing WBC, neutrophil, platelet counts; teach infection signs; no live vaccines without PHCP approval; tofacitinib contraindicated with active infection, recent live vaccine, hepatic impairment, lactation.",
+     "zh": "護理：基礎與持續監測WBC、嗜中性球、血小板；教導感染徵象；未經醫師同意勿接種活性疫苗；tofacitinib於活動性感染、近期活性疫苗、肝功能不全、哺乳期禁用。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Osteoporosis medications",
+    "zh": "骨質疏鬆藥物"
+   },
+   "pdf_pages": [
+    1009,
+    1010
+   ],
+   "points": [
+    {
+     "en": "Calcium and vitamin D support bone; antiresorptives: bisphosphonates, raloxifene, calcitonin, denosumab; anabolic: teriparatide, abaloparatide, romosozumab.",
+     "zh": "鈣與維生素D支持骨骼；抗骨吸收：雙磷酸鹽、raloxifene、calcitonin、denosumab；促進骨形成：teriparatide、abaloparatide、romosozumab。"
+    },
+    {
+     "en": "Bisphosphonates (alendronate, risedronate, ibandronate, pamidronate, zoledronic acid): morning on empty stomach with a full glass of water, stay upright 30 min (60 min ibandronate); risk esophagitis, muscle pain, ocular problems; contraindicated with esophageal disorders or inability to stay upright.",
+     "zh": "雙磷酸鹽（alendronate、risedronate、ibandronate、pamidronate、zoledronic acid）：早晨空腹以一整杯水服用、保持直立30分鐘（ibandronate為60分鐘）；風險為食道炎、肌肉痛、眼部問題；食道疾病或無法直立者禁用。"
+    },
+    {
+     "en": "Raloxifene: avoid with history of venous thromboembolism; stop 72 h before prolonged immobilization; avoid long periods of restricted activity such as travel.",
+     "zh": "Raloxifene：有靜脈血栓病史者避免；長時間不動前72小時停藥；避免旅途等長期不動。"
+    },
+    {
+     "en": "Calcitonin-salmon: inhibits osteoclasts; alternate nostrils for nasal form; monitor for hypocalcemia.",
+     "zh": "Calcitonin-salmon：抑制蝕骨細胞；鼻噴劑輪流使用左右鼻孔；監測低血鈣。"
+    },
+    {
+     "en": "Teriparatide: PTH analog stimulating osteoblasts, for high fracture risk, associated with bone cancer concern; abaloparatide: contraindicated with hypercalcemia/hyperparathyroidism, watch orthostatic hypotension within 4 h; romosozumab: MI and stroke risk; denosumab: monoclonal antibody.",
+     "zh": "Teriparatide：PTH類似物刺激造骨細胞，用於高骨折風險者，與骨癌疑慮相關；abaloparatide：高血鈣/副甲狀腺機能亢進者禁用，4小時內注意姿位性低血壓；romosozumab：心肌梗塞與中風風險；denosumab：單株抗體。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Medications for musculoskeletal pain",
+    "zh": "肌肉骨骼疼痛用藥"
+   },
+   "pdf_pages": [
+    1010
+   ],
+   "points": [
+    {
+     "en": "First-line: NSAIDs (ibuprofen, naproxen, diclofenac, meloxicam, indomethacin, celecoxib) and acetaminophen.",
+     "zh": "第一線：NSAID（ibuprofen、naproxen、diclofenac、meloxicam、indomethacin、celecoxib）與acetaminophen。"
+    },
+    {
+     "en": "Adjuncts: skeletal muscle relaxants, antidepressants, opioids as needed (see chapters 60 and 69).",
+     "zh": "輔助：骨骼肌鬆弛劑、抗憂鬱藥、必要時鴉片類（見第60、69章）。"
+    },
+    {
+     "en": "NSAID cautions: GI bleeding, renal impairment, take with food; acetaminophen: liver toxicity above 4000 mg/day.",
+     "zh": "NSAID注意：胃腸出血、腎功能受損、隨餐服用；acetaminophen：每日超過4000 mg有肝毒性。"
+    }
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Baclofen intrathecal pump: missed refill causes abrupt withdrawal that can be life-threatening.",
+   "zh": "Baclofen脊髓腔幫浦：未回診補藥導致突然停藥，可能危及生命。",
+   "pdf_pages": [
+    1005
+   ]
+  },
+  {
+   "en": "Cyclobenzaprine: contraindicated with MAOIs (within 14 days) and in cardiac disease; anticholinergic - caution in glaucoma and urinary retention; use 2-3 weeks only.",
+   "zh": "Cyclobenzaprine：禁與MAO抑制劑（14天內）併用、心臟疾病者禁用；抗膽鹼－青光眼與尿滯留慎用；僅用2-3週。",
+   "pdf_pages": [
+    1006,
+    1012
+   ]
+  },
+  {
+   "en": "Dantrolene: hepatotoxicity - monitor liver function tests before and during therapy.",
+   "zh": "Dantrolene：肝毒性－治療前後監測肝功能。",
+   "pdf_pages": [
+    1006,
+    1012
+   ]
+  },
+  {
+   "en": "IV methocarbamol: hypotension and bradycardia; give slowly; watch for extravasation.",
+   "zh": "靜脈methocarbamol：低血壓與心搏過緩；緩慢給予；注意外滲。",
+   "pdf_pages": [
+    1006,
+    1012
+   ]
+  },
+  {
+   "en": "All muscle relaxants: avoid alcohol/CNS depressants and driving; fall and safety risk.",
+   "zh": "所有肌肉鬆弛劑：避免酒精/中樞抑制劑與開車；跌倒與安全風險。",
+   "pdf_pages": [
+    1005,
+    1006
+   ]
+  },
+  {
+   "en": "Gout drugs: fluids 2000-3000 mL/day, low-purine diet, no aspirin; allopurinol - stop and report rash or fever.",
+   "zh": "抗痛風藥：水分2000-3000 mL/日、低普林飲食、避免aspirin；allopurinol－出現皮疹或發燒須停藥並通報。",
+   "pdf_pages": [
+    1007
+   ]
+  },
+  {
+   "en": "Colchicine: stop and notify PHCP for nausea, vomiting, diarrhea, abdominal pain; caution in renal, cardiac, GI disease.",
+   "zh": "Colchicine：噁心、嘔吐、腹瀉、腹痛時停藥並通報；腎、心、胃腸疾病者慎用。",
+   "pdf_pages": [
+    1007
+   ]
+  },
+  {
+   "en": "Allopurinol: avoid large vitamin C doses; potentiates warfarin.",
+   "zh": "Allopurinol：避免大量維生素C；增強warfarin效果。",
+   "pdf_pages": [
+    1007
+   ]
+  },
+  {
+   "en": "DMARDs/biologics: monitor CBC (neutrophils, WBC, platelets), infection risk, TB, no live vaccines.",
+   "zh": "DMARD/生物製劑：監測CBC（嗜中性球、WBC、血小板）、感染風險、結核、避免活性疫苗。",
+   "pdf_pages": [
+    1007,
+    1008
+   ]
+  },
+  {
+   "en": "Hydroxychloroquine: retinal damage; methotrexate: hepatic fibrosis, marrow suppression; cyclosporine: nephrotoxicity; gold toxicity antidote dimercaprol.",
+   "zh": "Hydroxychloroquine：視網膜損傷；methotrexate：肝纖維化、骨髓抑制；cyclosporine：腎毒性；金中毒解毒劑dimercaprol。",
+   "pdf_pages": [
+    1007,
+    1008
+   ]
+  },
+  {
+   "en": "Bisphosphonates: morning, empty stomach, full glass of water, upright at least 30 min (60 min ibandronate); contraindicated with esophageal disorders.",
+   "zh": "雙磷酸鹽：早晨空腹、一整杯水、至少直立30分鐘（ibandronate為60分鐘）；食道疾病者禁用。",
+   "pdf_pages": [
+    1009
+   ]
+  },
+  {
+   "en": "Raloxifene: stop 72 h before prolonged immobilization; contraindicated with history of venous thrombosis.",
+   "zh": "Raloxifene：長期不動前72小時停藥；有靜脈血栓病史者禁用。",
+   "pdf_pages": [
+    1009
+   ]
+  },
+  {
+   "en": "Teriparatide and abaloparatide: anabolic bone agents; abaloparatide - orthostatic hypotension within 4 h, contraindicated in hypercalcemia.",
+   "zh": "Teriparatide與abaloparatide：促骨形成；abaloparatide－4小時內姿位性低血壓、高血鈣者禁用。",
+   "pdf_pages": [
+    1009,
+    1010
+   ]
+  },
+  {
+   "en": "Acetaminophen and NSAIDs are first-line for musculoskeletal pain.",
+   "zh": "Acetaminophen與NSAID為肌肉骨骼疼痛第一線用藥。",
+   "pdf_pages": [
+    1010
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Bisphosphonate rule: 'Up, Water, Empty' - upright 30 min, full glass of water, empty stomach in the morning.",
+   "zh": "雙磷酸鹽口訣：直立、一整杯水、空腹（早晨）。",
+   "pdf_pages": [
+    1009
+   ]
+  },
+  {
+   "en": "Allopurinol 'blocks production', probenecid 'pushes it out', colchicine 'calms the attack'.",
+   "zh": "Allopurinol＝阻止生成；probenecid＝促進排出；colchicine＝緩解發作。",
+   "pdf_pages": [
+    1006,
+    1007
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 1005,
+   "caption": {
+    "en": "Box 62.1 skeletal muscle relaxants and baclofen pump cautions.",
+    "zh": "表62.1 骨骼肌鬆弛劑與baclofen幫浦注意事項。"
+   }
+  },
+  {
+   "pdf_page": 1006,
+   "caption": {
+    "en": "Clinical judgment case: cyclobenzaprine with a client on an MAOI (phenelzine).",
+    "zh": "臨床判斷案例：服用MAO抑制劑（phenelzine）病人使用cyclobenzaprine。"
+   }
+  },
+  {
+   "pdf_page": 1008,
+   "caption": {
+    "en": "Box 62.2 antiarthritic drug list and Fig. 62.1 progression of joint degeneration in RA.",
+    "zh": "表62.2 抗關節炎藥清單與圖62.1 類風濕性關節炎關節退化進程。"
+   }
+  },
+  {
+   "pdf_page": 1009,
+   "caption": {
+    "en": "Box 62.3 medications to prevent or treat osteoporosis.",
+    "zh": "表62.3 預防或治療骨質疏鬆藥物。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client is prescribed alendronate. Which instruction should the nurse give?",
+    "zh": "病人被開立alendronate。護理師應給予何種指導？"
+   },
+   "options": [
+    {
+     "en": "Take at bedtime with milk",
+     "zh": "睡前以牛奶服用"
+    },
+    {
+     "en": "Take in the morning with a full glass of water and remain upright for 30 minutes",
+     "zh": "早晨以一整杯水服用並保持直立30分鐘"
+    },
+    {
+     "en": "Lie down for 30 minutes after taking it",
+     "zh": "服藥後平躺30分鐘"
+    },
+    {
+     "en": "Take with breakfast",
+     "zh": "隨早餐服用"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Upright positioning and water reduce esophagitis and aid absorption.",
+    "zh": "直立與足量水可降低食道炎並助吸收。"
+   },
+   "pdf_pages": [
+    1009,
+    1010
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client on allopurinol should be taught to:",
+    "zh": "服用allopurinol的病人應被教導："
+   },
+   "options": [
+    {
+     "en": "Limit fluids",
+     "zh": "限制水分"
+    },
+    {
+     "en": "Drink about 3000 mL of fluid daily",
+     "zh": "每日飲水約3000 mL"
+    },
+    {
+     "en": "Take large doses of vitamin C",
+     "zh": "服用大量維生素C"
+    },
+    {
+     "en": "Expect lip swelling as normal",
+     "zh": "口唇腫脹屬正常"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Fluids prevent uric acid stones; lip swelling signals hypersensitivity.",
+    "zh": "水分可預防尿酸結石；口唇腫脹提示過敏。"
+   },
+   "pdf_pages": [
+    1007,
+    1010
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with gout takes colchicine and develops nausea, vomiting and diarrhea. What should the nurse do?",
+    "zh": "痛風病人服用colchicine後出現噁心、嘔吐、腹瀉。護理師應如何處置？"
+   },
+   "options": [
+    {
+     "en": "Give more colchicine",
+     "zh": "增加colchicine"
+    },
+    {
+     "en": "Withhold the dose and notify the PHCP",
+     "zh": "暫停給藥並通知醫師"
+    },
+    {
+     "en": "Give aspirin",
+     "zh": "給予aspirin"
+    },
+    {
+     "en": "Encourage a high-purine diet",
+     "zh": "鼓勵高普林飲食"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "GI symptoms signal toxicity; hold and report.",
+    "zh": "腸胃症狀提示毒性；停藥並通報。"
+   },
+   "pdf_pages": [
+    1007
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which laboratory test is most important for a client receiving dantrolene?",
+    "zh": "接受dantrolene的病人最重要的檢驗為何？"
+   },
+   "options": [
+    {
+     "en": "Platelet count",
+     "zh": "血小板計數"
+    },
+    {
+     "en": "Creatinine",
+     "zh": "肌酸酐"
+    },
+    {
+     "en": "Liver function tests",
+     "zh": "肝功能檢查"
+    },
+    {
+     "en": "BUN",
+     "zh": "血尿素氮"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Dose-related hepatotoxicity is the most serious adverse effect.",
+    "zh": "劑量相關肝毒性為最嚴重不良反應。"
+   },
+   "pdf_pages": [
+    1006,
+    1012
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The client prescribed cyclobenzaprine has which condition requiring PHCP notification?",
+    "zh": "病人被開立cyclobenzaprine，下列何種疾病需通知醫師？"
+   },
+   "options": [
+    {
+     "en": "Glaucoma (angle-closure)",
+     "zh": "閉角型青光眼"
+    },
+    {
+     "en": "Emphysema",
+     "zh": "肺氣腫"
+    },
+    {
+     "en": "Hypothyroidism",
+     "zh": "甲狀腺機能低下"
+    },
+    {
+     "en": "Diabetes mellitus",
+     "zh": "糖尿病"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Cyclobenzaprine has anticholinergic effects that raise intraocular pressure.",
+    "zh": "Cyclobenzaprine具抗膽鹼作用，可升高眼壓。"
+   },
+   "pdf_pages": [
+    1006,
+    1012
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with an intrathecal baclofen pump misses refill visits. What is the risk?",
+    "zh": "使用脊髓腔baclofen幫浦的病人未回診補藥。風險為何？"
+   },
+   "options": [
+    {
+     "en": "Hypoglycemia",
+     "zh": "低血糖"
+    },
+    {
+     "en": "Abrupt withdrawal that can be life-threatening",
+     "zh": "突然停藥可能危及生命"
+    },
+    {
+     "en": "Gum hyperplasia",
+     "zh": "牙齦增生"
+    },
+    {
+     "en": "No risk",
+     "zh": "無風險"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "The pump can empty, causing severe withdrawal.",
+    "zh": "幫浦可能排空而導致嚴重戒斷。"
+   },
+   "pdf_pages": [
+    1005
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which findings are acceptable responses to DMARD therapy? Select all that apply.",
+    "zh": "下列哪些為DMARD治療的可接受反應？（多選）"
+   },
+   "options": [
+    {
+     "en": "Normal WBC, platelet and neutrophil counts",
+     "zh": "WBC、血小板與嗜中性球正常"
+    },
+    {
+     "en": "Improved range of motion at 3 months",
+     "zh": "3個月後關節活動度改善"
+    },
+    {
+     "en": "Low-grade fever persisting all day",
+     "zh": "低燒整日持續"
+    },
+    {
+     "en": "Redness and irritation at injection site 3 days later",
+     "zh": "注射3天後部位紅腫刺激"
+    },
+    {
+     "en": "No radiographic progression",
+     "zh": "影像無進展"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ],
+   "rationale": {
+    "en": "Fever and persistent site inflammation may signal infection.",
+    "zh": "發燒與注射部位持續發炎可能為感染徵象。"
+   },
+   "pdf_pages": [
+    1010,
+    1012
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "GetOnCourse - Osteoporosis and metabolic bone disease",
+   "url": "https://getoncourse.ai/revision/nclex-rn/medical-surgical-nursing/musculoskeletal-disorders/osteoporosis-and-metabolic-bone-disease/",
+   "note": {
+    "en": "Review including osteoporosis drug therapy.",
+    "zh": "含骨質疏鬆藥物治療的複習。"
+   }
+  },
+  {
+   "title": "Simple Nursing - Neurological Drugs Practice Questions",
+   "url": "https://simplenursing.com/neurological-drugs-nclex-practice-questions-review/",
+   "note": {
+    "en": "Drug-focused NCLEX practice questions (muscle relaxants overlap with neuro drugs).",
+    "zh": "藥物導向NCLEX練習題。"
+   }
+  },
+  {
+   "title": "Nursing.com - 5 SLE NCLEX Style Questions",
+   "url": "https://academy.nursing.com/?p=15841",
+   "note": {
+    "en": "Practice questions on lupus, relevant to DMARD therapy.",
+    "zh": "紅斑性狼瘡練習題，與DMARD治療相關。"
+   }
+  }
+ ]
+}

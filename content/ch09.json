@@ -1,0 +1,239 @@
+{
+  "number": 9,
+  "title": {"en": "Acid-Base Balance", "zh": "酸鹼平衡"},
+  "overview": {
+    "en": "This chapter explains how the body holds pH at 7.35-7.45 using buffers, lungs, kidneys and potassium shifts, then covers the four primary acid-base disorders, their causes, signs and nursing care. It ends with ABG collection and the step-by-step method for interpreting ABGs, a staple of NCLEX questions.",
+    "zh": "本章說明身體如何以緩衝系統、肺、腎與鉀離子移動將 pH 維持在 7.35-7.45,並介紹四種原發性酸鹼失衡的原因、徵象與護理處置,最後說明動脈血氣(ABG)採檢與逐步判讀法,這是 NCLEX 的常考重點。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Hydrogen ions, acids and bases", "zh": "氫離子、酸與鹼"},
+      "points": [
+        {"en": "Blood pH must stay between 7.35 and 7.45; below is acidosis, above is alkalosis.", "zh": "血液 pH 須維持在 7.35-7.45;低於此為酸中毒,高於此為鹼中毒。"},
+        {"en": "Acids donate hydrogen ions and are end products of metabolism; bases accept hydrogen ions.", "zh": "酸是氫離子的提供者,為代謝終產物;鹼是氫離子的接受者。"},
+        {"en": "Normal serum bicarbonate (HCO3-) is 21-28 mEq/L.", "zh": "血清碳酸氫根(HCO3-)正常值 21-28 mEq/L。"}
+      ],
+      "pdf_pages": [128]
+    },
+    {
+      "heading": {"en": "Buffer systems", "zh": "緩衝系統"},
+      "points": [
+        {"en": "Buffers act fastest, giving immediate protection against pH change; once used up the body has less reserve.", "zh": "緩衝系統反應最快,能立即防止 pH 改變;用盡後身體的儲備就減少。"},
+        {"en": "Extracellular buffers: hemoglobin (chloride shift), plasma proteins, carbonic acid-bicarbonate (the main buffer) and phosphate.", "zh": "細胞外緩衝系統包括血紅素(氯離子轉移)、血漿蛋白、碳酸-碳酸氫鹽(主要緩衝系統)與磷酸鹽。"},
+        {"en": "Normal pH of 7.4 reflects a bicarbonate : carbonic acid ratio of 20:1; lungs control carbonic acid (CO2) and kidneys control bicarbonate.", "zh": "pH 7.4 代表碳酸氫根與碳酸比為 20:1;肺控制碳酸(CO2),腎控制碳酸氫根。"},
+        {"en": "The underlying cause of any imbalance must be identified and treated.", "zh": "必須找出並治療酸鹼失衡的根本原因。"}
+      ],
+      "pdf_pages": [128, 129]
+    },
+    {
+      "heading": {"en": "Lungs, kidneys and potassium", "zh": "肺、腎與鉀離子的調節"},
+      "points": [
+        {"en": "Lungs are the second defense and respond in 10-30 seconds: in acidosis rate and depth rise to blow off CO2; in alkalosis they fall to retain CO2.", "zh": "肺是第二道防線,10-30 秒內反應:酸中毒時呼吸加快加深以排出 CO2;鹼中毒時呼吸變慢變淺以留住 CO2。"},
+        {"en": "Kidneys are slower (hours to days) but more thorough: they excrete H+ and retain HCO3- in acidosis, and excrete HCO3- in alkalosis.", "zh": "腎臟反應較慢(數小時至數天)但更完整:酸中毒時排 H+、留 HCO3-;鹼中毒時排 HCO3-。"},
+        {"en": "Potassium shifts: in acidosis H+ enters cells and K+ leaves, causing hyperkalemia; in alkalosis K+ enters cells, causing hypokalemia.", "zh": "鉀離子移動:酸中毒時 H+ 進入細胞、K+ 移出,造成高血鉀;鹼中毒時 K+ 進入細胞,造成低血鉀。"},
+        {"en": "Monitor potassium closely in any acid-base imbalance because of dysrhythmia risk.", "zh": "任何酸鹼失衡都須密切監測血鉀,因有心律不整風險。"}
+      ],
+      "pdf_pages": [129, 130]
+    },
+    {
+      "heading": {"en": "Respiratory acidosis", "zh": "呼吸性酸中毒"},
+      "points": [
+        {"en": "Caused by hypoventilation with CO2 retention: COPD/emphysema, asthma, pneumonia, atelectasis, pulmonary edema or emboli, brain trauma, and CNS depressants (opioids, sedatives, anesthetics).", "zh": "因換氣不足導致 CO2 滯留:COPD/肺氣腫、氣喘、肺炎、肺不張、肺水腫或肺栓塞、腦外傷、中樞神經抑制劑(鴉片類、鎮靜劑、麻醉劑)。"},
+        {"en": "Findings: lethargy, confusion, headache, dizziness, coma, hypotension, dysrhythmias (from hyperkalemia), warm flushed skin, seizures.", "zh": "表現:嗜睡、意識混亂、頭痛、頭暈、昏迷、低血壓、心律不整(高血鉀所致)、皮膚溫熱潮紅、癲癇。"},
+        {"en": "Care: O2 as prescribed, semi-Fowler's position, turn/cough/deep-breathe, suction, respiratory treatments; avoid sedatives; prepare for intubation and ventilation if CO2 is above 50 mm Hg with acute distress.", "zh": "處置:依醫囑給氧、半坐臥、翻身咳嗽深呼吸、抽吸、呼吸治療;避免鎮靜劑;若 CO2 超過 50 mm Hg 且急性呼吸窘迫,準備插管與機械通氣。"}
+      ],
+      "pdf_pages": [130, 131]
+    },
+    {
+      "heading": {"en": "Respiratory alkalosis", "zh": "呼吸性鹼中毒"},
+      "points": [
+        {"en": "Caused by overstimulated breathing: hyperventilation, anxiety, pain, fever, hypoxia, and over-ventilation by a mechanical ventilator.", "zh": "因呼吸過度刺激:換氣過度、焦慮、疼痛、發燒、缺氧,以及呼吸器過度換氣。"},
+        {"en": "Findings: light-headedness, dizziness, confusion, tachycardia, dysrhythmias, nausea/vomiting, numbness and tingling of extremities, tetany, hyperreflexia, seizures.", "zh": "表現:輕飄感、頭暈、意識混亂、心跳快、心律不整、噁心嘔吐、四肢麻刺、手足僵直、反射亢進、癲癇。"},
+        {"en": "Care: reassure, coach slow breathing, breath holding or rebreathing (paper bag/rebreather mask), adjust ventilator, calcium gluconate for tetany as prescribed.", "zh": "處置:安撫、指導緩慢呼吸、閉氣或再吸入(紙袋/再呼吸面罩)、調整呼吸器,依醫囑給葡萄糖酸鈣治療手足僵直。"}
+      ],
+      "pdf_pages": [131]
+    },
+    {
+      "heading": {"en": "Metabolic acidosis", "zh": "代謝性酸中毒"},
+      "points": [
+        {"en": "Causes: diabetic ketoacidosis, aspirin overdose, lactic acidosis, malnutrition, high-fat diet, renal failure, severe diarrhea (loss of alkaline fluid).", "zh": "原因:糖尿病酮酸中毒、阿斯匹靈過量、乳酸中毒、營養不良、高脂飲食、腎衰竭、嚴重腹瀉(流失鹼性液體)。"},
+        {"en": "Findings: lethargy, confusion, headache, hypotension, dysrhythmias, cold clammy skin, nausea/vomiting/diarrhea, and Kussmaul's respirations (deep, rapid).", "zh": "表現:嗜睡、意識混亂、頭痛、低血壓、心律不整、皮膚冰冷濕黏、噁心嘔吐腹瀉,以及 Kussmaul 呼吸(深快)。"},
+        {"en": "Care: IV fluids and buffer base, monitor I&O and electrolytes; in DKA give insulin and fluid resuscitation; in kidney disease dialysis and a low-protein, high-calorie diet.", "zh": "處置:靜脈輸液與補充緩衝鹼、監測輸出入量與電解質;DKA 給予胰島素與輸液復甦;腎病則透析並採低蛋白高熱量飲食。"}
+      ],
+      "pdf_pages": [131, 132]
+    },
+    {
+      "heading": {"en": "Metabolic alkalosis", "zh": "代謝性鹼中毒"},
+      "points": [
+        {"en": "Causes: excessive vomiting or NG suction (loss of HCl), diuretics, hyperaldosteronism, excess sodium bicarbonate, massive whole-blood transfusion (citrate becomes bicarbonate).", "zh": "原因:大量嘔吐或鼻胃管抽吸(流失鹽酸)、利尿劑、高醛固酮症、碳酸氫鈉過量、大量輸入全血(檸檬酸轉為碳酸氫鹽)。"},
+        {"en": "Findings: dizziness, irritability, confusion, tachycardia, dysrhythmias, nausea/vomiting, tetany, tremors, tingling, muscle cramps, seizures; breathing becomes slow and shallow.", "zh": "表現:頭暈、易怒、意識混亂、心跳快、心律不整、噁心嘔吐、手足僵直、顫抖、麻刺、肌肉痙攣、癲癇;呼吸變慢變淺。"},
+        {"en": "Care: IV fluids and medications to promote bicarbonate excretion, replace potassium as prescribed, monitor respiratory status.", "zh": "處置:依醫囑給予靜脈輸液與藥物促進碳酸氫根排出、補充鉀,並監測呼吸狀態。"}
+      ],
+      "pdf_pages": [132, 133]
+    },
+    {
+      "heading": {"en": "ABG collection", "zh": "動脈血氣(ABG)採檢"},
+      "points": [
+        {"en": "Normal ABG: pH 7.35-7.45; PaCO2 35-45 mm Hg; HCO3- 21-28 mEq/L; PaO2 80-100 mm Hg (venous pH 7.31-7.41, PvO2 40-50).", "zh": "ABG 正常值:pH 7.35-7.45;PaCO2 35-45 mm Hg;HCO3- 21-28 mEq/L;PaO2 80-100 mm Hg(靜脈 pH 7.31-7.41、PvO2 40-50)。"},
+        {"en": "Perform the Allen's test before radial puncture to confirm ulnar collateral flow; positive means immediate flushing after releasing the ulnar artery.", "zh": "橈動脈穿刺前先做 Allen 測試確認尺動脈側支循環;放開尺動脈後手掌立即變紅即為陽性。"},
+        {"en": "Use a heparinized syringe, remove any air, press the site 5 minutes (10 if on anticoagulants), recheck the radial pulse, send on ice.", "zh": "使用含肝素針筒、排除空氣,穿刺後壓迫 5 分鐘(使用抗凝劑者 10 分鐘),再確認橈動脈搏動,冰浴送檢。"},
+        {"en": "Record temperature and O2 delivery on the lab form; note recent suctioning (within 20 minutes) or O2 changes.", "zh": "檢驗單上註明體溫與給氧方式;留意 20 分鐘內是否抽痰或調整氧氣。"}
+      ],
+      "pdf_pages": [133]
+    },
+    {
+      "heading": {"en": "Interpreting ABGs and compensation", "zh": "ABG 判讀與代償"},
+      "points": [
+        {"en": "Step 1: pH low = acidosis, high = alkalosis. Step 2: if PaCO2 moves in the OPPOSITE direction to pH, it is respiratory. Step 3: if HCO3- moves in the SAME direction as pH, it is metabolic.", "zh": "步驟 1:pH 低為酸中毒、高為鹼中毒。步驟 2:PaCO2 與 pH 方向「相反」則為呼吸性。步驟 3:HCO3- 與 pH 方向「相同」則為代謝性。"},
+        {"en": "Step 4: a normal pH (7.35-7.45) means full compensation; if pH is abnormal, check the other indicator: abnormal value = partial compensation, normal value = uncompensated.", "zh": "步驟 4:pH 回到 7.35-7.45 表示完全代償;pH 仍異常時,看另一指標:已異常為部分代償,仍正常為未代償。"},
+        {"en": "Mixed disorders combine two problems (e.g., hyperventilation from pain plus gastric suction gives mixed alkalosis).", "zh": "混合性失衡為同時存在兩種問題(如疼痛致換氣過度加胃管抽吸造成混合性鹼中毒)。"},
+        {"en": "Potassium is usually increased in acidosis and decreased in alkalosis.", "zh": "酸中毒時鉀通常上升,鹼中毒時鉀通常下降。"}
+      ],
+      "pdf_pages": [133, 134]
+    }
+  ],
+  "critical_points": [
+    {"en": "Normal ABG: pH 7.35-7.45, PaCO2 35-45 mm Hg, HCO3- 21-28 mEq/L, PaO2 80-100 mm Hg.", "zh": "ABG 正常值:pH 7.35-7.45、PaCO2 35-45 mm Hg、HCO3- 21-28 mEq/L、PaO2 80-100 mm Hg。", "pdf_pages": [133]},
+    {"en": "Respiratory indicator is PaCO2; metabolic indicator is HCO3-.", "zh": "呼吸指標是 PaCO2;代謝指標是 HCO3-。", "pdf_pages": [134]},
+    {"en": "Respiratory imbalance: pH and PaCO2 move in opposite directions. Metabolic imbalance: pH and HCO3- move together.", "zh": "呼吸性失衡:pH 與 PaCO2 方向相反。代謝性失衡:pH 與 HCO3- 方向一致。", "pdf_pages": [134]},
+    {"en": "Full compensation = pH back within 7.35-7.45.", "zh": "完全代償 = pH 回到 7.35-7.45。", "pdf_pages": [134]},
+    {"en": "Respiratory acidosis: pH low, PaCO2 high. Respiratory alkalosis: pH high, PaCO2 low.", "zh": "呼吸性酸中毒:pH 低、PaCO2 高。呼吸性鹼中毒:pH 高、PaCO2 低。", "pdf_pages": [133]},
+    {"en": "Metabolic acidosis: pH low, HCO3- low. Metabolic alkalosis: pH high, HCO3- high.", "zh": "代謝性酸中毒:pH 低、HCO3- 低。代謝性鹼中毒:pH 高、HCO3- 高。", "pdf_pages": [134]},
+    {"en": "Vomiting and NG suction cause metabolic alkalosis (HCl loss); severe diarrhea and DKA cause metabolic acidosis.", "zh": "嘔吐與鼻胃管抽吸造成代謝性鹼中毒(流失鹽酸);嚴重腹瀉與 DKA 造成代謝性酸中毒。", "pdf_pages": [132, 133]},
+    {"en": "COPD, hypoventilation and opioid/sedative overdose cause respiratory acidosis; avoid sedatives and opioids in these clients.", "zh": "COPD、換氣不足與鴉片類/鎮靜劑過量造成呼吸性酸中毒;此類患者應避免鎮靜劑與鴉片類。", "pdf_pages": [130, 131]},
+    {"en": "Kussmaul's respirations (deep and rapid) are the lungs' compensation for metabolic acidosis such as DKA.", "zh": "Kussmaul 呼吸(深而快)是肺對代謝性酸中毒(如 DKA)的代償。", "pdf_pages": [131, 136]},
+    {"en": "Acidosis raises serum K+ (hyperkalemia); alkalosis lowers it (hypokalemia). Watch for dysrhythmias.", "zh": "酸中毒使血鉀上升(高血鉀);鹼中毒使血鉀下降(低血鉀)。須留意心律不整。", "pdf_pages": [129, 130]},
+    {"en": "Lungs compensate in 10-30 seconds; kidneys take hours to days but are more complete.", "zh": "肺代償需 10-30 秒;腎臟需數小時至數天,但更完整。", "pdf_pages": [129]},
+    {"en": "Intubation/ventilation needed in respiratory acidosis when CO2 exceeds 50 mm Hg with acute respiratory distress.", "zh": "呼吸性酸中毒若 CO2 超過 50 mm Hg 並有急性呼吸窘迫,需準備插管與通氣。", "pdf_pages": [131]},
+    {"en": "Do an Allen's test before radial ABG puncture; after puncture hold pressure 5 min (10 min if anticoagulated).", "zh": "橈動脈採 ABG 前先做 Allen 測試;穿刺後壓迫 5 分鐘(使用抗凝劑 10 分鐘)。", "pdf_pages": [133]},
+    {"en": "Treat the underlying cause of every acid-base disorder and monitor level of consciousness, electrolytes and repeat ABGs.", "zh": "每種酸鹼失衡都要治療根本原因,並監測意識程度、電解質與追蹤 ABG。", "pdf_pages": [128, 130]},
+    {"en": "Hyperventilation from anxiety, pain or fever causes respiratory alkalosis; rebreathing (paper bag) and calm coaching help.", "zh": "焦慮、疼痛或發燒造成的換氣過度導致呼吸性鹼中毒;可用再吸入(紙袋)與安撫指導呼吸。", "pdf_pages": [131]}
+  ],
+  "mnemonics": [
+    {"en": "ROME: Respiratory Opposite, Metabolic Equal (pH vs PaCO2 opposite = respiratory; pH vs HCO3- same direction = metabolic).", "zh": "ROME 口訣:呼吸性相反(Respiratory Opposite)、代謝性相同(Metabolic Equal)。pH 與 PaCO2 相反為呼吸性;pH 與 HCO3- 同向為代謝性。", "pdf_pages": [134]},
+    {"en": "Tic-Tac-Toe ABG: place pH, PaCO2, HCO3- in a row and check which one matches the pH direction.", "zh": "ABG 判讀三格法:把 pH、PaCO2、HCO3- 排成一列,看哪一個與 pH 的方向吻合(酸中毒:pH 低,PaCO2 高 = 呼吸;HCO3- 低 = 代謝)。", "pdf_pages": [134]},
+    {"en": "Vomiting = alkalosis (lose acid); diarrhea = acidosis (lose base).", "zh": "嘔吐=鹼中毒(失酸);腹瀉=酸中毒(失鹼)。", "pdf_pages": [132, 133]}
+  ],
+  "figures": [
+    {"pdf_page": 129, "caption": {"en": "Fig. 9.1: the 20:1 bicarbonate-to-carbonic acid ratio and the pH range from acidosis through normal to alkalosis.", "zh": "圖 9.1:碳酸氫根與碳酸 20:1 的比例,以及由酸中毒、正常到鹼中毒的 pH 範圍。"}},
+    {"pdf_page": 130, "caption": {"en": "Fig. 9.2 and Box 9.1: K+/H+ exchange across cell membranes in acidosis and alkalosis; causes of respiratory acidosis.", "zh": "圖 9.2 與 Box 9.1:酸中毒與鹼中毒時細胞膜上 K+/H+ 的交換;呼吸性酸中毒的原因。"}},
+    {"pdf_page": 131, "caption": {"en": "Table 9.1 manifestations of acidosis and Box 9.2 causes of respiratory alkalosis.", "zh": "表 9.1 酸中毒的臨床表現與 Box 9.2 呼吸性鹼中毒原因。"}},
+    {"pdf_page": 132, "caption": {"en": "Table 9.2 manifestations of alkalosis and Box 9.3 causes of metabolic acidosis.", "zh": "表 9.2 鹼中毒的臨床表現與 Box 9.3 代謝性酸中毒原因。"}},
+    {"pdf_page": 133, "caption": {"en": "Table 9.3 normal ABG values, Box 9.4 causes of metabolic alkalosis and Box 9.5 Allen's test.", "zh": "表 9.3 ABG 正常值、Box 9.4 代謝性鹼中毒原因與 Box 9.5 Allen 測試。"}},
+    {"pdf_page": 134, "caption": {"en": "Table 9.4 lab changes in uncompensated, partially compensated and compensated states, and Box 9.6 steps for analyzing ABGs.", "zh": "表 9.4 未代償、部分代償與完全代償的檢驗值變化,及 Box 9.6 ABG 判讀步驟。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "ABG: pH 7.45, PaCO2 30 mm Hg, HCO3- 20 mEq/L. Which interpretation is correct?", "zh": "ABG:pH 7.45、PaCO2 30 mm Hg、HCO3- 20 mEq/L。下列判讀何者正確?"},
+      "options": [
+        {"en": "Metabolic acidosis, compensated", "zh": "代謝性酸中毒,已代償"},
+        {"en": "Respiratory alkalosis, compensated", "zh": "呼吸性鹼中毒,已代償"},
+        {"en": "Metabolic alkalosis, uncompensated", "zh": "代謝性鹼中毒,未代償"},
+        {"en": "Respiratory acidosis, uncompensated", "zh": "呼吸性酸中毒,未代償"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "pH is at the high-normal end with low PaCO2 (opposite direction = respiratory alkalosis). The low HCO3- shows renal compensation, and pH is normal so compensation is full.", "zh": "pH 在正常偏高,PaCO2 低(與 pH 相反 = 呼吸性鹼中毒);HCO3- 偏低顯示腎臟代償,pH 已正常故為完全代償。"},
+      "pdf_pages": [134, 136],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a nasogastric tube to low suction is at risk for which disorder?", "zh": "鼻胃管接低壓抽吸的患者有發生哪種失衡的風險?"},
+      "options": [
+        {"en": "Metabolic acidosis", "zh": "代謝性酸中毒"},
+        {"en": "Metabolic alkalosis", "zh": "代謝性鹼中毒"},
+        {"en": "Respiratory acidosis", "zh": "呼吸性酸中毒"},
+        {"en": "Respiratory alkalosis", "zh": "呼吸性鹼中毒"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Gastric suction removes hydrochloric acid, raising pH and bicarbonate.", "zh": "胃抽吸移除鹽酸,使 pH 與碳酸氫根上升。"},
+      "pdf_pages": [132, 136],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with DKA has deep, rapid respirations. ABG: pH 7.20, PaCO2 28 mm Hg, HCO3- 12 mEq/L. Which interpretation and explanation are correct?", "zh": "DKA 患者呼吸深快。ABG:pH 7.20、PaCO2 28 mm Hg、HCO3- 12 mEq/L。下列判讀與說明何者正確?"},
+      "options": [
+        {"en": "Respiratory alkalosis; the client is anxious", "zh": "呼吸性鹼中毒;患者焦慮"},
+        {"en": "Metabolic acidosis, partially compensated; the lungs are blowing off CO2", "zh": "代謝性酸中毒,部分代償;肺正在排出 CO2"},
+        {"en": "Metabolic alkalosis, uncompensated", "zh": "代謝性鹼中毒,未代償"},
+        {"en": "Respiratory acidosis, compensated", "zh": "呼吸性酸中毒,已代償"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "pH and HCO3- are both low (metabolic acidosis). PaCO2 is low, meaning the lungs are compensating (Kussmaul's), but pH is still abnormal so compensation is partial.", "zh": "pH 與 HCO3- 皆低(代謝性酸中毒);PaCO2 低表示肺在代償(Kussmaul 呼吸),但 pH 仍異常,屬部分代償。"},
+      "pdf_pages": [131, 134],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "ABG results show pH 7.50 and PaCO2 30 mm Hg. Which manifestations does the nurse expect? Select all that apply.", "zh": "ABG 顯示 pH 7.50、PaCO2 30 mm Hg。護理師預期有哪些表現?(複選)"},
+      "options": [
+        {"en": "Nausea", "zh": "噁心"},
+        {"en": "Confusion", "zh": "意識混亂"},
+        {"en": "Bradypnea", "zh": "呼吸過緩"},
+        {"en": "Tachycardia", "zh": "心跳過速"},
+        {"en": "Hyperkalemia", "zh": "高血鉀"},
+        {"en": "Light-headedness", "zh": "輕飄感"}
+      ],
+      "answer": [0, 1, 3, 5],
+      "rationale": {"en": "This is respiratory alkalosis (hyperventilation): neuro, GI and cardiac excitation, with hypokalemia (not hyperkalemia).", "zh": "此為呼吸性鹼中毒(換氣過度):出現神經、腸胃與心臟興奮表現,且為低血鉀而非高血鉀。"},
+      "pdf_pages": [132, 137],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "An unresponsive client has pH 7.12, PaCO2 90 mm Hg, HCO3- 22 mEq/L. What is the interpretation?", "zh": "一位無反應患者:pH 7.12、PaCO2 90 mm Hg、HCO3- 22 mEq/L。判讀為何?"},
+      "options": [
+        {"en": "Metabolic acidosis with compensation", "zh": "代謝性酸中毒,有代償"},
+        {"en": "Respiratory acidosis with compensation", "zh": "呼吸性酸中毒,有代償"},
+        {"en": "Metabolic acidosis without compensation", "zh": "代謝性酸中毒,無代償"},
+        {"en": "Respiratory acidosis without compensation", "zh": "呼吸性酸中毒,無代償"}
+      ],
+      "answer": [3],
+      "rationale": {"en": "Low pH with high PaCO2 is respiratory acidosis. HCO3- is still normal and pH is abnormal, so the kidneys have not compensated.", "zh": "pH 低、PaCO2 高為呼吸性酸中毒;HCO3- 仍正常且 pH 異常,代表腎臟尚未代償。"},
+      "pdf_pages": [134, 136],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which client is at greatest risk for respiratory acidosis?", "zh": "下列哪位患者最容易發生呼吸性酸中毒?"},
+      "options": [
+        {"en": "A client with severe diarrhea", "zh": "嚴重腹瀉患者"},
+        {"en": "A client with several fractured ribs and shallow breathing", "zh": "多根肋骨骨折且呼吸淺的患者"},
+        {"en": "A client with persistent vomiting", "zh": "持續嘔吐的患者"},
+        {"en": "A client with a panic attack", "zh": "恐慌發作的患者"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Painful rib fractures cause hypoventilation and CO2 retention. Diarrhea gives metabolic acidosis, vomiting metabolic alkalosis, panic respiratory alkalosis.", "zh": "肋骨骨折疼痛造成換氣不足與 CO2 滯留。腹瀉為代謝性酸中毒、嘔吐為代謝性鹼中毒、恐慌為呼吸性鹼中毒。"},
+      "pdf_pages": [130, 137],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Before a radial ABG draw, the nurse performs an Allen's test. Which result allows radial puncture?", "zh": "橈動脈採 ABG 前進行 Allen 測試。何種結果可進行橈動脈穿刺?"},
+      "options": [
+        {"en": "The hand stays pale after the ulnar artery is released", "zh": "放開尺動脈後手掌仍蒼白"},
+        {"en": "The hand flushes immediately after the ulnar artery is released", "zh": "放開尺動脈後手掌立即變紅"},
+        {"en": "The hand flushes only after 30 seconds", "zh": "放開後 30 秒才變紅"},
+        {"en": "The radial pulse is absent", "zh": "橈動脈無脈搏"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Immediate flushing means ulnar collateral flow is adequate (positive test). If negative, test the other arm or choose another artery.", "zh": "立即變紅表示尺動脈側支循環足夠(陽性)。若陰性,改測另一手臂或選其他動脈。"},
+      "pdf_pages": [133],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client on a ventilator has pH 7.50 and PaCO2 30 mm Hg. Which lab value is most likely?", "zh": "使用呼吸器的患者 pH 7.50、PaCO2 30 mm Hg。最可能出現哪項檢驗值?"},
+      "options": [
+        {"en": "Magnesium 1.8 mEq/L", "zh": "鎂 1.8 mEq/L"},
+        {"en": "Sodium 145 mEq/L", "zh": "鈉 145 mEq/L"},
+        {"en": "Potassium 3.0 mEq/L", "zh": "鉀 3.0 mEq/L"},
+        {"en": "Phosphorus 3.0 mg/dL", "zh": "磷 3.0 mg/dL"}
+      ],
+      "answer": [2],
+      "rationale": {"en": "Alkalosis drives K+ into cells, causing hypokalemia. The other values are normal.", "zh": "鹼中毒使鉀進入細胞而造成低血鉀;其他數值皆在正常範圍。"},
+      "pdf_pages": [129, 130, 137],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Arterial Blood Gas Interpretation for NCLEX Quiz (Nurseslabs)", "url": "https://nurseslabs.com/arterial-blood-gas-abgs-nclex-quiz/", "note": {"en": "Free 40-question ABG interpretation quiz with rationales.", "zh": "免費 40 題 ABG 判讀測驗,附解析。"}},
+    {"title": "NCLEX-RN Quiz: Acid Base ABG Interpretation (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/acid-base-abg-interpretation", "note": {"en": "Free timed acid-base/ABG quiz.", "zh": "免費計時酸鹼/ABG 測驗。"}},
+    {"title": "10 ROME ABG Interpretation NCLEX Style Questions (Nursing.com)", "url": "https://academy.nursing.com/pop-quiz/rome-abg-arterial-blood-gas-interpretation", "note": {"en": "Short quiz practicing the ROME method.", "zh": "練習 ROME 判讀法的短測驗。"}},
+    {"title": "ABG Interpretation Made Simple: 15 Practice Cases (GoodNurse)", "url": "https://goodnurse.com/article/201/abg-interpretation-made-simple-2026-15-practice-cases-with-answers-nursing-rationale", "note": {"en": "15 practice ABG cases with nursing rationale.", "zh": "15 個 ABG 練習案例與護理解析。"}}
+  ]
+}

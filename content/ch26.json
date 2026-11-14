@@ -1,0 +1,110 @@
+{
+  "number": 26,
+  "title": {"en": "Postpartum Period", "zh": "產後期"},
+  "overview": {
+    "en": "This chapter covers normal physiologic recovery after birth (involution, lochia, breasts, urinary and GI changes, vital signs), routine postpartum assessment and teaching, common discomforts, emotional changes, and breast-feeding/chest-feeding. Know what is normal versus a red flag for hemorrhage or infection.",
+    "zh": "本章說明產後正常生理恢復（子宮復舊、惡露、乳房、泌尿與腸胃變化、生命徵象）、產後評估與衛教、常見不適、情緒變化與哺乳。重點在分辨正常與出血或感染的警訊。"
+  },
+  "sections": [
+    {"heading": {"en": "Postpartum period and involution", "zh": "產後期與子宮復舊"},
+     "points": [
+       {"en": "The postpartum period runs from birth to about 6 weeks.", "zh": "產後期從分娩後至約6週。"},
+       {"en": "Uterus shrinks from about 2 lb (900 g) to 2 oz (57 g) in 6 weeks; fundus descends about 1 cm/day and is not palpable abdominally by day 10. Breast-/chest-feeding speeds involution through oxytocin.", "zh": "子宮於6週內由約2磅（900 g）縮至2盎司（57 g）；子宮底每日下降約1公分，第10天腹部已摸不到。哺乳透過催產素加速復舊。"},
+       {"en": "Boggy (flaccid) fundus = atony, massage until firm; tender fundus suggests infection; a full bladder displaces the uterus upward and prevents contraction, so have client void before assessment.", "zh": "子宮軟而鬆弛＝子宮收縮不良，需按摩至變硬；子宮壓痛提示感染；膀胱脹滿會將子宮推高並妨礙收縮，評估前先請產婦排尿。"},
+       {"en": "Afterpains are more common in multiparas, nursing parents, oxytocin use, and overdistended uterus.", "zh": "後陣痛較常見於經產婦、哺乳者、使用催產素及子宮過度膨脹者。"}
+     ], "pdf_pages": [385, 387]},
+    {"heading": {"en": "Lochia", "zh": "惡露"},
+     "points": [
+       {"en": "Rubra: bright red, days 0-3. Serosa: brownish pink, days 4-10. Alba: white, days 11-14.", "zh": "紅惡露：鮮紅，第0至3天；漿液惡露：粉褐色，第4至10天；白惡露：白色，第11至14天。"},
+       {"en": "Normal odor resembles menstrual flow; foul odor suggests infection. Large clots (>1 cm) or saturating a pad in 15 minutes (excessive) need provider notification.", "zh": "正常氣味似月經；惡臭提示感染。血塊大於1公分或15分鐘浸濕一片護墊（過量）需通知醫師。"},
+       {"en": "Amount: scant <2.5 cm/hr, light <10 cm, moderate <15 cm, heavy saturated in 1 hr, excessive saturated in 15 min. Weigh pads for accuracy.", "zh": "量：極少（每小時<2.5 cm）、少（<10 cm）、中（<15 cm）、多（1小時浸濕）、過多（15分鐘浸濕）。可秤護墊重量以求準確。"}
+     ], "pdf_pages": [385, 386]},
+    {"heading": {"en": "Other physiologic changes and vital signs", "zh": "其他生理變化與生命徵象"},
+     "points": [
+       {"en": "Menses return in 1-2 months if not nursing, 3-6 months if nursing; ovulation can precede menses, so lactation is not reliable contraception.", "zh": "未哺乳者1至2個月月經恢復，哺乳者約3至6個月；可能先排卵再來月經，因此哺乳不是可靠的避孕。"},
+       {"en": "Colostrum 48-72 hr; milk comes in day 3; engorgement about day 4. Non-nursing: snug bra/binder, ice, avoid nipple stimulation; resolves in 24-36 hr.", "zh": "初乳持續48至72小時；第3天泌乳；約第4天脹奶。未哺乳者：穿緊身胸罩或束帶、冰敷、避免刺激乳頭；24至36小時緩解。"},
+       {"en": "Diuresis begins within 12 hr; urinary retention is possible; bowel movement by day 2-3; hemorrhoids common.", "zh": "12小時內開始利尿；可能尿滯留；第2至3天排便；痔瘡常見。"},
+       {"en": "Temp may reach 100.4 F (38 C) in first 24 hr from dehydration, higher suggests infection. Pulse may fall to 50 (normal); >100 suggests hemorrhage or infection. Falling BP suggests hypovolemia; rising respirations suggest PE, atony or hemorrhage.", "zh": "前24小時因脫水體溫可達100.4°F（38°C），更高提示感染。脈搏可降至50次/分（正常）；大於100提示出血或感染。血壓下降提示低血容量；呼吸明顯加快提示肺栓塞、子宮收縮不良或出血。"},
+       {"en": "Orthostatic hypotension may occur in the first 8 hours: assist when getting up.", "zh": "產後前8小時可能有姿勢性低血壓：下床需有人協助。"}
+     ], "pdf_pages": [386, 387]},
+    {"heading": {"en": "Postpartum assessment and teaching", "zh": "產後評估與衛教"},
+     "points": [
+       {"en": "Assess vital signs, pain, fundus (height, consistency, location after voiding), lochia, breasts, perineum (REEDA-type swelling/discoloration), incisions, bowel, I&O, calf for thrombophlebitis, bonding, emotions.", "zh": "評估生命徵象、疼痛、子宮底（排尿後測高度、硬度、位置）、惡露、乳房、會陰（腫脹或瘀青）、傷口、腸道、輸出入量、小腿血栓靜脈炎、親子依附與情緒。"},
+       {"en": "Give Rho(D) immune globulin within 72 hours to Rh-negative clients with Rh-positive newborn; check rubella immunity and vaccinate if nonimmune, avoid conception 1-3 months.", "zh": "Rh陰性且新生兒為Rh陽性者，72小時內給予Rho(D)免疫球蛋白；確認德國麻疹免疫，無免疫者接種疫苗，之後1至3個月避免受孕。"},
+       {"en": "Teach: no heavy lifting for 3 weeks, daily rest, delay intercourse until lochia stops, follow-up at 4-6 weeks, report chills, fever, increased lochia, or depressed mood.", "zh": "衛教：3週內避免提重物、每日休息、惡露停止後再行房、4至6週回診、有畏寒、發燒、惡露增多或情緒低落立即通報。"}
+     ], "pdf_pages": [386, 387]},
+    {"heading": {"en": "Postpartum discomforts and emotional changes", "zh": "產後不適與情緒變化"},
+     "points": [
+       {"en": "Perineum/episiotomy: ice first 24 hours then sitz baths; perineal care after voiding; analgesic spray; avoid suppositories/enemas with lacerations.", "zh": "會陰／會陰切開：前24小時冰敷，之後坐浴；排尿後做會陰護理；使用止痛噴劑；有撕裂傷時避免塞劑與灌腸。"},
+       {"en": "Constipation: 2000 mL fluid/day, fiber, ambulation, stool softener if prescribed.", "zh": "便秘：每日2000 mL水分、高纖飲食、走動、依醫囑用軟便劑。"},
+       {"en": "Postpartum blues: tearfulness, mood swings, anxiety, fatigue, usually self-limited. Depression: guilt, loss of pleasure, less responsive to infant, suicidal thoughts. Psychosis: delusions, hallucinations, confusion, break with reality (emergency).", "zh": "產後憂鬱情緒：愛哭、情緒起伏、焦慮、疲倦，通常自行緩解。產後憂鬱症：罪惡感、失去興趣、對嬰兒反應少、自殺意念。產後精神病：妄想、幻覺、混亂、脫離現實（急症）。"},
+       {"en": "All clients should be screened for depression in pregnancy and postpartum.", "zh": "所有孕產婦於孕期與產後均應篩檢憂鬱。"}
+     ], "pdf_pages": [387, 388]},
+    {"heading": {"en": "Nutrition and breast-feeding/chest-feeding", "zh": "營養與哺乳"},
+     "points": [
+       {"en": "Nursing parents need 200-500 extra kcal/day, more fluids, and continued prenatal vitamins; avoid alcohol, unprescribed medications, gas-forming foods and caffeine.", "zh": "哺乳者每日增加200至500大卡、多喝水、持續服用孕期維生素；避免酒精、未經處方藥物、產氣食物與咖啡因。"},
+       {"en": "Start feeding early; use LATCH (Latch, Audible swallowing, Type of nipple, Comfort, Hold).", "zh": "儘早開始哺乳；以LATCH評估（含乳、吞嚥聲、乳頭型態、舒適度、抱姿）。"},
+       {"en": "Wash breasts with water only (no soap); supportive non-underwire bra day and night; air-dry cracked nipples 10-20 min, ensure areolar latch, rotate positions.", "zh": "乳房只用清水清潔（不用肥皂）；日夜穿支撐型無鋼圈胸罩；乳頭皸裂時風乾10至20分鐘、確保含住乳暈、輪換姿勢。"},
+       {"en": "Engorgement: feed frequently, warm before, cold between feeds, massage. Estrogen-containing pills not recommended; progestin-only less likely to reduce milk.", "zh": "脹奶：頻繁哺乳、餵前熱敷、餵後冷敷、按摩。不建議含雌激素避孕藥；單純黃體素較不影響奶量。"},
+       {"en": "Newborn stools are light yellow, seedy, watery, frequent.", "zh": "母乳寶寶糞便為淺黃色、顆粒狀、水樣、次數多。"}
+     ], "pdf_pages": [388, 389]}
+  ],
+  "critical_points": [
+    {"en": "Boggy uterus: massage the fundus until firm (first check bladder); never push on an uncontracted uterus (inversion risk).", "zh": "子宮鬆軟：按摩至變硬（先確認膀胱排空）；切勿用力推壓未收縮的子宮（有內翻風險）。", "pdf_pages": [385, 391]},
+    {"en": "Saturating a pad in 15 minutes = excessive bleeding: massage fundus, notify the provider.", "zh": "15分鐘浸濕一片護墊＝過量出血：按摩子宮底並通知醫師。", "pdf_pages": [385, 386, 391]},
+    {"en": "Clots larger than 1 cm are abnormal; notify provider.", "zh": "大於1公分血塊為異常，需通知醫師。", "pdf_pages": [391]},
+    {"en": "Lochia: rubra 0-3 days, serosa 4-10, alba 11-14; foul odor = infection.", "zh": "惡露：紅色0至3天、漿液4至10天、白色11至14天；惡臭＝感染。", "pdf_pages": [385, 391]},
+    {"en": "Temp up to 100.4 F in first 24 hr is expected; push oral fluids.", "zh": "前24小時體溫至100.4°F屬預期；鼓勵多喝水。", "pdf_pages": [387, 390]},
+    {"en": "Pulse >100, falling BP, and restlessness suggest hemorrhage; a pulse of 50 to 60 can be normal postpartum bradycardia.", "zh": "脈搏大於100、血壓下降、躁動提示出血；產後脈搏50至60可為正常心搏過緩。", "pdf_pages": [385, 387]},
+    {"en": "Full bladder pushes the uterus up and to the side and causes atony.", "zh": "膀胱脹滿會把子宮推向上方與側邊並導致收縮不良。", "pdf_pages": [387]},
+    {"en": "Rh-negative mother with Rh-positive newborn: Rho(D) immune globulin within 72 hours.", "zh": "Rh陰性母親、Rh陽性新生兒：72小時內給Rho(D)免疫球蛋白。", "pdf_pages": [386]},
+    {"en": "Rubella-nonimmune: vaccinate postpartum, avoid pregnancy for 1-3 months.", "zh": "德國麻疹無免疫：產後接種，1至3個月內避免懷孕。", "pdf_pages": [387]},
+    {"en": "Ice perineum first 24 hours, then sitz baths.", "zh": "會陰前24小時冰敷，之後坐浴。", "pdf_pages": [387]},
+    {"en": "Breast-feeding is not reliable contraception; avoid estrogen pills while nursing.", "zh": "哺乳不是可靠避孕；哺乳期避免含雌激素避孕藥。", "pdf_pages": [386, 388, 389]},
+    {"en": "Do not use soap on nipples; air-dry cracked nipples; do not limit feeding during engorgement.", "zh": "乳頭不用肥皂；皸裂乳頭風乾；脹奶時不要限制哺乳。", "pdf_pages": [388, 391]},
+    {"en": "Calf pain, warmth, redness suggests thrombophlebitis; postpartum depression requires screening and suicide risk assessment.", "zh": "小腿疼痛、溫熱、紅腫提示血栓靜脈炎；產後憂鬱需篩檢並評估自殺風險。", "pdf_pages": [386, 388]},
+    {"en": "After cesarean, delay abdominal exercises for 3-4 weeks; get out of bed by turning on the side and pushing up.", "zh": "剖腹產後3至4週才做腹部運動；下床時先側身再用手臂撐起。", "pdf_pages": [390, 391]}
+  ],
+  "mnemonics": [
+    {"en": "Lochia colors: RSA - Rubra (red), Serosa (pink-brown), Alba (white).", "zh": "惡露顏色RSA：紅（Rubra）、漿液粉褐（Serosa）、白（Alba）。", "pdf_pages": [385]},
+    {"en": "BUBBLE-HE postpartum check: Breasts, Uterus, Bladder, Bowels, Lochia, Episiotomy/perineum, Homans/legs, Emotions.", "zh": "BUBBLE-HE產後檢查：乳房、子宮、膀胱、腸道、惡露、會陰、下肢、情緒。", "pdf_pages": [386]},
+    {"en": "LATCH: Latch, Audible swallowing, Type of nipple, Comfort, Hold.", "zh": "LATCH：含乳、吞嚥聲、乳頭型態、舒適度、抱姿。", "pdf_pages": [388]}
+  ],
+  "figures": [
+    {"pdf_page": 386, "caption": {"en": "Box of lochia amounts and Figure 26.1 on fundal descent about 1 cm/day.", "zh": "惡露量分級與子宮底每日下降約1公分示意圖。"}},
+    {"pdf_page": 387, "caption": {"en": "Table 26.1 normal postpartum vital signs; full bladder displacing the uterus.", "zh": "表26.1正常產後生命徵象；膀胱脹滿使子宮移位。"}},
+    {"pdf_page": 388, "caption": {"en": "Comparison of postpartum blues, depression and psychosis symptoms.", "zh": "產後憂鬱情緒、憂鬱症與精神病症狀比較。"}},
+    {"pdf_page": 389, "caption": {"en": "Box 26.4 breast-feeding/chest-feeding procedure steps.", "zh": "哺乳步驟。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "On palpation of a client 2 hours postpartum, the uterus is soft and boggy. What is the first action?", "zh": "產後2小時觸診發現子宮柔軟鬆弛。第一步處置為何？"},
+     "options": [{"en": "Massage the fundus until firm", "zh": "按摩子宮底至變硬"}, {"en": "Elevate her legs", "zh": "抬高雙腿"}, {"en": "Push downward on the fundus", "zh": "用力下壓子宮底"}, {"en": "Reassess in 1 hour", "zh": "1小時後再評估"}],
+     "answer": [0], "rationale": {"en": "Massage stimulates contraction; pushing on an atonic uterus risks inversion.", "zh": "按摩可促進子宮收縮；推壓鬆弛子宮有內翻風險。"},
+     "pdf_pages": [385, 391], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which finding in a 1-day postpartum client requires follow-up?", "zh": "下列哪項產後第1天的發現需要追蹤處理？"},
+     "options": [{"en": "Mild afterpains", "zh": "輕微後陣痛"}, {"en": "Pulse 60", "zh": "脈搏60"}, {"en": "Colostrum", "zh": "出現初乳"}, {"en": "Foul-smelling red lochia", "zh": "有惡臭的紅色惡露"}],
+     "answer": [3], "rationale": {"en": "Foul lochia suggests infection; the others are normal.", "zh": "惡臭惡露提示感染；其他皆為正常。"},
+     "pdf_pages": [390, 391], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which statements by a nursing client show understanding? Select all that apply.", "zh": "哺乳產婦的哪些說法表示了解衛教內容？（複選）"},
+     "options": [{"en": "I will wear a supportive bra.", "zh": "我會穿支撐型胸罩。"}, {"en": "I will wash my nipples with soap daily.", "zh": "我每天用肥皂洗乳頭。"}, {"en": "I will keep drinking extra fluids.", "zh": "我會多喝水。"}, {"en": "I do not need contraception while nursing.", "zh": "哺乳期間不需要避孕。"}, {"en": "I will air-dry cracked nipples after feeds.", "zh": "餵奶後我會讓皸裂的乳頭風乾。"}],
+     "answer": [0, 2, 4], "rationale": {"en": "Soap dries the nipples, and ovulation can occur before menses so contraception is still needed.", "zh": "肥皂會使乳頭乾燥；且可能先排卵，仍需避孕。"},
+     "pdf_pages": [388, 391], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client 4 hours postpartum has a temperature of 100.2 F (37.8 C), otherwise stable. What is the best action?", "zh": "產後4小時體溫100.2°F（37.8°C），其餘穩定。最佳處置為何？"},
+     "options": [{"en": "Encourage oral fluids", "zh": "鼓勵多喝水"}, {"en": "Notify the obstetrician now", "zh": "立即通知產科醫師"}, {"en": "Start antibiotics", "zh": "開始抗生素"}, {"en": "Apply a cooling blanket", "zh": "使用降溫毯"}],
+     "answer": [0], "rationale": {"en": "Temperature up to 100.4 F in 24 hours is from dehydration.", "zh": "24小時內至100.4°F多為脫水所致。"},
+     "pdf_pages": [387, 390], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A postpartum client is pale and restless with BP 100/60 (baseline 122/80) and pulse 110. The pad is saturated with clots. What does the nurse do first?", "zh": "產後婦女蒼白躁動，血壓100/60（原122/80）、脈搏110，護墊被血塊浸濕。護理師首先做什麼？"},
+     "options": [{"en": "Check the fundus and massage if boggy, then notify the provider", "zh": "檢查子宮底，鬆軟則按摩，並通知醫師"}, {"en": "Offer fluids", "zh": "提供飲水"}, {"en": "Encourage ambulation", "zh": "鼓勵下床走動"}, {"en": "Recheck in an hour", "zh": "1小時後再評估"}],
+     "answer": [0], "rationale": {"en": "Signs of hypovolemia from atony need immediate fundal massage and provider notification.", "zh": "子宮收縮不良造成的低血容量徵象，需立即按摩並通知醫師。"},
+     "pdf_pages": [385], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which findings suggest postpartum depression rather than postpartum blues? Select all that apply.", "zh": "哪些表現較符合產後憂鬱症而非產後憂鬱情緒？（複選）"},
+     "options": [{"en": "Suicidal thoughts", "zh": "有自殺念頭"}, {"en": "Tearfulness for a few days", "zh": "數日愛哭"}, {"en": "Less responsive to the infant", "zh": "對嬰兒反應減少"}, {"en": "Loss of pleasure in usual activities", "zh": "對平常活動失去興趣"}, {"en": "Feeling let-down for 3 days", "zh": "有3天低落感"}],
+     "answer": [0, 2, 3], "rationale": {"en": "Suicidal thoughts, reduced infant responsiveness and anhedonia indicate depression.", "zh": "自殺念頭、對嬰兒反應減少與失去興趣為憂鬱症表現。"},
+     "pdf_pages": [388], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "10 Postpartum Hemorrhage (PPH) NCLEX Style Questions (Nursing.com)", "url": "https://academy.nursing.com/pop-quiz/postpartum-hemorrhage-pph/", "note": {"en": "Free NCLEX-style quiz on postpartum hemorrhage.", "zh": "產後出血的免費NCLEX式測驗。"}},
+    {"title": "NCLEX-PN Quiz: Labor And Postpartum Client Monitoring (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-pn/quiz/labor-and-postpartum-client-monitoring", "note": {"en": "Practice quiz with explanations on labor and postpartum monitoring.", "zh": "附解析的產程與產後監測練習題。"}},
+    {"title": "Postpartum hemorrhage case study, Maryland Next Gen NCLEX Test Bank Project", "url": "https://www.nursing.umaryland.edu/media/son/mnwc/nclex-faculty-case-studies/postpartum-hemmorhage.docx", "note": {"en": "Next Gen NCLEX-style case study on postpartum hemorrhage.", "zh": "產後出血的次世代NCLEX式個案研究。"}}
+  ]
+}

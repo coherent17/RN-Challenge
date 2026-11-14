@@ -1,0 +1,242 @@
+{
+  "number": 17,
+  "title": {"en": "Urinary and Bowel Elimination", "zh": "泌尿與腸道排泄"},
+  "overview": {
+    "en": "This chapter covers urinary assessment, retention, UTI, the types of incontinence, urinary catheters, urinary diversions, bowel assessment, constipation, impaction, diarrhea, ostomies, and restorative measures such as bladder training, enemas and laxatives. High-yield themes: urine output of 30 mL/hr, CAUTI prevention, stoma color, and ileostomy fluid loss.",
+    "zh": "本章涵蓋泌尿評估、尿滯留、泌尿道感染、各類尿失禁、導尿管、尿路改道、腸道評估、便祕、糞便嵌塞、腹瀉、造口，以及膀胱訓練、灌腸與軟便劑等復健措施。高頻重點：尿量30 mL/hr、預防導尿管相關感染、造口顏色、迴腸造口體液流失。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Urinary Assessment", "zh": "泌尿評估"},
+      "points": [
+        {"en": "Assess voiding pattern: fluid intake, frequency, nocturia, urgency, dysuria, hesitancy, dribbling, hematuria, caffeine, and drugs such as diuretics.", "zh": "評估排尿型態：水分攝取、頻率、夜尿、急尿、排尿疼痛、遲滯、滴尿、血尿、咖啡因及利尿劑等藥物。"},
+        {"en": "Urine output should be at least 30 mL/hr; below that, or two consecutive low voids, needs prompt follow-up for renal impairment or hypovolemia.", "zh": "尿量應至少30 mL/hr；低於此值或連續兩次排尿量偏少需立即追蹤，可能為腎功能受損或血容量不足。"},
+        {"en": "Normal urine is clear, pale straw to amber, mild ammonia odor. Foul odor may mean UTI; cloudy from bacteria/WBC; blood is abnormal. Phenazopyridine and beets change color; asparagus changes odor.", "zh": "正常尿液清澈、淡稻草色至琥珀色、有輕微氨味。惡臭可能為泌尿道感染；混濁可因細菌或白血球；血尿為異常。Phenazopyridine 與甜菜根會改變顏色；蘆筍改變氣味。"},
+        {"en": "Physical findings: flank pain and CVA tenderness (kidney), distended bladder, meatal drainage, perineal skin problems.", "zh": "身體檢查：腰痛與肋脊角壓痛（腎）、膀胱脹、尿道口分泌物、會陰皮膚問題。"}
+      ],
+      "pdf_pages": [249, 250]
+    },
+    {
+      "heading": {"en": "Urinary Retention and UTI", "zh": "尿滯留與泌尿道感染"},
+      "points": [
+        {"en": "Retention: bladder cannot fully empty; straining, small frequent voids or dribbling, suprapubic discomfort. Postvoid residual by bladder scan or straight cath confirms it. Causes: enlarged prostate, stones.", "zh": "尿滯留：膀胱無法完全排空；用力排尿、少量頻尿或滴尿、恥骨上不適。以膀胱掃描或單次導尿測餘尿確認。原因：攝護腺肥大、結石。"},
+        {"en": "UTI symptoms: dysuria, urgency, frequency, suprapubic tenderness, cloudy foul urine, hematuria. Older adults may show confusion, falls, incontinence and no fever.", "zh": "泌尿道感染症狀：排尿疼痛、急尿、頻尿、恥骨上壓痛、混濁惡臭尿、血尿。老年人可能只表現意識混亂、跌倒、失禁，且不發燒。"},
+        {"en": "Most common organism is E. coli. Lower UTI = cystitis; upper = pyelonephritis; ascending infection can cause urosepsis.", "zh": "最常見致病菌為大腸桿菌。下泌尿道感染＝膀胱炎；上泌尿道＝腎盂腎炎；上行感染可致泌尿道敗血症。"},
+        {"en": "Asymptomatic bacteriuria is not treated; symptomatic UTI gets antibiotics. CAUTI is a preventable health care-associated infection.", "zh": "無症狀性菌尿不治療；有症狀的泌尿道感染使用抗生素。導尿管相關感染（CAUTI）是可預防的醫療照護相關感染。"},
+        {"en": "Risks: indwelling catheter, stasis, poor perineal hygiene, incontinence, constipation, stones, pregnancy, menopause, delayed voiding.", "zh": "風險：留置導尿管、尿液滯留、會陰衛生不良、失禁、便祕、結石、懷孕、停經、習慣憋尿。"}
+      ],
+      "pdf_pages": [249, 250]
+    },
+    {
+      "heading": {"en": "Types of Urinary Incontinence", "zh": "尿失禁類型"},
+      "points": [
+        {"en": "Urge (overactive bladder): sudden strong urge then leakage before reaching toilet; nocturia.", "zh": "急迫性（膀胱過動）：突然強烈尿意，來不及到廁所即漏尿；夜尿。"},
+        {"en": "Stress: small leaks with cough, laugh or exertion from weak sphincter or pelvic floor.", "zh": "壓力性：咳嗽、大笑或用力時少量漏尿，因括約肌或骨盆底肌無力。"},
+        {"en": "Mixed: urge plus stress. Overflow: bladder distended by obstruction or underactive muscle, constant dribbling.", "zh": "混合性：急迫加壓力性。滿溢性：因阻塞或膀胱肌無力造成膀胱脹滿，持續滴尿。"},
+        {"en": "Functional: normal urinary tract but cannot reach or use toilet in time (arthritis, mobility, cognition); reflex: nerve damage (MS, spinal cord injury) with leakage without warning.", "zh": "功能性：泌尿道正常，但因關節炎、行動或認知問題無法及時如廁；反射性：神經受損（多發性硬化、脊髓損傷），無預警漏尿。"},
+        {"en": "Treat with pelvic floor exercises, bladder training, scheduled toileting, safety measures, and medication for overactive bladder.", "zh": "處理：骨盆底運動、膀胱訓練、定時如廁、安全措施，過動膀胱可用藥物。"}
+      ],
+      "pdf_pages": [250, 251]
+    },
+    {
+      "heading": {"en": "Urinary Catheters", "zh": "導尿管"},
+      "points": [
+        {"en": "Straight (single lumen) for one-time drainage, specimens, residuals; indwelling with balloon (double lumen); three-way (triple lumen) for continuous bladder irrigation.", "zh": "單次導尿管（單腔）用於一次性排空、採檢、測餘尿；留置氣球導尿管（雙腔）；三腔導尿管用於持續膀胱灌洗。"},
+        {"en": "Strict aseptic technique for insertion; sterile field above waist, 1-inch border contaminated. Female: advance about 3 inches then 1-2 inches more after urine; male: 7-9 inches then 1-2 inches more.", "zh": "插入須嚴格無菌；無菌區保持在腰部以上，邊緣1吋視為污染。女性：進約3吋，見尿後再進1-2吋；男性：進7-9吋，見尿後再進1-2吋。"},
+        {"en": "Inflate balloon fully only after urine returns. If the client has pain on inflation, stop and deflate; do not continue.", "zh": "見尿後才完全充氣氣球。若充氣時個案疼痛，須停止並放氣，不可繼續。"},
+        {"en": "Care: clean meatus and catheter with soap and water daily, keep bag below bladder level, secure catheter to thigh, no disconnecting the closed system, no lotion or powder near the catheter, empty bag regularly, remove as soon as possible.", "zh": "護理：每日以肥皂水清潔尿道口與導管、集尿袋低於膀胱、導管固定於大腿、不隨意中斷密閉系統、導管周圍不用乳液或粉、定時倒尿、盡早拔除。"},
+        {"en": "Removal: deflate the balloon completely with a syringe, pull slowly, record first void and amounts for 24 hours.", "zh": "拔除：以針筒完全抽空氣球，緩慢拔出，記錄第一次排尿及24小時尿量。"},
+        {"en": "Ureteral/nephrostomy tubes: never clamp, irrigate only if prescribed with at most 5 mL sterile saline; output under 30 mL/hr or none for 15 minutes is reported at once.", "zh": "輸尿管／腎造口管：絕不夾管，僅在醫囑下以最多5 mL無菌生理食鹽水緩慢沖洗；尿量低於30 mL/hr或15分鐘無尿須立即通報。"}
+      ],
+      "pdf_pages": [251, 252]
+    },
+    {
+      "heading": {"en": "Urinary Diversion and Stoma Care", "zh": "尿路改道與造口護理"},
+      "points": [
+        {"en": "Types: ureterostomy (pouch needed), ileal conduit (stoma and pouch), continent internal ileal reservoir such as Kock pouch (self-catheterize every 4-6 hours), ureterosigmoidostomy (urine passes with stool, no stoma).", "zh": "類型：輸尿管造口（需戴袋）、迴腸導管（造口與尿袋）、可控式迴腸貯尿囊如 Kock pouch（每4-6小時自行導尿）、輸尿管乙狀結腸造口（尿隨糞便排出，無造口）。"},
+        {"en": "Postop: check stoma hourly for 24 hours (red and moist); dusky or dark stoma means necrosis; urine flow 30-60 mL/hr, report under 30 mL/hr or none for 15 min.", "zh": "術後：前24小時每小時檢查造口（紅色濕潤）；暗黑或紫暗代表壞死；尿量30-60 mL/hr，低於30 mL/hr或15分鐘無尿須通報。"},
+        {"en": "Watch for hematuria, peritonitis, return of peristalsis in 2-3 days, shock, hemorrhage, thrombophlebitis and lymphedema after radical cystectomy.", "zh": "觀察血尿、腹膜炎、2-3天腸蠕動恢復，以及根除性膀胱切除後的休克、出血、血栓性靜脈炎與淋巴水腫。"},
+        {"en": "Urine pH should be 4.0-6.0; do not put the dipstick into the stoma.", "zh": "尿液 pH 應為4.0-6.0；試紙不可放入造口內。"},
+        {"en": "Pouch care: change in the morning (least urine), cut barrier no more than 3 mm larger than stoma, empty when one-third full, change every 5-7 days, avoid karaya (urine erodes it), vinegar soak for odor, bath water below the stoma.", "zh": "尿袋護理：早晨更換（尿量最少）、底板開口不超過造口大3 mm、三分之一滿時倒空、每5-7天更換、避免 karaya（尿會侵蝕）、以稀釋白醋浸泡除臭、泡澡水位低於造口。"},
+        {"en": "Reservoir catheterization: start every 2-3 hours, lengthen by 1 hour per week to every 4-6 hours; use clean technique; never force.", "zh": "貯尿囊導尿：起初每2-3小時，每週延長1小時至每4-6小時；使用清潔技術；不可強插。"}
+      ],
+      "pdf_pages": [253, 254, 255]
+    },
+    {
+      "heading": {"en": "Promoting Urinary Elimination", "zh": "促進排尿"},
+      "points": [
+        {"en": "Fluids about 2000-2300 mL/day (if no heart/renal restriction); avoid fluids 2 hours before sleep for nocturia.", "zh": "每日水分約2000-2300 mL（無心腎限制時）；睡前2小時避免飲水以減少夜尿。"},
+        {"en": "Privacy, normal position (women sitting, men standing), running water, double voiding, bladder scan for residual.", "zh": "提供隱私、採正常姿勢（女性坐、男性站）、流水聲、二次排尿、膀胱掃描測餘尿。"},
+        {"en": "Prevent infection: fluids, perineal hygiene, front-to-back wiping, cotton underwear, regular voiding.", "zh": "預防感染：補水、會陰衛生、由前往後擦拭、棉質內褲、規律排尿。"},
+        {"en": "Avoid bladder irritants (coffee, tea, soft drinks, chocolate, smoking). Kegel exercises, bladder training with urge suppression, scheduled toileting every 2-3 hours.", "zh": "避免膀胱刺激物（咖啡、茶、汽水、巧克力、吸菸）。凱格爾運動、以放鬆呼吸抑制尿意的膀胱訓練、每2-3小時定時如廁。"},
+        {"en": "Intermittent catheterization: about 400 mL per cath shows a good schedule.", "zh": "間歇導尿：每次約400 mL表示排程適當。"}
+      ],
+      "pdf_pages": [255, 256, 257]
+    },
+    {
+      "heading": {"en": "Bowel Assessment and Alterations", "zh": "腸道評估與異常"},
+      "points": [
+        {"en": "Influences: age, fiber and fluids, activity, stress/depression, medications (opioids and iron constipate; antibiotics cause diarrhea), position, pregnancy, pain.", "zh": "影響因素：年齡、纖維與水分、活動、壓力／憂鬱、藥物（鴉片類與鐵劑致便祕；抗生素致腹瀉）、姿勢、懷孕、疼痛。"},
+        {"en": "Constipation: fewer than 3 stools per week, hard dry stools. Impaction: repeated urge without passage, seepage of liquid stool; confused and debilitated clients at greatest risk.", "zh": "便祕：每週少於3次、糞便硬而乾。糞便嵌塞：反覆便意卻無法排出、滲出液態糞便；意識混亂與虛弱者風險最高。"},
+        {"en": "Diarrhea: unformed liquid stool, risk of dehydration and electrolyte imbalance; consider C. difficile after antibiotics.", "zh": "腹瀉：排出液狀稀便，有脫水與電解質失衡風險；抗生素後須考慮 C. difficile。"},
+        {"en": "Incontinence, flatulence, and hemorrhoids (engorged rectal veins from straining, pregnancy, heart/liver failure).", "zh": "大便失禁、脹氣與痔瘡（因用力、懷孕、心肝衰竭致直腸靜脈腫脹）。"}
+      ],
+      "pdf_pages": [256, 257]
+    },
+    {
+      "heading": {"en": "Bowel Diversion: Colostomy and Ileostomy", "zh": "腸道造口：結腸造口與迴腸造口"},
+      "points": [
+        {"en": "Healthy stoma is red or pink and moist; pale suggests low Hgb/Hct; dark, dusky, purple or black means ischemia and the surgeon must be notified immediately.", "zh": "健康造口為紅或粉紅且濕潤；蒼白提示血紅素／血比容低；暗黑、紫暗或黑色代表缺血，須立即通知外科醫師。"},
+        {"en": "Ascending colostomy gives liquid stool; transverse loose to semiformed; descending and sigmoid near-normal. Ileostomy output is liquid, green to yellow.", "zh": "升結腸造口排液狀便；橫結腸為糊狀至半成形；降結腸與乙狀結腸接近正常。迴腸造口為液狀、由深綠轉黃。"},
+        {"en": "Ileostomy carries high risk of dehydration and electrolyte imbalance; monitor I&O.", "zh": "迴腸造口脫水與電解質失衡風險高；監測輸出入量。"},
+        {"en": "Postop: pouch fitted early, empty at one-third full, keep stool off skin, passing flatus and stool by about 72 hours is expected, teach to limit gas-forming foods.", "zh": "術後：早期裝上造口袋、三分之一滿時倒空、避免糞便接觸皮膚、約72小時內排氣與排便屬預期，教導限制產氣食物。"},
+        {"en": "Colostomy irrigation: 500-1000 mL lukewarm tap water, bag at shoulder level, insert without force, clamp for cramping, same time daily, about 1 hour after meals.", "zh": "結腸造口灌洗：500-1000 mL 微溫自來水、灌洗袋與肩同高、不可強行插入、絞痛時夾管、每日同一時間、飯後約1小時。"},
+        {"en": "Preop: enterostomal therapist marks site, diet and bowel prep as ordered, teach-back, and psychosocial support about body image and sexuality.", "zh": "術前：造口治療師標記位置、依醫囑飲食與腸道準備、回覆示教、提供身體意象與性生活的心理支持。"}
+      ],
+      "pdf_pages": [258, 259]
+    },
+    {
+      "heading": {"en": "Restorative Bowel Care, Laxatives and Enemas", "zh": "腸道復健、軟便劑與灌腸"},
+      "points": [
+        {"en": "Bowel training: same time daily, hot drink or prune juice, privacy, lean forward or footstool, exercise at least 150 minutes per week, high-fiber diet with fluids.", "zh": "腸道訓練：每日固定時間、熱飲或西梅汁、隱私、前傾或腳凳、每週運動至少150分鐘、高纖飲食並補水。"},
+        {"en": "Diarrhea diet: clear liquids then low-residue (white rice, bread, bananas, potatoes); protect skin; fecal collection devices if skin intact.", "zh": "腹瀉飲食：清流質後改低渣（白飯、麵包、香蕉、馬鈴薯）；保護皮膚；皮膚完整時可用糞便收集裝置。"},
+        {"en": "Laxatives should not be used long term (reduced motility and sensation). Antidiarrheals treat cause as well.", "zh": "軟便劑不可長期使用（降低蠕動與感覺）。腹瀉也應針對病因處理並可用止瀉藥。"},
+        {"en": "Enema: left lateral position, tube toward umbilicus, container at shoulder height, stop and breathe for cramping, hold as long as possible; normal saline preferred (isotonic); hypertonic (Fleet) contraindicated in dehydration and young infants; tap water limited to 3 due to overload risk.", "zh": "灌腸：左側臥、管子朝向肚臍、容器與肩同高、絞痛時停止並深呼吸、盡量忍住；首選生理食鹽水（等張）；高張（Fleet）禁用於脫水與幼嬰；自來水灌腸最多3次以免容積過量。"},
+        {"en": "Digital removal of stool: last resort, left lateral position, monitor pulse because vagal stimulation can slow heart rate.", "zh": "手挖糞便：最後手段，左側臥，監測脈搏，因迷走神經刺激可使心跳減慢。"}
+      ],
+      "pdf_pages": [259, 260, 261]
+    }
+  ],
+  "critical_points": [
+    {"en": "Urine output below 30 mL/hr (or two consecutive low voids) requires prompt evaluation.", "zh": "尿量低於30 mL/hr（或連續兩次排尿量少）須立即評估。", "pdf_pages": [249]},
+    {"en": "Older adults with UTI may show only confusion, falls or incontinence, without fever.", "zh": "老年人泌尿道感染可能僅表現意識混亂、跌倒或失禁，且不發燒。", "pdf_pages": [250]},
+    {"en": "Asymptomatic bacteriuria is not treated with antibiotics.", "zh": "無症狀性菌尿不用抗生素治療。", "pdf_pages": [250]},
+    {"en": "CAUTI prevention: aseptic insertion, closed system, bag below bladder, daily care, remove catheter early.", "zh": "預防 CAUTI：無菌插入、密閉系統、集尿袋低於膀胱、每日護理、盡早拔管。", "pdf_pages": [251]},
+    {"en": "If a client has pain as the catheter balloon inflates, stop inflating and deflate; the balloon may be in the urethra.", "zh": "氣球充氣時個案疼痛，須停止並放氣；氣球可能仍在尿道內。", "pdf_pages": [252, 262]},
+    {"en": "Never clamp a ureteral or nephrostomy tube; irrigate only if prescribed with max 5 mL sterile saline.", "zh": "輸尿管／腎造口管絕不夾管；僅在醫囑下以最多5 mL無菌生理食鹽水沖洗。", "pdf_pages": [251, 252]},
+    {"en": "Urinary stoma pouch: empty at one-third full, change every 5-7 days, change in the morning.", "zh": "尿路造口袋：三分之一滿倒空、每5-7天更換、早晨更換。", "pdf_pages": [255]},
+    {"en": "A dusky, purple, dark blue or black stoma indicates necrosis: notify the surgeon immediately.", "zh": "造口暗紅、紫、深藍或黑色代表壞死：立即通知外科醫師。", "pdf_pages": [253, 258, 259]},
+    {"en": "Healthy stoma: red or pink and moist; passing flatus after colostomy is a normal sign of returning peristalsis.", "zh": "健康造口：紅或粉紅、濕潤；結腸造口後排氣是腸蠕動恢復的正常徵象。", "pdf_pages": [258, 262]},
+    {"en": "Ileostomy: most frequent complication is fluid and electrolyte imbalance.", "zh": "迴腸造口：最常見併發症為體液與電解質失衡。", "pdf_pages": [259, 263]},
+    {"en": "Stool consistency by colostomy site: ascending liquid, transverse loose/semiformed, descending/sigmoid near normal.", "zh": "各結腸造口糞便性質：升結腸液狀、橫結腸糊狀／半成形、降結腸與乙狀結腸接近正常。", "pdf_pages": [259]},
+    {"en": "Opioids and iron cause constipation; antibiotics cause diarrhea (watch for C. difficile).", "zh": "鴉片類與鐵劑引起便祕；抗生素引起腹瀉（注意 C. difficile）。", "pdf_pages": [257]},
+    {"en": "Digital stool removal can stimulate the vagus nerve and slow heart rate: monitor pulse.", "zh": "手挖糞便可刺激迷走神經使心跳變慢：監測脈搏。", "pdf_pages": [261]},
+    {"en": "Hypertonic enemas are contraindicated in dehydration and young infants; tap water enemas limited to 3.", "zh": "高張灌腸禁用於脫水與幼嬰；自來水灌腸最多3次。", "pdf_pages": [261]},
+    {"en": "Enema position: left lateral (Sims) with rectal tube aimed at the umbilicus.", "zh": "灌腸姿勢：左側臥（Sims 臥位），肛管朝向肚臍。", "pdf_pages": [260]},
+    {"en": "Do not place a urine dipstick into the stoma; normal urine pH is 4.0-6.0.", "zh": "試紙不可放入造口；正常尿液 pH 為4.0-6.0。", "pdf_pages": [255]}
+  ],
+  "mnemonics": [
+    {"en": "Stoma color: red = good, dusky/dark = dead (call the surgeon).", "zh": "造口顏色：紅＝好，暗黑＝壞死（通知外科醫師）。", "pdf_pages": [258]},
+    {"en": "Further along the colon, firmer the stool: ascending liquid, descending formed.", "zh": "愈往遠端結腸，糞便愈成形：升結腸液狀，降結腸成形。", "pdf_pages": [259]},
+    {"en": "Catheter bag stays below the bladder for downhill flow.", "zh": "集尿袋永遠低於膀胱，讓尿液順勢流下。", "pdf_pages": [251]}
+  ],
+  "figures": [
+    {"pdf_page": 250, "caption": {"en": "Boxes 17.1-17.3: urination pattern assessment, abnormal findings and UTI risk factors.", "zh": "方框17.1-17.3：排尿型態評估、異常發現與泌尿道感染風險因子。"}},
+    {"pdf_page": 252, "caption": {"en": "Box 17.4: urinary catheter insertion and removal steps.", "zh": "方框17.4：導尿管插入與拔除步驟。"}},
+    {"pdf_page": 254, "caption": {"en": "Fig. 17.2: urinary diversion procedures (ureterostomy, conduit, reservoir, sigmoidostomy).", "zh": "圖17.2：尿路改道手術（輸尿管造口、導管、貯尿囊、乙狀結腸造口）。"}},
+    {"pdf_page": 255, "caption": {"en": "Boxes 17.5-17.6: self-catheterization of a stoma and urinary stoma care.", "zh": "方框17.5-17.6：造口自我導尿與尿路造口護理。"}},
+    {"pdf_page": 258, "caption": {"en": "Fig. 17.3: locations of colostomies in the colon.", "zh": "圖17.3：結腸造口位置。"}},
+    {"pdf_page": 259, "caption": {"en": "Box 17.8: colostomy irrigation procedure.", "zh": "方框17.8：結腸造口灌洗步驟。"}},
+    {"pdf_page": 260, "caption": {"en": "Boxes 17.9-17.10: measures to promote defecation and enema administration.", "zh": "方框17.9-17.10：促進排便措施與灌腸步驟。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "A client with a ureterostomy says, 'I empty the urinary collection bag when it is two-thirds full.' What is the nurse's response?", "zh": "輸尿管造口個案說：「我在尿袋三分之二滿時才倒。」護理師應如何回應？"},
+      "options": [
+        {"en": "That is correct", "zh": "正確"},
+        {"en": "Empty it when one-third full to prevent pulling and leakage", "zh": "應在三分之一滿時倒空以免牽拉與滲漏"},
+        {"en": "Empty it only once daily", "zh": "每天只倒一次"},
+        {"en": "Empty it when completely full", "zh": "完全滿時才倒"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "A heavy bag pulls on the appliance and can leak; empty at one-third full.", "zh": "尿袋過重會牽拉底板造成滲漏；三分之一滿即應倒空。"},
+      "pdf_pages": [255, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a new transverse colostomy has which finding requiring immediate surgeon notification?", "zh": "新做橫結腸造口的個案，哪項發現需立即通知外科醫師？"},
+      "options": [
+        {"en": "Beefy red shiny stoma", "zh": "牛肉紅且發亮的造口"},
+        {"en": "Purple stoma", "zh": "紫色造口"},
+        {"en": "Skin excoriation around stoma", "zh": "造口周圍皮膚破損"},
+        {"en": "Semiformed stool", "zh": "半成形糞便"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Purple or dusky color suggests ischemia/necrosis. Red stoma and semiformed stool are expected; excoriation needs treatment but is less urgent.", "zh": "紫色或暗色代表缺血／壞死；紅色造口與半成形糞便為預期；皮膚破損需處理但不如前者緊急。"},
+      "pdf_pages": [258, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which is the most frequent postoperative complication after an ileostomy?", "zh": "迴腸造口術後最常見的併發症為何？"},
+      "options": [
+        {"en": "Folate deficiency", "zh": "葉酸缺乏"},
+        {"en": "Fat malabsorption", "zh": "脂肪吸收不良"},
+        {"en": "Intestinal obstruction", "zh": "腸阻塞"},
+        {"en": "Fluid and electrolyte imbalance", "zh": "體液與電解質失衡"}
+      ],
+      "answer": [3],
+      "rationale": {"en": "Liquid stool is lost continuously; monitor I&O and replace fluids.", "zh": "液狀糞便持續流失；須監測輸出入並補充水分。"},
+      "pdf_pages": [259, 263],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "While inflating the balloon of an indwelling catheter, the client reports pain. What does the nurse do?", "zh": "留置導尿管氣球充氣時，個案主訴疼痛。護理師應如何處理？"},
+      "options": [
+        {"en": "Continue inflating", "zh": "繼續充氣"},
+        {"en": "Stop, deflate, and advance the catheter farther before reinflating", "zh": "停止、放氣，再將導管推進更深後重新充氣"},
+        {"en": "Remove the catheter and tell the provider", "zh": "拔出導尿管並通知醫師"},
+        {"en": "Inflate with more water", "zh": "再多灌些水"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Pain suggests the balloon is in the urethra. Deflate and advance the catheter more before reinflating.", "zh": "疼痛表示氣球在尿道內；放氣並再推進導管後再充氣。"},
+      "pdf_pages": [252, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which statements about colostomy irrigation are correct? Select all that apply.", "zh": "關於結腸造口灌洗，哪些正確？（複選）"},
+      "options": [
+        {"en": "Use 500-1000 mL lukewarm tap water", "zh": "使用500-1000 mL微溫自來水"},
+        {"en": "Hang the bag at about shoulder level", "zh": "灌洗袋掛在約肩膀高度"},
+        {"en": "Clamp the tubing if cramping occurs", "zh": "絞痛時夾住管子"},
+        {"en": "Insert the tube with a twisting force", "zh": "以旋轉力量強行插入管子"},
+        {"en": "Do it at the same time each day", "zh": "每日在同一時間進行"}
+      ],
+      "answer": [0, 1, 2, 4],
+      "rationale": {"en": "Insert gently without force; the other items are correct.", "zh": "插管須輕柔不可用力；其餘皆正確。"},
+      "pdf_pages": [259, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "The surgeon requests a catheter for continuous bladder irrigation. Which does the nurse obtain?", "zh": "外科醫師要求持續膀胱灌洗用導尿管。護理師應取哪一種？"},
+      "options": [
+        {"en": "Straight catheter", "zh": "單次導尿管"},
+        {"en": "Coude tip catheter", "zh": "Coude 彎頭導尿管"},
+        {"en": "Triple-lumen catheter", "zh": "三腔導尿管"},
+        {"en": "Double-lumen catheter", "zh": "雙腔導尿管"}
+      ],
+      "answer": [2],
+      "rationale": {"en": "Three lumens: irrigant inflow, drainage and balloon inflation.", "zh": "三個腔：灌洗液流入、引流與氣球充氣。"},
+      "pdf_pages": [251, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "For digital removal of stool, how should the nurse position the client and what should be monitored?", "zh": "手挖糞便時，護理師應如何擺位並監測什麼？"},
+      "options": [
+        {"en": "Prone; blood pressure", "zh": "俯臥；血壓"},
+        {"en": "Left lateral side-lying; pulse", "zh": "左側臥；脈搏"},
+        {"en": "Right lateral; temperature", "zh": "右側臥；體溫"},
+        {"en": "Lithotomy; respirations", "zh": "截石位；呼吸"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Left lateral position; vagal stimulation can cause bradycardia.", "zh": "採左側臥；迷走神經刺激可造成心搏過緩。"},
+      "pdf_pages": [260, 261, 262],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "NCLEX-RN Quiz: Elimination And Bowel Bladder Care - Varsity Tutors", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/elimination-and-bowel-bladder-care", "note": {"en": "20-question elimination practice quiz.", "zh": "20題排泄練習測驗。"}},
+    {"title": "Elimination Review - GetOnCourse", "url": "https://getoncourse.ai/notes/nclex-rn/basic-care-comfort/elimination/", "note": {"en": "Review of bowel, catheter and ostomy care.", "zh": "腸道、導尿管與造口護理複習。"}},
+    {"title": "Urinary elimination practice questions - Brainscape", "url": "https://www.brainscape.com/flashcards/urinary-elimination-practice-questions-s-17347131/packs/22337803", "note": {"en": "Flashcards including CAUTI prevention.", "zh": "包含 CAUTI 預防的字卡。"}},
+    {"title": "Basic care and comfort: elimination support - Achievable", "url": "https://app.achievable.me/study/nclex/learn/basic-care-and-comfort-elimination-support", "note": {"en": "Free reading on urinary catheters and ostomies.", "zh": "導尿管與造口的免費閱讀材料。"}}
+  ]
+}

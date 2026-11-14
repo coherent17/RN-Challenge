@@ -1,0 +1,864 @@
+{
+ "number": 61,
+ "title": {
+  "en": "Musculoskeletal Problems",
+  "zh": "肌肉骨骼問題"
+ },
+ "overview": {
+  "en": "Musculoskeletal anatomy and bone healing, diagnostic tests, soft tissue injuries, fractures with casts, traction and fixation, fracture complications, assistive devices, hip and knee surgery, dislocation, disc herniation, amputation, rheumatoid arthritis, osteoarthritis, osteoporosis and gout. Priorities are neurovascular checks, safe mobility and recognition of emergencies such as compartment syndrome and fat embolism.",
+  "zh": "涵蓋肌肉骨骼解剖與骨癒合、診斷檢查、軟組織損傷、骨折與石膏、牽引與固定、骨折併發症、輔具、髖/膝手術、脫位、椎間盤突出、截肢、類風濕性關節炎、退化性關節炎、骨質疏鬆與痛風。重點為神經血管評估、安全活動，以及辨識腔室症候群與脂肪栓塞等急症。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Anatomy, bone healing and risk factors",
+    "zh": "解剖、骨癒合與危險因子"
+   },
+   "pdf_pages": [
+    982,
+    983
+   ],
+   "points": [
+    {
+     "en": "Bones: spongy bone handles multidirectional force; compact bone resists longitudinal force; length growth stops at ages 18-25; bone resorption speeds with aging.",
+     "zh": "骨骼：海綿骨承受多方向力量；緻密骨抗縱向力；長度生長在18-25歲停止；老化後骨質吸收加速。"
+    },
+    {
+     "en": "Joints: synarthrosis (fixed), amphiarthrosis (slightly movable), diarthrosis (synovial, free movement); synovial fluid lubricates and cushions.",
+     "zh": "關節：不動關節、微動關節、滑動關節（可自由活動）；滑液潤滑與緩衝。"
+    },
+    {
+     "en": "Muscle contraction needs ATP and calcium; acetylcholine from the motor end plate starts it and acetylcholinesterase breaks it down.",
+     "zh": "肌肉收縮需要ATP與鈣；運動終板釋放乙醯膽鹼啟動，乙醯膽鹼酯酶分解之。"
+    },
+    {
+     "en": "Bone healing stages: hematoma, granulation tissue, callus formation, ossification/remodeling, healing complete.",
+     "zh": "骨癒合階段：血腫、肉芽組織、骨痂形成、骨化/重塑、癒合完成。"
+    },
+    {
+     "en": "Risk factors: falls, calcium deficiency, postmenopause, obesity, medications, hyperuricemia, infection, autoimmune and neoplastic disease.",
+     "zh": "危險因子：跌倒、缺鈣、停經後、肥胖、藥物、高尿酸、感染、自體免疫與腫瘤疾病。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Diagnostic tests",
+    "zh": "診斷檢查"
+   },
+   "pdf_pages": [
+    983,
+    984,
+    985
+   ],
+   "points": [
+    {
+     "en": "X-ray/MRI: support the injured limb above and below the joint, give analgesia first, remove metal, screen for pregnancy; no pacemaker or magnetic implants for MRI.",
+     "zh": "X光/MRI：支托受傷肢體上下關節、事先給止痛、移除金屬、詢問懷孕；MRI不可有心律調節器或磁性植入物。"
+    },
+    {
+     "en": "Arthrocentesis: consent, compression bandage, ice, rest joint 8-24 h; report fever or swelling; steroid injection may raise glucose in diabetics.",
+     "zh": "關節穿刺：同意書、壓縮繃帶、冰敷、關節休息8-24小時；發燒或腫脹要通報；類固醇注射可能使糖尿病人血糖升高。"
+    },
+    {
+     "en": "Arthroscopy: fast 8-12 h, consent, neurovascular checks, compression bandage 2-4 days, elevate and ice; report fever, redness, drainage >3 days.",
+     "zh": "關節鏡：禁食8-12小時、同意書、神經血管評估、壓縮繃帶2-4天、抬高與冰敷；發燒、紅腫、引流超過3天要通報。"
+    },
+    {
+     "en": "DXA measures bone density (minimal radiation); bone scan uses IV radioisotope, drink 32 oz fluid, void before scanning; no special precautions afterward.",
+     "zh": "DXA測骨密度（輻射極少）；骨掃描靜脈注射放射性同位素，需喝32盎司水、掃描前排尿；之後無特殊防護。"
+    },
+    {
+     "en": "Biopsy: monitor bleeding, hematoma, infection, elevate site 24 h. EMG: needle insertion is uncomfortable; no stimulants or sedatives 24 h before.",
+     "zh": "切片：監測出血、血腫、感染、抬高部位24小時。肌電圖：針刺不適；檢查前24小時避免興奮劑或鎮靜劑。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Soft tissue injuries",
+    "zh": "軟組織損傷"
+   },
+   "pdf_pages": [
+    985
+   ],
+   "points": [
+    {
+     "en": "Strain = overstretched muscle/tendon; sprain = stretched or torn ligament (twisting). Manage with RICE: rest, ice, compression, elevation.",
+     "zh": "拉傷＝肌肉/肌腱過度拉扯；扭傷＝韌帶拉傷或撕裂（扭轉）。以RICE處置：休息、冰敷、加壓、抬高。"
+    },
+    {
+     "en": "Moderate sprains may need casting; severe ligament damage needs surgery.",
+     "zh": "中度扭傷可能需石膏；嚴重韌帶損傷需手術。"
+    },
+    {
+     "en": "Rotator cuff tear: shoulder pain and inability to hold arm abducted (drop-arm); NSAIDs, PT, sling, ice/heat; surgery if complete tear.",
+     "zh": "旋轉肌袖撕裂：肩痛且無法維持手臂外展（落臂試驗）；NSAID、物理治療、吊帶、冷熱敷；完全撕裂需手術。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Fractures, reduction, fixation, traction and casts",
+    "zh": "骨折、復位、固定、牽引與石膏"
+   },
+   "pdf_pages": [
+    985,
+    986,
+    987,
+    988
+   ],
+   "points": [
+    {
+     "en": "Findings: pain, deformity, crepitus, swelling, loss of function, spasm, neurovascular compromise. Immobilize first and check neurovascular status; cover an open fracture with a sterile dressing and splint.",
+     "zh": "表現：疼痛、變形、骨擦音、腫脹、功能喪失、痙攣、神經血管受損。先固定並評估神經血管；開放性骨折以無菌敷料覆蓋並夾板固定。"
+    },
+    {
+     "en": "Closed reduction is manual; open reduction (ORIF) is surgical with plates, screws, pins or rods. External fixators need pin care and stability checks.",
+     "zh": "閉鎖性復位為手法；開放性復位（ORIF）為手術並用鋼板、螺釘、鋼釘或髓內釘。外固定器需針孔護理與穩定性檢查。"
+    },
+    {
+     "en": "Traction: weights hang freely, never touch the floor; do not remove weights without order; ropes move freely in pulleys; keep alignment.",
+     "zh": "牽引：重量自由懸吊、不碰地；未經醫囑勿移除重量；繩索在滑輪中順暢；維持對位。"
+    },
+    {
+     "en": "Skeletal traction 25-40 lb with pin site care; skin traction (Buck's) not more than 8-10 lb, foot of bed raised; balanced suspension keeps ~20 degree thigh angle.",
+     "zh": "骨骼牽引25-40磅並做針孔護理；皮膚牽引（Buck氏）不超過8-10磅、抬高床尾；平衡懸吊維持大腿約20度。"
+    },
+    {
+     "en": "Plaster cast dries 24-72 h (synthetic ~20 min); handle with palms; cool hair dryer only; keep dry; elevate; turn every 1-2 h; do not insert objects.",
+     "zh": "石膏：乾燥需24-72小時（合成約20分鐘）；以手掌托持；僅用冷風吹風機；保持乾燥；抬高；每1-2小時翻動；勿塞入物品。"
+    },
+    {
+     "en": "Watch for circulation problems (pain, swelling, discoloration, tingling, coolness, weak pulse) and infection (fever, hot spots, odor).",
+     "zh": "注意循環障礙（疼痛、腫脹、變色、刺痛、冰冷、脈搏弱）與感染（發燒、熱點、異味）。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Complications of fractures",
+    "zh": "骨折併發症"
+   },
+   "pdf_pages": [
+    989,
+    990
+   ],
+   "points": [
+    {
+     "en": "Fat embolism: restlessness, sudden dyspnea, chest pain, cough, hypoxemia, crackles, confusion; give oxygen, notify PHCP, prepare for ventilation.",
+     "zh": "脂肪栓塞：躁動、突發呼吸困難、胸痛、咳嗽、低血氧、囉音、意識混亂；給氧、通知醫師、準備呼吸器。"
+    },
+    {
+     "en": "Acute compartment syndrome: pain unrelieved or worse, pain on passive movement, paresthesia, pallor; pulselessness is late; irreversible damage after 4-6 h; loosen dressings/bivalve cast, fasciotomy.",
+     "zh": "急性腔室症候群：疼痛無法緩解或加劇、被動活動疼痛、感覺異常、蒼白；無脈為晚期；4-6小時後可能不可逆；鬆開敷料/剖開石膏、筋膜切開術。"
+    },
+    {
+     "en": "Osteomyelitis: fever >101 F, local pain, leukocytosis, high ESR; long-term IV antibiotics, surgery if resistant.",
+     "zh": "骨髓炎：發燒>101°F、局部疼痛、白血球與ESR升高；長期靜脈抗生素、抗藥者需手術。"
+    },
+    {
+     "en": "Avascular necrosis: blood supply interrupted causing bone death; report pain/numbness.",
+     "zh": "缺血性壞死：血供中斷導致骨壞死；疼痛/麻木需通報。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Crutches, canes and walkers",
+    "zh": "拐杖、手杖與助行器"
+   },
+   "pdf_pages": [
+    990,
+    991
+   ],
+   "points": [
+    {
+     "en": "Crutches fit: 2-3 finger widths below axilla, elbows flexed 20-30 degrees; never bear weight on axillae (brachial plexus injury); crutches placed 6-10 in diagonally forward; stand on affected side when assisting.",
+     "zh": "拐杖合適度：腋下留2-3指寬、肘彎20-30度；腋下勿承重（臂神經叢損傷）；拐杖置於斜前6-10吋；協助時站在患側。"
+    },
+    {
+     "en": "Gaits: 2-point (partial weight, bilateral prostheses), 3-point (no/partial weight on one leg), 4-point (weight bearing both), swing-to/swing-through (strong arms).",
+     "zh": "步態：兩點（部分承重）、三點（患肢不/部分承重）、四點（雙腳可承重）、擺至/擺過（手臂有力）。"
+    },
+    {
+     "en": "Stairs: up with the good leg first (up with the good); down with crutches and the affected leg first (down with the bad).",
+     "zh": "樓梯：上樓先出健腿；下樓先出拐杖與患腿。"
+    },
+    {
+     "en": "Cane in hand on the unaffected side, handle at greater trochanter, 4-6 in from the foot; walker - all four points flat before weight bearing.",
+     "zh": "手杖拿在健側手、握把與大轉子同高、距足側4-6吋；助行器－四腳著地後再承重。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hip fracture, knee replacement, dislocation",
+    "zh": "髖骨折、膝關節置換與脫位"
+   },
+   "pdf_pages": [
+    991,
+    992
+   ],
+   "points": [
+    {
+     "en": "Intracapsular hip fracture: poor blood supply, treated with replacement or ORIF; extracapsular: traction then ORIF/nail.",
+     "zh": "囊內髖骨折：血供差，以置換或ORIF處理；囊外：牽引後ORIF/髓內釘。"
+    },
+    {
+     "en": "Post-hip surgery: avoid hip flexion >90 degrees, adduction/crossing legs, internal rotation; avoid low chairs; keep leg aligned; monitor delirium, DVT, infection and neurovascular status.",
+     "zh": "髖部術後：避免髖屈曲>90度、內收/翹腳、內旋；避免低椅；維持肢體排列；監測譫妄、深部靜脈栓塞、感染與神經血管。"
+    },
+    {
+     "en": "Total knee replacement: CPM as prescribed, analgesia before CPM, weight bearing with device as tolerated, avoid dangling leg; tranexamic acid reduces blood loss.",
+     "zh": "全膝關節置換：依醫囑使用CPM、CPM前給止痛、使用輔具依耐受承重、避免下垂；tranexamic acid減少失血。"
+    },
+    {
+     "en": "Dislocation: asymmetry, pain, swelling; risks neurovascular compromise and avascular necrosis; reduce promptly then immobilize.",
+     "zh": "脫位：不對稱、疼痛、腫脹；風險為神經血管受損與缺血性壞死；及早復位後固定。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Disc herniation and disc surgery",
+    "zh": "椎間盤突出與手術"
+   },
+   "pdf_pages": [
+    992,
+    993
+   ],
+   "points": [
+    {
+     "en": "Cervical herniation (C5-C6, C6-C7): pain to shoulder/arm, paresthesia; collar, heat/ice, bed rest, avoid neck flexion/rotation.",
+     "zh": "頸椎突出（C5-C6、C6-C7）：疼痛放射至肩臂、感覺異常；頸圈、冷熱敷、臥床、避免頸屈曲/旋轉。"
+    },
+    {
+     "en": "Lumbar herniation (L4-L5, L5-S1): back pain radiating down leg (sciatica), worse with bending, lifting, coughing; sleep on side with pillow between flexed knees; neurological deterioration or bowel/bladder dysfunction needs urgent care.",
+     "zh": "腰椎突出（L4-L5、L5-S1）：下背痛放射至腿（坐骨神經痛）、彎腰、提重物、咳嗽加劇；側臥並屈膝間夾枕；神經惡化或大小便功能異常需緊急處理。"
+    },
+    {
+     "en": "After cervical surgery: watch breathing, hoarseness (laryngeal nerve), hematoma; after lumbar surgery: sensation/movement of legs, urinary retention, ileus, CSF leak (clear drainage, glucose-positive), logroll.",
+     "zh": "頸椎術後：觀察呼吸、聲音沙啞（喉返神經）、血腫；腰椎術後：下肢感覺活動、尿滯留、腸阻塞、腦脊髓液漏（清澈、葡萄糖陽性）、軸線翻身。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Amputation",
+    "zh": "截肢"
+   },
+   "pdf_pages": [
+    993,
+    994
+   ],
+   "points": [
+    {
+     "en": "Complications: hemorrhage, infection, phantom pain, flexion contractures; diabetics prone to wound separation and infection.",
+     "zh": "併發症：出血、感染、幻肢痛、屈曲攣縮；糖尿病人易傷口裂開與感染。"
+    },
+    {
+     "en": "Do not elevate the residual limb on pillows after the first 24 h (contracture); prone positioning as prescribed; wrap with elastic bandage or shrinker; rewrap immediately if it slips.",
+     "zh": "最初24小時後勿以枕頭抬高殘肢（防攣縮）；依醫囑俯臥；彈性繃帶或殘肢套包紮；鬆脫時立即重新包紮。"
+    },
+    {
+     "en": "Above-knee: prevent external rotation with trochanter roll; below-knee: do not let limb hang, avoid long sitting.",
+     "zh": "膝上截肢：以轉子捲防外旋；膝下截肢：殘肢勿下垂、避免久坐。"
+    },
+    {
+     "en": "Traumatic amputation: call 911, direct pressure, elevate, wrap part in a sealed bag placed in ice water (not directly on ice).",
+     "zh": "外傷性截肢：呼叫119、直接加壓、抬高、離斷部位裝密封袋置於冰水中（不直接接觸冰）。"
+    }
+   ]
+  },
+  {
+   "heading": {
+    "en": "Rheumatoid arthritis, osteoarthritis, osteoporosis, gout",
+    "zh": "類風濕性關節炎、退化性關節炎、骨質疏鬆與痛風"
+   },
+   "pdf_pages": [
+    995,
+    996,
+    997
+   ],
+   "points": [
+    {
+     "en": "RA: systemic autoimmune inflammation, morning stiffness >30 min, symmetric joint deformity, elevated ESR, positive rheumatoid factor; NSAIDs, DMARDs, glucocorticoids; balance rest and activity, heat/cold, joint protection.",
+     "zh": "類風濕性關節炎：全身性自體免疫發炎、晨僵>30分鐘、對稱性關節變形、ESR升高、類風濕因子陽性；NSAID、DMARD、類固醇；休息與活動平衡、冷熱敷、保護關節。"
+    },
+    {
+     "en": "OA: cartilage loss in weight-bearing joints; pain worse after activity, relieved by rest; Heberden and Bouchard nodes; acetaminophen first, weight control; joint replacement when other measures fail.",
+     "zh": "退化性關節炎：負重關節軟骨流失；活動後痛加劇、休息緩解；Heberden與Bouchard結節；首選acetaminophen、控制體重；其他方法無效時行關節置換。"
+    },
+    {
+     "en": "Osteoporosis: demineralization, silent until fracture; kyphosis, height loss; calcium, vitamin D, protein; weight-bearing exercise; avoid alcohol/smoking/coffee; fall prevention.",
+     "zh": "骨質疏鬆：骨質流失、骨折前無症狀；駝背、身高變矮；補充鈣、維生素D、蛋白質；負重運動；避免酒精/吸菸/咖啡；預防跌倒。"
+    },
+    {
+     "en": "Gout: uric acid crystals, acute great-toe pain, tophi, renal stones; low-purine diet (avoid organ meats, wine, aged cheese), fluids 2000 mL/day, avoid alcohol and starvation diets, uric acid normal 2.7-8.5 mg/dL.",
+     "zh": "痛風：尿酸結晶、大拇趾急性劇痛、痛風石、腎結石；低普林飲食（避免內臟、酒、陳年起司）、水分2000 mL/日、避免酒精與飢餓飲食，尿酸正常2.7-8.5 mg/dL。"
+    }
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Compartment syndrome: pain out of proportion/unrelieved, pain on passive stretch, paresthesia; pulselessness is late; notify PHCP immediately, loosen constrictive dressing/cast.",
+   "zh": "腔室症候群：疼痛與傷勢不成比例/無法緩解、被動拉伸痛、感覺異常；無脈為晚期；立即通知醫師、鬆開束縛敷料/石膏。",
+   "pdf_pages": [
+    989
+   ]
+  },
+  {
+   "en": "Fat embolism: sudden dyspnea, chest pain, restlessness/confusion, hypoxemia, crackles after long-bone fracture; give oxygen, notify PHCP.",
+   "zh": "脂肪栓塞：長骨骨折後突發呼吸困難、胸痛、躁動/意識混亂、低血氧、囉音；給氧並通知醫師。",
+   "pdf_pages": [
+    989
+   ]
+  },
+  {
+   "en": "Neurovascular checks: color, temperature, pulses, capillary refill, movement, sensation distal to injury or cast.",
+   "zh": "神經血管評估：傷處或石膏遠端顏色、溫度、脈搏、微血管充填、活動、感覺。",
+   "pdf_pages": [
+    986,
+    989
+   ]
+  },
+  {
+   "en": "Wet plaster cast: palms only, 24-72 h to dry, cool dryer only, nothing inside cast; hot spot suggests infection.",
+   "zh": "濕石膏：僅用手掌、24-72小時乾燥、僅冷風、勿塞物；熱點提示感染。",
+   "pdf_pages": [
+    988,
+    989
+   ]
+  },
+  {
+   "en": "Traction weights must hang freely; never lift or remove without order; Buck's traction max 8-10 lb.",
+   "zh": "牽引重量需自由懸吊；未經醫囑勿提起或移除；Buck氏牽引最多8-10磅。",
+   "pdf_pages": [
+    987,
+    988
+   ]
+  },
+  {
+   "en": "Skeletal traction pin site: purulent drainage = infection; mild serous drainage and slight redness expected.",
+   "zh": "骨骼牽引針孔：膿性分泌物＝感染；輕微漿液性分泌物與微紅屬預期。",
+   "pdf_pages": [
+    988
+   ]
+  },
+  {
+   "en": "Hip surgery precautions: no flexion >90 degrees, no crossing legs, no internal rotation, avoid low chairs.",
+   "zh": "髖部手術注意：勿屈曲>90度、勿翹腳、勿內旋、避免低椅。",
+   "pdf_pages": [
+    991
+   ]
+  },
+  {
+   "en": "Crutches: 2-3 finger widths from axilla; axillary weight causes brachial plexus damage; up with good leg, down with bad.",
+   "zh": "拐杖：腋下2-3指寬；腋下承重造成臂神經叢損傷；上樓先健腿、下樓先患腿。",
+   "pdf_pages": [
+    990
+   ]
+  },
+  {
+   "en": "Cane goes on the unaffected side and moves with the affected leg.",
+   "zh": "手杖放健側並與患腿同時移動。",
+   "pdf_pages": [
+    990
+   ]
+  },
+  {
+   "en": "Amputation: rewrap residual limb immediately with elastic bandage if it slips; no pillow under limb after 24 h; prone positioning prevents hip contracture.",
+   "zh": "截肢：殘肢彈性繃帶鬆脫須立即重新包紮；24小時後肢下勿墊枕；俯臥防髖攣縮。",
+   "pdf_pages": [
+    993,
+    994
+   ]
+  },
+  {
+   "en": "Disc surgery: logroll, watch for CSF leak, hoarseness after cervical surgery, bowel/bladder dysfunction.",
+   "zh": "椎間盤手術：軸線翻身、注意腦脊髓液漏、頸椎術後聲音沙啞、大小便功能異常。",
+   "pdf_pages": [
+    993
+   ]
+  },
+  {
+   "en": "RA: morning stiffness >30 min, positive rheumatoid factor (<60 IU/mL normal), elevated ESR.",
+   "zh": "類風濕性關節炎：晨僵>30分鐘、類風濕因子陽性（<60 IU/mL為正常）、ESR升高。",
+   "pdf_pages": [
+    995
+   ]
+  },
+  {
+   "en": "Osteoarthritis pain worsens with activity and improves with rest; RA stiffness improves with activity.",
+   "zh": "退化性關節炎活動後疼痛加劇、休息緩解；類風濕晨僵活動後改善。",
+   "pdf_pages": [
+    995,
+    996
+   ]
+  },
+  {
+   "en": "Osteoporosis risk: age, female/postmenopausal, low calcium, smoking, alcohol, sedentary lifestyle, steroids, anticonvulsants.",
+   "zh": "骨質疏鬆危險因子：年齡、女性/停經後、低鈣、吸菸、酒精、久坐、類固醇、抗癲癇藥。",
+   "pdf_pages": [
+    996,
+    997
+   ]
+  },
+  {
+   "en": "Gout: elevated uric acid; low-purine diet, fluids 2000 mL/day, avoid alcohol.",
+   "zh": "痛風：尿酸升高；低普林飲食、水分2000 mL/日、避免酒精。",
+   "pdf_pages": [
+    997
+   ]
+  },
+  {
+   "en": "Open fracture: cover with sterile dressing and splint before moving; at the scene keep victim still and do not reduce.",
+   "zh": "開放性骨折：移動前以無菌敷料覆蓋並夾板固定；現場讓傷者保持不動且勿自行復位。",
+   "pdf_pages": [
+    986
+   ]
+  },
+  {
+   "en": "Radioisotope bone scan: drink fluids, void before scan; no radiation precautions afterward.",
+   "zh": "骨掃描：多喝水、掃描前排尿；之後無需輻射防護。",
+   "pdf_pages": [
+    984,
+    985
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "RICE for sprains/strains: Rest, Ice, Compression, Elevation.",
+   "zh": "扭傷/拉傷RICE：休息、冰敷、加壓、抬高。",
+   "pdf_pages": [
+    985
+   ]
+  },
+  {
+   "en": "Compartment syndrome 6 Ps: pain, pallor, paresthesia, paralysis, pulselessness (late), pressure/poikilothermia.",
+   "zh": "腔室症候群6P：疼痛、蒼白、感覺異常、麻痺、無脈（晚期）、壓力/皮溫改變。",
+   "pdf_pages": [
+    989
+   ]
+  },
+  {
+   "en": "Crutch stairs: 'Up with the good, down with the bad.'",
+   "zh": "拐杖上下樓：上樓先健腿、下樓先患腿。",
+   "pdf_pages": [
+    990
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 983,
+   "caption": {
+    "en": "Table 61.1 joint types and Fig. 61.1 stages of bone healing.",
+    "zh": "表61.1 關節類型與圖61.1 骨癒合階段。"
+   }
+  },
+  {
+   "pdf_page": 986,
+   "caption": {
+    "en": "Box 61.2 types of fractures and Fig. 61.2 illustrations; internal fixation.",
+    "zh": "表61.2 骨折類型與圖示；內固定。"
+   }
+  },
+  {
+   "pdf_page": 987,
+   "caption": {
+    "en": "Fig. 61.5 types of traction (Buck's, Russell's, head halter, pelvic, balanced suspension).",
+    "zh": "圖61.5 牽引類型（Buck氏、Russell氏、頭頸吊帶、骨盆、平衡懸吊）。"
+   }
+  },
+  {
+   "pdf_page": 989,
+   "caption": {
+    "en": "Box 61.3 fracture complications and fat embolism clinical judgment case.",
+    "zh": "表61.3 骨折併發症與脂肪栓塞臨床判斷案例。"
+   }
+  },
+  {
+   "pdf_page": 990,
+   "caption": {
+    "en": "Table 61.2 crutch gaits and crutch/cane instructions.",
+    "zh": "表61.2 拐杖步態與拐杖/手杖指導。"
+   }
+  },
+  {
+   "pdf_page": 994,
+   "caption": {
+    "en": "Amputation levels (Fig. 61.6) and residual limb wrapping (Fig. 61.7).",
+    "zh": "截肢層級（圖61.6）與殘肢包紮法（圖61.7）。"
+   }
+  },
+  {
+   "pdf_page": 995,
+   "caption": {
+    "en": "RA client education box (Box 61.5) and surgical options.",
+    "zh": "類風濕性關節炎衛教（表61.5）與手術選項。"
+   }
+  },
+  {
+   "pdf_page": 997,
+   "caption": {
+    "en": "Box 61.6 osteoporosis risk factors and gout phases.",
+    "zh": "表61.6 骨質疏鬆危險因子與痛風分期。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client in a new arm cast reports intense pain not relieved by elevation, ice and analgesia. Which problem is most likely?",
+    "zh": "新上手臂石膏的病人主訴劇痛，抬高、冰敷與止痛後仍未緩解。最可能為何？"
+   },
+   "options": [
+    {
+     "en": "Infection under the cast",
+     "zh": "石膏下感染"
+    },
+    {
+     "en": "Anxiety",
+     "zh": "焦慮"
+    },
+    {
+     "en": "Impaired tissue perfusion (compartment syndrome)",
+     "zh": "組織灌流受損（腔室症候群）"
+    },
+    {
+     "en": "Normal fracture pain",
+     "zh": "正常骨折疼痛"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Pain unrelieved by standard measures suggests neurovascular compromise; notify the PHCP immediately.",
+    "zh": "一般處置無法緩解的疼痛提示神經血管受損；應立即通知醫師。"
+   },
+   "pdf_pages": [
+    989
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which early symptom of compartment syndrome should the client report?",
+    "zh": "病人應通報腔室症候群的何種早期症狀？"
+   },
+   "options": [
+    {
+     "en": "Cyanotic fingers",
+     "zh": "手指發紺"
+    },
+    {
+     "en": "Numbness and tingling of the fingers",
+     "zh": "手指麻木刺痛"
+    },
+    {
+     "en": "Absent pulse",
+     "zh": "脈搏消失"
+    },
+    {
+     "en": "Warm, pink skin",
+     "zh": "皮膚溫暖粉紅"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Paresthesia is earliest; cyanosis and pulselessness are late.",
+    "zh": "感覺異常最早出現；發紺與無脈為晚期。"
+   },
+   "pdf_pages": [
+    989,
+    1001
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with a femur fracture in balanced suspension traction suddenly has chest pain, restlessness, cough and bilateral crackles. What does the nurse suspect and do first?",
+    "zh": "股骨骨折使用平衡懸吊牽引的病人突然胸痛、躁動、咳嗽、雙側囉音。護理師懷疑什麼且首先做什麼？"
+   },
+   "options": [
+    {
+     "en": "Pneumonia; encourage coughing",
+     "zh": "肺炎；鼓勵咳嗽"
+    },
+    {
+     "en": "Fat embolism; give oxygen and notify the PHCP",
+     "zh": "脂肪栓塞；給氧並通知醫師"
+    },
+    {
+     "en": "Anxiety; reassure",
+     "zh": "焦慮；安撫"
+    },
+    {
+     "en": "Compartment syndrome; remove traction",
+     "zh": "腔室症候群；移除牽引"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Sudden respiratory distress after long-bone fracture indicates fat embolism; oxygen and urgent notification.",
+    "zh": "長骨骨折後突發呼吸窘迫提示脂肪栓塞；給氧並緊急通報。"
+   },
+   "pdf_pages": [
+    989
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which statements about plaster cast care show understanding? Select all that apply.",
+    "zh": "下列關於石膏護理的敘述，何者顯示理解？（多選）"
+   },
+   "options": [
+    {
+     "en": "Keep the cast clean and dry",
+     "zh": "保持石膏清潔乾燥"
+    },
+    {
+     "en": "Use a warm hair dryer to speed drying",
+     "zh": "用熱風吹風機加速乾燥"
+    },
+    {
+     "en": "Keep the extremity elevated",
+     "zh": "維持肢體抬高"
+    },
+    {
+     "en": "Scratch under the cast with a padded hanger",
+     "zh": "用包覆衣架搔抓石膏內"
+    },
+    {
+     "en": "Handle with palms while wet",
+     "zh": "濕時用手掌托持"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Heat can burn skin; objects inside the cast can break skin.",
+    "zh": "熱風會燙傷皮膚；石膏內放物品會破壞皮膚。"
+   },
+   "pdf_pages": [
+    988,
+    989
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with a total hip replacement should be taught to avoid which?",
+    "zh": "全髖關節置換病人應避免何者？"
+   },
+   "options": [
+    {
+     "en": "Walking with a walker",
+     "zh": "使用助行器行走"
+    },
+    {
+     "en": "Flexing the hip more than 90 degrees and crossing legs",
+     "zh": "髖屈曲超過90度與翹腳"
+    },
+    {
+     "en": "Using a raised toilet seat",
+     "zh": "使用加高馬桶座"
+    },
+    {
+     "en": "Lying on the back",
+     "zh": "平躺"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "These positions risk dislocation of the prosthesis.",
+    "zh": "這些姿勢有人工關節脫位風險。"
+   },
+   "pdf_pages": [
+    991
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client using crutches asks why crutches cannot rest in the armpits. The nurse explains the risk of:",
+    "zh": "使用拐杖的病人詢問為何不能把腋下靠在拐杖上。護理師說明的風險為："
+   },
+   "options": [
+    {
+     "en": "Skin tears only",
+     "zh": "僅皮膚破損"
+    },
+    {
+     "en": "Brachial plexus injury",
+     "zh": "臂神經叢損傷"
+    },
+    {
+     "en": "Rib fracture",
+     "zh": "肋骨骨折"
+    },
+    {
+     "en": "Wrist sprain",
+     "zh": "腕部扭傷"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Weight on the axillae compresses the brachial plexus; leave 2-3 finger widths.",
+    "zh": "腋下承重壓迫臂神經叢；應留2-3指寬。"
+   },
+   "pdf_pages": [
+    990
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "An above-knee amputation client's elastic bandage has fallen off. What is the immediate action?",
+    "zh": "膝上截肢病人的彈性繃帶掉落。立即行動為何？"
+   },
+   "options": [
+    {
+     "en": "Apply ice",
+     "zh": "冰敷"
+    },
+    {
+     "en": "Call the PHCP and wait",
+     "zh": "通知醫師並等待"
+    },
+    {
+     "en": "Rewrap the residual limb with an elastic bandage",
+     "zh": "以彈性繃帶重新包紮殘肢"
+    },
+    {
+     "en": "Elevate on two pillows",
+     "zh": "墊兩個枕頭抬高"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Edema forms rapidly without compression; rewrap immediately.",
+    "zh": "未加壓水腫迅速形成；應立即重新包紮。"
+   },
+   "pdf_pages": [
+    993,
+    1002
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instructions are appropriate for a client with gout? Select all that apply.",
+    "zh": "下列哪些適用於痛風病人？（多選）"
+   },
+   "options": [
+    {
+     "en": "Drink about 2000 mL of fluid daily",
+     "zh": "每日飲水約2000 mL"
+    },
+    {
+     "en": "Eat organ meats for protein",
+     "zh": "以內臟補充蛋白質"
+    },
+    {
+     "en": "Avoid alcohol and starvation diets",
+     "zh": "避免酒精與飢餓飲食"
+    },
+    {
+     "en": "Follow a low-purine diet",
+     "zh": "遵循低普林飲食"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Organ meats are high in purines and can trigger attacks.",
+    "zh": "內臟高普林，可誘發發作。"
+   },
+   "pdf_pages": [
+    997
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "GetOnCourse - Musculoskeletal Disorders Review",
+   "url": "https://getoncourse.ai/notes/nclex-rn/medical-surgical-nursing/musculoskeletal-disorders/",
+   "note": {
+    "en": "NCLEX-RN musculoskeletal review notes and practice questions.",
+    "zh": "NCLEX-RN肌肉骨骼複習筆記與練習題。"
+   }
+  },
+  {
+   "title": "GetOnCourse - Traction, casts and immobilization care",
+   "url": "https://getoncourse.ai/revision/nclex-rn/medical-surgical-nursing/musculoskeletal-disorders/traction-casts-and-immobilization-care/",
+   "note": {
+    "en": "Review of traction and cast care.",
+    "zh": "牽引與石膏護理複習。"
+   }
+  },
+  {
+   "title": "GetOnCourse - Osteoporosis and metabolic bone disease",
+   "url": "https://getoncourse.ai/revision/nclex-rn/medical-surgical-nursing/musculoskeletal-disorders/osteoporosis-and-metabolic-bone-disease/",
+   "note": {
+    "en": "Osteoporosis review.",
+    "zh": "骨質疏鬆複習。"
+   }
+  },
+  {
+   "title": "Brainscape - Practice Questions flashcards (musculoskeletal)",
+   "url": "https://brainscape.com/flashcards/practice-questions-2697352/packs/4649499",
+   "note": {
+    "en": "Free flashcards of practice questions.",
+    "zh": "免費練習題閃卡。"
+   }
+  }
+ ]
+}

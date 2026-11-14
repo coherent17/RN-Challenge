@@ -1,0 +1,112 @@
+{
+"number": 42,
+"title": {"en": "Pediatric Medication Administration and Calculations", "zh": "兒童給藥與劑量計算"},
+"overview": {"en": "Safe medication administration in children: oral, subcutaneous/IM and IV routes, equipment such as burettes and syringe pumps, weight-based and BSA-based dose calculations, safe-dose checks, and age-appropriate approaches to give medications.", "zh": "兒童安全給藥：口服、皮下/肌肉與靜脈途徑、燒瓶（burette）與注射幫浦等設備、依體重與體表面積計算劑量、安全劑量檢核，以及依年齡的給藥技巧。"},
+"sections": [
+{"heading": {"en": "Oral medications", "zh": "口服藥物"},
+ "points": [
+ {"en": "Most pediatric oral drugs are liquids, suspensions or chewables; measure with an oral syringe or suitable device chosen for developmental age.", "zh": "兒童口服藥多為液劑、懸液或咀嚼錠；依發展年齡以口服針筒或適當器具測量。"},
+ {"en": "Shake suspensions well and give immediately after measuring so no drug settles out.", "zh": "懸液需充分搖勻，量好後立即給藥，避免藥物沉澱造成劑量不足。"},
+ {"en": "Give upright with head elevated to prevent aspiration; hold small child sideways on lap, syringe toward the side/back of the cheek, slowly.", "zh": "採直立、頭抬高以防吸入；小兒側抱於腿上，針筒置於頰側後方，緩慢給予。"},
+ {"en": "Check the mouth after tablets; enteric-coated, timed-release tablets and capsules must not be crushed.", "zh": "給錠劑後檢查口腔；腸溶錠、緩釋錠與膠囊不可壓碎。"},
+ {"en": "Newborns and infants have immature liver and kidneys, so drug metabolism and elimination are delayed.", "zh": "新生兒與嬰兒肝腎功能未成熟，藥物代謝與排除延遲。"}],
+ "pdf_pages": [578]},
+{"heading": {"en": "Medication guidelines for children", "zh": "兒童給藥原則"},
+ "points": [
+ {"en": "Use two identifiers (name, MRN, birth date); ask parents about allergies and successful methods.", "zh": "使用兩項辨識（姓名、病歷號、生日）；詢問家長過敏史與成功的給藥方式。"},
+ {"en": "Do not hide medication in food, milk or formula (may cause refusal and incomplete dose).", "zh": "不要將藥混入食物、牛奶或配方奶（可能導致拒食且劑量不足）。"},
+ {"en": "For bad taste: pinch nose and drink through a straw; offer juice or a frozen juice bar afterward.", "zh": "味道不佳時：捏鼻並用吸管喝；服藥後可給果汁或冰棒。"},
+ {"en": "Record the most successful method on the care plan.", "zh": "將最成功的給藥方式記錄於護理計畫。"}],
+ "pdf_pages": [579]},
+{"heading": {"en": "Subcutaneous and intramuscular injections", "zh": "皮下與肌肉注射"},
+ "points": [
+ {"en": "Subcutaneous: insulin and some vaccines; sites include lateral upper arm, abdomen, anterior thigh.", "zh": "皮下注射：胰島素與部分疫苗；部位為上臂外側、腹部、大腿前側。"},
+ {"en": "Infants: vastus lateralis is the preferred IM site; infant deltoid is not recommended.", "zh": "嬰兒：肌肉注射首選股外側肌；嬰兒不建議用三角肌。"},
+ {"en": "IM volumes: vastus lateralis and ventrogluteal 0.5 mL infant, 0.5-2 mL child; deltoid 0.5-1 mL child.", "zh": "肌肉注射量：股外側肌與腹臀肌嬰兒0.5 mL、兒童0.5-2 mL；三角肌兒童0.5-1 mL。"},
+ {"en": "Needle 22-25 gauge, about 5/8 to 1 inch; estimate length as half of the pinched muscle; small doses measured to nearest hundredth in a tuberculin syringe.", "zh": "針頭22-25號，約5/8至1吋；長度約為捏起肌肉厚度的一半；小劑量用結核菌素針筒測至百分位。"},
+ {"en": "Place an adhesive bandage afterward.", "zh": "注射後貼上膠布。"}],
+ "pdf_pages": [578, 579]},
+{"heading": {"en": "Intravenous medications", "zh": "靜脈給藥"},
+ "points": [
+ {"en": "IV drugs are diluted; assess site for inflammation, infiltration or extravasation before, during and after.", "zh": "靜脈藥物需稀釋；給藥前、中、後評估注射部位有無發炎、滲漏或外滲。"},
+ {"en": "Flush with normal saline (3-20 mL by policy) before and after, at the same rate as the drug; include flush volume in intake.", "zh": "給藥前後用生理食鹽水沖洗（依規定3-20 mL），速度與藥物相同；沖洗量計入輸入量。"},
+ {"en": "Always use pumps/controllers; burette sets are microdrip (60 gtt/mL), 100-150 mL capacity, in 1-mL increments; label clearly.", "zh": "一律使用幫浦/控制器；burette為微滴型（60 gtt/mL）、容量100-150 mL、刻度1 mL；需清楚標示。"},
+ {"en": "Syringe pump connects via Y-connector and delivers over the prescribed time.", "zh": "注射幫浦經Y型接頭連接，於指定時間內輸注。"},
+ {"en": "Track 24-hour fluid intake including flushes to prevent overhydration.", "zh": "追蹤24小時輸液量（含沖洗量）以防水分過量。"}],
+ "pdf_pages": [579, 580]},
+{"heading": {"en": "Dose calculation by weight and BSA", "zh": "依體重與體表面積計算劑量"},
+ "points": [
+ {"en": "lb to kg: divide by 2.2; kg to lb: multiply by 2.2 (nearest tenth).", "zh": "磅轉公斤：除以2.2；公斤轉磅：乘以2.2（取至小數點後一位）。"},
+ {"en": "Steps: convert weight, compute total daily dose (mg/kg/day x kg), divide by number of doses, compare with safe range.", "zh": "步驟：換算體重、計算每日總量（mg/kg/day x kg）、除以劑數、與安全範圍比較。"},
+ {"en": "Example: ceftriaxone 500 mg for a 15 lb (6.8 kg) child; safe 50-75 mg/kg = 340-510 mg, so safe. Ampicillin 850 mg for 36 lb (16.4 kg) at 50 mg/kg = 820 mg, so unsafe.", "zh": "例：15磅（6.8 kg）孩童ceftriaxone 500 mg；安全範圍50-75 mg/kg＝340-510 mg，故安全。36磅（16.4 kg）ampicillin 850 mg，50 mg/kg＝820 mg，故不安全。"},
+ {"en": "BSA dosing: dose per m2 x BSA (4 mg/m2 x 1.1 m2 = 4.4 mg); child dose from adult dose = (child BSA / 1.73) x adult dose.", "zh": "體表面積劑量：每m2劑量 x BSA（4 mg/m2 x 1.1 m2＝4.4 mg）；由成人劑量換算＝（兒童BSA/1.73）x 成人劑量。"},
+ {"en": "If weight is unavailable in an emergency use a length-based tape (Broselow).", "zh": "緊急且無體重時使用依身長估算的Broselow色碼尺。"}],
+ "pdf_pages": [580, 581]},
+{"heading": {"en": "Developmental considerations", "zh": "發展階段考量"},
+ "points": [
+ {"en": "Infants: perform quickly, then hold and comfort; pacifier allowed.", "zh": "嬰兒：快速執行，之後擁抱安撫；可用奶嘴。"},
+ {"en": "Toddlers and preschoolers: brief concrete explanation then perform; accept reasonable aggression; comfort afterward.", "zh": "幼兒與學齡前：簡短具體說明後立即執行；合理接受攻擊行為；事後安撫。"},
+ {"en": "School-age: explain, offer some control, therapeutic play, set limits (crying ok, biting not).", "zh": "學齡兒童：說明並給予部分控制權、治療性遊戲、設定界線（可哭不可咬人）。"},
+ {"en": "Adolescents: explain, allow control, encourage participation and self-expression.", "zh": "青少年：說明、給予控制權、鼓勵參與與自我表達。"},
+ {"en": "Ask parents whether they want to stay present; plan comfort measures before and after.", "zh": "詢問家長是否願意在場；事前事後規劃安撫措施。"}],
+ "pdf_pages": [581, 582]}
+],
+"critical_points": [
+{"en": "Never mix medication into food, milk or formula.", "zh": "不可將藥物混入食物、牛奶或配方奶。", "pdf_pages": [579]},
+{"en": "Suspensions: mix well and administer immediately after measuring.", "zh": "懸液：搖勻並於量好後立即給藥。", "pdf_pages": [578]},
+{"en": "Do not crush enteric-coated or timed-release tablets or capsules.", "zh": "不可壓碎腸溶錠、緩釋錠或膠囊。", "pdf_pages": [578]},
+{"en": "Vastus lateralis is the best IM site for infants (deltoid not recommended).", "zh": "嬰兒最佳肌肉注射部位為股外側肌（不建議三角肌）。", "pdf_pages": [579]},
+{"en": "IM volumes: infant 0.5 mL; child 0.5-2 mL (deltoid 0.5-1 mL).", "zh": "肌肉注射量：嬰兒0.5 mL；兒童0.5-2 mL（三角肌0.5-1 mL）。", "pdf_pages": [579]},
+{"en": "Two identifiers before every administration.", "zh": "每次給藥前使用兩項辨識。", "pdf_pages": [579]},
+{"en": "lb to kg: divide by 2.2.", "zh": "磅轉公斤：除以2.2。", "pdf_pages": [581]},
+{"en": "Always check the calculated dose against the safe mg/kg range before giving.", "zh": "給藥前一律以安全mg/kg範圍檢核計算劑量。", "pdf_pages": [581]},
+{"en": "Include IV flush volumes (3-20 mL) in intake; use pumps for all IV fluids and intermittent medications.", "zh": "靜脈沖洗量（3-20 mL）計入輸入量；所有靜脈輸液與間歇藥物使用幫浦。", "pdf_pages": [580]},
+{"en": "Burette sets are microdrip, 60 gtt/mL.", "zh": "Burette為微滴型，60 gtt/mL。", "pdf_pages": [580]},
+{"en": "Assess IV site for infiltration/extravasation before, during, after each IV medication.", "zh": "每次靜脈給藥前、中、後評估有無滲漏/外滲。", "pdf_pages": [579]},
+{"en": "Infants have delayed drug metabolism/elimination due to immature liver and kidneys.", "zh": "嬰兒肝腎未成熟，藥物代謝與排除延遲。", "pdf_pages": [578]}
+],
+"mnemonics": [
+{"en": "Dose formula: Desired / Available x Volume (D/H x Q).", "zh": "劑量公式：所需劑量/現有劑量 x 容量（D/H x Q）。", "pdf_pages": [583]},
+{"en": "Pounds to kilograms: 'divide by 2.2'; kilograms to pounds: 'multiply by 2.2' (kilo is bigger number of pounds).", "zh": "磅轉公斤「除2.2」；公斤轉磅「乘2.2」（同重量用磅的數字較大）。", "pdf_pages": [581]}
+],
+"figures": [
+{"pdf_page": 579, "caption": {"en": "Fig 42.1 oral dosing devices, Box 42.1 guidelines, Table 42.1 IM sites and volumes, Fig 42.2 vastus lateralis landmarks.", "zh": "圖42.1口服給藥器具、Box 42.1給藥原則、表42.1肌肉注射部位與容量、圖42.2股外側肌定位。"}},
+{"pdf_page": 581, "caption": {"en": "Boxes 42.2-42.6: weight conversion, abbreviations, safe-dose by weight examples, BSA calculations.", "zh": "Box 42.2-42.6：體重換算、縮寫、依體重安全劑量例題、體表面積計算。"}},
+{"pdf_page": 582, "caption": {"en": "Box 42.7: developmental considerations for giving medications.", "zh": "Box 42.7：各發展階段給藥考量。"}}
+],
+"questions": [
+{"stem": {"en": "Which statement by a parent indicates a need for further teaching about giving oral medication?", "zh": "哪項家長說法顯示口服給藥衛教需加強？"},
+ "options": [{"en": "\"I'll cuddle my child afterward.\"", "zh": "「事後我會抱抱孩子。」"}, {"en": "\"I'll give a frozen juice bar after the dose.\"", "zh": "「服藥後給冰棒。」"}, {"en": "\"I'll mix the medicine into the baby food.\"", "zh": "「我會把藥混入副食品。」"}, {"en": "\"I'll have him pinch his nose and use a straw.\"", "zh": "「讓他捏鼻用吸管喝。」"}],
+ "answer": [2], "rationale": {"en": "Mixing in food can make the child refuse the food and leads to an incomplete dose.", "zh": "混入食物可能使孩子拒食並導致劑量不完整。"},
+ "pdf_pages": [579], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "Ampicillin 125 mg IV is prescribed. After reconstitution the label states 1 g per 7.4 mL. How many mL does the nurse draw up?", "zh": "醫囑ampicillin 125 mg IV。復溶後標示每7.4 mL含1 g。護理師應抽取多少mL？"},
+ "options": [{"en": "1.1 mL", "zh": "1.1 mL"}, {"en": "0.54 mL", "zh": "0.54 mL"}, {"en": "7.4 mL", "zh": "7.4 mL"}, {"en": "0.925 mL", "zh": "0.925 mL"}],
+ "answer": [3], "rationale": {"en": "125 mg / 1000 mg x 7.4 mL = 0.925 mL.", "zh": "125 mg / 1000 mg x 7.4 mL = 0.925 mL。"},
+ "pdf_pages": [583], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "Digoxin maintenance is 8 mcg/kg/day in two divided doses for a 7.2 kg infant. How many mcg per dose?", "zh": "7.2 kg嬰兒毛地黃維持量8 mcg/kg/day，分兩次。每次多少mcg？"},
+ "options": [{"en": "12.6 mcg", "zh": "12.6 mcg"}, {"en": "21.4 mcg", "zh": "21.4 mcg"}, {"en": "28.8 mcg", "zh": "28.8 mcg"}, {"en": "57.6 mcg", "zh": "57.6 mcg"}],
+ "answer": [2], "rationale": {"en": "8 x 7.2 = 57.6 mcg/day; divided by 2 = 28.8 mcg per dose. 57.6 is the daily total.", "zh": "8 x 7.2＝57.6 mcg/天；除以2＝每次28.8 mcg。57.6為每日總量。"},
+ "pdf_pages": [583], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "A child weighs 33 lb. Gentamicin is prescribed at 2.5 mg/kg per dose. What dose does the nurse calculate (nearest tenth)?", "zh": "孩童體重33磅。醫囑gentamicin 2.5 mg/kg/次。護理師計算之劑量（取至小數第一位）？"},
+ "options": [{"en": "33.0 mg", "zh": "33.0 mg"}, {"en": "37.5 mg", "zh": "37.5 mg"}, {"en": "82.5 mg", "zh": "82.5 mg"}, {"en": "15.0 mg", "zh": "15.0 mg"}],
+ "answer": [1], "rationale": {"en": "33 / 2.2 = 15 kg; 15 x 2.5 = 37.5 mg. Mistakenly multiplying pounds by 2.5 gives 82.5.", "zh": "33/2.2＝15 kg；15 x 2.5＝37.5 mg。誤用磅數乘2.5會得82.5。"},
+ "pdf_pages": [581], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "The nurse prepares an IM injection for a 4-month-old. Which site is best?", "zh": "護理師為4個月大嬰兒準備肌肉注射。哪個部位最佳？"},
+ "options": [{"en": "Gluteus maximus", "zh": "臀大肌"}, {"en": "Deltoid", "zh": "三角肌"}, {"en": "Vastus lateralis", "zh": "股外側肌"}, {"en": "Rectus femoris", "zh": "股直肌"}],
+ "answer": [2], "rationale": {"en": "Vastus lateralis is the best-developed muscle in infants.", "zh": "股外側肌是嬰兒發育最完整的肌肉。"},
+ "pdf_pages": [579], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "Which actions are correct when giving IV intermittent medication to a child? Select all that apply.", "zh": "兒童間歇性靜脈給藥哪些做法正確？（複選）"},
+ "options": [{"en": "Flush with normal saline before and after the drug", "zh": "給藥前後用生理食鹽水沖洗"}, {"en": "Use an infusion pump", "zh": "使用輸液幫浦"}, {"en": "Exclude flush volume from the intake record", "zh": "沖洗量不計入輸入量"}, {"en": "Assess the IV site for infiltration", "zh": "評估靜脈處有無滲漏"}, {"en": "Give undiluted IV drugs", "zh": "給予未稀釋靜脈藥物"}],
+ "answer": [0, 1, 3], "rationale": {"en": "Flush volume must be counted; IV drugs are diluted.", "zh": "沖洗量須計入；靜脈藥物需稀釋。"},
+ "pdf_pages": [579, 580], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+{"stem": {"en": "A child's BSA is 0.5 m2. The average adult dose is 200 mg (adult BSA 1.73 m2). What is the child's dose (nearest tenth)?", "zh": "孩童體表面積0.5 m2；成人平均劑量200 mg（成人BSA 1.73 m2）。兒童劑量為（取至小數第一位）？"},
+ "options": [{"en": "57.8 mg", "zh": "57.8 mg"}, {"en": "100.0 mg", "zh": "100.0 mg"}, {"en": "34.6 mg", "zh": "34.6 mg"}, {"en": "69.2 mg", "zh": "69.2 mg"}],
+ "answer": [0], "rationale": {"en": "0.5/1.73 x 200 = 57.8 mg.", "zh": "0.5/1.73 x 200＝57.8 mg。"},
+ "pdf_pages": [581], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+],
+"resources": [
+{"title": "Pediatric Dosage Calculations for NCLEX (2026): mg/kg, Max Daily Dose & 20 Scenarios (Goodnurse)", "url": "https://goodnurse.com/article/218/pediatric-dosage-calculations-for-nclex-2026-mgkg-max-daily-dose-20-scenarios", "note": {"en": "Free set of 20 pediatric dose-calculation scenarios.", "zh": "免費20題兒童劑量計算情境。"}},
+{"title": "Dosage calculations: pediatric weight-based (Nursestudy.net)", "url": "https://nursestudy.net/dosage-calculations-pediatric-weight-based/", "note": {"en": "Free timed pediatric dosage quiz with rationales.", "zh": "附解析的免費兒童劑量計時測驗。"}},
+{"title": "Medication dosage calculations quiz (Varsity Tutors)", "url": "https://cdn.varsitytutors.com/practice/subjects/nclexrn/quiz/medication-dosage-calculations", "note": {"en": "Free NCLEX-RN medication dosage practice quiz.", "zh": "免費NCLEX-RN藥物劑量練習測驗。"}}
+]
+}

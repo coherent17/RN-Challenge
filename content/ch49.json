@@ -1,0 +1,182 @@
+{
+  "number": 49,
+  "title": {"en": "Gastrointestinal Problems", "zh": "胃腸道問題"},
+  "overview": {
+    "en": "This chapter reviews GI anatomy, diagnostic tests with pre/post-procedure care, and the major GI, liver, biliary and pancreatic disorders. Focus on red flags (bleeding, perforation/peritonitis, encephalopathy, shock after paracentesis), diet teaching, and priority nursing actions.",
+    "zh": "本章複習消化道解剖、各項檢查的檢查前後護理，以及主要的胃腸、肝膽與胰臟疾病。重點為危險徵象（出血、穿孔/腹膜炎、肝腦病變、腹腔穿刺後休克）、飲食衛教與優先護理處置。"
+  },
+  "sections": [
+    {"heading": {"en": "GI anatomy and physiology", "zh": "胃腸道解剖與生理"},
+     "points": [
+       {"en": "The GI tract digests food, absorbs nutrients, excretes waste, and hosts bacteria that make vitamin K and some B vitamins.", "zh": "消化道負責消化食物、吸收養分、排泄廢物，腸道菌群合成維生素 K 與部分 B 群維生素。"},
+       {"en": "Stomach: HCl, pepsin, intrinsic factor (from parietal cells, needed for B12), gastrin controls acidity; lower esophageal sphincter prevents reflux, pylorus controls emptying.", "zh": "胃：鹽酸、胃蛋白酶、內在因子（壁細胞分泌，吸收 B12 所需）、胃泌素調節酸度；下食道括約肌防逆流，幽門控制排空。"},
+       {"en": "Small intestine: duodenum, jejunum, ileum; large intestine absorbs water; ileocecal valve prevents backflow into the ileum.", "zh": "小腸：十二指腸、空腸、迴腸；大腸吸收水分；迴盲瓣防止內容物回流至迴腸。"},
+       {"en": "Liver: Kupffer cells, bile production (500-1000 mL/day), stores vitamins A, D, B and iron. Gallbladder stores bile; cholecystokinin contracts it after fatty meals.", "zh": "肝臟：庫佛氏細胞、產膽汁（每日 500-1000 mL）、儲存維生素 A、D、B 與鐵。膽囊儲存膽汁；高脂食物刺激 cholecystokinin 使膽囊收縮。"},
+       {"en": "Pancreas: exocrine enzymes and bicarbonate; endocrine insulin, glucagon, somatostatin.", "zh": "胰臟：外分泌酵素與碳酸氫鈉；內分泌胰島素、升糖素、體抑素。"}
+     ], "pdf_pages": [713, 714]},
+    {"heading": {"en": "Diagnostic procedures: endoscopy and imaging", "zh": "診斷檢查：內視鏡與影像"},
+     "points": [
+       {"en": "Barium swallow: NPO 4-8 h; afterward fluids, possible laxative, chalky white stools 24-72 h; barium can cause obstruction.", "zh": "上消化道鋇劑檢查：禁食 4-8 小時；檢查後多喝水、可能給瀉劑，糞便呈灰白色 24-72 小時；鋇劑可能造成阻塞。"},
+       {"en": "EGD: consent, NPO 6-8 h, left side position; afterward NPO until gag reflex returns; watch for perforation (pain, bleeding, fever, difficulty swallowing).", "zh": "上消化道內視鏡：需同意書、禁食 6-8 小時、左側臥；檢查後禁食至嘔吐反射恢復；監測穿孔（疼痛、出血、發燒、吞嚥困難）。"},
+       {"en": "Colonoscopy: bowel prep and clear liquids the day before (avoid red/orange/purple), NPO 4-6 h; afterward left lateral, expect flatus; watch for perforation/peritonitis; bowel prep causes fluid/electrolyte shifts.", "zh": "大腸鏡：前一天腸道準備與清流質（避免紅、橙、紫色），禁食 4-6 小時；檢查後左側臥、排氣屬正常；監測穿孔/腹膜炎；腸道準備可致水分電解質失衡。"},
+       {"en": "ERCP: NPO 6-8 h, consent, avoid anticoagulants/NSAIDs, ask about contrast allergy; afterward check gag reflex, perforation/peritonitis, liver and pancreatic enzymes. MRCP is the noninvasive alternative.", "zh": "ERCP：禁食 6-8 小時、同意書、避免抗凝血劑/NSAIDs、詢問顯影劑過敏；檢查後確認嘔吐反射、監測穿孔/腹膜炎、肝與胰臟酵素。MRCP 為非侵入性替代。"},
+       {"en": "Capsule endoscopy: bowel prep, clear liquids evening before, brief NPO; gastric analysis requires fasting 8-12 h and no tobacco/gum 24 h.", "zh": "膠囊內視鏡：腸道準備、前一晚清流質、短暫禁食；胃液分析需禁食 8-12 小時，24 小時內不可抽菸/嚼口香糖。"},
+       {"en": "CT: NPO at least 4 h, ask about contrast allergy, push fluids afterward to protect kidneys.", "zh": "電腦斷層：至少禁食 4 小時、詢問顯影劑過敏、檢查後多喝水保護腎臟。"}
+     ], "pdf_pages": [714, 715, 716, 717]},
+    {"heading": {"en": "Paracentesis, liver biopsy, stool and laboratory tests", "zh": "腹腔穿刺、肝臟切片、糞便與實驗室檢查"},
+     "points": [
+       {"en": "Paracentesis prep: consent, vitals, weight, void, girth, upright position. After: monitor BP/pulse and mental status for shock from rapid vasodilation, bleeding, hematuria, weight and girth loss.", "zh": "腹腔穿刺前：同意書、生命徵象、體重、排尿、腹圍、直坐姿。檢查後：監測血壓/脈搏與意識（快速血管擴張致休克）、出血、血尿、體重與腹圍減少。"},
+       {"en": "Liver biopsy: NPO 8-12 h, check PT/PTT/platelets, hold breath after expiration during needle; afterward lie on RIGHT side with pillow under costal margin for 2 h, bed rest 12-14 h; dyspnea/cyanosis signals pneumothorax.", "zh": "肝臟切片：禁食 8-12 小時、檢查 PT/PTT/血小板、穿刺時吐氣後閉氣；術後右側臥並於肋緣下墊枕 2 小時、臥床 12-14 小時；呼吸困難/發紺提示氣胸。"},
+       {"en": "Urea breath test detects H. pylori (hold antibiotics/bismuth 1 month, PPIs/sucralfate 1 week, H2RAs 24 h).", "zh": "尿素呼氣試驗偵測幽門螺旋桿菌（抗生素/鉍劑停 1 個月、PPI/sucralfate 停 1 週、H2 阻斷劑停 24 小時）。"},
+       {"en": "Liver tests: ALP 38-126 U/L, AST 0-35, ALT 4-36, PT 11-12.5 s, PTT 30-40 s, INR 0.8-1.2, ammonia 10-80 mcg/dL, total bilirubin 0.3-1.0 mg/dL, amylase 60-120 Somogyi units/dL, lipase 0-160 U/L.", "zh": "肝功能：ALP 38-126 U/L、AST 0-35、ALT 4-36、PT 11-12.5 秒、PTT 30-40 秒、INR 0.8-1.2、氨 10-80 mcg/dL、總膽紅素 0.3-1.0 mg/dL、澱粉酶 60-120 Somogyi 單位/dL、脂肪酶 0-160 U/L。"},
+       {"en": "Prolonged PT with low platelets before biopsy: notify PHCP and start bleeding precautions.", "zh": "切片前 PT 延長且血小板低：通知醫師並採取出血防護。"},
+       {"en": "Signs of perforation/peritonitis: guarding, rigid distended abdomen, rebound tenderness, absent bowel sounds, fever, tachycardia, hypotension.", "zh": "穿孔/腹膜炎徵象：腹部防衛、僵硬脹大、反彈痛、腸音消失、發燒、心搏過速、低血壓。"}
+     ], "pdf_pages": [717, 718, 719]},
+    {"heading": {"en": "GERD, gastritis, hiatal hernia", "zh": "胃食道逆流、胃炎、食道裂孔疝氣"},
+     "points": [
+       {"en": "GERD: incompetent LES; heartburn, regurgitation, chronic night cough, hoarseness, dysphagia. Avoid peppermint, chocolate, caffeine, fatty food, alcohol, citrus, tomato, smoking.", "zh": "胃食道逆流：下食道括約肌鬆弛；燒心、逆流、夜間慢性咳嗽、聲音沙啞、吞嚥困難。避免薄荷、巧克力、咖啡因、油膩、酒精、柑橘、番茄與抽菸。"},
+       {"en": "GERD teaching: small meals, no food 2 h before bed, stay upright 2-3 h after eating, raise head of bed 6-8 inches; avoid anticholinergics, NSAIDs, calcium channel blockers. Fundoplication if refractory.", "zh": "衛教：少量多餐、睡前 2 小時不進食、餐後直立 2-3 小時、床頭抬高 6-8 吋；避免抗膽鹼藥、NSAIDs、鈣離子阻斷劑。難治時做胃底折疊術。"},
+       {"en": "Acute gastritis: NSAIDs, alcohol, H. pylori; watch for hemorrhagic gastritis (hematemesis, tachycardia, hypotension). Chronic gastritis can cause B12 deficiency.", "zh": "急性胃炎：NSAIDs、酒精、H. pylori；注意出血性胃炎（吐血、心搏過速、低血壓）。慢性胃炎可致 B12 缺乏。"},
+       {"en": "Hiatal hernia: stomach herniates through diaphragm; symptoms worse lying down; small frequent meals, do not recline for 1 hour after eating; complications include strangulation.", "zh": "食道裂孔疝氣：胃經橫膈膜突入胸腔；平躺時症狀加重；少量多餐、餐後 1 小時內勿平躺；併發症含絞扼。"}
+     ], "pdf_pages": [719, 722, 723]},
+    {"heading": {"en": "Peptic ulcer disease, gastric surgery and dumping syndrome", "zh": "消化性潰瘍、胃部手術與傾倒症候群"},
+     "points": [
+       {"en": "Gastric ulcer: pain 1-2 h after meals, worsened by food, hematemesis more common. Duodenal ulcer: pain 2-5 h after meals/night, relieved by food, melena more common.", "zh": "胃潰瘍：餐後 1-2 小時痛、進食加重、較常吐血。十二指腸潰瘍：餐後 2-5 小時或夜間痛、進食緩解、較常黑便。"},
+       {"en": "Risks: H. pylori, NSAIDs, smoking, alcohol, steroids, stress. Avoid caffeinated and decaffeinated coffee, alcohol, aspirin/NSAIDs. Complications: hemorrhage, perforation, obstruction.", "zh": "危險因子：H. pylori、NSAIDs、抽菸、酒精、類固醇、壓力。避免含咖啡因與去咖啡因咖啡、酒精、阿斯匹靈/NSAIDs。併發症：出血、穿孔、阻塞。"},
+       {"en": "Active bleeding: stabilize airway/circulation, two large-bore IVs, NPO, monitor Hgb/Hct and coagulation, type and cross, transfusion, vasoconstrictive drugs.", "zh": "活動性出血：穩定呼吸道與循環、兩條大管徑靜脈管路、禁食、監測 Hgb/Hct 與凝血、血型交叉、輸血、血管收縮藥。"},
+       {"en": "Surgeries: vagotomy, antrectomy, Billroth I (gastroduodenostomy), Billroth II (gastrojejunostomy), pyloroplasty. Post-op: Fowler's, NG suction, NPO 1-3 days; do not irrigate or reposition the NG tube without order.", "zh": "手術：迷走神經切斷、胃竇切除、Billroth I（胃十二指腸吻合）、Billroth II（胃空腸吻合）、幽門成形。術後：半坐臥、鼻胃管抽吸、禁食 1-3 天；無醫囑不可沖洗或移動鼻胃管。"},
+       {"en": "Post-op complications: hemorrhage, dumping syndrome, hypoglycemia, bile reflux gastritis, B12 deficiency.", "zh": "術後併發症：出血、傾倒症候群、低血糖、膽汁逆流性胃炎、B12 缺乏。"},
+       {"en": "Dumping syndrome (about 30 min after eating): nausea, fullness, cramping, diarrhea, palpitations, sweating, dizziness. Prevent: 5-6 small meals, high-protein/complex carbs, limit sugar, no fluids with meals, lie down 20-30 min after.", "zh": "傾倒症候群（進食後約 30 分鐘）：噁心、飽脹、絞痛、腹瀉、心悸、冒汗、頭暈。預防：一天 5-6 小餐、高蛋白與複合碳水、限制糖、餐中不喝水、餐後平躺 20-30 分鐘。"}
+     ], "pdf_pages": [719, 720, 721, 722]},
+    {"heading": {"en": "Bariatric surgery and biliary disease", "zh": "減重手術與膽道疾病"},
+     "points": [
+       {"en": "Bariatric surgery: psychological screening, lifelong lifestyle change; anastomotic leak (abdominal pain, restlessness, unexplained tachycardia, oliguria) is the most serious complication.", "zh": "減重手術：心理評估、需終身改變生活型態；吻合口漏（腹痛、躁動、不明原因心搏過速、少尿）為最嚴重併發症。"},
+       {"en": "Post-bariatric diet: 1-ounce clear liquids, then puree, liquids/puree for about 6 weeks; eat slowly; supplements calcium, iron, multivitamin, B12; avoid high sugar/fat.", "zh": "術後飲食：先 30 mL 清流質，再進展至泥狀食物，流質/泥狀約 6 週；細嚼慢嚥；補充鈣、鐵、綜合維他命、B12；避免高糖高脂。"},
+       {"en": "Cholecystitis: RUQ pain radiating to right shoulder after fatty meal, Murphy's sign, fever, nausea; biliary obstruction causes jaundice, dark foamy urine, clay stools, pruritus.", "zh": "膽囊炎：高脂餐後右上腹痛並放射至右肩、Murphy 氏徵象、發燒、噁心；膽道阻塞出現黃疸、深色泡沫尿、陶土色便、搔癢。"},
+       {"en": "Treatment: NPO, NG decompression, antiemetics, analgesics, antispasmodics; cholecystectomy usually laparoscopic. Post-op: cough/deep breathe, splint, early ambulation.", "zh": "治療：禁食、鼻胃管減壓、止吐、止痛、解痙；膽囊切除常為腹腔鏡。術後：咳嗽深呼吸、按壓傷口、早期下床。"},
+       {"en": "T-tube: drainage bag below gallbladder level, semi-Fowler's, report sudden increase in bile or foul purulent drainage; no irrigation/clamping without order.", "zh": "T 型管：引流袋低於膽囊高度、半坐臥、膽汁突然增加或惡臭膿性引流須通報；無醫囑不可沖洗/夾閉。"}
+     ], "pdf_pages": [722, 723, 724]},
+    {"heading": {"en": "Cirrhosis and esophageal varices", "zh": "肝硬化與食道靜脈曲張"},
+     "points": [
+       {"en": "Cirrhosis: chronic hepatocyte destruction and scarring (hepatitis C, alcohol, NAFLD/NASH). Complications: portal hypertension, ascites, varices, coagulopathy, jaundice, encephalopathy, hepatorenal syndrome.", "zh": "肝硬化：肝細胞慢性破壞與纖維化（C 肝、酒精、非酒精性脂肪肝）。併發症：門脈高壓、腹水、靜脈曲張、凝血障礙、黃疸、肝腦病變、肝腎症候群。"},
+       {"en": "Encephalopathy: ammonia not detoxified; asterixis, altered LOC, fetor hepaticus. Give lactulose (lowers bowel pH, ammonia excretion) and antibiotics; avoid opioids, sedatives, barbiturates, hepatotoxins; alcohol abstinence.", "zh": "肝腦病變：氨無法代謝；撲翼樣顫抖、意識改變、肝臭。給予 lactulose（降低腸道 pH、排出氨）與抗生素；避免鴉片類、鎮靜劑、巴比妥與肝毒性物質；戒酒。"},
+       {"en": "Care: HOB elevated, Na and fluid restriction, diuretics, daily weight and abdominal girth, vitamin K/B complex, monitor coagulation and electrolytes, paracentesis if needed.", "zh": "照護：抬高床頭、限鈉限水、利尿劑、每日體重與腹圍、維生素 K/B 群、監測凝血與電解質、必要時腹腔穿刺。"},
+       {"en": "Varices: dilated esophageal veins from portal hypertension; rupture = life-threatening hematemesis/melena/shock. NPO, oxygen, IV fluids, blood, monitor Hgb/Hct, vasoconstrictors, endoscopic sclerotherapy or band ligation.", "zh": "靜脈曲張：門脈高壓使食道靜脈擴張；破裂會危及生命（吐血、黑便、休克）。禁食、氧氣、靜脈輸液、輸血、監測 Hgb/Hct、血管收縮藥、內視鏡硬化或套扎。"},
+       {"en": "Balloon tamponade is uncomfortable and rarely used; shunts include portacaval, distal splenorenal, mesocaval, and TIPS.", "zh": "氣囊填塞不舒適且少用；分流手術包含門腔、遠端脾腎、腸繫膜腔靜脈分流與 TIPS。"}
+     ], "pdf_pages": [724, 725, 726, 727]},
+    {"heading": {"en": "Viral hepatitis A to E", "zh": "病毒性肝炎 A 至 E"},
+     "points": [
+       {"en": "Stages: preicteric (flu-like, anorexia, most transmissible), icteric (jaundice, dark urine, clay stools, pruritus), posticteric (recovery, 6-8 weeks).", "zh": "分期：黃疸前期（類流感、厭食、傳染力最強）、黃疸期（黃疸、深色尿、陶土便、搔癢）、黃疸後期（恢復，約 6-8 週）。"},
+       {"en": "Hepatitis A: fecal-oral, incubation 15-50 days, anti-HAV IgM = acute; vaccine 2 doses 6 months apart; immune globulin within 2 weeks of exposure.", "zh": "A 肝：糞口傳染，潛伏期 15-50 天，anti-HAV IgM 代表急性感染；疫苗兩劑間隔 6 個月；暴露後 2 週內給免疫球蛋白。"},
+       {"en": "Hepatitis B: blood/body fluids, incubation 60-180 days; HBsAg diagnostic, persisting beyond 6 months = chronic/carrier; anti-HBs = recovery/immunity; vaccine and HBIG.", "zh": "B 肝：血液/體液傳染，潛伏期 60-180 天；HBsAg 為診斷指標，6 個月後仍存在=慢性/帶原；anti-HBs=康復/免疫；疫苗與 HBIG。"},
+       {"en": "Hepatitis C: blood, IV drug use, transfusions, born 1945-1965; anti-HCV; leads to chronic liver disease and carcinoma. Hepatitis D needs HBV to replicate. Hepatitis E: waterborne, high mortality in third-trimester pregnancy.", "zh": "C 肝：血液、靜脈藥癮、輸血、1945-1965 年出生者；anti-HCV；可致慢性肝病與肝癌。D 肝需有 B 肝才可複製。E 肝：水源傳染，孕晚期死亡率高。"},
+       {"en": "Home care: strict handwashing, personal items not shared, no food preparation for others, avoid alcohol and hepatotoxic OTC drugs (acetaminophen, sedatives), small high-carbohydrate low-fat meals, no blood donation.", "zh": "居家：嚴格洗手、個人用品不共用、不為他人備餐、避免酒精與肝毒性成藥（acetaminophen、鎮靜劑）、少量多餐高碳水低脂、不可捐血。"}
+     ], "pdf_pages": [727, 728, 729]},
+    {"heading": {"en": "Pancreatitis", "zh": "胰臟炎"},
+     "points": [
+       {"en": "Causes: alcohol, gallstones, trauma, hyperlipidemia, hypercalcemia. Acute: sudden epigastric/LUQ pain radiating to back, worse after fatty meal/lying flat, N/V, low-grade fever.", "zh": "病因：酒精、膽結石、外傷、高血脂、高血鈣。急性：突發上腹/左上腹痛放射至背部，油膩餐後或平躺加重、噁心嘔吐、低燒。"},
+       {"en": "Labs: elevated serum lipase and amylase, WBC, glucose, bilirubin. Cullen's sign (periumbilical) and Turner's sign (flank bruising).", "zh": "檢驗：血清脂肪酶與澱粉酶、WBC、血糖、膽紅素升高。Cullen 徵象（臍周瘀斑）與 Turner 徵象（側腹瘀斑）。"},
+       {"en": "Acute care: NPO, IV fluids, NG for vomiting/ileus, opioids for pain, H2RA/PPI, parenteral or nasojejunal feeding, watch for shock, avoid alcohol.", "zh": "急性期：禁食、靜脈輸液、嘔吐/腸阻塞時鼻胃管、止痛用鴉片類、H2 阻斷劑/PPI、腸外或鼻空腸餵食、注意休克、戒酒。"},
+       {"en": "Chronic: steatorrhea, weight loss, diabetes; pancreatic enzymes with meals, small high-calorie low-fat meals, no alcohol/caffeine, insulin if needed.", "zh": "慢性：脂肪瀉、體重減輕、糖尿病；餐時給胰酵素、少量高熱量低脂餐、不喝酒/咖啡因、必要時用胰島素。"}
+     ], "pdf_pages": [730, 731]},
+    {"heading": {"en": "IBS, ulcerative colitis, Crohn's disease", "zh": "腸躁症、潰瘍性結腸炎、克隆氏症"},
+     "points": [
+       {"en": "IBS: functional; increase fiber, 8-10 cups fluid, probiotics; lubiprostone/linaclotide for constipation-predominant, alosetron for diarrhea-predominant.", "zh": "腸躁症：功能性；增加纖維、每日 8-10 杯水、益生菌；便秘型用 lubiprostone/linaclotide，腹瀉型用 alosetron。"},
+       {"en": "Ulcerative colitis: starts in rectum and moves proximally; severe bloody mucus diarrhea, anemia, dehydration; acute phase NPO/IV or TPN, then low-fiber high-protein diet; avoid dairy, raw produce, nuts, caffeine, alcohol; salicylates, steroids, immunosuppressants.", "zh": "潰瘍性結腸炎：由直腸向上蔓延；嚴重血便黏液便、貧血、脫水；急性期禁食/靜脈或全靜脈營養，之後低纖高蛋白飲食；避免乳製品、生鮮蔬果、堅果、咖啡因、酒精；水楊酸製劑、類固醇、免疫抑制劑。"},
+       {"en": "Surgery: restorative proctocolectomy with ileal pouch-anal anastomosis (two-stage, temporary ileostomy) or total proctocolectomy with permanent ileostomy.", "zh": "手術：迴腸袋肛門吻合重建性大腸直腸切除（兩階段、暫時性迴腸造口）或全大腸直腸切除合併永久性迴腸造口。"},
+       {"en": "Stoma: pink to bright red and shiny is normal; pale pink = low Hgb/Hct; purple-black = compromised circulation, notify PHCP immediately. Empty pouch when one-third full.", "zh": "造口：粉紅至鮮紅濕潤為正常；蒼白代表 Hgb/Hct 低；紫黑代表血流受損，須立即通知醫師。袋子三分之一滿即排空。"},
+       {"en": "Crohn's: any GI segment, usually terminal ileum, fistulas, strictures, cramping after meals, worse malnutrition; surgery avoided because recurrence is common.", "zh": "克隆氏症：可發生於任何消化道、多在末端迴腸，有瘻管、狹窄、餐後絞痛、營養不良更嚴重；因復發率高盡量避免手術。"}
+     ], "pdf_pages": [731, 732]},
+    {"heading": {"en": "Appendicitis, diverticular disease, hemorrhoids", "zh": "闌尾炎、憩室疾病、痔瘡"},
+     "points": [
+       {"en": "Appendicitis: periumbilical pain moving to RLQ, maximal at McBurney's point, rebound tenderness, low-grade fever, high WBC. No heat, laxatives or enemas; pain that suddenly stops may mean rupture.", "zh": "闌尾炎：臍周痛轉移至右下腹、McBurney 點最痛、反彈痛、低燒、WBC 升高。不可熱敷、不給瀉劑或灌腸。"},
+       {"en": "Pre-op: NPO, IV fluids, antibiotics, right side-lying or semi-Fowler's, ice pack if prescribed. Post-op: if ruptured, drain/open wound, semi-Fowler's with legs flexed, antibiotics, early ambulation.", "zh": "術前：禁食、靜脈輸液、抗生素、右側臥或半坐臥、必要時冰敷。術後：若破裂有引流/開放傷口、半坐臥雙腿屈曲、抗生素、早期下床。"},
+       {"en": "Diverticulitis: LLQ pain, fever, N/V, blood in stool; bed rest, NPO or clear liquids, low-fiber during flare then high-fiber; fluids 2500-3000 mL; avoid straining, seeds/nuts/popcorn; watch for perforation, abscess, fistula.", "zh": "憩室炎：左下腹痛、發燒、噁心嘔吐、血便；臥床休息、禁食或清流質、發炎期低纖維，緩解後高纖維；水分 2500-3000 mL；避免用力、種子/堅果/爆米花；注意穿孔、膿瘍、瘻管。"},
+       {"en": "Hemorrhoids: bright red bleeding with defecation; high fiber, fluids, stool softeners, sitz baths, witch hazel.", "zh": "痔瘡：排便時鮮紅色出血；高纖維、多喝水、軟便劑、坐浴、金縷梅。"},
+       {"en": "Post-hemorrhoidectomy: prone/side-lying, ice packs, watch urinary retention, first bowel movement painful (vasovagal risk, stay nearby), short sitting periods, sitz baths 3-4 times daily.", "zh": "痔瘡切除術後：俯臥/側臥、冰敷、注意尿滯留、第一次排便會痛（可能迷走神經反應，需有人在旁）、縮短久坐、每日坐浴 3-4 次。"}
+     ], "pdf_pages": [732, 733, 734]}
+  ],
+  "critical_points": [
+    {"en": "Paracentesis: rapid fluid removal can drop abdominal pressure and cause vasodilation and shock; monitor BP and pulse closely.", "zh": "腹腔穿刺：快速引流使腹壓下降、血管擴張而致休克；密切監測血壓與脈搏。", "pdf_pages": [717]},
+    {"en": "After any endoscopy do not give food or fluids until the gag reflex returns (aspiration risk).", "zh": "任何內視鏡檢查後，嘔吐反射恢復前不可給予飲食（吸入風險）。", "pdf_pages": [717, 715]},
+    {"en": "Liver biopsy: lie on RIGHT side with pillow under costal margin; dyspnea, cyanosis, restlessness = pneumothorax; check PT/PTT/platelets first.", "zh": "肝臟切片：右側臥並墊枕；呼吸困難、發紺、躁動=氣胸；事先檢查 PT/PTT/血小板。", "pdf_pages": [718]},
+    {"en": "Do not irrigate or remove the NG tube after gastric surgery without an order (anastomosis disruption).", "zh": "胃部手術後無醫囑不可沖洗或拔除鼻胃管（可能破壞吻合口）。", "pdf_pages": [721]},
+    {"en": "Upper GI bleed: ABCs, oxygen, two large-bore IVs, NPO, monitor Hgb/Hct, coagulation; ruptured varices are life-threatening.", "zh": "上消化道出血：ABC、氧氣、兩條大管徑靜脈管路、禁食、監測 Hgb/Hct 與凝血；食道靜脈曲張破裂可致命。", "pdf_pages": [720, 726]},
+    {"en": "Gastric ulcer pain occurs soon after eating; duodenal ulcer pain occurs hours later and is relieved by food.", "zh": "胃潰瘍餐後不久疼痛；十二指腸潰瘍數小時後疼痛、進食緩解。", "pdf_pages": [720]},
+    {"en": "Dumping syndrome ~30 minutes after eating: small meals, limit sugar, no fluids with meals, lie down after.", "zh": "傾倒症候群約於餐後 30 分鐘：少量餐、限糖、餐中不喝水、餐後躺下。", "pdf_pages": [721, 722]},
+    {"en": "Anastomotic leak (pain, restlessness, unexplained tachycardia, oliguria) is the deadliest complication of gastric bypass.", "zh": "吻合口漏（疼痛、躁動、不明原因心搏過速、少尿）是胃繞道術最致命的併發症。", "pdf_pages": [722]},
+    {"en": "Cirrhosis with encephalopathy: lactulose, avoid sedatives/opioids, watch asterixis and ammonia (normal 10-80 mcg/dL).", "zh": "肝硬化合併肝腦病變：使用 lactulose、避免鎮靜劑/鴉片類、觀察撲翼樣顫抖與氨值（正常 10-80 mcg/dL）。", "pdf_pages": [725, 726]},
+    {"en": "Cirrhosis: daily weight and abdominal girth, sodium restriction; low vitamin K/clotting factors cause bleeding.", "zh": "肝硬化：每日體重與腹圍、限鈉；維生素 K 與凝血因子不足會出血。", "pdf_pages": [724, 725, 726]},
+    {"en": "HBsAg present > 6 months = chronic/carrier; anti-HBs = immunity; hepatitis D occurs only with hepatitis B.", "zh": "HBsAg 超過 6 個月=慢性/帶原；anti-HBs=免疫；D 肝只在 B 肝存在時發生。", "pdf_pages": [728, 729]},
+    {"en": "Handwashing is the key to preventing all hepatitis; hepatitis A prevented by vaccine/immune globulin; client avoids acetaminophen and alcohol.", "zh": "洗手是預防各型肝炎的關鍵；A 肝可用疫苗/免疫球蛋白預防；病人避免 acetaminophen 與酒精。", "pdf_pages": [728, 729]},
+    {"en": "Pancreatitis: elevated lipase/amylase, NPO, IV fluids, opioids for pain, Cullen's and Turner's signs; avoid alcohol.", "zh": "胰臟炎：脂肪酶/澱粉酶升高、禁食、靜脈輸液、鴉片類止痛、Cullen 與 Turner 徵象；戒酒。", "pdf_pages": [730]},
+    {"en": "Purple-black stoma = ischemia: notify PHCP immediately.", "zh": "造口呈紫黑色=缺血：立即通知醫師。", "pdf_pages": [732]},
+    {"en": "Appendicitis: never apply heat or give laxatives/enemas; heat may cause rupture and peritonitis.", "zh": "闌尾炎：不可熱敷、不給瀉劑或灌腸；熱敷可能造成破裂與腹膜炎。", "pdf_pages": [733]},
+    {"en": "Diverticulitis: low-fiber during flare, high-fiber afterward; avoid straining and seeds/nuts; watch for perforation.", "zh": "憩室炎：發作期低纖維、緩解後高纖維；避免用力與種子/堅果；注意穿孔。", "pdf_pages": [733, 734]},
+    {"en": "Signs of peritonitis (rigid abdomen, rebound tenderness, absent bowel sounds, fever, tachycardia) need immediate PHCP notification.", "zh": "腹膜炎徵象（腹部僵硬、反彈痛、腸音消失、發燒、心搏過速）須立即通知醫師。", "pdf_pages": [716]}
+  ],
+  "mnemonics": [
+    {"en": "Gastric ulcer: 'Gastric = Greater pain with food, Hematemesis'; Duodenal: 'Duodenal = Dull relief with food, Dark stools (melena)'.", "zh": "胃潰瘍：進食後痛加重、吐血；十二指腸潰瘍：進食緩解、黑便。", "pdf_pages": [720]},
+    {"en": "Cullen = Umbilicus (periumbilical); Turner = flank.", "zh": "Cullen=臍周；Turner=側腹。", "pdf_pages": [730]},
+    {"en": "Cirrhosis ammonia 'ASH': Asterixis, Sedatives avoided, Hepatic encephalopathy -> lactulose.", "zh": "肝硬化氨升高：有撲翼樣顫抖、避免鎮靜劑、肝腦病變 -> 使用 lactulose。", "pdf_pages": [725, 726]},
+    {"en": "Hepatitis: A = Alimentary (fecal-oral), B/C/D = Blood, E = Enteric/water.", "zh": "肝炎：A=糞口，B/C/D=血液，E=腸道/水源。", "pdf_pages": [727, 729]}
+  ],
+  "figures": [
+    {"pdf_page": 720, "caption": {"en": "Box 49.5: gastric vs duodenal ulcer assessment (timing of pain, hematemesis vs melena).", "zh": "框 49.5：胃與十二指腸潰瘍評估（疼痛時間、吐血 vs 黑便）。"}},
+    {"pdf_page": 721, "caption": {"en": "Fig. 49.1 and 49.2: Billroth I and II procedures.", "zh": "圖 49.1、49.2：Billroth I 與 II 手術。"}},
+    {"pdf_page": 722, "caption": {"en": "Box 49.6: client education for preventing dumping syndrome.", "zh": "框 49.6：預防傾倒症候群的衛教。"}},
+    {"pdf_page": 723, "caption": {"en": "Fig. 49.3 bariatric procedures and Box 49.7 post-bariatric diet.", "zh": "圖 49.3 減重手術類型與框 49.7 術後飲食。"}},
+    {"pdf_page": 725, "caption": {"en": "Fig. 49.4: clinical picture of liver dysfunction across body systems.", "zh": "圖 49.4：肝功能異常的全身臨床表現。"}},
+    {"pdf_page": 726, "caption": {"en": "Fig. 49.5 abdominal girth measurement and Fig. 49.6 asterixis.", "zh": "圖 49.5 腹圍測量與圖 49.6 撲翼樣顫抖。"}},
+    {"pdf_page": 727, "caption": {"en": "Box 49.9: stages of viral hepatitis.", "zh": "框 49.9：病毒性肝炎分期。"}},
+    {"pdf_page": 716, "caption": {"en": "Box 49.3: signs of bowel perforation and peritonitis.", "zh": "框 49.3：腸穿孔與腹膜炎徵象。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "A client returns from paracentesis with 4 L of ascitic fluid removed. Which finding requires immediate action?", "zh": "病人腹腔穿刺引流 4 L 腹水後返回病房。下列何者需立即處理？"},
+     "options": [{"en": "Weight decreased", "zh": "體重下降"}, {"en": "BP 84/50, HR 118, new confusion", "zh": "血壓 84/50、心跳 118、新發生意識混亂"}, {"en": "Small dry dressing at site", "zh": "穿刺處有少量乾燥敷料"}, {"en": "Abdominal girth decreased", "zh": "腹圍減少"}],
+     "answer": [1],
+     "rationale": {"en": "Rapid removal lowers abdominal pressure and causes vasodilation and shock. Weight and girth decrease are expected.", "zh": "快速抽液降低腹壓導致血管擴張與休克。體重與腹圍減少屬預期。"},
+     "pdf_pages": [717], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "After a liver biopsy, in which position should the nurse place the client?", "zh": "肝臟切片後，護理師應協助病人採何種姿勢？"},
+     "options": [{"en": "Left side with head flat", "zh": "左側臥、頭部平放"}, {"en": "Right side with a pillow under the costal margin", "zh": "右側臥、肋緣下墊枕"}, {"en": "Prone", "zh": "俯臥"}, {"en": "Trendelenburg", "zh": "頭低腳高位"}],
+     "answer": [1],
+     "rationale": {"en": "Lying on the right side compresses the biopsy site and lowers bleeding risk for about 2 hours.", "zh": "右側臥可壓迫切片部位，約 2 小時內降低出血風險。"},
+     "pdf_pages": [718], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client with cirrhosis has asterixis and an ammonia level of 150 mcg/dL. Which prescription does the nurse expect?", "zh": "肝硬化病人有撲翼樣顫抖，氨值 150 mcg/dL。護理師預期哪項醫囑？"},
+     "options": [{"en": "Lorazepam", "zh": "Lorazepam"}, {"en": "Lactulose", "zh": "Lactulose"}, {"en": "High-protein feeding", "zh": "高蛋白餵食"}, {"en": "Morphine", "zh": "Morphine"}],
+     "answer": [1],
+     "rationale": {"en": "Lactulose acidifies the bowel and promotes ammonia excretion. Sedatives and opioids worsen encephalopathy.", "zh": "Lactulose 使腸道酸化並促進氨排出；鎮靜劑與鴉片類會加重肝腦病變。"},
+     "pdf_pages": [725, 726], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which findings are expected in acute pancreatitis? Select all that apply.", "zh": "急性胰臟炎預期出現哪些表現？（複選）"},
+     "options": [{"en": "Elevated serum lipase", "zh": "血清脂肪酶升高"}, {"en": "Pain radiating to the back", "zh": "疼痛放射至背部"}, {"en": "Turner's sign", "zh": "Turner 徵象"}, {"en": "Pain relieved by lying supine", "zh": "平躺可緩解疼痛"}, {"en": "Elevated amylase", "zh": "澱粉酶升高"}],
+     "answer": [0, 1, 2, 4],
+     "rationale": {"en": "Pain worsens when recumbent and after fatty meals; relief comes from leaning forward.", "zh": "平躺與油膩餐後疼痛加重；身體前傾可緩解。"},
+     "pdf_pages": [730], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client with a new ileostomy has a stoma that is purple-black. What should the nurse do first?", "zh": "新做迴腸造口的病人造口呈紫黑色。護理師首先應？"},
+     "options": [{"en": "Document normal finding", "zh": "記錄為正常"}, {"en": "Notify the PHCP immediately", "zh": "立即通知醫師"}, {"en": "Apply a moist dressing and reassess tomorrow", "zh": "覆蓋濕敷料，明天再評估"}, {"en": "Empty the pouch", "zh": "排空造口袋"}],
+     "answer": [1],
+     "rationale": {"en": "Purple-black color indicates compromised circulation (ischemia) and needs immediate notification.", "zh": "紫黑色代表血流受損（缺血），需立即通知。"},
+     "pdf_pages": [732], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client with appendicitis awaiting surgery reports increased pain, then sudden relief. Which is the priority concern, and what action should be avoided?", "zh": "等待手術的闌尾炎病人疼痛加劇後突然緩解。最需擔心與應避免的處置為何？"},
+     "options": [{"en": "Rupture; applying heat", "zh": "破裂；熱敷"}, {"en": "Dehydration; IV fluids", "zh": "脫水；靜脈輸液"}, {"en": "Constipation; enema", "zh": "便秘；灌腸"}, {"en": "Ileus; NG tube", "zh": "腸阻塞；鼻胃管"}],
+     "answer": [0],
+     "rationale": {"en": "Sudden relief may signal rupture with peritonitis. Heat, laxatives and enemas can worsen rupture and should be avoided; notify the PHCP.", "zh": "疼痛突然緩解可能代表破裂與腹膜炎。熱敷、瀉劑、灌腸會加重破裂，應避免並通知醫師。"},
+     "pdf_pages": [733], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which instructions help prevent dumping syndrome after gastric resection? Select all that apply.", "zh": "胃切除後，哪些指導有助預防傾倒症候群？（複選）"},
+     "options": [{"en": "Eat 5-6 small meals", "zh": "一天吃 5-6 小餐"}, {"en": "Drink fluids with meals", "zh": "進餐時喝大量液體"}, {"en": "Lie down 20-30 minutes after eating", "zh": "餐後平躺 20-30 分鐘"}, {"en": "Limit sugary foods", "zh": "限制高糖食物"}, {"en": "Eat high-protein, complex carbohydrates", "zh": "攝取高蛋白與複合碳水"}],
+     "answer": [0, 2, 3, 4],
+     "rationale": {"en": "Fluids with meals speed gastric emptying and are avoided.", "zh": "進餐時喝水會加速胃排空，應避免。"},
+     "pdf_pages": [722], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client has HBsAg present on repeat testing 7 months after infection. What does this indicate?", "zh": "病人感染後 7 個月複驗仍有 HBsAg。代表什麼？"},
+     "options": [{"en": "Recovery and immunity", "zh": "康復並具免疫"}, {"en": "Chronic hepatitis B or carrier state", "zh": "慢性 B 肝或帶原"}, {"en": "Hepatitis A", "zh": "A 型肝炎"}, {"en": "Vaccination response", "zh": "疫苗反應"}],
+     "answer": [1],
+     "rationale": {"en": "HBsAg beyond 6 months indicates chronic infection/carrier state; anti-HBs indicates immunity.", "zh": "HBsAg 超過 6 個月代表慢性感染/帶原；anti-HBs 代表免疫。"},
+     "pdf_pages": [728], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "Gastrointestinal Disorders NCLEX Practice Quiz (Nurseslabs)", "url": "https://nurseslabs.com/gastrointestinal-system-disorders-nclex-practice-questions/", "note": {"en": "Large free bank of GI NCLEX questions with rationales.", "zh": "大量免費胃腸道 NCLEX 題庫附解析。"}},
+    {"title": "GI NCLEX Questions #1 (NurseStudy.net)", "url": "https://nursestudy.net/gi-nclex-questions-1/", "note": {"en": "25 GI questions with answers and rationales.", "zh": "25 題胃腸題目與解析。"}},
+    {"title": "Pancreatitis Practice Questions (SimpleNursing)", "url": "https://simplenursing.com/pancreatitis-nclex-practice-questions-review/", "note": {"en": "Pancreatitis NCLEX review questions.", "zh": "胰臟炎 NCLEX 複習題。"}},
+    {"title": "GI Disorders (GERD, Gastritis, PUD) Practice Questions (SimpleNursing)", "url": "https://simplenursing.com/gi-disorders-nclex-practice-questions-review/", "note": {"en": "Practice questions on GERD, gastritis and peptic ulcer disease.", "zh": "胃食道逆流、胃炎、消化性潰瘍練習題。"}}
+  ]
+}

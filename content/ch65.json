@@ -1,0 +1,750 @@
+{
+ "number": 65,
+ "title": {
+  "en": "Foundations of Psychiatric Mental Health Nursing",
+  "zh": "精神健康護理基礎"
+ },
+ "overview": {
+  "en": "This chapter covers the nurse-client relationship and its phases, therapeutic communication, coping and defense mechanisms, legal rights and admission types, and the major treatment modalities. Therapeutic communication and client rights are among the most frequently tested psychosocial topics.",
+  "zh": "本章涵蓋護病關係及其階段、治療性溝通、因應與防衛機轉、法律權利與入院類型，以及主要治療模式。治療性溝通與病人權利是心理社會整合領域最常考的主題。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "The therapeutic nurse-client relationship",
+    "zh": "治療性護病關係"
+   },
+   "points": [
+    {
+     "en": "Core qualities: genuineness, respect, empathic understanding; holistic care that respects culture and spirituality.",
+     "zh": "核心特質：真誠、尊重、同理；以整體觀照護並尊重文化與靈性。"
+    },
+    {
+     "en": "Boundaries and limits define the relationship; honesty builds trust; confidentiality limits sharing to the interprofessional team.",
+     "zh": "界線與限制定義護病關係；誠實建立信任；保密僅限於跨專業團隊內分享。"
+    },
+    {
+     "en": "Goal: help the client develop problem-solving and coping skills.",
+     "zh": "目標：協助客戶發展解決問題與因應能力。"
+    },
+    {
+     "en": "Family is viewed as a collaborator (maintain confidentiality) and should be educated about the illness and symptom management.",
+     "zh": "家屬視為合作夥伴（仍須保密），並需接受疾病與症狀處理的衛教。"
+    }
+   ],
+   "pdf_pages": [
+    1040,
+    1041
+   ]
+  },
+  {
+   "heading": {
+    "en": "Phases of the relationship",
+    "zh": "護病關係的階段"
+   },
+   "points": [
+    {
+     "en": "Preinteraction: before first contact; prepare the environment and examine your own biases.",
+     "zh": "互動前期：首次接觸前；準備環境並檢視自身偏見。"
+    },
+    {
+     "en": "Orientation: introduce yourself by name and role, set purpose and time frame (contract), build trust, collect data, discuss termination in advance.",
+     "zh": "導入期：自我介紹姓名與角色、說明目的與時間架構（契約）、建立信任、收集資料、預先討論結束關係。"
+    },
+    {
+     "en": "Working: explore concerns, problem-solve, identify coping strategies, encourage self-direction.",
+     "zh": "工作期：探索問題、解決問題、找出因應策略、鼓勵自我導向。"
+    },
+    {
+     "en": "Termination: prepare from the first meeting, evaluate goals, expect anger, distancing, return of symptoms or dependency, refer to community resources.",
+     "zh": "結束期：從初次接觸就預先準備、評估目標、預期憤怒、疏離、症狀復發或依賴，並轉介社區資源。"
+    }
+   ],
+   "pdf_pages": [
+    1040,
+    1041
+   ]
+  },
+  {
+   "heading": {
+    "en": "Therapeutic communication",
+    "zh": "治療性溝通"
+   },
+   "points": [
+    {
+     "en": "Communication is verbal and nonverbal; messages pass through personal filters; anxiety impairs it (Fig. 65.1).",
+     "zh": "溝通包含語言與非語言；訊息會經過個人過濾；焦慮會妨礙溝通（圖 65.1）。"
+    },
+    {
+     "en": "Therapeutic techniques: active listening, broad openings, clarifying, exploring, focusing, informing, offering self, open-ended questions, paraphrasing, reflecting, restating, silence, summarizing, validating.",
+     "zh": "治療性技巧：主動傾聽、廣泛開場、澄清、探索、聚焦、提供資訊、陪伴、開放式問句、換句話說、反映、重述、沉默、摘要、確認。"
+    },
+    {
+     "en": "Nontherapeutic: approval/disapproval, excessive or closed-ended questions, changing the subject, disagreeing, false reassurance, giving advice, minimizing feelings, parroting, placing feelings on hold, value judgments, 'why' questions.",
+     "zh": "非治療性：贊同/不贊同、過多或封閉式問句、轉移話題、反對、錯誤安慰、給建議、貶低感受、鸚鵡式複述、擱置感受、價值判斷、問「為什麼」。"
+    }
+   ],
+   "pdf_pages": [
+    1041,
+    1042
+   ]
+  },
+  {
+   "heading": {
+    "en": "Mental health and mental health problems",
+    "zh": "心理健康與心理健康問題"
+   },
+   "points": [
+    {
+     "en": "Mental health is lifelong adaptation to internal and external change: in touch with reality, relates to others, solves conflicts, resilient.",
+     "zh": "心理健康是對內外環境變化的終身適應：與現實接觸、能與人相處、解決衝突、具復原力。"
+    },
+    {
+     "en": "Mental health lies on a continuum up to serious mental illness with major functional impairment.",
+     "zh": "心理健康是一個連續譜，另一端是造成功能嚴重損害的重大精神疾病。"
+    },
+    {
+     "en": "Features of illness: distorted self-concept, non-reality-based thinking, impaired meaning/purpose, poor self-care, ineffective coping, impaired relationships.",
+     "zh": "疾病特徵：自我概念扭曲、思考脫離現實、失去意義感、自我照顧不足、因應無效、人際關係受損。"
+    }
+   ],
+   "pdf_pages": [
+    1042,
+    1043
+   ]
+  },
+  {
+   "heading": {
+    "en": "Coping and defense mechanisms",
+    "zh": "因應與防衛機轉"
+   },
+   "points": [
+    {
+     "en": "Coping is any effort to reduce anxiety; defense mechanisms protect the ego as anxiety rises.",
+     "zh": "因應是任何減輕焦慮的努力；焦慮升高時防衛機轉保護自我。"
+    },
+    {
+     "en": "Interventions: identify the source of anxiety first, then explore ways to reduce it; assess whether defenses help or add distress.",
+     "zh": "處置：先找出焦慮來源，再探索減輕方式；評估防衛是否有效或增加困擾。"
+    },
+    {
+     "en": "Never argue with or criticize a defense; do not remove it until healthier coping exists.",
+     "zh": "勿與客戶爭論或批評其防衛機轉；在建立較健康的因應前不要拿掉。"
+    },
+    {
+     "en": "Table 65.2 defenses: compensation, conversion, denial, displacement, dissociation, identification, intellectualization, introjection, isolation, projection, rationalization, reaction formation, regression, repression.",
+     "zh": "表 65.2 防衛機轉：補償、轉化、否認、替代、解離、認同、理智化、內射、隔離、投射、合理化、反向作用、退化、潛抑。"
+    }
+   ],
+   "pdf_pages": [
+    1043,
+    1044
+   ]
+  },
+  {
+   "heading": {
+    "en": "DSM and dual diagnosis",
+    "zh": "DSM 與雙重診斷"
+   },
+   "points": [
+    {
+     "en": "The DSM from the American Psychiatric Association gives diagnostic criteria used in clinical, research and educational settings.",
+     "zh": "美國精神醫學會的 DSM 提供臨床、研究與教育使用的診斷準則。"
+    },
+    {
+     "en": "Dual diagnosis (comorbidity) means a mental health problem plus a substance-related problem.",
+     "zh": "雙重診斷（共病）指同時有精神健康問題與物質相關問題。"
+    }
+   ],
+   "pdf_pages": [
+    1044
+   ]
+  },
+  {
+   "heading": {
+    "en": "Admissions, rights, confidentiality and release",
+    "zh": "入院、權利、保密與出院"
+   },
+   "points": [
+    {
+     "en": "Voluntary: client seeks care, keeps full civil rights, and may request release; detaining a voluntary client without legal grounds is false imprisonment.",
+     "zh": "自願入院：客戶自行求助，保有完整公民權，可要求出院；無法律依據扣留自願病人構成非法拘禁。"
+    },
+    {
+     "en": "Involuntary: needed for danger to self/others or need for treatment; client keeps right to informed consent and to refuse treatment except in immediate danger; legal counsel, hearing, possible 72-hour hold, least restrictive setting.",
+     "zh": "非自願入院：因對自己/他人有危險或需治療；仍保有知情同意與拒絕治療的權利（立即危險除外）；有法律代表、聽證、可能 72 小時留置、最少限制環境。"
+    },
+    {
+     "en": "HIPAA protects confidentiality; release only with informed consent, except emergencies; there is a duty to warn an identified intended victim.",
+     "zh": "HIPAA 保障隱私；除緊急情況外須經知情同意才能揭露；對明確的被威脅對象有警告義務。"
+    },
+    {
+     "en": "Competence is presumed unless declared otherwise by a separate legal hearing. Conditional release and aftercare case managers support community reintegration; writ of habeas corpus allows judicial discharge hearing.",
+     "zh": "除非經另行法律聽證宣告，否則視為有行為能力。條件式出院與出院後個案管理協助重返社區；人身保護令可要求司法出院聽證。"
+    }
+   ],
+   "pdf_pages": [
+    1044,
+    1045,
+    1046
+   ]
+  },
+  {
+   "heading": {
+    "en": "Treatment modalities",
+    "zh": "治療模式"
+   },
+   "points": [
+    {
+     "en": "Milieu therapy: safe therapeutic environment, safety first, all team members valued, community meetings and activity groups.",
+     "zh": "環境治療：安全的治療性環境，安全為首要，所有團隊成員同樣重要，含社區會議與活動團體。"
+    },
+    {
+     "en": "Interpersonal psychotherapy: supportive, reeducative, reconstructive levels.",
+     "zh": "人際心理治療：支持性、再教育性、重建性三個層次。"
+    },
+    {
+     "en": "Behavior therapy: operant conditioning (reinforcers), classical conditioning, desensitization, aversion therapy, modeling. Cognitive therapy: identify and correct distorted thoughts.",
+     "zh": "行為治療：操作制約（增強物）、古典制約、系統減敏、嫌惡治療、示範。認知治療：辨識並矯正扭曲的想法。"
+    },
+    {
+     "en": "Group therapy (5-8 members): initial stage superficial talk and norms; working stage real work; termination begins at first meeting and explores feelings about ending.",
+     "zh": "團體治療（5–8 人）：初期為表淺交談與建立規範；工作期處理實質問題；結束從首次聚會就開始並探討結束的感受。"
+    },
+    {
+     "en": "Self-help groups (AA, Al-Anon, NA, Gamblers Anonymous) rely on peer experience; family therapy treats the family as the unit and the symptomatic member as a signal.",
+     "zh": "自助團體（AA、Al-Anon、NA、嗜賭者匿名會）仰賴同儕經驗；家族治療以家庭為單位，症狀成員代表整個家庭的問題。"
+    }
+   ],
+   "pdf_pages": [
+    1046,
+    1047,
+    1048
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Use feeling-focused, open-ended, client-centered responses (restating, reflecting, exploring); avoid 'why', advice, false reassurance, and changing the subject.",
+   "zh": "使用聚焦感受、開放式、以客戶為中心的回應（重述、反映、探索）；避免問「為什麼」、給建議、錯誤安慰與轉移話題。",
+   "pdf_pages": [
+    1042
+   ]
+  },
+  {
+   "en": "Safety is the priority in the milieu; physical safety precedes other goals.",
+   "zh": "環境治療中安全為首要；身體安全優先於其他目標。",
+   "pdf_pages": [
+    1046
+   ]
+  },
+  {
+   "en": "Voluntary clients may request discharge; notify the provider first. Holding them without legal grounds is false imprisonment.",
+   "zh": "自願入院客戶可要求出院；先通知醫師。無法律依據扣留即非法拘禁。",
+   "pdf_pages": [
+    1045,
+    1046,
+    1049
+   ]
+  },
+  {
+   "en": "Restraining a voluntary client without criteria risks assault, battery and false imprisonment.",
+   "zh": "對未達條件的自願客戶使用約束，可能構成恐嚇、傷害與非法拘禁。",
+   "pdf_pages": [
+    1049
+   ]
+  },
+  {
+   "en": "Involuntary clients retain the right to refuse treatment unless in immediate danger; they have legal counsel and the right to a hearing and the least restrictive setting.",
+   "zh": "非自願客戶除非有立即危險，否則保有拒絕治療的權利；有法律代表、聽證權與最少限制環境。",
+   "pdf_pages": [
+    1045
+   ]
+  },
+  {
+   "en": "Duty to warn: tell an identified intended victim of a threat; otherwise do not disclose without informed consent.",
+   "zh": "警告義務：對明確的被威脅對象須告知；其餘情況未經知情同意不得揭露。",
+   "pdf_pages": [
+    1045
+   ]
+  },
+  {
+   "en": "Confidentiality: respond politely but firmly that you cannot discuss any client.",
+   "zh": "保密：禮貌而堅定地回應無法討論任何客戶。",
+   "pdf_pages": [
+    1045,
+    1049
+   ]
+  },
+  {
+   "en": "Do not take away a defense mechanism until more adaptive coping is established; do not criticize it.",
+   "zh": "在建立較適應的因應之前不要拿掉防衛機轉；不要批評。",
+   "pdf_pages": [
+    1043,
+    1044
+   ]
+  },
+  {
+   "en": "Priority in coping: identify the anxiety source first, then explore ways to reduce it.",
+   "zh": "因應優先順序：先找出焦慮來源，再探索減輕方式。",
+   "pdf_pages": [
+    1043
+   ]
+  },
+  {
+   "en": "Orientation phase: introduce self, set the contract and time frame, and discuss termination early.",
+   "zh": "導入期：自我介紹、訂定契約與時間架構、及早討論結束。",
+   "pdf_pages": [
+    1040
+   ]
+  },
+  {
+   "en": "Working phase: address the client's feelings that may block adaptive coping.",
+   "zh": "工作期：處理可能妨礙適應性因應的感受。",
+   "pdf_pages": [
+    1049,
+    1050
+   ]
+  },
+  {
+   "en": "Termination begins at the first contact; expect anger, distancing, symptom return or dependency.",
+   "zh": "結束階段從初次接觸即開始；預期憤怒、疏離、症狀復發或依賴。",
+   "pdf_pages": [
+    1040,
+    1041
+   ]
+  },
+  {
+   "en": "Group termination: evaluate the experience and explore feelings about separation.",
+   "zh": "團體結束期：評估經驗並探討對分離的感受。",
+   "pdf_pages": [
+    1047,
+    1048,
+    1050
+   ]
+  },
+  {
+   "en": "Cognitive therapy targets dysfunctional thoughts/beliefs; first step of the 12-step program is admitting a problem exists.",
+   "zh": "認知治療針對失功能的想法與信念；12 步驟計畫的第一步是承認有問題。",
+   "pdf_pages": [
+    1048,
+    1049
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Defense mechanism memory hooks: Projection = 'blame it on you'; Displacement = 'kick the dog'; Reaction formation = 'opposite of what I feel'; Regression = 'act like a child'; Rationalization = 'excuses'; Repression = 'forgotten unconsciously'; Denial = 'it isn't true'; Intellectualization = 'facts without feelings'.",
+   "zh": "防衛機轉口訣：投射＝怪別人；替代＝遷怒對象；反向作用＝表現與內心相反；退化＝像小孩；合理化＝找藉口；潛抑＝無意識遺忘；否認＝不承認；理智化＝只談事實不談感受。",
+   "pdf_pages": [
+    1044
+   ]
+  },
+  {
+   "en": "Therapeutic = Open, Reflect, Clarify, Silence; Non-therapeutic = Why, Advice, Reassure, Change subject.",
+   "zh": "治療性：開放、反映、澄清、沉默；非治療性：為什麼、建議、安慰、轉移話題。",
+   "pdf_pages": [
+    1042
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 1041,
+   "caption": {
+    "en": "Fig. 65.1 shows the communication process (sender, message, receiver, feedback and personal filters).",
+    "zh": "圖 65.1 顯示溝通歷程（傳送者、訊息、接收者、回饋與個人過濾）。"
+   }
+  },
+  {
+   "pdf_page": 1042,
+   "caption": {
+    "en": "Table 65.1 lists therapeutic versus nontherapeutic communication techniques with definitions; high-yield for NCLEX.",
+    "zh": "表 65.1 列出治療性與非治療性溝通技巧及定義；NCLEX 高頻考點。"
+   }
+  },
+  {
+   "pdf_page": 1044,
+   "caption": {
+    "en": "Table 65.2 gives each defense mechanism with a clinical example.",
+    "zh": "表 65.2 列出各防衛機轉與臨床例子。"
+   }
+  },
+  {
+   "pdf_page": 1045,
+   "caption": {
+    "en": "Box 65.1 lists client rights, including refusing treatment and least restrictive setting.",
+    "zh": "方框 65.1 列出客戶權利，包括拒絕治療與最少限制環境。"
+   }
+  },
+  {
+   "pdf_page": 1047,
+   "caption": {
+    "en": "Fig. 65.2 contrasts respondent (classical) and operant conditioning.",
+    "zh": "圖 65.2 比較反應性（古典）制約與操作制約。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client who attempted suicide says, 'I've always been a failure. Nothing ever goes right for me.' Which response is therapeutic?",
+    "zh": "一位自殺未遂的客戶說：「我一直都很失敗，什麼事都不順。」哪個回應具治療性？"
+   },
+   "options": [
+    {
+     "en": "'You have everything to live for.'",
+     "zh": "「你有很多值得活下去的理由。」"
+    },
+    {
+     "en": "'Why do you see yourself as a failure?'",
+     "zh": "「你為什麼認為自己失敗？」"
+    },
+    {
+     "en": "'It sounds as if you've felt like a failure for a long time.'",
+     "zh": "「聽起來你已經很久都覺得自己很失敗。」"
+    },
+    {
+     "en": "'Feeling this way is part of depression.'",
+     "zh": "「這種感覺是憂鬱症的一部分。」"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Restating/reflecting focuses on feelings; 'why', reassurance and explaining away block communication.",
+    "zh": "重述/反映聚焦於感受；問「為什麼」、安慰與解釋會阻礙溝通。"
+   },
+   "pdf_pages": [
+    1042,
+    1050
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client admitted voluntarily to a mental health unit demands to leave. What is the nurse's initial action?",
+    "zh": "自願入院的客戶要求離開，護理師首先應做什麼？"
+   },
+   "options": [
+    {
+     "en": "Notify the primary health care provider",
+     "zh": "通知醫師"
+    },
+    {
+     "en": "Call the family for transport",
+     "zh": "聯絡家屬接送"
+    },
+    {
+     "en": "Tell the client they will be committed involuntarily",
+     "zh": "告知客戶將被強制住院"
+    },
+    {
+     "en": "Persuade the client to stay a few more days",
+     "zh": "勸說客戶再多留幾天"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "The provider evaluates and handles discharge; threats and persuasion are inappropriate.",
+    "zh": "由醫師評估並處理出院；威脅與勸說皆不適當。"
+   },
+   "pdf_pages": [
+    1045,
+    1051
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which actions represent therapeutic communication? Select all that apply.",
+    "zh": "哪些屬於治療性溝通？（複選）"
+   },
+   "options": [
+    {
+     "en": "Restating",
+     "zh": "重述"
+    },
+    {
+     "en": "Active listening",
+     "zh": "主動傾聽"
+    },
+    {
+     "en": "Asking 'Why?'",
+     "zh": "問「為什麼」"
+    },
+    {
+     "en": "Giving advice",
+     "zh": "給建議"
+    },
+    {
+     "en": "Providing acknowledgment and feedback",
+     "zh": "給予認可與回饋"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ],
+   "rationale": {
+    "en": "Why-questions and advice are barriers.",
+    "zh": "「為什麼」問句與建議都是溝通障礙。"
+   },
+   "pdf_pages": [
+    1042,
+    1052
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A student fails an exam and says the lectures were disorganized. Which defense mechanism is this?",
+    "zh": "學生考試不及格，抱怨講課沒有條理。這是哪種防衛機轉？"
+   },
+   "options": [
+    {
+     "en": "Rationalization",
+     "zh": "合理化"
+    },
+    {
+     "en": "Projection",
+     "zh": "投射"
+    },
+    {
+     "en": "Displacement",
+     "zh": "替代"
+    },
+    {
+     "en": "Repression",
+     "zh": "潛抑"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Justifying an unacceptable outcome with excuses is rationalization.",
+    "zh": "以藉口說明不可接受的結果即合理化。"
+   },
+   "pdf_pages": [
+    1044
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A 4-year-old who was toilet trained begins wetting after a new sibling arrives. Which defense mechanism?",
+    "zh": "已訓練如廁的 4 歲幼兒在弟妹出生後又開始尿褲子。這是哪種防衛機轉？"
+   },
+   "options": [
+    {
+     "en": "Regression",
+     "zh": "退化"
+    },
+    {
+     "en": "Repression",
+     "zh": "潛抑"
+    },
+    {
+     "en": "Identification",
+     "zh": "認同"
+    },
+    {
+     "en": "Denial",
+     "zh": "否認"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Returning to an earlier developmental behavior is regression.",
+    "zh": "回到較早發展階段的行為即退化。"
+   },
+   "pdf_pages": [
+    1044
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A nurse restrains a voluntarily admitted client who is demanding discharge. Which legal consequences may result? Select all that apply.",
+    "zh": "護理師對要求出院的自願入院客戶使用約束。可能的法律後果有哪些？（複選）"
+   },
+   "options": [
+    {
+     "en": "Libel",
+     "zh": "文字誹謗"
+    },
+    {
+     "en": "Battery",
+     "zh": "傷害罪"
+    },
+    {
+     "en": "Assault",
+     "zh": "恐嚇罪"
+    },
+    {
+     "en": "Slander",
+     "zh": "口頭誹謗"
+    },
+    {
+     "en": "False imprisonment",
+     "zh": "非法拘禁"
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Unjustified restraint and confinement involve battery, assault and false imprisonment; libel and slander involve false statements.",
+    "zh": "不當約束與拘留涉及傷害、恐嚇與非法拘禁；誹謗涉及不實陳述。"
+   },
+   "pdf_pages": [
+    1051
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which goals fit the termination stage of group development? Select all that apply.",
+    "zh": "哪些屬於團體發展結束期的目標？（複選）"
+   },
+   "options": [
+    {
+     "en": "The group evaluates the experience",
+     "zh": "團體評估整個經驗"
+    },
+    {
+     "en": "The real work of the group is accomplished",
+     "zh": "完成團體實質工作"
+    },
+    {
+     "en": "Members explore feelings about separation",
+     "zh": "成員探討對分離的感受"
+    },
+    {
+     "en": "Members become acquainted",
+     "zh": "成員彼此認識"
+    },
+    {
+     "en": "Norms and roles are established",
+     "zh": "建立規範與角色"
+    }
+   ],
+   "answer": [
+    0,
+    2
+   ],
+   "rationale": {
+    "en": "Evaluation and feelings about ending belong to termination; other options are initial or working stages.",
+    "zh": "評估與對結束的感受屬於結束期；其他屬於初期或工作期。"
+   },
+   "pdf_pages": [
+    1047,
+    1050
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A neighbor asks the nurse in a grocery store how a clinic client is doing. What is the best response?",
+    "zh": "鄰居在超市詢問護理師某位診所客戶的近況。最佳回應是？"
+   },
+   "options": [
+    {
+     "en": "'I cannot discuss any client situation with you.'",
+     "zh": "「我無法與你討論任何客戶的情況。」"
+    },
+    {
+     "en": "'She is improving, since you're a friend.'",
+     "zh": "「看在你是朋友的份上，她有進步。」"
+    },
+    {
+     "en": "'Ask her yourself.'",
+     "zh": "「你自己去問她。」"
+    },
+    {
+     "en": "'You know she deserves privacy.'",
+     "zh": "「你知道她需要隱私。」"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Maintain confidentiality, politely and directly, without confirming client status.",
+    "zh": "禮貌而直接地保密，不確認其為客戶。"
+   },
+   "pdf_pages": [
+    1049,
+    1051
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "NCLEX Practice Test On Therapeutic Communication (ProProfs)",
+   "url": "https://www.proprofs.com/quiz-school/story.php?title=mjaymzexngaxfd",
+   "note": {
+    "en": "Free quiz on therapeutic communication scenarios.",
+    "zh": "免費治療性溝通情境測驗。"
+   }
+  },
+  {
+   "title": "Psychosocial Integrity NCLEX Review (Good Nurse)",
+   "url": "https://goodnurse.com/article/53/psychosocial-integrity-nclex-review-2026-key-concepts-therapeutic-communication-practice-questions",
+   "note": {
+    "en": "Review of therapeutic communication with practice questions.",
+    "zh": "治療性溝通重點與練習題。"
+   }
+  },
+  {
+   "title": "Psychosocial integrity practice test (nurse.plus)",
+   "url": "https://m.nurse.plus/psychosocial-integrity-test-2",
+   "note": {
+    "en": "Free practice test with coping mechanisms and therapeutic communication items.",
+    "zh": "免費練習測驗，含因應機轉與治療性溝通題。"
+   }
+  },
+  {
+   "title": "WTCS Nursing Mental Health open textbook, NGN-style question",
+   "url": "https://wtcs.pressbooks.pub/nursingmhcc/chapter/1-11-nclex-next-generation-style-question/",
+   "note": {
+    "en": "Open-access textbook with NCLEX Next Generation-style questions.",
+    "zh": "開放取用教科書，含 NGN 風格題目。"
+   }
+  }
+ ]
+}
