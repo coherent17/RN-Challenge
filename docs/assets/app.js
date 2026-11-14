@@ -156,23 +156,31 @@ setTimeout(function(){$$('.stars svg',res).forEach(function(s,i){setTimeout(func
 $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,behavior:'smooth'})}
 }
 
-/* ---------- image viewer (lightbox) ---------- */
-var items=[],idx=0,lb;
-function build(){if(lb)return;lb=document.createElement('div');lb.className='lb';lb.setAttribute('role','dialog');lb.setAttribute('aria-modal','true');
-lb.innerHTML='<div class="lb-top"><div class="lb-cap"><span class="c"></span><span class="lb-n"></span></div><button class="z" title="Zoom (Z)" aria-label="Zoom"><span class="zm"></span></button><button class="x" title="Close (Esc)" aria-label="Close">×</button></div><div class="lb-stage"><button class="lb-nav lb-prev" aria-label="Previous">‹</button><img alt=""><button class="lb-nav lb-next" aria-label="Next">›</button></div>';
-document.body.appendChild(lb);$('.x',lb).onclick=close;$('.z',lb).onclick=toggleZoom;$('.lb-prev',lb).onclick=function(){go(-1)};$('.lb-next',lb).onclick=function(){go(1)};
-var st=$('.lb-stage',lb),im=$('img',lb);im.onclick=toggleZoom;st.onclick=function(e){if(e.target===st)close()};
+/* ---------- book viewer (PDF.js, reads book.pdf directly) ---------- */
+var BASE=(document.currentScript&&document.currentScript.src||'').replace(/app\.js(\?.*)?$/,'')||'assets/',pdfP=null,labels=null,lb,cur=1,total=0,zoom=false,rtask=null,token=0;
+function getPdf(){if(!pdfP)pdfP=import(BASE+'pdfjs/pdf.min.mjs').then(function(m){m.GlobalWorkerOptions.workerSrc=BASE+'pdfjs/pdf.worker.min.mjs';return m.getDocument({url:'book.pdf',disableAutoFetch:true,rangeChunkSize:131072}).promise});return pdfP}
+function getLabels(){if(!labels)labels=fetch(BASE+'labels.json').then(function(r){return r.json()}).catch(function(){return {}});return labels}
+function capOf(n,lab){return 'PDF p.'+n+(lab&&lab[n]?' · book p.'+lab[n]:'')}
+function buildLb(){if(lb)return;lb=document.createElement('div');lb.className='lb';lb.setAttribute('role','dialog');lb.setAttribute('aria-modal','true');
+lb.innerHTML='<div class="lb-top"><div class="lb-cap"><span class="c"></span><span class="lb-n"></span></div><button class="z" title="Zoom (Z)" aria-label="Zoom"><span class="zm"></span></button><button class="x" title="Close (Esc)" aria-label="Close">×</button></div><div class="lb-stage"><button class="lb-nav lb-prev" aria-label="Previous page">‹</button><div class="lb-load">Loading…</div><button class="lb-nav lb-next" aria-label="Next page">›</button></div>';
+document.body.appendChild(lb);$('.x',lb).onclick=closeLb;$('.z',lb).onclick=toggleZoom;$('.lb-prev',lb).onclick=function(){go(-1)};$('.lb-next',lb).onclick=function(){go(1)};
+var st=$('.lb-stage',lb);st.onclick=function(e){if(e.target===st)closeLb();else if(e.target.tagName==='CANVAS')toggleZoom()};
 var sx=0,sy=0;st.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
-st.addEventListener('touchend',function(e){if(st.classList.contains('zoom'))return;var dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)go(dx<0?1:-1);else if(dy>90&&Math.abs(dy)>Math.abs(dx)*1.5)close()},{passive:true})}
-function show(){var it=items[idx],st=$('.lb-stage',lb);st.classList.remove('zoom');st.scrollTop=0;st.scrollLeft=0;var im=$('img',lb);im.style.animation='none';void im.offsetWidth;im.style.animation='';im.src=it.href;im.alt=it.cap;
-$('.c',lb).textContent=it.cap;$('.lb-n',lb).textContent=(idx+1)+' / '+items.length;var one=items.length<2;$$('.lb-nav',lb).forEach(function(b){b.style.visibility=one?'hidden':'visible'});
-[items[idx+1],items[idx-1]].forEach(function(n){if(n){(new Image()).src=n.href}})}
-function toggleZoom(){var st=$('.lb-stage',lb);st.classList.toggle('zoom');if(st.classList.contains('zoom'))st.scrollTop=0}
-function go(d){idx=(idx+d+items.length)%items.length;show()}
-function open(a){build();var seen={};items=[];$$('a.pgimg').forEach(function(x){var h=x.getAttribute('href');if(!seen[h]){seen[h]=1;items.push({href:h,cap:x.dataset.cap||h})}});
-idx=Math.max(0,items.findIndex(function(i){return i.href===a.getAttribute('href')}));show();lb.classList.add('open');document.body.classList.add('lbopen');$('.x',lb).focus()}
-function close(){if(!lb)return;lb.classList.remove('open');document.body.classList.remove('lbopen')}
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.pgimg');if(a&&!e.metaKey&&!e.ctrlKey&&!e.shiftKey){e.preventDefault();open(a)}});
+st.addEventListener('touchend',function(e){if(zoom)return;var dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)go(dx<0?1:-1);else if(dy>90&&Math.abs(dy)>Math.abs(dx)*1.5)closeLb()},{passive:true})}
+function showPage(n){token++;var my=token,st=$('.lb-stage',lb);cur=n;st.classList.toggle('zoom',zoom);
+Promise.all([getPdf(),getLabels()]).then(function(r){var pdf=r[0],lab=r[1];total=pdf.numPages;if(n<1||n>total){cur=Math.min(Math.max(n,1),total);n=cur}
+$('.c',lb).textContent=capOf(n,lab);$('.lb-n',lb).textContent=n+' / '+total;$('.lb-prev',lb).style.visibility=n>1?'visible':'hidden';$('.lb-next',lb).style.visibility=n<total?'visible':'hidden';
+return pdf.getPage(n).then(function(page){if(my!==token)return;var vp=page.getViewport({scale:1}),sw=st.clientWidth,sh=st.clientHeight,scale=zoom?sw*2.2/vp.width:Math.min(sw/vp.width,sh/vp.height),dpr=Math.min(window.devicePixelRatio||1,2.5),v=page.getViewport({scale:scale*dpr});
+var c=document.createElement('canvas');c.width=v.width;c.height=v.height;c.style.width=vp.width*scale+'px';c.style.height=vp.height*scale+'px';if(rtask){try{rtask.cancel()}catch(e){}}
+rtask=page.render({canvasContext:c.getContext('2d'),viewport:v});return rtask.promise.then(function(){if(my!==token)return;var old=$('canvas',st);if(old)old.remove();var ld=$('.lb-load',st);if(ld)ld.style.display='none';st.insertBefore(c,$('.lb-next',st));st.scrollTop=0;st.scrollLeft=0})})}).catch(function(e){if(e&&e.name==='RenderingCancelledException')return;var st2=$('.lb-stage',lb);var ld=$('.lb-load',st2);if(ld)ld.style.display='none';if(!$('.lb-err',st2)){var d=document.createElement('div');d.className='lb-err';d.innerHTML='Could not load the book viewer.<br><a href="book.pdf#page='+n+'" target="_blank" rel="noopener">Open PDF page '+n+'</a>';st2.appendChild(d)}})}
+function toggleZoom(){zoom=!zoom;showPage(cur)}
+function go(d){var n=cur+d;if(n<1||(total&&n>total))return;var ld=$('.lb-load',lb);if(ld)ld.style.display='grid';showPage(n)}
+function openLb(a){buildLb();zoom=false;var ld=$('.lb-load',lb);if(ld)ld.style.display='grid';var old=$('canvas',lb);if(old)old.remove();var er=$('.lb-err',lb);if(er)er.remove();lb.classList.add('open');document.body.classList.add('lbopen');$('.x',lb).focus();showPage(+a.dataset.p||1)}
+function closeLb(){if(!lb)return;lb.classList.remove('open');document.body.classList.remove('lbopen')}
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.pgimg');if(a&&a.dataset.p&&!e.metaKey&&!e.ctrlKey&&!e.shiftKey){e.preventDefault();openLb(a)}});
 document.addEventListener('keydown',function(e){if(!lb||!lb.classList.contains('open'))return;
-if(e.key==='Escape')close();else if(e.key==='ArrowRight')go(1);else if(e.key==='ArrowLeft')go(-1);else if(e.key==='z'||e.key==='Z'||e.key===' '){e.preventDefault();toggleZoom()}});
+if(e.key==='Escape')closeLb();else if(e.key==='ArrowRight'||e.key==='PageDown')go(1);else if(e.key==='ArrowLeft'||e.key==='PageUp')go(-1);else if(e.key==='z'||e.key==='Z'||e.key===' '){e.preventDefault();toggleZoom()}});
+/* figure thumbnails, rendered on demand */
+var thumbs=$$('canvas.thumb');if(thumbs.length&&'IntersectionObserver'in window){var tio=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;tio.unobserve(e.target);drawThumb(e.target)})},{rootMargin:'250px'});thumbs.forEach(function(c){tio.observe(c)})}
+function drawThumb(c){getPdf().then(function(pdf){return pdf.getPage(+c.dataset.p)}).then(function(page){var w=c.parentNode.clientWidth||240,vp=page.getViewport({scale:1}),dpr=Math.min(window.devicePixelRatio||1,2),v=page.getViewport({scale:w/vp.width*dpr});c.width=v.width;c.height=v.height;return page.render({canvasContext:c.getContext('2d'),viewport:v}).promise}).catch(function(){c.parentNode.classList.add('nothumb')})}
 })();

@@ -2,3 +2,5 @@ build/
 *.pdf
 __pycache__/
 site-local/
+!docs/book.pdf
+docs/figures/

@@ -9,6 +9,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 root = pathlib.Path(__file__).resolve().parent.parent
 LOCAL = "--local" in sys.argv   # private build: book page images + external free questions -> site-local/
 docs = root / ("site-local" if LOCAL else "docs"); docs.mkdir(exist_ok=True)
+shutil.copy(root / "data/page_labels.json", root / "docs/assets/labels.json")   # page labels for the book viewer
 chapters = json.load(open(root / "data/chapters.json"))
 labels = json.load(open(root / "data/page_labels.json"))
 
@@ -19,7 +20,7 @@ PART_ZH = {"I": "NCLEX-RN 考試準備", "II": "護理專業標準", "III": "照
  "XVIII": "成人心理健康問題", "XIX": "複雜照護"}
 
 def pg(p):
-    return {"pdf": p, "book": labels.get(str(p), "?"), "img": next((f"figures/p{p}.{e}" for e in ("webp", "jpg") if (docs / f"figures/p{p}.{e}").exists()), None)}
+    return {"pdf": p, "book": labels.get(str(p), "?"), "img": f"book.pdf#page={p}" if (docs / "book.pdf").exists() else None}
 def pagerefs(lst):
     return [pg(p) for p in lst or []]
 
@@ -71,6 +72,7 @@ if LOCAL:
         best = max(docs_tok, key=score)
         if score(best) > 0: ext_by_ch.setdefault(best, []).append(q)
     shutil.copytree(root / "docs/assets", docs / "assets", dirs_exist_ok=True)
+    if (root / "docs/book.pdf").exists() and not (docs / "book.pdf").exists(): (docs / "book.pdf").symlink_to(root / "docs/book.pdf")
 
 parts = []
 for c in chapters:
