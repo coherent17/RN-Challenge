@@ -100,8 +100,45 @@ for n, d in sorted(content.items()):
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": bi(q["stem"]), "options": [bi(o) for o in q["options"]], "answer": q["answer"],
                       "why": {"en": "Correct answer: " + q["letters"], "zh": "正確答案：" + q["letters"]}, "refs": [], "src": q["source"]})
 
+# ---- mock-exam metadata: NCLEX client-needs category (approximate chapter mapping) and a heuristic difficulty ----
+CAT = {}
+for n in (5, 6, 7): CAT[n] = "MC"
+for n in (8, 9, 25, 27, *range(30, 42), 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 70): CAT[n] = "PA"
+for n in (10, 15, 23): CAT[n] = "RR"
+for n in (11, 16, 17): CAT[n] = "BC"
+for n in (12, 18, 19, 20, 21, 22, 24, 26, 28): CAT[n] = "HP"
+CAT[13] = "SI"
+for n in (14, 29, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 69): CAT[n] = "PH"
+for n in (65, 66, 67, 68): CAT[n] = "PI"
+def difficulty(q):
+    s = q["stem"]["en"].lower(); b = 0.0
+    if len(q["answer"]) > 1: b += 0.6                                           # select-all-that-apply
+    if re.search(r"\b(priority|first|initial|most important|best|immediately|next|prioritize)\b", s): b += 0.5   # prioritization / analysis
+    if re.search(r"should the nurse (report|question|clarify|intervene|withhold)|requires? (follow-up|intervention)|further teaching", s): b += 0.4
+    if re.search(r"\d", s): b += 0.2
+    b += min(0.5, max(-0.3, (len(s.split()) - 25) / 80))
+    if re.match(r"(what is|what are|which of the following (is|are) (a|an|the) (sign|symptom|definition|normal|characteristic))", s): b -= 0.5
+    return round(max(-1.5, min(1.5, b)), 2)
+
+for q in qdata:
+    q["cat"] = CAT.get(q["ch"]); q["b"] = difficulty(q)
+(docs / "assets").mkdir(exist_ok=True)
+(docs / "assets/questions.json").write_text(json.dumps(qdata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+sidx = {"ch": {}, "items": []}
+for n, d in sorted(content.items()):
+    sidx["ch"][n] = [d["title"]["en"], d["title"]["zh"]]
+    it = sidx["items"]
+    for i, s in enumerate(d["sections"], 1):
+        it.append([n, "h", f"s{i}", s["heading"]["en"], s["heading"]["zh"], "", ""])
+        for p in s["points"]: it.append([n, "p", f"s{i}", p["en"], p["zh"], s["heading"]["en"], s["heading"]["zh"]])
+    for i, c in enumerate(d["critical_points"], 1): it.append([n, "c", f"k{i}", c["en"], c["zh"], "", ""])
+    for i, m in enumerate(d.get("mnemonics", []), 1): it.append([n, "m", f"m{i}", m["en"], m["zh"], "", ""])
+    for i, q in enumerate(d["questions"], 1): it.append([n, "q", f"p{i}", q["stem"]["en"], q["stem"]["zh"], "", ""])
+    for g in d.get("figures", []): it.append([n, "f", "figures", g["caption"]["en"], g["caption"]["zh"], "", ""])
+(docs / "assets/search.json").write_text(json.dumps(sidx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 (docs / "index.html").write_text(render("index.html", title="Home", page="home", chapter=None, parts=parts), encoding="utf-8")
-(docs / "quiz.html").write_text(render("quiz.html", title="Quick Quiz", page="quiz", chapter=None, parts=parts, qdata=qdata), encoding="utf-8")
+(docs / "exam.html").write_text(render("exam.html", title="Mock Exam", page="exam", chapter=None, parts=parts), encoding="utf-8")
+(docs / "quiz.html").write_text(render("quiz.html", title="Quick Quiz", page="quiz", chapter=None, parts=parts), encoding="utf-8")
 for i, c in enumerate(chapters):
     d = content.get(c["number"])
     if d: resolve_refs(d)

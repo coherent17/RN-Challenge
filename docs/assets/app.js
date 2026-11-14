@@ -2,6 +2,7 @@
 'use strict';
 var root=document.documentElement,body=document.body,page=body.dataset.page;
 var $=function(s,c){return(c||document).querySelector(s)},$$=function(s,c){return Array.prototype.slice.call((c||document).querySelectorAll(s))};
+var BASE=(document.currentScript&&document.currentScript.src||'').replace(/app\.js(\?.*)?$/,'')||'assets/';
 var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
 function esc(t){var d=document.createElement('div');d.textContent=t==null?'':t;return d.innerHTML}
 function bi(o){if(!o)return '';return o.en===o.zh?esc(o.en):'<span class="en">'+esc(o.en)+'</span><span class="zh">'+esc(o.zh)+'</span>'}
@@ -55,6 +56,7 @@ $$('.rv').forEach(function(el){ro.observe(el)})}else $$('.rv').forEach(function(
 /* tilt */
 if(!reduce&&matchMedia('(hover:hover)').matches)$$('.tile').forEach(function(t){t.addEventListener('mousemove',function(e){var r=t.getBoundingClientRect(),x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;t.style.setProperty('--ry',(x*8)+'deg');t.style.setProperty('--rx',(-y*8)+'deg')});t.addEventListener('mouseleave',function(){t.style.setProperty('--ry','0deg');t.style.setProperty('--rx','0deg')})});
 
+window.NX={BASE:BASE,S:function(){return S},save:save,award:award,confetti:confetti,bi:bi,esc:esc,L:L,sameSet:sameSet,lvlOf:lvlOf,ask:ask};
 /* ---------- progress helpers ---------- */
 function chDone(n){var p='c'+n+':',c=0,k;for(k in S.sec)if(k.indexOf(p)===0&&S.sec[k])c++;for(k in S.q)if(k.indexOf(p)===0)c++;return c}
 function setRing(el,p){if(!el)return;el.style.setProperty('--p',p);var b=$('b',el);if(b)b.textContent=el.classList.contains('sm')?(p>=100?'✓':p):p+'%';el.classList.toggle('done',p>=100)}
@@ -125,11 +127,11 @@ Object.keys(map).forEach(function(id){var el=document.getElementById(id);if(el)i
 
 /* ---------- QUICK QUIZ ---------- */
 if(page==='quiz'){
-var DATA=JSON.parse($('#qdata').textContent),partSel='all',pool=[],run=null;
+var DATA=[],partSel='all',pool=[],run=null;
 var setup=$('#qz-setup'),play=$('#qz-play'),res=$('#qz-result');
 function poolFor(){return DATA.filter(function(q){return partSel==='all'||q.part===partSel})}
 function upPool(){pool=poolFor();$('#qz-pool').innerHTML=L(pool.length+' questions available',pool.length+' 題可用')}
-$$('#qz-parts .chip').forEach(function(c){c.onclick=function(){$$('#qz-parts .chip').forEach(function(x){x.classList.remove('on')});c.classList.add('on');partSel=c.dataset.p;upPool()}});upPool();
+$$('#qz-parts .chip').forEach(function(c){c.onclick=function(){$$('#qz-parts .chip').forEach(function(x){x.classList.remove('on')});c.classList.add('on');partSel=c.dataset.p;upPool()}});upPool();fetch(BASE+'questions.json').then(function(r){return r.json()}).then(function(d){DATA=d;upPool()});
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
 $('#qz-start').onclick=startQuiz;
 function startQuiz(){if(!pool.length)return;run={qs:shuffle(pool).slice(0,10),i:0,ok:0,combo:0,xp:0,missed:[]};setup.hidden=true;res.hidden=true;play.hidden=false;renderQ();scrollTo({top:0,behavior:'smooth'})}
@@ -156,8 +158,38 @@ setTimeout(function(){$$('.stars svg',res).forEach(function(s,i){setTimeout(func
 $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,behavior:'smooth'})}
 }
 
+/* ---------- global search (Ctrl/Cmd+K or /) ---------- */
+var SD=null,sov=null,sres=[],ssel=0,sq='';
+var KIND={h:['Topic','主題'],p:['Summary','重點'],c:['Test-critical','考試關鍵'],m:['Mnemonic','口訣'],q:['Question','題目'],f:['Figure','圖表']},KW={h:6,c:5,m:4,p:3,q:2,f:2};
+function sload(){if(!SD)SD=fetch(BASE+'search.json').then(function(r){return r.json()});return SD}
+function hlText(text,terms){var low=text.toLowerCase(),marks=[];terms.forEach(function(t){if(!t)return;var i=0;while((i=low.indexOf(t,i))>=0){marks.push([i,i+t.length]);i+=t.length}});marks.sort(function(a,b){return a[0]-b[0]});var out='',pos=0;marks.forEach(function(m){if(m[1]<=pos)return;var a0=Math.max(m[0],pos);out+=esc(text.slice(pos,a0))+'<mark>'+esc(text.slice(a0,m[1]))+'</mark>';pos=m[1]});return out+esc(text.slice(pos))}
+function snip(text,terms,len){var low=text.toLowerCase(),pos=-1;terms.forEach(function(t){var i=low.indexOf(t);if(i>=0&&(pos<0||i<pos))pos=i});if(text.length<=len)return text;var st=Math.max(0,pos-50);return(st>0?'…':'')+text.slice(st,st+len)+(st+len<text.length?'…':'')}
+function runSearch(d,q){var terms=q.toLowerCase().split(/\s+/).filter(Boolean).slice(0,6);if(!terms.length)return{terms:terms,hits:[]};var out=[];
+d.items.forEach(function(it){var hay=(it[3]+' '+it[4]).toLowerCase();for(var i=0;i<terms.length;i++)if(hay.indexOf(terms[i])<0)return;var sc=(KW[it[1]]||1)*10;terms.forEach(function(t){sc+=Math.max(0,20-hay.indexOf(t)/10)});sc-=Math.min(10,hay.length/200);out.push([sc,it])});
+out.sort(function(a,b){return b[0]-a[0]});return{terms:terms,hits:out.slice(0,60).map(function(x){return x[1]})}}
+function renderSearch(d,q){var r=runSearch(d,q),box=$('.sres',sov);sres=r.hits;ssel=0;
+if(!q.trim()){box.innerHTML='<p class="sempty">'+L('Type to search every chapter, in English or Chinese. Try “hyperkalemia”, “digoxin” or “葡萄糖”.','輸入關鍵字搜尋所有章節（中英文皆可），例如「hyperkalemia」、「digoxin」、「葡萄糖」。')+'</p>';return}
+if(!sres.length){box.innerHTML='<p class="sempty">'+L('No results.','找不到結果。')+'</p>';return}
+var zh=root.dataset.lang==='zh';
+box.innerHTML=sres.map(function(it,i){var low=function(t){return t.toLowerCase()},first=r.terms[0],txt=zh?it[4]:it[3];if(low(txt).indexOf(first)<0)txt=zh?it[3]:it[4];var ch=d.ch[it[0]]||['',''],k=KIND[it[1]]||['',''],head=it[5]?' <span class="sh">'+(zh?esc(it[6]):esc(it[5]))+'</span>':'';
+return '<a class="sitem'+(i===0?' sel':'')+'" data-i="'+i+'" href="ch'+('0'+it[0]).slice(-2)+'.html?hl='+encodeURIComponent(r.terms.join(' '))+'#'+it[2]+'"><span class="sk k-'+it[1]+'">'+L(k[0],k[1])+'</span><span class="sc">'+L('Ch '+it[0]+' · '+esc(ch[0]),'第 '+it[0]+' 章 · '+esc(ch[1]))+head+'</span><span class="st">'+hlText(snip(txt,r.terms,200),r.terms)+'</span></a>'}).join('')}
+function openSearch(){if(!sov){sov=document.createElement('div');sov.className='sov';sov.innerHTML='<div class="sbox" role="dialog" aria-modal="true" aria-label="Search"><div class="srow"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" autocomplete="off" spellcheck="false" placeholder="Search all chapters… / 搜尋全部章節…" aria-label="Search"><button type="button" class="sx">Esc</button></div><div class="sres"></div><div class="sfoot"><span>↑↓ move</span><span>Enter open</span><span>Esc close</span></div></div>';document.body.appendChild(sov);
+var inp=$('input',sov),tm=0;inp.oninput=function(){clearTimeout(tm);tm=setTimeout(function(){sq=inp.value;sload().then(function(d){renderSearch(d,sq)})},70)};
+$('.sx',sov).onclick=closeSearch;sov.onclick=function(e){if(e.target===sov)closeSearch()};
+inp.onkeydown=function(e){var items=$$('.sitem',sov);if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();if(!items.length)return;ssel=(ssel+(e.key==='ArrowDown'?1:-1)+items.length)%items.length;items.forEach(function(a,i){a.classList.toggle('sel',i===ssel)});items[ssel].scrollIntoView({block:'nearest'})}else if(e.key==='Enter'){var a=items[ssel];if(a)location.href=a.href}}}
+sov.classList.add('open');document.body.classList.add('lbopen');var inp2=$('input',sov);inp2.focus();inp2.select();sload().then(function(d){renderSearch(d,inp2.value)})}
+function closeSearch(){if(sov){sov.classList.remove('open');if(!isOpen())document.body.classList.remove('lbopen')}}
+var sb0=$('#open-search');if(sb0)sb0.onclick=openSearch;
+document.addEventListener('keydown',function(e){var typing=/input|textarea|select/i.test((e.target||{}).tagName||'');
+if((e.key==='k'||e.key==='K')&&(e.ctrlKey||e.metaKey)){e.preventDefault();openSearch()}else if(e.key==='/'&&!typing&&!(lb&&lb.classList.contains('open'))){e.preventDefault();openSearch()}else if(e.key==='Escape'&&sov&&sov.classList.contains('open'))closeSearch()});
+/* highlight search terms on arrival (?hl=...) */
+(function(){var m=location.search.match(/[?&]hl=([^&]*)/);var rt=$('.content');if(!m||!rt)return;var terms=decodeURIComponent(m[1]).toLowerCase().split(/\s+/).filter(Boolean);if(!terms.length)return;
+var re=new RegExp('('+terms.map(function(t){return t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}).join('|')+')','gi'),w=document.createTreeWalker(rt,NodeFilter.SHOW_TEXT,null),nodes=[],n,count=0;
+while((n=w.nextNode())){if(n.parentNode.closest('script,style,mark,button,.why'))continue;if(re.test(n.nodeValue))nodes.push(n);re.lastIndex=0}
+nodes.forEach(function(node){if(count>120)return;var frag=document.createDocumentFragment(),text=node.nodeValue,last=0,mm;re.lastIndex=0;while((mm=re.exec(text))){frag.appendChild(document.createTextNode(text.slice(last,mm.index)));var k=document.createElement('mark');k.className='hl';k.textContent=mm[0];frag.appendChild(k);last=mm.index+mm[0].length;count++;if(mm[0].length===0)re.lastIndex++}frag.appendChild(document.createTextNode(text.slice(last)));node.parentNode.replaceChild(frag,node)});
+if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t)setTimeout(function(){t.scrollIntoView({block:'center'})},60)}})();
 /* ---------- book viewer (PDF.js, reads book.pdf directly) ---------- */
-var BASE=(document.currentScript&&document.currentScript.src||'').replace(/app\.js(\?.*)?$/,'')||'assets/',pdfP=null,labels=null,lb,st,cur=1,total=0,token=0,rid=0,rtask=null,curPage=null,cv=null,fit=1,vpw=1,vph=1,z=1,rtimer=0,ptrs={},pan=null,pinch=null,lastTap=0;
+var pdfP=null,labels=null,lb,st,cur=1,total=0,token=0,rid=0,rtask=null,curPage=null,cv=null,fit=1,vpw=1,vph=1,z=1,rtimer=0,ptrs={},pan=null,pinch=null,lastTap=0;
 var ZMAX=8,ZDBL=2.6;
 function getPdf(){if(!pdfP)pdfP=import(BASE+'pdfjs/pdf.min.mjs').then(function(m){m.GlobalWorkerOptions.workerSrc=BASE+'pdfjs/pdf.worker.min.mjs';return m.getDocument({url:'book.pdf',disableAutoFetch:true,rangeChunkSize:131072}).promise});return pdfP}
 function getLabels(){if(!labels)labels=fetch(BASE+'labels.json').then(function(r){return r.json()}).catch(function(){return {}});return labels}

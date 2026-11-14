@@ -7,5 +7,4 @@
 <div class="chips" id="qz-parts"><button class="chip on" data-p="all"><span class="en">Everything</span><span class="zh">全部</span></button>{% for part, chs in parts %}<button class="chip" data-p="{{ part.roman }}" style="--h:{{ chs[0].hue }}">{{ part.roman }} · <span class="en">{{ part.title }}</span><span class="zh">{{ chs[0].part_zh }}</span></button>{% endfor %}</div>
 <div class="cta"><button class="btn pri big" id="qz-start"><span class="en">Start quiz</span><span class="zh">開始測驗</span></button><span class="note" id="qz-pool"></span></div></div>
 <div id="qz-play" hidden></div><div id="qz-result" hidden></div></main>
-<script type="application/json" id="qdata">{{ qdata|tojson }}</script>
 {% endblock %}
