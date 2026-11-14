@@ -17,7 +17,7 @@
 <div class="heroline"><div class="chmain"><h1><span class="chno">{{ chapter.number }}</span><span class="titlebox"><span class="en">{{ chapter.title }}</span><span class="zh">{{ chapter.zh }}</span></span></h1>
 <p class="badge"><span class="bk"></span><span class="en">PDF p.{{ chapter.range.pdf }} · printed book p.{{ chapter.range.book }}</span><span class="zh">PDF 第 {{ chapter.range.pdf }} 頁 · 書本印刷頁 {{ chapter.range.book }}</span></p>
 {% if d %}<div class="cta"><a class="btn pri" href="#cards"><span class="en">Flashcards</span><span class="zh">單字卡</span></a><a class="btn" href="#practice"><span class="en">Practice</span><span class="zh">練習題</span></a><a class="btn" href="#critical"><span class="en">Test-critical</span><span class="zh">考試關鍵</span></a></div>{% endif %}</div>
-{% if d %}<div class="herorank"><div class="ring big" id="ring-ch" style="--p:0"><b>0%</b></div><small><span class="en">chapter progress</span><span class="zh">章節進度</span></small></div>{% endif %}</div>
+{% if d %}<div class="herorank"><div class="ring big" id="ring-ch" style="--p:0"><b>0%</b></div><small><span class="en">chapter progress</span><span class="zh">章節進度</span></small><button class="linkbtn light" id="reset-ch" type="button"><span class="en">Reset chapter</span><span class="zh">重置本章</span></button></div>{% endif %}</div>
 </div></section>
 <div class="wrap layout">
 {% if not d %}<div class="card soon"><span class="en">Content for this chapter is still being prepared.</span><span class="zh">本章內容整理中。</span></div>

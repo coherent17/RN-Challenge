@@ -19,7 +19,7 @@ PART_ZH = {"I": "NCLEX-RN 考試準備", "II": "護理專業標準", "III": "照
  "XVIII": "成人心理健康問題", "XIX": "複雜照護"}
 
 def pg(p):
-    return {"pdf": p, "book": labels.get(str(p), "?"), "img": f"figures/p{p}.jpg" if LOCAL and (docs / f"figures/p{p}.jpg").exists() else None}
+    return {"pdf": p, "book": labels.get(str(p), "?"), "img": next((f"figures/p{p}.{e}" for e in ("webp", "jpg") if (docs / f"figures/p{p}.{e}").exists()), None)}
 def pagerefs(lst):
     return [pg(p) for p in lst or []]
 

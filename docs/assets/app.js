@@ -30,7 +30,14 @@ function award(n,why){var before=lvlOf(S.xp);touchStreak();S.xp+=n;save();hud(tr
 toast('<svg viewBox="0 0 24 24"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg>+'+n+' XP'+(why?' · '+why:''));
 if(lvlOf(S.xp)>before){setTimeout(function(){toast('Level '+lvlOf(S.xp)+'!','lvl');confetti()},500)}}
 hud(false);
+/* reset */
+function ask(title,msg,yes,onYes){var m=document.createElement('div');m.className='modal';m.innerHTML='<div class="mbox" role="alertdialog" aria-modal="true"><h3>'+title+'</h3><p>'+msg+'</p><div class="mbtns"><button class="btn" type="button" data-n>'+L('Cancel','取消')+'</button><button class="btn pri danger" type="button" data-y>'+yes+'</button></div></div>';document.body.appendChild(m);
+function bye(){m.remove();document.removeEventListener('keydown',esc)}function esc(e){if(e.key==='Escape')bye()}document.addEventListener('keydown',esc);
+$('[data-n]',m).onclick=bye;m.onclick=function(e){if(e.target===m)bye()};$('[data-y]',m).onclick=function(){bye();onYes()};$('[data-n]',m).focus()}
+function bindReset(){var a=$('#reset-all');if(a)a.onclick=function(){ask(L('Reset all progress?','重置全部進度？'),L('This erases your XP, level, streak, learned topics and quiz answers on this browser. It cannot be undone.','這會清除此瀏覽器上的 XP、等級、連續天數、已學主題與作答紀錄，且無法復原。'),L('Reset everything','全部重置'),function(){try{localStorage.removeItem(KEY)}catch(e){}S=fresh();location.reload()})};
+var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared. Your XP and streak are kept.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除，XP 與連續天數保留。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.q,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
 
+bindReset();
 /* ---------- effects ---------- */
 var fx=$('#fx'),parts=[],raf=0;
 function confetti(){if(reduce||!fx)return;fx.width=innerWidth;fx.height=innerHeight;var ctx=fx.getContext('2d'),cols=['#ff5d8f','#ffb020','#12b5a6','#5b5bf0','#8b5cf6','#18b26b'];
