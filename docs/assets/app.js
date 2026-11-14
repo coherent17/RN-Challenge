@@ -157,29 +157,54 @@ $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,b
 }
 
 /* ---------- book viewer (PDF.js, reads book.pdf directly) ---------- */
-var BASE=(document.currentScript&&document.currentScript.src||'').replace(/app\.js(\?.*)?$/,'')||'assets/',pdfP=null,labels=null,lb,cur=1,total=0,zoom=false,rtask=null,token=0;
+var BASE=(document.currentScript&&document.currentScript.src||'').replace(/app\.js(\?.*)?$/,'')||'assets/',pdfP=null,labels=null,lb,st,cur=1,total=0,token=0,rid=0,rtask=null,curPage=null,cv=null,fit=1,vpw=1,vph=1,z=1,rtimer=0,ptrs={},pan=null,pinch=null,lastTap=0;
+var ZMAX=8,ZDBL=2.6;
 function getPdf(){if(!pdfP)pdfP=import(BASE+'pdfjs/pdf.min.mjs').then(function(m){m.GlobalWorkerOptions.workerSrc=BASE+'pdfjs/pdf.worker.min.mjs';return m.getDocument({url:'book.pdf',disableAutoFetch:true,rangeChunkSize:131072}).promise});return pdfP}
 function getLabels(){if(!labels)labels=fetch(BASE+'labels.json').then(function(r){return r.json()}).catch(function(){return {}});return labels}
 function capOf(n,lab){return 'PDF p.'+n+(lab&&lab[n]?' · book p.'+lab[n]:'')}
+function isOpen(){return lb&&lb.classList.contains('open')}
 function buildLb(){if(lb)return;lb=document.createElement('div');lb.className='lb';lb.setAttribute('role','dialog');lb.setAttribute('aria-modal','true');
-lb.innerHTML='<div class="lb-top"><div class="lb-cap"><span class="c"></span><span class="lb-n"></span></div><button class="z" title="Zoom (Z)" aria-label="Zoom"><span class="zm"></span></button><button class="x" title="Close (Esc)" aria-label="Close">×</button></div><div class="lb-stage"><button class="lb-nav lb-prev" aria-label="Previous page">‹</button><div class="lb-load">Loading…</div><button class="lb-nav lb-next" aria-label="Next page">›</button></div>';
-document.body.appendChild(lb);$('.x',lb).onclick=closeLb;$('.z',lb).onclick=toggleZoom;$('.lb-prev',lb).onclick=function(){go(-1)};$('.lb-next',lb).onclick=function(){go(1)};
-var st=$('.lb-stage',lb);st.onclick=function(e){if(e.target===st)closeLb();else if(e.target.tagName==='CANVAS')toggleZoom()};
-var sx=0,sy=0;st.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
-st.addEventListener('touchend',function(e){if(zoom)return;var dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)go(dx<0?1:-1);else if(dy>90&&Math.abs(dy)>Math.abs(dx)*1.5)closeLb()},{passive:true})}
-function showPage(n){token++;var my=token,st=$('.lb-stage',lb);cur=n;st.classList.toggle('zoom',zoom);
-Promise.all([getPdf(),getLabels()]).then(function(r){var pdf=r[0],lab=r[1];total=pdf.numPages;if(n<1||n>total){cur=Math.min(Math.max(n,1),total);n=cur}
+lb.innerHTML='<div class="lb-top"><div class="lb-cap"><span class="c"></span><span class="lb-n"></span></div><span class="lb-zl">100%</span><button class="zo" title="Zoom out (-)" aria-label="Zoom out">−</button><button class="zi" title="Zoom in (+)" aria-label="Zoom in">+</button><button class="zf" title="Fit to screen (0)" aria-label="Fit">Fit</button><button class="x" title="Close (Esc)" aria-label="Close">×</button></div><div class="lb-stage"><button class="lb-nav lb-prev" aria-label="Previous page">‹</button><div class="lb-load">Loading…</div><button class="lb-nav lb-next" aria-label="Next page">›</button></div><div class="lb-hint"><span class="en">Scroll to zoom · drag to move · double-click to zoom · ← → to turn pages</span><span class="zh">滾輪縮放 · 拖曳移動 · 雙擊放大 · ← → 換頁</span></div>';
+document.body.appendChild(lb);st=$('.lb-stage',lb);
+$('.x',lb).onclick=closeLb;$('.lb-prev',lb).onclick=function(){go(-1)};$('.lb-next',lb).onclick=function(){go(1)};
+$('.zi',lb).onclick=function(){zoomCenter(z*1.4)};$('.zo',lb).onclick=function(){zoomCenter(z/1.4)};$('.zf',lb).onclick=function(){zoomCenter(1)};
+st.addEventListener('wheel',function(e){e.preventDefault();setZ(z*Math.exp(-e.deltaY*(e.deltaMode===1?.05:e.ctrlKey?.01:.0015)),e.clientX,e.clientY)},{passive:false});
+st.addEventListener('dblclick',function(e){if(e.target.closest('.lb-nav'))return;setZ(z>1.5?1:ZDBL,e.clientX,e.clientY)});
+st.addEventListener('pointerdown',function(e){if(e.target.closest('.lb-nav'))return;ptrs[e.pointerId]={x:e.clientX,y:e.clientY};try{st.setPointerCapture(e.pointerId)}catch(_){}
+var ids=Object.keys(ptrs);if(ids.length===1){pan={sx:e.clientX,sy:e.clientY,x:e.clientX,y:e.clientY,sl:st.scrollLeft,stp:st.scrollTop,moved:false};if(z>1.001)st.classList.add('grab')}
+else if(ids.length===2){pan=null;var p1=ptrs[ids[0]],p2=ptrs[ids[1]];pinch={d:Math.hypot(p1.x-p2.x,p1.y-p2.y)||1,z:z}}});
+st.addEventListener('pointermove',function(e){if(!ptrs[e.pointerId])return;ptrs[e.pointerId]={x:e.clientX,y:e.clientY};var ks=Object.keys(ptrs);
+if(pinch&&ks.length>=2){var p1=ptrs[ks[0]],p2=ptrs[ks[1]];setZ(pinch.z*Math.hypot(p1.x-p2.x,p1.y-p2.y)/pinch.d,(p1.x+p2.x)/2,(p1.y+p2.y)/2)}
+else if(pan){if(Math.abs(e.clientX-pan.sx)+Math.abs(e.clientY-pan.sy)>6)pan.moved=true;if(z>1.001){st.scrollLeft=pan.sl-(e.clientX-pan.x);st.scrollTop=pan.stp-(e.clientY-pan.y)}}});
+function endPtr(e){delete ptrs[e.pointerId];if(Object.keys(ptrs).length<2)pinch=null;
+if(pan&&!Object.keys(ptrs).length){var dx=e.clientX-pan.sx,dy=e.clientY-pan.sy,touch=e.pointerType==='touch'||e.pointerType==='pen';
+if(e.type==='pointerup'){if(!pan.moved){var el=document.elementFromPoint(e.clientX,e.clientY);if(el===st)closeLb();else if(touch&&el&&el.tagName==='CANVAS'){var now=Date.now();if(now-lastTap<320){lastTap=0;setZ(z>1.5?1:ZDBL,e.clientX,e.clientY)}else lastTap=now}}
+else if(touch&&z<=1.001){if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)go(dx<0?1:-1);else if(dy>90&&Math.abs(dy)>Math.abs(dx)*1.5)closeLb()}}
+pan=null}st.classList.remove('grab')}
+st.addEventListener('pointerup',endPtr);st.addEventListener('pointercancel',endPtr);
+addEventListener('resize',function(){if(!isOpen()||!curPage)return;clearTimeout(rtimer);rtimer=setTimeout(function(){computeFit();applySize();renderCurrent()},150)})}
+function computeFit(){fit=Math.min(st.clientWidth/vpw,st.clientHeight/vph)}
+function applySize(){if(!cv)return;cv.style.width=vpw*fit*z+'px';cv.style.height=vph*fit*z+'px'}
+function updZ(){$('.lb-zl',lb).textContent=Math.round(z*100)+'%'}
+function zoomCenter(nz){var r=st.getBoundingClientRect();setZ(nz,r.left+r.width/2,r.top+r.height/2)}
+function setZ(nz,cx,cy){nz=Math.max(1,Math.min(ZMAX,nz));if(!cv||nz===z)return;var r=cv.getBoundingClientRect(),fx=Math.min(1,Math.max(0,(cx-r.left)/r.width)),fy=Math.min(1,Math.max(0,(cy-r.top)/r.height));
+z=nz;applySize();var r2=cv.getBoundingClientRect();st.scrollLeft+=r2.left+fx*r2.width-cx;st.scrollTop+=r2.top+fy*r2.height-cy;if(z<=1.001){st.scrollLeft=0;st.scrollTop=0}
+updZ();clearTimeout(rtimer);rtimer=setTimeout(renderCurrent,180)}
+function renderCurrent(){if(!curPage)return;var my=++rid,page=curPage,k=Math.min(window.devicePixelRatio||1,2.5),cssW=vpw*fit*z,cssH=vph*fit*z,px=cssW*k*cssH*k;if(px>3.6e7)k*=Math.sqrt(3.6e7/px);
+var v=page.getViewport({scale:fit*z*k}),c=document.createElement('canvas');c.width=Math.floor(v.width);c.height=Math.floor(v.height);c.style.width=cssW+'px';c.style.height=cssH+'px';
+if(rtask){try{rtask.cancel()}catch(e){}}rtask=page.render({canvasContext:c.getContext('2d'),viewport:v});
+rtask.promise.then(function(){if(my!==rid)return;var old=cv;cv=c;applySize();st.insertBefore(c,$('.lb-next',st));if(old)old.remove();var ld=$('.lb-load',st);if(ld)ld.style.display='none'}).catch(function(e){if(e&&e.name==='RenderingCancelledException')return})}
+function showPage(n){token++;var my=token;cur=n;Promise.all([getPdf(),getLabels()]).then(function(r){var pdf=r[0],lab=r[1];total=pdf.numPages;n=cur=Math.min(Math.max(n,1),total);
 $('.c',lb).textContent=capOf(n,lab);$('.lb-n',lb).textContent=n+' / '+total;$('.lb-prev',lb).style.visibility=n>1?'visible':'hidden';$('.lb-next',lb).style.visibility=n<total?'visible':'hidden';
-return pdf.getPage(n).then(function(page){if(my!==token)return;var vp=page.getViewport({scale:1}),sw=st.clientWidth,sh=st.clientHeight,scale=zoom?sw*2.2/vp.width:Math.min(sw/vp.width,sh/vp.height),dpr=Math.min(window.devicePixelRatio||1,2.5),v=page.getViewport({scale:scale*dpr});
-var c=document.createElement('canvas');c.width=v.width;c.height=v.height;c.style.width=vp.width*scale+'px';c.style.height=vp.height*scale+'px';if(rtask){try{rtask.cancel()}catch(e){}}
-rtask=page.render({canvasContext:c.getContext('2d'),viewport:v});return rtask.promise.then(function(){if(my!==token)return;var old=$('canvas',st);if(old)old.remove();var ld=$('.lb-load',st);if(ld)ld.style.display='none';st.insertBefore(c,$('.lb-next',st));st.scrollTop=0;st.scrollLeft=0})})}).catch(function(e){if(e&&e.name==='RenderingCancelledException')return;var st2=$('.lb-stage',lb);var ld=$('.lb-load',st2);if(ld)ld.style.display='none';if(!$('.lb-err',st2)){var d=document.createElement('div');d.className='lb-err';d.innerHTML='Could not load the book viewer.<br><a href="book.pdf#page='+n+'" target="_blank" rel="noopener">Open PDF page '+n+'</a>';st2.appendChild(d)}})}
-function toggleZoom(){zoom=!zoom;showPage(cur)}
-function go(d){var n=cur+d;if(n<1||(total&&n>total))return;var ld=$('.lb-load',lb);if(ld)ld.style.display='grid';showPage(n)}
-function openLb(a){buildLb();zoom=false;var ld=$('.lb-load',lb);if(ld)ld.style.display='grid';var old=$('canvas',lb);if(old)old.remove();var er=$('.lb-err',lb);if(er)er.remove();lb.classList.add('open');document.body.classList.add('lbopen');$('.x',lb).focus();showPage(+a.dataset.p||1)}
+return pdf.getPage(n).then(function(page){if(my!==token)return;curPage=page;var vp=page.getViewport({scale:1});vpw=vp.width;vph=vp.height;z=1;updZ();computeFit();st.scrollLeft=0;st.scrollTop=0;if(cv)applySize();renderCurrent()})}).catch(function(e){if(e&&e.name==='RenderingCancelledException')return;var ld=$('.lb-load',st);if(ld)ld.style.display='none';if(!$('.lb-err',st)){var d=document.createElement('div');d.className='lb-err';d.innerHTML='Could not load the book viewer.<br><a href="book.pdf#page='+n+'" target="_blank" rel="noopener">Open PDF page '+n+'</a>';st.appendChild(d)}})}
+function go(d){var n=cur+d;if(n<1||(total&&n>total))return;showPage(n)}
+function openLb(a){buildLb();z=1;cv&&cv.remove();cv=null;curPage=null;var ld=$('.lb-load',lb);if(ld)ld.style.display='grid';var er=$('.lb-err',lb);if(er)er.remove();lb.classList.add('open');document.body.classList.add('lbopen');$('.x',lb).focus();updZ();showPage(+a.dataset.p||1)}
 function closeLb(){if(!lb)return;lb.classList.remove('open');document.body.classList.remove('lbopen')}
 document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.pgimg');if(a&&a.dataset.p&&!e.metaKey&&!e.ctrlKey&&!e.shiftKey){e.preventDefault();openLb(a)}});
-document.addEventListener('keydown',function(e){if(!lb||!lb.classList.contains('open'))return;
-if(e.key==='Escape')closeLb();else if(e.key==='ArrowRight'||e.key==='PageDown')go(1);else if(e.key==='ArrowLeft'||e.key==='PageUp')go(-1);else if(e.key==='z'||e.key==='Z'||e.key===' '){e.preventDefault();toggleZoom()}});
+document.addEventListener('keydown',function(e){if(!isOpen())return;
+if(e.key==='Escape')closeLb();else if(e.key==='ArrowRight'||e.key==='PageDown')go(1);else if(e.key==='ArrowLeft'||e.key==='PageUp')go(-1);
+else if(e.key==='+'||e.key==='='){e.preventDefault();zoomCenter(z*1.4)}else if(e.key==='-'||e.key==='_'){e.preventDefault();zoomCenter(z/1.4)}else if(e.key==='0'){zoomCenter(1)}
+else if(e.key==='z'||e.key==='Z'||e.key===' '){e.preventDefault();zoomCenter(z>1.5?1:ZDBL)}});
 /* figure thumbnails, rendered on demand */
 var thumbs=$$('canvas.thumb');if(thumbs.length&&'IntersectionObserver'in window){var tio=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;tio.unobserve(e.target);drawThumb(e.target)})},{rootMargin:'250px'});thumbs.forEach(function(c){tio.observe(c)})}
 function drawThumb(c){getPdf().then(function(pdf){return pdf.getPage(+c.dataset.p)}).then(function(page){var w=c.parentNode.clientWidth||240,vp=page.getViewport({scale:1}),dpr=Math.min(window.devicePixelRatio||1,2),v=page.getViewport({scale:w/vp.width*dpr});c.width=v.width;c.height=v.height;return page.render({canvasContext:c.getContext('2d'),viewport:v}).promise}).catch(function(){c.parentNode.classList.add('nothumb')})}

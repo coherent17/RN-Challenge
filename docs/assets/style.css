@@ -206,11 +206,13 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
 /* ===== lightbox ===== */
 .lb{position:fixed;inset:0;z-index:100;display:none;flex-direction:column;background:rgba(8,9,22,.95);color:#fff;backdrop-filter:blur(6px)}
 .lb.open{display:flex;animation:fade .25s}.lb-top{display:flex;align-items:center;gap:10px;padding:10px 14px;padding-top:max(10px,env(safe-area-inset-top))}
+.lb-zl{font-weight:800;font-size:.85rem;opacity:.8;min-width:3.2em;text-align:right}.lb-hint{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);padding:6px 14px;border-radius:99px;background:rgba(0,0,0,.55);color:#fff;font-size:.76rem;white-space:nowrap;pointer-events:none;animation:hint 5s forwards}
+.lb-top button.zf{width:auto;padding:0 14px;border-radius:22px;font-size:.85rem;font-weight:700}
 .lb-cap{flex:1;font-size:.95rem;font-weight:700;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.lb-n{opacity:.65;font-weight:500;margin-left:10px}
 .lb button{width:44px;height:44px;border-radius:50%;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.08);color:#fff;font-size:1.5rem;line-height:1;cursor:pointer;transition:all .2s}.lb button:hover{background:rgba(255,255,255,.22);transform:scale(1.08)}.lb .zm{width:20px;height:20px}
-.lb-stage{position:relative;flex:1;min-height:0;overflow:auto;display:flex;touch-action:pan-x pan-y pinch-zoom;-webkit-overflow-scrolling:touch}
+.lb-stage{position:relative;flex:1;min-height:0;overflow:auto;display:flex;touch-action:none;overscroll-behavior:contain;scrollbar-width:thin;user-select:none;-webkit-user-select:none}.lb-stage.grab canvas,.lb-stage.grab{cursor:grabbing}
 .lb-load{position:absolute;inset:0;display:grid;place-items:center;color:#fff;font-weight:700;opacity:.85;pointer-events:none}.lb-err{margin:auto;text-align:center;padding:24px}.lb-err a{color:#9ad}
-.lb-stage canvas{margin:auto;max-width:none;background:#fff;border-radius:6px;box-shadow:0 20px 70px rgba(0,0,0,.7);cursor:zoom-in;animation:cardin .3s var(--ease)}.lb-stage.zoom canvas{cursor:zoom-out;margin:0 auto}
+.lb-stage canvas{flex:none;margin:auto;max-width:none;background:#fff;border-radius:4px;box-shadow:0 20px 70px rgba(0,0,0,.7);cursor:grab;touch-action:none}
 .lb-stage img{margin:auto;width:auto;height:auto;max-width:100%;max-height:calc(100vh - 70px);max-height:calc(100dvh - 70px);object-fit:contain;background:#fff;border-radius:6px;box-shadow:0 20px 70px rgba(0,0,0,.7);cursor:zoom-in;user-select:none;-webkit-user-drag:none;animation:cardin .35s var(--ease)}
 .lb-stage.zoom{display:block}.lb-stage.zoom img{max-width:none;max-height:none;width:min(230%,1900px);height:auto;cursor:zoom-out;margin:0 auto}
 .lb-nav{position:fixed;top:50%;transform:translateY(-50%);z-index:2}.lb-prev{left:14px}.lb-next{right:14px}body.lbopen{overflow:hidden}
@@ -223,6 +225,7 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
 @keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-7px)}40%{transform:translateX(7px)}60%{transform:translateX(-5px)}80%{transform:translateX(5px)}}
 @keyframes slide{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
 @keyframes cardin{from{opacity:0;transform:translateY(14px) scale(.97)}to{opacity:1;transform:none}}
+@keyframes hint{0%,70%{opacity:1}100%{opacity:0}}
 @keyframes fade{from{opacity:0}to{opacity:1}}
 @keyframes toast{0%{opacity:0;transform:translateY(16px) scale(.9)}12%{opacity:1;transform:none}80%{opacity:1}100%{opacity:0;transform:translateY(-10px)}}
 /* ===== responsive ===== */
@@ -247,7 +250,7 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
   .card{padding:18px 18px 14px}.q{padding:18px 16px}.content h2{font-size:1.4rem;margin-top:44px}
   .crit li{padding:16px 16px 14px 66px}.crit li::before{left:14px;top:14px;width:38px;height:38px}
   .pn{grid-template-columns:1fr}.pn .next,.pn .prev{grid-column:1;text-align:left}
-  .chlist{grid-template-columns:1fr}.figs{grid-template-columns:repeat(2,1fr);gap:12px}.lb-nav{display:none}
+  .chlist{grid-template-columns:1fr}.figs{grid-template-columns:repeat(2,1fr);gap:12px}.lb-nav{display:none}.lb-hint{white-space:normal;text-align:center;width:max-content;max-width:92vw}.lb-zl{display:none}
   .fcard,.fdone{height:380px}.face{padding:18px 18px}.fctl .btn{flex:1;justify-content:center;padding:0 12px}
   .learned{margin-left:0;width:100%;justify-content:center}.sech{font-size:1.5rem}.search{width:100%}.search input{width:100%}
 }
