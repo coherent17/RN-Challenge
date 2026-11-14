@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block bodyattrs %}style="--h:{{ chapter.hue }}" data-ch="{{ chapter.number }}" data-secs="{{ d.sections|length if d else 0 }}" data-qs="{{ (d.questions|length if d else 0) + ext|length }}" data-pq="{{ d.questions|length if d else 0 }}"{% endblock %}
+{% macro tag(refs) %}{% if refs %}<span class="src" title="Source in the book">{% for r in refs %}{% if r.img %}<a class="pgimg" href="{{ r.img }}" data-cap="PDF p.{{ r.pdf }} · book p.{{ r.book }}">{% endif %}<span class="pill"><span class="bk"></span>p.{{ r.pdf }}<i> · book {{ r.book }}</i></span>{% if r.img %}</a>{% endif %}{% endfor %}</span>{% endif %}{% endmacro %}
+{% macro bi(o) %}<span class="en">{{ o.en }}</span><span class="zh">{{ o.zh }}</span>{% endmacro %}
+{% macro nav(prev, next) %}<nav class="pn">{% if prev %}<a class="prev" href="ch{{ '%02d' % prev.number }}.html"><small><span class="en">Previous</span><span class="zh">上一章</span></small><span class="en">{{ prev.number }}. {{ prev.title }}</span><span class="zh">{{ prev.number }}. {{ prev.zh }}</span></a>{% else %}<span></span>{% endif %}
+{% if next %}<a class="next" href="ch{{ '%02d' % next.number }}.html"><small><span class="en">Next</span><span class="zh">下一章</span></small><span class="en">{{ next.number }}. {{ next.title }}</span><span class="zh">{{ next.number }}. {{ next.zh }}</span></a>{% else %}<span></span>{% endif %}</nav>{% endmacro %}
+{% macro question(q, qid, idx, stem_is_bi) %}<article class="q rv" data-qid="{{ qid }}" data-answer="{{ q.answer|join(',') }}"><p class="stem"><b class="qn">{{ idx }}</b><span>{% if stem_is_bi %}{{ bi(q.stem) }}{% else %}{{ q.stem }}{% endif %}{% if q.answer|length > 1 %} <em class="sata"><span class="en">(Select all that apply)</span><span class="zh">（複選）</span></em>{% endif %}</span></p>
+<ul class="opts">{% for o in q.options %}<li><button type="button" data-i="{{ loop.index0 }}"><span class="ltr">{{ 'ABCDEFGH'[loop.index0] }}</span><span class="txt">{% if stem_is_bi %}{{ bi(o) }}{% else %}{{ o }}{% endif %}</span></button></li>{% endfor %}</ul>
+{% if q.answer|length > 1 %}<button class="check btn" type="button"><span class="en">Check answer</span><span class="zh">對答案</span></button>{% endif %}
+<div class="why" hidden>{% if stem_is_bi %}<p>{{ bi(q.rationale) }}</p>{{ tag(q.refs) }}{% else %}<p><span class="en">Correct answer: {{ q.letters }}</span><span class="zh">正確答案：{{ q.letters }}</span></p>{% endif %}</div>
+<p class="qsrc">{% if stem_is_bi %}<span class="en">Source:</span><span class="zh">來源：</span> {% if q.source.url %}<a href="{{ q.source.url }}" rel="noopener" target="_blank">{{ q.source.title }}</a>{% else %}{{ q.source.title }}{% endif %}{% else %}<a href="{{ q.url }}" rel="noopener" target="_blank">{{ q.source }} · {{ q.label }}</a>{% endif %}</p></article>{% endmacro %}
+{% block body %}
+<section class="hero chap"><div class="blobs"><i></i><i></i><i></i></div>
+<svg class="ecg" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70H200l18-8 14 8h40l14-52 22 100 22-48h30l14-12 14 12H620l18-8 14 8h40l14-52 22 100 22-48h30l14-12 14 12H1200"/></svg>
+<div class="wrap">
+<p class="kicker"><a href="index.html"><span class="en">← All chapters</span><span class="zh">← 全部章節</span></a><span class="dot">·</span><span class="en">Part {{ chapter.part.roman }}: {{ chapter.part.title }}</span><span class="zh">第 {{ chapter.part.roman }} 部：{{ chapter.part_zh }}</span></p>
+<div class="heroline"><div class="chmain"><h1><span class="chno">{{ chapter.number }}</span><span class="titlebox"><span class="en">{{ chapter.title }}</span><span class="zh">{{ chapter.zh }}</span></span></h1>
+<p class="badge"><span class="bk"></span><span class="en">PDF p.{{ chapter.range.pdf }} · printed book p.{{ chapter.range.book }}</span><span class="zh">PDF 第 {{ chapter.range.pdf }} 頁 · 書本印刷頁 {{ chapter.range.book }}</span></p>
+{% if d %}<div class="cta"><a class="btn pri" href="#cards"><span class="en">Flashcards</span><span class="zh">單字卡</span></a><a class="btn" href="#practice"><span class="en">Practice</span><span class="zh">練習題</span></a><a class="btn" href="#critical"><span class="en">Test-critical</span><span class="zh">考試關鍵</span></a></div>{% endif %}</div>
+{% if d %}<div class="herorank"><div class="ring big" id="ring-ch" style="--p:0"><b>0%</b></div><small><span class="en">chapter progress</span><span class="zh">章節進度</span></small></div>{% endif %}</div>
+</div></section>
+<div class="wrap layout">
+{% if not d %}<div class="card soon"><span class="en">Content for this chapter is still being prepared.</span><span class="zh">本章內容整理中。</span></div>
+{% else %}
+<nav class="toc" aria-label="Contents"><div class="tocin">
+<a href="#summary" class="grp"><span class="en">Summary</span><span class="zh">重點摘要</span></a>
+{% for s in d.sections %}<a href="#s{{ loop.index }}" class="sub">{{ bi(s.heading) }}</a>{% endfor %}
+<a href="#cards" class="grp"><span class="en">Flashcards</span><span class="zh">單字卡</span></a>
+<a href="#critical" class="grp"><span class="en">Test-critical</span><span class="zh">考試關鍵點</span></a>
+{% if d.mnemonics %}<a href="#mnemonics" class="grp"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></a>{% endif %}
+{% if d.figures %}<a href="#figures" class="grp"><span class="en">Book pages</span><span class="zh">原書圖表</span></a>{% endif %}
+<a href="#practice" class="grp"><span class="en">Practice</span><span class="zh">練習題</span></a>
+{% if ext %}<a href="#real" class="grp"><span class="en">Real-style</span><span class="zh">實戰題</span></a>{% endif %}
+{% if d.resources %}<a href="#resources" class="grp"><span class="en">Resources</span><span class="zh">延伸資源</span></a>{% endif %}
+</div></nav>
+<main class="content">
+<p class="lead rv">{{ bi(d.overview) }}</p>
+<h2 id="summary"><span class="en">Chapter summary</span><span class="zh">章節重點摘要</span></h2>
+{% for s in d.sections %}<section class="card sec rv" id="s{{ loop.index }}" data-i="{{ loop.index }}"><h3><span class="num">{{ loop.index }}</span><span class="ttl">{{ bi(s.heading) }}</span></h3><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul><div class="tags">{{ tag(s.refs) }}<button class="learned" type="button" aria-pressed="false"><span class="chk"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span class="en">Got it</span><span class="zh">已學會</span></button></div></section>{% endfor %}
+
+<h2 id="cards"><span class="en">Flashcards</span><span class="zh">單字卡</span></h2>
+<div class="deck rv" id="deck"><div class="fhead"><span class="fcount"><b id="fc-i">1</b> / {{ d.sections|length }}</span><span class="fknown"><span class="en">Known:</span><span class="zh">已會：</span> <b id="fc-k">0</b></span></div>
+<div class="fstack">{% for s in d.sections %}<div class="fcard" data-id="{{ loop.index }}"><div class="fin"><div class="face front"><small><span class="en">Topic {{ loop.index }} · tap to flip</span><span class="zh">主題 {{ loop.index }} · 點擊翻面</span></small><div class="ftitle">{{ bi(s.heading) }}</div><span class="fhint"><svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 15-6.7L21 8M21 3v5h-5M21 12a9 9 0 0 1-15 6.7L3 16M3 21v-5h5"/></svg></span></div><div class="face back"><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul></div></div></div>{% endfor %}</div>
+<div class="fctl"><button class="btn" id="fc-again" type="button"><span class="en">Again</span><span class="zh">再看一次</span></button><button class="btn" id="fc-flip" type="button"><span class="en">Flip</span><span class="zh">翻面</span></button><button class="btn pri" id="fc-got" type="button"><span class="en">Got it</span><span class="zh">我會了</span></button></div>
+<p class="fnote"><span class="en">Space = flip · ← → = move · Enter = Got it</span><span class="zh">空白鍵＝翻面 · ← → ＝切換 · Enter＝我會了</span></p></div>
+
+<h2 id="critical"><span class="en">Test-critical points</span><span class="zh">考試關鍵點</span></h2>
+<ol class="crit">{% for c in d.critical_points %}<li class="rv"><div>{{ bi(c) }}</div>{{ tag(c.refs) }}</li>{% endfor %}</ol>
+{% if d.mnemonics %}<h2 id="mnemonics"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></h2><ul class="mn">{% for m in d.mnemonics %}<li class="rv"><div>{{ bi(m) }}</div>{{ tag(m.refs) }}</li>{% endfor %}</ul>{% endif %}
+{% if d.figures %}<h2 id="figures"><span class="en">Book figures &amp; tables</span><span class="zh">原書圖表</span></h2>
+<div class="figs">{% for g in d.figures %}<figure class="card fig rv">{% if g.refs[0].img %}<a class="pgimg" href="{{ g.refs[0].img }}" data-cap="PDF p.{{ g.refs[0].pdf }} · book p.{{ g.refs[0].book }}"><img loading="lazy" src="{{ g.refs[0].img }}" alt="PDF page {{ g.pdf_page }}"><span class="zoomhint"><span class="zm"></span></span></a>{% elif g.image_url %}<img loading="lazy" src="{{ g.image_url }}" alt="{{ g.caption.en }}"><small class="credit">{{ g.credit }}</small>{% endif %}<figcaption>{{ tag(g.refs) }}<div>{{ bi(g.caption) }}</div></figcaption></figure>{% endfor %}</div>{% endif %}
+<h2 id="practice"><span class="en">Practice questions</span><span class="zh">練習題</span></h2>
+{% for q in d.questions %}{{ question(q, 'p' ~ loop.index, loop.index, true) }}{% endfor %}
+<div class="scorecard" id="score" data-for="p" hidden><div class="stars"><svg viewBox="0 0 24 24"><path d="M12 2l3 6.5 7 .9-5.2 4.8 1.4 7-6.2-3.5-6.2 3.5 1.4-7L2 9.4l7-.9z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2l3 6.5 7 .9-5.2 4.8 1.4 7-6.2-3.5-6.2 3.5 1.4-7L2 9.4l7-.9z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2l3 6.5 7 .9-5.2 4.8 1.4 7-6.2-3.5-6.2 3.5 1.4-7L2 9.4l7-.9z"/></svg></div><p class="sc-t"></p><p class="sc-s"></p></div>
+{% if ext %}<h2 id="real"><span class="en">Real-exam-style questions</span><span class="zh">實戰題</span></h2>
+<p class="note"><span class="en">Free public samples, local use only. English only; no rationales are published with them.</span><span class="zh">免費公開範例，僅限本機使用。僅英文，來源未附解析。</span></p>
+{% for q in ext %}{{ question(q, 'e' ~ loop.index, loop.index, false) }}{% endfor %}{% endif %}
+{% if d.resources %}<h2 id="resources"><span class="en">Further resources</span><span class="zh">延伸資源</span></h2><ul class="res">{% for r in d.resources %}<li class="rv"><a href="{{ r.url }}" rel="noopener" target="_blank">{{ r.title }}</a><div>{{ bi(r.note) }}</div></li>{% endfor %}</ul>{% endif %}
+{{ nav(prev, next) }}
+</main>
+{% endif %}
+</div>
+{% endblock %}
