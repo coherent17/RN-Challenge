@@ -1,0 +1,705 @@
+{
+ "number": 56,
+ "title": {
+  "en": "Renal and Urinary Medications",
+  "zh": "腎臟與泌尿用藥"
+ },
+ "overview": {
+  "en": "Drug classes used for urinary infections, bladder dysfunction, transplant rejection prevention, anemia of kidney disease and benign prostatic hyperplasia. For each class know the action, key adverse effects, monitoring or antidote, and teaching points.",
+  "zh": "涵蓋泌尿道感染、膀胱功能異常、預防移植排斥、腎病貧血與良性攝護腺增生的藥物類別。每類需熟記作用機轉、主要不良反應、監測或解毒劑與衛教重點。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Urinary tract antiseptics (fosfomycin, methenamine, nitrofurantoin)",
+    "zh": "泌尿道抗菌劑(fosfomycin、methenamine、nitrofurantoin)"
+   },
+   "points": [
+    {
+     "en": "Action: inhibit bacterial growth in urine only; no useful blood or tissue levels, so not for infections outside the urinary tract.",
+     "zh": "作用：僅在尿液中抑制細菌生長；血液與組織濃度不足，不適用泌尿道以外感染。"
+    },
+    {
+     "en": "Fosfomycin (福斯黴素): granules dissolved in about 120 mL cold water, drink all; drugs that speed GI motility lower absorption.",
+     "zh": "Fosfomycin(福斯黴素)：顆粒溶於約120 mL冷水並全部喝完；促腸蠕動藥物會降低吸收。"
+    },
+    {
+     "en": "Methenamine (烏洛托品): for chronic UTI prophylaxis; needs acidic urine (pH 5.5 or lower); avoid alkalinizing antacids and sulfonamides (crystalluria); avoid in renal impairment and liver dysfunction (ammonia); high fluid intake dilutes effect.",
+     "zh": "Methenamine(烏洛托品)：用於慢性泌尿道感染預防；需酸性尿(pH≦5.5)；避免鹼化制酸劑與磺胺類(結晶尿)；腎功能不全與肝功能異常者禁用(產生氨)；大量飲水會稀釋療效。"
+    },
+    {
+     "en": "Nitrofurantoin (呋喃妥因): take with food/milk; may turn urine harmless brown; adverse effects include pulmonary reaction (dyspnea, cough, fever, chills; stop drug), peripheral neuropathy, hemolysis/blood dyscrasias, hypersensitivity; contraindicated in renal impairment; avoid antacids.",
+     "zh": "Nitrofurantoin(呋喃妥因)：隨餐或牛奶服用；尿液可變棕色(無害)；不良反應包括肺部反應(呼吸困難、咳嗽、發燒、寒顫，需停藥)、週邊神經病變、溶血/血球異常、過敏；腎功能不全禁用；避免制酸劑。"
+    }
+   ],
+   "pdf_pages": [
+    896
+   ]
+  },
+  {
+   "heading": {
+    "en": "Fluoroquinolones",
+    "zh": "氟喹諾酮類"
+   },
+   "points": [
+    {
+     "en": "Action: inhibit bacterial DNA synthesis enzymes; broad spectrum. Examples: ciprofloxacin, levofloxacin, ofloxacin.",
+     "zh": "作用：抑制細菌DNA合成酵素；廣效。例如ciprofloxacin、levofloxacin、ofloxacin。"
+    },
+    {
+     "en": "Adverse effects: tendinitis/tendon rupture (Achilles; higher risk age >60, corticosteroids, transplant), CNS effects (dizziness, confusion, hallucinations, depression), photosensitivity, GI upset, crystalluria.",
+     "zh": "不良反應：肌腱炎/肌腱斷裂(以阿基里斯腱最常見；>60歲、使用類固醇、移植者風險高)、中樞神經症狀(頭暈、混亂、幻覺、憂鬱)、光敏感、腸胃不適、結晶尿。"
+    },
+    {
+     "en": "Teaching: full glass of water, urine output at least 1200-1500 mL/day, sun protection, report CNS or tendon pain; infuse IV slowly over 60 min.",
+     "zh": "衛教：以一整杯水服用、每日尿量至少1200-1500 mL、防曬、出現中樞症狀或肌腱疼痛需通報；靜脈輸注需60分鐘緩慢給予。"
+    },
+    {
+     "en": "Use cautiously in hepatic, renal or CNS disorders.",
+     "zh": "肝、腎或中樞神經疾病者小心使用。"
+    }
+   ],
+   "pdf_pages": [
+    897
+   ]
+  },
+  {
+   "heading": {
+    "en": "Sulfonamides (trimethoprim-sulfamethoxazole)",
+    "zh": "磺胺類(trimethoprim-sulfamethoxazole)"
+   },
+   "points": [
+    {
+     "en": "Action: block folic acid synthesis; TMP-SMX blocks two sequential steps so is more effective than either alone. Used mainly for acute UTI.",
+     "zh": "作用：阻斷葉酸合成；TMP-SMX阻斷兩個連續步驟，療效優於單用。主要用於急性泌尿道感染。"
+    },
+    {
+     "en": "Adverse effects: rash (withhold and report), Stevens-Johnson syndrome, photosensitivity, hemolytic anemia, agranulocytosis, thrombocytopenia (report sore throat or fever).",
+     "zh": "不良反應：皮疹(需停藥並通報)、史蒂文斯-強生症候群、光敏感、溶血性貧血、顆粒球低下、血小板低下(出現喉嚨痛或發燒需通報)。"
+    },
+    {
+     "en": "Contraindicated with sulfa/sulfonylurea/thiazide/loop diuretic hypersensitivity, infants <2 months, pregnancy and lactation.",
+     "zh": "對磺胺、磺醯脲、噻嗪或袢利尿劑過敏、2個月以下嬰兒、孕婦及哺乳者禁用。"
+    },
+    {
+     "en": "Potentiates warfarin, phenytoin and oral hypoglycemics. Teach: empty stomach, 8-10 glasses of water, urine output at least 1200 mL/day, finish course, sunscreen.",
+     "zh": "增強warfarin、phenytoin及口服降血糖藥效果。衛教：空腹服用、每日飲水8-10杯、尿量至少1200 mL、完成療程、防曬。"
+    }
+   ],
+   "pdf_pages": [
+    897,
+    898
+   ]
+  },
+  {
+   "heading": {
+    "en": "Urinary analgesics, anticholinergics/antispasmodics, cholinergics",
+    "zh": "泌尿道止痛劑、抗膽鹼/解痙劑與膽鹼劑"
+   },
+   "points": [
+    {
+     "en": "Phenazopyridine (苯偶氮吡啶): relieves urinary pain only, given with an antibiotic; turns urine, tears and contact lenses red-orange; contraindicated in renal/hepatic disease; interferes with urine glucose/ketone tests.",
+     "zh": "Phenazopyridine(苯偶氮吡啶)：僅緩解泌尿道疼痛，需併用抗生素；使尿液、淚液及隱形眼鏡呈紅橙色；腎或肝疾病禁用；干擾尿糖與尿酮檢驗。"
+    },
+    {
+     "en": "Anticholinergics for overactive bladder (oxybutynin 奧昔布寧, tolterodine, solifenacin, darifenacin, trospium, fesoterodine): dry mouth, constipation, blurred vision, urinary retention, tachycardia, confusion in elderly.",
+     "zh": "膀胱過動症抗膽鹼藥(oxybutynin、tolterodine、solifenacin、darifenacin、trospium、fesoterodine)：口乾、便秘、視力模糊、尿滯留、心搏過速、老年人混亂。"
+    },
+    {
+     "en": "Contraindicated in glaucoma (angle-closure; book also warns open-angle), GI/GU obstruction, severe colitis, myasthenia gravis. Do not crush extended-release forms; sugarless gum/candy for dry mouth.",
+     "zh": "青光眼、胃腸/泌尿道阻塞、嚴重結腸炎、重症肌無力者禁用(本書亦提醒開角型青光眼)。長效劑型不可磨碎或咀嚼；口乾可用無糖口香糖/糖果。"
+    },
+    {
+     "en": "Bethanechol (貝胆鹼): cholinergic that increases bladder tone for nonobstructive retention/neurogenic bladder; give on empty stomach; never IM or IV.",
+     "zh": "Bethanechol(貝胆鹼)：膽鹼劑，增加膀胱張力，用於非阻塞性尿滯留/神經性膀胱；空腹服用；不可肌肉或靜脈注射。"
+    },
+    {
+     "en": "Bethanechol adverse effects: hypotension, bradycardia, bronchoconstriction, flushing, salivation, cramps. Antidote for cholinergic overdose: atropine sulfate. Contraindicated with urinary obstruction/stricture.",
+     "zh": "Bethanechol不良反應：低血壓、心搏過緩、支氣管收縮、潮紅、流涎、腹絞痛。膽鹼過量解毒劑：atropine sulfate。尿道阻塞/狹窄者禁用。"
+    }
+   ],
+   "pdf_pages": [
+    898,
+    899
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immunosuppressants: calcineurin inhibitors and mTOR inhibitors",
+    "zh": "免疫抑制劑：鈣調神經磷酸酶抑制劑與mTOR抑制劑"
+   },
+   "points": [
+    {
+     "en": "Cyclosporine (環孢素): calcineurin inhibitor blocking IL-2 production; nephrotoxicity, hypertension, tremor, hirsutism, gingival changes, infection, lymphoma, hyperkalemia, hyperglycemia. Monitor blood levels, BUN, creatinine, K+, glucose, LFTs.",
+     "zh": "Cyclosporine(環孢素)：鈣調神經磷酸酶抑制劑，阻斷IL-2；腎毒性、高血壓、顫抖、多毛、感染、淋巴瘤、高血鉀、高血糖。監測血中濃度、BUN、肌酸酐、鉀、血糖、肝功能。"
+    },
+    {
+     "en": "Cyclosporine interactions: grapefruit juice, ketoconazole, erythromycin, amphotericin B raise levels; phenytoin, phenobarbital, rifampin, TMP-SMX lower levels. Mix liquid with milk/chocolate milk/orange juice in a glass container, not plastic.",
+     "zh": "Cyclosporine交互作用：葡萄柚汁、ketoconazole、erythromycin、amphotericin B使濃度升高；phenytoin、phenobarbital、rifampin、TMP-SMX使濃度降低。液劑以牛奶/巧克力牛奶/柳橙汁混合並使用玻璃容器。"
+    },
+    {
+     "en": "Contraindicated in pregnancy (embryotoxic), live vaccines, active infection such as varicella/zoster.",
+     "zh": "懷孕(胚胎毒性)、活病毒疫苗、活動性感染(如水痘/帶狀疱疹)時禁用。"
+    },
+    {
+     "en": "Tacrolimus (他克莫司): more potent but more toxic than cyclosporine; nephrotoxicity, neurotoxicity, hyperglycemia (monitor glucose), hyperkalemia, infection.",
+     "zh": "Tacrolimus(他克莫司)：比cyclosporine強效但毒性較高；腎毒性、神經毒性、高血糖(需監測血糖)、高血鉀、感染。"
+    },
+    {
+     "en": "Sirolimus (西羅莫司) and everolimus (依維莫司): mTOR inhibitors; infection, renal injury, raised cholesterol/triglycerides, lymphocele, rash, mouth ulcers, anemia, thrombocytopenia, edema; no grapefruit juice; avoid crowds and live vaccines.",
+     "zh": "Sirolimus與everolimus：mTOR抑制劑；感染、腎損傷、膽固醇/三酸甘油酯升高、淋巴囊腫、皮疹、口瘡、貧血、血小板低下、水腫；勿喝葡萄柚汁；避免人群與活疫苗。"
+    }
+   ],
+   "pdf_pages": [
+    899,
+    900
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immunosuppressants: steroids, antimetabolites and antibodies",
+    "zh": "免疫抑制劑：類固醇、抗代謝藥與抗體"
+   },
+   "points": [
+    {
+     "en": "Prednisone: glucocorticoid; hyperglycemia and hypokalemia (monitor glucose and K+).",
+     "zh": "Prednisone：糖皮質素；高血糖與低血鉀(監測血糖與鉀)。"
+    },
+    {
+     "en": "Azathioprine (硫唑嘌呤): bone marrow suppression (neutropenia, thrombocytopenia), neoplasm risk, contraindicated in pregnancy; monitor CBC, platelets, liver enzymes.",
+     "zh": "Azathioprine(硫唑嘌呤)：骨髓抑制(嗜中性白血球及血小板低下)、腫瘤風險、懷孕禁用；監測全血球、血小板、肝酵素。"
+    },
+    {
+     "en": "Mycophenolate mofetil (黴酚酸酯): diarrhea, vomiting, severe neutropenia, sepsis, malignancy; absorption reduced by Mg/Al antacids and cholestyramine; empty stomach, do not open/crush capsules; contraindicated in pregnancy/lactation.",
+     "zh": "Mycophenolate mofetil(黴酚酸酯)：腹瀉、嘔吐、嚴重嗜中性白血球低下、敗血症、惡性腫瘤；鎂/鋁制酸劑與cholestyramine降低吸收；空腹服用、膠囊不可打開或磨碎；懷孕與哺乳禁用。"
+    },
+    {
+     "en": "Basiliximab (巴利昔單抗): IL-2 receptor antibody for induction, IV within 2 h before transplant; headache, tremor, GI distress, edema, slow wound healing.",
+     "zh": "Basiliximab(巴利昔單抗)：IL-2受體抗體，用於誘導，移植前2小時內靜脈給予；頭痛、顫抖、腸胃不適、水腫、傷口癒合慢。"
+    },
+    {
+     "en": "Antithymocyte globulin, equine: treats acute rejection; intradermal skin test before first dose; monitor platelets; risk of infectious agent transmission.",
+     "zh": "馬抗胸腺細胞球蛋白：用於治療急性排斥；首次使用前做皮內試驗；監測血小板；有傳播感染原風險。"
+    },
+    {
+     "en": "All immunosuppressants: take at the same time daily, never skip, report fever, sore throat, bleeding/bruising, mouth sores promptly.",
+     "zh": "所有免疫抑制劑：每天固定時間服用、不可漏服，出現發燒、喉嚨痛、出血/瘀青、口腔潰瘍須立即通報。"
+    }
+   ],
+   "pdf_pages": [
+    900,
+    901
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hematopoietic growth factors",
+    "zh": "造血生長因子"
+   },
+   "points": [
+    {
+     "en": "Erythropoietic agents (epoetin alfa 阿法依泊汀, darbepoetin alfa): treat anemia of CKD; effect in 1-2 weeks, Hct normal in 2-3 months.",
+     "zh": "紅血球生成素類(epoetin alfa、darbepoetin alfa)：治療CKD貧血；1-2週見效，2-3個月血比容恢復正常。"
+    },
+    {
+     "en": "Major adverse effect hypertension; also thrombosis, stroke, MI, heart failure. Monitor BP, Hgb/Hct, iron stores.",
+     "zh": "主要不良反應為高血壓；另有血栓、中風、心肌梗塞、心衰竭。監測血壓、Hgb/Hct與鐵儲存。"
+    },
+    {
+     "en": "Leukopoietic agents (filgrastim 非格司亭, pegfilgrastim, sargramostim): raise WBC in chemotherapy neutropenia; bone pain, leukocytosis, raised uric acid, splenomegaly.",
+     "zh": "白血球生成素類(filgrastim、pegfilgrastim、sargramostim)：用於化療引起的嗜中性白血球低下；骨痛、白血球增多、尿酸升高、脾腫大。"
+    },
+    {
+     "en": "Thrombopoietic agent: raises platelets; fluid retention, dysrhythmias, visual blurring, papilledema.",
+     "zh": "血小板生成素類：提升血小板；水分滯留、心律不整、視力模糊、視乳頭水腫。"
+    }
+   ],
+   "pdf_pages": [
+    901
+   ]
+  },
+  {
+   "heading": {
+    "en": "Medications for benign prostatic hyperplasia",
+    "zh": "良性攝護腺增生用藥"
+   },
+   "points": [
+    {
+     "en": "Alpha blockers (tamsulosin 坦索羅辛, alfuzosin, doxazosin, terazosin, silodosin): relax prostate and bladder neck smooth muscle; dizziness, orthostatic hypotension, retrograde ejaculation.",
+     "zh": "α阻斷劑(tamsulosin、alfuzosin、doxazosin、terazosin、silodosin)：放鬆攝護腺與膀胱頸平滑肌；頭暈、姿位性低血壓、逆行性射精。"
+    },
+    {
+     "en": "5-alpha-reductase inhibitors (finasteride 非那雄胺, dutasteride): shrink the prostate; may take up to 6 months; retrograde ejaculation.",
+     "zh": "5-α還原酶抑制劑(finasteride、dutasteride)：縮小攝護腺；最久需6個月見效；逆行性射精。"
+    },
+    {
+     "en": "Avoid decongestants, antihistamines, anticholinergics that cause urinary retention in BPH.",
+     "zh": "BPH應避免會造成尿滯留的解充血劑、抗組織胺與抗膽鹼藥。"
+    }
+   ],
+   "pdf_pages": [
+    901
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Nitrofurantoin: cough, fever, chills, dyspnea = pulmonary reaction, stop drug and report; brown urine is harmless; contraindicated in renal impairment.",
+   "zh": "Nitrofurantoin：咳嗽、發燒、寒顫、呼吸困難=肺部反應，需停藥並通報；棕色尿無害；腎功能不全禁用。",
+   "pdf_pages": [
+    896
+   ]
+  },
+  {
+   "en": "Methenamine works only in acidic urine (pH 5.5 or lower): avoid sodium bicarbonate antacids, sulfonamides, and excess fluids.",
+   "zh": "Methenamine僅在酸性尿(pH≦5.5)有效：避免碳酸氫鈉制酸劑、磺胺類與過量飲水。",
+   "pdf_pages": [
+    896
+   ]
+  },
+  {
+   "en": "Fluoroquinolones: tendon rupture risk (age >60, steroids, transplant) and CNS toxicity; stop and report tendon pain, dizziness, blurred vision, depression.",
+   "zh": "氟喹諾酮：肌腱斷裂風險(>60歲、類固醇、移植)與中樞毒性；肌腱疼痛、頭暈、視力模糊、憂鬱需停藥並通報。",
+   "pdf_pages": [
+    897
+   ]
+  },
+  {
+   "en": "Sulfonamides: withhold and report rash (possible Stevens-Johnson), sore throat or fever; keep urine output >=1200 mL/day (8-10 glasses water).",
+   "zh": "磺胺類：出現皮疹(可能史蒂文斯-強生)、喉嚨痛或發燒須停藥並通報；尿量維持≧1200 mL/天(喝水8-10杯)。",
+   "pdf_pages": [
+    897,
+    898
+   ]
+  },
+  {
+   "en": "Phenazopyridine turns urine, tears and contact lenses orange-red and treats pain only; give with an antibiotic.",
+   "zh": "Phenazopyridine使尿液、淚液與隱形眼鏡呈橙紅色，僅治療疼痛；需併用抗生素。",
+   "pdf_pages": [
+    898
+   ]
+  },
+  {
+   "en": "Anticholinergic bladder drugs are contraindicated or risky in glaucoma, obstruction, myasthenia gravis; expect dry mouth and constipation.",
+   "zh": "抗膽鹼膀胱藥在青光眼、阻塞、重症肌無力時禁用或高風險；預期有口乾與便秘。",
+   "pdf_pages": [
+    898
+   ]
+  },
+  {
+   "en": "Bethanechol: never IM/IV; contraindicated in urinary obstruction; antidote for cholinergic toxicity is atropine sulfate.",
+   "zh": "Bethanechol：不可肌肉/靜脈注射；尿路阻塞禁用；膽鹼中毒解毒劑為atropine sulfate。",
+   "pdf_pages": [
+    898,
+    899
+   ]
+  },
+  {
+   "en": "Cyclosporine/tacrolimus: nephrotoxic; monitor drug levels, BUN, creatinine, K+, glucose; no grapefruit juice; take at same time daily.",
+   "zh": "Cyclosporine/tacrolimus具腎毒性；監測血中濃度、BUN、肌酸酐、鉀、血糖；禁喝葡萄柚汁；每日固定時間服用。",
+   "pdf_pages": [
+    899,
+    900
+   ]
+  },
+  {
+   "en": "Immunosuppressed clients: report fever, sore throat, bruising; avoid live vaccines, crowds and sick contacts; lifelong therapy.",
+   "zh": "免疫抑制病人：發燒、喉嚨痛、瘀青需通報；避免活疫苗、人群與病人接觸；需終生服藥。",
+   "pdf_pages": [
+    899,
+    900
+   ]
+  },
+  {
+   "en": "Azathioprine and mycophenolate: bone marrow suppression, contraindicated in pregnancy; monitor CBC.",
+   "zh": "Azathioprine與mycophenolate：骨髓抑制、懷孕禁用；監測全血球計數。",
+   "pdf_pages": [
+    900
+   ]
+  },
+  {
+   "en": "Antithymocyte globulin requires intradermal skin test first; basiliximab is given within 2 h before transplant.",
+   "zh": "抗胸腺細胞球蛋白需先做皮內試驗；basiliximab於移植前2小時內給予。",
+   "pdf_pages": [
+    900,
+    901
+   ]
+  },
+  {
+   "en": "Epoetin/darbepoetin: monitor blood pressure (hypertension is the major adverse effect), thrombosis risk.",
+   "zh": "Epoetin/darbepoetin：監測血壓(高血壓為主要不良反應)與血栓風險。",
+   "pdf_pages": [
+    901
+   ]
+  },
+  {
+   "en": "Alpha blockers for BPH cause orthostatic hypotension and dizziness: rise slowly; finasteride can take up to 6 months.",
+   "zh": "BPH的α阻斷劑會造成姿位性低血壓與頭暈：緩慢起身；finasteride最久需6個月才見效。",
+   "pdf_pages": [
+    901
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Cholinergic overdose = SLUDGE/DUMBBELS (salivation, lacrimation, urination, defecation, GI cramps, emesis, bradycardia): antidote atropine.",
+   "zh": "膽鹼過量=SLUDGE(流涎、流淚、排尿、排便、腹絞痛、嘔吐、心搏過緩)：解毒劑atropine。",
+   "pdf_pages": [
+    899
+   ]
+  },
+  {
+   "en": "Anticholinergic effects: 'can't see, can't pee, can't spit, can't poop.'",
+   "zh": "抗膽鹼作用：視力模糊、尿滯留、口乾、便秘。",
+   "pdf_pages": [
+    898
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 896,
+   "caption": {
+    "en": "Box 56.1 and urinary antiseptic summary (fosfomycin, methenamine, nitrofurantoin).",
+    "zh": "方塊56.1與泌尿道抗菌劑摘要(fosfomycin、methenamine、nitrofurantoin)。"
+   }
+  },
+  {
+   "pdf_page": 897,
+   "caption": {
+    "en": "Boxes 56.2-56.3: fluoroquinolone and sulfonamide lists plus Clinical Judgment case of ciprofloxacin CNS effects.",
+    "zh": "方塊56.2-56.3：氟喹諾酮與磺胺類藥物清單及cipro中樞副作用臨床判斷案例。"
+   }
+  },
+  {
+   "pdf_page": 898,
+   "caption": {
+    "en": "Boxes 56.4-56.5: urinary analgesics and anticholinergics/antispasmodics lists.",
+    "zh": "方塊56.4-56.5：泌尿道止痛劑與抗膽鹼/解痙劑清單。"
+   }
+  },
+  {
+   "pdf_page": 899,
+   "caption": {
+    "en": "Box 56.6: transplant rejection medication classes (immunosuppressants, glucocorticoid, cytotoxics, antibodies).",
+    "zh": "方塊56.6：預防排斥藥物分類(免疫抑制劑、糖皮質素、細胞毒性藥、抗體)。"
+   }
+  },
+  {
+   "pdf_page": 901,
+   "caption": {
+    "en": "Boxes 56.7-56.8: growth factors and BPH medication lists.",
+    "zh": "方塊56.7-56.8：生長因子與BPH藥物清單。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client with BPH and a cold cannot void. Which medication class most likely contributed?",
+    "zh": "一位有BPH且感冒的病人無法排尿，最可能與哪類藥物有關？"
+   },
+   "options": [
+    {
+     "en": "Diuretics",
+     "zh": "利尿劑"
+    },
+    {
+     "en": "Antibiotics",
+     "zh": "抗生素"
+    },
+    {
+     "en": "Antilipemics",
+     "zh": "降血脂藥"
+    },
+    {
+     "en": "Decongestants",
+     "zh": "解充血劑"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Decongestants constrict smooth muscle in the prostate and bladder neck, worsening retention.",
+    "zh": "解充血劑使攝護腺與膀胱頸平滑肌收縮，加重尿滯留。"
+   },
+   "pdf_pages": [
+    901
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking nitrofurantoin reports cough, chills, fever and difficulty breathing. The nurse should:",
+    "zh": "服用nitrofurantoin的病人主訴咳嗽、寒顫、發燒與呼吸困難，護理師應："
+   },
+   "options": [
+    {
+     "en": "Reassure that this is expected",
+     "zh": "告知為預期反應"
+    },
+    {
+     "en": "Tell the client to withhold the drug and contact the provider",
+     "zh": "指示暫停藥物並聯絡醫師"
+    },
+    {
+     "en": "Suggest taking with milk",
+     "zh": "建議配牛奶服用"
+    },
+    {
+     "en": "Increase the dose",
+     "zh": "增加劑量"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "This is a pulmonary reaction that requires stopping the drug; symptoms resolve in 2-4 days.",
+    "zh": "這是肺部反應，需停藥；症狀2-4天內緩解。"
+   },
+   "pdf_pages": [
+    896
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instructions are correct for a client prescribed trimethoprim-sulfamethoxazole? Select all that apply.",
+    "zh": "TMP-SMX的正確衛教有哪些？(多選)"
+   },
+   "options": [
+    {
+     "en": "Drink 8 to 10 glasses of water daily",
+     "zh": "每日喝水8-10杯"
+    },
+    {
+     "en": "Use sunscreen",
+     "zh": "使用防曬"
+    },
+    {
+     "en": "Stop the drug when symptoms improve",
+     "zh": "症狀改善即停藥"
+    },
+    {
+     "en": "Report rash or sore throat",
+     "zh": "出現皮疹或喉嚨痛需通報"
+    },
+    {
+     "en": "Sunlight exposure is not a concern",
+     "zh": "日曬沒有影響"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Fluids prevent crystalluria; photosensitivity and hypersensitivity require reporting; complete the full course.",
+    "zh": "補充水分預防結晶尿；光敏感與過敏反應需通報；須完成整個療程。"
+   },
+   "pdf_pages": [
+    897,
+    898
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client receiving bethanechol develops bradycardia, severe hypotension, sweating and salivation. Which drug should be available?",
+    "zh": "服用bethanechol的病人出現心搏過緩、嚴重低血壓、流汗與流涎，應備何藥？"
+   },
+   "options": [
+    {
+     "en": "Naloxone",
+     "zh": "naloxone"
+    },
+    {
+     "en": "Atropine sulfate",
+     "zh": "atropine sulfate"
+    },
+    {
+     "en": "Flumazenil",
+     "zh": "flumazenil"
+    },
+    {
+     "en": "Protamine",
+     "zh": "protamine"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Atropine is the antidote for cholinergic overdose.",
+    "zh": "Atropine為膽鹼過量的解毒劑。"
+   },
+   "pdf_pages": [
+    899
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which teaching is appropriate for a kidney transplant client taking cyclosporine? Select all that apply.",
+    "zh": "腎移植病人服用cyclosporine，哪些衛教適當？(多選)"
+   },
+   "options": [
+    {
+     "en": "Avoid grapefruit juice",
+     "zh": "避免葡萄柚汁"
+    },
+    {
+     "en": "Take at the same time each day",
+     "zh": "每天固定時間服用"
+    },
+    {
+     "en": "Report fever and sore throat",
+     "zh": "發燒或喉嚨痛需通報"
+    },
+    {
+     "en": "Receive a live vaccine to boost immunity",
+     "zh": "接種活疫苗增強免疫"
+    },
+    {
+     "en": "Blood levels will be checked regularly",
+     "zh": "需定期檢測血中濃度"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Grapefruit raises levels; infection signs matter; live vaccines are contraindicated.",
+    "zh": "葡萄柚使濃度上升；需注意感染徵象；活疫苗禁用。"
+   },
+   "pdf_pages": [
+    899,
+    900
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking ciprofloxacin reports sudden pain in the back of the ankle. What is the priority action?",
+    "zh": "服用ciprofloxacin的病人突然腳踝後側疼痛，優先處置："
+   },
+   "options": [
+    {
+     "en": "Apply heat and continue",
+     "zh": "熱敷並繼續服藥"
+    },
+    {
+     "en": "Hold the drug and notify the provider (possible tendinitis)",
+     "zh": "停藥並通知醫師(可能為肌腱炎)"
+    },
+    {
+     "en": "Increase fluids only",
+     "zh": "僅增加飲水"
+    },
+    {
+     "en": "Take with antacids",
+     "zh": "配制酸劑服用"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Fluoroquinolones can cause Achilles tendinitis and rupture.",
+    "zh": "氟喹諾酮可造成阿基里斯腱炎與斷裂。"
+   },
+   "pdf_pages": [
+    897
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client is prescribed oxybutynin for urge incontinence. Which history would the nurse report?",
+    "zh": "病人因急迫性尿失禁開立oxybutynin，下列何病史需通報？"
+   },
+   "options": [
+    {
+     "en": "Hypertension",
+     "zh": "高血壓"
+    },
+    {
+     "en": "Glaucoma",
+     "zh": "青光眼"
+    },
+    {
+     "en": "Osteoarthritis",
+     "zh": "退化性關節炎"
+    },
+    {
+     "en": "Hypothyroidism",
+     "zh": "甲狀腺低下"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Anticholinergics can raise intraocular pressure and are contraindicated in glaucoma.",
+    "zh": "抗膽鹼藥可升高眼壓，青光眼禁用。"
+   },
+   "pdf_pages": [
+    898
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Antirejection immunosuppressants: Nursing pharmacology (Osmosis)",
+   "url": "https://www.osmosis.org/learn/Antirejection_immunosuppressants:_Nursing_Pharmacology",
+   "note": {
+    "en": "Video/notes on transplant immunosuppressant classes, adverse effects and nursing care.",
+    "zh": "移植免疫抑制劑類別、不良反應與護理的影片/筆記。"
+   }
+  },
+  {
+   "title": "Immunosuppressants (Nurseslabs)",
+   "url": "https://nurseslabs.com/immunosuppressants/",
+   "note": {
+    "en": "Nursing study guide on immunosuppressants.",
+    "zh": "免疫抑制劑護理學習指南。"
+   }
+  },
+  {
+   "title": "Immunosuppression pharmacology nursing: drug classes, monitoring, and patient education",
+   "url": "https://nursing-schools.pages.dev/nursing-tips/immunosuppression-nursing/",
+   "note": {
+    "en": "Summary of drug classes, monitoring and teaching (secondary source; verify with textbook).",
+    "zh": "藥物類別、監測與衛教摘要(次級資料，請對照教科書)。"
+   }
+  }
+ ]
+}

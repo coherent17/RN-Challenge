@@ -1,0 +1,137 @@
+{
+  "number": 29,
+  "title": {"en": "Maternity and Newborn Medications", "zh": "產科與新生兒藥物"},
+  "overview": {
+    "en": "This chapter covers medications used in pregnancy, labor, postpartum and the newborn: tocolytics, magnesium sulfate, antenatal corticosteroids, labor analgesics, prostaglandins, oxytocin, postpartum hemorrhage drugs, Rho(D) immune globulin, rubella vaccine, surfactant, newborn eye prophylaxis, vitamin K, hepatitis B vaccine, contraceptives and fertility drugs. The key items are safety checks (respirations, DTRs, urine output, blood pressure) and antidotes.",
+    "zh": "本章涵蓋孕期、生產、產後與新生兒用藥：安胎藥、硫酸鎂、產前類固醇、產程止痛藥、前列腺素、催產素、產後出血用藥、Rho(D)免疫球蛋白、德國麻疹疫苗、表面張力素、新生兒眼部預防、維生素K、B型肝炎疫苗、避孕藥與助孕藥。重點在給藥前安全評估（呼吸、深肌腱反射、尿量、血壓）與解毒劑。"
+  },
+  "sections": [
+    {"heading": {"en": "Tocolytics overview", "zh": "安胎藥總論"},
+     "points": [
+       {"en": "FDA's PLLR replaced pregnancy letter categories (A, B, C, D, X) with narrative risk-benefit information.", "zh": "FDA的PLLR取代了孕期字母分級（A、B、C、D、X），改以文字敘述風險與效益。"},
+       {"en": "Tocolytics relax the uterus to delay preterm birth. Maternal contraindications: severe preeclampsia/eclampsia, active bleeding, intrauterine infection, cardiac disease, abruption, uncontrolled diabetes.", "zh": "安胎藥使子宮放鬆以延遲早產。母體禁忌：重度子癇前症／子癇、活動性出血、子宮內感染、心臟病、胎盤早剝、血糖控制不良。"},
+       {"en": "Fetal contraindications: >37 weeks, dilation >4 cm, fetal demise, lethal anomaly, chorioamnionitis, acute distress, chronic IUGR.", "zh": "胎兒禁忌：大於37週、擴張大於4公分、胎死腹中、致死性異常、絨毛膜羊膜炎、急性窘迫、慢性生長遲滯。"},
+       {"en": "Care: side-lying, frequent maternal/fetal/labor monitoring, adverse effects, daily weight, I&O, psychosocial support.", "zh": "護理：側臥、頻繁監測母體／胎兒／產程、副作用、每日體重、輸出入量、心理支持。"},
+       {"en": "Indomethacin (NSAID): not >2-3 days, avoid >32 weeks (ductus arteriosus closure), oligohydramnios, NEC/IVH risk. Nifedipine (calcium channel blocker): tachycardia, hypotension, headache, flushing; avoid with magnesium sulfate.", "zh": "Indomethacin（NSAID）：不超過2至3天，32週後避免（動脈導管早閉）、羊水過少、增加NEC／腦室內出血風險。Nifedipine（鈣離子阻斷劑）：心搏過速、低血壓、頭痛、臉潮紅；避免與硫酸鎂併用。"}
+     ], "pdf_pages": [425, 426]},
+    {"heading": {"en": "Magnesium sulfate", "zh": "硫酸鎂"},
+     "points": [
+       {"en": "CNS depressant and smooth muscle relaxant; used to prevent/control seizures in preeclampsia/eclampsia and sometimes for preterm labor. Antidote: calcium gluconate.", "zh": "中樞神經抑制劑與平滑肌鬆弛劑；用於預防及控制子癇前症／子癇抽搐，有時用於早產。解毒劑：葡萄糖酸鈣。"},
+       {"en": "Toxicity: respiratory depression (RR <12), loss of DTRs, hypotension, flushing, extreme weakness, urine output <25-30 mL/hr (<100 mL/4 hr), pulmonary edema, heart block, cardiac arrest.", "zh": "中毒徵象：呼吸抑制（呼吸小於12次/分）、深肌腱反射消失、低血壓、臉潮紅、極度無力、尿量小於25至30 mL/小時（4小時小於100 mL）、肺水腫、心臟傳導阻滯、心跳停止。"},
+       {"en": "Therapeutic level as tocolytic 4-7.5 mEq/L (2-3.75 mmol/L); check levels every 6 hr; give by IV pump only; check patellar reflex and RR before each parenteral dose; keep calcium gluconate and suction/oxygen at bedside.", "zh": "作為安胎藥的治療濃度4至7.5 mEq/L（2至3.75 mmol/L）；每6小時檢測；僅用靜脈輸液幫浦給藥；每次注射前檢查膝反射與呼吸；床邊備葡萄糖酸鈣、抽吸與氧氣。"},
+       {"en": "Contraindicated in heart block, myocardial damage, kidney failure; newborn may show hypotonia and sleepiness; if used for preeclampsia it continues 12-24 hr postpartum.", "zh": "禁用於心臟傳導阻滯、心肌損傷、腎衰竭；新生兒可能肌張力低、嗜睡；用於子癇前症時產後持續12至24小時。"},
+       {"en": "DTR grading 0-4: 2 is expected; 0 none, 1 diminished, 3 brisk, 4 clonus.", "zh": "深肌腱反射分級0至4：2為預期正常；0無反應、1減弱、3較活躍、4陣攣。"}
+     ], "pdf_pages": [425, 426, 427]},
+    {"heading": {"en": "Antenatal corticosteroids and analgesics", "zh": "產前類固醇與止痛藥"},
+     "points": [
+       {"en": "Betamethasone/dexamethasone speed fetal lung maturity (surfactant) for preterm labor at 28-32 weeks if labor can be delayed 48 hr; deep IM; monitor infection, WBC, glucose (hyperglycemia in diabetics), pulmonary edema.", "zh": "Betamethasone／dexamethasone促進胎兒肺成熟（表面張力素）；用於28至32週早產且可延遲48小時者；深部肌肉注射；監測感染、白血球、血糖（糖尿病者血糖升高）、肺水腫。"},
+       {"en": "Opioid analgesics in labor: withhold and call provider if RR <=12; monitor FHR and contractions, hypotension (keep recumbent with hip wedge), bladder; keep naloxone ready (may precipitate withdrawal in dependent clients). Newborn withdrawal: irritability, tremors, seizures.", "zh": "產程鴉片類止痛藥：呼吸小於等於12次/分暫停給藥並通知醫師；監測胎心與宮縮、低血壓（採側臥並以楔形枕墊髖）、膀胱；備妥naloxone（對依賴者可誘發戒斷）。新生兒戒斷：易怒、顫抖、抽搐。"}
+     ], "pdf_pages": [427]},
+    {"heading": {"en": "Prostaglandins and oxytocin", "zh": "前列腺素與催產素"},
+     "points": [
+       {"en": "Prostaglandins ripen cervix when Bishop score <=4 (dinoprostone PGE2 gel/insert; misoprostol PGE1). Effects: GI upset, fever, tachysystole (>=12 contractions in 20 min), hyperstimulation, meconium. Client voids first, lies supine with lateral tilt or side-lying 30-60 min (gel) to 2 hr (insert). Stop when Bishop >=8 or 3+ contractions in 10 min; oxytocin can start 6-12 hr later.", "zh": "前列腺素用於Bishop評分小於等於4時軟化子宮頸（dinoprostone PGE2凝膠／栓劑；misoprostol PGE1）。副作用：腸胃不適、發燒、過度收縮（20分鐘內大於等於12次）、過度刺激、胎便。先排尿，採仰臥並側傾或側臥：凝膠30至60分鐘、栓劑至2小時。Bishop達8以上或10分鐘內達3次以上宮縮即停；催產素可於6至12小時後開始。"},
+       {"en": "Prostaglandin contraindications include prior cesarean or uterine surgery, fetal malpresentation, nonreassuring FHR, previa, significant CPD, regular contractions.", "zh": "前列腺素禁忌：曾剖腹產或子宮手術、胎位不正、胎心不安心、前置胎盤、明顯頭骨盆不對稱、已有規律宮縮。"},
+       {"en": "Oxytocin: increases force, frequency, duration of contractions; milk let-down; induces or augments labor, controls postpartum bleeding. Give IV by pump, piggyback at port nearest the insertion, never leave client unattended. Monitor vitals, contractions, FHR every 15 min. Risks: hypertonic contractions, uterine rupture, water intoxication, postpartum atony. Contraindicated with inability to deliver vaginally, hypertonic contractions, active genital herpes.", "zh": "催產素：增強宮縮強度、頻率與持續時間；促進泌乳排出；引產或加強宮縮、控制產後出血。以靜脈幫浦給藥，接在最靠近穿刺處的接口，不可離開產婦。每15分鐘監測生命徵象、宮縮與胎心。風險：高張性宮縮、子宮破裂、水中毒、產後子宮收縮不良。禁忌：無法經陰道生產、高張性宮縮、活動性生殖器疱疹。"},
+       {"en": "If hyperstimulation or nonreassuring FHR: stop oxytocin, side-lying, increase plain IV fluid, oxygen by face mask; have magnesium sulfate available to relax uterus.", "zh": "若過度刺激或胎心不安心：停催產素、側臥、增加無藥輸液速度、面罩給氧；備妥硫酸鎂以放鬆子宮。"},
+       {"en": "Dose example: oxytocin 2 mU/min from 20 U in 1000 mL = 0.1 mL/min = 6 mL/hr (convert mU to U first).", "zh": "劑量範例：催產素2 mU/分，配置為20 U加於1000 mL，等於0.1 mL/分＝6 mL/小時（先將mU換算為U）。"}
+     ], "pdf_pages": [427, 428, 429]},
+    {"heading": {"en": "Postpartum hemorrhage drugs", "zh": "產後出血用藥"},
+     "points": [
+       {"en": "Methylergonovine (ergot alkaloid): firm tetanic uterine contraction, vasoconstriction. Give only after placenta delivered. Check BP first; withhold and notify if BP raised. Contraindicated in hypertension, preeclampsia, cardiovascular and peripheral vascular disease. Adverse: nausea, cramping, bradycardia, severe hypertension, MI.", "zh": "Methylergonovine（麥角生物鹼）：使子宮強直收縮、血管收縮。僅於胎盤娩出後使用。給藥前先量血壓；血壓高則暫停並通知醫師。禁用於高血壓、子癇前症、心血管與周邊血管疾病。副作用：噁心、絞痛、心搏過緩、嚴重高血壓、心肌梗塞。"},
+       {"en": "Carboprost (PGF2 alpha): contracts uterus; adverse headache, nausea, vomiting, diarrhea, fever, tachycardia, hypertension; contraindicated in asthma.", "zh": "Carboprost（PGF2α）：使子宮收縮；副作用頭痛、噁心嘔吐、腹瀉、發燒、心搏過速、高血壓；氣喘者禁用。"},
+       {"en": "Oxytocin is the first-line uterotonic.", "zh": "催產素為首選子宮收縮劑。"}
+     ], "pdf_pages": [429, 430]},
+    {"heading": {"en": "Rho(D) immune globulin and rubella vaccine", "zh": "Rho(D)免疫球蛋白與德國麻疹疫苗"},
+     "points": [
+       {"en": "Rho(D) IG: Rh-negative, antibody-negative client; IM at 28 weeks and within 72 hr after delivery of an Rh-positive baby; also after amniocentesis, CVS, abortion, trauma, bleeding. Never IV, not for the newborn, no benefit if already sensitized (positive titer).", "zh": "Rho(D)免疫球蛋白：用於Rh陰性且抗體陰性者；28週肌肉注射，分娩Rh陽性嬰兒後72小時內再注射；羊膜穿刺、絨毛取樣、流產、外傷、出血後亦需給予。不可靜脈注射、不給新生兒、已致敏（抗體滴度陽性）者無效。"},
+       {"en": "Rubella vaccine: subcutaneous before discharge if titer <1:8; check egg allergy and immunocompromised household members; avoid pregnancy 1-3 months.", "zh": "德國麻疹疫苗：滴度小於1:8者出院前皮下注射；評估蛋過敏與家人免疫功能低下；1至3個月內避免懷孕。"}
+     ], "pdf_pages": [430]},
+    {"heading": {"en": "Newborn medications", "zh": "新生兒藥物"},
+     "points": [
+       {"en": "Surfactant: intratracheal for RDS; watch bradycardia and desaturation; no suctioning for 2 hours after.", "zh": "表面張力素：氣管內給藥治療RDS；注意心搏過緩與血氧下降；給藥後2小時內避免抽吸。"},
+       {"en": "Erythromycin eye ointment: legally required; prevents gonorrhea and chlamydia ophthalmia; clean eyes first, do not flush; may delay up to 1 hr for bonding.", "zh": "紅黴素眼藥膏：法律規定；預防淋病與披衣菌所致眼炎；先清潔眼睛、給藥後不沖洗；為親子依附可延後最多1小時。"},
+       {"en": "Phytonadione (vitamin K): protect from light; IM into the vastus lateralis; newborns deficient for first 5-8 days; rare hyperbilirubinemia; monitor bruising and cord bleeding.", "zh": "維生素K（phytonadione）：避光；肌肉注射於股外側肌；新生兒前5至8天缺乏；少見高膽紅素血症；監測瘀青與臍帶出血。"},
+       {"en": "Hepatitis B vaccine IM in vastus lateralis before discharge with parental consent; if mother HBsAg-positive, add hepatitis B immune globulin within 12 hr of birth.", "zh": "B型肝炎疫苗於出院前取得同意後肌肉注射股外側肌；母親HBsAg陽性者，出生12小時內加打B型肝炎免疫球蛋白。"}
+     ], "pdf_pages": [430, 431]},
+    {"heading": {"en": "Contraceptives and fertility medications", "zh": "避孕藥與助孕藥"},
+     "points": [
+       {"en": "Combined estrogen-progestin suppress ovulation and thicken cervical mucus; usually 21 days on, 7 off; full effect up to 1 week.", "zh": "雌激素合併黃體素複方抑制排卵並使子宮頸黏液變稠；通常服21天、停7天；可能需1週才完全有效。"},
+       {"en": "Risk: smoking, obesity, hypertension. Contraindicated: hypertension, thromboembolism, CVA/CAD, estrogen-dependent cancer, pregnancy. Antibiotics may reduce effectiveness; report thromboembolic signs; diabetics monitor glucose.", "zh": "風險：吸菸、肥胖、高血壓。禁忌：高血壓、血栓栓塞、腦中風／冠心病、雌激素依賴性癌症、懷孕。抗生素可能降低效果；回報血栓徵象；糖尿病者監測血糖。"},
+       {"en": "Patch: 3 weeks on, 1 week off, new site weekly; off <24 hr reapply/replace, >24 hr start new cycle. Ring: 3 weeks in, 1 out; discard in foil, not toilet. Use backup 2 months after stopping before conceiving.", "zh": "貼片：貼3週、停1週，每週換新位置；脫落小於24小時可重貼或換新，超過24小時需開始新週期。陰道環：置入3週、取出1週；以鋁箔包好丟棄，不可丟馬桶。停藥後為排出荷爾蒙，需再避孕2個月才受孕。"},
+       {"en": "Fertility drugs (clomiphene, menotropins, FSH analogs, hCG): risks multiple births, ovarian hyperstimulation (abdominal pain, distention, ascites, pleural effusion); teach timing of intercourse and follow-up.", "zh": "助孕藥（clomiphene、menotropins、FSH類似物、hCG）：風險為多胞胎、卵巢過度刺激（腹痛、腹脹、腹水、肋膜積水）；衛教行房時機與追蹤。"}
+     ], "pdf_pages": [431, 432]}
+  ],
+  "critical_points": [
+    {"en": "Magnesium sulfate toxicity: RR <12, absent DTRs, urine output <25-30 mL/hr; stop infusion, give calcium gluconate, notify provider.", "zh": "硫酸鎂中毒：呼吸小於12、DTR消失、尿量小於25至30 mL/小時；停藥、給葡萄糖酸鈣、通知醫師。", "pdf_pages": [426, 427, 434]},
+    {"en": "Therapeutic magnesium 4-7.5 mEq/L; give with IV pump; keep calcium gluconate at bedside.", "zh": "鎂的治療濃度4至7.5 mEq/L；以靜脈幫浦給藥；床邊備葡萄糖酸鈣。", "pdf_pages": [426]},
+    {"en": "Oxytocin: stop for hyperstimulation, late decelerations or nonreassuring FHR; turn side-lying, increase plain IV fluid, oxygen.", "zh": "催產素：過度刺激、晚期減速或胎心不安心時停藥；側臥、增加無藥輸液、給氧。", "pdf_pages": [429, 434]},
+    {"en": "Oxytocin calculation: 2 mU/min from 20 U/1000 mL = 6 mL/hr.", "zh": "催產素計算：2 mU/分，20 U/1000 mL＝6 mL/小時。", "pdf_pages": [429]},
+    {"en": "Methylergonovine: check BP first; contraindicated in hypertension, preeclampsia, vascular disease; given only after placenta delivery.", "zh": "Methylergonovine：先量血壓；高血壓、子癇前症、血管疾病禁用；胎盤娩出後才給。", "pdf_pages": [429, 430, 435]},
+    {"en": "Carboprost is contraindicated in asthma.", "zh": "Carboprost氣喘者禁用。", "pdf_pages": [430]},
+    {"en": "Betamethasone at 28-32 weeks accelerates fetal lung maturity if labor can be delayed 48 hours.", "zh": "28至32週給betamethasone，若可延遲48小時則加速胎兒肺成熟。", "pdf_pages": [427, 434]},
+    {"en": "Naloxone reverses opioid respiratory depression; withhold opioid if RR <=12.", "zh": "Naloxone可逆轉鴉片類呼吸抑制；呼吸小於等於12次/分暫停鴉片類。", "pdf_pages": [427, 435]},
+    {"en": "Rho(D) IG: IM only, 28 weeks and within 72 hr of birth; not for Rh-positive mothers or the newborn; no help once sensitized.", "zh": "Rho(D)免疫球蛋白：僅肌肉注射，28週與產後72小時內；Rh陽性母親與新生兒不用；已致敏無效。", "pdf_pages": [430, 435]},
+    {"en": "Rubella vaccine: give if titer <1:8; avoid pregnancy 1-3 months.", "zh": "德國麻疹疫苗：滴度小於1:8給予；1至3個月避免懷孕。", "pdf_pages": [430]},
+    {"en": "Surfactant is given intratracheal; no suctioning for 2 hours.", "zh": "表面張力素經氣管內給予；2小時內不抽吸。", "pdf_pages": [430, 434]},
+    {"en": "Newborn eye ointment: don't flush; within 1 hour; prevents gonorrhea/chlamydia ophthalmia.", "zh": "新生兒眼藥膏：不沖洗；1小時內；預防淋病與披衣菌眼炎。", "pdf_pages": [431, 434]},
+    {"en": "Vitamin K IM in vastus lateralis; hepatitis B vaccine plus HBIG within 12 hr if mother HBsAg-positive.", "zh": "維生素K肌肉注射於股外側肌；母親HBsAg陽性者12小時內加打HBIG與B肝疫苗。", "pdf_pages": [431]},
+    {"en": "Indomethacin tocolysis: no more than 2-3 days and not after 32 weeks (ductus closure).", "zh": "Indomethacin安胎：不超過2至3天，32週後不用（動脈導管閉合）。", "pdf_pages": [426]},
+    {"en": "Nifedipine plus magnesium sulfate can cause severe hypotension; avoid combination.", "zh": "Nifedipine合併硫酸鎂可造成嚴重低血壓；避免併用。", "pdf_pages": [426]},
+    {"en": "Antibiotics may reduce oral contraceptive effectiveness: use backup method.", "zh": "抗生素可能降低口服避孕藥效果：需使用備用避孕方式。", "pdf_pages": [431, 432]}
+  ],
+  "mnemonics": [
+    {"en": "Magnesium toxicity: check the 3 Rs-- Respirations (>=12), Reflexes (present), Renal output (>=25-30 mL/hr).", "zh": "鎂中毒檢查三R：呼吸（至少12）、反射（存在）、腎臟尿量（至少25至30 mL/小時）。", "pdf_pages": [426, 427]},
+    {"en": "Oxytocin trouble: stop, side, fluids, oxygen (stop drip, turn to side, increase plain IV, O2 8-10 L/min).", "zh": "催產素出問題：停藥、側臥、輸液、給氧（停滴、側臥、增加無藥輸液、氧氣8至10 L/分）。", "pdf_pages": [429]},
+    {"en": "Antidotes: magnesium - calcium gluconate; opioids - naloxone.", "zh": "解毒劑：鎂－葡萄糖酸鈣；鴉片類－naloxone。", "pdf_pages": [425, 427]}
+  ],
+  "figures": [
+    {"pdf_page": 426, "caption": {"en": "Table 29.1: tocolytics (indomethacin, magnesium sulfate, nifedipine), adverse effects and nursing care.", "zh": "表29.1：安胎藥（indomethacin、硫酸鎂、nifedipine）副作用與護理。"}},
+    {"pdf_page": 427, "caption": {"en": "Table 29.2: deep tendon reflex grading scale 0-4.", "zh": "表29.2：深肌腱反射分級0至4。"}},
+    {"pdf_page": 428, "caption": {"en": "Box 29.1-29.2: prostaglandins and their contraindications.", "zh": "框29.1至29.2：前列腺素與禁忌。"}},
+    {"pdf_page": 429, "caption": {"en": "Box 29.3: oxytocin dose calculation; Take Action for absent variability on oxytocin.", "zh": "框29.3：催產素劑量計算；催產素下胎心變異性消失的處置流程。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "A client receiving IV magnesium sulfate for preeclampsia is assessed. Which findings indicate toxicity? Select all that apply.", "zh": "子癇前症產婦接受靜脈硫酸鎂。下列哪些發現顯示中毒？（複選）"},
+     "options": [{"en": "Respirations 10/min", "zh": "呼吸10次/分"}, {"en": "Urine output 20 mL in 1 hour", "zh": "1小時尿量20 mL"}, {"en": "Present patellar reflexes", "zh": "膝反射存在"}, {"en": "Proteinuria 3+", "zh": "蛋白尿3+"}, {"en": "Serum magnesium 5 mEq/L", "zh": "血清鎂5 mEq/L"}],
+     "answer": [0, 1], "rationale": {"en": "RR <12 and urine <25-30 mL/hr signal toxicity; reflexes present, proteinuria and level 4-7.5 are expected.", "zh": "呼吸小於12與尿量小於25至30 mL/小時代表中毒；反射存在、蛋白尿及濃度4至7.5屬預期。"},
+     "pdf_pages": [426, 427, 434], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which medication should the nurse keep at the bedside for a client receiving magnesium sulfate?", "zh": "護理師應在接受硫酸鎂的產婦床邊備妥哪種藥物？"},
+     "options": [{"en": "Naloxone", "zh": "Naloxone"}, {"en": "Calcium gluconate", "zh": "葡萄糖酸鈣"}, {"en": "Protamine sulfate", "zh": "硫酸魚精蛋白"}, {"en": "Vitamin K", "zh": "維生素K"}],
+     "answer": [1], "rationale": {"en": "Calcium gluconate antagonizes magnesium.", "zh": "葡萄糖酸鈣可拮抗鎂。"},
+     "pdf_pages": [425, 426], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "During an oxytocin infusion the nurse notes recurrent late decelerations. Which actions are appropriate? Select all that apply.", "zh": "催產素輸注期間出現反覆晚期減速。哪些處置適當？（複選）"},
+     "options": [{"en": "Stop the oxytocin", "zh": "停止催產素"}, {"en": "Turn the client on her side", "zh": "協助側臥"}, {"en": "Increase the rate of plain IV fluid", "zh": "增加無藥輸液速度"}, {"en": "Administer oxygen by face mask", "zh": "面罩給氧"}, {"en": "Increase the oxytocin rate", "zh": "增加催產素速度"}],
+     "answer": [0, 1, 2, 3], "rationale": {"en": "Remove the cause and improve uteroplacental perfusion; never increase oxytocin.", "zh": "移除原因並改善子宮胎盤灌流；絕不可增加催產素。"},
+     "pdf_pages": [429, 434], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "What is the priority assessment before administering methylergonovine?", "zh": "給予methylergonovine前，首要評估為何？"},
+     "options": [{"en": "Uterine tone", "zh": "子宮收縮度"}, {"en": "Blood pressure", "zh": "血壓"}, {"en": "Lochia amount", "zh": "惡露量"}, {"en": "Deep tendon reflexes", "zh": "深肌腱反射"}],
+     "answer": [1], "rationale": {"en": "The drug vasoconstricts and can cause severe hypertension.", "zh": "此藥會血管收縮，可造成嚴重高血壓。"},
+     "pdf_pages": [429, 435], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client at 31 weeks in preterm labor has contractions stopped with magnesium sulfate. Which medication is anticipated if labor can be inhibited 48 hours?", "zh": "31週早產產婦以硫酸鎂停止宮縮。若可延遲48小時，預期給予哪種藥物？"},
+     "options": [{"en": "Nalbuphine", "zh": "Nalbuphine"}, {"en": "Betamethasone", "zh": "Betamethasone"}, {"en": "Rho(D) immune globulin", "zh": "Rho(D)免疫球蛋白"}, {"en": "Dinoprostone insert", "zh": "Dinoprostone栓劑"}],
+     "answer": [1], "rationale": {"en": "Betamethasone promotes fetal surfactant production.", "zh": "Betamethasone促進胎兒表面張力素生成。"},
+     "pdf_pages": [427, 434], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which statement shows a student needs more teaching about newborn eye prophylaxis?", "zh": "哪項學生說法顯示對新生兒眼部預防仍需加強教導？"},
+     "options": [{"en": "I will flush the eyes after instilling the ointment.", "zh": "塗藥後我會沖洗眼睛。"}, {"en": "I will clean the eyes first.", "zh": "我會先清潔眼睛。"}, {"en": "I will give it within 1 hour of birth.", "zh": "我會在出生1小時內給予。"}, {"en": "I will instill it into each conjunctival sac.", "zh": "我會塗在每側結膜囊內。"}],
+     "answer": [0], "rationale": {"en": "Flushing washes away the medication.", "zh": "沖洗會把藥物沖掉。"},
+     "pdf_pages": [431, 434], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client received Rho(D) immune globulin after delivery. Which statement shows understanding of its purpose?", "zh": "產婦產後接受Rho(D)免疫球蛋白。哪句話顯示了解其目的？"},
+     "options": [{"en": "It prevents my next baby from having Rh-positive blood.", "zh": "它能避免下個寶寶是Rh陽性。"}, {"en": "It prevents rubella infection.", "zh": "它能預防德國麻疹。"}, {"en": "It prevents my next baby from being affected by Rh incompatibility.", "zh": "它能避免下個寶寶受Rh不合影響。"}, {"en": "It prevents physiologic jaundice.", "zh": "它能預防生理性黃疸。"}],
+     "answer": [2], "rationale": {"en": "It prevents maternal antibody formation against Rh-positive cells.", "zh": "可預防母體產生對Rh陽性紅血球的抗體。"},
+     "pdf_pages": [430, 435], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "The prescription is oxytocin 2 mU/min using 20 units in 1000 mL D5W. At what rate in mL/hr will the pump be set?", "zh": "醫囑催產素2 mU/分，使用20單位加於1000 mL D5W。幫浦應設定多少mL/小時？"},
+     "options": [{"en": "3", "zh": "3"}, {"en": "6", "zh": "6"}, {"en": "12", "zh": "12"}, {"en": "60", "zh": "60"}],
+     "answer": [1], "rationale": {"en": "20 U/1000 mL = 20 mU/mL; 2 mU/min / 20 mU/mL = 0.1 mL/min = 6 mL/hr.", "zh": "20 U/1000 mL＝20 mU/mL；2 mU/分÷20 mU/mL＝0.1 mL/分＝6 mL/小時。"},
+     "pdf_pages": [429], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which are adverse effects of magnesium sulfate? Select all that apply.", "zh": "硫酸鎂的副作用有哪些？（複選）"},
+     "options": [{"en": "Flushing", "zh": "臉潮紅"}, {"en": "Hypertension", "zh": "高血壓"}, {"en": "Depressed respirations", "zh": "呼吸抑制"}, {"en": "Extreme muscle weakness", "zh": "極度肌肉無力"}, {"en": "Hyperactive reflexes", "zh": "反射亢進"}],
+     "answer": [0, 2, 3], "rationale": {"en": "As a CNS depressant it causes hypotension, depressed respiration and reflexes, and weakness.", "zh": "作為中樞抑制劑會造成低血壓、呼吸與反射抑制及無力。"},
+     "pdf_pages": [425, 435], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "Magnesium sulfate toxicity first signs and calcium gluconate rescue with NGN bow tie drills (GoodNurse)", "url": "https://goodnurse.com/article/238/magnesium-sulfate-toxicity-first-signs-rapid-response-and-calcium-gluconate-rescue-with-ngn-bow-tie-drills", "note": {"en": "Next Gen NCLEX style drills on magnesium toxicity.", "zh": "硫酸鎂中毒的次世代NCLEX式練習。"}},
+    {"title": "Preeclampsia case study, Maryland Next Gen NCLEX Test Bank Project", "url": "https://www.nursing.umaryland.edu/media/son/mnwc/nclex-faculty-case-studies/Preeclampsia.docx", "note": {"en": "Case study with magnesium toxicity questions.", "zh": "含硫酸鎂中毒問題的個案研究。"}},
+    {"title": "Pharm Ch.39 Drugs Used In Obstetrics Flashcards (Brainscape)", "url": "https://brainscape.com/flashcards/pharm-ch39-drugs-used-in-obstetrics-12253967/packs/21068092", "note": {"en": "Flashcards on obstetric drugs.", "zh": "產科藥物字卡。"}},
+    {"title": "9 Meds for Postpartum Hemorrhage (PPH) NCLEX Style Questions", "url": "https://academy.nursing.com/?p=16480", "note": {"en": "Quiz on PPH medications.", "zh": "產後出血藥物測驗。"}}
+  ]
+}

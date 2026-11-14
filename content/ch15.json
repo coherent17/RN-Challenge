@@ -1,0 +1,235 @@
+{
+  "number": 15,
+  "title": {"en": "Perioperative Nursing Care", "zh": "手術期護理"},
+  "overview": {
+    "en": "This chapter follows the surgical client from consent and preoperative preparation, through arrival in the operating room, to postoperative monitoring by body system, common postoperative complications, and discharge teaching after ambulatory surgery. Focus on airway and breathing first, hemorrhage and shock recognition, wound complications and consent rules.",
+    "zh": "本章依序介紹手術個案從同意書與術前準備、進入手術室、術後依系統監測、常見術後併發症，到門診手術出院衛教。重點為優先處理呼吸道與呼吸、辨識出血與休克、傷口併發症及同意書規定。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Preoperative Consent, Nutrition, Elimination and Skin", "zh": "術前同意書、飲食、排泄與皮膚準備"},
+      "points": [
+        {"en": "The surgeon explains the procedure; the nurse may witness the signature after confirming the client understands. If the client is confused about the surgery, notify the surgeon before proceeding.", "zh": "由外科醫師說明手術；護理師確認個案理解後可見證簽名。若個案仍不了解，須通知外科醫師釐清後再繼續。"},
+        {"en": "Minors, or clients not alert/oriented, need a parent, guardian or health care power of attorney; no sedation before signing. Telephone consent is acceptable with a second nurse as witness.", "zh": "未成年人或意識不清者需由父母、監護人或醫療委任代理人簽署；簽署前不可給鎮靜劑。電話同意可行，須有第二位護理師見證。"},
+        {"en": "NPO about 6-8 hours before general anesthesia (about 3 hours for local, as prescribed) to prevent aspiration; start IV with a catheter large enough for blood products.", "zh": "全身麻醉前約禁食6-8小時（局部麻醉約3小時，依醫囑）以防吸入；建立足夠大口徑的靜脈管路以便輸血。"},
+        {"en": "Client voids just before surgery; bowel prep and urinary catheter as prescribed; document urine output from catheter bags.", "zh": "術前立即排尿；依醫囑做腸道準備及放置導尿管；記錄導尿袋尿量。"},
+        {"en": "Skin cleansing with antiseptic soap the night before; hair removal only as prescribed (head/face/eyebrows only if ordered).", "zh": "手術前晚以抗菌皂清潔；除毛依醫囑（頭、臉、眉毛須有醫囑才剃）。"}
+      ],
+      "pdf_pages": [218, 219]
+    },
+    {
+      "heading": {"en": "Preoperative Teaching", "zh": "術前衛教"},
+      "points": [
+        {"en": "Ask about allergies (including latex), vitamins, herbals and OTC drugs; explain what to expect and any tubes, drains, catheters.", "zh": "詢問過敏（含乳膠）、維他命、草藥與成藥；說明術後預期情形及各種管路、引流。"},
+        {"en": "Pain: expect some; use pain scales; PCA is pushed only by the client; teach relaxation, distraction, guided imagery.", "zh": "疼痛：預期會有一些疼痛；使用疼痛量表；PCA 僅限個案本人按壓；教導放鬆、分散注意力、引導想像。"},
+        {"en": "No smoking for at least 24 hours before surgery.", "zh": "術前至少24小時不吸菸。"},
+        {"en": "Deep breathing/coughing sitting upright: 3 deep breaths, hold the third 3 seconds, then cough 3 times, every 1-2 hours.", "zh": "深呼吸與咳嗽採坐姿：深呼吸3次，第3次屏息3秒後咳嗽3次，每1-2小時一次。"},
+        {"en": "Incentive spirometer: sit upright, inhale slowly, hold 5 seconds, 10 times per hour.", "zh": "誘發性肺量計：坐直、緩慢吸氣、屏息5秒，每小時10次。"},
+        {"en": "Leg exercises (calf pumping, quadriceps setting, foot circles), sequential compression devices, splinting the incision with pillow, turning schedule.", "zh": "腿部運動（踝泵、股四頭肌收縮、足部畫圈）、間歇性氣動加壓裝置、以枕頭護住傷口、翻身計畫。"}
+      ],
+      "pdf_pages": [219, 220]
+    },
+    {
+      "heading": {"en": "Preoperative Checklist and Medications", "zh": "術前核對表與術前藥物"},
+      "points": [
+        {"en": "Verify ID band, allergies, signed consents (surgery, transfusion, limb disposal, sterilization), H&P, labs, ECG/chest x-ray, type and crossmatch.", "zh": "核對手圈、過敏、各項同意書（手術、輸血、肢體處置、結紮）、病歷與理學檢查、檢驗、心電圖／胸部X光、血型與交叉配對。"},
+        {"en": "Remove jewelry, dentures, glasses, prostheses, makeup, hairpins; secure valuables; document last intake, voiding, vital signs and preop meds.", "zh": "取下飾品、假牙、眼鏡、義肢、化妝品、髮夾；貴重物品妥善保管；記錄最後飲食時間、排尿、生命徵象與術前給藥。"},
+        {"en": "Risk factors: older age, obesity, bleeding disorders, diabetes, heart/lung disease, OSA, infection, liver disease, immunosuppression, smoking, substance abuse.", "zh": "風險因子：高齡、肥胖、出血疾患、糖尿病、心肺疾病、睡眠呼吸中止、感染、肝病、免疫抑制、吸菸、藥物濫用。"},
+        {"en": "Aspirin, NSAIDs stop at least 48 hours before; clopidogrel about 5 days. Corticosteroids cause adrenal suppression; insulin needs vary; herbals can interact with anesthesia.", "zh": "阿斯匹靈、NSAIDs 至少術前48小時停用；氯吡格雷約5天。類固醇導致腎上腺抑制；胰島素需求會變動；草藥可能與麻醉交互作用。"},
+        {"en": "After preoperative sedatives keep the client in bed with rails up, bed low, call bell in reach.", "zh": "給予術前鎮靜藥後，個案臥床、床欄拉起、床降低、呼叫鈴置於手邊。"}
+      ],
+      "pdf_pages": [220, 221, 222]
+    },
+    {
+      "heading": {"en": "Operating Room Arrival and Wrong-Site Prevention", "zh": "進入手術室與防止錯誤部位手術"},
+      "points": [
+        {"en": "Surgeon marks the site while the client is awake; the team reconfirms the mark in the OR.", "zh": "外科醫師於個案清醒時標記手術部位；手術室內團隊再次確認標記。"},
+        {"en": "A time-out with the whole team just before incision verifies client, procedure and site.", "zh": "切開前全體手術團隊執行暫停核對（time-out），確認個案、術式與部位。"},
+        {"en": "OR nurse verifies ID band with client's verbal response and reviews chart, consents and allergies.", "zh": "手術室護理師以手圈加上個案口頭回答核對身分，並檢視病歷、同意書與過敏史。"}
+      ],
+      "pdf_pages": [222]
+    },
+    {
+      "heading": {"en": "Postoperative Assessment by System", "zh": "術後各系統評估"},
+      "points": [
+        {"en": "Respiratory: airway first; stridor or crowing suggests obstruction/laryngospasm; crackles suggest atelectasis or edema; RR should be above 10 and below 30; SpO2 under 95% (or baseline) needs prompt notification.", "zh": "呼吸：先確保呼吸道；喘鳴或雞鳴聲提示阻塞／喉痙攣；囉音提示肺塌陷或水腫；呼吸速率應大於10、小於30；血氧低於95%（或基準值）須立即通報。"},
+        {"en": "Cardiovascular: perfusion, bleeding, pulses, dysrhythmias, VTE prophylaxis with stockings, SCDs, early mobility.", "zh": "心血管：評估灌流、出血、脈搏、心律不整，以彈性襪、間歇性加壓裝置、早期活動預防靜脈血栓。"},
+        {"en": "Position low-Fowler's for lung expansion; side-lying if semiconscious; turn every 1-2 hours; sit at bed edge before standing.", "zh": "採低半坐臥利於肺擴張；半昏迷者側臥；每1-2小時翻身；下床前先坐床緣。"},
+        {"en": "Neuro: orient client, check motor/sensation; older adults take longer to reorient. Prevent hypothermia with warm blankets.", "zh": "神經：協助定向、檢查運動與感覺；老年人定向恢復較慢。以保暖毯預防體溫過低。"},
+        {"en": "Wound: mark drainage on dressings, check drains, REEDA signs, abdominal binder for obese/debilitated.", "zh": "傷口：於敷料標記滲液、檢查引流、REEDA 評估，肥胖或虛弱者可用腹帶。"},
+        {"en": "GI: NPO until gag reflex and peristalsis return, then ice chips and clear liquids; oral care every 2 hours; after gastric surgery do not irrigate or move NG tube unless ordered.", "zh": "腸胃：禁食至嘔吐反射與腸蠕動恢復，再給冰塊與清流質；每2小時口腔護理；胃手術後除非醫囑，不可沖洗或移動鼻胃管。"},
+        {"en": "Renal: urine at least 30 mL/hr; void within 6-8 hours (at least 200 mL).", "zh": "腎臟：尿量至少30 mL/hr；術後6-8小時內排尿（至少200 mL）。"},
+        {"en": "Pain: assess before giving analgesics, check respirations, BP, LOC; after opioid reassess RR and relief every 30 minutes; use nonpharmacologic measures too.", "zh": "疼痛：給止痛藥前先評估；檢查呼吸、血壓與意識；給予鴉片類後每30分鐘評估呼吸速率與止痛效果；併用非藥物方法。"}
+      ],
+      "pdf_pages": [222, 223, 224]
+    },
+    {
+      "heading": {"en": "Respiratory and Circulatory Complications", "zh": "呼吸與循環併發症"},
+      "points": [
+        {"en": "Atelectasis typically 1-2 days postop; pneumonia 3-5 days. Signs: dyspnea, crackles, fever, productive cough. Treat with turning, deep breathing, incentive spirometry, fluids, ambulation.", "zh": "肺塌陷多在術後1-2天；肺炎3-5天。徵象：呼吸困難、囉音、發燒、有痰咳嗽。處置：翻身、深呼吸、誘發性肺量計、補水、下床活動。"},
+        {"en": "Hypoxemia: restlessness (early), dyspnea, tachycardia, cyanosis, low SpO2; give oxygen and notify surgeon.", "zh": "低血氧：躁動（早期）、呼吸困難、心搏過速、發紺、血氧低；給氧並通知外科醫師。"},
+        {"en": "Pulmonary embolism: sudden dyspnea, sharp chest pain, tachycardia, hypotension, cyanosis; notify surgeon immediately.", "zh": "肺栓塞：突發呼吸困難、尖銳胸痛、心搏過速、低血壓、發紺；立即通知外科醫師。"},
+        {"en": "Hemorrhage/shock: restlessness, rapid weak pulse, hypotension, tachypnea, cool clammy skin, low urine output; apply pressure, oxygen, IV fluids/blood, elevate legs (spinal anesthesia: only on a pillow).", "zh": "出血／休克：躁動、脈快而弱、低血壓、呼吸快、皮膚濕冷、尿少；加壓止血、給氧、輸液／血品、抬高下肢（脊髓麻醉者僅墊枕頭高度）。"},
+        {"en": "Thrombophlebitis: hard, cordlike, tender vein, aching leg, warmth, low fever; elevate leg 30 degrees without popliteal pressure, stockings, SCD, anticoagulants; do not let the client dangle legs.", "zh": "血栓性靜脈炎：靜脈硬如條索、壓痛、腿部痠痛、發熱、輕微發燒；抬腿30度且膕窩不受壓、彈性襪、間歇性加壓、抗凝血劑；不可讓個案垂腿。"}
+      ],
+      "pdf_pages": [224, 225, 226]
+    },
+    {
+      "heading": {"en": "GI, Urinary and Wound Complications", "zh": "腸胃、泌尿與傷口併發症"},
+      "points": [
+        {"en": "Urinary retention appears 6-8 hours postop: unable to void, lower abdominal pain, distended bladder; use ambulation, privacy, running water or warm water over perineum before catheterizing as prescribed.", "zh": "尿滯留於術後6-8小時出現：無法排尿、下腹痛、膀胱脹；導尿前先嘗試下床、隱私、流水聲或溫水沖會陰。"},
+        {"en": "Constipation: no stool within 48 hours of solid diet; fluids up to 3000 mL/day, fiber, ambulation, stool softeners.", "zh": "便祕：恢復固體飲食後48小時未排便；每日補水至3000 mL、纖維、活動、軟便劑。"},
+        {"en": "Paralytic ileus: vomiting, distention, absent bowel sounds or flatus; NPO, NG decompression with suction, IV fluids.", "zh": "麻痺性腸阻塞：嘔吐、腹脹、無腸音或排氣；禁食、鼻胃管減壓抽吸、靜脈輸液。"},
+        {"en": "Wound infection 3-6 days postop: fever, chills, warm tender incision, drainage, high WBC; REEDA; cultures and antibiotics.", "zh": "傷口感染於術後3-6天：發燒、寒顫、傷口熱痛、滲液、白血球升高；REEDA 評估；培養與抗生素。"},
+        {"en": "Dehiscence and evisceration occur 5-10 days postop, most often in obese, abdominal-surgery, poor-healing clients. Evisceration is an emergency.", "zh": "傷口裂開與內臟脫出多發生於術後5-10天，常見於肥胖、腹部手術、癒合不良者。內臟脫出為緊急狀況。"},
+        {"en": "Evisceration care: stay with client, call for help, low-Fowler's with knees bent, cover with sterile saline-moistened dressing, monitor for shock, prepare for surgery.", "zh": "內臟脫出處置：陪伴個案、呼叫協助、低半坐臥並屈膝、以無菌生理食鹽水濕敷料覆蓋、監測休克、準備手術。"},
+        {"en": "Sterile dressing change: verify order, check allergies, assess pain, clean from least to most contaminated with single strokes, date/time/initial dressing.", "zh": "無菌換藥：確認醫囑、確認過敏、評估疼痛，由最乾淨至最髒以單向擦拭，敷料標註日期時間簽名。"}
+      ],
+      "pdf_pages": [226, 227, 228]
+    },
+    {
+      "heading": {"en": "Ambulatory Surgery Discharge", "zh": "門診手術出院"},
+      "points": [
+        {"en": "Criteria: alert and oriented, baseline vital signs, voided, no respiratory distress, able to ambulate/swallow/cough, minimal pain, no vomiting, minimal bleeding, responsible adult driver, surgeon release.", "zh": "出院條件：意識清楚、生命徵象回到基準、已排尿、無呼吸窘迫、可行走吞嚥咳嗽、疼痛輕微、無嘔吐、出血極少、有成人陪同載送、外科醫師同意。"},
+        {"en": "Teach before the procedure day; provide written instructions; use teach-back.", "zh": "於手術日前即進行衛教；提供書面說明；使用回覆示教。"},
+        {"en": "No driving, major decisions or legal signing for 24 hours after general anesthesia.", "zh": "全身麻醉後24小時內不可開車、做重大決定或簽署法律文件。"},
+        {"en": "Sutures or staples out in 7-14 days; Steri-Strips may follow; cover incision with plastic when showering if allowed; 48-hour dressing supply.", "zh": "縫線或釘書針於7-14天拆除；之後可貼無菌膠帶；若可淋浴則以塑膠覆蓋傷口；提供48小時份敷料。"},
+        {"en": "After major surgery no lifting for 6 weeks; abdominal incision no lifting 10 pounds or more, no pushing or pulling; return to work usually 6-8 weeks; drink 6-8 glasses fluid; high protein, calorie, vitamin diet.", "zh": "大手術後6週不提重物；腹部傷口不可提10磅以上、不可推拉；通常6-8週返回工作；每日飲水6-8杯；高蛋白、高熱量、高維生素飲食。"},
+        {"en": "Teach signs of complications and when to call the surgeon.", "zh": "教導併發症徵象及何時聯絡外科醫師。"}
+      ],
+      "pdf_pages": [228, 229]
+    }
+  ],
+  "critical_points": [
+    {"en": "If a client is unclear about the surgery after signing, notify the surgeon before proceeding; consent comes before sedation.", "zh": "個案簽署後仍不清楚手術內容，須通知外科醫師後再進行；簽同意書前不可給鎮靜。", "pdf_pages": [218]},
+    {"en": "Telephone consent from guardian/POA is acceptable with a second nurse witness; do not send to surgery unsigned.", "zh": "監護人／委任代理人電話同意可行，須第二位護理師見證；不可無同意書送刀。", "pdf_pages": [218, 229]},
+    {"en": "NPO 6-8 hours before general anesthesia; no smoking 24 hours; aspirin/NSAIDs stop at least 48 hours, clopidogrel about 5 days.", "zh": "全身麻醉前禁食6-8小時；24小時不吸菸；阿斯匹靈／NSAIDs 至少停48小時、氯吡格雷約5天。", "pdf_pages": [218, 219, 221]},
+    {"en": "Verify client and site: marking, then time-out with the whole team.", "zh": "核對個案與部位：標記，然後全體團隊暫停核對。", "pdf_pages": [222]},
+    {"en": "Postoperative priority is airway and breathing; SpO2 below 95% or baseline requires prompt notification; RR 10-30.", "zh": "術後優先為呼吸道與呼吸；血氧低於95%或基準值須即時通報；呼吸速率10-30。", "pdf_pages": [222]},
+    {"en": "Postop urine output should be at least 30 mL/hr; falling urine with tachycardia and hypotension suggests hemorrhage/shock.", "zh": "術後尿量至少30 mL/hr；尿量減少合併心搏過速與低血壓提示出血／休克。", "pdf_pages": [224, 225]},
+    {"en": "Restlessness is an early sign of hypoxemia and hemorrhage.", "zh": "躁動是低血氧與出血的早期徵象。", "pdf_pages": [225]},
+    {"en": "Sudden dyspnea and chest pain postoperatively: suspect pulmonary embolism; notify surgeon immediately.", "zh": "術後突發呼吸困難與胸痛：懷疑肺栓塞，立即通知外科醫師。", "pdf_pages": [225]},
+    {"en": "Spinal anesthesia plus shock: legs raised only to a pillow level so the diaphragm is not impaired.", "zh": "脊髓麻醉合併休克：下肢僅墊枕頭高度，以免影響橫膈膜呼吸。", "pdf_pages": [225]},
+    {"en": "Evisceration: cover with saline-moistened sterile dressing, low-Fowler's with knees bent, stay with client, call surgeon.", "zh": "內臟脫出：以無菌生理食鹽水濕敷料覆蓋、低半坐臥屈膝、陪伴個案、通知外科醫師。", "pdf_pages": [228]},
+    {"en": "Postoperative vomiting, distention and absent bowel sounds indicate paralytic ileus: NPO, NG suction.", "zh": "術後嘔吐、腹脹、腸音消失表示麻痺性腸阻塞：禁食、鼻胃管抽吸。", "pdf_pages": [226]},
+    {"en": "Atelectasis occurs 1-2 days postop; pneumonia 3-5; wound infection 3-6; dehiscence/evisceration 5-10 days.", "zh": "肺塌陷術後1-2天；肺炎3-5天；傷口感染3-6天；裂開／內臟脫出5-10天。", "pdf_pages": [224, 227]},
+    {"en": "After gastric surgery do not irrigate or reposition the NG tube unless prescribed.", "zh": "胃手術後除非醫囑，不可沖洗或調整鼻胃管位置。", "pdf_pages": [224]},
+    {"en": "Do not allow thrombophlebitis clients to dangle legs or rub/massage the leg; elevate and anticoagulate as ordered.", "zh": "血栓性靜脈炎個案不可垂腿；依醫囑抬高並給予抗凝血劑。", "pdf_pages": [226]},
+    {"en": "Opioid given: reassess respiratory rate and pain relief every 30 minutes.", "zh": "給予鴉片類藥物後每30分鐘重新評估呼吸速率與止痛效果。", "pdf_pages": [224]},
+    {"en": "Same-day discharge requires a responsible adult driver and no driving or legal decisions for 24 hours after general anesthesia.", "zh": "當日出院需有負責任的成人載送，全身麻醉後24小時不可開車或做法律決定。", "pdf_pages": [228, 229]}
+  ],
+  "mnemonics": [
+    {"en": "REEDA for wound assessment: Redness, Edema/Erythema, Ecchymosis, Drainage, Approximation.", "zh": "REEDA 傷口評估：紅、腫、瘀斑、滲液、傷口對合。", "pdf_pages": [227]},
+    {"en": "Postop complication timing: atelectasis 1-2 d, pneumonia 3-5 d, wound infection 3-6 d, dehiscence 5-10 d.", "zh": "術後併發症時間：肺塌陷1-2天、肺炎3-5天、傷口感染3-6天、裂開5-10天。", "pdf_pages": [224, 227]}
+  ],
+  "figures": [
+    {"pdf_page": 219, "caption": {"en": "Box 15.1: coughing, incentive spirometry, leg exercises and incision splinting teaching.", "zh": "方框15.1：咳嗽、誘發性肺量計、腿部運動與傷口護持衛教。"}},
+    {"pdf_page": 220, "caption": {"en": "Fig. 15.1-15.3 leg exercises, splinting and SCDs; Box 15.2 cultural aspects.", "zh": "圖15.1-15.3腿部運動、傷口護持與間歇性加壓裝置；方框15.2文化考量。"}},
+    {"pdf_page": 221, "caption": {"en": "Box 15.3 surgical risk conditions and Box 15.4 medications affecting surgery.", "zh": "方框15.3手術風險疾病與方框15.4影響手術的藥物。"}},
+    {"pdf_page": 224, "caption": {"en": "Box 15.5: list of postoperative complications.", "zh": "方框15.5：術後併發症清單。"}},
+    {"pdf_page": 225, "caption": {"en": "Fig. 15.4: mechanism of postoperative atelectasis.", "zh": "圖15.4：術後肺塌陷機轉。"}},
+    {"pdf_page": 227, "caption": {"en": "Box 15.6: sterile dressing change and wound irrigation procedure.", "zh": "方框15.6：無菌換藥與傷口沖洗步驟。"}},
+    {"pdf_page": 228, "caption": {"en": "Fig. 15.5 dehiscence vs evisceration, evisceration action steps, Box 15.7 discharge teaching.", "zh": "圖15.5傷口裂開與內臟脫出、處置步驟、方框15.7出院衛教。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "A postoperative client admitted 1 hour ago has urine output of 20 mL/hr, BP 100/70, temperature 37.6 C, and serous drainage on the dressing. Which finding is the priority to monitor?", "zh": "術後1小時的個案尿量20 mL/hr、血壓100/70、體溫37.6°C、敷料有漿液性滲液。最需優先監測的是哪項？"},
+      "options": [
+        {"en": "Urine output of 20 mL/hr", "zh": "尿量20 mL/hr"},
+        {"en": "Temperature 37.6 C", "zh": "體溫37.6°C"},
+        {"en": "Blood pressure 100/70", "zh": "血壓100/70"},
+        {"en": "Serous drainage", "zh": "漿液性滲液"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Urine output should be at least 30 mL/hr; low output may signal hypovolemia or hemorrhage. The other findings are within expected postoperative limits.", "zh": "尿量應至少30 mL/hr，偏低可能表示血容量不足或出血；其他為術後可接受範圍。"},
+      "pdf_pages": [224, 230],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client who sedated with opioids cannot sign consent for an urgent gastric surgery. What is the nurse's best action?", "zh": "因使用鴉片類藥物而鎮靜的個案無法簽署緊急胃手術同意書。護理師最適當的行動為何？"},
+      "options": [
+        {"en": "Get a court order", "zh": "取得法院命令"},
+        {"en": "Have the charge nurse sign", "zh": "由護理長簽署"},
+        {"en": "Send the client without consent", "zh": "未簽同意書即送手術"},
+        {"en": "Obtain telephone consent from a family member per agency policy with a witness", "zh": "依機構規定取得家屬電話同意並有見證人"}
+      ],
+      "answer": [3],
+      "rationale": {"en": "If the client cannot consent, a legally authorized person may give telephone consent witnessed by a second nurse. Nurses cannot sign for the client.", "zh": "個案無法同意時，法定代理人可電話同意並由第二位護理師見證；護理師不可代簽。"},
+      "pdf_pages": [218, 229],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which instructions are correct for preoperative deep breathing and incentive spirometry? Select all that apply.", "zh": "下列哪些是術前深呼吸與誘發性肺量計的正確指導？（複選）"},
+      "options": [
+        {"en": "Sit upright", "zh": "坐直"},
+        {"en": "Hold the breath about 5 seconds on the spirometer", "zh": "使用肺量計時屏息約5秒"},
+        {"en": "Repeat 10 times every hour", "zh": "每小時重複10次"},
+        {"en": "Perform lying flat for best expansion", "zh": "平躺以獲得最佳擴張"},
+        {"en": "Inhale quickly and forcefully", "zh": "快速用力吸氣"}
+      ],
+      "answer": [0, 1, 2],
+      "rationale": {"en": "Sitting gives best lung expansion; inhale slowly, hold 5 seconds, 10 times each hour.", "zh": "坐姿最利肺擴張；緩慢吸氣、屏息5秒、每小時10次。"},
+      "pdf_pages": [219],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "On day 7 after a colectomy a client reports a popping sensation and the nurse sees bowel protruding from the incision. What is the first action?", "zh": "結腸切除術後第7天，個案表示有破裂感，護理師見到腸管由傷口突出。首要處置為何？"},
+      "options": [
+        {"en": "Push the bowel back in", "zh": "將腸管推回"},
+        {"en": "Cover with a sterile saline-moistened dressing, stay with the client and call for help", "zh": "以無菌生理食鹽水濕敷料覆蓋、留在個案身邊並呼救"},
+        {"en": "Apply a dry dressing and an abdominal binder", "zh": "覆蓋乾敷料並綁腹帶"},
+        {"en": "Place client in prone position", "zh": "俯臥"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Evisceration is an emergency: keep tissue moist and covered, low-Fowler's with knees bent, notify surgeon, monitor for shock.", "zh": "內臟脫出為緊急狀況：保持組織濕潤與覆蓋、低半坐臥屈膝、通知外科醫師、監測休克。"},
+      "pdf_pages": [228],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client who had spinal anesthesia is hypotensive with signs of shock. How should the nurse position the legs?", "zh": "脊髓麻醉後的個案低血壓並有休克徵象。護理師應如何擺放下肢？"},
+      "options": [
+        {"en": "Raise the legs steeply", "zh": "大幅抬高下肢"},
+        {"en": "Raise the legs only on a pillow", "zh": "僅以枕頭墊高下肢"},
+        {"en": "Lower the legs", "zh": "放低下肢"},
+        {"en": "Place in prone position", "zh": "俯臥"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Higher elevation could impair diaphragmatic movement needed for breathing after spinal anesthesia.", "zh": "脊髓麻醉後過度抬高下肢可能影響橫膈膜呼吸運動。"},
+      "pdf_pages": [225],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which findings indicate a postoperative pulmonary embolism? Select all that apply.", "zh": "哪些發現提示術後肺栓塞？（複選）"},
+      "options": [
+        {"en": "Sudden dyspnea", "zh": "突發呼吸困難"},
+        {"en": "Sharp chest pain", "zh": "尖銳胸痛"},
+        {"en": "Tachycardia", "zh": "心搏過速"},
+        {"en": "Hypertension with bradycardia", "zh": "高血壓合併心搏過緩"},
+        {"en": "Cyanosis", "zh": "發紺"}
+      ],
+      "answer": [0, 1, 2, 4],
+      "rationale": {"en": "PE causes sudden dyspnea, sharp pain, cyanosis, tachycardia and a drop in BP.", "zh": "肺栓塞造成突發呼吸困難、尖銳疼痛、發紺、心搏過速與血壓下降。"},
+      "pdf_pages": [225],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which discharge teaching is appropriate after ambulatory surgery under general anesthesia?", "zh": "全身麻醉門診手術後，哪項出院衛教適當？"},
+      "options": [
+        {"en": "Drive home when you feel alert", "zh": "清醒後可自行開車回家"},
+        {"en": "Do not drive or sign legal documents for 24 hours", "zh": "24小時內不可開車或簽署法律文件"},
+        {"en": "Resume heavy lifting after one week", "zh": "一週後恢復提重物"},
+        {"en": "Restrict fluids", "zh": "限制水分"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Anesthesia impairs judgment and coordination for 24 hours; fluids 6-8 glasses are encouraged; avoid lifting per surgeon.", "zh": "麻醉使判斷與協調力受影響24小時；鼓勵每日6-8杯水；提重物依醫囑避免。"},
+      "pdf_pages": [229],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Perioperative Nursing NCLEX Practice Exam & Nursing Test Banks (75+ Questions) - Nurseslabs", "url": "https://nurseslabs.com/perioperative-nursing-nclex-practice-exam-nursing-test-banks/", "note": {"en": "Free NCLEX-style perioperative questions.", "zh": "免費 NCLEX 風格手術期護理題庫。"}},
+    {"title": "Perioperative Nursing: Preoperative Phase (Quiz #1) - Nurseslabs", "url": "https://nurseslabs.com/quizzes/perioperative-nursing-preoperative-phase-quiz-1/", "note": {"en": "25-question preoperative quiz.", "zh": "25題術前階段測驗。"}},
+    {"title": "Perioperative Nursing: Postoperative Phase (Quiz #3) - Nurseslabs", "url": "https://nurseslabs.com/quizzes/perioperative-nursing-postoperative-phase-quiz-3/", "note": {"en": "25-question postoperative quiz.", "zh": "25題術後階段測驗。"}},
+    {"title": "Perioperative & Emergency Med-Surg Care Review - GetOnCourse", "url": "https://getoncourse.ai/notes/nclex-rn/medical-surgical-nursing/perioperative-emergency-med-surg-care/", "note": {"en": "Free study notes on perioperative care.", "zh": "手術期照護免費複習筆記。"}}
+  ]
+}

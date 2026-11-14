@@ -1,0 +1,125 @@
+{
+  "number": 24,
+  "title": {"en": "Labor and Birth", "zh": "分娩與生產"},
+  "overview": {
+    "en": "This chapter covers the normal process of labor: the 4 Ps, fetal lie/presentation/position/station, signs of true vs false labor, fetal heart rate (FHR) monitoring, the four stages of labor, anesthesia options, and common obstetric procedures. Reading fetal monitor patterns and knowing the first-priority action for nonreassuring patterns is the most heavily tested skill.",
+    "zh": "本章說明正常分娩過程：4P（產力、產道、胎兒、心理）、胎位相關名詞（胎勢、胎向、先露、胎位、站位）、真假陣痛、胎心率（FHR）監測、產程四階段、麻醉方式與常見產科處置。能判讀胎心監測圖形並知道不安心圖形的首要處置，是最常考的能力。"
+  },
+  "sections": [
+    {"heading": {"en": "Process of Labor: the 4 Ps and fetal terms", "zh": "分娩過程：4P與胎兒相關名詞"},
+     "points": [
+       {"en": "The 4 Ps are Powers (contractions, effacement, dilation, pushing), Passageway (bony pelvis and soft tissue), Passenger (fetus, membranes, placenta) and Psyche (emotional state).", "zh": "4P為產力（宮縮、子宮頸變薄與擴張、用力）、產道（骨盆與軟組織）、胎兒及附屬物（胎兒、胎膜、胎盤）與心理狀態。"},
+       {"en": "Normal attitude is flexion (chin to chest, limbs folded); extension presents larger diameters.", "zh": "正常胎勢為屈曲（下巴貼胸、四肢蜷曲）；伸展會使胎頭通過的徑線變大。"},
+       {"en": "Lie: longitudinal (spines parallel; cephalic or breech) vs transverse (right angle, shoulder presenting, cesarean needed).", "zh": "胎向：縱向（脊柱平行，頭位或臀位）；橫向（垂直，肩先露，需剖腹產）。"},
+       {"en": "Presentation: cephalic (most common: vertex, military, brow, face), breech (frank, full, footling), shoulder.", "zh": "先露：頭位（最常見：頂位、軍姿位、額位、顏面位）、臀位（單臀、完全、足先露）、肩位。"},
+       {"en": "Station measures descent relative to the ischial spines: 0 = at spines (engaged), minus = above, plus = below.", "zh": "站位以坐骨棘為基準測量下降：0為在坐骨棘（已入盆）、負值在上方、正值在下方。"}
+     ], "pdf_pages": [363]},
+    {"heading": {"en": "Signs of labor and mechanisms of labor", "zh": "產兆與分娩機轉"},
+     "points": [
+       {"en": "Pre-labor signs: lightening (about 2 weeks before in first pregnancies), more Braxton Hicks, bloody show, cervical ripening, nesting burst of energy, 1-3 lb weight loss, rupture of membranes.", "zh": "產前徵兆：胎兒下降（初產婦約提前2週）、假性宮縮增加、見紅、子宮頸成熟、築巢本能、體重減輕1至3磅、破水。"},
+       {"en": "True labor: contractions regular, stronger, longer, closer; progressive dilation/effacement and descent. False labor: irregular, no cervical change, often relieved by walking.", "zh": "真陣痛：規律、越來越強、越長、間隔越短，子宮頸持續變化與下降；假陣痛：不規則、無頸部變化，走動常可緩解。"},
+       {"en": "Cardinal movements in order: engagement, descent, flexion, internal rotation, extension, restitution, external rotation, expulsion.", "zh": "分娩機轉順序：入盆、下降、屈曲、內旋轉、伸展、復位、外旋轉、娩出。"},
+       {"en": "Leopold maneuvers locate the fetal back (smooth, hard) and small parts (knobs) and help place the Doppler.", "zh": "李氏四步觸診可判斷胎背（光滑堅硬）與小肢體（不規則突起），並協助放置胎心探頭。"},
+       {"en": "Breathing: slow-paced, modified (shallow fast), pattern-paced (pant-blow); blow in short puffs to avoid pushing early; limit breath-holding to under 6-8 seconds when pushing.", "zh": "呼吸技巧：慢式、改良式（淺快）、模式式（喘吹）；不想用力時短促吹氣；用力時憋氣少於6至8秒。"}
+     ], "pdf_pages": [364, 365, 366]},
+    {"heading": {"en": "Fetal monitoring and FHR patterns", "zh": "胎兒監測與胎心率圖形"},
+     "points": [
+       {"en": "Normal baseline FHR at term is 110-160 bpm, measured between contractions. Bradycardia <110, tachycardia >160 for 10 minutes or more.", "zh": "足月正常基準胎心率為110至160次/分，於宮縮間測量；持續10分鐘以上低於110為心搏過緩，高於160為過速。"},
+       {"en": "External monitoring: ultrasound transducer over the fetal back, tocotransducer over the fundus; side-lying to avoid vena cava compression. Internal monitoring (scalp electrode, IUPC) needs ruptured membranes and 2-3 cm dilation.", "zh": "外部監測：超音波探頭置於胎背處、宮縮壓力計置於子宮底；採側臥避免壓迫下腔靜脈。內部監測（胎頭電極、子宮內壓導管）需破水且擴張2至3公分。"},
+       {"en": "Variability: absent (undetected), minimal (<=5), moderate (6-25), marked (>25 bpm). Absent/minimal can mean hypoxemia, acidosis, drugs, or fetal sleep (up to 30 min).", "zh": "變異性：無（測不到）、輕微（5以下）、中度（6至25）、顯著（大於25次/分）。缺乏或輕微可能代表缺氧、酸中毒、藥物或胎兒睡眠（最長約30分鐘）。"},
+       {"en": "Accelerations (>=15 bpm for >=15 sec) are reassuring.", "zh": "加速（上升至少15次/分且持續至少15秒）為安心圖形。"},
+       {"en": "Early decelerations: mirror the contraction, head compression, benign. Late: start after contraction onset, uteroplacental insufficiency, nonreassuring. Variable: abrupt, variable shape, cord compression.", "zh": "早期減速：與宮縮呈鏡像、胎頭受壓、良性；晚期減速：宮縮開始後才出現、子宮胎盤功能不全、不安心；變異減速：突然、形狀不一、臍帶受壓。"},
+       {"en": "Significant variables fall below 70 bpm and last 60 seconds or longer. Uterine resting tone averages 5-15 mm Hg; contractions 50-75 mm Hg; uterus should relax 60 seconds or more between contractions.", "zh": "重要的變異減速為降至70次/分以下且持續60秒以上。子宮靜止張力平均5至15 mmHg，宮縮強度50至75 mmHg，宮縮間子宮應放鬆至少60秒。"}
+     ], "pdf_pages": [366, 367, 368]},
+    {"heading": {"en": "Stages of labor", "zh": "產程階段"},
+     "points": [
+       {"en": "Stage 1 latent: 1-4 cm, contractions q15-30 min, 15-30 sec, mild; ambulate, fluids, void every 1-2 hr.", "zh": "第一產程潛伏期：1至4公分，每15至30分鐘一次、持續15至30秒、輕度；鼓勵走動、補充水分、每1至2小時排尿。"},
+       {"en": "Stage 1 active: 4-7 cm, q3-5 min, 30-60 sec, moderate; breathing support, back rubs, sacral pressure.", "zh": "活躍期：4至7公分，每3至5分鐘、持續30至60秒、中度；協助呼吸、背部按摩、薦骨加壓。"},
+       {"en": "Transition: 8-10 cm, q2-3 min, 45-90 sec, strong; rest between contractions, privacy, wake client to start breathing.", "zh": "過渡期：8至10公分，每2至3分鐘、持續45至90秒、強烈；宮縮間休息、維護隱私、宮縮開始時喚醒產婦開始呼吸。"},
+       {"en": "Stage 2: complete dilation to birth; Ferguson reflex urge to push, bloody show increases; assess every 5 minutes.", "zh": "第二產程：全開至胎兒娩出；出現Ferguson反射的用力衝動、血性分泌物增加；每5分鐘評估一次。"},
+       {"en": "Stage 3: placenta expelled 5-30 min after birth. Schultze: shiny fetal side first; Duncan: dull maternal side first. Inspect placenta for completeness; fundus firm, 2 fingerbreadths below umbilicus.", "zh": "第三產程：胎兒娩出後5至30分鐘胎盤娩出。Schultze為光亮胎兒面先出；Duncan為粗糙母體面先出。檢查胎盤是否完整；子宮底堅硬、位於肚臍下兩指幅。"},
+       {"en": "Stage 4: 1-4 hours after birth; assess every 15 min x1 hr, 30 min x1 hr, then hourly x2; warm blankets, perineal ice, fundal massage, lochia moderate and red.", "zh": "第四產程：產後1至4小時；每15分鐘評估1小時、每30分鐘1小時，之後每小時2小時；保暖、會陰冰敷、子宮按摩、惡露中量紅色。"}
+     ], "pdf_pages": [368, 369, 370]},
+    {"heading": {"en": "Anesthesia and analgesia", "zh": "麻醉與止痛"},
+     "points": [
+       {"en": "Local (episiotomy): no fetal effect.", "zh": "局部麻醉（會陰切開）：對胎兒無影響。"},
+       {"en": "Epidural (L3-L4): hypotension, bladder distention, longer second stage; keep side-lying or wedge under right hip, give IV fluids, check bladder; watch opioid effects (nausea, itching, respiratory depression).", "zh": "硬膜外麻醉（L3至L4）：可能低血壓、膀胱脹、第二產程延長；側臥或右臀下墊枕、給予靜脈輸液、檢查膀胱；注意鴉片類副作用（噁心、搔癢、呼吸抑制）。"},
+       {"en": "Spinal (L3-L5): hypotension and postdural headache; lie flat 8-12 hours.", "zh": "脊髓麻醉（L3至L5）：低血壓與脊髓穿刺後頭痛；需平躺8至12小時。"},
+       {"en": "General: risk of respiratory depression, vomiting, aspiration.", "zh": "全身麻醉：有呼吸抑制、嘔吐與吸入性肺炎風險。"}
+     ], "pdf_pages": [370]},
+    {"heading": {"en": "Obstetric procedures", "zh": "產科處置"},
+     "points": [
+       {"en": "Bishop score (dilation, effacement, consistency, position, station) of 8 or more means a favorable cervix for induction.", "zh": "Bishop評分（擴張、變薄、質地、位置、站位）達8分以上代表子宮頸有利於引產。"},
+       {"en": "Oxytocin induction: baseline tracing first; do not increase once contractions reach every 2-3 min lasting 60 sec; stop if contractions closer than 2 min, longer than 90 sec, or fetal distress.", "zh": "催產素引產：先取得基準圖形；宮縮達每2至3分鐘、持續60秒即不再加量；宮縮間隔小於2分鐘、持續超過90秒或胎兒窘迫時停藥。"},
+       {"en": "Amniotomy at 0 or plus station: risks cord prolapse and infection; check FHR before and after, note fluid color (meconium = distress, bloody = abruption, foul = infection).", "zh": "人工破水於站位0或正值時進行：有臍帶脫垂與感染風險；破水前後檢查胎心，記錄羊水顏色（胎便＝窘迫、血性＝胎盤早剝、臭味＝感染）。"},
+       {"en": "External version after 34 weeks: give RhoGAM if Rh-negative, nonstress test afterward, Kleihauer-Betke test.", "zh": "外轉胎位術於34週後進行：Rh陰性者確認已給予RhoGAM，術後做無壓力試驗與Kleihauer-Betke試驗。"},
+       {"en": "Episiotomy: ice 24 hours then sitz baths; front-to-back, blot dry. Forceps/vacuum: check infant for injury; vacuum no longer than 25 minutes; watch for cephalhematoma (caput resolves in 24 hr).", "zh": "會陰切開：24小時冰敷後改坐浴；由前往後、輕拍擦乾。產鉗與真空吸引：檢查新生兒有無傷害；真空吸引不超過25分鐘；注意頭血腫（產瘤24小時內消退）。"},
+       {"en": "Cesarean: consent, IV, Foley, Rh status; postop watch for UTI, endometritis (tender uterus, foul lochia), pneumonia, thrombophlebitis.", "zh": "剖腹產：同意書、靜脈留置、導尿、確認Rh；術後注意泌尿道感染、子宮內膜炎（子宮壓痛、惡露惡臭）、肺炎、血栓靜脈炎。"}
+     ], "pdf_pages": [370, 371, 372]}
+  ],
+  "critical_points": [
+    {"en": "Normal FHR 110-160 bpm; a baseline of 100 between contractions or 180 needs provider notification.", "zh": "正常胎心率110至160次/分；宮縮間為100或達180需通知醫師。", "pdf_pages": [366, 374, 375]},
+    {"en": "Late decelerations = uteroplacental insufficiency: turn side-lying, oxygen 8-10 L/min by face mask, IV fluids, stop oxytocin, notify provider.", "zh": "晚期減速＝子宮胎盤功能不全：側臥、面罩給氧8至10 L/分、靜脈輸液、停催產素、通知醫師。", "pdf_pages": [367, 374]},
+    {"en": "Variable decelerations = cord compression: stop oxytocin, reposition, oxygen, assist with amnioinfusion if prescribed.", "zh": "變異減速＝臍帶受壓：停催產素、變換姿勢、給氧、依醫囑協助羊水灌注。", "pdf_pages": [367, 368]},
+    {"en": "Early decelerations and accelerations are reassuring; early decelerations need no intervention.", "zh": "早期減速與加速為安心圖形；早期減速不需處置。", "pdf_pages": [366, 367]},
+    {"en": "Nonreassuring patterns: bradycardia, tachycardia, late or prolonged decelerations, hypertonic uterus, absent variability, severe variables (<70 bpm for >60 sec).", "zh": "不安心圖形：心搏過緩、過速、晚期或延長減速、子宮張力過高、變異性消失、嚴重變異減速（低於70次/分超過60秒）。", "pdf_pages": [367]},
+    {"en": "If oxytocin is running and fetal distress or hyperstimulation appears, the priority is to stop the oxytocin infusion.", "zh": "使用催產素時若出現胎兒窘迫或過度刺激，首要處置為停止催產素。", "pdf_pages": [371, 375]},
+    {"en": "After rupture of membranes (spontaneous or amniotomy) check FHR first because of cord prolapse risk.", "zh": "破水後（自然或人工）首先確認胎心率，以排除臍帶脫垂。", "pdf_pages": [369, 371, 375]},
+    {"en": "Avoid supine position: use side-lying or a wedge under the right hip to prevent vena cava compression, including on the cesarean table.", "zh": "避免仰臥：採側臥或右臀下墊楔形枕，以防下腔靜脈受壓，剖腹產手術台亦然。", "pdf_pages": [366, 370, 374]},
+    {"en": "Spinal anesthesia: lie flat 8-12 hours, risk of hypotension and headache. Epidural: hypotension, check bladder.", "zh": "脊髓麻醉：平躺8至12小時，有低血壓與頭痛風險；硬膜外：低血壓、檢查膀胱。", "pdf_pages": [370]},
+    {"en": "True labor shows progressive cervical change; contractions that last longer and stronger. Walking relieves false labor.", "zh": "真陣痛使子宮頸持續變化、宮縮增強延長；假陣痛走動可緩解。", "pdf_pages": [365, 375]},
+    {"en": "Bishop score 8 or higher = favorable for induction. Amniotomy requires fetus at 0 or plus station.", "zh": "Bishop評分8分以上有利引產；人工破水需胎頭在站位0或正值。", "pdf_pages": [371]},
+    {"en": "Meconium-stained fluid suggests fetal distress; bloody fluid suggests abruption; foul-smelling fluid suggests infection.", "zh": "胎便污染羊水提示胎兒窘迫；血性提示胎盤早剝；惡臭提示感染。", "pdf_pages": [371]},
+    {"en": "Never leave a laboring client in transition alone; in second stage prioritize rest between contractions and effective pushing.", "zh": "過渡期產婦不可獨留；第二產程重點為宮縮間休息與有效用力。", "pdf_pages": [369, 375]},
+    {"en": "Postpartum complications after cesarean: pain/burning urination (UTI), tender uterus plus foul lochia (endometritis), productive cough/chills (pneumonia), calf pain/redness (thrombophlebitis).", "zh": "剖腹產術後併發症：排尿灼痛（泌尿道感染）、子宮壓痛合併惡露惡臭（子宮內膜炎）、有痰咳嗽或畏寒（肺炎）、小腿疼痛紅腫（血栓靜脈炎）。", "pdf_pages": [372]}
+  ],
+  "mnemonics": [
+    {"en": "VEAL CHOP: Variable decels - Cord compression; Early - Head compression; Accelerations - OK; Late - Placental insufficiency.", "zh": "VEAL CHOP：變異減速－臍帶受壓；早期－胎頭受壓；加速－正常；晚期－胎盤功能不全。", "pdf_pages": [367]},
+    {"en": "Cardinal movements: \"EDFIREE\" - Engagement, Descent, Flexion, Internal rotation, Extension, Restitution/External rotation, Expulsion.", "zh": "分娩機轉口訣：入盆、下降、屈曲、內旋轉、伸展、復位與外旋轉、娩出。", "pdf_pages": [365]},
+    {"en": "4 Ps of labor: Powers, Passageway, Passenger, Psyche.", "zh": "分娩4P：產力、產道、胎兒、心理。", "pdf_pages": [363]}
+  ],
+  "figures": [
+    {"pdf_page": 364, "caption": {"en": "Fetal lie (longitudinal vs transverse) and vertex position abbreviations (ROA, LOA, ROP, etc.).", "zh": "胎向（縱向與橫向）及頂位胎位縮寫（ROA、LOA、ROP等）。"}},
+    {"pdf_page": 365, "caption": {"en": "Boxes on mechanisms of labor, true vs false labor, and fetal position abbreviations.", "zh": "分娩機轉、真假陣痛與胎位縮寫表。"}},
+    {"pdf_page": 366, "caption": {"en": "Breathing techniques and variability definitions.", "zh": "呼吸技巧與胎心變異性定義。"}},
+    {"pdf_page": 367, "caption": {"en": "Tracings of early, late and variable decelerations and the list of nonreassuring patterns.", "zh": "早期、晚期與變異減速圖形及不安心圖形清單。"}},
+    {"pdf_page": 368, "caption": {"en": "Table of the four stages of labor and the Take Action box for variable decelerations.", "zh": "產程四階段表與變異減速的處置步驟。"}},
+    {"pdf_page": 369, "caption": {"en": "Friedman labor curve (partogram) for nulliparous vs multiparous clients.", "zh": "Friedman產程曲線，比較初產婦與經產婦。"}},
+    {"pdf_page": 371, "caption": {"en": "Bishop score table.", "zh": "Bishop評分表。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "A client in labor with an oxytocin infusion has contractions every 90 seconds lasting 100 seconds, and the FHR shows late decelerations. What is the priority action?", "zh": "一位使用催產素的產婦，宮縮每90秒一次、持續100秒，胎心監測出現晚期減速。首要處置為何？"},
+     "options": [{"en": "Stop the oxytocin infusion", "zh": "停止催產素輸注"}, {"en": "Administer oxygen by face mask", "zh": "面罩給氧"}, {"en": "Call the provider", "zh": "通知醫師"}, {"en": "Increase IV fluids", "zh": "增加輸液速度"}],
+     "answer": [0], "rationale": {"en": "Uterine hyperstimulation is causing uteroplacental insufficiency; removing the cause (oxytocin) is first. Then reposition, give oxygen and fluids, and notify the provider.", "zh": "子宮過度刺激造成子宮胎盤灌流不足，先移除原因（停催產素），之後變換姿勢、給氧、輸液並通知醫師。"},
+     "pdf_pages": [367, 371, 375], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which findings indicate that a client has entered the second stage of labor? Select all that apply.", "zh": "下列哪些表徵顯示產婦進入第二產程？（複選）"},
+     "options": [{"en": "Cervix completely dilated", "zh": "子宮頸全開"}, {"en": "Strong urge to push", "zh": "強烈的用力衝動"}, {"en": "Cervix dilated 4 cm", "zh": "子宮頸擴張4公分"}, {"en": "Increase in bloody show", "zh": "血性分泌物增加"}, {"en": "Placenta delivered", "zh": "胎盤娩出"}],
+     "answer": [0, 1, 3], "rationale": {"en": "Stage 2 starts at complete dilation; Ferguson reflex and increased bloody show accompany it. 4 cm is active phase of stage 1; placenta delivery is stage 3.", "zh": "第二產程自全開開始，伴隨Ferguson反射及血性分泌物增加；4公分為第一產程活躍期；胎盤娩出為第三產程。"},
+     "pdf_pages": [369], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "The monitor shows decelerations that begin as the contraction begins, mirror it, and return to baseline by the end of the contraction; the lowest FHR is 120. What should the nurse do?", "zh": "監視器顯示減速在宮縮開始時出現、與宮縮呈鏡像，並於宮縮結束時回到基準；最低胎心為120。護理師應如何處理？"},
+     "options": [{"en": "Continue to monitor; no intervention needed", "zh": "持續監測，無需處置"}, {"en": "Prepare for emergency cesarean", "zh": "準備緊急剖腹產"}, {"en": "Perform amnioinfusion", "zh": "進行羊水灌注"}, {"en": "Administer a tocolytic", "zh": "給予安胎藥"}],
+     "answer": [0], "rationale": {"en": "These are early decelerations from head compression, a benign pattern.", "zh": "此為胎頭受壓引起的早期減速，屬良性，無需處置。"},
+     "pdf_pages": [367], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "After a spinal anesthetic for cesarean birth, which instruction is most important for the client?", "zh": "剖腹產接受脊髓麻醉後，下列哪項指導最重要？"},
+     "options": [{"en": "Lie flat for 8 to 12 hours", "zh": "平躺8至12小時"}, {"en": "Ambulate in 2 hours", "zh": "2小時後下床走動"}, {"en": "Sit upright to eat", "zh": "坐起進食"}, {"en": "Restrict all fluids", "zh": "禁止所有液體"}],
+     "answer": [0], "rationale": {"en": "Lying flat decreases the risk of postdural puncture headache.", "zh": "平躺可降低脊髓穿刺後頭痛的風險。"},
+     "pdf_pages": [370], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client at 0 station is to have an amniotomy. Which actions does the nurse plan? Select all that apply.", "zh": "站位0的產婦將接受人工破水。護理師應計畫哪些行動？（複選）"},
+     "options": [{"en": "Assess FHR before and after", "zh": "破水前後評估胎心"}, {"en": "Document fluid color and time", "zh": "記錄羊水顏色與時間"}, {"en": "Perform frequent vaginal exams", "zh": "頻繁做陰道檢查"}, {"en": "Observe for cord prolapse", "zh": "觀察臍帶脫垂"}, {"en": "Expect fewer variable decelerations", "zh": "預期變異減速減少"}],
+     "answer": [0, 1, 3], "rationale": {"en": "Amniotomy raises risk of cord prolapse and infection (so limit vaginal exams) and more variable decelerations are expected.", "zh": "人工破水增加臍帶脫垂與感染風險（故應減少陰道檢查），且預期變異減速增多。"},
+     "pdf_pages": [371], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which Bishop score indicates the cervix is favorable for induction of labor?", "zh": "下列哪個Bishop評分代表子宮頸有利於引產？"},
+     "options": [{"en": "3", "zh": "3"}, {"en": "5", "zh": "5"}, {"en": "6", "zh": "6"}, {"en": "9", "zh": "9"}],
+     "answer": [3], "rationale": {"en": "A score of 8 or greater predicts successful induction.", "zh": "評分達8分以上預測引產成功。"},
+     "pdf_pages": [371], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client in labor lying supine becomes pale, dizzy and tachycardic with a BP drop. What is the best action?", "zh": "仰臥待產的產婦臉色蒼白、頭暈、心搏過速且血壓下降。最佳處置為何？"},
+     "options": [{"en": "Turn her to the side", "zh": "協助側臥"}, {"en": "Place in Trendelenburg", "zh": "採頭低腳高"}, {"en": "Give a bolus of oxytocin", "zh": "給予催產素"}, {"en": "Lower the head of bed flat", "zh": "將床頭放平"}],
+     "answer": [0], "rationale": {"en": "This is supine hypotension; turning the client to the side relieves vena cava compression.", "zh": "此為仰臥低血壓症候群，側臥可解除下腔靜脈壓迫。"},
+     "pdf_pages": [366, 374], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "10 Fetal Heart Monitoring (FHM) NCLEX Style Questions (Nursing.com)", "url": "https://academy.nursing.com/pop-quiz/06-04-fetal-heart-monitoring-fhm/", "note": {"en": "Free short NCLEX-style quiz on fetal heart monitoring.", "zh": "胎心監測的免費NCLEX式小測驗。"}},
+    {"title": "Decelerations in Labor: What They Mean (Union Test Prep)", "url": "https://uniontestprep.com/nclex-rn-exam/blog/decelerations-in-labor-what-they-mean", "note": {"en": "Explains early, late and variable decelerations for NCLEX review.", "zh": "說明早期、晚期與變異減速，適合NCLEX複習。"}},
+    {"title": "Fetal Decelerations (Osmosis)", "url": "https://www.osmosis.org/answers/fetal-decelerations", "note": {"en": "Overview with causes of each deceleration type.", "zh": "各類減速成因的概述。"}}
+  ]
+}

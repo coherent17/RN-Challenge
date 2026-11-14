@@ -1,0 +1,806 @@
+{
+ "number": 6,
+ "title": {
+  "en": "Ethical and Legal Issues",
+  "zh": "倫理與法律議題"
+ },
+ "overview": {
+  "en": "This chapter covers ethical principles and dilemmas, regulation of nursing practice, liability, consents, HIPAA confidentiality, occurrence reports, documentation, advance directives and mandatory reporting. These topics are heavily tested under Management of Care.",
+  "zh": "本章涵蓋倫理原則與兩難、護理執業規範、法律責任、同意書、HIPAA 保密、事件報告、文件記錄、預立醫囑與強制通報。這些內容常見於「照護管理」考題。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Ethics, principles and advocacy",
+    "zh": "倫理、原則與倡議"
+   },
+   "points": [
+    {
+     "en": "Ethics distinguishes right from wrong using a body of knowledge; morals reflect customs or beliefs; values influence decisions; values clarification analyzes your own values.",
+     "zh": "倫理依知識體系分辨對錯；道德反映習俗或信念；價值觀影響決策；價值澄清是分析自身價值觀。"
+    },
+    {
+     "en": "Principles: autonomy, nonmaleficence (do no harm), beneficence (do good; paternalism is undesirable), justice, veracity (truth), fidelity (keep promises).",
+     "zh": "原則：自主、不傷害、行善（家長式作風不可取）、公正、誠實、忠誠。"
+    },
+    {
+     "en": "Ethical codes (ICN, ANA) are not legally binding but boards of nursing can discipline unprofessional conduct.",
+     "zh": "倫理守則（ICN、ANA）無法律效力，但護理委員會可懲處不專業行為。"
+    },
+    {
+     "en": "An ethical dilemma is a conflict between two or more ethical principles with no clearly correct choice; use ethical reasoning (gather data, examine values, state the problem, consider options, negotiate, evaluate).",
+     "zh": "倫理兩難為兩項以上倫理原則衝突、無明確正解；運用倫理推理（蒐集資料、檢視價值、說明問題、考慮選項、協商、評值）。"
+    },
+    {
+     "en": "An advocate speaks for the client and supports the client's decision even if it conflicts with the nurse's own; ethics committees offer interprofessional consultation.",
+     "zh": "倡議者為病人發聲並支持其決定（即使與自己意見不同）；倫理委員會提供跨專業諮詢。"
+    }
+   ],
+   "pdf_pages": [
+    72,
+    73
+   ]
+  },
+  {
+   "heading": {
+    "en": "Regulation of nursing practice",
+    "zh": "護理執業規範"
+   },
+   "points": [
+    {
+     "en": "The Nurse Practice Act (state statute) sets education requirements, scope of practice, licensure and grounds for discipline; nurses must know their state's act.",
+     "zh": "護理執業法（州法）規範教育要求、執業範圍、執照與懲處依據；護理師須熟悉所在州法規。"
+    },
+    {
+     "en": "Standards of care define what clients can expect; failing both standards and agency policy makes the nurse clearly liable. Respondeat superior makes the employer liable for employees' negligence within employment.",
+     "zh": "照護標準界定病人可期待的照護；同時違反標準與機構政策則責任明確。僱主責任原則使僱主需為員工執行職務中的過失負責。"
+    },
+    {
+     "en": "Policies are not laws but courts generally rule against nurses who violate them.",
+     "zh": "政策不是法律，但法院通常判違反政策的護理師敗訴。"
+    },
+    {
+     "en": "Understaffing: walking out can be abandonment; report short staffing to administration.",
+     "zh": "人力不足：擅離可能構成遺棄；應向行政單位報告人力不足。"
+    },
+    {
+     "en": "Floating is acceptable; refusal is allowed only with union contract protection or proven lack of knowledge. Tell the supervisor your limits, request a resource nurse and accept patients matching your experience.",
+     "zh": "調派支援可接受；僅在工會合約保障或能證明缺乏相關知識時方可拒絕。向主管說明限制、要求資源護理師並接受符合經驗的病人。"
+    },
+    {
+     "en": "Discipline reasons: unprofessional conduct, confidentiality breach, insufficient judgment, abuse, unsafe delegation, inaccurate or falsified records, leaving an assignment without notice.",
+     "zh": "懲處原因：不專業行為、違反保密、判斷不足、虐待病人、不安全委派、記錄不實或偽造、未通知即離開工作。"
+    }
+   ],
+   "pdf_pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "heading": {
+    "en": "Legal liability, negligence and malpractice",
+    "zh": "法律責任、過失與醫療疏失"
+   },
+   "points": [
+    {
+     "en": "Negligence is conduct below the standard of care (acts of commission or omission); malpractice is professional negligence.",
+     "zh": "過失是低於照護標準的行為（作為或不作為）；醫療疏失是專業過失。"
+    },
+    {
+     "en": "Four elements of liability: duty, breach of duty, proximate cause, damage/injury.",
+     "zh": "責任四要件：義務、違反義務、因果關係、損害。"
+    },
+    {
+     "en": "Negligence examples: medication or IV errors, falls, burns, retained surgical items, failure to monitor, report or delegate properly, incomplete handoff.",
+     "zh": "過失例子：給藥或輸液錯誤、跌倒、燙傷、手術遺留異物、未監測/通報/適當委派、交班不完整。"
+    },
+    {
+     "en": "Own liability insurance gives the nurse an attorney whose only interest is the nurse; Good Samaritan laws protect those giving reasonable, uncompensated emergency care.",
+     "zh": "自行投保責任險可有只為護理師利益的律師；好撒馬利亞人法保護提供合理且無償緊急救助者。"
+    },
+    {
+     "en": "Controlled substances: locked, signed out, inventory counted.",
+     "zh": "管制藥品：上鎖、簽領、清點庫存。"
+    },
+    {
+     "en": "Collective bargaining negotiates wages and conditions; strikes pose a moral dilemma for nurses.",
+     "zh": "集體協商談判薪資與勞動條件；罷工對護理師是道德困境。"
+    }
+   ],
+   "pdf_pages": [
+    74,
+    75
+   ]
+  },
+  {
+   "heading": {
+    "en": "Legal risk areas",
+    "zh": "法律風險領域"
+   },
+   "points": [
+    {
+     "en": "Assault: threat causing fear of harmful contact; battery: touching without consent.",
+     "zh": "傷害威脅：使人害怕有害接觸；傷害行為：未經同意的觸碰。"
+    },
+    {
+     "en": "Invasion of privacy: violating confidentiality; false imprisonment: preventing a client from leaving or unjustified restraints; a competent client may sign an AMA form.",
+     "zh": "侵犯隱私：違反保密；非法拘禁：不當阻止離院或無正當臨床需求使用約束；有行為能力者可簽自動出院（AMA）。"
+    },
+    {
+     "en": "Defamation: libel (written) or slander (spoken); fraud: deliberate deception for gain.",
+     "zh": "毀謗：書面（誹謗）或口頭（誹謗/口誹）；詐欺：蓄意欺騙以牟利。"
+    },
+    {
+     "en": "Exception: acutely disturbed mental health clients who pose risk may need least-restrictive interventions first, then restraint if behavior demands.",
+     "zh": "例外：急性精神困擾且有危險者，先採最低限制措施，必要時才約束。"
+    }
+   ],
+   "pdf_pages": [
+    75,
+    76
+   ]
+  },
+  {
+   "heading": {
+    "en": "Patient rights, organ donation and consents",
+    "zh": "病人權利、器官捐贈與同意書"
+   },
+   "points": [
+    {
+     "en": "The Patient Care Partnership (formerly Bill of Rights) from the AHA must be posted; related laws include ADA, ACA, Mental Health Systems Act.",
+     "zh": "美國醫院協會（AHA）的病人照護夥伴關係（原病人權利法案）須張貼；相關法律含 ADA、ACA、心理健康系統法。"
+    },
+    {
+     "en": "Organ donation: adults 18+ may declare intent; heart, lungs, liver require a ventilated brain-dead donor; request usually by trained provider; no delay in funeral or cost to family.",
+     "zh": "器官捐贈：18 歲以上成人可表達意願；心、肺、肝需來自使用呼吸器的腦死者；通常由受訓人員提出請求；不延誤喪禮且家屬無費用。"
+    },
+    {
+     "en": "Informed consent is the provider's responsibility (risks, benefits, alternatives, consequences of refusal); the nurse witnesses the signature.",
+     "zh": "知情同意由醫師負責說明（風險、益處、替代方案與拒絕後果）；護理師見證簽名。"
+    },
+    {
+     "en": "Consent must be voluntary, witnessed, signed by a competent adult; not valid if sedated, unconscious, intoxicated or demented without a legal representative. Use a professional interpreter when needed.",
+     "zh": "同意須自願、有見證、由有行為能力的成人簽署；鎮靜、昏迷、醉酒或失智而無法定代理人時無效。需要時使用專業口譯。"
+    },
+    {
+     "en": "Emergencies waive consent; clients may refuse information or withdraw consent anytime; if a client changes their mind before surgery, hold prep and notify the surgeon.",
+     "zh": "緊急情況可免同意；病人可拒絕資訊或隨時撤回同意；術前病人改變心意，應暫停術前準備並通知外科醫師。"
+    },
+    {
+     "en": "Minors need parent/guardian consent except in emergencies, emancipated minors, or services like STI, HIV, birth control, pregnancy, substance abuse and psychiatric care in many states.",
+     "zh": "未成年人需父母或監護人同意，除非緊急、已解除監護的未成年人，或多州允許自行同意的服務（性傳染病、HIV、避孕、懷孕、物質濫用、精神科）。"
+    }
+   ],
+   "pdf_pages": [
+    76,
+    77,
+    78
+   ]
+  },
+  {
+   "heading": {
+    "en": "HIPAA and confidentiality",
+    "zh": "HIPAA 與保密"
+   },
+   "points": [
+    {
+     "en": "HIPAA protects personal health information (PHI); clients may inspect, request amendment, request disclosure list, restrict use and file complaints.",
+     "zh": "HIPAA 保護個人健康資訊（PHI）；病人可查閱、要求修正、索取揭露清單、限制使用並提出申訴。"
+    },
+    {
+     "en": "PHI may be used for treatment, payment and operations, emergencies, public health, legal proceedings and with signed authorization.",
+     "zh": "PHI 可用於治療、付款與營運、緊急狀況、公共衛生、法律程序，及經簽署授權。"
+    },
+    {
+     "en": "Only staff involved in care may access records; share information only on a need-to-know basis in private areas.",
+     "zh": "僅參與照護者可取得記錄；僅在有必要時於私密場所分享。"
+    },
+    {
+     "en": "Privacy violations include posting on social media, photographs, open curtains, overheard interviews and unauthorized record access; never share passwords.",
+     "zh": "侵犯隱私包括社群媒體貼文、拍照、未拉簾、談話被聽到、未授權查閱記錄；絕不分享密碼。"
+    }
+   ],
+   "pdf_pages": [
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "heading": {
+    "en": "Legal safeguards, orders and documentation",
+    "zh": "法律保障、醫囑與文件記錄"
+   },
+   "points": [
+    {
+     "en": "Occurrence (incident) reports: factual, not copied or mentioned in the chart; chart the event itself; reassess the client; notify the provider.",
+     "zh": "事件報告：客觀陳述，不影印也不在病歷提及；病歷中記錄事件本身；再評估病人；通知醫師。"
+    },
+    {
+     "en": "Carry out prescriptions unless inappropriate or inaccurate; if unclear or unusually high, do not give it and contact the prescriber, then the supervisor.",
+     "zh": "執行醫囑，除非不適當或不正確；若不清楚或劑量異常，不給藥並聯絡開醫囑者，再通報主管。"
+    },
+    {
+     "en": "Telephone orders: identify client, date/time, read back, write 't.o.' with prescriber's name and sign; prescriber countersigns.",
+     "zh": "電話醫囑：確認病人、日期時間、覆誦、註明「t.o.」與醫師姓名並簽名；醫師事後簽署。"
+    },
+    {
+     "en": "Documentation: objective, factual, timely, black ink, sign each entry, no erasing, no blank spaces, no judgmental terms, no unacceptable abbreviations, correct errors per policy.",
+     "zh": "文件記錄：客觀、事實、即時、黑筆、每筆簽名、不擦拭、不留空白、不用評斷性字眼與禁用縮寫、依政策更正錯誤。"
+    },
+    {
+     "en": "Document teaching: what was taught, understanding, who was present.",
+     "zh": "記錄衛教：教了什麼、理解程度、在場者。"
+    }
+   ],
+   "pdf_pages": [
+    80,
+    81
+   ]
+  },
+  {
+   "heading": {
+    "en": "Advance directives and reporting duties",
+    "zh": "預立醫囑與通報責任"
+   },
+   "points": [
+    {
+     "en": "Patient Self-Determination Act: ask about advance directives on admission and document them.",
+     "zh": "病人自主權法：入院時詢問預立醫囑並記錄。"
+    },
+    {
+     "en": "Two types: instructional directive (living will) and durable power of attorney for health care (proxy).",
+     "zh": "兩類：指示型預立醫囑（生前遺囑）與醫療持續委任書（代理人）。"
+    },
+    {
+     "en": "DNR requires informed consent and clear definition; without a DNR order, make every effort to resuscitate; review regularly.",
+     "zh": "DNR 需知情同意且定義清楚；無 DNR 醫囑時須盡力急救；定期檢討。"
+    },
+    {
+     "en": "Some agencies bar nurses from witnessing legal documents; if allowed, document who was present and the client's conduct.",
+     "zh": "部分機構禁止護理師見證法律文件；若允許，須記錄在場者與病人表現。"
+    },
+    {
+     "en": "Mandatory reports: certain communicable diseases, animal bites, suicides, child/elder abuse, domestic violence, gunshot or stab wounds, assaults, homicides.",
+     "zh": "強制通報：特定傳染病、動物咬傷、自殺、兒童/老人虐待、家暴、槍傷或刀傷、攻擊、殺人。"
+    },
+    {
+     "en": "Suspected impaired coworker: report confidentially to the supervisor; client safety first. OSHA protects workers who report unsafe conditions; sexual harassment is prohibited.",
+     "zh": "懷疑同事受物質影響：向主管保密通報，病人安全優先。OSHA 保護通報不安全條件者；性騷擾受法律禁止。"
+    }
+   ],
+   "pdf_pages": [
+    81,
+    82
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Occurrence reports record facts only; do not mention the report in the chart.",
+   "zh": "事件報告只記錄事實；病歷中不提及該報告。",
+   "pdf_pages": [
+    80,
+    83,
+    84
+   ]
+  },
+  {
+   "en": "After a fall, reassess the client first.",
+   "zh": "病人跌倒後首先再評估病人。",
+   "pdf_pages": [
+    83,
+    84
+   ]
+  },
+  {
+   "en": "Emergency without a legal representative: treat; consent is not required if delay causes harm.",
+   "zh": "緊急且無法定代理人：直接治療；延誤會造成傷害時不需同意。",
+   "pdf_pages": [
+    78,
+    83,
+    84
+   ]
+  },
+  {
+   "en": "The provider explains the procedure for informed consent; the nurse witnesses the signature.",
+   "zh": "由醫師說明並取得知情同意；護理師見證簽名。",
+   "pdf_pages": [
+    77,
+    78
+   ]
+  },
+  {
+   "en": "A sedated, intoxicated, or unconscious client cannot give informed consent.",
+   "zh": "受鎮靜、醉酒或昏迷者不能給予知情同意。",
+   "pdf_pages": [
+    78
+   ]
+  },
+  {
+   "en": "If a client refuses surgery, hold preparation, explore concerns and notify the surgeon.",
+   "zh": "病人拒絕手術時暫停準備、探究顧慮並通知外科醫師。",
+   "pdf_pages": [
+    77
+   ]
+  },
+  {
+   "en": "Do not give an unclear or abnormal medication order; contact the prescriber, then the supervisor.",
+   "zh": "不執行不清楚或異常的醫囑；聯絡醫師，再通報主管。",
+   "pdf_pages": [
+    80,
+    84
+   ]
+  },
+  {
+   "en": "Suspected impaired nurse: report to the nursing supervisor.",
+   "zh": "懷疑護理師受物質影響：通報護理主管。",
+   "pdf_pages": [
+    82,
+    84
+   ]
+  },
+  {
+   "en": "Floating: clarify the assignment for safety; do not refuse unless union protection or proven incompetence.",
+   "zh": "調派支援：確認指派是否安全；除非有工會保障或能證明不具能力，否則不可拒絕。",
+   "pdf_pages": [
+    73,
+    74,
+    84
+   ]
+  },
+  {
+   "en": "Nurses are mandated reporters of child and elder abuse and domestic violence.",
+   "zh": "護理師為兒童、老人虐待與家暴的強制通報者。",
+   "pdf_pages": [
+    82
+   ]
+  },
+  {
+   "en": "HIPAA: share PHI only with those involved in care or with client authorization.",
+   "zh": "HIPAA：僅與參與照護者或經病人授權才分享 PHI。",
+   "pdf_pages": [
+    78,
+    79
+   ]
+  },
+  {
+   "en": "Documentation: factual, objective, no judgmental words such as 'uncooperative', black ink, no erasing.",
+   "zh": "文件記錄：客觀事實、不用『不合作』等評斷字、黑筆、不擦拭。",
+   "pdf_pages": [
+    81
+   ]
+  },
+  {
+   "en": "Malpractice elements: duty, breach, proximate cause, damage.",
+   "zh": "醫療疏失要件：義務、違反、因果關係、損害。",
+   "pdf_pages": [
+    74,
+    75
+   ]
+  },
+  {
+   "en": "Battery is touching without consent; assault is the threat of contact.",
+   "zh": "傷害行為是未經同意的觸碰；傷害威脅是接觸的威脅。",
+   "pdf_pages": [
+    75
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Ethical principles A-N-B-J-V-F: Autonomy, Nonmaleficence, Beneficence, Justice, Veracity, Fidelity.",
+   "zh": "倫理原則 A-N-B-J-V-F：自主、不傷害、行善、公正、誠實、忠誠。",
+   "pdf_pages": [
+    72
+   ]
+  },
+  {
+   "en": "Liability elements D-B-P-D: Duty, Breach, Proximate cause, Damage.",
+   "zh": "責任要件 D-B-P-D：義務、違反、因果關係、損害。",
+   "pdf_pages": [
+    74,
+    75
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 72,
+   "caption": {
+    "en": "Box 6.1: definitions of the six ethical principles.",
+    "zh": "Box 6.1：六大倫理原則定義。"
+   }
+  },
+  {
+   "pdf_page": 74,
+   "caption": {
+    "en": "Fig 6.1: sources of law and civil vs criminal categories relevant to nurses; Box 6.2 examples of negligence.",
+    "zh": "圖 6.1：護理相關法律來源與民事/刑事分類；Box 6.2 過失範例。"
+   }
+  },
+  {
+   "pdf_page": 77,
+   "caption": {
+    "en": "Box 6.4 types of consents; Box 6.5 incompetent clients; Clinical Judgment: client withdraws consent before surgery.",
+    "zh": "Box 6.4 同意書類型；Box 6.5 無行為能力者；臨床判斷：術前撤回同意。"
+   }
+  },
+  {
+   "pdf_page": 79,
+   "caption": {
+    "en": "Boxes 6.7-6.9: violations of privacy, maintaining confidentiality, social networking.",
+    "zh": "Box 6.7-6.9：侵犯隱私、維護保密、社群媒體。"
+   }
+  },
+  {
+   "pdf_page": 81,
+   "caption": {
+    "en": "Boxes 6.12-6.13: components of a medication prescription and documentation do's and don'ts.",
+    "zh": "Box 6.12-6.13：醫囑組成與文件記錄的應與不應。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client is found on the floor beside the bed. Which entry belongs on the occurrence report?",
+    "zh": "病人被發現躺在床邊地板。事件報告應寫下哪項？"
+   },
+   "options": [
+    {
+     "en": "The client fell out of bed",
+     "zh": "病人從床上摔下"
+    },
+    {
+     "en": "The client climbed over the side rails",
+     "zh": "病人爬過床欄"
+    },
+    {
+     "en": "The client was found lying on the floor",
+     "zh": "病人被發現躺在地板上"
+    },
+    {
+     "en": "The client was restless",
+     "zh": "病人躁動"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Reports contain observed facts, not interpretations.",
+    "zh": "報告只記錄觀察到的事實，不含推測。"
+   },
+   "pdf_pages": [
+    80,
+    83
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "An unconscious, unidentified trauma client needs emergency craniotomy. What is the best action regarding consent?",
+    "zh": "身分不明、昏迷的外傷病人需緊急開顱手術。關於同意，最佳作法為何？"
+   },
+   "options": [
+    {
+     "en": "Obtain a court order",
+     "zh": "取得法院命令"
+    },
+    {
+     "en": "Ask EMS to sign",
+     "zh": "請 EMS 簽名"
+    },
+    {
+     "en": "Transport to the OR",
+     "zh": "送往手術室"
+    },
+    {
+     "en": "Call police to find family first",
+     "zh": "先報警找家屬"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "In an emergency where delay risks death or injury, informed consent is not required.",
+    "zh": "緊急情況延誤可能致死或受傷時，不需知情同意。"
+   },
+   "pdf_pages": [
+    78,
+    84
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "After a fall with no injury and an occurrence report completed, what should the nurse do next?",
+    "zh": "病人跌倒未受傷且事件報告已完成。護理師下一步該做什麼？"
+   },
+   "options": [
+    {
+     "en": "Reassess the client",
+     "zh": "再評估病人"
+    },
+    {
+     "en": "Hold a staff meeting",
+     "zh": "召開員工會議"
+    },
+    {
+     "en": "Update the supervisor",
+     "zh": "向主管更新"
+    },
+    {
+     "en": "Chart that an occurrence report was filed",
+     "zh": "在護理記錄寫已填寫事件報告"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Complications may appear later; do not mention the report in the chart.",
+    "zh": "併發症可能延遲出現；病歷中不可提及事件報告。"
+   },
+   "pdf_pages": [
+    80,
+    84
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A nurse is told to float to an ICU she has never worked in. Best action?",
+    "zh": "護理師被指派支援從未去過的加護病房。最佳作法？"
+   },
+   "options": [
+    {
+     "en": "Refuse",
+     "zh": "拒絕"
+    },
+    {
+     "en": "Clarify the assignment with the team leader for safety",
+     "zh": "與組長確認指派是否安全"
+    },
+    {
+     "en": "Ask the supervisor to review policy",
+     "zh": "請主管檢視政策"
+    },
+    {
+     "en": "File a written protest and call a lawyer",
+     "zh": "提出書面抗議並聯絡律師"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Floating is acceptable; ensure the assignment matches your competence.",
+    "zh": "支援調派可接受；確保指派符合自身能力。"
+   },
+   "pdf_pages": [
+    73,
+    74,
+    84
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A nurse finds a coworker about to inject a clear liquid after tying a tourniquet in the medication room. Most appropriate action?",
+    "zh": "護理師在藥房發現同事綁止血帶、準備注射不明透明液體。最恰當的處置？"
+   },
+   "options": [
+    {
+     "en": "Call security",
+     "zh": "叫保全"
+    },
+    {
+     "en": "Call the police",
+     "zh": "報警"
+    },
+    {
+     "en": "Call the nursing supervisor",
+     "zh": "通知護理主管"
+    },
+    {
+     "en": "Lock the coworker in",
+     "zh": "把同事鎖起來"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Impaired nurses are reported to the supervisor, who notifies the board of nursing.",
+    "zh": "受物質影響的護理師應通報主管，由其通知護理委員會。"
+   },
+   "pdf_pages": [
+    82,
+    84
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A nurse entered 2 mg hydromorphone instead of the 1 mg given in the MAR. Which actions are correct? Select all that apply.",
+    "zh": "護理師在 MAR 誤輸入給予 2 mg 氫嗎啡酮，實際為 1 mg。哪些處置正確？（複選）"
+   },
+   "options": [
+    {
+     "en": "File an occurrence report",
+     "zh": "填寫事件報告"
+    },
+    {
+     "en": "Modify the entry silently",
+     "zh": "悄悄修改記錄"
+    },
+    {
+     "en": "Document the correction with signature and title",
+     "zh": "記錄更正並簽名與職稱"
+    },
+    {
+     "en": "Obtain cosignature from the witness of waste",
+     "zh": "取得浪費藥物見證者共同簽名"
+    },
+    {
+     "en": "Write a nurse's note with the corrected information",
+     "zh": "寫護理記錄說明更正內容"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ],
+   "rationale": {
+    "en": "Errors are corrected transparently per policy; silent edits are not acceptable.",
+    "zh": "錯誤須依政策公開更正，不可悄悄修改。"
+   },
+   "pdf_pages": [
+    81,
+    83
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which documentation entries are accurate? Select all that apply.",
+    "zh": "下列哪些護理記錄是正確的？（複選）"
+   },
+   "options": [
+    {
+     "en": "Client slept through the night",
+     "zh": "病人整夜睡眠"
+    },
+    {
+     "en": "Dressing dry and intact without drainage",
+     "zh": "敷料乾燥完整、無滲液"
+    },
+    {
+     "en": "Client seemed angry",
+     "zh": "病人似乎生氣"
+    },
+    {
+     "en": "Client appears anxious about treatments",
+     "zh": "病人似乎對治療焦慮"
+    },
+    {
+     "en": "Left leg wound 3 cm, no redness, drainage or edema",
+     "zh": "左下肢傷口 3 公分，無紅、滲液或水腫"
+    }
+   ],
+   "answer": [
+    1,
+    4
+   ],
+   "rationale": {
+    "en": "Document objective measurable findings; avoid interpretations and judgments.",
+    "zh": "記錄客觀可測量的發現；避免推測與評斷。"
+   },
+   "pdf_pages": [
+    81,
+    83
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "An older client discloses being hit by a family member. Which response is most appropriate?",
+    "zh": "老年病人透露被家人毆打。最恰當回應為何？"
+   },
+   "options": [
+    {
+     "en": "I will talk to your family member",
+     "zh": "我去和你家人談"
+    },
+    {
+     "en": "Let's work on time management",
+     "zh": "我們談談時間管理"
+    },
+    {
+     "en": "Do friends help you?",
+     "zh": "你有朋友可幫忙嗎？"
+    },
+    {
+     "en": "I am legally bound to report; I will stay with you and help find a safe place",
+     "zh": "我有法定通報義務；我會陪你並協助找安全住處"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Nurses are mandated reporters; maintain safety and support.",
+    "zh": "護理師為強制通報者；確保安全並給予支持。"
+   },
+   "pdf_pages": [
+    82,
+    84
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Ethical, HIPAA, and Legal Nursing Practice Questions for NCLEX (GoodNurse)",
+   "url": "https://goodnurse.com/free-nclex-practice-questions/ethical-hipaa-legal-issues-quiz",
+   "note": {
+    "en": "Free ethics, HIPAA and legal practice questions.",
+    "zh": "免費倫理、HIPAA 與法律練習題。"
+   }
+  },
+  {
+   "title": "HIPAA, Ethics, and Legal Practice Questions and NCLEX Review (Simple Nursing)",
+   "url": "https://simplenursing.com/hipaa-ethics-legal-nclex-practice-questions-review/",
+   "note": {
+    "en": "Practice questions with rationales.",
+    "zh": "附解析的練習題。"
+   }
+  },
+  {
+   "title": "NCLEX-RN Quiz: Client Rights And Advocacy (Varsity Tutors)",
+   "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/client-rights-and-advocacy",
+   "note": {
+    "en": "Short quiz on client rights; verify answers against the book.",
+    "zh": "病人權利短測驗；請對照教科書核對答案。"
+   }
+  },
+  {
+   "title": "NCLEX Management of Care Practice Test",
+   "url": "https://allhealthcarecareers.com/?p=47323",
+   "note": {
+    "en": "Free Management of Care questions.",
+    "zh": "照護管理免費練習題。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+"number":19,
+"title":{"en":"Growth, Development, and Stages of Life","zh":"成長、發展與生命階段"},
+"overview":{"en":"This chapter covers how hospitalization affects children at each age, communication and safety by developmental stage, well-child care, the childhood and adult immunization schedules, expected growth milestones from infancy through middle adulthood, gender identity, and end-of-life care. Age-appropriate play, safety teaching, vaccine contraindications and vital sign norms are heavily tested.","zh":"本章涵蓋各年齡層兒童住院反應、依發展階段的溝通與安全、兒童健康檢查、兒童與成人疫苗時程、嬰兒至中年的生長發展里程碑、性別認同與臨終照護。適齡遊戲、安全衛教、疫苗禁忌與生命徵象正常值為常考重點。"},
+"sections":[
+{"heading":{"en":"Hospitalized Infant, Toddler, Preschooler","zh":"住院的嬰兒、幼兒與學齡前兒童"},"points":[
+{"en":"Toddler separation anxiety has three phases: protest (crying, searching, aggression), despair (withdrawn, loses new skills), detachment (seems adjusted but is resignation; the most serious phase).","zh":"幼兒分離焦慮三階段：抗議（哭鬧、尋找、攻擊）、絕望（退縮、喪失新技能）、疏離（看似適應，實為放棄；最嚴重）。"},
+{"en":"Toddlers fear pain and loss of control; they regress, show tantrums and ritual disruption. Offer choices, keep home routines, allow comfort objects, play therapy, accept regression.","zh":"幼兒害怕疼痛與失控；會退化、發脾氣。提供選擇、維持家中作息、容許安慰物、遊戲治療、接納退化。"},
+{"en":"Infants: therapeutic touch, soft voice, pacifier for sucking even if NPO, contrasting colors and textures for stimulation.","zh":"嬰兒：治療性碰觸、輕柔聲音、即使禁食也提供奶嘴吸吮、對比色與質感刺激。"},
+{"en":"Preschoolers: separation anxiety is less obvious; fear mutilation and invasive procedures and think illness is punishment for their thoughts. Encourage rooming-in or a favorite toy, simple explanations, play, independence, same-age peers.","zh":"學齡前：分離焦慮較不明顯；害怕身體受損與侵入性處置，認為生病是自己想法或行為造成的。鼓勵陪住或帶心愛玩具、簡單說明、遊戲、獨立、同齡玩伴。"}],
+"pdf_pages":[277,278]},
+{"heading":{"en":"Hospitalized School-Age Child and Adolescent","zh":"住院的學齡兒童與青少年"},"points":[
+{"en":"School-age: worry about missing school and being forgotten by friends; fear injury, disability, death and genital exams; protest-despair-detachment seldom occur.","zh":"學齡兒童：擔心缺課與被朋友遺忘；害怕受傷、失能、死亡與生殖器檢查；少出現抗議-絕望-疏離。"},
+{"en":"Interventions: choices, involvement in care, body diagrams for explanations, privacy, schoolwork, contact with friends, accept regression but encourage independence.","zh":"措施：提供選擇、參與照護、用人體圖說明、保護隱私、學業安排、與朋友聯繫、接納退化並鼓勵獨立。"},
+{"en":"Adolescents: ambivalent about parents, upset at being excluded by friends, fear being different, guard sexual-development exams; may seem unafraid.","zh":"青少年：對父母態度矛盾、被朋友排除會難過、害怕與眾不同、對性發展檢查防衛；外表可能裝作不怕。"},
+{"en":"Support: privacy, own clothes and grooming, peer contact, schooling, future planning, positive coping.","zh":"支持：隱私、穿自己的衣服與整理儀容、同儕聯繫、教育、未來規劃、正向因應。"}],
+"pdf_pages":[278,279]},
+{"heading":{"en":"Communication, Car Safety and Preventive Care","zh":"溝通、汽車安全與預防保健"},"points":[
+{"en":"Infant: slow, calm approach, soft voice, respond to cries. Toddler: short concrete words, take words literally, prepare immediately before procedures, use play and let them handle equipment.","zh":"嬰兒：緩慢溫和接近、輕柔聲音、回應哭聲。幼兒：簡短具體用詞、字面理解、操作前才準備、用遊戲並讓其摸器材。"},
+{"en":"Preschooler: simple sentences, offer choices, play and equipment handling. School-age: clear explanation, photos/dolls/medical play. Adolescent: privacy, avoid judgmental, too abstract or prying talk.","zh":"學齡前：簡單句子、給選擇、遊戲與接觸器材。學齡兒童：清楚說明、照片/娃娃/醫療遊戲。青少年：保護隱私，避免批判、過度抽象或追問。"},
+{"en":"Back seat is safest for all children; follow manufacturer seat guidance; an 8-year-old 4 ft tall still needs a booster seat.","zh":"所有兒童坐後座最安全；依製造商指引使用安全座椅；8 歲、身高 4 英尺（約 122 公分）仍需增高墊。"},
+{"en":"Well-child visits follow AAP/Bright Futures (screenings include development, autism, vision, hearing, lead, anemia, depression).","zh":"依 AAP/Bright Futures 進行兒童健康檢查（篩檢包括發展、自閉症、視力、聽力、鉛、貧血、憂鬱）。"}],
+"pdf_pages":[279,280]},
+{"heading":{"en":"Immunizations: Principles and Childhood Schedule","zh":"疫苗：原則與兒童時程"},"points":[
+{"en":"Missed doses are given without restarting the series; vaccines can be given simultaneously; preterm infants get full doses at chronological age.","zh":"漏打只需補打不需重來；可同時接種；早產兒依實足年齡給足量。"},
+{"en":"Contraindications: anaphylaxis to prior dose or component; live vaccines not for severe immunodeficiency, pregnancy or gelatin sensitivity; caution with moderate/severe acute illness.","zh":"禁忌：先前劑量或成分過敏性休克；活性疫苗不用於嚴重免疫缺損、孕婦或明膠過敏者；中重度急性病需小心。"},
+{"en":"Administration: separate syringes and sites; IM in vastus lateralis (deltoid from 36 months); IM needle 1 inch 23-25 g, subcutaneous 5/8 inch 25 g; observe 15-30 minutes; report adverse events.","zh":"給藥：分開針筒與部位；肌肉注射於股外側肌（36 個月起可用三角肌）；IM 針 1 英寸 23-25 號、皮下針 5/8 英寸 25 號；觀察 15-30 分鐘；通報不良反應。"},
+{"en":"Schedule: birth HepB; 2, 4, 6 mo DTaP, Hib, IPV, PCV, RV; 12-15 mo MMR, varicella, HepA, PCV, Hib; 4-6 yr DTaP, IPV, MMR, varicella; 11-12 yr Tdap, MCV4, HPV. Flu yearly from 6 months.","zh":"時程：出生 HepB；2、4、6 個月 DTaP、Hib、IPV、PCV、RV；12-15 個月 MMR、水痘、A 肝、PCV、Hib；4-6 歲 DTaP、IPV、MMR、水痘；11-12 歲 Tdap、MCV4、HPV。6 個月起每年流感。"},
+{"en":"Mother HBsAg positive: infant gets HepB vaccine and HBIG within 12 hours of birth.","zh":"母親 HBsAg 陽性：嬰兒 12 小時內接種 HepB 疫苗並給 HBIG。"},
+{"en":"Rotavirus is oral; MMR, varicella, IPV given subcutaneously; delay MMR 3-6 months after immunoglobulin; avoid aspirin after varicella vaccine (Reye syndrome).","zh":"輪狀病毒為口服；MMR、水痘、IPV 皮下注射；注射免疫球蛋白後 MMR 延後 3-6 個月；水痘疫苗後避免阿斯匹靈（Reye 症候群）。"}],
+"pdf_pages":[281,282,283]},
+{"heading":{"en":"Other Vaccines, Adult Immunizations and Reactions","zh":"其他疫苗、成人疫苗與反應"},"points":[
+{"en":"MCV4 at 11-12 yr with booster at 16; contraindicated with history of Guillain-Barre syndrome. HPV 3 doses over 6 months if started at 11-12 yr; avoid in pregnancy.","zh":"MCV4 於 11-12 歲接種、16 歲追加；有格林巴利症候群病史者禁用。HPV 若 11-12 歲開始需 3 劑（6 個月內）；孕期避免。"},
+{"en":"Adults: yearly flu, Tdap then Td every 10 years, Tdap each pregnancy, zoster recombinant 2 doses at 50+, pneumococcal at 65+.","zh":"成人：每年流感、Tdap 後每 10 年 Td、每次懷孕打 Tdap、50 歲以上帶狀疱疹重組疫苗 2 劑、65 歲以上肺炎鏈球菌。"},
+{"en":"Local reactions: tenderness, redness, low fever; cool compresses first 24 hours; acetaminophen or ibuprofen every 4-6 hr.","zh":"局部反應：觸痛、紅腫、低燒；前 24 小時冷敷；每 4-6 小時給乙醯胺酚或布洛芬。"},
+{"en":"Anaphylaxis: secure airway, epinephrine, fluids, vasopressors, CPR if needed.","zh":"過敏性休克：確保呼吸道、給 epinephrine、輸液、升壓劑，必要時 CPR。"},
+{"en":"COVID-19 vaccine: rare myocarditis/pericarditis; report chest pain, dyspnea, palpitations.","zh":"COVID-19 疫苗：罕見心肌炎/心包炎；胸痛、呼吸困難、心悸須通報。"}],
+"pdf_pages":[283,284]},
+{"heading":{"en":"Infant Development","zh":"嬰兒發展"},"points":[
+{"en":"Birth weight doubles at 5-6 months and triples at 12 months; length rises 50% by 1 year; head circumference 33-35 cm at birth.","zh":"體重 5-6 個月加倍、12 個月三倍；1 歲身長增加 50%；出生頭圍 33-35 公分。"},
+{"en":"Posterior fontanel closes by 4 months; anterior by 18 months; soft and flat is normal; first teeth (lower central incisors) at 6-10 months.","zh":"後囟門 4 個月前閉合；前囟門 18 個月前閉合；軟而平為正常；6-10 個月長出下中門牙。"},
+{"en":"Vital signs: newborn HR 120-160, RR 30-60; 1-year-old HR 90-130, RR 20-40, BP 90/56.","zh":"生命徵象：新生兒心跳 120-160、呼吸 30-60；1 歲心跳 90-130、呼吸 20-40、血壓 90/56。"},
+{"en":"Nutrition: breast milk preferred for 6 months; vitamin D 400 IU for breastfed infants; iron stores depleted by 4 months; solids at 5-6 months one at a time every 4-5 days (iron-fortified rice cereal first); no cow's milk before 12 months, no honey under 12 months, no microwaving bottles, avoid choking foods.","zh":"營養：6 個月內以母乳為佳；純母乳嬰兒補充維生素 D 400 IU；4 個月鐵質儲存耗盡；5-6 個月起一次一種副食品、間隔 4-5 天（先吃強化鐵米糊）；12 個月前不喝牛奶、不吃蜂蜜、不微波奶瓶、避免易噎食物。"},
+{"en":"Milestones: social smile 2-3 mo, rolls over 4-5 mo, sits with support and stranger fear 6-7 mo, sits unsupported and crawls 8-9 mo, walks alone 14-15 mo.","zh":"里程碑：2-3 個月社交性微笑、4-5 個月翻身、6-7 個月扶坐與怕生、8-9 個月獨坐與爬行、14-15 個月獨自走路。"},
+{"en":"Safety: baby-proof, never leave on bed or in bath, no small toys, cords away, poison control number, never shake an infant.","zh":"安全：居家防護、不讓嬰兒獨自在床上或浴缸、避免小零件玩具、繩索遠離、備毒物中心電話、絕不搖晃嬰兒。"}],
+"pdf_pages":[284,285,286]},
+{"heading":{"en":"Toddler and Preschooler Development","zh":"幼兒與學齡前兒童發展"},"points":[
+{"en":"Toddler: gains about 3 in/yr, 22-27 lb at 2 yr, lordosis (potbelly) normal, anterior fontanel closes 12-18 months, one nap, vital signs HR 80-120, RR 20-30.","zh":"幼兒：每年長高約 7.5 公分、2 歲體重 10-12 公斤、腹部凸出（腰椎前凸）正常、前囟門 12-18 個月閉合、一次午睡、心跳 80-120、呼吸 20-30。"},
+{"en":"Toddler diet: 2-3 servings milk daily (24-30 oz), small meals, physiological anorexia normal, no bottle to bed, avoid choking foods, no food as reward.","zh":"幼兒飲食：每天 2-3 份奶（700-800 mL）、少量多餐、生理性厭食正常、不含奶瓶入睡、避免易噎食物、不以食物當獎懲。"},
+{"en":"Toddler skills: runs by 2, hops on one foot by 3; about 300 words at 2; parallel play; toilet readiness signs (dry 2 hr, sits 5-10 min); bowel control precedes bladder.","zh":"幼兒技能：2 歲會跑、3 歲單腳跳；2 歲約 300 字；平行遊戲；如廁準備徵象（乾燥 2 小時、可坐 5-10 分鐘）；先控制排便再控制排尿。"},
+{"en":"Toddler safety: back stove burners, pot handles inward, gates, window locks, never alone near water, lock poisons.","zh":"幼兒安全：用後排爐頭、鍋柄朝內、安全門、窗鎖、水邊不離人、毒物上鎖。"},
+{"en":"Preschooler: 5 lb and 2.5-3 in per year, 12 hr sleep, alternates feet on stairs, cooperative and imaginative play, imaginary friends, magical thinking; teach fire, gun, stranger and 911 safety; guns locked unloaded.","zh":"學齡前：每年增加 2.25 公斤與 6.5-7.5 公分、睡 12 小時、可雙腳交替上樓、合作性與想像遊戲、假想玩伴、魔幻思考；教導火、槍、陌生人與 119/911 安全；槍械退彈上鎖。"},
+{"en":"Preschooler vital signs HR 70-110, RR 16-22; vocabulary 900 words at 3 yr, 2100 at 5 yr.","zh":"學齡前生命徵象心跳 70-110、呼吸 16-22；3 歲詞彙約 900 字、5 歲約 2100 字。"}],
+"pdf_pages":[286,287,288]},
+{"heading":{"en":"School-Age, Adolescent and Adult Development","zh":"學齡、青少年與成人發展"},"points":[
+{"en":"School-age: 2 in/yr, 4.5-6.5 lb/yr, permanent teeth from age 6, 10-12 hr sleep, competitive rule-based play, vital signs HR 60-100, RR 18-20; helmets, traffic and water safety.","zh":"學齡：每年 5 公分、2-3 公斤、6 歲起恆齒、睡 10-12 小時、有規則的競爭遊戲、心跳 60-100、呼吸 18-20；戴安全帽、交通與水上安全。"},
+{"en":"Adolescent: puberty, menses about 2.5 years after puberty onset, risk-taking; teach about substances, seat belts, diving feet-first, STIs, internet safety; vitals HR 55-90, RR 12-20.","zh":"青少年：青春期、初經約在青春期開始後 2.5 年、冒險行為；教導物質濫用、安全帶、腳先入水、性傳染病、網路安全；心跳 55-90、呼吸 12-20。"},
+{"en":"Early adulthood: separation from family, career/marriage decisions, ignores symptoms, STI risk. Middle adulthood: menopause/climacteric, generativity, empty nest, body image concerns.","zh":"成年早期：脫離原生家庭、職涯婚姻決定、忽略症狀、性傳染病風險。成年中期：更年期、生產力（generativity）、空巢、身體形象。"},
+{"en":"Gender identity is personal sense of gender; gender expression is outward expression; sexual orientation is attraction. Support children with unconditional acceptance, watch for depression, prepare for bullying.","zh":"性別認同為個人對自身性別的感受；性別表達為對外表現；性傾向為吸引對象。以無條件接納支持孩子、留意憂鬱、預備霸凌因應。"}],
+"pdf_pages":[288,289,290,291]},
+{"heading":{"en":"End-of-Life Care","zh":"臨終照護"},"points":[
+{"en":"Care follows client wishes: advance directives, organ donation, withholding or withdrawing treatment, CPR. Palliative/hospice care focuses on comfort not cure.","zh":"依個案意願：預立醫囑、器官捐贈、不給予或撤除治療、CPR。安寧緩和照護著重舒適而非治癒。"},
+{"en":"Near-death signs: slowed metabolism, blurred vision, hearing lost last, noisy respirations (death rattle), Cheyne-Stokes, slow HR and falling BP, cool mottled extremities, less urine, constipation, Kennedy terminal ulcer on sacrum.","zh":"臨終徵象：代謝減慢、視力模糊、聽力最後消失、痰鳴（死前嘎嘎聲）、陳施氏呼吸、心跳慢血壓降、四肢冰冷斑駁、尿量減少、便秘、薦骨肯尼迪終末潰瘍。"},
+{"en":"Comfort care: never delay pain medication; elevate head of bed and oxygen for dyspnea; oral care, ice chips, do not force food; do not restrain restless client.","zh":"舒適照護：不延誤止痛；呼吸困難時抬高床頭並給氧；口腔照護、冰塊、不強迫進食；躁動者不約束。"},
+{"en":"Address fears: pain, loneliness, being meaningless; allow family presence, touch if culturally acceptable, life review.","zh":"處理恐懼：疼痛、孤獨、無意義感；容許家屬陪伴、文化允許時碰觸、生命回顧。"},
+{"en":"Respect culture and religion; ask the family about preferences. Postmortem care: dignity, check organ donor status, close eyes, replace dentures, wash, remove tubes, allow viewing; preserve evidence for medical examiner cases.","zh":"尊重文化與宗教，詢問家屬偏好。遺體護理：維護尊嚴、確認器官捐贈、闔眼、裝回假牙、清潔、拔除管路、讓家屬瞻仰；需法醫案件須保留證據。"}],
+"pdf_pages":[291,292,293]}
+],
+"critical_points":[
+{"en":"Detachment is the most serious phase of separation; the toddler looks adjusted but is resigned.","zh":"疏離是分離反應中最嚴重階段；幼兒看似適應其實是放棄。","pdf_pages":[277]},
+{"en":"Preschoolers think illness is punishment and fear mutilation; use simple explanations and rooming-in.","zh":"學齡前兒童認為生病是懲罰並害怕身體受損；用簡單說明並鼓勵陪住。","pdf_pages":[278]},
+{"en":"Hospitalized adolescents most fear separation from peers; school-age children fear missing school.","zh":"住院青少年最怕與同儕分離；學齡兒童擔心缺課。","pdf_pages":[278,279]},
+{"en":"Vital sign norms: newborn HR 120-160, RR 30-60; 1-yr RR 20-40; toddler HR 80-120; preschool HR 70-110; school-age HR 60-100; adolescent HR 55-90.","zh":"生命徵象正常值：新生兒心跳 120-160、呼吸 30-60；1 歲呼吸 20-40；幼兒心跳 80-120；學齡前 70-110；學齡 60-100；青少年 55-90。","pdf_pages":[284,285,286,288,289,290]},
+{"en":"Anterior fontanel soft and flat is normal; closes by 18 months. Posterior closes by 4 months.","zh":"前囟門軟而平為正常，18 個月前閉合；後囟門 4 個月前閉合。","pdf_pages":[284]},
+{"en":"No honey or cow's milk under 12 months; no solids before 4-6 months; no microwaving bottles.","zh":"12 個月前不可蜂蜜與牛奶；4-6 個月前不加副食品；不微波奶瓶。","pdf_pages":[285]},
+{"en":"Vitamin D 400 IU for breastfed infants; iron supplement when iron stores deplete at 4 months.","zh":"母乳嬰兒補充維生素 D 400 IU；4 個月鐵質耗盡時補鐵。","pdf_pages":[285]},
+{"en":"Never let a toddler sleep with a bottle of milk or juice (bottle-mouth caries).","zh":"幼兒不可含奶瓶（奶或果汁）入睡（奶瓶性齲齒）。","pdf_pages":[286]},
+{"en":"Choking foods for infants and toddlers: nuts, grapes, popcorn, raisins, hot dog pieces, seeds.","zh":"嬰幼兒易噎食物：堅果、葡萄、爆米花、葡萄乾、熱狗片、帶籽食物。","pdf_pages":[285,287]},
+{"en":"Never shake an infant (shaken baby syndrome).","zh":"絕不搖晃嬰兒（嬰兒搖晃症候群）。","pdf_pages":[286]},
+{"en":"Vaccines: anaphylaxis is a contraindication; live vaccines avoided in pregnancy and severe immunodeficiency; mild illness is not a contraindication.","zh":"疫苗：過敏性休克為禁忌；活性疫苗孕期與嚴重免疫缺損避免；輕微疾病不是禁忌。","pdf_pages":[281]},
+{"en":"Infant of HBsAg-positive mother gets HepB vaccine plus HBIG within 12 hours.","zh":"HBsAg 陽性母親之嬰兒 12 小時內給 HepB 疫苗加 HBIG。","pdf_pages":[282]},
+{"en":"Avoid aspirin after varicella vaccine; delay MMR 3-6 months after immunoglobulin.","zh":"水痘疫苗後避免阿斯匹靈；免疫球蛋白後 MMR 延後 3-6 個月。","pdf_pages":[282,283]},
+{"en":"Infant IM vaccines go in vastus lateralis; observe 15-30 minutes after any vaccine for anaphylaxis.","zh":"嬰兒肌肉注射選股外側肌；接種後觀察 15-30 分鐘以防過敏性休克。","pdf_pages":[281,284]},
+{"en":"Car safety: back seat for all children; booster for 8-year-old under 4 ft 9 in.","zh":"汽車安全：兒童坐後座；8 歲、未滿 4 英尺 9 英寸者用增高墊。","pdf_pages":[280,294]},
+{"en":"Never delay pain medication for the dying client; do not restrain restlessness; hearing is last sense lost.","zh":"臨終個案不延誤止痛；躁動不約束；聽覺最後消失。","pdf_pages":[291,293]},
+{"en":"Kennedy terminal ulcer on the sacrum signals the dying process.","zh":"薦骨肯尼迪終末潰瘍預示瀕死過程。","pdf_pages":[292]}
+],
+"mnemonics":[
+{"en":"Separation response: P-D-D = Protest, Despair, Detachment.","zh":"分離反應 P-D-D：抗議、絕望、疏離。","pdf_pages":[277]},
+{"en":"Weight rule: birth weight doubles at 5-6 months, triples at 12 months.","zh":"體重規則：5-6 個月兩倍、12 個月三倍。","pdf_pages":[284]},
+{"en":"Posterior fontanel closes at 2-4 months-ish ('4 months'); anterior by 18 months ('12-18').","zh":"後囟門約 4 個月前；前囟門約 12-18 個月。","pdf_pages":[284]}
+],
+"figures":[
+{"pdf_page":280,"caption":{"en":"Box 19.2 and 19.3: preventive screenings and well-child visit schedule.","zh":"框 19.2、19.3：預防性篩檢與兒童健康檢查時程。"}},
+{"pdf_page":281,"caption":{"en":"Box 19.4: guidelines for vaccine administration (sites, needles, storage, documentation).","zh":"框 19.4：疫苗接種指引（部位、針具、保存、記錄）。"}},
+{"pdf_page":282,"caption":{"en":"Box 19.5: recommended childhood and adolescent immunization schedule.","zh":"框 19.5：兒童與青少年建議疫苗時程。"}},
+{"pdf_page":284,"caption":{"en":"Box 19.6: recommended adult immunizations.","zh":"框 19.6：成人建議疫苗。"}},
+{"pdf_page":285,"caption":{"en":"Box 19.7 newborn/infant vital signs and Box 19.8 infant motor and social skills by age.","zh":"框 19.7 新生兒與嬰兒生命徵象及框 19.8 各月齡嬰兒技能。"}},
+{"pdf_page":287,"caption":{"en":"Box 19.10 toilet training readiness signs.","zh":"框 19.10 如廁訓練準備徵象。"}},
+{"pdf_page":292,"caption":{"en":"Box 19.14 religion and end-of-life care.","zh":"框 19.14 宗教與臨終照護。"}},
+{"pdf_page":293,"caption":{"en":"Boxes 19.15-19.17: physical care of the dying, fears, and postmortem procedures.","zh":"框 19.15-19.17：臨終者身體照護、恐懼與遺體護理。"}}
+],
+"questions":[
+{"stem":{"en":"A 4-year-old hospitalized for chemotherapy is fearful. Which intervention best reduces fear?","zh":"4 歲兒童因化療住院而害怕。哪項措施最能減輕恐懼？"},"options":[{"en":"Encourage parents to stay with the child","zh":"鼓勵父母陪伴"},{"en":"Visits only in scheduled hours","zh":"僅限固定探視時間"},{"en":"Private room only","zh":"僅提供單人房"},{"en":"Play with other children","zh":"與其他孩子遊戲"}],"answer":[0],"rationale":{"en":"Separation anxiety is the main fear; parental presence reduces it. Peer play may expose an immunocompromised child to infection.","zh":"分離焦慮為主要恐懼，父母陪伴可減輕；與他童遊戲對免疫低下兒童有感染風險。"},"pdf_pages":[278,296],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which car safety device is appropriate for an 8-year-old who is 4 feet tall?","zh":"8 歲、身高 4 英尺的兒童適合哪種汽車安全裝置？"},"options":[{"en":"Seat belt alone","zh":"僅安全帶"},{"en":"Booster seat","zh":"增高墊"},{"en":"Rear-facing convertible seat","zh":"後向式可轉換座椅"},{"en":"Front-facing convertible seat","zh":"前向式可轉換座椅"}],"answer":[1],"rationale":{"en":"The child has outgrown a harnessed seat but is too small for the seat belt to fit; a booster is used in the back seat.","zh":"已超過安全座椅限制但體型仍不適合安全帶；坐後座並用增高墊。"},"pdf_pages":[280,294],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A 12-month-old with a respiratory infection has RR 35. What should the nurse do?","zh":"12 個月大嬰兒呼吸道感染，呼吸 35 次/分。護理師應如何處理？"},"options":[{"en":"Administer oxygen","zh":"給氧"},{"en":"Document the finding","zh":"記錄此發現"},{"en":"Notify the pediatrician","zh":"通知小兒科醫師"},{"en":"Recheck in 15 minutes","zh":"15 分鐘後再測"}],"answer":[1],"rationale":{"en":"Normal RR at 1 year is 20-40.","zh":"1 歲正常呼吸 20-40 次/分。"},"pdf_pages":[285,294],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which interventions are appropriate for an infant? Select all that apply.","zh":"哪些措施適合嬰兒？（複選）"},"options":[{"en":"Swaddle","zh":"包巾包裹"},{"en":"Talk loudly","zh":"大聲說話"},{"en":"Give juice bottle at nap time","zh":"午睡給果汁奶瓶"},{"en":"Hang high-contrast mobiles","zh":"懸掛高對比色吊飾"},{"en":"Caress during bathing and diaper changes","zh":"洗澡換尿布時撫觸"},{"en":"Let cry 10 minutes before responding","zh":"哭 10 分鐘後再回應"}],"answer":[0,3,4],"rationale":{"en":"Infants need responsive nurturing, a calm voice and visual stimulation; juice bottles cause caries.","zh":"嬰兒需要及時回應、輕柔聲音與視覺刺激；果汁奶瓶造成齲齒。"},"pdf_pages":[277,285,295],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which are general contraindications to a live virus vaccine? Select all that apply.","zh":"下列哪些為活性疫苗的一般禁忌？（複選）"},"options":[{"en":"Cold symptoms","zh":"感冒症狀"},{"en":"Prior anaphylactic reaction to the vaccine","zh":"先前對該疫苗過敏性休克"},{"en":"Intermittent diarrhea","zh":"間歇性腹瀉"},{"en":"Severely deficient immune system","zh":"嚴重免疫缺損"},{"en":"Recent exposure to an infection","zh":"近期暴露於感染"}],"answer":[1,3],"rationale":{"en":"Mild illness and exposure are not contraindications.","zh":"輕微疾病與暴露不是禁忌。"},"pdf_pages":[281,295],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A parent calls with swelling and redness at the DTaP injection site of an infant. What should the nurse advise?","zh":"嬰兒打 DTaP 後注射部位紅腫，家長來電。護理師應如何建議？"},"options":[{"en":"Bring in immediately","zh":"立即帶回診所"},{"en":"Apply a hot pack","zh":"熱敷"},{"en":"Apply a cool compress for the first 24 hours and monitor for fever","zh":"前 24 小時冷敷並監測發燒"},{"en":"Give aspirin","zh":"給阿斯匹靈"}],"answer":[2],"rationale":{"en":"Local reactions are expected; cool compresses first 24 hours; acetaminophen/ibuprofen if needed. Never aspirin in children.","zh":"局部反應屬預期，前 24 小時冷敷；必要時乙醯胺酚/布洛芬。兒童不可用阿斯匹靈。"},"pdf_pages":[281,295],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"A 3-year-old insists on a bottle of juice at nap and bedtime. What is the best advice?","zh":"3 歲兒童堅持午睡與睡前含果汁奶瓶。最佳建議為何？"},"options":[{"en":"Allow a bottle with juice","zh":"可給果汁奶瓶"},{"en":"Allow a bottle with water","zh":"可給水瓶"},{"en":"Do not allow a bottle; use a cup and a comfort object","zh":"不給奶瓶，改用杯子與安慰物"},{"en":"Allow at naps only","zh":"僅午睡時可給"}],"answer":[2],"rationale":{"en":"Sleeping with a bottle causes bottle-mouth caries; wean to cup.","zh":"含奶瓶入睡造成奶瓶性齲齒；應改用杯子。"},"pdf_pages":[286,295],"source":{"type":"original","title":"Original practice question based on the chapter"}},
+{"stem":{"en":"Which techniques are appropriate when communicating with the family of a dying client? Select all that apply.","zh":"與臨終個案家屬溝通時，哪些技巧合適？（複選）"},"options":[{"en":"Discourage reminiscing","zh":"不鼓勵回憶"},{"en":"Make decisions for the family","zh":"替家屬做決定"},{"en":"Encourage expression of feelings and fears","zh":"鼓勵表達感受與恐懼"},{"en":"Touch or hold a hand if culturally appropriate","zh":"文化允許時握手或碰觸"},{"en":"Be honest and assure they will not be abandoned","zh":"誠實並保證不會被遺棄"}],"answer":[2,3,4],"rationale":{"en":"Supportive, honest and culturally sensitive communication is key.","zh":"重點為支持、誠實並尊重文化。"},"pdf_pages":[293,295],"source":{"type":"original","title":"Original practice question based on the chapter"}}
+],
+"resources":[
+{"title":"Growth and Development NCLEX Practice Questions (Nurseslabs)","url":"https://nurseslabs.com/growth-and-development-nclex-questions/","note":{"en":"Free 50-item growth and development quiz with rationales.","zh":"免費 50 題成長發展測驗，含解析。"}},
+{"title":"NCLEX-RN Quiz: Growth and Development Milestones (Varsity Tutors)","url":"https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/growth-and-development-milestones","note":{"en":"Free short quiz on developmental milestones.","zh":"免費發展里程碑短測驗。"}},
+{"title":"Developmental Stages: Infancy through Older Adult (Open Exam Prep)","url":"https://open-exam-prep.com/study-guides/nclex-rn/health-promotion-maintenance/developmental-stages","note":{"en":"Study guide comparing stages including Erikson and Piaget.","zh":"各發展階段學習指南，含 Erikson 與 Piaget 比較。"}},
+{"title":"Full-text Growth and Development 50 Questions (Nurseslabs)","url":"https://nurseslabs.com/full-text-growth-and-development-50-questions/","note":{"en":"All 50 questions on one page for printing.","zh":"50 題完整單頁，可列印。"}}
+]
+}

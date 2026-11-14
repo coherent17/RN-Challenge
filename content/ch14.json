@@ -1,0 +1,182 @@
+{
+  "number": 14,
+  "title": {"en": "Medication Administration and Intravenous Therapies", "zh": "給藥與靜脈治療"},
+  "overview": {
+    "en": "This chapter reviews medication measurement systems, unit conversions, reading labels and prescriptions, oral and parenteral administration, syringes and injection sites, and dosage and IV flow-rate calculations. NCLEX expects you to calculate drops per minute, mL per hour and unit-per-hour infusions accurately and to question unsafe doses.",
+    "zh": "本章複習藥物計量系統、單位換算、藥物標籤與處方判讀、口服與注射給藥、針筒與注射部位，以及劑量與靜脈輸液速率計算。NCLEX 要求能精確計算每分鐘滴數、每小時毫升數與每小時單位數的輸注，並能質疑不安全的劑量。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Medication Administration Overview and Rights", "zh": "給藥概述與給藥權利"},
+      "points": [
+        {"en": "Assess the order, reconcile with current medications, ask about allergies and herbal use, and review vital signs, labs and interactions before giving a drug.", "zh": "給藥前評估醫囑、與現用藥物核對（藥物整合）、詢問過敏與草藥使用，並檢視生命徵象、檢驗值與交互作用。"},
+        {"en": "Rights include right prescription, medication, dose, client, route, time, reason, education, assessment, refusal, approach, evaluation and documentation.", "zh": "給藥權利包括正確的處方、藥物、劑量、個案、途徑、時間、原因、衛教、評估、拒絕權、技術方式、評值及記錄。"},
+        {"en": "Teach the client the drug name, purpose, action and adverse effects; address cultural, religious or other concerns.", "zh": "向個案說明藥名、目的、作用與不良反應，並處理文化、宗教等顧慮。"},
+        {"en": "Document administration and the client's response. If an order is unclear or inconsistent, contact the prescriber immediately.", "zh": "記錄給藥及個案反應。若醫囑不清或前後不一致，須立即聯絡開立者確認。"},
+        {"en": "A nurse who gives a wrong dose is legally responsible regardless of the source of the error.", "zh": "不論錯誤來源為何，護理師給錯劑量須負法律責任。"}
+      ],
+      "pdf_pages": [205, 206]
+    },
+    {
+      "heading": {"en": "Measurement Systems and Conversions", "zh": "計量系統與換算"},
+      "points": [
+        {"en": "Metric basics: meter (length), liter (volume), gram (mass). It is the most used system in practice.", "zh": "公制基本單位：公尺（長度）、公升（容積）、公克（質量），是臨床最常用系統。"},
+        {"en": "1 g = 1000 mg; 1 mg = 1000 mcg; 1 kg = 2.2 lb; 1 mL = 0.001 L.", "zh": "1 g = 1000 mg；1 mg = 1000 mcg；1 kg = 2.2 lb；1 mL = 0.001 L。"},
+        {"en": "Larger to smaller unit: multiply by 1000 (move decimal 3 places right). Smaller to larger: divide by 1000 (3 places left).", "zh": "大單位換小單位：乘以1000（小數點右移3位）；小單位換大單位：除以1000（左移3位）。"},
+        {"en": "Household measures (drop, teaspoon, tablespoon, ounce, cup) and apothecary units (grain, dram, minim) are older; NCLEX will not ask apothecary-to-metric conversion, though 1 gr = 60 mg appears in an example.", "zh": "家用單位（滴、茶匙、湯匙、盎司、杯）與藥衡制（grain、dram、minim）較舊；NCLEX 不考藥衡制換算公制，但書中範例用 1 gr = 60 mg。"},
+        {"en": "mEq expresses electrolyte amounts; units (insulin, heparin, penicillin) measure drug activity rather than weight.", "zh": "mEq 表示電解質量；單位（胰島素、肝素、青黴素）以藥效而非重量計量。"},
+        {"en": "Conversion is the first step in dosage calculation; labels show the generic name, so learn generic names.", "zh": "換算是劑量計算的第一步；藥標一定有學名，考試以學名為主。"}
+      ],
+      "pdf_pages": [205, 206, 207]
+    },
+    {
+      "heading": {"en": "Oral Medications and Prescriptions", "zh": "口服藥物與處方"},
+      "points": [
+        {"en": "A complete prescription has client name, date/time, drug, dose, route, frequency/time and prescriber signature; use only Joint Commission-approved abbreviations.", "zh": "完整處方包括個案姓名、日期時間、藥名、劑量、途徑、頻率/時間及開立者簽名；僅用聯合委員會核可的縮寫。"},
+        {"en": "Scored tablets may be split; enteric-coated and sustained-release products delay absorption and must not be crushed.", "zh": "有刻痕的錠劑可依規定分割；腸溶錠與緩釋劑延遲吸收，不可壓碎。"},
+        {"en": "Medicine cup holds 30 mL (1 oz); pour at eye level on a flat surface. Volumes under 5 mL are measured in a syringe (no needle).", "zh": "藥杯容量30 mL（1盎司）；置於平面並平視刻度倒藥。小於5 mL以去針頭的針筒抽取。"},
+        {"en": "Use a calibrated oral syringe for children.", "zh": "兒童使用有刻度的口服針筒。"}
+      ],
+      "pdf_pages": [206, 207]
+    },
+    {
+      "heading": {"en": "Parenteral Medications, Syringes and Needles", "zh": "注射藥物、針筒與針頭"},
+      "points": [
+        {"en": "Parenteral routes: IV, IM, subcutaneous, intradermal. Angles: intradermal 5-15 degrees, subcutaneous 45 or 90 degrees, IM 90 degrees.", "zh": "注射途徑：靜脈、肌肉、皮下、皮內。角度：皮內5-15度、皮下45或90度、肌肉90度。"},
+        {"en": "Draw to the top ring of the plunger (closest to the needle). Standard 3-mL syringe is calibrated in 0.1 mL; 5-mL in 0.2 mL; tuberculin 1-mL in 0.01 mL.", "zh": "抽藥時以活塞最靠針頭端的環對齊刻度。標準3 mL針筒刻度0.1 mL；5 mL為0.2 mL；結核菌素1 mL為0.01 mL。"},
+        {"en": "Maximum volumes: IM 3 mL per site (2 mL deltoid); subcutaneous 0.5-1.5 mL for adults. Question larger volumes.", "zh": "最大注射量：肌肉每處3 mL（三角肌2 mL）；成人皮下0.5-1.5 mL。超量須再確認。"},
+        {"en": "Subcutaneous: 25-gauge 5/8-inch needle at 45 degrees or 1/2-inch at 90 degrees. IM needle length depends on weight and fat; larger gauge for viscous drugs. Z-track uses a deep muscle such as ventrogluteal.", "zh": "皮下：25號、5/8吋針以45度，或1/2吋針以90度。肌肉針長依體重與脂肪厚度而定，黏稠藥物用較粗針；Z字法選深層肌肉如腹臀肌。"},
+        {"en": "Insulin only in insulin syringes (100 units = 1 mL). Mixing: draw clear regular first, then NPH (RN). Pens and pumps are alternatives.", "zh": "胰島素僅用胰島素針筒（100單位 = 1 mL）。混合時先抽透明的 Regular，再抽 NPH（RN）。另有胰島素筆與幫浦。"},
+        {"en": "Prefilled cartridges are single use; discard extra before injecting a partial dose. Engage safety needle device right after injection.", "zh": "預充式卡匣單次使用；給部分劑量時先丟棄多餘藥量。注射後立即啟動安全針具。"},
+        {"en": "Powdered drugs are reconstituted with sterile diluent per label; the final volume exceeds the diluent volume; label multidose vials with date, time, initials and expiration.", "zh": "粉劑依標示以無菌稀釋液調製；最終體積大於稀釋液體積；多劑量瓶須標註日期時間、簽名縮寫及有效期。"}
+      ],
+      "pdf_pages": [207, 208, 209]
+    },
+    {
+      "heading": {"en": "Dosage Calculation Methods", "zh": "劑量計算方法"},
+      "points": [
+        {"en": "Ratio and proportion: H : V :: D : X. Standard formula: (Desired / Available) x Quantity.", "zh": "比例法：H : V :: D : X。標準公式：（所需量／現有量）× 單位量。"},
+        {"en": "Dimensional analysis: start with the desired unit, set conversion fractions so unwanted units cancel.", "zh": "單位分析法：先確定所求單位，排列換算分數使不需要的單位相消。"},
+        {"en": "Check that everything is in the same unit first; more than 3 tablets or an oddly large injection volume should prompt verification.", "zh": "先確認單位一致；超過3錠或注射量異常過大時，須再確認。"},
+        {"en": "Round at the end; adult injections to the nearest 0.1 mL; small or pediatric doses may be rounded down to 0.01 mL per policy; follow the rounding instruction in the question.", "zh": "計算完最後再四捨五入；成人注射至0.1 mL；微量或兒童劑量依規定可捨至0.01 mL；依題目指示進位。"},
+        {"en": "Percent solution = g per 100 mL (10% calcium gluconate = 10 g/100 mL); ratio solution = g per total mL (epinephrine 1:1000 = 1 g/1000 mL).", "zh": "百分比溶液＝每100 mL的公克數（10%葡萄糖酸鈣＝10 g/100 mL）；比例溶液＝每總毫升的公克數（腎上腺素1:1000＝1 g/1000 mL）。"}
+      ],
+      "pdf_pages": [207, 209, 210]
+    },
+    {
+      "heading": {"en": "IV Flow Rates and Infusion Safety", "zh": "靜脈輸液速率與安全"},
+      "points": [
+        {"en": "Drops/min = (total volume x drop factor) / time in minutes. mL/hr = total mL / hours. Infusion time = total volume / mL per hr.", "zh": "每分鐘滴數＝（總量 × 滴系數）／分鐘數；mL/hr＝總毫升／小時數；輸注時間＝總量／每小時毫升。"},
+        {"en": "Macrodrip sets give 10-20 gtt/mL; microdrip about 60 gtt/mL (ICU, pediatrics). The calibration is printed on the tubing package.", "zh": "大滴管每 mL 10-20滴；微滴管約60滴/mL（加護與兒科）。滴系數印在輸液管包裝上。"},
+        {"en": "Monitor flow rate often even with a pump. Never speed up a late infusion without PHCP approval; watch for crackles and increased respirations (fluid overload), especially in older, cardiac, renal, pulmonary or neurologic clients.", "zh": "即使使用幫浦也須經常檢查速率。輸液落後時未經醫師同意不可加快；觀察呼吸變快與肺部囉音（容積過量），尤其是老年及心、肺、腎、神經疾病個案。"},
+        {"en": "IV fluids count as intake.", "zh": "靜脈輸液須計入輸入量。"},
+        {"en": "Unit-per-hour infusions (heparin, regular insulin): step 1 units per mL = units in bag / mL in bag; step 2 mL/hr = dose per hr / units per mL.", "zh": "每小時單位數輸注（肝素、Regular 胰島素）：步驟1 每 mL 單位數＝袋內單位／袋內毫升；步驟2 mL/hr＝每小時劑量／每 mL 單位數。"}
+      ],
+      "pdf_pages": [209, 210, 211]
+    }
+  ],
+  "critical_points": [
+    {"en": "Conversion comes first: g to mg multiply by 1000; mcg to mg divide by 1000 (150 mcg = 0.15 mg).", "zh": "先換算：g 轉 mg 乘1000；mcg 轉 mg 除以1000（150 mcg = 0.15 mg）。", "pdf_pages": [206, 213]},
+    {"en": "Drops/min = volume x drop factor / minutes; round to a whole number (drops cannot be fractional).", "zh": "滴/分＝總量 × 滴系數／分鐘；四捨五入至整數。", "pdf_pages": [210, 212]},
+    {"en": "Heparin/insulin drip: units per mL = units / mL in bag; mL/hr = ordered units per hr / units per mL.", "zh": "肝素／胰島素點滴：每 mL 單位＝單位／袋容量；mL/hr＝醫囑單位數／每 mL 單位。", "pdf_pages": [211]},
+    {"en": "Never speed up a behind-schedule IV without PHCP approval; assess for fluid overload when rate increases.", "zh": "IV 落後時未經醫師同意不可加速；速率增加時評估容積過量。", "pdf_pages": [209, 210]},
+    {"en": "Question any oral dose needing more than 3 tablets, or excessive injection volume (IM over 3 mL, 2 mL deltoid; subcutaneous over 1.5 mL).", "zh": "口服需超過3錠或注射量過大（肌肉超過3 mL、三角肌超過2 mL、皮下超過1.5 mL）須質疑。", "pdf_pages": [208, 209]},
+    {"en": "Do not crush enteric-coated or sustained-release medications.", "zh": "腸溶或緩釋劑不可壓碎。", "pdf_pages": [207]},
+    {"en": "Insulin is measured only in an insulin syringe; mix regular before NPH (RN).", "zh": "胰島素只用胰島素針筒；先抽 Regular 再抽 NPH（RN）。", "pdf_pages": [209]},
+    {"en": "Intradermal angle 5-15 degrees with a tuberculin syringe; IM 90 degrees; subcutaneous 45 or 90 degrees.", "zh": "皮內5-15度用結核菌素針筒；肌肉90度；皮下45或90度。", "pdf_pages": [208]},
+    {"en": "Verify unclear or inconsistent orders with the prescriber immediately.", "zh": "醫囑不清或不一致時，立即向開立者確認。", "pdf_pages": [206]},
+    {"en": "Reconstituted volume exceeds diluent volume; label multidose vials with date, time, initials, expiration.", "zh": "調製後體積大於稀釋液體積；多劑量瓶標註日期、時間、簽名、效期。", "pdf_pages": [210]},
+    {"en": "Draw the syringe to the top ring of the plunger closest to the needle.", "zh": "抽取針筒時以最靠針頭端的活塞環對齊刻度。", "pdf_pages": [208]},
+    {"en": "Medicine cup is 30 mL; use syringe for volumes under 5 mL, and for children.", "zh": "藥杯30 mL；小於5 mL及兒童劑量用針筒。", "pdf_pages": [207]},
+    {"en": "Percent solution is g/100 mL; 1:1000 epinephrine is 1 g/1000 mL (1 mg/mL).", "zh": "百分比溶液為 g/100 mL；1:1000 腎上腺素為 1 g/1000 mL（1 mg/mL）。", "pdf_pages": [209]},
+    {"en": "NCLEX uses generic drug names; learn generics.", "zh": "NCLEX 使用藥物學名，須熟記。", "pdf_pages": [206]}
+  ],
+  "mnemonics": [
+    {"en": "RN: draw Regular insulin first, then NPH.", "zh": "RN：先抽 Regular 再抽 NPH。", "pdf_pages": [209]},
+    {"en": "H : V :: D : X (on hand, vehicle, desired, unknown).", "zh": "H : V :: D : X（現有量、載體、所需量、未知數）。", "pdf_pages": [207]},
+    {"en": "Big to small, multiply by 1000; small to big, divide by 1000.", "zh": "大換小乘1000；小換大除1000。", "pdf_pages": [206]}
+  ],
+  "figures": [
+    {"pdf_page": 206, "caption": {"en": "Boxes 14.1-14.3: medication administration assessment, metric abbreviations and equivalents, metric conversions.", "zh": "方框14.1-14.3：給藥評估、公制縮寫與等值、公制換算。"}},
+    {"pdf_page": 207, "caption": {"en": "Ratio and proportion examples (Boxes 14.4-14.6) and prescription components.", "zh": "比例法範例（方框14.4-14.6）與處方組成。"}},
+    {"pdf_page": 208, "caption": {"en": "Figures 14.1-14.4: angles of injection, syringe parts, 5-mL and tuberculin syringes.", "zh": "圖14.1-14.4：注射角度、針筒構造、5 mL與結核菌素針筒。"}},
+    {"pdf_page": 209, "caption": {"en": "100-unit insulin syringe (Fig. 14.5) and dosage-calculation rules.", "zh": "100單位胰島素針筒（圖14.5）與劑量計算原則。"}},
+    {"pdf_page": 210, "caption": {"en": "Box 14.8 standard formula vs dimensional analysis; Box 14.7 reconstitution; Box 14.9 IV formulas.", "zh": "方框14.8標準公式與單位分析法；方框14.7調製；方框14.9靜脈輸液公式。"}},
+    {"pdf_page": 211, "caption": {"en": "Box 14.10: two-step heparin and insulin drip calculations.", "zh": "方框14.10：肝素與胰島素點滴兩步驟計算。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "Order: 1000 mL NS over 8 hours. Drop factor 15 gtt/mL. How many drops per minute (nearest whole number)?", "zh": "醫囑：1000 mL 生理食鹽水於8小時輸完，滴系數15 gtt/mL。每分鐘幾滴（取整數）？"},
+      "options": [{"en": "21", "zh": "21"}, {"en": "31", "zh": "31"}, {"en": "42", "zh": "42"}, {"en": "125", "zh": "125"}],
+      "answer": [1],
+      "rationale": {"en": "1000 x 15 / 480 min = 31.25, rounded to 31 gtt/min. 125 is the mL/hr rate.", "zh": "1000 × 15 / 480 = 31.25，取整為31滴/分。125為 mL/hr。"},
+      "pdf_pages": [210, 213],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Order: heparin 1300 units/hr. Bag: 20,000 units in 250 mL D5W. At what mL/hr does the nurse set the pump (nearest whole number)?", "zh": "醫囑：肝素1300單位/小時。藥袋：250 mL D5W 含20,000單位。幫浦應設定幾 mL/hr（取整數）？"},
+      "options": [{"en": "13", "zh": "13"}, {"en": "16", "zh": "16"}, {"en": "20", "zh": "20"}, {"en": "65", "zh": "65"}],
+      "answer": [1],
+      "rationale": {"en": "20,000/250 = 80 units/mL; 1300/80 = 16.25, so 16 mL/hr.", "zh": "20,000/250 = 80單位/mL；1300/80 = 16.25，故為16 mL/hr。"},
+      "pdf_pages": [211, 213],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Order: levothyroxine 150 mcg PO daily. Label: 0.1 mg per tablet. How many tablets?", "zh": "醫囑：左旋甲狀腺素150 mcg 口服每日。藥標：每錠0.1 mg。應給幾錠？"},
+      "options": [{"en": "0.5", "zh": "0.5"}, {"en": "1", "zh": "1"}, {"en": "1.5", "zh": "1.5"}, {"en": "15", "zh": "15"}],
+      "answer": [2],
+      "rationale": {"en": "150 mcg = 0.15 mg; 0.15/0.1 = 1.5 tablets.", "zh": "150 mcg = 0.15 mg；0.15/0.1 = 1.5錠。"},
+      "pdf_pages": [214],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Order: clindamycin 0.3 g IV. Label: 900 mg in 6 mL. How many mL does the nurse draw up?", "zh": "醫囑：克林黴素0.3 g 靜脈注射。藥標：900 mg/6 mL。應抽取幾 mL？"},
+      "options": [{"en": "0.5 mL", "zh": "0.5 mL"}, {"en": "2 mL", "zh": "2 mL"}, {"en": "3 mL", "zh": "3 mL"}, {"en": "18 mL", "zh": "18 mL"}],
+      "answer": [1],
+      "rationale": {"en": "0.3 g = 300 mg; 300 x 6 / 900 = 2 mL.", "zh": "0.3 g = 300 mg；300 × 6 / 900 = 2 mL。"},
+      "pdf_pages": [213],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "An IV infusion is 2 hours behind schedule. What is the nurse's best action?", "zh": "靜脈輸液已落後2小時。護理師最適當的處置為何？"},
+      "options": [
+        {"en": "Increase the rate to catch up", "zh": "加快速率追上進度"},
+        {"en": "Consult the PHCP before changing the rate and assess the client's tolerance", "zh": "調整速率前先請示醫師並評估個案耐受性"},
+        {"en": "Stop the infusion", "zh": "停止輸液"},
+        {"en": "Double the rate for 1 hour", "zh": "將速率加倍1小時"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "A behind-schedule IV is never sped up without PHCP approval because of fluid overload risk, especially with cardiac, renal or older clients.", "zh": "輸液落後時未經醫師同意不可加速，因有容積過量風險，尤其是心臟、腎臟疾病或老年個案。"},
+      "pdf_pages": [209, 210],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which statements about preparing and giving medications are correct? Select all that apply.", "zh": "關於準備與給藥，下列哪些正確？（複選）"},
+      "options": [
+        {"en": "Draw regular insulin before NPH when mixing", "zh": "混合時先抽 Regular 再抽 NPH"},
+        {"en": "Crush an enteric-coated tablet for easy swallowing", "zh": "將腸溶錠壓碎以便吞服"},
+        {"en": "Intradermal injection angle is 5 to 15 degrees", "zh": "皮內注射角度為5至15度"},
+        {"en": "Measure insulin in a tuberculin syringe", "zh": "以結核菌素針筒抽取胰島素"},
+        {"en": "Question an IM volume greater than 3 mL", "zh": "肌肉注射量超過3 mL須質疑"}
+      ],
+      "answer": [0, 2, 4],
+      "rationale": {"en": "Enteric-coated drugs must not be crushed, and insulin is only measured in an insulin syringe.", "zh": "腸溶錠不可壓碎，胰島素僅能用胰島素針筒測量。"},
+      "pdf_pages": [207, 208, 209],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Regular insulin 8 units/hr IV is ordered. The bag contains 100 units in 100 mL NS. What mL/hr is set?", "zh": "醫囑 Regular 胰島素8單位/小時靜脈輸注。藥袋為100 mL 生理食鹽水含100單位。應設定幾 mL/hr？"},
+      "options": [{"en": "0.8", "zh": "0.8"}, {"en": "8", "zh": "8"}, {"en": "12.5", "zh": "12.5"}, {"en": "80", "zh": "80"}],
+      "answer": [1],
+      "rationale": {"en": "100 units/100 mL = 1 unit/mL; 8 units/hr / 1 = 8 mL/hr.", "zh": "100單位/100 mL = 1單位/mL；8/1 = 8 mL/hr。"},
+      "pdf_pages": [211, 215],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "IV Flow Rate Calculation NCLEX Reviewer & Practice Questions (60 Items) - Nurseslabs", "url": "https://nurseslabs.com/iv-flow-rate-nclex-practice-quiz/", "note": {"en": "Free IV flow rate practice items with rationales.", "zh": "免費靜脈輸液速率練習題，附解析。"}},
+    {"title": "Dosage calculations IV flow rates - NurseStudy.net", "url": "https://nursestudy.net/dosage-calculations-iv-flow-rates/", "note": {"en": "Free short quiz on IV flow rates.", "zh": "免費靜脈輸液速率小測驗。"}},
+    {"title": "Med Math Practice Questions with Answers and NCLEX Review - Simple Nursing", "url": "https://simplenursing.com/iv-drip-calculations-nclex-practice-questions-review/", "note": {"en": "Worked IV drip calculation examples.", "zh": "靜脈點滴計算的解題範例。"}},
+    {"title": "NCLEX dosage calculation practice questions - GetOnCourse", "url": "https://getoncourse.ai/nclex/dosage-calculation-practice/", "note": {"en": "Dosage calculation practice and content overview.", "zh": "劑量計算練習與內容概述。"}}
+  ]
+}

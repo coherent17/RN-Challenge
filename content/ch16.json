@@ -1,0 +1,213 @@
+{
+  "number": 16,
+  "title": {"en": "Hygiene, Mobility, and Skin Integrity", "zh": "衛生、活動與皮膚完整性"},
+  "overview": {
+    "en": "This chapter covers hygiene care (bathing, skin, feet, mouth, hair, eyes, ears), the complications of immobility, assistive devices (crutches, canes, walkers), wound healing, and pressure injury prevention, staging and dressings. Expect questions on diabetic foot care, crutch and cane technique, and pressure injury stages.",
+    "zh": "本章涵蓋衛生照護（沐浴、皮膚、足部、口腔、頭髮、眼耳鼻）、活動受限的併發症、輔具（拐杖、手杖、助行器）、傷口癒合，以及壓力性損傷的預防、分期與敷料。常考糖尿病足部護理、拐杖與手杖使用及壓力性損傷分期。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Hygiene: Self-Care and Bathing", "zh": "衛生：自我照顧與沐浴"},
+      "points": [
+        {"en": "Consider culture, preferences, developmental stage and body image; assess strength, balance, vision, sensation and signs of activity intolerance (changes in respirations, pulse, color, dizziness).", "zh": "考量文化、個人偏好、發展階段與身體意象；評估肌力、平衡、視力、感覺及活動耐受不良徵象（呼吸、脈搏、膚色改變、頭暈）。"},
+        {"en": "Complete bed baths, tub baths and showers increase oxygen demand and can exhaust clients; partial baths suit partly dependent clients.", "zh": "全身床上擦浴、盆浴、淋浴會增加耗氧量而使個案疲憊；部分擦浴適合部分依賴者。"},
+        {"en": "Basins can harbor bacteria; chlorhexidine (CHG) baths reduce bacterial growth; dry basins after use and do not store supplies in them.", "zh": "水盆易滋生細菌；氯己定（CHG）擦浴可減少細菌；用後須擦乾，且不可用來存放物品。"},
+        {"en": "Check for allergies to soaps or products first; provide privacy, warmth, safety and promote independence.", "zh": "先確認對肥皂或產品是否過敏；提供隱私、保暖、安全並促進獨立。"},
+        {"en": "Perineal care at least daily and as needed; higher risk for uncircumcised males, indwelling catheters, postpartum, rectal/genital surgery, incontinence and obesity.", "zh": "會陰護理至少每日一次及必要時；未割包皮男性、留置導尿管、產後、直腸或生殖器手術、失禁與肥胖者風險較高。"}
+      ],
+      "pdf_pages": [234, 235]
+    },
+    {
+      "heading": {"en": "Skin, Foot and Nail Care", "zh": "皮膚、足部與指甲護理"},
+      "points": [
+        {"en": "Skin assessment during hygiene: color, texture, turgor, temperature, lesions, device contact points, skinfolds, perineum, and extra care in darker skin.", "zh": "沐浴時評估皮膚：顏色、質地、彈性、溫度、病灶、器材接觸處、皮膚皺摺、會陰；深膚色者須更仔細。"},
+        {"en": "Skin risk factors: immobility, obesity, reduced sensation, dementia, poor nutrition/hydration, moisture, devices, vascular insufficiency.", "zh": "皮膚風險因子：活動受限、肥胖、感覺減退、失智、營養與水分不足、潮濕、醫療器材、血管不足。"},
+        {"en": "Diabetes or peripheral vascular disease: do NOT soak feet, do NOT trim nails (refer to podiatrist/PHCP), wash daily in lukewarm water, dry between toes, lotion but not between toes, seamless clean cotton socks, well-fitting shoes.", "zh": "糖尿病或周邊血管疾病：不可泡腳、不可自行剪指甲（轉介足科或醫師）、每日以溫水洗淨、趾縫擦乾、擦乳液但趾縫不擦、穿無接縫乾淨棉襪、鞋子合腳。"},
+        {"en": "Others trim nails straight across and file edges; avoid long soaks and harsh chemicals (maceration). Assess pedal pulses, sensation and gait.", "zh": "其他個案指甲剪直並磨平邊緣；避免長時間浸泡與刺激性化學品（浸軟）。評估足背脈搏、感覺與步態。"}
+      ],
+      "pdf_pages": [235]
+    },
+    {
+      "heading": {"en": "Oral, Hair, Eye, Ear and Nose Care", "zh": "口腔、頭髮與眼耳鼻護理"},
+      "points": [
+        {"en": "Brush with fluoride toothpaste twice daily, floss (unwaxed), alcohol-free rinse; avoid vigorous flossing with chemotherapy, radiation or anticoagulants.", "zh": "每日兩次以含氟牙膏刷牙、使用無蠟牙線、酒精含量為零的漱口水；化療、放療或使用抗凝血劑者避免用力使用牙線。"},
+        {"en": "Special oral needs: unconscious (pneumonia risk), diabetes, chemotherapy, immunosuppression, artificial airway; CHG oral care reduces ventilator-associated pneumonia.", "zh": "特殊口腔需求：意識不清（肺炎風險）、糖尿病、化療、免疫抑制、人工氣道；CHG 口腔護理可降低呼吸器相關肺炎。"},
+        {"en": "Dentures: handle carefully, rinse after meals, remove at night, store in a labeled cup covered with water (not in tissue), clean with lukewarm water.", "zh": "假牙：小心處理、餐後清潔、夜間取下、放在標示個案姓名的杯中並以水覆蓋（不可包衛生紙）、以微溫水清洗。"},
+        {"en": "Hair/scalp: assess for alopecia, lice and lesions; electric razor for clients on anticoagulants/antiplatelets or with low platelets or bleeding disorders; each client uses own razor.", "zh": "頭髮與頭皮：評估禿髮、頭蝨與病灶；使用抗凝血劑／抗血小板藥、血小板低或出血疾患者用電動刮鬍刀；每位個案專用刮鬍刀。"},
+        {"en": "Clean eyes inner to outer canthus with a different part of washcloth each time; lubricate eyes of unconscious clients; no Q-tips in ears; irrigate impacted cerumen.", "zh": "擦拭眼睛由內眥至外眥，每次用毛巾不同處；昏迷者需潤滑眼睛；耳朵不可用棉花棒；耳垢栓塞可沖洗。"}
+      ],
+      "pdf_pages": [235, 236, 237]
+    },
+    {
+      "heading": {"en": "Mobility and Complications of Immobility", "zh": "活動力與制動併發症"},
+      "points": [
+        {"en": "Assess mobility from lying, to sitting, to transfer, to walking with or without devices.", "zh": "活動力評估順序：臥床、坐起、轉位到椅子、行走（有無輔具）。"},
+        {"en": "Metabolic: lowered metabolic rate, negative nitrogen balance, muscle loss, calcium resorption (hypercalcemia, kidney stones, fractures), constipation.", "zh": "代謝：代謝率降低、負氮平衡、肌肉流失、鈣質流失（高血鈣、腎結石、骨折）、便祕。"},
+        {"en": "Respiratory: atelectasis and hypostatic pneumonia. Cardiovascular: orthostatic hypotension, increased workload, thrombus formation.", "zh": "呼吸：肺塌陷與沉積性肺炎。心血管：姿位性低血壓、心臟負荷增加、血栓形成。"},
+        {"en": "Musculoskeletal: weakness, disuse osteoporosis, contractures such as footdrop. Urinary: stasis, infection, calculi. Skin: pressure injury over bony prominences. Psychosocial: depression, withdrawal.", "zh": "肌肉骨骼：無力、廢用性骨質疏鬆、攣縮如垂足。泌尿：尿液滯留、感染、結石。皮膚：骨突處壓力性損傷。心理社會：憂鬱、退縮。"}
+      ],
+      "pdf_pages": [237]
+    },
+    {
+      "heading": {"en": "Crutches, Canes and Walkers", "zh": "拐杖、手杖與助行器"},
+      "points": [
+        {"en": "Crutch fit: 2-3 finger widths between axilla and pad; elbows flexed 20-30 degrees; never bear weight on axillae (brachial plexus damage); crutches 6-10 inches diagonally ahead; stop if hands tingle or go numb. Stand on the affected side.", "zh": "拐杖合適度：腋下與腋墊相距2-3指寬；手肘彎曲20-30度；腋下不可承重（會傷臂神經叢）；拐杖置於腳斜前方6-10吋；手麻或刺痛須停止。護理師站在患側。"},
+        {"en": "Gaits: four-point (both legs bear weight, three points always on floor), two-point (faster), three-point (one leg bears weight; move both crutches and weak leg, then the strong leg), swing-through (paraplegia with braces).", "zh": "步態：四點（雙腿可承重，隨時三點著地）、兩點（較快）、三點（僅一腿承重；兩拐杖與患肢同時向前，再跨健肢）、擺盪式（下肢支架的截癱者）。"},
+        {"en": "Stairs: up with the good leg first (up with the good); down with crutches and the weak leg first (down with the bad). Sitting: strong leg against the chair.", "zh": "上下樓：上樓先出健腳（好的先上）；下樓先出拐杖與患腳（壞的先下）。坐下：健側腿貼近椅子。"},
+        {"en": "Cane: held on the STRONGER side, 4-6 inches lateral to the foot, handle at greater trochanter, elbow 15-30 degrees; move cane with the weaker leg; two points of support at all times; check rubber tips.", "zh": "手杖：持於較強側，距腳外側4-6吋，握把與大轉子同高，手肘彎曲15-30度；手杖與患腿一起向前；隨時保持兩點支撐；定期檢查橡膠頭。"},
+        {"en": "Walker: all four legs flat on floor before weight bearing; move walker, then weaker foot, then stronger foot. Keep tips dry and unworn.", "zh": "助行器：四腳平放地面後才承重；先移助行器，再移弱腳，再移強腳。橡膠頭保持乾燥未磨損。"}
+      ],
+      "pdf_pages": [237, 238, 239]
+    },
+    {
+      "heading": {"en": "Skin Integrity and Wound Healing", "zh": "皮膚完整性與傷口癒合"},
+      "points": [
+        {"en": "Healing needs protein, calories, vitamins, trace minerals, oxygen/perfusion; infection, diabetes, older age, immobility and incontinence delay healing. Albumin indicates nutrition.", "zh": "癒合需要蛋白質、熱量、維生素、微量礦物質及氧氣灌流；感染、糖尿病、高齡、活動受限與失禁會延遲癒合。白蛋白可反映營養。"},
+        {"en": "Braden scale predicts pressure injury risk.", "zh": "Braden 量表預測壓力性損傷風險。"},
+        {"en": "Phases: inflammatory 3-5 days (edema, pain, redness, warmth); fibroblastic from day 4 for 2-4 weeks (granulation); maturation from about 3 weeks up to a year.", "zh": "癒合期：發炎期3-5天（水腫、疼痛、紅、熱）；纖維母細胞期第4天起2-4週（肉芽組織）；成熟期約3週起可達1年。"},
+        {"en": "Intention: primary (edges approximated), secondary (tissue loss, fills in), tertiary (delayed primary closure).", "zh": "癒合方式：一期（傷口對合）、二期（組織缺損，由內填補）、三期（延遲一期縫合）。"},
+        {"en": "Exudate: serous (clear), serosanguineous (pale pink), sanguineous (red, bleeding), purulent (yellow/green/brown, infection).", "zh": "滲液：漿液性（清澈）、漿血性（淡粉紅）、血性（紅色，出血）、膿性（黃綠褐，感染）。"},
+        {"en": "Device-related pressure injury sources include tubes, cannulas, BiPAP masks, catheters, compression stockings, orthopedic devices and restraints.", "zh": "與器材相關的壓力性損傷來源：管路、鼻導管、BiPAP 面罩、導尿管、彈性襪、骨科器材與約束。"}
+      ],
+      "pdf_pages": [239, 240]
+    },
+    {
+      "heading": {"en": "Pressure Injury: Prevention, Staging, Dressings", "zh": "壓力性損傷：預防、分期與敷料"},
+      "points": [
+        {"en": "Caused by pressure, shear and friction over bony prominences; risk rises with immobility, malnutrition, incontinence, reduced sensation.", "zh": "由壓力、剪力與摩擦於骨突處造成；活動受限、營養不良、失禁、感覺減退使風險增加。"},
+        {"en": "Prevention: turn every 2 hours, pressure-relief surfaces, keep skin dry and linen wrinkle-free, barrier cream for incontinence, ROM at least every 8 hours, nutrition. NEVER massage reddened areas.", "zh": "預防：每2小時翻身、使用減壓裝置、保持皮膚乾燥與床單平整、失禁者用隔離霜、至少每8小時關節活動、補充營養。絕不按摩發紅處。"},
+        {"en": "Stage 1: intact skin, nonblanchable redness. Stage 2: partial-thickness loss, exposed dermis, pink moist bed or blister. Stage 3: full-thickness, fat visible, no muscle/bone. Stage 4: exposed fascia, muscle, tendon, cartilage or bone.", "zh": "第1期：皮膚完整、不變白的發紅。第2期：部分皮層缺損、真皮外露、粉紅濕潤或水疱。第3期：全層皮膚缺損、可見脂肪，無肌肉骨骼外露。第4期：筋膜、肌肉、肌腱、軟骨或骨頭外露。"},
+        {"en": "Unstageable: base covered by slough/eschar. Suspected deep-tissue injury: persistent deep red/maroon/purple area or blood-filled blister.", "zh": "無法分期：傷口底被腐肉或焦痂覆蓋。疑似深層組織損傷：持續暗紅、栗色或紫色，或血水疱。"},
+        {"en": "Dressings: stage 1 transparent/hydrocolloid or none; stage 2 composite film, hydrocolloid, hydrogel with cover; stage 3-4 hydrocolloid/hydrogel/alginate/foam/gauze. Alginate is absorbent for deep/exudating wounds; antimicrobial for infected ones.", "zh": "敷料：第1期透明膜／水膠體或不用；第2期複合膜、水膠體、水凝膠加覆蓋；第3-4期水膠體／水凝膠／藻酸鹽／泡棉／紗布。藻酸鹽吸收力強用於深、滲液多傷口；感染傷口用抗菌敷料。"},
+        {"en": "Document size (length, width, depth), exudate, undermining, tunneling; consider wound/nutrition referral. Other therapies: negative-pressure wound therapy, hyperbaric oxygen, electrical stimulation, growth factors.", "zh": "記錄大小（長寬深）、滲液、潛行與隧道；考慮轉介傷口與營養專家。其他治療：負壓傷口治療、高壓氧、電刺激、生長因子。"}
+      ],
+      "pdf_pages": [240, 241, 242, 243]
+    }
+  ],
+  "critical_points": [
+    {"en": "Diabetes/PVD foot care: no soaking, no self nail trimming (podiatrist), dry between toes, no lotion between toes.", "zh": "糖尿病／周邊血管疾病足部護理：不泡腳、不自行剪甲（轉介足科）、趾縫擦乾、趾縫不擦乳液。", "pdf_pages": [235, 246]},
+    {"en": "Ask about soap/product allergies before a bed bath.", "zh": "床上擦浴前先詢問對肥皂／產品過敏。", "pdf_pages": [234, 246]},
+    {"en": "Never massage a reddened area: it damages capillaries and tissue.", "zh": "絕不按摩發紅處：會損傷微血管與組織。", "pdf_pages": [240]},
+    {"en": "Turn immobile clients at least every 2 hours; ROM at least every 8 hours.", "zh": "活動受限者至少每2小時翻身；至少每8小時做關節活動。", "pdf_pages": [240]},
+    {"en": "Stage 1 intact nonblanchable red; stage 2 partial thickness; stage 3 full thickness with fat; stage 4 muscle/tendon/bone.", "zh": "第1期完整不變白紅；第2期部分皮層；第3期全層伴脂肪；第4期肌肉／肌腱／骨頭。", "pdf_pages": [241, 242]},
+    {"en": "Eschar or slough hiding the base means unstageable; deep purple/maroon means suspected deep-tissue injury.", "zh": "焦痂或腐肉覆蓋底部為無法分期；深紫／栗色為疑似深層組織損傷。", "pdf_pages": [242]},
+    {"en": "Crutches resting on the axillae can injure the brachial plexus; keep 2-3 finger widths.", "zh": "拐杖壓在腋下會傷臂神經叢；保留2-3指寬空隙。", "pdf_pages": [237]},
+    {"en": "Cane goes on the stronger side; with right-sided weakness use the left hand.", "zh": "手杖持於較強側；右側無力用左手。", "pdf_pages": [238, 247]},
+    {"en": "Stairs with crutches: up with the good leg, down with the bad leg (crutches go with the affected leg).", "zh": "拐杖上下樓：好腳先上，壞腳（連同拐杖）先下。", "pdf_pages": [238]},
+    {"en": "Use an electric razor for clients on anticoagulants/antiplatelets, thrombocytopenia or bleeding disorders.", "zh": "使用抗凝血劑／抗血小板藥、血小板低或出血疾患者，須用電動刮鬍刀。", "pdf_pages": [236, 247]},
+    {"en": "Immobility complications: atelectasis, orthostatic hypotension, DVT, hypercalcemia/kidney stones, constipation, contractures, pressure injury.", "zh": "制動併發症：肺塌陷、姿位性低血壓、深部靜脈血栓、高血鈣／腎結石、便祕、攣縮、壓力性損傷。", "pdf_pages": [237]},
+    {"en": "Purulent exudate (yellow/green/brown) signals infection; sanguineous means active bleeding.", "zh": "膿性滲液（黃／綠／褐）提示感染；血性代表活動性出血。", "pdf_pages": [240]},
+    {"en": "Wound healing phases: inflammatory 3-5 days, fibroblastic day 4 to 4 weeks, maturation up to 1 year.", "zh": "癒合期：發炎期3-5天、纖維母細胞期第4天至4週、成熟期可達1年。", "pdf_pages": [239]},
+    {"en": "Dentures stored overnight in a labeled cup covered with water; clean with lukewarm water.", "zh": "假牙夜間放在有標示的杯中並以水覆蓋；用微溫水清洗。", "pdf_pages": [236, 246]},
+    {"en": "Unconscious clients need eye lubrication and frequent oral care.", "zh": "昏迷個案需眼部潤滑與頻繁口腔護理。", "pdf_pages": [236, 237]}
+  ],
+  "mnemonics": [
+    {"en": "Crutch stairs: 'Up with the good, down with the bad.'", "zh": "拐杖上下樓：「好的先上，壞的先下」。", "pdf_pages": [238]},
+    {"en": "Cane: hold it on the strong side; cane and weak leg move together.", "zh": "手杖：持於強側；手杖與弱腿一起前進。", "pdf_pages": [238]},
+    {"en": "Pressure injury stage memory: 1 intact red, 2 dermis, 3 fat, 4 bone/muscle.", "zh": "壓力性損傷分期記憶：1 完整紅、2 真皮、3 脂肪、4 骨與肌肉。", "pdf_pages": [241]}
+  ],
+  "figures": [
+    {"pdf_page": 235, "caption": {"en": "Box 16.1 skin assessment and Box 16.2 foot and nail assessment.", "zh": "方框16.1皮膚評估與方框16.2足部與指甲評估。"}},
+    {"pdf_page": 236, "caption": {"en": "Box 16.3 special oral hygiene needs and Box 16.4 shaving.", "zh": "方框16.3特殊口腔衛生需求與方框16.4刮鬍。"}},
+    {"pdf_page": 238, "caption": {"en": "Table 16.1: crutch gaits and who uses each.", "zh": "表16.1：拐杖步態及適用對象。"}},
+    {"pdf_page": 240, "caption": {"en": "Box 16.6 wound exudate types and Fig. 16.1 pressure points.", "zh": "方框16.6傷口滲液類型與圖16.1壓力好發點。"}},
+    {"pdf_page": 241, "caption": {"en": "Box 16.7: pressure injury stages 1-4 with photos.", "zh": "方框16.7：壓力性損傷第1-4期及照片。"}},
+    {"pdf_page": 242, "caption": {"en": "Unstageable and suspected deep-tissue injury.", "zh": "無法分期與疑似深層組織損傷。"}},
+    {"pdf_page": 243, "caption": {"en": "Tables 16.2-16.3: dressing choices by stage and dressing materials.", "zh": "表16.2-16.3：各分期敷料選擇與敷料材質。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "Why must crutches not rest in the axillae?", "zh": "為何拐杖不可頂在腋下？"},
+      "options": [
+        {"en": "Risk of falls", "zh": "跌倒風險"},
+        {"en": "Brachial plexus nerve injury", "zh": "臂神經叢受傷"},
+        {"en": "Skin breakdown only", "zh": "僅造成皮膚破損"},
+        {"en": "Reduced range of motion", "zh": "關節活動度受限"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Weight on the axilla compresses the brachial plexus. Leave 2-3 finger widths.", "zh": "重量壓在腋下會壓迫臂神經叢；須保留2-3指寬。"},
+      "pdf_pages": [237, 245],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client has full-thickness sacral skin loss with visible fat and granulation tissue; no muscle, tendon or bone is seen. Which stage?", "zh": "個案薦骨處全層皮膚缺損，可見脂肪與肉芽組織，無肌肉、肌腱或骨頭外露。屬於哪一期？"},
+      "options": [{"en": "Stage 1", "zh": "第1期"}, {"en": "Stage 2", "zh": "第2期"}, {"en": "Stage 3", "zh": "第3期"}, {"en": "Stage 4", "zh": "第4期"}],
+      "answer": [2],
+      "rationale": {"en": "Stage 3 is full-thickness loss with adipose tissue; exposed muscle/tendon/bone is stage 4.", "zh": "第3期為全層缺損、可見脂肪；肌肉／肌腱／骨頭外露為第4期。"},
+      "pdf_pages": [241, 245],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which action by a student giving foot care to a client with diabetes requires further teaching?", "zh": "學生為糖尿病個案足部護理時，哪項行為需要再指導？"},
+      "options": [
+        {"en": "Avoids soaking the feet", "zh": "避免泡腳"},
+        {"en": "Dries between the toes", "zh": "擦乾趾縫"},
+        {"en": "Refers nail trimming to a podiatrist", "zh": "指甲修剪轉介足科"},
+        {"en": "Applies lotion between the toes", "zh": "在趾縫擦乳液"}
+      ],
+      "answer": [3],
+      "rationale": {"en": "Between the toes must stay dry to prevent maceration and infection; lotion goes on top and sole only.", "zh": "趾縫須保持乾燥以免浸軟與感染；乳液只擦足背與足底。"},
+      "pdf_pages": [235, 246],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with right-sided weakness is being taught to use a cane. Which action needs correction?", "zh": "右側無力的個案學習使用手杖。哪項行為需糾正？"},
+      "options": [
+        {"en": "Holds cane in the right hand", "zh": "右手持杖"},
+        {"en": "Moves the weaker leg toward the cane first", "zh": "先將弱腿移向手杖"},
+        {"en": "Holds cane 6 inches lateral to the foot", "zh": "手杖置於腳外側6吋"},
+        {"en": "Keeps two points of support on the floor", "zh": "隨時保持兩點著地"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "The cane is held on the stronger (left) side so it supports the weak leg.", "zh": "手杖應持於較強（左）側，以支撐弱腿。"},
+      "pdf_pages": [238, 246, 247],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "For which clients should the nurse instruct AP to use an electric razor? Select all that apply.", "zh": "護理師應指示助理對哪些個案使用電動刮鬍刀？（複選）"},
+      "options": [
+        {"en": "Thrombocytopenia", "zh": "血小板低下"},
+        {"en": "Leukocytosis", "zh": "白血球增多"},
+        {"en": "Taking clopidogrel", "zh": "服用氯吡格雷"},
+        {"en": "Taking warfarin", "zh": "服用華法林"},
+        {"en": "Taking acetaminophen PRN", "zh": "需要時服用乙醯胺酚"}
+      ],
+      "answer": [0, 2, 3],
+      "rationale": {"en": "Bleeding risk (low platelets, antiplatelet or anticoagulant drugs) requires an electric razor.", "zh": "有出血風險（血小板低、抗血小板或抗凝血劑）者應用電動刮鬍刀。"},
+      "pdf_pages": [236, 247],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which dressing is appropriate for a stage 1 pressure injury?", "zh": "第1期壓力性損傷適合哪種敷料？"},
+      "options": [
+        {"en": "Hydrogel", "zh": "水凝膠"},
+        {"en": "Transparent dressing", "zh": "透明敷料"},
+        {"en": "Antimicrobial", "zh": "抗菌敷料"},
+        {"en": "Calcium alginate", "zh": "藻酸鈣"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Stage 1 is intact skin; transparent or hydrocolloid dressing or none is used and it resolves in 7-14 days.", "zh": "第1期皮膚完整，用透明或水膠體敷料或不使用，7-14天可消退。"},
+      "pdf_pages": [243, 246],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "The client with a left ankle injury uses a three-point crutch gait. Which sequence shows correct use?", "zh": "左踝受傷的個案使用三點式拐杖步態。哪個順序正確？"},
+      "options": [
+        {"en": "Both crutches and the left (injured) leg forward, then right leg", "zh": "雙拐杖與左（受傷）腿一起向前，再跨右腿"},
+        {"en": "Right leg, then both crutches", "zh": "先右腿，再雙拐杖"},
+        {"en": "Left crutch, right foot, right crutch, left foot", "zh": "左拐、右腳、右拐、左腳"},
+        {"en": "Swing both legs past the crutches", "zh": "雙腳擺盪越過拐杖"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "In a three-point gait the weight-bearing leg is the unaffected one; crutches and affected leg advance together, then the good leg.", "zh": "三點步態由未受傷腿承重；拐杖與患肢一起前進，再跨健肢。"},
+      "pdf_pages": [238],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Pressure Injury Practice Questions with Answers and NCLEX Review - Simple Nursing", "url": "https://simplenursing.com/pressure-injury-nclex-practice-questions-review/", "note": {"en": "Pressure injury staging review and practice questions.", "zh": "壓力性損傷分期複習與練習題。"}},
+    {"title": "Mobility, Positioning, And Range Of Motion - NCLEX-RN Quiz (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/mobility-positioning-and-range-of-motion", "note": {"en": "NCLEX-RN mobility and positioning practice quiz.", "zh": "NCLEX-RN 活動與擺位練習測驗。"}},
+    {"title": "Mobility, Body Mechanics & Positioning Review - GetOnCourse", "url": "https://getoncourse.ai/notes/nclex-rn/fundamentals-of-nursing/mobility-body-mechanics-positioning/", "note": {"en": "Review of crutch fitting, weight bearing and body mechanics.", "zh": "拐杖調整、承重與身體力學複習。"}},
+    {"title": "NCLEX-RN Basic Care and Comfort Practice Questions: Mobility, Nutrition and Elimination", "url": "https://getoncourse.ai/blog/nclex-rn-basic-care-comfort-practice-questions-mobility-nutrition-elimination/", "note": {"en": "Original practice questions with rationales.", "zh": "附解析的原創練習題。"}}
+  ]
+}

@@ -1,0 +1,826 @@
+{
+ "number": 57,
+ "title": {
+  "en": "Eye and Ear Problems",
+  "zh": "眼與耳問題"
+ },
+ "overview": {
+  "en": "Covers eye and ear anatomy, diagnostic tests, refractive errors, cataract, glaucoma, retinal detachment, macular degeneration, eye trauma and infections, then hearing loss, otitis, mastoiditis, otosclerosis, labyrinthitis, Meniere's disease and ear trauma. Safety and sensory perception are the priority concepts: protect from injury, prevent increased intraocular pressure, and recognize emergencies.",
+  "zh": "涵蓋眼耳解剖、診斷檢查、屈光不正、白內障、青光眼、視網膜剝離、黃斑部病變、眼外傷與感染，以及聽力損失、中耳炎、乳突炎、耳硬化症、迷路炎、梅尼爾氏症與耳外傷。重點為安全與感覺知覺：預防受傷、避免眼壓升高、辨識緊急狀況。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Eye anatomy and diagnostic tests",
+    "zh": "眼睛解剖與檢查"
+   },
+   "points": [
+    {
+     "en": "Layers: fibrous (cornea, sclera), uveal (choroid, ciliary body, iris), retina. Rods = peripheral/night vision; cones = color/central vision; fovea = sharpest vision; optic disc = blind spot.",
+     "zh": "眼球分層：纖維層(角膜、鞏膜)、葡萄膜(脈絡膜、睫狀體、虹膜)、視網膜。桿細胞=周邊/夜視；錐細胞=色覺/中心視力；中央小凹=最敏銳視力；視神經盤=盲點。"
+    },
+    {
+     "en": "Aqueous humor is made by the ciliary body and drains through the canal of Schlemm; poor drainage raises IOP (normal 10-21 mm Hg, higher in the morning).",
+     "zh": "房水由睫狀體產生，經許萊姆氏管排出；引流不良使眼壓升高(正常10-21 mmHg，早晨較高)。"
+    },
+    {
+     "en": "Cranial nerves: II optic (sight); III, IV, VI eye movement.",
+     "zh": "腦神經：II視神經(視覺)；III、IV、VI眼球運動。"
+    },
+    {
+     "en": "Fluorescein angiography: allergy check, dilating drops, yellow skin and bright green/orange urine for up to 2 days, sunglasses.",
+     "zh": "螢光眼底血管攝影：確認過敏、散瞳、皮膚黃染及尿液亮綠/橙色最多2天、需戴太陽眼鏡。"
+    },
+    {
+     "en": "Tonometry measures IOP (contact type needs topical anesthetic; do not rub eye after). Slit lamp, corneal staining (green = epithelial defect), ultrasound, CT, MRI.",
+     "zh": "眼壓測量(接觸式需局部麻醉，之後勿揉眼)。裂隙燈、角膜染色(綠色=上皮缺損)、超音波、CT、MRI。"
+    }
+   ],
+   "pdf_pages": [
+    909,
+    910,
+    911
+   ]
+  },
+  {
+   "heading": {
+    "en": "Refractive errors, blindness and cataract",
+    "zh": "屈光不正、失明與白內障"
+   },
+   "points": [
+    {
+     "en": "Myopia: images fall in front of retina; hyperopia and presbyopia: behind retina; astigmatism: irregular cornea. Corrections: glasses, contacts, LASIK, PRK, corneal ring.",
+     "zh": "近視：成像於視網膜前；遠視與老花：成像於視網膜後；散光：角膜曲度不規則。矯正：眼鏡、隱形眼鏡、LASIK、PRK、角膜環。"
+    },
+    {
+     "en": "Legal blindness: best corrected acuity 20/200 or worse in better eye, or visual field <=20 degrees.",
+     "zh": "法定失明：較佳眼矯正後視力≦20/200，或視野≦20度。"
+    },
+    {
+     "en": "Helping the blind client: speak normally, announce yourself, orient to room, clock positions for food, let client hold your elbow (client one step behind), white cane with red tip.",
+     "zh": "協助視障者：正常音量說話、先表明身分、環境導向、以時鐘位置描述食物、讓病人扶護理師手肘(落後一步)、白底紅頭手杖。"
+    },
+    {
+     "en": "Cataract: lens opacity; blurred vision, decreased color perception, glare; late: white pupil, absent red reflex; painless gradual loss.",
+     "zh": "白內障：水晶體混濁；視力模糊、色覺下降、眩光；晚期：瞳孔變白、紅光反射消失；無痛、漸進性視力喪失。"
+    },
+    {
+     "en": "Surgery one eye at a time (phacoemulsification/extracapsular, with lens implant). Post-op: HOB 30-45, lie on back or non-operative side, eye shield at night.",
+     "zh": "一次手術一眼(超音波乳化/囊外摘除併人工水晶體)。術後：床頭抬高30-45度、平躺或健側臥、夜間戴眼罩。"
+    },
+    {
+     "en": "Avoid bending, straining, coughing, rubbing eye, lifting >5 lb (2.25 kg); prevent constipation. Report decreased vision, severe pain, redness, discharge.",
+     "zh": "避免彎腰、用力、咳嗽、揉眼、提>5磅(2.25公斤)；預防便秘。視力下降、劇痛、紅腫、分泌物增加需通報。"
+    }
+   ],
+   "pdf_pages": [
+    911,
+    912,
+    913
+   ]
+  },
+  {
+   "heading": {
+    "en": "Glaucoma",
+    "zh": "青光眼"
+   },
+   "points": [
+    {
+     "en": "Glaucoma: raised IOP damages the optic nerve; peripheral vision lost first ('tunnel vision') while central vision stays until late.",
+     "zh": "青光眼：眼壓升高損傷視神經；先喪失周邊視野(隧道視野)，中心視力至晚期才受影響。"
+    },
+    {
+     "en": "Primary open-angle (most common): painless, gradual. Angle-closure: sudden severe eye pain, halos around lights, blurred vision, red eye, nausea/vomiting = emergency.",
+     "zh": "原發性開角型(最常見)：無痛、漸進。閉角型：突發劇烈眼痛、燈光暈輪、視力模糊、紅眼、噁心嘔吐=急症。"
+    },
+    {
+     "en": "Treatment: miotics, carbonic anhydrase inhibitors, beta blockers lower IOP; peripheral iridectomy for angle-closure; trabeculectomy when medical therapy fails.",
+     "zh": "治療：縮瞳劑、碳酸酐酶抑制劑、β阻斷劑降眼壓；閉角型行周邊虹膜切開術；藥物失敗時行小梁切除術。"
+    },
+    {
+     "en": "Teach lifelong medication, MedicAlert bracelet, avoid anticholinergic/atropine-like drugs, check OTC drugs with provider, report eye pain, halos, vision change.",
+     "zh": "衛教：終生用藥、佩戴醫療警示手環、避免抗膽鹼/類阿托品藥物、OTC藥品先詢問醫師、眼痛、暈輪與視力改變需通報。"
+    }
+   ],
+   "pdf_pages": [
+    913
+   ]
+  },
+  {
+   "heading": {
+    "en": "Retinal detachment, macular degeneration, tumors",
+    "zh": "視網膜剝離、黃斑部病變與腫瘤"
+   },
+   "points": [
+    {
+     "en": "Retinal detachment: flashes of light, floaters, curtain over vision, painless visual field loss; emergency.",
+     "zh": "視網膜剝離：閃光、飛蚊、如簾幕遮住視野、無痛視野缺損；屬緊急。"
+    },
+    {
+     "en": "Immediate care: bed rest, patch both eyes as prescribed, position per detachment location, avoid jerky head movement, speak before approaching.",
+     "zh": "立即處置：臥床、依醫囑雙眼包紮、依剝離位置擺位、避免快速轉頭、接近前先出聲。"
+    },
+    {
+     "en": "Repairs: laser, cryosurgery, diathermy, scleral buckling, gas or silicone oil. Post-op: monitor hemorrhage, sudden sharp pain, prevent vomiting/straining, limit reading 3-5 weeks, dark glasses, avoid bending from waist.",
+     "zh": "修補：雷射、冷凍、電燒、鞏膜扣壓、注入氣體或矽油。術後：監測出血、突發劇痛，預防嘔吐與用力，閱讀限制3-5週，戴墨鏡，避免彎腰。"
+    },
+    {
+     "en": "Macular degeneration: loss of central vision, distortion; dry (atrophic, common) vs wet (exudative, faster). Maximize remaining vision; laser/photodynamic therapy.",
+     "zh": "黃斑部病變：中心視力喪失與扭曲；乾性(萎縮型、較常見)與濕性(滲出型、進展較快)。最大化殘餘視力；雷射/光動力療法。"
+    },
+    {
+     "en": "Ocular melanoma: most common adult malignant eye tumor; enucleation or radioactive plaque. After enucleation: monitor dressing for bright red bleeding, emotional support, prosthesis in about 1 month.",
+     "zh": "眼黑色素瘤：成人最常見惡性眼腫瘤；眼球摘除或放射性敷貼。眼球摘除後：觀察敷料有無鮮紅出血、情緒支持，約1個月後裝義眼。"
+    }
+   ],
+   "pdf_pages": [
+    913,
+    914,
+    915
+   ]
+  },
+  {
+   "heading": {
+    "en": "Eye injuries and donation",
+    "zh": "眼外傷與眼角膜捐贈"
+   },
+   "points": [
+    {
+     "en": "Hyphema: blood in anterior chamber; semi-Fowler's rest, avoid sudden eye movement, cycloplegic drops, eye shield.",
+     "zh": "前房出血：前房積血；半坐臥休息、避免突然眼動、睫狀肌麻痺劑、眼罩。"
+    },
+    {
+     "en": "Contusion: apply ice immediately; full eye exam. Foreign body: look up, irrigate/remove with moist applicator.",
+     "zh": "挫傷：立即冰敷並做完整眼科檢查。異物：向上看，以濕棉棒或沖洗移除。"
+    },
+    {
+     "en": "Penetrating object: never remove; cover with cup/shield, cover both eyes, no pressure, do not let client bend or lie flat; no MRI.",
+     "zh": "穿透性異物：不可拔除；以杯狀護罩覆蓋、雙眼遮蓋、不可加壓，避免彎腰或平躺；禁做MRI。"
+    },
+    {
+     "en": "Chemical burn: flush with water at least 15-20 minutes immediately, check pH, continue irrigation until pH acceptable.",
+     "zh": "化學灼傷：立即以清水沖洗至少15-20分鐘，測pH，持續沖洗至pH正常。"
+    },
+    {
+     "en": "Corneal transplant rejection signs RSVP: Redness, Swelling, decreased Vision, Pain; treat with topical corticosteroids. Wear shield at night for 1 month.",
+     "zh": "角膜移植排斥徵象RSVP：紅、腫、視力下降、疼痛；以局部類固醇治療。夜間戴眼罩1個月。"
+    }
+   ],
+   "pdf_pages": [
+    915,
+    916
+   ]
+  },
+  {
+   "heading": {
+    "en": "Eyelid infections",
+    "zh": "眼瞼感染與發炎"
+   },
+   "points": [
+    {
+     "en": "Blepharitis: chronic lid margin inflammation; lid hygiene, warm compresses, possible antibiotics or steroids.",
+     "zh": "眼瞼緣炎：慢性眼瞼緣發炎；眼瞼清潔、溫敷、可能使用抗生素或類固醇。"
+    },
+    {
+     "en": "Hordeolum (stye): painful red lump from infected gland; warm wet compress, do not squeeze, no makeup or contacts.",
+     "zh": "麥粒腫：腺體感染的紅痛腫塊；溫濕敷、不可擠壓、避免化妝與隱形眼鏡。"
+    },
+    {
+     "en": "Chalazion: painless firm lump from blocked gland; warm compresses, do not squeeze.",
+     "zh": "霰粒腫：腺體阻塞的無痛硬塊；溫敷、不可擠壓。"
+    }
+   ],
+   "pdf_pages": [
+    916,
+    917
+   ]
+  },
+  {
+   "heading": {
+    "en": "Ear anatomy, tests and hearing loss",
+    "zh": "耳朵解剖、檢查與聽力損失"
+   },
+   "points": [
+    {
+     "en": "External ear (pinna to tympanic membrane), middle ear (malleus, incus, stapes; eustachian tube equalizes pressure), inner ear (cochlea = hearing, semicircular canals = balance, CN VIII).",
+     "zh": "外耳(耳廓至鼓膜)、中耳(錘骨、砧骨、鐙骨；耳咽管平衡壓力)、內耳(耳蝸=聽覺、半規管=平衡、第八對腦神經)。"
+    },
+    {
+     "en": "Tests: audiometry (pure tone, speech), electronystagmography (NPO 3 h, avoid caffeine 24-48 h, ears irrigated with cool/warm water, nausea possible), tomography, MRI.",
+     "zh": "檢查：聽力檢查(純音、語音)、眼震電圖(禁食3小時、24-48小時避免咖啡因、以冷熱水沖洗耳朵可能噁心)、斷層攝影、MRI。"
+    },
+    {
+     "en": "Conductive loss: blocked sound in outer/middle ear, often correctable. Sensorineural: inner ear/CN VIII damage, often permanent. Mixed: both. Central: brain interpretation.",
+     "zh": "傳導性：外耳/中耳阻礙聲音，常可矯正。感覺神經性：內耳/第八對腦神經受損，多為永久。混合型：兩者皆有。中樞性：腦部解讀障礙。"
+    },
+    {
+     "en": "Hearing aids help conductive loss (amplify only); cochlear implant for sensorineural loss. Hearing aid care: turn off before removal, keep dry, remove battery when unused.",
+     "zh": "助聽器適用傳導性聽損(僅放大聲音)；人工電子耳用於感覺神經性聽損。助聽器護理：取下前先關閉、保持乾燥、不用時取出電池。"
+    },
+    {
+     "en": "Communication: face the client, lower pitch, normal volume (do not shout), reduce noise, rephrase, get attention first.",
+     "zh": "溝通：面對病人、降低音調、正常音量(不要大叫)、減少噪音、換句話說、先引起注意。"
+    },
+    {
+     "en": "Presbycusis: age-related bilateral sensorineural loss; hears sound but cannot understand words. No cotton-tipped applicators in the ear canal.",
+     "zh": "老年性聽損：老化造成的雙側感覺神經性聽損；聽得見聲音但聽不清字句。不可用棉花棒掏耳朵。"
+    }
+   ],
+   "pdf_pages": [
+    917,
+    918,
+    919,
+    920
+   ]
+  },
+  {
+   "heading": {
+    "en": "Middle ear infection, mastoiditis, otosclerosis",
+    "zh": "中耳炎、乳突炎與耳硬化症"
+   },
+   "points": [
+    {
+     "en": "Chronic otitis media: debris removal, myringoplasty, mastoidectomy. Post-op: hearing reduced from packing, operative ear up, avoid forceful coughing.",
+     "zh": "慢性中耳炎：清除碎屑、鼓膜成形術、乳突切除術。術後：因填塞聽力暫時下降、患耳朝上、避免用力咳嗽。"
+    },
+    {
+     "en": "Myringotomy teaching: avoid straining, straws, air travel, getting head wet; blow nose one side at a time with mouth open; cotton with petroleum jelly in ear.",
+     "zh": "鼓膜切開術衛教：避免用力、吸管、搭飛機、頭部進水；擤鼻一次一側且張口；耳內放塗凡士林棉球。"
+    },
+    {
+     "en": "Mastoiditis: swelling and pain behind ear, low-grade fever, immobile dull tympanic membrane; complications meningitis, brain abscess, CN VI and VII damage. Monitor for stiff neck and vomiting.",
+     "zh": "乳突炎：耳後腫痛、低燒、鼓膜暗淡不動；併發腦膜炎、腦膿瘍、第VI與VII對腦神經受損。監測頸部僵硬與嘔吐。"
+    },
+    {
+     "en": "Otosclerosis: stapes fixation, slowly progressive bilateral conductive loss, tinnitus, Schwartze's sign (pink tympanic membrane); stapedectomy.",
+     "zh": "耳硬化症：鐙骨固定，緩慢進行性雙側傳導性聽損、耳鳴、Schwartze徵象(鼓膜粉紅)；鐙骨切除術。"
+    },
+    {
+     "en": "Stapedectomy post-op: hearing worse initially (up to 6 weeks), avoid sneezing, nose blowing, straining, pressure changes; assess facial nerve, vertigo; move head slowly.",
+     "zh": "鐙骨切除術後：初期聽力更差(可長達6週)，避免打噴嚏、擤鼻、用力、壓力變化；評估顏面神經與眩暈；緩慢轉頭。"
+    }
+   ],
+   "pdf_pages": [
+    920,
+    921,
+    922
+   ]
+  },
+  {
+   "heading": {
+    "en": "Labyrinthitis, Meniere's disease, acoustic neuroma, trauma, cerumen",
+    "zh": "迷路炎、梅尼爾氏症、聽神經瘤、外傷與耳垢"
+   },
+   "points": [
+    {
+     "en": "Labyrinthitis: vertigo, tinnitus, nystagmus, hearing loss, nausea; watch for meningitis (headache, stiff neck, lethargy); bed rest in dark room, antibiotics, antiemetics.",
+     "zh": "迷路炎：眩暈、耳鳴、眼震、聽力下降、噁心；注意腦膜炎(頭痛、頸僵、嗜睡)；於暗室臥床、抗生素、止吐劑。"
+    },
+    {
+     "en": "Meniere's disease: triad of tinnitus, vertigo, unilateral sensorineural hearing loss, plus ear fullness; safety is the priority.",
+     "zh": "梅尼爾氏症：耳鳴、眩暈、單側感覺神經性聽損三聯症，另有耳悶；安全為優先。"
+    },
+    {
+     "en": "Meniere's care: low-sodium diet and fluid restriction, stop smoking, avoid flickering TV, diuretics, antihistamines, antiemetics, vestibular rehab, move head slowly.",
+     "zh": "梅尼爾氏症照護：低鈉飲食與限水、戒菸、避免閃爍電視、利尿劑、抗組織胺、止吐劑、前庭復健、緩慢轉頭。"
+    },
+    {
+     "en": "Acoustic neuroma: benign tumor of CN VIII; begins with tinnitus and sensorineural loss; craniotomy, preserve facial nerve.",
+     "zh": "聽神經瘤：第八對腦神經良性腫瘤；始於耳鳴與感覺神經性聽損；顱骨切開術，保留顏面神經。"
+    },
+    {
+     "en": "Ear trauma: tympanic membrane perforations usually heal; avoid forceful nose blowing and non-pressurized flights.",
+     "zh": "耳外傷：鼓膜穿孔多可自癒；避免用力擤鼻與搭乘非加壓飛機。"
+    },
+    {
+     "en": "Cerumen: soften with glycerin/mineral oil/hydrogen peroxide then irrigate (max 50-70 mL); irrigation contraindicated with perforation or otitis. Never use ear candles. Insects: kill with mineral oil first; vegetable matter expands with water.",
+     "zh": "耳垢：先以甘油/礦物油/雙氧水軟化後沖洗(最多50-70 mL)；鼓膜穿孔或中耳炎禁止沖洗。禁用耳燭。昆蟲：先以礦物油殺死；植物性異物遇水會膨脹。"
+    }
+   ],
+   "pdf_pages": [
+    922,
+    923,
+    924
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Acute angle-closure glaucoma is an emergency: sudden severe eye pain, halos, blurred vision, nausea/vomiting; lower IOP promptly.",
+   "zh": "急性閉角型青光眼為急症：突發劇烈眼痛、暈輪、視力模糊、噁心嘔吐；需儘速降眼壓。",
+   "pdf_pages": [
+    913
+   ]
+  },
+  {
+   "en": "Normal IOP is 10-21 mm Hg; glaucoma clients must avoid atropine-like (anticholinergic) drugs and use medication for life.",
+   "zh": "正常眼壓10-21 mmHg；青光眼病人避免類阿托品(抗膽鹼)藥並終生用藥。",
+   "pdf_pages": [
+    911,
+    913
+   ]
+  },
+  {
+   "en": "Retinal detachment: flashes, floaters, curtain over vision; bed rest, patch eyes, avoid jerky head movement.",
+   "zh": "視網膜剝離：閃光、飛蚊、簾幕感；臥床、遮眼、避免快速轉頭。",
+   "pdf_pages": [
+    913,
+    914
+   ]
+  },
+  {
+   "en": "Penetrating eye injury: do NOT remove object, shield without pressure, cover both eyes, keep client upright/still, no MRI.",
+   "zh": "眼睛穿透傷：不可拔除異物，無壓力護罩、雙眼遮蓋、病人保持直立/靜止，禁做MRI。",
+   "pdf_pages": [
+    915
+   ]
+  },
+  {
+   "en": "Chemical eye splash: irrigate immediately with water for at least 15-20 minutes, then ED; check pH.",
+   "zh": "眼睛化學濺傷：立即以清水沖洗至少15-20分鐘後送急診；測pH。",
+   "pdf_pages": [
+    915,
+    916
+   ]
+  },
+  {
+   "en": "After cataract surgery: avoid bending, straining, coughing, rubbing; report severe pain, decreased vision, redness, discharge.",
+   "zh": "白內障術後：避免彎腰、用力、咳嗽、揉眼；劇痛、視力下降、紅腫、分泌物需通報。",
+   "pdf_pages": [
+    912,
+    913
+   ]
+  },
+  {
+   "en": "Corneal graft rejection RSVP: Redness, Swelling, decreased Vision, Pain.",
+   "zh": "角膜移植排斥RSVP：紅、腫、視力下降、疼痛。",
+   "pdf_pages": [
+    916
+   ]
+  },
+  {
+   "en": "Hyphema: semi-Fowler's, restrict activity and reading, cycloplegics to rest the eye.",
+   "zh": "前房出血：半坐臥、限制活動與閱讀、睫狀肌麻痺劑讓眼睛休息。",
+   "pdf_pages": [
+    915
+   ]
+  },
+  {
+   "en": "Fluorescein angiography: skin yellow, urine bright green/orange up to 2 days; check dye allergy.",
+   "zh": "螢光眼底攝影：皮膚黃染、尿液亮綠/橙色最多2天；確認染劑過敏。",
+   "pdf_pages": [
+    910
+   ]
+  },
+  {
+   "en": "Hearing loss: conductive (outer/middle ear; hearing aids help) vs sensorineural (inner ear/CN VIII; often permanent).",
+   "zh": "聽損：傳導性(外/中耳，助聽器有幫助)與感覺神經性(內耳/CN VIII，常永久)。",
+   "pdf_pages": [
+    918,
+    919
+   ]
+  },
+  {
+   "en": "Do not irrigate the ear if tympanic membrane perforation is suspected; warm irrigant to 37 C (98.6 F) and aim at canal wall.",
+   "zh": "懷疑鼓膜穿孔時不可沖洗耳朵；沖洗液加溫至37°C(98.6°F)並朝向耳道壁。",
+   "pdf_pages": [
+    923,
+    924
+   ]
+  },
+  {
+   "en": "Mastoiditis/labyrinthitis: monitor for meningitis (stiff neck, headache, vomiting, lethargy).",
+   "zh": "乳突炎/迷路炎：監測腦膜炎(頸僵、頭痛、嘔吐、嗜睡)。",
+   "pdf_pages": [
+    921,
+    922
+   ]
+  },
+  {
+   "en": "Meniere's disease: tinnitus + vertigo + sensorineural hearing loss; priority is safety; low sodium and fluid restriction.",
+   "zh": "梅尼爾氏症：耳鳴+眩暈+感覺神經性聽損；優先為安全；低鈉與限水。",
+   "pdf_pages": [
+    922,
+    923
+   ]
+  },
+  {
+   "en": "Never use cotton-tipped applicators or ear candles in ear canal.",
+   "zh": "耳道內不可使用棉花棒或耳燭。",
+   "pdf_pages": [
+    920,
+    924
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "RSVP = corneal graft rejection signs: Redness, Swelling, Vision decrease, Pain.",
+   "zh": "RSVP=角膜移植排斥：紅、腫、視力下降、疼痛。",
+   "pdf_pages": [
+    916
+   ]
+  },
+  {
+   "en": "Cataract/retinal detachment post-op: avoid bending, straining, coughing, sneezing, lifting (anything that raises IOP).",
+   "zh": "白內障/視網膜剝離術後：避免彎腰、用力、咳嗽、打噴嚏、提重物(任何升高眼壓之行為)。",
+   "pdf_pages": [
+    912,
+    914
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 909,
+   "caption": {
+    "en": "Eye anatomy overview: layers, rods and cones, optic disc.",
+    "zh": "眼睛解剖概覽：分層、桿錐細胞、視神經盤。"
+   }
+  },
+  {
+   "pdf_page": 912,
+   "caption": {
+    "en": "Cataract management and Fig. 57.1 cloudy lens.",
+    "zh": "白內障處置與圖57.1混濁水晶體。"
+   }
+  },
+  {
+   "pdf_page": 913,
+   "caption": {
+    "en": "Box 57.2: client education after cataract surgery; glaucoma types and care.",
+    "zh": "方塊57.2：白內障術後衛教；青光眼類型與照護。"
+   }
+  },
+  {
+   "pdf_page": 914,
+   "caption": {
+    "en": "Fig. 57.2: scleral buckling for retinal detachment; postoperative care.",
+    "zh": "圖57.2：視網膜剝離鞏膜扣壓術；術後照護。"
+   }
+  },
+  {
+   "pdf_page": 916,
+   "caption": {
+    "en": "Clinical Judgment: chemical eye splash actions; corneal donation and rejection (RSVP).",
+    "zh": "臨床判斷：眼睛化學濺傷處置；角膜捐贈與排斥(RSVP)。"
+   }
+  },
+  {
+   "pdf_page": 919,
+   "caption": {
+    "en": "Fig. 57.4: anatomy of conductive, sensorineural and mixed hearing loss; Box 57.4 signs of hearing loss.",
+    "zh": "圖57.4：傳導性、感覺神經性與混合型聽損的解剖；方塊57.4聽損徵象。"
+   }
+  },
+  {
+   "pdf_page": 920,
+   "caption": {
+    "en": "Boxes 57.5-57.7: communicating with hearing-impaired clients, hearing aid and myringotomy teaching.",
+    "zh": "方塊57.5-57.7：與聽障者溝通、助聽器與鼓膜切開術衛教。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client reports sudden severe eye pain, halos around lights and nausea. What does the nurse suspect?",
+    "zh": "病人主訴突發劇烈眼痛、燈光暈輪與噁心，護理師懷疑："
+   },
+   "options": [
+    {
+     "en": "Cataract",
+     "zh": "白內障"
+    },
+    {
+     "en": "Acute angle-closure glaucoma",
+     "zh": "急性閉角型青光眼"
+    },
+    {
+     "en": "Presbyopia",
+     "zh": "老花眼"
+    },
+    {
+     "en": "Blepharitis",
+     "zh": "眼瞼緣炎"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "This triad indicates acute angle-closure glaucoma, a medical emergency.",
+    "zh": "此組症狀代表急性閉角型青光眼，屬急症。"
+   },
+   "pdf_pages": [
+    913
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client has a knife embedded in the eye. Which actions are appropriate? Select all that apply.",
+    "zh": "病人眼中插有刀具，下列哪些處置適當？(多選)"
+   },
+   "options": [
+    {
+     "en": "Remove the object gently",
+     "zh": "輕輕拔除異物"
+    },
+    {
+     "en": "Cover with a rigid cup without pressure",
+     "zh": "以硬杯覆蓋且不加壓"
+    },
+    {
+     "en": "Cover the unaffected eye as well",
+     "zh": "同時遮蓋健側眼"
+    },
+    {
+     "en": "Have the client lie flat",
+     "zh": "讓病人平躺"
+    },
+    {
+     "en": "Prepare for imaging other than MRI",
+     "zh": "準備MRI以外的影像檢查"
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Never remove the object; limit eye movement; MRI is contraindicated because of possible metal.",
+    "zh": "不可拔除異物；減少眼動；因可能含金屬，禁做MRI。"
+   },
+   "pdf_pages": [
+    915
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client's eyes were splashed with a chemical. The first action is to:",
+    "zh": "病人眼睛被化學物質濺到，第一步是："
+   },
+   "options": [
+    {
+     "en": "Call the ophthalmologist",
+     "zh": "聯絡眼科醫師"
+    },
+    {
+     "en": "Irrigate with water for 15-20 minutes",
+     "zh": "以清水沖洗15-20分鐘"
+    },
+    {
+     "en": "Apply a patch",
+     "zh": "包紮眼睛"
+    },
+    {
+     "en": "Neutralize with weak acid",
+     "zh": "以弱酸中和"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Immediate copious irrigation limits damage.",
+    "zh": "立即大量沖洗可減少傷害。"
+   },
+   "pdf_pages": [
+    915,
+    916
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instructions apply after cataract surgery? Select all that apply.",
+    "zh": "白內障術後哪些衛教正確？(多選)"
+   },
+   "options": [
+    {
+     "en": "Avoid bending over and straining",
+     "zh": "避免彎腰與用力"
+    },
+    {
+     "en": "Wear an eye shield at bedtime",
+     "zh": "睡覺時戴眼罩"
+    },
+    {
+     "en": "Rub the eye if it itches",
+     "zh": "癢時可揉眼"
+    },
+    {
+     "en": "Report severe pain or decreased vision",
+     "zh": "劇痛或視力下降需通報"
+    },
+    {
+     "en": "Prevent constipation",
+     "zh": "預防便秘"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "rationale": {
+    "en": "Rubbing and straining raise IOP and risk the surgical site.",
+    "zh": "揉眼與用力會升高眼壓並危及手術部位。"
+   },
+   "pdf_pages": [
+    912,
+    913
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse performs ear irrigation. Which action is correct?",
+    "zh": "護理師執行耳朵沖洗，何者正確？"
+   },
+   "options": [
+    {
+     "en": "Direct the stream at the eardrum",
+     "zh": "將水流直射鼓膜"
+    },
+    {
+     "en": "Use solution at 37 C (98.6 F)",
+     "zh": "使用37°C(98.6°F)溶液"
+    },
+    {
+     "en": "Irrigate if perforation is suspected",
+     "zh": "懷疑穿孔時仍沖洗"
+    },
+    {
+     "en": "Use cold solution",
+     "zh": "使用冷溶液"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Solution at body temperature prevents vertigo and nausea; direct to canal wall; never irrigate with perforation.",
+    "zh": "體溫的溶液可避免眩暈噁心；水流朝向耳道壁；穿孔時禁止沖洗。"
+   },
+   "pdf_pages": [
+    923,
+    924
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with Meniere's disease is having a vertigo attack. Priority nursing action?",
+    "zh": "梅尼爾氏症病人眩暈發作，優先護理措施："
+   },
+   "options": [
+    {
+     "en": "Encourage ambulation",
+     "zh": "鼓勵走動"
+    },
+    {
+     "en": "Institute safety measures and bed rest in a quiet room",
+     "zh": "落實安全措施並於安靜環境臥床"
+    },
+    {
+     "en": "Increase salt intake",
+     "zh": "增加鹽分攝取"
+    },
+    {
+     "en": "Turn on the TV",
+     "zh": "打開電視"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Safety is the priority; low sodium; avoid flickering lights.",
+    "zh": "安全優先；低鈉；避免閃爍光線。"
+   },
+   "pdf_pages": [
+    922,
+    923
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client post-stapedectomy asks about hearing. The best response is:",
+    "zh": "鐙骨切除術後病人詢問聽力，最佳回應："
+   },
+   "options": [
+    {
+     "en": "Hearing will be normal immediately",
+     "zh": "聽力立刻正常"
+    },
+    {
+     "en": "Hearing is initially worse and may take up to 6 weeks to improve",
+     "zh": "初期聽力更差，最久需6週才改善"
+    },
+    {
+     "en": "Permanent hearing loss is expected",
+     "zh": "預期永久失聽"
+    },
+    {
+     "en": "Blow your nose to clear the ear",
+     "zh": "用力擤鼻清耳"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Swelling and packing initially reduce hearing; avoid nose blowing.",
+    "zh": "腫脹與填塞使初期聽力下降；應避免擤鼻。"
+   },
+   "pdf_pages": [
+    922
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with chronic otitis media develops stiff neck, headache and vomiting. The nurse suspects:",
+    "zh": "慢性中耳炎病人出現頸僵、頭痛與嘔吐，護理師懷疑："
+   },
+   "options": [
+    {
+     "en": "Meningitis",
+     "zh": "腦膜炎"
+    },
+    {
+     "en": "Cerumen impaction",
+     "zh": "耳垢栓塞"
+    },
+    {
+     "en": "Presbycusis",
+     "zh": "老年性聽損"
+    },
+    {
+     "en": "Otosclerosis",
+     "zh": "耳硬化症"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Infection can spread intracranially; notify the provider immediately.",
+    "zh": "感染可擴散至顱內；需立即通報醫師。"
+   },
+   "pdf_pages": [
+    921,
+    922
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "NCLEX Eye and Ear Disorder Quiz (ProProfs)",
+   "url": "https://www.proprofs.com/quiz-school/story.php?title=mjaxntaznayucr",
+   "note": {
+    "en": "Free eye and ear disorder quiz with explanations.",
+    "zh": "附解說的免費眼耳疾病測驗。"
+   }
+  },
+  {
+   "title": "Sensory Disorders (Eye & Ear) Review (getoncourse)",
+   "url": "https://getoncourse.ai/notes/nclex-rn/medical-surgical-nursing/sensory-disorders-eye-ear/",
+   "note": {
+    "en": "Review notes for sensory disorders in NCLEX-RN med-surg (some content may require sign-up).",
+    "zh": "NCLEX-RN內外科感覺障礙複習筆記(部分內容可能需註冊)。"
+   }
+  }
+ ]
+}

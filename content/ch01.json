@@ -1,0 +1,698 @@
+{
+ "number": 1,
+ "title": {
+  "en": "Clinical Judgment and the Next Generation NCLEX (NGN)-RN Examination",
+  "zh": "臨床判斷與新世代 NCLEX（NGN）-RN 考試"
+ },
+ "overview": {
+  "en": "This chapter explains how the NCLEX-RN is built and delivered: a variable-length computer adaptive test based on the NCSBN test plan, with Client Needs categories, integrated processes and the Clinical Judgment Measurement Model. It also covers question formats, NGN item types and scoring, registration and test-day rules.",
+  "zh": "本章說明 NCLEX-RN 的設計與施測方式：依 NCSBN 測驗藍圖進行的變動長度電腦適性測驗，包含病人需求類別、整合性過程及臨床判斷測量模式。另介紹題型、NGN 題型與計分、報名與考試當日規定。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Clinical judgment and the NCJMM",
+    "zh": "臨床判斷與 NCJMM"
+   },
+   "points": [
+    {
+     "en": "Clinical judgment is the observable result of critical thinking and decision making; the NGN demands higher-level application of it.",
+     "zh": "臨床判斷是批判性思考與決策的可觀察結果；NGN 要求更高層次的應用。"
+    },
+    {
+     "en": "NCJMM has six cognitive skills: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes.",
+     "zh": "NCJMM 含六項認知技能：辨識線索、分析線索、排定假設優先順序、產生解決方案、採取行動、評值結果。"
+    },
+    {
+     "en": "They parallel the nursing process: assessment, analysis, planning, implementation, evaluation.",
+     "zh": "這些技能對應護理過程：評估、分析、計畫、執行、評值。"
+    },
+    {
+     "en": "The exam contains traditional stand-alone items, clinical-judgment stand-alone items (bow-tie, trend) and unfolding case studies; NGN began April 2023.",
+     "zh": "考試包含傳統單題、臨床判斷單題（蝴蝶結、趨勢）與漸進式個案；NGN 自 2023 年 4 月實施。"
+    },
+    {
+     "en": "Check ncsbn.org regularly because item types and the test plan may change.",
+     "zh": "項目類型與藍圖可能調整，請定期查閱 ncsbn.org。"
+    }
+   ],
+   "pdf_pages": [
+    21
+   ]
+  },
+  {
+   "heading": {
+    "en": "Computer adaptive testing (CAT) and test plan development",
+    "zh": "電腦適性測驗（CAT）與藍圖制定"
+   },
+   "points": [
+    {
+     "en": "The exam is a variable-length CAT: each item is chosen to match your ability while meeting test-plan percentages; once requirements are met a stopping rule gives a reliable pass/fail decision.",
+     "zh": "本考試為變動長度 CAT：每題依能力與藍圖比例選出，達到要求後依停止規則做出可靠的通過/不通過判定。"
+    },
+    {
+     "en": "You cannot skip questions or go back to change answers; there is no penalty for guessing, so make an educated guess.",
+     "zh": "不能跳題或回頭改答案；猜題不扣分，應做有根據的猜測。"
+    },
+    {
+     "en": "No computer experience is needed; an NCSBN online tutorial covers the mouse, on-screen calculator and each question type.",
+     "zh": "不需電腦經驗；NCSBN 線上教學涵蓋滑鼠、螢幕計算機與各題型操作。"
+    },
+    {
+     "en": "The test plan comes from NCSBN, state laws and a practice analysis study done every 3 years with newly licensed RNs.",
+     "zh": "測驗藍圖來自 NCSBN、各州法規及每 3 年對新進 RN 進行的執業分析研究。"
+    },
+    {
+     "en": "Items are written from nursing activities, not from content areas such as pediatrics or maternity.",
+     "zh": "題目依護理活動撰寫，而非兒科、產科等內容領域。"
+    }
+   ],
+   "pdf_pages": [
+    22
+   ]
+  },
+  {
+   "heading": {
+    "en": "Test plan: cognitive level and Client Needs",
+    "zh": "測驗藍圖：認知層次與病人需求"
+   },
+   "points": [
+    {
+     "en": "Questions are at the applying level or higher (applying, analyzing, evaluating, creating); no simple remembering or understanding items.",
+     "zh": "題目為應用層次以上（應用、分析、評價、創造），沒有單純記憶或理解題。"
+    },
+    {
+     "en": "Four Client Needs: Safe and Effective Care Environment, Health Promotion and Maintenance, Psychosocial Integrity, Physiological Integrity.",
+     "zh": "四大病人需求：安全有效的照護環境、健康促進與維護、心理社會整合、生理完整性。"
+    },
+    {
+     "en": "Percentages: Management of Care 17-23; Safety and Infection Control 9-15; Health Promotion 6-12; Psychosocial 6-12; Basic Care and Comfort 6-12; Pharmacological and Parenteral Therapies 12-18; Reduction of Risk Potential 9-15; Physiological Adaptation 11-17.",
+     "zh": "比例：照護管理 17-23；安全與感染控制 9-15；健康促進 6-12；心理社會 6-12；基本照護與舒適 6-12；藥物與腸道外治療 12-18；降低風險 9-15；生理適應 11-17。"
+    },
+    {
+     "en": "Integrated processes: Caring, Communication and Documentation, Nursing Process, Culture and Spirituality, Teaching and Learning.",
+     "zh": "整合性過程：關懷、溝通與文件記錄、護理過程、文化與靈性、教學與學習。"
+    }
+   ],
+   "pdf_pages": [
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "heading": {
+    "en": "Question types and NGN item types",
+    "zh": "題型與 NGN 題型"
+   },
+   "points": [
+    {
+     "en": "Current formats: multiple choice, fill-in-the-blank (type a number; round at the end), multiple response/SATA, ordered response, hot spot, chart/exhibit, graphic options, audio.",
+     "zh": "現有題型：選擇題、填空（輸入數字，最後才四捨五入）、多重選擇/SATA、排序題、熱點圖、圖表/檔案題、圖片選項、聽診音檔題。"
+    },
+    {
+     "en": "Traditional types are scored 0 or 1 (dichotomous, no partial credit).",
+     "zh": "傳統題型計分為 0 或 1（無部分給分）。"
+    },
+    {
+     "en": "NGN: each candidate gets 3 unfolding case studies with 6 items each (all six cognitive skills tested), given within the first 85 items; bow-tie and trend stand-alone items may follow.",
+     "zh": "NGN：每位考生會有 3 個漸進式個案、每個 6 題（涵蓋六項認知技能），出現在前 85 題內；之後可能出現蝴蝶結與趨勢單題。"
+    },
+    {
+     "en": "NGN item types include highlight in text/table, matrix choice/response, multiple response select N or SATA, grouping, drag-and-drop and drop-down cloze/rationale/in table.",
+     "zh": "NGN 題型包含文字/表格標示、矩陣選擇/回應、選 N 項或 SATA、分組、拖放與下拉式填空/理由/表格。"
+    },
+    {
+     "en": "NGN scoring: plus-minus (+/-) for select-any-number items, 0/1 for items like cloze and bow-tie, and rationale scoring for paired answers; most NGN items give partial credit.",
+     "zh": "NGN 計分：任意選擇題用加減分（負分以 0 計）；填空、蝴蝶結等用 0/1；成對答案用理由計分；多數 NGN 題可部分給分。"
+    }
+   ],
+   "pdf_pages": [
+    25,
+    26,
+    27,
+    28,
+    30
+   ]
+  },
+  {
+   "heading": {
+    "en": "Registration and scheduling",
+    "zh": "報名與預約"
+   },
+   "points": [
+    {
+     "en": "Obtain the Candidate Bulletin; apply to the state board of nursing where you want licensure, then register and pay fees.",
+     "zh": "取得考生手冊；向欲取得執照之州護理委員會申請，並完成報名與繳費。"
+    },
+    {
+     "en": "You need an Authorization to Test (ATT) before scheduling; note its validity dates; you may test in a different state from the licensing state.",
+     "zh": "須先取得考試授權書（ATT）才能預約；注意有效期限；可在非執照申請州應試。"
+    },
+    {
+     "en": "Change or cancel with proper notice; a no-show forfeits the fee and invalidates the ATT.",
+     "zh": "改期或取消須依規定提前通知；缺考將沒收費用且 ATT 失效。"
+    },
+    {
+     "en": "Request testing accommodations from the board of nursing before registering.",
+     "zh": "如需考試調整措施，須在報名前向護理委員會申請。"
+    }
+   ],
+   "pdf_pages": [
+    28,
+    29,
+    32
+   ]
+  },
+  {
+   "heading": {
+    "en": "Test day and testing center",
+    "zh": "考試當日與考場"
+   },
+   "points": [
+    {
+     "en": "Arrive at least 30 minutes early; bring the ATT and valid photo ID with signature whose names match the ATT.",
+     "zh": "至少提前 30 分鐘到場；攜帶 ATT 及有效、附相片與簽名且姓名相符的證件。"
+    },
+    {
+     "en": "Fingerprint, palm vein scan, photo and signature are taken; belongings go in a locker; no food, drink or tobacco in the room.",
+     "zh": "會採集指紋、掌靜脈、照片與簽名；個人物品置於置物櫃；考場內不可飲食或吸菸。"
+    },
+    {
+     "en": "Raise your hand for computer problems, a clean note board or a break; breaks are optional but count toward time.",
+     "zh": "電腦問題、需更換白板或休息時請舉手；休息為自由選擇但計入時間。"
+    }
+   ],
+   "pdf_pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "heading": {
+    "en": "Test design, results and licensure",
+    "zh": "考試設計、成績與執照"
+   },
+   "points": [
+    {
+     "en": "Length 85-150 items (70-135 scored), 15 unscored pretest items, 3 unfolding cases (18 items), time limit 5 hours including tutorial and breaks.",
+     "zh": "題數 85-150 題（計分 70-135 題）、15 題不計分預試題、3 個漸進式個案（18 題）、時限 5 小時（含教學與休息）。"
+    },
+    {
+     "en": "Pass/fail is not a percentage of correct answers; it depends on item difficulty and test-plan area.",
+     "zh": "通過與否並非答對百分比，而取決於題目難度與藍圖領域。"
+    },
+    {
+     "en": "Results are scored twice and go to the board of nursing (about 6 weeks); some states offer paid Quick Results after 2 business days.",
+     "zh": "成績會評分兩次並送交護理委員會（約 6 週）；部分州提供付費快速查詢（2 個工作天後）。"
+    },
+    {
+     "en": "Failing candidates receive a performance report; wait 45 days (state rules vary) before retaking.",
+     "zh": "未通過者會收到表現報告；重考須等待 45 天（依州別而異）。"
+    },
+    {
+     "en": "Interstate endorsement or the Nurse Licensure Compact allows practice in other states; international nurses need credential evaluation, English proficiency and visa documents.",
+     "zh": "可透過州際認可或護理執照互惠協定到他州執業；國際護理人員需學歷認證、英語能力及簽證文件。"
+    }
+   ],
+   "pdf_pages": [
+    32,
+    33,
+    34
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "NCJMM order: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes.",
+   "zh": "NCJMM 順序：辨識線索、分析線索、排定假設優先順序、產生解決方案、採取行動、評值結果。",
+   "pdf_pages": [
+    21
+   ]
+  },
+  {
+   "en": "NCLEX items are applying level or higher; no recall-only questions.",
+   "zh": "NCLEX 題目為應用層次以上，沒有純記憶題。",
+   "pdf_pages": [
+    23
+   ]
+  },
+  {
+   "en": "Minimum 85 and maximum 150 items; 5-hour limit; 15 unscored pretest items.",
+   "zh": "最少 85 題、最多 150 題；時限 5 小時；含 15 題不計分預試題。",
+   "pdf_pages": [
+    32
+   ]
+  },
+  {
+   "en": "Management of Care (17-23%) and Pharmacological/Parenteral Therapies (12-18%) are the two heaviest subcategories.",
+   "zh": "照護管理（17-23%）與藥物/腸道外治療（12-18%）是占比最大的兩個子類別。",
+   "pdf_pages": [
+    24
+   ]
+  },
+  {
+   "en": "You cannot skip or return to a question; guessing carries no penalty.",
+   "zh": "不能跳題或回頭作答；猜題不扣分。",
+   "pdf_pages": [
+    22
+   ]
+  },
+  {
+   "en": "Three unfolding case studies (6 items each) are given within the first 85 questions.",
+   "zh": "3 個漸進式個案（各 6 題）會出現在前 85 題內。",
+   "pdf_pages": [
+    25
+   ]
+  },
+  {
+   "en": "Traditional items are scored 0/1; NGN items use plus-minus, 0/1 or rationale partial-credit scoring.",
+   "zh": "傳統題 0/1 計分；NGN 題使用加減分、0/1 或理由部分給分。",
+   "pdf_pages": [
+    25,
+    26,
+    29
+   ]
+  },
+  {
+   "en": "Acute epiglottitis: never examine the throat or take a throat culture; keep airway, sit upright, monitor SpO2, have trach tray ready.",
+   "zh": "急性會厭炎：不可檢查喉嚨或採咽喉培養；維持呼吸道、坐直、監測血氧、備妥氣切包。",
+   "pdf_pages": [
+    28
+   ]
+  },
+  {
+   "en": "Oral contraceptives are contraindicated with thromboembolic disease, cardiovascular disease, hypertension, estrogen-dependent cancer, liver tumors/impairment.",
+   "zh": "口服避孕藥禁忌：血栓栓塞症、心血管疾病、高血壓、雌激素依賴性癌、肝腫瘤或肝功能受損。",
+   "pdf_pages": [
+    30
+   ]
+  },
+  {
+   "en": "Infiltrated IV (blanching, cool, edema): remove the IV first.",
+   "zh": "靜脈輸注外滲（蒼白、冰冷、水腫）：首先拔除靜脈導管。",
+   "pdf_pages": [
+    24
+   ]
+  },
+  {
+   "en": "Early digoxin toxicity: anorexia, nausea, vomiting; visual changes (yellow-green, halos) are later.",
+   "zh": "毛地黃中毒早期：厭食、噁心、嘔吐；視覺異常（黃綠視、光暈）較晚出現。",
+   "pdf_pages": [
+    26
+   ]
+  },
+  {
+   "en": "Magnesium 3.5 mEq/L is high (normal 1.8-2.6): expect drowsiness, weak reflexes, respiratory depression, bradycardia, hypotension.",
+   "zh": "鎂 3.5 mEq/L 偏高（正常 1.8-2.6）：預期嗜睡、反射減弱、呼吸抑制、心搏過緩、低血壓。",
+   "pdf_pages": [
+    26
+   ]
+  },
+  {
+   "en": "Ventricular fibrillation: start CPR immediately and defibrillate as soon as possible.",
+   "zh": "心室顫動：立即 CPR 並盡快去顫。",
+   "pdf_pages": [
+    30
+   ]
+  },
+  {
+   "en": "Dose formula: Desired/Available x Volume (650 mg of 500 mg/15 mL = 19.5 mL).",
+   "zh": "劑量公式：需要量 / 現有量 x 容量（650 mg、500 mg/15 mL = 19.5 mL）。",
+   "pdf_pages": [
+    27
+   ]
+  },
+  {
+   "en": "MRI prep: remove all metal and screen for pacemakers, shrapnel or metal implants.",
+   "zh": "MRI 準備：移除所有金屬並篩檢心律調節器、彈片或金屬植入物。",
+   "pdf_pages": [
+    26
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Acronym for NCJMM: R-A-P-G-T-E = Recognize, Analyze, Prioritize, Generate, Take action, Evaluate (maps to ADPIE).",
+   "zh": "NCJMM 口訣：R-A-P-G-T-E = 辨識、分析、排序、產生方案、行動、評值（對應 ADPIE）。",
+   "pdf_pages": [
+    21
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 21,
+   "caption": {
+    "en": "Table 1.1: the six NCJMM cognitive skills and what each means.",
+    "zh": "表 1.1：NCJMM 六項認知技能及其意義。"
+   }
+  },
+  {
+   "pdf_page": 23,
+   "caption": {
+    "en": "Table 1.2: levels of cognitive ability with hypoglycemia examples.",
+    "zh": "表 1.2：認知層次及低血糖範例。"
+   }
+  },
+  {
+   "pdf_page": 24,
+   "caption": {
+    "en": "Table 1.3: Client Needs categories with exam percentages.",
+    "zh": "表 1.3：病人需求類別與考試比例。"
+   }
+  },
+  {
+   "pdf_page": 26,
+   "caption": {
+    "en": "NGN item types (Table 1.4) and scoring methods (Table 1.5) are on the neighbouring pages; Box 1.5 here shows Physiological Integrity examples.",
+    "zh": "NGN 題型與計分方式見表 1.4/1.5（相鄰頁）；本頁 Box 1.5 為生理完整性範例。"
+   }
+  },
+  {
+   "pdf_page": 30,
+   "caption": {
+    "en": "Chart/exhibit and figure question examples.",
+    "zh": "圖表/檔案題與圖形題範例。"
+   }
+  },
+  {
+   "pdf_page": 32,
+   "caption": {
+    "en": "Table 1.6: NGN test design (85-150 items, 5 hours).",
+    "zh": "表 1.6：NGN 測驗設計（85-150 題、5 小時）。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client with an inflamed forearm IV site shows blanching, coolness and edema. What should the nurse do first?",
+    "zh": "病人前臂靜脈注射處出現蒼白、冰冷與水腫。護理師首先該做什麼？"
+   },
+   "options": [
+    {
+     "en": "Apply a warm compress",
+     "zh": "熱敷"
+    },
+    {
+     "en": "Remove the IV",
+     "zh": "拔除靜脈導管"
+    },
+    {
+     "en": "Elevate the arm",
+     "zh": "抬高手臂"
+    },
+    {
+     "en": "Document the finding",
+     "zh": "記錄發現"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "These are signs of infiltration; stop the infusion and remove the IV to prevent further tissue damage, then follow protocol (compress, elevation, antidote).",
+    "zh": "這些是外滲徵象；先停止輸注並拔除導管以免組織進一步受損，再依規定處理（冷熱敷、抬高、解毒劑）。"
+   },
+   "pdf_pages": [
+    24
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which statements about the NCLEX-RN are correct? Select all that apply.",
+    "zh": "關於 NCLEX-RN，下列哪些正確？（複選）"
+   },
+   "options": [
+    {
+     "en": "The nurse may skip a question and return to it later",
+     "zh": "可以跳題之後再回來作答"
+    },
+    {
+     "en": "The exam is a variable-length computer adaptive test",
+     "zh": "考試為變動長度電腦適性測驗"
+    },
+    {
+     "en": "The maximum length is 150 items",
+     "zh": "最多 150 題"
+    },
+    {
+     "en": "Guessing is penalized",
+     "zh": "猜題會被扣分"
+    },
+    {
+     "en": "Pass/fail depends on item difficulty, not a simple percentage",
+     "zh": "通過與否取決於題目難度而非單純百分比"
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "CAT does not allow skipping or going back; there is no guessing penalty; maximum 150 items; decision is based on ability estimate.",
+    "zh": "CAT 不可跳題或回頭；猜題不扣分；最多 150 題；判定根據能力估計。"
+   },
+   "pdf_pages": [
+    22,
+    32
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Order the NCJMM cognitive skills. Which is the correct sequence?",
+    "zh": "NCJMM 認知技能的正確順序為何？"
+   },
+   "options": [
+    {
+     "en": "Analyze cues, recognize cues, generate solutions, prioritize hypotheses, take action, evaluate outcomes",
+     "zh": "分析線索、辨識線索、產生方案、排序假設、行動、評值"
+    },
+    {
+     "en": "Recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes",
+     "zh": "辨識線索、分析線索、排序假設、產生方案、行動、評值"
+    },
+    {
+     "en": "Recognize cues, prioritize hypotheses, analyze cues, take action, generate solutions, evaluate outcomes",
+     "zh": "辨識線索、排序假設、分析線索、行動、產生方案、評值"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "The model begins with data collection (recognize cues) and ends with evaluating outcomes.",
+    "zh": "模式由蒐集資料（辨識線索）開始，以評值結果結束。"
+   },
+   "pdf_pages": [
+    21
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse prepares 650 mg of acetaminophen liquid labeled 500 mg/15 mL. How many mL will the nurse administer? Record to one decimal place.",
+    "zh": "護理師要給予 650 mg 對乙醯胺酚液體，標示為 500 mg/15 mL。應給幾 mL？（取小數一位）"
+   },
+   "options": [
+    {
+     "en": "15.0 mL",
+     "zh": "15.0 mL"
+    },
+    {
+     "en": "19.5 mL",
+     "zh": "19.5 mL"
+    },
+    {
+     "en": "21.7 mL",
+     "zh": "21.7 mL"
+    },
+    {
+     "en": "13.0 mL",
+     "zh": "13.0 mL"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "650/500 x 15 = 19.5 mL.",
+    "zh": "650/500 x 15 = 19.5 mL。"
+   },
+   "pdf_pages": [
+    27
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A child with suspected acute epiglottitis arrives at the ED. Which actions apply? Select all that apply.",
+    "zh": "疑似急性會厭炎的兒童來到急診。哪些措施適用？（複選）"
+   },
+   "options": [
+    {
+     "en": "Obtain a throat culture",
+     "zh": "採咽喉培養"
+    },
+    {
+     "en": "Auscultate lung sounds",
+     "zh": "聽診肺音"
+    },
+    {
+     "en": "Place the child supine",
+     "zh": "讓孩子平躺"
+    },
+    {
+     "en": "Have a pediatric tracheostomy tray ready",
+     "zh": "備妥兒童氣切包"
+    },
+    {
+     "en": "Apply a pulse oximeter",
+     "zh": "使用血氧監測"
+    }
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "rationale": {
+    "en": "Throat manipulation can precipitate complete obstruction; position upright, monitor oxygenation, and prepare for emergency airway.",
+    "zh": "刺激喉嚨可能引發完全阻塞；採坐姿、監測氧合並備妥緊急氣道設備。"
+   },
+   "pdf_pages": [
+    28
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which Client Needs subcategory has the highest percentage of NCLEX-RN questions?",
+    "zh": "NCLEX-RN 哪個病人需求子類別題數比例最高？"
+   },
+   "options": [
+    {
+     "en": "Management of Care",
+     "zh": "照護管理"
+    },
+    {
+     "en": "Physiological Adaptation",
+     "zh": "生理適應"
+    },
+    {
+     "en": "Psychosocial Integrity",
+     "zh": "心理社會整合"
+    },
+    {
+     "en": "Basic Care and Comfort",
+     "zh": "基本照護與舒適"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Management of Care is 17-23%.",
+    "zh": "照護管理占 17-23%。"
+   },
+   "pdf_pages": [
+    24
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which items on the NGN are scored with plus-minus scoring?",
+    "zh": "下列哪項 NGN 題型採加減分計分？"
+   },
+   "options": [
+    {
+     "en": "Drop-down cloze",
+     "zh": "下拉式填空"
+    },
+    {
+     "en": "Multiple response select all that apply",
+     "zh": "複選（選出所有適用者）"
+    },
+    {
+     "en": "Bow-tie",
+     "zh": "蝴蝶結"
+    },
+    {
+     "en": "Rationale items",
+     "zh": "理由題"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Items where any number of options can be chosen use +/-; cloze and bow-tie use 0/1; rationale items use rationale scoring.",
+    "zh": "可選任意數量選項的題目用加減分；填空與蝴蝶結用 0/1；理由題用理由計分。"
+   },
+   "pdf_pages": [
+    29
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "What to know about the Next Generation NCLEX (NGN)",
+   "url": "https://nurse.org/education/next-generation-nclex-ngn",
+   "note": {
+    "en": "Overview of NGN item types and the exam format.",
+    "zh": "NGN 題型與考試格式概覽。"
+   }
+  },
+  {
+   "title": "How to Use the Clinical Judgment Measurement Model on the Next-Generation NCLEX",
+   "url": "https://dailynurse.springerpub.com/?p=60957",
+   "note": {
+    "en": "Explains the NCJMM and how it appears on the exam.",
+    "zh": "說明 NCJMM 及其在考試中的呈現。"
+   }
+  },
+  {
+   "title": "11.2 Preparing for the NCLEX (WTCS Pressbooks)",
+   "url": "https://wtcs.pressbooks.pub/nursingmpc/?p=487",
+   "note": {
+    "en": "Open textbook chapter on exam preparation.",
+    "zh": "開放教科書章節，介紹考試準備。"
+   }
+  },
+  {
+   "title": "Next Generation NCLEX: Your Questions Answered",
+   "url": "https://leveluprn.com/blogs/resources-for-nursing-students/next-generation-nclex-your-questions-answered",
+   "note": {
+    "en": "FAQ style summary of NGN changes.",
+    "zh": "NGN 變革的常見問答整理。"
+   }
+  }
+ ]
+}

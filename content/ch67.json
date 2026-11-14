@@ -1,0 +1,803 @@
+{
+ "number": 67,
+ "title": {
+  "en": "Addictions",
+  "zh": "成癮"
+ },
+ "overview": {
+  "en": "This chapter covers eating disorders (compulsive overeating, anorexia nervosa, bulimia nervosa) and substance use disorders, including alcohol use and withdrawal, delirium tremens, and intoxication, overdose and withdrawal from CNS depressants, stimulants, opioids, hallucinogens, inhalants and marijuana. Safety, withdrawal recognition, and non-judgmental limit setting are the main test themes.",
+  "zh": "本章涵蓋飲食疾患（強迫性暴食、神經性厭食症、神經性暴食症）與物質使用疾患，包括酒精使用與戒斷、震顫譫妄，以及中樞神經抑制劑、興奮劑、鴉片類、迷幻劑、吸入劑與大麻的中毒、過量與戒斷。主要考點為安全、戒斷辨識與不批判的設限。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Eating disorders: types and assessment",
+    "zh": "飲食疾患：類型與評估"
+   },
+   "points": [
+    {
+     "en": "Compulsive overeating: binge-like eating without purging, done secretly, relieves tension but brings guilt and depression; repeated failed diets.",
+     "zh": "強迫性暴食：暴食但不催吐，常偷偷進行，可緩解緊張但帶來罪惡感與憂鬱；多次節食失敗。"
+    },
+    {
+     "en": "Anorexia nervosa: intense fear of obesity, distorted body image, refusal to eat, compulsive exercise, perfectionism; can be fatal (starvation, suicide, cardiomyopathy, electrolyte imbalance).",
+     "zh": "神經性厭食症：極度害怕肥胖、身體意象扭曲、拒食、強迫運動、完美主義；可致命（飢餓、自殺、心肌病變、電解質失衡）。"
+    },
+    {
+     "en": "Anorexia physical findings: low temperature, pulse and BP, constipation, lanugo, dry scaly skin, amenorrhea (3+ cycles), electrolyte imbalance, bone loss, tooth and gum damage.",
+     "zh": "厭食症生理表現：體溫、脈搏、血壓偏低、便秘、胎毛、皮膚乾燥脫屑、閉經（連續 3 次以上）、電解質失衡、骨質流失、牙齒與牙齦受損。"
+    },
+    {
+     "en": "Bulimia nervosa: binge followed by purging (vomiting, laxatives, diuretics, starvation); usually normal weight; secret eating, low self-esteem, electrolyte imbalance, dental erosion.",
+     "zh": "神經性暴食症：暴食後催吐（嘔吐、瀉藥、利尿劑、禁食）；體重通常正常；偷偷進食、自尊低、電解質失衡、牙齒侵蝕。"
+    },
+    {
+     "en": "Cycle of eating disorders is shown in Fig. 67.1 (dieting, loss of control, binge, purge).",
+     "zh": "飲食疾患循環見圖 67.1（節食、失控、暴食、催吐）。"
+    }
+   ],
+   "pdf_pages": [
+    1077,
+    1078
+   ]
+  },
+  {
+   "heading": {
+    "en": "Nursing care for eating disorders",
+    "zh": "飲食疾患護理"
+   },
+   "points": [
+    {
+     "en": "Build trust in a one-to-one relationship; accepting, nonjudgmental; explore feelings about body and eating; behavior modification; individual, group and family therapy.",
+     "zh": "在一對一關係中建立信任；接納、不批判；探索對身體與飲食的感受；行為修正；個別、團體與家族治療。"
+    },
+    {
+     "en": "Set a daily nutrition plan, supervise meals and a period afterward, time-limit meals, pleasant relaxed setting, monitor intake and output.",
+     "zh": "訂定每日營養計畫、督導用餐及餐後一段時間、限制用餐時間、營造愉快放鬆環境、監測輸入輸出量。"
+    },
+    {
+     "en": "Below 75% of ideal body weight: immediate inpatient medical stabilization.",
+     "zh": "體重低於理想體重 75%：須立即住院做醫療穩定。"
+    },
+    {
+     "en": "Weigh daily, same time, same scale, after voiding, same clothing. Monitor and restore fluids and electrolytes; assess and limit activity; assess suicide risk; give antidepressants if prescribed.",
+     "zh": "每日同時間、同一磅秤、排尿後、穿相同衣物測體重。監測並矯正體液電解質；評估並限制活動；評估自殺風險；依醫囑給抗憂鬱藥。"
+    }
+   ],
+   "pdf_pages": [
+    1078
+   ]
+  },
+  {
+   "heading": {
+    "en": "Substance use disorders: concepts",
+    "zh": "物質使用疾患：基本概念"
+   },
+   "points": [
+    {
+     "en": "Dependence: repeated use leading to tolerance, withdrawal and compulsive use; larger amounts than intended; failed attempts to cut down.",
+     "zh": "依賴：反覆使用導致耐受、戒斷與強迫使用；用量超過預期；減量失敗。"
+    },
+    {
+     "en": "Tolerance: needing more for the same effect. Withdrawal: symptoms when blood levels fall in a dependent person.",
+     "zh": "耐受：需要更多劑量才有相同效果。戒斷：依賴者血中濃度下降時出現的症狀。"
+    },
+    {
+     "en": "Screening tools: CAGE (Cut down, Annoyed, Guilty, Eye-opener), MAST, DAST.",
+     "zh": "篩檢工具：CAGE（減量、被煩擾、罪惡感、晨間飲酒）、MAST、DAST。"
+    },
+    {
+     "en": "Dysfunctional behaviors: denial, rationalization, projection, manipulation, impulsiveness, anger, low self-esteem, depression.",
+     "zh": "失功能行為：否認、合理化、投射、操弄、衝動、憤怒、低自尊、憂鬱。"
+    },
+    {
+     "en": "Codependency: the significant other enables use (paying bills, bailing out, calling in sick); address it with the family.",
+     "zh": "共依附：重要他人縱容使用（付帳單、保釋、代請病假）；需與家屬一起處理。"
+    }
+   ],
+   "pdf_pages": [
+    1078,
+    1079
+   ]
+  },
+  {
+   "heading": {
+    "en": "Alcohol use disorder",
+    "zh": "酒精使用疾患"
+   },
+   "points": [
+    {
+     "en": "Alcohol is a CNS depressant. Signs: slurred speech, unsteady gait, confusion, blackouts, morning drinking, increased tolerance; intoxication BAC 0.1% (100 mg/dL) or more.",
+     "zh": "酒精為中樞神經抑制劑。表現：口齒不清、步態不穩、意識混亂、斷片、晨間飲酒、耐受性增加；中毒 BAC 達 0.1%（100 mg/dL）以上。"
+    },
+    {
+     "en": "Assess type, amount, duration and time of last drink.",
+     "zh": "評估酒類、飲用量、時間長度與最後一次飲酒時間。"
+    },
+    {
+     "en": "Complications: thiamine deficiency (Wernicke encephalopathy, Korsakoff), B-vitamin neuropathy, hepatitis, cirrhosis, esophagitis, gastritis, pancreatitis, anemia, cardiac disease, brain damage.",
+     "zh": "併發症：硫胺素缺乏（Wernicke 腦病變、Korsakoff）、B 群缺乏神經病變、肝炎、肝硬化、食道炎、胃炎、胰臟炎、貧血、心臟疾病、腦損傷。"
+    },
+    {
+     "en": "Dealing with the client: direct focus on the substance use, firm consistent limits, hold accountable, motivational interviewing, group and support groups (Boxes 67.3, 67.4).",
+     "zh": "與客戶互動：將焦點放在物質使用、堅定一致的限制、要求負責、動機式晤談、團體與支持團體（方框 67.3、67.4）。"
+    }
+   ],
+   "pdf_pages": [
+    1079,
+    1080,
+    1081
+   ]
+  },
+  {
+   "heading": {
+    "en": "Alcohol withdrawal and delirium tremens",
+    "zh": "酒精戒斷與震顫譫妄"
+   },
+   "points": [
+    {
+     "en": "Onset within hours of stopping; peaks 24-48 hours; untreated can progress to seizures and delirium tremens (DTs). Use CIWA to assess.",
+     "zh": "停酒後數小時內開始；24–48 小時達高峰；未治療可進展為痙攣與震顫譫妄（DTs）。使用 CIWA 評估。"
+    },
+    {
+     "en": "Signs: hypertension, tachycardia, tremors, sweating, nausea/vomiting, anxiety, agitation, tactile/auditory/visual disturbances, headache, disorientation.",
+     "zh": "表現：高血壓、心搏過速、顫抖、流汗、噁心嘔吐、焦慮、躁動、觸覺/聽覺/視覺異常、頭痛、定向感障礙。"
+    },
+    {
+     "en": "DTs peak 48-72 hours, last 2-3 days; fever 100-103 F (37.8-39.4 C), hallucinations, fluctuating consciousness; a medical emergency (death from MI, collapse, electrolyte imbalance, aspiration, suicide).",
+     "zh": "DTs 於 48–72 小時達高峰，持續 2–3 天；發燒 100–103°F（37.8–39.4°C）、幻覺、意識波動；屬醫療急症（可因心肌梗塞、循環衰竭、電解質失衡、吸入性肺炎、自殺致死）。"
+    },
+    {
+     "en": "Care: medications as prescribed, VS and neuro checks (every 15 min in severe withdrawal), one-to-one supervision, seizure precautions, quiet low-stimulation room, frequent orientation, monitor glucose/magnesium/electrolytes, small frequent high-carbohydrate meals, I&O.",
+     "zh": "照護：依醫囑給藥、生命徵象與神經學檢查（嚴重戒斷每 15 分鐘）、一對一監視、癲癇預防、安靜低刺激環境、頻繁定向、監測血糖/鎂/電解質、少量多餐高碳水飲食、記錄輸入輸出。"
+    }
+   ],
+   "pdf_pages": [
+    1080,
+    1081
+   ]
+  },
+  {
+   "heading": {
+    "en": "CNS depressants, stimulants and opioids",
+    "zh": "中樞神經抑制劑、興奮劑與鴉片類"
+   },
+   "points": [
+    {
+     "en": "CNS depressants (alcohol, benzodiazepines, barbiturates): overdose causes respiratory/cardiovascular depression, coma, seizures. Flumazenil reverses benzodiazepine overdose. Withdrawal is treated with a titrated similar drug; abrupt withdrawal can be fatal.",
+     "zh": "中樞神經抑制劑（酒精、苯二氮平類、巴比妥類）：過量造成呼吸/循環抑制、昏迷、痙攣。Flumazenil 可逆轉苯二氮平類過量。戒斷以逐漸調整的類似藥物治療；突然戒斷可能致命。"
+    },
+    {
+     "en": "Stimulants (amphetamines, cocaine, crack): euphoria, dilated pupils, hypertension, tachycardia, dysrhythmias, paranoia; overdose can cause hyperpyrexia, seizures, stroke, MI. Withdrawal: depression and suicidal ideation, fatigue, hypersomnia.",
+     "zh": "興奮劑（安非他命、古柯鹼、快克）：欣快、瞳孔放大、高血壓、心搏過速、心律不整、妄想；過量可致高熱、痙攣、中風、心肌梗塞。戒斷：憂鬱與自殺意念、疲倦、嗜睡。"
+    },
+    {
+     "en": "Opioids: intoxication has constricted pupils, bradypnea, hypotension, drowsiness. Overdose: respiratory depression, coma. Naloxone (e.g., nasal spray) is the antagonist. Withdrawal (COWS): dilated pupils, rhinorrhea, lacrimation, yawning, piloerection, diarrhea, body aches.",
+     "zh": "鴉片類：中毒時瞳孔縮小、呼吸過慢、低血壓、嗜睡。過量：呼吸抑制、昏迷。Naloxone（如鼻噴劑）為拮抗劑。戒斷（COWS）：瞳孔放大、流鼻水、流淚、打哈欠、起雞皮疙瘩、腹瀉、身體痠痛。"
+    },
+    {
+     "en": "Opioid overdose crisis (Box 67.5): risk factors include prior overdose, high doses, co-prescribed benzodiazepines, respiratory disease, alcohol use; use screening tools such as the Opioid Risk Tool.",
+     "zh": "鴉片類過量危機（方框 67.5）：風險因子包括曾過量、高劑量、併用苯二氮平類、呼吸疾病、飲酒；使用 Opioid Risk Tool 等篩檢工具。"
+    }
+   ],
+   "pdf_pages": [
+    1081,
+    1082,
+    1083
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hallucinogens, inhalants, marijuana and club drugs",
+    "zh": "迷幻劑、吸入劑、大麻與俱樂部藥物"
+   },
+   "points": [
+    {
+     "en": "Hallucinogens (LSD, mescaline, psilocybin, PCP): low stimulation, speak slowly and quietly, treat anxiety. PCP overdose: psychosis, hypertensive crisis, hyperthermia, seizures, respiratory arrest; acidify urine. Flashbacks can occur - safety is the priority.",
+     "zh": "迷幻劑（LSD、仙人掌毒鹼、裸蓋菇素、PCP）：低刺激、緩慢輕聲說話、處理焦慮。PCP 過量：精神病、高血壓危象、高體溫、痙攣、呼吸停止；酸化尿液。可能出現閃回——安全為先。"
+    },
+    {
+     "en": "Inhalants (butane, paint thinner, glue, nitrous oxide): euphoria then drowsiness; can damage the nervous system and cause death; supportive care.",
+     "zh": "吸入劑（丁烷、油漆稀釋劑、膠水、笑氣）：先欣快後嗜睡；可損傷神經系統並致死；支持性照護。"
+    },
+    {
+     "en": "Marijuana: heightened sensations, red eyes, dry mouth, increased appetite, tachycardia; long-term amotivation, memory loss, respiratory problems.",
+     "zh": "大麻：感覺增強、眼睛紅、口乾、食慾增加、心搏過速；長期使用導致動機缺乏、記憶喪失、呼吸問題。"
+    },
+    {
+     "en": "Club drugs (MDMA, GHB, methamphetamine, ketamine): hyperthermia, rhabdomyolysis, kidney failure, hepatotoxicity, psychosis, cardiovascular collapse. Nicotine: patches, inhalers, bupropion.",
+     "zh": "俱樂部藥物（MDMA、GHB、甲基安非他命、氯胺酮）：高體溫、橫紋肌溶解、腎衰竭、肝毒性、精神病、心血管衰竭。尼古丁：貼片、吸入器、bupropion。"
+    }
+   ],
+   "pdf_pages": [
+    1082,
+    1084
+   ]
+  },
+  {
+   "heading": {
+    "en": "Withdrawal care, dual diagnosis, impaired nurses",
+    "zh": "戒斷照護、雙重診斷與受損護理師"
+   },
+   "points": [
+    {
+     "en": "Withdrawal care: seizure precautions, hydration, hourly vital signs with cardiac monitoring, I&O, orientation, minimal stimuli, remove hazards, one-to-one if needed, drug screens (Box 67.6).",
+     "zh": "戒斷照護：癲癇預防、補水、每小時生命徵象與心臟監測、輸入輸出、定向、最少刺激、移除危險物、必要時一對一、藥物篩檢（方框 67.6）。"
+    },
+    {
+     "en": "Be accepting, hold client accountable, set limits on manipulation, teach assertiveness, encourage groups and 12-step programs (AA, NA, Al-Anon, Alateen, Nar-Anon, halfway houses).",
+     "zh": "接納、要求客戶負責、對操弄設限、教導自我肯定、鼓勵團體與 12 步驟計畫（AA、NA、Al-Anon、Alateen、Nar-Anon、中途之家）。"
+    },
+    {
+     "en": "Dual diagnosis: substance use can mask or trigger psychiatric illness; true separation requires sustained abstinence.",
+     "zh": "雙重診斷：物質使用可能掩蓋或誘發精神疾病；需持續戒斷才能區分。"
+    },
+    {
+     "en": "Impaired nurse red flags: frequent unwitnessed wastage, giving maximum doses, clients with poor pain relief, always volunteering for narcotic keys, seeking low-supervision shifts. Nurses must report; recovery programs through the Board of Nursing.",
+     "zh": "受損護理師警訊：常見未被見證的丟棄藥物、報告給予最大劑量、病人止痛效果差、總是主動拿管制藥鑰匙、選擇少監督的班別。護理師有義務通報；可透過護理委員會的復健方案返回工作。"
+    }
+   ],
+   "pdf_pages": [
+    1084,
+    1085
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Alcohol withdrawal: hypertension, tachycardia, tremor, diaphoresis, agitation, hallucinations. Peak 24-48 h; DTs at 48-72 h.",
+   "zh": "酒精戒斷：高血壓、心搏過速、顫抖、盜汗、躁動、幻覺。24–48 小時高峰；DTs 於 48–72 小時。",
+   "pdf_pages": [
+    1080,
+    1086,
+    1087
+   ]
+  },
+  {
+   "en": "DTs are a medical emergency: seizure precautions, one-to-one, VS/neuro checks, electrolytes (including magnesium and glucose).",
+   "zh": "DTs 為醫療急症：癲癇預防、一對一、生命徵象/神經學檢查、電解質（含鎂與血糖）。",
+   "pdf_pages": [
+    1080,
+    1081
+   ]
+  },
+  {
+   "en": "Use CIWA for alcohol withdrawal and COWS for opioid withdrawal.",
+   "zh": "酒精戒斷用 CIWA，鴉片類戒斷用 COWS。",
+   "pdf_pages": [
+    1080,
+    1081
+   ]
+  },
+  {
+   "en": "Abrupt withdrawal of CNS depressants can be fatal; treat with a carefully titrated similar drug.",
+   "zh": "突然停用中樞神經抑制劑可能致命；以謹慎調整的類似藥物治療。",
+   "pdf_pages": [
+    1081
+   ]
+  },
+  {
+   "en": "Flumazenil reverses benzodiazepine overdose; naloxone reverses opioid overdose.",
+   "zh": "Flumazenil 逆轉苯二氮平類過量；naloxone 逆轉鴉片類過量。",
+   "pdf_pages": [
+    1081,
+    1083
+   ]
+  },
+  {
+   "en": "Opioid intoxication: pinpoint pupils, slow breathing. Opioid withdrawal: dilated pupils, rhinorrhea, yawning, piloerection, diarrhea.",
+   "zh": "鴉片類中毒：針尖瞳孔、呼吸慢。鴉片類戒斷：瞳孔放大、流鼻水、打哈欠、雞皮疙瘩、腹瀉。",
+   "pdf_pages": [
+    1082
+   ]
+  },
+  {
+   "en": "Stimulant withdrawal: severe depression and suicidal ideation - monitor closely.",
+   "zh": "興奮劑戒斷：嚴重憂鬱與自殺意念——須密切監測。",
+   "pdf_pages": [
+    1081,
+    1082
+   ]
+  },
+  {
+   "en": "Hallucinogen flashbacks can occur long after use; safety first, low stimuli.",
+   "zh": "迷幻劑閃回可在使用後長期發生；安全為先、低刺激。",
+   "pdf_pages": [
+    1084
+   ]
+  },
+  {
+   "en": "Anorexia: weight below 75% ideal needs inpatient medical stabilization; limit rigorous exercise without humiliating, offer alternatives.",
+   "zh": "厭食症：體重低於理想 75% 需住院醫療穩定；限制劇烈運動但不羞辱，並提供替代活動。",
+   "pdf_pages": [
+    1078,
+    1087
+   ]
+  },
+  {
+   "en": "Bulimia: normal weight, dental erosion, electrolyte imbalance; anorexia: lanugo, bradycardia, hypotension, amenorrhea.",
+   "zh": "暴食症：體重正常、牙齒侵蝕、電解質失衡；厭食症：胎毛、心搏過慢、低血壓、閉經。",
+   "pdf_pages": [
+    1077,
+    1078,
+    1087
+   ]
+  },
+  {
+   "en": "Anorexia care: supervise meals and after-meal period, weigh consistently, do not place with infection-risk roommate or one who needs to be 'managed'.",
+   "zh": "厭食症照護：督導用餐與餐後、一致測體重，勿與有感染風險或需被照顧的病人同房。",
+   "pdf_pages": [
+    1078,
+    1088
+   ]
+  },
+  {
+   "en": "CAGE questionnaire: Cut down, Annoyed, Guilty, Eye-opener.",
+   "zh": "CAGE 問卷：減量、被煩擾、罪惡感、晨間飲酒。",
+   "pdf_pages": [
+    1079
+   ]
+  },
+  {
+   "en": "Wernicke/Korsakoff arise from thiamine deficiency in chronic alcohol use.",
+   "zh": "慢性酒精使用造成硫胺素缺乏，導致 Wernicke/Korsakoff。",
+   "pdf_pages": [
+    1080
+   ]
+  },
+  {
+   "en": "A voluntary client who wants to leave AMA cannot be physically held; notify the PHCP/supervisor (false imprisonment otherwise).",
+   "zh": "要求離院（AMA）的自願客戶不可被強制留下；通知醫師/主管（否則為非法拘禁）。",
+   "pdf_pages": [
+    1086,
+    1087
+   ]
+  },
+  {
+   "en": "Al-Anon benefit: spouse recognizes the partner is responsible for the drinking and that abuse is undeserved.",
+   "zh": "Al-Anon 的助益：配偶了解飲酒責任在伴侶，且不應承受暴力。",
+   "pdf_pages": [
+    1087
+   ]
+  },
+  {
+   "en": "Report impaired colleagues; do not cover for them.",
+   "zh": "通報受損同事；不要包庇。",
+   "pdf_pages": [
+    1085
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "CAGE = Cut down, Annoyed, Guilty, Eye-opener (2 or more yes answers suggests a problem).",
+   "zh": "CAGE＝減量、被煩擾、罪惡感、晨間飲酒（答「是」兩題以上提示有問題）。",
+   "pdf_pages": [
+    1079
+   ]
+  },
+  {
+   "en": "Opioid intoxication vs withdrawal: 'Intoxication = slow and small (pupils, breathing); withdrawal = wet and wide (rhinorrhea, dilated pupils, diarrhea)'.",
+   "zh": "鴉片類：中毒＝慢而小（呼吸、瞳孔）；戒斷＝濕而大（流鼻水、瞳孔放大、腹瀉）。",
+   "pdf_pages": [
+    1082
+   ]
+  },
+  {
+   "en": "Alcohol withdrawal timeline: 6-24 h tremor/anxiety, 24-48 h seizures risk, 48-72 h DTs (approximate memory aid; chapter text gives peak 24-48 h and DTs 48-72 h).",
+   "zh": "酒精戒斷時間軸：6–24 小時顫抖/焦慮、24–48 小時痙攣風險、48–72 小時 DTs（輔助記憶，章節明載高峰 24–48 小時、DTs 48–72 小時）。",
+   "pdf_pages": [
+    1080
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 1078,
+   "caption": {
+    "en": "Fig. 67.1 illustrates the cycle of anorexia and bulimia nervosa.",
+    "zh": "圖 67.1 顯示神經性厭食與暴食的循環。"
+   }
+  },
+  {
+   "pdf_page": 1079,
+   "caption": {
+    "en": "Box 67.1: CAGE screening questions for substance use.",
+    "zh": "方框 67.1：物質使用 CAGE 篩檢問題。"
+   }
+  },
+  {
+   "pdf_page": 1080,
+   "caption": {
+    "en": "Box 67.2: manifestations of alcohol withdrawal delirium (delirium tremens).",
+    "zh": "方框 67.2：酒精戒斷譫妄（震顫譫妄）表現。"
+   }
+  },
+  {
+   "pdf_page": 1082,
+   "caption": {
+    "en": "Table 67.1: intoxication and withdrawal signs for each substance class - the key comparison table.",
+    "zh": "表 67.1：各類物質中毒與戒斷徵象——核心比較表。"
+   }
+  },
+  {
+   "pdf_page": 1083,
+   "caption": {
+    "en": "Box 67.5: opioid overdose crisis, risk factors, naloxone nasal spray.",
+    "zh": "方框 67.5：鴉片類過量危機、風險因子與 naloxone 鼻噴劑。"
+   }
+  },
+  {
+   "pdf_page": 1085,
+   "caption": {
+    "en": "Box 67.6: nursing care during withdrawal.",
+    "zh": "方框 67.6：戒斷期護理。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "Which findings suggest alcohol withdrawal delirium in a client hospitalized 24 hours for a fractured humerus?",
+    "zh": "因肱骨骨折住院 24 小時的客戶，哪些表現提示酒精戒斷譫妄？"
+   },
+   "options": [
+    {
+     "en": "Hypotension, ataxia, hunger",
+     "zh": "低血壓、步態失調、飢餓"
+    },
+    {
+     "en": "Stupor, lethargy, muscular rigidity",
+     "zh": "木僵、嗜睡、肌肉僵硬"
+    },
+    {
+     "en": "Hypertension, altered level of consciousness, hallucinations",
+     "zh": "高血壓、意識改變、幻覺"
+    },
+    {
+     "en": "Bradycardia, constricted pupils, drowsiness",
+     "zh": "心搏過慢、瞳孔縮小、嗜睡"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Withdrawal causes CNS hyperactivity: hypertension, tachycardia, agitation, hallucinations.",
+    "zh": "戒斷造成中樞神經過度活化：高血壓、心搏過速、躁動、幻覺。"
+   },
+   "pdf_pages": [
+    1080,
+    1088
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which interventions are appropriate for a client in alcohol withdrawal? Select all that apply.",
+    "zh": "哪些處置適用於酒精戒斷客戶？（複選）"
+   },
+   "options": [
+    {
+     "en": "Monitor vital signs",
+     "zh": "監測生命徵象"
+    },
+    {
+     "en": "Provide a safe environment",
+     "zh": "提供安全環境"
+    },
+    {
+     "en": "Provide a stimulating environment",
+     "zh": "提供刺激性環境"
+    },
+    {
+     "en": "Provide reality orientation",
+     "zh": "提供現實定向"
+    },
+    {
+     "en": "Keep NPO",
+     "zh": "禁食"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Low stimulation, seizure precautions, orientation, and maintained intake.",
+    "zh": "低刺激、癲癇預防、定向，並維持進食與水分。"
+   },
+   "pdf_pages": [
+    1080,
+    1081,
+    1087
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which assessment findings are expected in a client with bulimia nervosa? Select all that apply.",
+    "zh": "神經性暴食症客戶預期有哪些評估發現？（複選）"
+   },
+   "options": [
+    {
+     "en": "Dental decay",
+     "zh": "蛀牙"
+    },
+    {
+     "en": "Moist, oily skin",
+     "zh": "皮膚濕潤油膩"
+    },
+    {
+     "en": "Loss of tooth enamel",
+     "zh": "牙釉質流失"
+    },
+    {
+     "en": "Electrolyte imbalance",
+     "zh": "電解質失衡"
+    },
+    {
+     "en": "Weight well below ideal",
+     "zh": "體重遠低於理想"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Vomiting erodes enamel and causes electrolyte loss; weight is often near normal and skin is dry.",
+    "zh": "嘔吐侵蝕牙釉質並造成電解質流失；體重常接近正常，皮膚乾燥。"
+   },
+   "pdf_pages": [
+    1077,
+    1087
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with anorexia nervosa is doing rigorous push-ups. What is the nurse's best action?",
+    "zh": "神經性厭食症客戶正在做劇烈伏地挺身。護理師最佳做法是？"
+   },
+   "options": [
+    {
+     "en": "Let the client finish",
+     "zh": "讓客戶做完"
+    },
+    {
+     "en": "Weigh the client immediately",
+     "zh": "立即量體重"
+    },
+    {
+     "en": "Interrupt and offer a walk",
+     "zh": "打斷並邀請散步"
+    },
+    {
+     "en": "Say exercise is forbidden",
+     "zh": "宣告禁止運動"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Stop the harmful behavior while offering a safe alternative.",
+    "zh": "停止有害行為並提供安全替代活動。"
+   },
+   "pdf_pages": [
+    1087,
+    1088
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client has respirations of 8/min, pinpoint pupils and is hard to arouse after taking heroin. Which drug does the nurse expect to be prescribed?",
+    "zh": "客戶使用海洛因後呼吸 8 次/分、瞳孔針尖大小且難以喚醒。預期醫囑為哪種藥物？"
+   },
+   "options": [
+    {
+     "en": "Naloxone",
+     "zh": "Naloxone"
+    },
+    {
+     "en": "Flumazenil",
+     "zh": "Flumazenil"
+    },
+    {
+     "en": "Bromocriptine",
+     "zh": "Bromocriptine"
+    },
+    {
+     "en": "Phenobarbital",
+     "zh": "Phenobarbital"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Naloxone is the opioid antagonist; flumazenil is for benzodiazepines.",
+    "zh": "Naloxone 為鴉片類拮抗劑；flumazenil 用於苯二氮平類。"
+   },
+   "pdf_pages": [
+    1081,
+    1083
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A hospitalized client with alcohol use disorder, not yet discharged, begins to walk out before a scheduled test. What does the nurse do?",
+    "zh": "尚未出院的酒精使用疾患住院客戶在檢查前欲離開。護理師應做什麼？"
+   },
+   "options": [
+    {
+     "en": "Call the nursing supervisor",
+     "zh": "通知護理主管"
+    },
+    {
+     "en": "Call security to block exits",
+     "zh": "呼叫保全封鎖出口"
+    },
+    {
+     "en": "Restrain the client",
+     "zh": "約束客戶"
+    },
+    {
+     "en": "Tell the client they cannot return",
+     "zh": "告知客戶以後不能再來"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "The client cannot be held against their will; involve the supervisor/PHCP and AMA process. Restraint could be false imprisonment.",
+    "zh": "不得違反意願扣留；請主管/醫師處理並走 AMA 程序。約束可能構成非法拘禁。"
+   },
+   "pdf_pages": [
+    1086,
+    1087
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which behaviors by a nurse suggest possible drug diversion? Select all that apply.",
+    "zh": "護理師的哪些行為提示可能有藥物轉用？（複選）"
+   },
+   "options": [
+    {
+     "en": "Frequent unwitnessed wastage of opioids",
+     "zh": "常有未經見證的鴉片類丟棄"
+    },
+    {
+     "en": "Always volunteering to carry narcotic keys",
+     "zh": "總是主動負責管制藥鑰匙"
+    },
+    {
+     "en": "Documenting pain scores accurately",
+     "zh": "準確記錄疼痛評分"
+    },
+    {
+     "en": "Choosing low-supervision shifts",
+     "zh": "選擇少監督的班別"
+    },
+    {
+     "en": "Co-signing wastage with a witness",
+     "zh": "與見證者共同簽署丟棄"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "These are listed warning signs.",
+    "zh": "這些為列出的警訊。"
+   },
+   "pdf_pages": [
+    1085
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which statement shows an Al-Anon member's spouse is benefitting?",
+    "zh": "哪句話顯示 Al-Anon 成員的配偶有受益？"
+   },
+   "options": [
+    {
+     "en": "'I no longer feel I deserve my partner's beatings.'",
+     "zh": "「我不再覺得自己活該被伴侶打。」"
+    },
+    {
+     "en": "'I see that I provoke my partner's violence.'",
+     "zh": "「我發現是我激怒伴侶使用暴力。」"
+    },
+    {
+     "en": "'Meetings get me out of the house.'",
+     "zh": "「聚會讓我可以離開家。」"
+    },
+    {
+     "en": "'I can tolerate the behavior now.'",
+     "zh": "「現在我可以忍受這些行為了。」"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Healthy insight: responsibility for the behavior belongs to the person with the addiction; others statements show self-blame or continued codependency.",
+    "zh": "健康的洞察：行為責任屬於成癮者；其他選項顯示自責或持續共依附。"
+   },
+   "pdf_pages": [
+    1087
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "NCLEX-RN Quiz: Substance Use And Withdrawal Care (Varsity Tutors)",
+   "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/substance-use-and-withdrawal-care",
+   "note": {
+    "en": "Free scenario-based questions on substance use and withdrawal with explanations.",
+    "zh": "免費的物質使用與戒斷情境題，附解析。"
+   }
+  },
+  {
+   "title": "Alcohol and Drug Abuse practice set (Nerdy)",
+   "url": "https://practice.nerdy.com/subjects/nclexrn/examples/alcohol-and-drug-abuse",
+   "note": {
+    "en": "About 8 free NCLEX-RN alcohol/drug abuse questions.",
+    "zh": "約 8 題免費 NCLEX-RN 酒精與藥物濫用題。"
+   }
+  },
+  {
+   "title": "WTCS Pressbooks 6.9 Learning Activities",
+   "url": "https://wtcs.pressbooks.pub/healthpromo/chapter/6-9-learning-activities/",
+   "note": {
+    "en": "Open-access NGN-style alcohol withdrawal case with CIWA-Ar monitoring.",
+    "zh": "開放取用的 NGN 風格酒精戒斷個案與 CIWA-Ar 監測。"
+   }
+  },
+  {
+   "title": "Substance use and addiction (Achievable NCLEX)",
+   "url": "https://app.achievable.me/study/nclex/learn/psychiatric-disorders-substance-use-and-addiction",
+   "note": {
+    "en": "Lesson on withdrawal timelines and CIWA-Ar nursing care (free sign-up for quiz).",
+    "zh": "戒斷時程與 CIWA-Ar 護理課程（測驗需免費註冊）。"
+   }
+  }
+ ]
+}

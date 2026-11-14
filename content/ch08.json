@@ -1,0 +1,274 @@
+{
+  "number": 8,
+  "title": {"en": "Fluids and Electrolytes", "zh": "體液與電解質"},
+  "overview": {
+    "en": "This chapter covers how water and electrolytes are distributed, moved and regulated, then walks through fluid volume deficit/excess and each major electrolyte imbalance (K+, Na+, Ca2+, Mg2+, phosphorus). For each one, know the normal range, common causes, assessment findings, ECG changes and the priority nursing interventions.",
+    "zh": "本章說明水分與電解質在體內的分布、移動與調節,接著依序介紹體液容積不足與過多,以及主要電解質(鉀、鈉、鈣、鎂、磷)失衡。每一項都要熟記正常值、常見原因、評估發現、心電圖變化與優先護理措施。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Concepts of fluid and electrolyte balance", "zh": "體液與電解質平衡的基本概念"},
+      "points": [
+        {"en": "Electrolytes ionize in solution; cations are positive and anions negative, and they must balance. Activity is measured in milliequivalents (mEq).", "zh": "電解質在溶液中會解離成離子;陽離子帶正電、陰離子帶負電,兩者必須平衡,以毫當量(mEq)表示活性。"},
+        {"en": "Fluid compartments: intracellular (about 70% of body water) and extracellular (about 30%), the latter split into interstitial (22%), intravascular (6%) and transcellular (2%).", "zh": "體液分區:細胞內液約佔 70%,細胞外液約佔 30%,其中組織間液 22%、血管內液 6%、跨細胞液 2%。"},
+        {"en": "Third-spacing traps extracellular fluid in a body space (pleural, peritoneal, bowel, burned tissue); it is a real intravascular loss that may not show in weight or intake/output.", "zh": "第三間隙積液是指細胞外液被困在體腔(胸腔、腹腔、腸道、燒傷組織)中,實際造成血管內容積流失,但體重與輸出入量不一定反映。"},
+        {"en": "Edema is excess interstitial fluid from altered oncotic or hydrostatic pressure, capillary permeability or lymphatic obstruction; generalized edema (anasarca) suggests cardiac, renal or liver disease.", "zh": "水腫是組織間液過多,源於膠體滲透壓、靜水壓、微血管通透性或淋巴阻塞改變;全身性水腫(anasarca)常見於心、腎或肝臟疾病。"},
+        {"en": "Total body water is about 60% of weight in adults, 55% in older adults and 80% in infants, so infants and older adults are at greater risk for fluid imbalance.", "zh": "成人體水約佔體重 60%,老年人 55%,嬰兒 80%,因此嬰兒與老年人較易發生體液失衡。"}
+      ],
+      "pdf_pages": [109, 110]
+    },
+    {
+      "heading": {"en": "Fluid transport and tonicity", "zh": "體液運輸與張力"},
+      "points": [
+        {"en": "Diffusion moves solute from high to low concentration; osmosis moves water toward the side with more solute; filtration moves fluid from higher to lower hydrostatic pressure.", "zh": "擴散是溶質由高濃度往低濃度移動;滲透是水往溶質較多的一側移動;過濾則是液體由高靜水壓往低靜水壓移動。"},
+        {"en": "At the arterial end of a capillary hydrostatic pressure pushes fluid out; at the venous end osmotic pull draws fluid back; lymph returns the remainder.", "zh": "微血管動脈端靜水壓使液體流出,靜脈端滲透壓將液體拉回,剩餘部分由淋巴回收。"},
+        {"en": "Normal plasma osmolality is 275-295 mOsm/kg.", "zh": "血漿滲透壓正常值為 275-295 mOsm/kg。"},
+        {"en": "Isotonic solutions match body fluid osmolality (little osmosis); hypotonic solutions have lower and hypertonic solutions higher osmolality than body fluids.", "zh": "等張溶液與體液滲透壓相同(幾乎不產生滲透);低張溶液滲透壓較低,高張溶液較高。"},
+        {"en": "Active transport moves ions (Na+, K+, Ca2+, H+) against a gradient and needs cellular energy.", "zh": "主動運輸需消耗細胞能量,使離子(Na+、K+、Ca2+、H+)逆濃度梯度移動。"}
+      ],
+      "pdf_pages": [110, 111, 112]
+    },
+    {
+      "heading": {"en": "Fluid intake/output and regulation", "zh": "水分攝入、排出與調節"},
+      "points": [
+        {"en": "Intake is about 2300-2900 mL/day (drinks, food, metabolic water); output is about 2600-3000 mL/day, mostly kidney (about 1500 mL).", "zh": "每日攝入約 2300-2900 mL(飲水、食物、代謝水),排出約 2600-3000 mL,以腎臟最多(約 1500 mL)。"},
+        {"en": "Insensible loss occurs through skin (600-800 mL) and lungs (400-600 mL) and cannot be measured exactly.", "zh": "不感性流失來自皮膚(600-800 mL)與肺部(400-600 mL),無法精確測量。"},
+        {"en": "Kidneys are the major regulators; aldosterone retains sodium (and water), and ADH controls water reabsorption.", "zh": "腎臟是主要調節器官;醛固酮促進鈉(及水)再吸收,抗利尿激素(ADH)調節水分再吸收。"},
+        {"en": "Severe diarrhea causes large fluid and electrolyte losses. With any imbalance, monitor cardiovascular, respiratory, neurological, musculoskeletal, renal, skin and GI status.", "zh": "嚴重腹瀉會造成大量體液與電解質流失。發生任何失衡時,須監測心血管、呼吸、神經、肌肉骨骼、腎臟、皮膚與腸胃狀態。"}
+      ],
+      "pdf_pages": [112]
+    },
+    {
+      "heading": {"en": "Fluid volume deficit and excess", "zh": "體液容積不足與過多"},
+      "points": [
+        {"en": "Isotonic dehydration (hypovolemia) is the most common deficit: water and electrolytes are lost equally. Hypertonic: water loss exceeds electrolytes (cells shrink). Hypotonic: electrolyte loss exceeds water (cells swell).", "zh": "等張性脫水(低血容)最常見,水與電解質等比例流失;高張性脫水為水分流失多於電解質(細胞萎縮);低張性脫水為電解質流失多於水分(細胞腫脹)。"},
+        {"en": "Deficit findings: tachycardia with thready pulse, hypotension, flat neck veins, low CVP, dry mucosa, poor turgor, weight loss, low urine output, high hematocrit/BUN/osmolality/urine specific gravity.", "zh": "容積不足表現:脈搏快而細弱、低血壓、頸靜脈扁塌、CVP 低、黏膜乾燥、皮膚彈性差、體重下降、尿量少,血比容、BUN、滲透壓與尿比重上升。"},
+        {"en": "Excess findings: bounding pulse, high BP, distended neck veins, high CVP, crackles, dyspnea, edema, weight gain, ascites; low hematocrit/BUN/osmolality/urine specific gravity.", "zh": "容積過多表現:脈搏洪大、高血壓、頸靜脈怒張、CVP 高、囉音、呼吸困難、水腫、體重增加、腹水;血比容、BUN、滲透壓與尿比重下降。"},
+        {"en": "Treat deficit with oral or IV fluids and treat the cause (isotonic loss with isotonic fluid, hypertonic with hypotonic, hypotonic with hypertonic fluid); monitor I&O.", "zh": "不足時給予口服或靜脈輸液並處理原因(等張流失用等張液、高張性用低張液、低張性用高張液),並監測輸出入量。"},
+        {"en": "Treat excess with diuretics, fluid and sodium restriction, daily weight and I&O. Highest risk: AKI, CKD, heart failure, long-term corticosteroids.", "zh": "過多時給予利尿劑、限制水分與鈉攝取,監測每日體重與輸出入量。高風險族群:急性腎損傷、慢性腎病、心衰竭、長期使用類固醇者。"},
+        {"en": "Hypotonic overhydration (water intoxication) occurs with SIADH, heart failure, early kidney disease, or hypotonic IV/irrigation fluids.", "zh": "低張性水過多(水中毒)見於 SIADH、心衰竭、早期腎病,或使用低張靜脈輸液/沖洗液。"}
+      ],
+      "pdf_pages": [112, 113, 114]
+    },
+    {
+      "heading": {"en": "Potassium imbalances", "zh": "鉀離子失衡"},
+      "points": [
+        {"en": "Normal K+ is 3.5-5.0 mEq/L. Hypokalemia causes: diuretics, corticosteroids, albuterol, vomiting, diarrhea, NG suction, Cushing's, alkalosis, hyperinsulinism, NPO status.", "zh": "鉀正常值 3.5-5.0 mEq/L。低血鉀原因:利尿劑、類固醇、albuterol、嘔吐、腹瀉、鼻胃管抽吸、庫欣氏症、鹼中毒、高胰島素、禁食。"},
+        {"en": "Hypokalemia findings: weak thready irregular pulse, shallow respirations, weakness and cramps, hypoactive bowel/paralytic ileus; ECG shows ST depression, flat/inverted T waves, prominent U waves.", "zh": "低血鉀表現:脈搏細弱不規則、呼吸淺、肌無力與抽筋、腸蠕動減弱/麻痺性腸阻塞;心電圖 ST 段下降、T 波平坦或倒置、U 波明顯。"},
+        {"en": "Oral potassium: give with food/juice; liquid KCl tastes bad. IV potassium: always diluted, via infusion pump, never IV push, IM or subcutaneous.", "zh": "口服鉀劑須隨餐或加果汁服用;靜脈鉀劑一定要稀釋並使用輸液幫浦,絕不可靜脈推注、肌肉或皮下注射。"},
+        {"en": "Hyperkalemia causes: K+ supplements or salt substitutes, K+-sparing diuretics, kidney disease, Addison's, tissue damage/burns, acidosis, stored blood.", "zh": "高血鉀原因:鉀補充劑或代鹽、保鉀利尿劑、腎病、愛迪生氏症、組織損傷/燒傷、酸中毒、庫存血。"},
+        {"en": "Hyperkalemia findings: slow weak irregular pulse, hypotension, muscle weakness to ascending flaccid paralysis, hyperactive bowel/diarrhea; ECG shows tall peaked T, flat P, wide QRS, prolonged PR.", "zh": "高血鉀表現:心跳慢而弱且不規則、低血壓、肌無力甚至上行性弛緩性麻痺、腸蠕動亢進/腹瀉;心電圖 T 波高尖、P 波平坦、QRS 變寬、PR 間期延長。"},
+        {"en": "Treat hyperkalemia: stop K+ intake, IV calcium (protect heart), insulin with glucose, sodium polystyrene sulfonate, K+-excreting diuretics, dialysis if critical.", "zh": "高血鉀處置:停止鉀攝入、靜脈鈣劑(保護心臟)、胰島素加葡萄糖、sodium polystyrene sulfonate、排鉀利尿劑,嚴重時透析。"}
+      ],
+      "pdf_pages": [115, 116]
+    },
+    {
+      "heading": {"en": "Sodium imbalances", "zh": "鈉離子失衡"},
+      "points": [
+        {"en": "Normal Na+ is 135-145 mEq/L; sodium problems usually travel with fluid volume problems.", "zh": "鈉正常值 135-145 mEq/L;鈉失衡通常伴隨體液容積問題。"},
+        {"en": "Hyponatremia causes: diaphoresis, diuretics, vomiting, diarrhea, SIADH, hypotonic fluids, heart failure, hyperglycemia, freshwater drowning.", "zh": "低血鈉原因:大量流汗、利尿劑、嘔吐、腹瀉、SIADH、低張液體、心衰竭、高血糖、淡水溺水。"},
+        {"en": "Hyponatremia findings: headache, confusion, seizures, weakness, hyperactive bowel sounds, abdominal cramping, increased urine output, low urine specific gravity.", "zh": "低血鈉表現:頭痛、意識混亂、癲癇、無力、腸蠕動亢進、腹絞痛、尿量增加、尿比重降低。"},
+        {"en": "Correct hyponatremia slowly; rapid correction risks osmotic demyelination. Hyponatremia can raise lithium levels toward toxicity.", "zh": "低血鈉須緩慢矯正,過快有滲透性去髓鞘病變風險;低血鈉亦可導致鋰中毒。"},
+        {"en": "Hypernatremia causes: corticosteroids, Cushing's, hyperaldosteronism, excess sodium intake, low water intake, fever, watery diarrhea, diabetes insipidus.", "zh": "高血鈉原因:類固醇、庫欣氏症、高醛固酮症、鈉攝取過多、水分攝取不足、發燒、水瀉、尿崩症。"},
+        {"en": "Hypernatremia findings: extreme thirst, dry sticky mucosa, flushed skin, agitation, confusion, seizures; high urine specific gravity. Altered cerebral function is the most common sign.", "zh": "高血鈉表現:極度口渴、黏膜乾而黏、皮膚潮紅、躁動、意識混亂、癲癇;尿比重上升。腦功能改變為最常見症狀。"}
+      ],
+      "pdf_pages": [117, 118]
+    },
+    {
+      "heading": {"en": "Calcium imbalances", "zh": "鈣離子失衡"},
+      "points": [
+        {"en": "Normal calcium is 9-10.5 mg/dL. Corrected Ca = serum Ca + 0.8 x (4 - albumin). Ionized calcium normal is 4.64-5.28.", "zh": "鈣正常值 9-10.5 mg/dL。校正鈣 = 血清鈣 + 0.8 x (4 - 白蛋白)。離子鈣正常值 4.64-5.28。"},
+        {"en": "Hypocalcemia causes: low intake or vitamin D, lactose intolerance, malabsorption (Crohn's, celiac), diarrhea, alkalosis, acute pancreatitis, hyperphosphatemia, hypoparathyroidism.", "zh": "低血鈣原因:攝取或維生素 D 不足、乳糖不耐、吸收不良(克隆氏症、乳糜瀉)、腹瀉、鹼中毒、急性胰臟炎、高血磷、副甲狀腺功能低下。"},
+        {"en": "Hypocalcemia findings: tingling/numbness, twitching, cramps, tetany, seizures, hyperactive reflexes, positive Chvostek's and Trousseau's signs, increased GI motility; ECG prolonged ST and QT.", "zh": "低血鈣表現:麻刺感、抽搐、痙攣、手足僵直、癲癇、反射亢進、Chvostek 與 Trousseau 徵象陽性、腸蠕動增加;心電圖 ST 與 QT 延長。"},
+        {"en": "Treat with oral calcium and vitamin D or slow warmed IV calcium (keep 10% calcium gluconate available), seizure precautions, quiet environment, careful handling (fracture risk).", "zh": "治療:口服鈣劑與維生素 D,或緩慢給予已加溫的靜脈鈣劑(備妥 10% 葡萄糖酸鈣)、癲癇防護、安靜環境、謹慎搬動(骨折風險)。"},
+        {"en": "Hypercalcemia causes: hyperparathyroidism, hyperthyroidism, malignancy, immobility, thiazides, lithium, dehydration, excess calcium/vitamin D.", "zh": "高血鈣原因:副甲狀腺或甲狀腺功能亢進、惡性腫瘤、制動、thiazide 利尿劑、鋰、脫水、鈣/維生素 D 過量。"},
+        {"en": "Hypercalcemia findings: muscle weakness, absent reflexes, constipation, anorexia, bradycardia/heart block; ECG shortened ST, widened T. Give isotonic saline, calcitonin, bisphosphonates; strain urine for stones.", "zh": "高血鈣表現:肌無力、反射消失、便秘、食慾差、心搏過緩/心臟傳導阻滯;心電圖 ST 縮短、T 波變寬。治療:等張生理食鹽水、calcitonin、雙磷酸鹽,並過濾尿液檢查結石。"}
+      ],
+      "pdf_pages": [118, 119, 120]
+    },
+    {
+      "heading": {"en": "Magnesium imbalances", "zh": "鎂離子失衡"},
+      "points": [
+        {"en": "Normal magnesium is 1.8-2.6 mEq/L. Hypomagnesemia causes: malnutrition, alcoholism, diuretics, malabsorption, vomiting/diarrhea, insulin, sepsis.", "zh": "鎂正常值 1.8-2.6 mEq/L。低血鎂原因:營養不良、酒精中毒、利尿劑、吸收不良、嘔吐/腹瀉、胰島素、敗血症。"},
+        {"en": "Hypomagnesemia findings: tachycardia, hypertension, hyperreflexia, tremors/twitching, tetany, seizures, positive Chvostek's/Trousseau's; often coexists with hypocalcemia.", "zh": "低血鎂表現:心跳快、高血壓、反射亢進、顫抖/抽搐、手足僵直、癲癇、Chvostek/Trousseau 陽性;常合併低血鈣。"},
+        {"en": "IV magnesium sulfate is preferred in ill clients (IM is painful); monitor reflexes for loss, which signals toxicity.", "zh": "重症者以靜脈硫酸鎂補充(肌肉注射疼痛且傷組織);須監測深部肌腱反射,反射消失表示鎂過量。"},
+        {"en": "Hypermagnesemia causes: Mg-containing antacids/laxatives, excess IV magnesium, renal insufficiency. Findings: bradycardia, hypotension, drowsiness, absent reflexes, respiratory depression; ECG prolonged PR, wide QRS.", "zh": "高血鎂原因:含鎂制酸劑/瀉劑、靜脈鎂過量、腎功能不全。表現:心跳慢、低血壓、嗜睡、反射消失、呼吸抑制;心電圖 PR 延長、QRS 變寬。"},
+        {"en": "Antidote for magnesium overdose is IV calcium gluconate (or calcium chloride); diuretics increase excretion; avoid Mg-containing laxatives/antacids.", "zh": "鎂中毒的解毒劑為靜脈葡萄糖酸鈣(或氯化鈣);利尿劑促進排出;避免使用含鎂瀉劑與制酸劑。"}
+      ],
+      "pdf_pages": [120, 121]
+    },
+    {
+      "heading": {"en": "Phosphorus imbalances", "zh": "磷離子失衡"},
+      "points": [
+        {"en": "Normal phosphorus is 3.0-4.5 mg/dL. Phosphorus and calcium have a reciprocal relationship: when one rises, the other falls.", "zh": "磷正常值 3.0-4.5 mg/dL。磷與鈣呈相反關係:一方上升,另一方下降。"},
+        {"en": "Hypophosphatemia causes: malnutrition/starvation, hyperparathyroidism, malignancy, Mg- or aluminum-based antacids, hyperglycemia, respiratory alkalosis. Mild cases may be symptom-free.", "zh": "低血磷原因:營養不良/飢餓、副甲狀腺亢進、惡性腫瘤、含鎂或鋁的制酸劑、高血糖、呼吸性鹼中毒。輕度可能無症狀。"},
+        {"en": "Treat hypophosphatemia with oral phosphorus plus vitamin D; IV phosphorus only when below 1 mg/dL with critical signs, given slowly after assessing renal function.", "zh": "低血磷以口服磷加維生素 D 治療;僅在低於 1 mg/dL 並有嚴重症狀時才靜脈給磷,須先評估腎功能並緩慢輸注。"},
+        {"en": "Hyperphosphatemia causes: renal insufficiency, tumor lysis syndrome, hypoparathyroidism, phosphate laxatives/enemas. Its problems come from the resulting hypocalcemia.", "zh": "高血磷原因:腎功能不全、腫瘤溶解症候群、副甲狀腺功能低下、含磷瀉劑/灌腸劑。其問題主要來自隨之發生的低血鈣。"},
+        {"en": "Give phosphate binders with or right after meals; limit high-phosphorus foods; avoid phosphate laxatives and enemas.", "zh": "磷結合劑須隨餐或餐後立即服用;減少高磷食物;避免含磷瀉劑與灌腸劑。"}
+      ],
+      "pdf_pages": [121, 122]
+    }
+  ],
+  "critical_points": [
+    {"en": "Normal values: K+ 3.5-5.0; Na+ 135-145; Ca 9-10.5 mg/dL; Mg 1.8-2.6 mEq/L; phosphorus 3.0-4.5 mg/dL; osmolality 275-295 mOsm/kg.", "zh": "正常值:鉀 3.5-5.0;鈉 135-145;鈣 9-10.5 mg/dL;鎂 1.8-2.6 mEq/L;磷 3.0-4.5 mg/dL;滲透壓 275-295 mOsm/kg。", "pdf_pages": [111, 115, 117, 118, 120, 121]},
+    {"en": "IV potassium is never given by IV push, IM or subcutaneously; always dilute (max 1 mEq/10 mL), use a pump, 5-10 mEq/hr usual and never above 20 mEq/hr.", "zh": "靜脈鉀絕不可推注、肌肉或皮下注射;須稀釋(最多 1 mEq/10 mL)並用幫浦,常規 5-10 mEq/hr,絕不超過 20 mEq/hr。", "pdf_pages": [115, 116]},
+    {"en": "Over 10 mEq/hr of IV potassium requires cardiac monitoring; assess renal function and urine output (report under 30 mL/hr) and check IV site for phlebitis/infiltration.", "zh": "靜脈鉀超過 10 mEq/hr 需心電圖監測;須評估腎功能與尿量(低於 30 mL/hr 通報),並觀察注射部位有無靜脈炎/滲漏。", "pdf_pages": [116, 124]},
+    {"en": "Hyperkalemia ECG: tall peaked T, flat P, widened QRS, prolonged PR. Hypokalemia ECG: ST depression, flat/inverted T, prominent U.", "zh": "高血鉀心電圖:T 波高尖、P 波平坦、QRS 變寬、PR 延長。低血鉀:ST 下降、T 波平坦/倒置、U 波明顯。", "pdf_pages": [115, 116]},
+    {"en": "Severe hyperkalemia: stop K+, give IV calcium to protect the heart, insulin plus glucose to shift K+ into cells, then remove K+ (diuretics, sodium polystyrene sulfonate, dialysis).", "zh": "嚴重高血鉀:停鉀、靜脈鈣保護心臟、胰島素加葡萄糖使鉀移入細胞,再排除鉀(利尿劑、sodium polystyrene sulfonate、透析)。", "pdf_pages": [116]},
+    {"en": "Stored (older) blood releases potassium; give fresh blood when possible to a client with hyperkalemia.", "zh": "庫存較久的血液會釋出鉀;高血鉀患者輸血時盡量使用新鮮血。", "pdf_pages": [116]},
+    {"en": "Correct hyponatremia slowly to avoid osmotic demyelination; hyponatremia can precipitate lithium toxicity.", "zh": "低血鈉須緩慢矯正以避免滲透性去髓鞘;低血鈉會誘發鋰中毒。", "pdf_pages": [117]},
+    {"en": "Hypocalcemia signs: Chvostek's (facial twitch on tapping cheek) and Trousseau's (carpal spasm with BP cuff) signs, tetany, seizures, prolonged QT; keep 10% calcium gluconate available.", "zh": "低血鈣徵象:Chvostek(輕敲臉頰抽動)與 Trousseau(壓脈帶造成腕痙攣)、手足僵直、癲癇、QT 延長;備妥 10% 葡萄糖酸鈣。", "pdf_pages": [119, 120]},
+    {"en": "Correct calcium for low albumin: Ca + 0.8 x (4 - albumin), or check ionized calcium.", "zh": "低白蛋白時需校正鈣:鈣 + 0.8 x (4 - 白蛋白),或檢測離子鈣。", "pdf_pages": [119]},
+    {"en": "Calcium gluconate is the antidote for magnesium overdose; loss of deep tendon reflexes is an early sign of hypermagnesemia.", "zh": "葡萄糖酸鈣是鎂過量的解毒劑;深部肌腱反射消失是高血鎂的早期徵象。", "pdf_pages": [120, 121]},
+    {"en": "Calcium and phosphorus are reciprocal: high phosphorus lowers calcium, low phosphorus raises calcium.", "zh": "鈣與磷呈相反關係:磷高則鈣低,磷低則鈣高。", "pdf_pages": [121]},
+    {"en": "Fluid deficit: tachycardia, low BP, flat neck veins, weight loss, high hematocrit/BUN/specific gravity. Excess: bounding pulse, high BP, crackles, edema, weight gain, low hematocrit.", "zh": "容積不足:心跳快、低血壓、頸靜脈扁塌、體重下降、血比容/BUN/尿比重高。過多:脈搏洪大、高血壓、囉音、水腫、體重增加、血比容低。", "pdf_pages": [114]},
+    {"en": "Clients with AKI, CKD or heart failure are at high risk for fluid volume excess and hyperkalemia/hyperphosphatemia; vomiting, diarrhea, NG suction, ileostomy and diuretics cause deficits and hypokalemia.", "zh": "急性腎損傷、慢性腎病或心衰竭患者易有容積過多、高血鉀與高血磷;嘔吐、腹瀉、鼻胃管抽吸、迴腸造口與利尿劑易致不足與低血鉀。", "pdf_pages": [114, 115, 125]},
+    {"en": "Infants and older adults have a higher fluid-imbalance risk (total body water 80% and 55%).", "zh": "嬰兒與老年人體液失衡風險較高(體水量分別為 80% 與 55%)。", "pdf_pages": [110]},
+    {"en": "Moving clients with calcium or phosphorus imbalance carefully because of pathological fracture risk.", "zh": "鈣或磷失衡的患者須小心移動,以免病理性骨折。", "pdf_pages": [119, 120, 121]}
+  ],
+  "mnemonics": [
+    {"en": "Hyperkalemia ECG: 'Tall T, flat P, wide QRS' (peaked T waves, flat P waves, widened QRS). Hypokalemia is the opposite pattern: flat T, U wave appears ('U need K+').", "zh": "高血鉀心電圖口訣:「高 T、平 P、寬 QRS」。低血鉀相反:T 波平、出現 U 波(「U 需要 K+」)。", "pdf_pages": [115, 116]},
+    {"en": "Hypocalcemia = 'CATS go numb': Convulsions, Arrhythmias, Tetany, Spasms (and numbness/tingling).", "zh": "低血鈣口訣「CATS」:Convulsions(癲癇)、Arrhythmias(心律不整)、Tetany(手足僵直)、Spasms(痙攣),並伴麻刺感。", "pdf_pages": [118, 119]},
+    {"en": "Calcium-phosphorus seesaw: one goes up, the other goes down.", "zh": "鈣磷蹺蹺板:一個上升、另一個就下降。", "pdf_pages": [121]},
+    {"en": "Fluid deficit vs excess: deficit = everything dry and low (low BP, low CVP, flat veins); excess = everything wet and high (high BP, high CVP, crackles).", "zh": "容積不足=乾而低(血壓低、CVP 低、靜脈扁);過多=濕而高(血壓高、CVP 高、囉音)。", "pdf_pages": [114]}
+  ],
+  "figures": [
+    {"pdf_page": 110, "caption": {"en": "Fig. 8.1: distribution of body fluid compartments (intracellular 70%, extracellular 30%) and Box 8.1 on atoms, ions, cations and anions.", "zh": "圖 8.1:體液分區分布(細胞內 70%、細胞外 30%)與 Box 8.1 原子、離子、陽離子及陰離子定義。"}},
+    {"pdf_page": 112, "caption": {"en": "Fig. 8.2: approximate daily fluid intake and output sources, useful for estimating insensible loss.", "zh": "圖 8.2:每日水分攝入與排出來源概估,有助於估算不感性流失。"}},
+    {"pdf_page": 114, "caption": {"en": "Table 8.1: side-by-side assessment findings of fluid volume deficit vs excess across body systems and labs.", "zh": "表 8.1:體液容積不足與過多在各系統及檢驗值的對照。"}},
+    {"pdf_page": 115, "caption": {"en": "Table 8.2: hypokalemia vs hyperkalemia findings including ECG changes.", "zh": "表 8.2:低血鉀與高血鉀的臨床表現與心電圖變化。"}},
+    {"pdf_page": 116, "caption": {"en": "Table 8.3 (ECG changes for all electrolytes) and Box 8.2 (IV potassium precautions).", "zh": "表 8.3(各電解質失衡心電圖變化)與 Box 8.2(靜脈鉀注意事項)。"}},
+    {"pdf_page": 118, "caption": {"en": "Table 8.4: hyponatremia vs hypernatremia assessment findings.", "zh": "表 8.4:低血鈉與高血鈉評估發現。"}},
+    {"pdf_page": 119, "caption": {"en": "Table 8.5: hypocalcemia vs hypercalcemia (also used for phosphorus).", "zh": "表 8.5:低血鈣與高血鈣(磷失衡亦參照)。"}},
+    {"pdf_page": 120, "caption": {"en": "Fig. 8.3: Chvostek's and Trousseau's signs for hypocalcemia.", "zh": "圖 8.3:低血鈣的 Chvostek 與 Trousseau 徵象檢查。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "A client with heart failure has dyspnea and crackles. Which additional findings does the nurse expect if fluid volume excess is present?", "zh": "一位心衰竭患者出現呼吸困難與囉音。若為體液容積過多,護理師還預期有哪些表現?"},
+      "options": [
+        {"en": "Weight loss and dry skin", "zh": "體重減輕與皮膚乾燥"},
+        {"en": "Flat neck veins and decreased urine output", "zh": "頸靜脈扁塌與尿量減少"},
+        {"en": "Increased blood pressure and increased respirations", "zh": "血壓上升與呼吸加快"},
+        {"en": "Weakness and decreased CVP", "zh": "無力與 CVP 下降"}
+      ],
+      "answer": [2],
+      "rationale": {"en": "Excess volume raises BP, pulse, respiratory rate and CVP and distends neck veins. The other options describe fluid volume deficit.", "zh": "容積過多使血壓、脈搏、呼吸速率及 CVP 上升並造成頸靜脈怒張;其他選項為容積不足表現。"},
+      "pdf_pages": [114, 122],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client's potassium is 2.5 mEq/L. Which ECG changes would the nurse expect? Select all that apply.", "zh": "患者血鉀 2.5 mEq/L。護理師預期心電圖有哪些變化?(複選)"},
+      "options": [
+        {"en": "Prominent U waves", "zh": "U 波明顯"},
+        {"en": "Tall peaked T waves", "zh": "T 波高尖"},
+        {"en": "Flat or inverted T waves", "zh": "T 波平坦或倒置"},
+        {"en": "ST segment depression", "zh": "ST 段下降"},
+        {"en": "Widened QRS complex", "zh": "QRS 變寬"}
+      ],
+      "answer": [0, 2, 3],
+      "rationale": {"en": "Hypokalemia causes ST depression, flat/inverted T and U waves. Peaked T and wide QRS occur in hyperkalemia.", "zh": "低血鉀造成 ST 下降、T 波平坦/倒置與 U 波;T 波高尖與 QRS 變寬見於高血鉀。"},
+      "pdf_pages": [115, 116],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "The nurse prepares to give IV potassium chloride to a client with hypokalemia. Which actions are appropriate? Select all that apply.", "zh": "護理師準備為低血鉀患者給予靜脈氯化鉀。下列哪些作法正確?(複選)"},
+      "options": [
+        {"en": "Use an infusion pump", "zh": "使用輸液幫浦"},
+        {"en": "Give it as an IV bolus over 1 minute", "zh": "以靜脈推注方式 1 分鐘內給予"},
+        {"en": "Monitor urine output", "zh": "監測尿量"},
+        {"en": "Assess the IV site for phlebitis or infiltration", "zh": "評估注射部位有無靜脈炎或滲漏"},
+        {"en": "Ensure the potassium is adequately diluted", "zh": "確認鉀劑已適當稀釋"}
+      ],
+      "answer": [0, 2, 3, 4],
+      "rationale": {"en": "Potassium must be diluted and pumped, with renal function and the IV site monitored. IV push can cause cardiac arrest.", "zh": "鉀劑須稀釋並以幫浦輸注,並監測腎功能與注射部位。靜脈推注可導致心搏停止。"},
+      "pdf_pages": [116, 124],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with Crohn's disease has a calcium level of 8 mg/dL. Which ECG findings does the nurse watch for? Select all that apply.", "zh": "克隆氏症患者血鈣 8 mg/dL。護理師應留意哪些心電圖變化?(複選)"},
+      "options": [
+        {"en": "Prolonged QT interval", "zh": "QT 間期延長"},
+        {"en": "Shortened ST segment", "zh": "ST 段縮短"},
+        {"en": "Prolonged ST segment", "zh": "ST 段延長"},
+        {"en": "Widened T wave", "zh": "T 波變寬"},
+        {"en": "Prominent U wave", "zh": "U 波明顯"}
+      ],
+      "answer": [0, 2],
+      "rationale": {"en": "Hypocalcemia prolongs the ST segment and QT interval. Shortened ST and wide T occur in hypercalcemia; U waves in hypokalemia.", "zh": "低血鈣使 ST 段與 QT 間期延長;ST 縮短與 T 波變寬見於高血鈣;U 波見於低血鉀。"},
+      "pdf_pages": [118, 119, 124],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which client is at greatest risk for a serum potassium of 5.5 mEq/L?", "zh": "下列哪位患者最可能出現血鉀 5.5 mEq/L?"},
+      "options": [
+        {"en": "A client with colitis", "zh": "結腸炎患者"},
+        {"en": "A client with Cushing's syndrome", "zh": "庫欣氏症患者"},
+        {"en": "A client overusing laxatives", "zh": "過度使用瀉劑者"},
+        {"en": "A client with extensive burns", "zh": "大面積燒傷患者"}
+      ],
+      "answer": [3],
+      "rationale": {"en": "Burns and massive cell destruction release potassium from cells. The others cause potassium loss (hypokalemia).", "zh": "燒傷與大量細胞破壞使鉀由細胞釋出;其他選項會造成鉀流失(低血鉀)。"},
+      "pdf_pages": [115, 116, 126],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client receiving magnesium sulfate IV has absent deep tendon reflexes and a respiratory rate of 9. After stopping the infusion, which prescribed medication does the nurse prepare?", "zh": "接受靜脈硫酸鎂的患者深部肌腱反射消失、呼吸 9 次/分。停止輸注後,護理師應準備哪項醫囑藥物?"},
+      "options": [
+        {"en": "Calcium gluconate", "zh": "葡萄糖酸鈣"},
+        {"en": "Sodium polystyrene sulfonate", "zh": "Sodium polystyrene sulfonate"},
+        {"en": "Aluminum hydroxide", "zh": "氫氧化鋁"},
+        {"en": "Potassium chloride", "zh": "氯化鉀"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "These are signs of hypermagnesemia; calcium gluconate is the antidote.", "zh": "此為高血鎂徵象,解毒劑為葡萄糖酸鈣。"},
+      "pdf_pages": [120, 121],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with a serum sodium of 130 mEq/L is taking which medication class that most likely contributed?", "zh": "血鈉 130 mEq/L 的患者,最可能與下列哪類藥物有關?"},
+      "options": [
+        {"en": "Diuretics", "zh": "利尿劑"},
+        {"en": "Corticosteroids", "zh": "類固醇"},
+        {"en": "Mineralocorticoid supplements", "zh": "鹽皮質素補充劑"},
+        {"en": "Sodium bicarbonate", "zh": "碳酸氫鈉"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Diuretics increase sodium loss. Corticosteroids and aldosterone excess cause sodium retention (hypernatremia).", "zh": "利尿劑增加鈉流失;類固醇與醛固酮過多造成鈉滯留(高血鈉)。"},
+      "pdf_pages": [117, 125],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which assessment findings indicate hypocalcemia? Select all that apply.", "zh": "下列哪些評估發現提示低血鈣?(複選)"},
+      "options": [
+        {"en": "Positive Trousseau's sign", "zh": "Trousseau 徵象陽性"},
+        {"en": "Hyperactive deep tendon reflexes", "zh": "深部肌腱反射亢進"},
+        {"en": "Constipation and abdominal distention", "zh": "便秘與腹脹"},
+        {"en": "Perioral numbness and tingling", "zh": "口周麻木與刺痛"},
+        {"en": "Absent deep tendon reflexes", "zh": "深部肌腱反射消失"}
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {"en": "Hypocalcemia increases neuromuscular excitability. Constipation and absent reflexes occur in hypercalcemia.", "zh": "低血鈣使神經肌肉興奮性增加;便秘與反射消失見於高血鈣。"},
+      "pdf_pages": [119],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A client with chronic kidney disease has a phosphorus level of 6.2 mg/dL. Which instruction about prescribed phosphate binders is correct?", "zh": "慢性腎病患者血磷 6.2 mg/dL。關於磷結合劑,下列哪項指導正確?"},
+      "options": [
+        {"en": "Take them on an empty stomach at bedtime", "zh": "睡前空腹服用"},
+        {"en": "Take them with meals or immediately after meals", "zh": "隨餐或餐後立即服用"},
+        {"en": "Take them with calcium-rich foods to raise calcium", "zh": "與高鈣食物併服以提高血鈣"},
+        {"en": "Stop them if urine output increases", "zh": "尿量增加就停藥"}
+      ],
+      "answer": [1],
+      "rationale": {"en": "Binders must be present in the gut with food to bind dietary phosphorus and increase fecal excretion.", "zh": "結合劑須與食物同時在腸道內,才能結合飲食中的磷並增加糞便排出。"},
+      "pdf_pages": [122],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Fluid & Electrolyte NCLEX Practice Quiz (Nurseslabs)", "url": "https://nurseslabs.com/fluid-electrolyte-homeostasis-nclex-practice-questions/", "note": {"en": "Free NCLEX-style fluid and electrolyte question bank with rationales.", "zh": "免費的體液與電解質 NCLEX 題庫,附解析。"}},
+    {"title": "Fluid & Electrolyte NCLEX: Imbalance Scenarios (GoodNurse)", "url": "https://goodnurse.com/free-nclex-practice-questions/fluid-electrolyte-nclex-questions", "note": {"en": "Free scenario-based imbalance quiz with explanations.", "zh": "免費情境式電解質失衡題,附解釋。"}},
+    {"title": "Fluid and Electrolytes Practice Questions (Simple Nursing)", "url": "https://simplenursing.com/fluid-electrolytes-nclex-practice-questions-review/", "note": {"en": "Practice questions and review notes on fluid and electrolytes.", "zh": "體液電解質練習題與複習重點。"}},
+    {"title": "10 Fluid and Electrolyte Quiz NCLEX Questions (Nursing.com)", "url": "https://admin.nursing.com/pop-quiz/fluid-and-electrolyte-nclex-questions", "note": {"en": "Short free quiz on fluid shifts, tonicity, potassium and phosphorus.", "zh": "短版免費測驗,涵蓋體液移動、張力、鉀與磷。"}}
+  ]
+}

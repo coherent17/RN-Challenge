@@ -1,0 +1,463 @@
+{
+ "number": 2,
+ "title": {
+  "en": "Self-Efficacy and Pathways to Success",
+  "zh": "自我效能與成功途徑"
+ },
+ "overview": {
+  "en": "This short chapter applies Bandura's self-efficacy theory to NCLEX preparation. It guides you through self-reflection, goal setting, a structured study plan, self-care and a calm approach to the final days and exam day.",
+  "zh": "本章將班杜拉自我效能理論應用於 NCLEX 備考，引導自我反思、設定目標、結構化讀書計畫、自我照顧，以及最後階段與考試日的穩定心態。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Self-efficacy (Bandura)",
+    "zh": "自我效能（班杜拉）"
+   },
+   "points": [
+    {
+     "en": "Self-efficacy is a belief in your own ability to carry out particular behaviors; it shapes which behaviors you choose, how long you persevere and how well you perform.",
+     "zh": "自我效能是相信自己有能力執行特定行為；它影響你選擇的行為、堅持程度與表現品質。"
+    },
+    {
+     "en": "High self-efficacy expectations lead to hard work and persistence; low expectations lead to self-doubt about passing.",
+     "zh": "高自我效能期望促使努力與堅持；低期望則導致對通過考試的自我懷疑。"
+    },
+    {
+     "en": "Research (Silvestri, Clark and Moonie, 2013) found self-efficacy expectations were an important predictor of NCLEX success.",
+     "zh": "研究（Silvestri 等，2013）顯示自我效能期望是 NCLEX 成功的重要預測因子。"
+    }
+   ],
+   "pdf_pages": [
+    35
+   ]
+  },
+  {
+   "heading": {
+    "en": "Pathways to success: self-reflection",
+    "zh": "成功途徑：自我反思"
+   },
+   "points": [
+    {
+     "en": "Self-reflection lets you review past experiences and build confidence about your capabilities.",
+     "zh": "自我反思讓你回顧過往經驗並建立對能力的信心。"
+    },
+    {
+     "en": "Journal your accomplishments and re-read them whenever doubt appears.",
+     "zh": "記錄你的成就，疑慮出現時重新閱讀。"
+    },
+    {
+     "en": "Ask yourself about goal setting: are goals realistic, do you reach them, how do you overcome obstacles?",
+     "zh": "自問目標設定：目標是否務實、是否達成、遇到障礙如何克服？"
+    }
+   ],
+   "pdf_pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "heading": {
+    "en": "The foundation and the List",
+    "zh": "基礎與目標清單"
+   },
+   "points": [
+    {
+     "en": "Foundation: strong positive attitude, sense of self-efficacy, self-control, and short- and long-term goals.",
+     "zh": "基礎：積極態度、自我效能感、自我控制，以及短期與長期目標。"
+    },
+    {
+     "en": "Calm yourself with slow breathing (inhale through the nose, hold for 4, exhale slowly through the mouth).",
+     "zh": "以緩慢呼吸平靜自己（鼻吸、屏息數到 4、嘴慢慢吐氣）。"
+    },
+    {
+     "en": "Write the List of goals (today, tomorrow, next month, future), set it aside 2-3 days, then review it.",
+     "zh": "寫下目標清單（今天、明天、下個月、未來），擱置 2-3 天後再檢視。"
+    }
+   ],
+   "pdf_pages": [
+    36
+   ]
+  },
+  {
+   "heading": {
+    "en": "Plan for preparation and study schedule",
+    "zh": "準備計畫與讀書時程"
+   },
+   "points": [
+    {
+     "en": "Choose the study pattern that has worked for you before (alone vs group, time of day, place).",
+     "zh": "選擇過去有效的讀書模式（獨自或小組、時段、地點）。"
+    },
+    {
+     "en": "Schedule at least 2 hours of quality, uninterrupted study daily on a calendar; quality matters more than quantity.",
+     "zh": "在行事曆排定每天至少 2 小時不被打擾的高品質讀書時間；重質不重量。"
+    },
+    {
+     "en": "Share your plan with family and friends; protect study time when others pressure you to skip it.",
+     "zh": "與家人朋友分享計畫；他人勸你跳過時要守住讀書時間。"
+    }
+   ],
+   "pdf_pages": [
+    36,
+    37
+   ]
+  },
+  {
+   "heading": {
+    "en": "Implementing the study plan",
+    "zh": "執行讀書計畫"
+   },
+   "points": [
+    {
+     "en": "Self-assess strong and weak content areas, then start practice questions in weaker areas.",
+     "zh": "自我評估強弱項目，從較弱領域開始做題。"
+    },
+    {
+     "en": "Note unfamiliar content and review it in your review book and textbooks after each session.",
+     "zh": "記下不熟的內容，每次讀完後翻閱複習書與教科書補強。"
+    },
+    {
+     "en": "Practice at least 4000 questions; start in Study Mode, read every rationale and strategy, then move to Exam Mode to check readiness.",
+     "zh": "至少練習 4000 題；先用學習模式、閱讀每題解析與策略，再用考試模式檢測準備度。"
+    }
+   ],
+   "pdf_pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "heading": {
+    "en": "Positive pampering, final preparation and exam day",
+    "zh": "正向照顧自己、最後準備與考試日"
+   },
+   "points": [
+    {
+     "en": "Include exercise, healthy eating, water, complex carbohydrates, limited caffeine and fun in your schedule.",
+     "zh": "排入運動、健康飲食、足量飲水、複合碳水化合物、限制咖啡因及休閒活動。"
+    },
+    {
+     "en": "End studying 2 days before the exam and rest the day before; avoid perfectionism.",
+     "zh": "考前 2 天結束複習，前一天好好休息；避免完美主義。"
+    },
+    {
+     "en": "Do a test drive to the testing center; post your name with RN and the exam date.",
+     "zh": "事先試開到考場；貼出你的名字加上 RN 與考試日期。"
+    },
+    {
+     "en": "Exam day: eat a nutritious breakfast, breathe, believe, stay in control and visualize RN after your name.",
+     "zh": "考試日：吃營養早餐，呼吸、相信自己、保持掌控，想像名字後面有 RN。"
+    }
+   ],
+   "pdf_pages": [
+    38,
+    39
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Self-efficacy is a significant predictor of NCLEX success.",
+   "zh": "自我效能是 NCLEX 成功的重要預測因子。",
+   "pdf_pages": [
+    35
+   ]
+  },
+  {
+   "en": "Plan at least 2 hours of quality study daily.",
+   "zh": "每天規劃至少 2 小時高品質讀書時間。",
+   "pdf_pages": [
+    36
+   ]
+  },
+  {
+   "en": "Practice at least 4000 questions before the exam.",
+   "zh": "考前至少練習 4000 題。",
+   "pdf_pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "en": "Read rationales and test-taking strategies for every question, right or wrong.",
+   "zh": "每題都要讀解析與策略，無論對錯。",
+   "pdf_pages": [
+    38
+   ]
+  },
+  {
+   "en": "Start with weaker content areas and keep notes on unfamiliar topics.",
+   "zh": "從較弱領域開始並記錄不熟的主題。",
+   "pdf_pages": [
+    37
+   ]
+  },
+  {
+   "en": "Use Study Mode first, then Exam Mode to judge readiness.",
+   "zh": "先用學習模式，再用考試模式評估準備度。",
+   "pdf_pages": [
+    38
+   ]
+  },
+  {
+   "en": "Stop studying 2 days before the exam; rest the day before.",
+   "zh": "考前 2 天停止讀書；前一天休息。",
+   "pdf_pages": [
+    38
+   ]
+  },
+  {
+   "en": "Do a test drive to the testing center beforehand.",
+   "zh": "事先試開前往考場。",
+   "pdf_pages": [
+    38
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Day-of-exam cue: Breathe, Believe, Control, Believe, Visualize.",
+   "zh": "考試日口訣：呼吸、相信、掌控、相信、想像（Breathe-Believe-Control-Believe-Visualize）。",
+   "pdf_pages": [
+    39
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 35,
+   "caption": {
+    "en": "Fig 2.1: the Pyramid to Success (positive attitude, structured plan, control).",
+    "zh": "圖 2.1：成功金字塔（積極態度、結構化計畫、自我掌控）。"
+   }
+  },
+  {
+   "pdf_page": 37,
+   "caption": {
+    "en": "Box 2.1: summary of the pathways to success from foundation to exam day.",
+    "zh": "Box 2.1：從基礎到考試日的成功途徑總表。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A nursing graduate says, \"I always doubt I will pass.\" According to self-efficacy theory, which approach is most helpful?",
+    "zh": "一位護理畢業生說：「我總覺得自己會考不過。」依自我效能理論，哪種作法最有幫助？"
+   },
+   "options": [
+    {
+     "en": "Study only the strongest content",
+     "zh": "只讀最強的內容"
+    },
+    {
+     "en": "Journal past accomplishments and set realistic goals",
+     "zh": "記錄過往成就並設定務實目標"
+    },
+    {
+     "en": "Cram the night before",
+     "zh": "考前一晚猛K"
+    },
+    {
+     "en": "Avoid practice questions",
+     "zh": "避免做題"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Self-reflection on achievements builds self-efficacy expectations and persistence.",
+    "zh": "對成就的反思能建立自我效能期望與堅持。"
+   },
+   "pdf_pages": [
+    35,
+    36
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which are recommended parts of an NCLEX study plan? Select all that apply.",
+    "zh": "下列哪些是建議的 NCLEX 讀書計畫內容？（複選）"
+   },
+   "options": [
+    {
+     "en": "At least 2 hours of uninterrupted study daily",
+     "zh": "每天至少 2 小時不受打擾的讀書"
+    },
+    {
+     "en": "Starting with weaker content areas",
+     "zh": "從較弱領域開始"
+    },
+    {
+     "en": "Reading rationales only for incorrect answers",
+     "zh": "只讀答錯題的解析"
+    },
+    {
+     "en": "Scheduling exercise and relaxation",
+     "zh": "安排運動與放鬆"
+    },
+    {
+     "en": "Studying until the last minute before the exam",
+     "zh": "讀到考前最後一刻"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Rationales should be read for every question; study should stop 2 days before the exam.",
+    "zh": "每題都應閱讀解析；應於考前 2 天停止讀書。"
+   },
+   "pdf_pages": [
+    36,
+    37,
+    38
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "How many practice questions does the chapter recommend completing before taking the NCLEX?",
+    "zh": "本章建議在考前至少完成多少練習題？"
+   },
+   "options": [
+    {
+     "en": "500",
+     "zh": "500"
+    },
+    {
+     "en": "1000",
+     "zh": "1000"
+    },
+    {
+     "en": "4000",
+     "zh": "4000"
+    },
+    {
+     "en": "10000",
+     "zh": "10000"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "The chapter advises at least 4000 practice questions.",
+    "zh": "本章建議至少 4000 題。"
+   },
+   "pdf_pages": [
+    37,
+    38
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "What should the candidate do on the day before the examination?",
+    "zh": "考前一天考生應做什麼？"
+   },
+   "options": [
+    {
+     "en": "Complete a full-length exam",
+     "zh": "做一份完整模擬考"
+    },
+    {
+     "en": "Rest and do enjoyable activities",
+     "zh": "休息並從事喜歡的活動"
+    },
+    {
+     "en": "Review all weak content",
+     "zh": "複習所有弱項"
+    },
+    {
+     "en": "Skip meals to stay alert",
+     "zh": "不吃飯以保持警覺"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "The mind needs rest; the study plan ends 2 days before.",
+    "zh": "大腦需要休息；讀書計畫於前 2 天結束。"
+   },
+   "pdf_pages": [
+    38
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A friend invites the candidate to a movie during scheduled study time. Which is the best response?",
+    "zh": "朋友在預定讀書時間邀約看電影。最佳回應為何？"
+   },
+   "options": [
+    {
+     "en": "Go; there is plenty of time later",
+     "zh": "去，之後還有很多時間"
+    },
+    {
+     "en": "Weigh the goal and positive momentum and keep the study schedule",
+     "zh": "考量目標與正向動能，維持讀書時程"
+    },
+    {
+     "en": "Cancel the whole study plan",
+     "zh": "取消整個讀書計畫"
+    },
+    {
+     "en": "Study twice as long tomorrow",
+     "zh": "明天加倍讀"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "The chapter stresses keeping the goal in mind and protecting momentum.",
+    "zh": "本章強調牢記目標並維持動能。"
+   },
+   "pdf_pages": [
+    37
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "11.2 Preparing for the NCLEX (WTCS Pressbooks)",
+   "url": "https://wtcs.pressbooks.pub/nursingmpc/?p=487",
+   "note": {
+    "en": "Open textbook guidance on NCLEX preparation and study habits.",
+    "zh": "NCLEX 準備與讀書習慣的開放教科書指引。"
+   }
+  },
+  {
+   "title": "Nurse.org: Next Generation NCLEX overview",
+   "url": "https://nurse.org/education/next-generation-nclex-ngn",
+   "note": {
+    "en": "Exam overview useful when building a study plan.",
+    "zh": "考試概覽，有助擬定讀書計畫。"
+   }
+  }
+ ]
+}

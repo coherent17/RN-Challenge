@@ -1,0 +1,1040 @@
+{
+ "number": 45,
+ "title": {
+  "en": "Oncological and Hematological Problems",
+  "zh": "腫瘤與血液問題"
+ },
+ "overview": {
+  "en": "Covers cancer biology, diagnosis, treatment modalities (surgery, chemotherapy, radiation, stem cell transplant), leukemia, lymphoma, myeloma, site-specific cancers and their surgeries, oncological emergencies and anemias. Stress safety precautions for radiation, infection and bleeding, and recognition of emergencies.",
+  "zh": "涵蓋癌症生物學、診斷、治療方式（手術、化療、放療、幹細胞移植）、白血病、淋巴瘤、骨髓瘤、各部位癌症與手術、腫瘤急症及貧血。重點在放射、感染與出血防護，以及急症辨識。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Cancer basics, diagnosis and pain control",
+    "zh": "癌症基礎、診斷與疼痛控制"
+   },
+   "points": [
+    {
+     "en": "Cancer is uncontrolled growth of cells that lost normal growth control; it can impair immunity, blood production, GI, motor/sensory and respiratory function.",
+     "zh": "癌症是失去生長控制的細胞不受控增生，可損害免疫、造血、胃腸、運動感覺與呼吸功能。"
+    },
+    {
+     "en": "Metastasis: local seeding, bloodborne (most common), lymphatic spread.",
+     "zh": "轉移途徑：局部播種、血行性（最常見）、淋巴性。"
+    },
+    {
+     "en": "Solid tumors arise in organs; hematological cancers (leukemia, lymphoma, myeloma) arise from blood-forming tissue.",
+     "zh": "實體腫瘤源自器官；血液癌（白血病、淋巴瘤、多發性骨髓瘤）源自造血組織。"
+    },
+    {
+     "en": "Grading (I-IV) describes cell differentiation under the microscope; staging (0-IV) describes size, spread and metastasis. Stage 0 = in situ, stage IV = distant metastasis.",
+     "zh": "分級（I-IV）描述顯微鏡下細胞分化程度；分期（0-IV）描述大小、擴散與轉移。0期=原位癌，IV期=遠處轉移。"
+    },
+    {
+     "en": "Risks: chemical, physical (radiation, UV), viral (EBV, HBV, HPV), H. pylori, tobacco, obesity, diet, genetics, age, immunosuppression.",
+     "zh": "危險因子：化學物質、物理因素（輻射、紫外線）、病毒（EBV、HBV、HPV）、幽門螺旋桿菌、菸草、肥胖、飲食、遺傳、年齡、免疫抑制。"
+    },
+    {
+     "en": "Early detection: mammography, Pap test, stool occult blood, colonoscopy, breast and testicular self-exam, skin checks, and the seven CAUTION warning signs.",
+     "zh": "早期偵測：乳房攝影、子宮頸抹片、糞便潛血、大腸鏡、乳房與睪丸自我檢查、皮膚檢查及CAUTION警訊。"
+    },
+    {
+     "en": "Biopsy is the definitive diagnosis; types are needle, incisional, excisional and staging. Frozen section gives results in minutes; permanent paraffin section takes about 24 hours but is clearer.",
+     "zh": "切片為確診方法；類型有針吸、切開、全切除與分期切片。冷凍切片數分鐘出結果；石蠟永久切片約24小時但較清晰。"
+    },
+    {
+     "en": "Other tests: CBC, CT/PET, MRI, tumor markers (CEA, alpha-fetoprotein), bone marrow exam, endoscopy; invasive procedures need informed consent.",
+     "zh": "其他檢查：全血球計數、CT/PET、MRI、腫瘤標記（CEA、AFP）、骨髓檢查、內視鏡；侵入性檢查需知情同意。"
+    },
+    {
+     "en": "Cancer pain arises from bone destruction, organ obstruction, nerve compression, infiltration, inflammation and anxiety.",
+     "zh": "癌痛源於骨破壞、器官阻塞、神經壓迫、組織浸潤、發炎與焦慮。"
+    },
+    {
+     "en": "Pain is what the client says it is. Most cancer pain is controlled with around-the-clock oral opioids; mild pain uses acetaminophen/NSAIDs; severe pain uses morphine, hydromorphone, methadone; neuropathic pain may need anticonvulsants or antidepressants.",
+     "zh": "疼痛以病人主訴為準。多數癌痛可用口服鴉片類藥物定時給予控制；輕度用acetaminophen/NSAIDs；重度用morphine、hydromorphone、methadone；神經痛可用抗癲癇藥或抗憂鬱藥。"
+    },
+    {
+     "en": "Use equianalgesic charts when changing routes; add relaxation, imagery, biofeedback, massage, heat/cold.",
+     "zh": "更換給藥途徑時使用等效鎮痛換算表；加入放鬆、意象、生理回饋、按摩與冷熱敷。"
+    }
+   ],
+   "pdf_pages": [
+    610,
+    611,
+    612
+   ]
+  },
+  {
+   "heading": {
+    "en": "Surgery, chemotherapy and radiation",
+    "zh": "手術、化療與放射治療"
+   },
+   "points": [
+    {
+     "en": "Surgery types: prophylactic, curative, control (debulking), palliative, reconstructive. Risks include pain, infection, bleeding, thromboembolism and body image grief.",
+     "zh": "手術類型：預防性、根治性、控制性（減積）、緩和性、重建性。風險包括疼痛、感染、出血、血栓與身體意象失落。"
+    },
+    {
+     "en": "Chemotherapy is systemic and harms rapidly dividing normal cells (skin, hair, GI lining, sperm, bone marrow); combinations are timed around the nadir. See Chapter 46.",
+     "zh": "化療為全身性，傷害快速分裂的正常細胞（皮膚、毛髮、胃腸黏膜、精子、骨髓）；組合療程依最低點（nadir）安排。詳見第46章。"
+    },
+    {
+     "en": "External beam radiation: client is not radioactive; teach skin care (no lotions or powders unless prescribed, mild soap, pat dry, avoid sun, do not wash off markings). Fatigue is the most common side effect.",
+     "zh": "外部放射治療：病人不具放射性；皮膚護理：未經處方不塗乳液粉劑、溫和肥皂、輕拍擦乾、避免日曬、勿洗掉標記。疲倦為最常見副作用。"
+    },
+    {
+     "en": "Brachytherapy: sealed source implants make the client radioactive but excreta are not; unsealed source (oral/IV) makes body fluids radioactive for about 48 hours.",
+     "zh": "近接治療：密封式植入使病人具放射性，但排泄物不具放射性；非密封式（口服/靜脈）使體液具放射性約48小時。"
+    },
+    {
+     "en": "Sealed implant precautions: private room, sign on door, 30 minutes per caregiver per shift, dosimeter badge, lead shielding, rotate staff, no pregnant staff, no children under 16 or pregnant visitors, visitors 6 feet away and 30 minutes/day, never touch a dislodged source (use long forceps into a lead container).",
+     "zh": "密封植入防護：單人房、門上警示、每位照護者每班30分鐘、佩戴劑量計、鉛屏蔽、輪替人員、懷孕者不可照護、16歲以下兒童與孕婦不可探視、訪客距離6呎且每日30分鐘、掉落放射源不可徒手碰觸（以長夾放入鉛容器）。"
+    },
+    {
+     "en": "After implant removal the client is not radioactive; cancer is not contagious.",
+     "zh": "移除植入物後病人不再具放射性；癌症不會傳染。"
+    }
+   ],
+   "pdf_pages": [
+    613,
+    614
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hematopoietic stem cell transplantation",
+    "zh": "造血幹細胞移植"
+   },
+   "points": [
+    {
+     "en": "BMT or PBSCT replaces marrow destroyed by high-dose chemotherapy or radiation; used for leukemia, lymphoma, myeloma and neuroblastoma.",
+     "zh": "骨髓或周邊血幹細胞移植用以取代被高劑量化放療破壞的骨髓；用於白血病、淋巴瘤、骨髓瘤與神經母細胞瘤。"
+    },
+    {
+     "en": "Donor types: autologous (own cells, most common, harvested in remission and frozen), allogeneic (sibling/unrelated), syngeneic (identical twin).",
+     "zh": "捐贈類型：自體（最常見，緩解期採集冷凍）、異體（手足或非親屬）、同基因（同卵雙胞胎）。"
+    },
+    {
+     "en": "Steps: harvest (apheresis 4-6 hours, or iliac crest aspiration), conditioning regimen, infusion through central line like a transfusion, then engraftment when WBC, RBC and platelets begin to rise (2-5 weeks).",
+     "zh": "步驟：採集（血球分離4-6小時或髂骨抽取）、前處置（conditioning）、經中央靜脈如輸血般輸注、植入成功時白血球、紅血球、血小板開始回升（2-5週）。"
+    },
+    {
+     "en": "Until engraftment the client has no natural immunity: infection, bleeding, neutropenia and thrombocytopenia are the main risks.",
+     "zh": "植入前病人無自然免疫力：主要風險為感染、出血、嗜中性球與血小板低下。"
+    },
+    {
+     "en": "Complications: failure to engraft, graft-versus-host disease (allogeneic: donor cells attack recipient), hepatic veno-occlusive disease (RUQ pain, jaundice, ascites, weight gain, hepatomegaly).",
+     "zh": "併發症：植入失敗、移植物抗宿主病（異體：捐贈細胞攻擊受贈者）、肝靜脈阻塞症（右上腹痛、黃疸、腹水、體重增加、肝腫大）。"
+    }
+   ],
+   "pdf_pages": [
+    614,
+    615
+   ]
+  },
+  {
+   "heading": {
+    "en": "Leukemia, Hodgkin's lymphoma and multiple myeloma",
+    "zh": "白血病、何杰金氏淋巴瘤與多發性骨髓瘤"
+   },
+   "points": [
+    {
+     "en": "Leukemia is abnormal, immature leukocyte overproduction in marrow; ALL (children under 15), AML (15-39), CML (fourth decade), CLL (over 50).",
+     "zh": "白血病為骨髓中不成熟白血球異常增生；ALL（15歲以下）、AML（15-39歲）、CML（40多歲）、CLL（50歲以上）。"
+    },
+    {
+     "en": "Findings: anemia (pallor, fatigue, tachycardia), thrombocytopenia (petechiae, bleeding), fever, enlarged nodes/spleen/liver, bone pain; bone marrow biopsy shows blasts.",
+     "zh": "表現：貧血（蒼白、疲倦、心搏過速）、血小板低下（瘀點、出血）、發燒、淋巴結脾肝腫大、骨痛；骨髓切片可見芽細胞。"
+    },
+    {
+     "en": "Infection is a leading cause of death: protective isolation, private room (HEPA if possible), strict hand hygiene, no fresh flowers or plants, neutropenic diet without raw fruits and vegetables, no rectal temperatures or invasive procedures, no live vaccines.",
+     "zh": "感染為主要死因：保護性隔離、單人房（可行時HEPA）、嚴格洗手、不放鮮花植物、嗜中性球低下飲食（不吃生鮮蔬果）、不測肛溫與避免侵入性處置、不打活性疫苗。"
+    },
+    {
+     "en": "Bleeding: risk under 50,000/mm3, spontaneous under 20,000/mm3 (may need platelet transfusion); soft toothbrush, electric razor, stool softeners, avoid NSAIDs, no suppositories or enemas, pad side rails.",
+     "zh": "出血：低於50,000/mm3有風險，低於20,000/mm3可能自發性出血（可能需輸血小板）；軟毛牙刷、電動刮鬍刀、軟便劑、避免NSAIDs、不用栓劑灌腸、床欄加墊。"
+    },
+    {
+     "en": "Mucositis care (Box 45.8): soft brush, rinse, avoid alcohol or glycerin mouthwash, soft bland warm foods. Fatigue: small frequent high-calorie meals and rest.",
+     "zh": "口腔黏膜炎照護（Box 45.8）：軟毛牙刷、漱口、避免含酒精或甘油漱口水、溫和軟質食物。疲倦：少量多餐高熱量並充分休息。"
+    },
+    {
+     "en": "Chemotherapy phases: induction (remission), consolidation (cure), maintenance (stay in remission).",
+     "zh": "化療階段：誘導（緩解）、鞏固（治癒）、維持（保持緩解）。"
+    },
+    {
+     "en": "Hodgkin's: Reed-Sternberg cells in nodes; cervical nodes first, fever, night sweats, weight loss, fatigue, painless nodes; PET/CT stage; early stage treated with external radiation, advanced with multiagent chemotherapy; discuss sperm banking.",
+     "zh": "何杰金氏：淋巴結出現Reed-Sternberg細胞；頸部淋巴結先受侵、發燒、盜汗、體重減輕、疲倦；以PET/CT分期；早期以外部放療，晚期多藥化療；討論精子保存。"
+    },
+    {
+     "en": "Multiple myeloma: malignant plasma cells destroy bone; bone pain (ribs, spine, pelvis), pathological fractures, hypercalcemia, high uric acid, renal failure, recurrent infection, anemia.",
+     "zh": "多發性骨髓瘤：惡性漿細胞破壞骨骼；肋骨脊椎骨盆疼痛、病理性骨折、高血鈣、高尿酸、腎衰竭、反覆感染、貧血。"
+    },
+    {
+     "en": "Urine Bence Jones protein and bone marrow aspirate with immature plasma cells support diagnosis.",
+     "zh": "尿液Bence Jones蛋白與骨髓抽吸出現不成熟漿細胞可輔助診斷。"
+    },
+    {
+     "en": "Care: at least 2 L fluid per day, ambulation, handle gently to avoid fractures, IV fluids and diuretics for calcium, bisphosphonates, analgesics, monitor kidney function.",
+     "zh": "照護：每日至少2 L水分、鼓勵活動、輕柔搬動防骨折、靜脈輸液與利尿劑降鈣、雙磷酸鹽、止痛、監測腎功能。"
+    }
+   ],
+   "pdf_pages": [
+    615,
+    616,
+    617,
+    618,
+    619
+   ]
+  },
+  {
+   "heading": {
+    "en": "Testicular, cervical, ovarian, endometrial cancer",
+    "zh": "睪丸癌、子宮頸癌、卵巢癌與子宮內膜癌"
+   },
+   "points": [
+    {
+     "en": "Testicular cancer (ages 15-40; cryptorchidism risk): painless swelling, heavy 'dragging' feeling; do monthly testicular self-exam after a warm shower; unilateral orchiectomy and possibly retroperitoneal node dissection; offer sperm banking; ice pack first 48 hours.",
+     "zh": "睪丸癌（15-40歲；隱睪症為危險因子）：無痛腫大、下墜感；溫水淋浴後每月自我檢查；單側睪丸切除與可能的腹膜後淋巴結清除；提供精子保存；術後前48小時冰敷。"
+    },
+    {
+     "en": "Cervical cancer: HPV, smoking, early intercourse, multiple partners; painless postcoital bleeding and foul discharge; Pap test and HPV vaccine prevent; treatments include laser, cryosurgery (watery discharge several weeks, no tampons or intercourse), conization, hysterectomy and pelvic exenteration.",
+     "zh": "子宮頸癌：HPV、吸菸、初次性行為早、多重性伴侶；無痛性性交後出血與惡臭分泌物；抹片與HPV疫苗可預防；治療包括雷射、冷凍（數週水樣分泌物，避免棉條與性行為）、錐狀切除、子宮切除與骨盆腔臟器切除。"
+    },
+    {
+     "en": "After hysterectomy: monitor bleeding (more than one saturated pad per hour is excessive), SCDs, coughing and deep breathing, avoid lifting over 20 lb, no intercourse for 3-6 weeks. Pelvic exenteration: ileal conduit, colostomy, sexual counseling.",
+     "zh": "子宮切除術後：監測出血（每小時浸濕超過一片護墊為過量）、使用間歇壓迫裝置、咳嗽深呼吸、避免提超過20磅、3-6週內不性行為。骨盆臟器切除：迴腸導管、結腸造口、性諮詢。"
+    },
+    {
+     "en": "Ovarian cancer: often silent until advanced, bloating, urinary frequency, CA-125; surgery with debulking plus chemotherapy, intraperitoneal chemotherapy.",
+     "zh": "卵巢癌：晚期前常無症狀，腹脹、頻尿、CA-125上升；手術減積加化療、腹腔內化療。"
+    },
+    {
+     "en": "Endometrial cancer: postmenopausal abnormal bleeding; risk from estrogen, obesity, nulliparity, diabetes, hypertension; total hysterectomy with bilateral salpingo-oophorectomy; progesterone for estrogen-dependent tumors.",
+     "zh": "子宮內膜癌：停經後異常出血；危險因子為雌激素、肥胖、未生育、糖尿病、高血壓；全子宮與雙側輸卵管卵巢切除；雌激素依賴型可用黃體素。"
+    }
+   ],
+   "pdf_pages": [
+    619,
+    620,
+    621,
+    622
+   ]
+  },
+  {
+   "heading": {
+    "en": "Breast cancer and mastectomy care",
+    "zh": "乳癌與乳房切除術照護"
+   },
+   "points": [
+    {
+     "en": "Risks: age over 65, family history, early menarche and late menopause, nulliparity, HRT, obesity. Findings: fixed, irregular, painless mass (upper outer quadrant), dimpling, peau d'orange, nipple retraction, axillary nodes.",
+     "zh": "危險因子：年齡大於65歲、家族史、初經早停經晚、未生育、荷爾蒙治療、肥胖。表現：固定、不規則、無痛腫塊（外上象限）、凹陷、橘皮樣皮膚、乳頭內縮、腋下淋巴結腫。"
+    },
+    {
+     "en": "Breast self-exam 7-10 days after menses (postmenopausal on a set day monthly); trastuzumab for HER-2 positive tumors.",
+     "zh": "乳房自我檢查於月經後7-10天；停經者每月固定日期；HER-2陽性可用trastuzumab。"
+    },
+    {
+     "en": "Procedures: lumpectomy, simple mastectomy, modified radical mastectomy (nodes removed).",
+     "zh": "手術：腫瘤切除術、單純乳房切除術、改良式根治性乳房切除術（含淋巴結）。"
+    },
+    {
+     "en": "Postoperative: semi-Fowler's, affected arm elevated above heart, manage Jackson-Pratt drain, deep breathing, monitor for lymphedema and fluid collection.",
+     "zh": "術後：半坐臥、患側手臂高於心臟、管理Jackson-Pratt引流、深呼吸、監測淋巴水腫與積液。"
+    },
+    {
+     "en": "No IVs, injections, BP or venipuncture in the affected arm; protect the arm, gloves for gardening, no tight jewelry, no heavy bag, medical alert bracelet.",
+     "zh": "患側手臂不可靜脈注射、注射、量血壓或抽血；保護手臂、園藝戴手套、避免緊束飾物、不提重物、佩戴醫療警示手環。"
+    }
+   ],
+   "pdf_pages": [
+    622,
+    623,
+    624,
+    625
+   ]
+  },
+  {
+   "heading": {
+    "en": "GI cancers: esophageal, gastric, pancreatic, colorectal",
+    "zh": "消化道癌：食道、胃、胰臟、大腸"
+   },
+   "points": [
+    {
+     "en": "Esophageal: dysphagia, odynophagia; smoking, alcohol, reflux, Barrett's; watch aspiration and nutrition.",
+     "zh": "食道癌：吞嚥困難、吞嚥痛；吸菸、酒精、逆流、Barrett食道；注意吸入與營養。"
+    },
+    {
+     "en": "Gastric: H. pylori, smoked/salted foods; early indigestion, late weight loss, iron-deficiency anemia, epigastric mass; Billroth I and II or total gastrectomy; postoperative NG drainage bloody then brown then yellow; do not irrigate or remove NG tube; watch dumping, B12 deficiency.",
+     "zh": "胃癌：幽門螺旋桿菌、燻製鹽漬食物；早期消化不良，晚期體重減輕、缺鐵性貧血、上腹腫塊；Billroth I與II或全胃切除；術後鼻胃管引流液先血性再褐色後黃色；勿自行沖洗或拔除；注意傾倒症候群與B12缺乏。"
+    },
+    {
+     "en": "Pancreatic: jaundice, clay stools, dark urine, weight loss, glucose intolerance, poor prognosis; Whipple procedure; monitor blood glucose.",
+     "zh": "胰臟癌：黃疸、陶土色便、深色尿、體重減輕、葡萄糖耐受不良、預後差；Whipple手術；監測血糖。"
+    },
+    {
+     "en": "Colorectal: blood in stool most common; ascending tumor = diarrhea, descending = constipation or ribbon stool, rectal = alternating; complications: perforation, obstruction, abscess, hemorrhage.",
+     "zh": "大腸直腸癌：糞便帶血最常見；升結腸=腹瀉，降結腸=便祕或細扁糞便，直腸=便祕腹瀉交替；併發症：穿孔、阻塞、膿瘍、出血。"
+    },
+    {
+     "en": "Colostomy: stoma should be red or pink, pale means low Hgb/Hct, dark blue/purple/black means ischemia - call surgeon; ascending colostomy liquid stool, descending near-formed; empty pouch at one-third full. Ileostomy: dark green then yellow liquid stool, risk dehydration.",
+     "zh": "結腸造口：造口應紅或粉紅，蒼白表示血紅素/血容比低，暗藍紫黑表示缺血須通知外科；升結腸造口為液狀便，降結腸接近成形；袋子1/3滿時倒空。迴腸造口：深綠後轉黃的液狀便，有脫水風險。"
+    }
+   ],
+   "pdf_pages": [
+    624,
+    625,
+    626,
+    627
+   ]
+  },
+  {
+   "heading": {
+    "en": "Lung and laryngeal cancer",
+    "zh": "肺癌與喉癌"
+   },
+   "points": [
+    {
+     "en": "Lung: smoking and pollutants; SCLC vs NSCLC; cough, hemoptysis, wheezing, hoarseness, weight loss, clubbing; diagnosed with imaging, bronchoscopy and sputum cytology.",
+     "zh": "肺癌：吸菸與污染；小細胞肺癌與非小細胞肺癌；咳嗽、咳血、喘鳴、聲音沙啞、體重減輕、杵狀指；以影像、支氣管鏡與痰液細胞學診斷。"
+    },
+    {
+     "en": "Airway is the priority; Fowler's position, oxygen, humidification, high-calorie diet; thoracentesis or pleurodesis for malignant effusion.",
+     "zh": "氣道為優先；採Fowler's臥位、給氧、加濕、高熱量飲食；惡性肋膜積液可行胸腔穿刺或肋膜沾黏術。"
+    },
+    {
+     "en": "Surgery: pneumonectomy, lobectomy, segmental resection. After pneumonectomy no chest tube drainage is usually used; fluid fills the space and consolidates, stabilizing the mediastinum. Avoid complete lateral turning per surgeon.",
+     "zh": "手術：全肺、肺葉、肺節切除。全肺切除通常不放胸管引流，積液會填滿並固化，穩定縱膈；依醫囑避免完全側臥。"
+    },
+    {
+     "en": "Laryngeal: smoking plus alcohol, persistent hoarseness, painless neck mass, dysphagia; total laryngectomy leaves a permanent stoma.",
+     "zh": "喉癌：吸菸加飲酒、持續聲音沙啞、無痛頸部腫塊、吞嚥困難；全喉切除留下永久性氣切造口。"
+    },
+    {
+     "en": "Post-laryngectomy: high Fowler's, suction, airway patency, neck hemorrhage and edema, tube feedings, stoma guard and shower shield, humidity, fluids 3000 mL, medical alert bracelet.",
+     "zh": "喉切除術後：高坐臥、抽吸、維持氣道通暢、監測頸部出血與水腫、管灌飲食、造口護罩與淋浴護罩、增加環境濕度、每日液體3000 mL、佩戴醫療警示手環。"
+    },
+    {
+     "en": "Speech options: esophageal speech, electrolarynx, tracheoesophageal fistula prosthesis.",
+     "zh": "語言復健：食道發聲、電子喉、氣管食道瘻管發聲閥。"
+    }
+   ],
+   "pdf_pages": [
+    627,
+    628,
+    629
+   ]
+  },
+  {
+   "heading": {
+    "en": "Prostate cancer and prostatectomy",
+    "zh": "攝護腺癌與攝護腺切除術"
+   },
+   "points": [
+    {
+     "en": "Slow-growing adenocarcinoma, risk rises after 50; early silent, later hard nodule on DRE, hematuria, obstruction, bone pain. PSA alone is not a screening test; used to monitor therapy; biopsy diagnoses.",
+     "zh": "生長緩慢的腺癌，50歲後風險上升；早期無症狀，後期直腸指診可摸到硬結節、血尿、阻塞、骨痛。PSA不可單獨作篩檢，用於追蹤治療；切片確診。"
+    },
+    {
+     "en": "Treatment: androgen suppression (hot flashes, low libido, osteoporosis), radiation, brachytherapy, orchiectomy, prostatectomy (retropubic, perineal, suprapubic), TURP for palliation.",
+     "zh": "治療：雄激素抑制（熱潮紅、性慾降低、骨質疏鬆）、放療、近接治療、睪丸切除、攝護腺切除（恥骨後、會陰、恥骨上）、TURP用於症狀緩解。"
+    },
+    {
+     "en": "Post-TURP: watch for hemorrhage and TUR syndrome (hyponatremia/water intoxication: confusion, bradycardia, hypertension). Use sterile irrigation solution only.",
+     "zh": "TURP後：監測出血與TUR症候群（低血鈉/水中毒：意識混亂、心搏過緩、高血壓）。僅使用無菌沖洗液。"
+    },
+    {
+     "en": "CBI with three-way catheter: keep urine pink; bright red with clots = arterial bleeding, increase CBI and call; burgundy = venous, traction may be applied; if obstruction, stop CBI and irrigate 30-50 mL saline if prescribed; do not release traction without order.",
+     "zh": "三腔導尿管膀胱持續灌洗：維持粉紅尿；鮮紅且有血塊=動脈出血，加快灌洗並通知醫師；暗紅=靜脈出血，可能施以導管牽引；阻塞時停止灌洗並依醫囑以30-50 mL生理食鹽水沖洗；未經醫囑不可放鬆牽引。"
+    },
+    {
+     "en": "Teach: fluids 2400-3000 mL/day, avoid straining, heavy lifting, Valsalva, intercourse for 2-6 weeks, perineal exercises; urge to void is normal, do not void around catheter (spasm). Avoid rectal tubes, enemas and thermometers after perineal surgery.",
+     "zh": "衛教：每日2400-3000 mL液體、避免用力解便、提重物、Valsalva動作及2-6週內性行為、會陰運動；持續尿意屬正常，不可繞著導管解尿（引起痙攣）。會陰手術後避免肛管、灌腸與肛溫。"
+    }
+   ],
+   "pdf_pages": [
+    629,
+    630,
+    631,
+    632
+   ]
+  },
+  {
+   "heading": {
+    "en": "Bladder cancer and urinary diversion",
+    "zh": "膀胱癌與尿路改道"
+   },
+   "points": [
+    {
+     "en": "Painless hematuria is the most common sign; smoking and industrial chemicals are risks; diagnosis by bladder wash and biopsy.",
+     "zh": "無痛性血尿為最常見徵象；吸菸與工業化學物為危險因子；以膀胱沖洗細胞學與切片診斷。"
+    },
+    {
+     "en": "Intravesical chemotherapy: retain 2 hours, rotate position every 15-30 minutes, then void sitting and drink fluids; urine is biohazard; disinfect toilet with bleach for 6 hours.",
+     "zh": "膀胱內化療：留置2小時，每15-30分鐘變換姿勢，之後坐著排尿並多喝水；尿液視為生物危害；6小時內以漂白水消毒馬桶。"
+    },
+    {
+     "en": "Surgery: TURBT with fulguration, partial cystectomy (capacity about 60 mL then 200-400 mL), cystectomy with urinary diversion.",
+     "zh": "手術：經尿道膀胱腫瘤切除與電灼、部分膀胱切除（容量約60 mL後增至200-400 mL）、膀胱切除加尿路改道。"
+    },
+    {
+     "en": "Diversions: ileal conduit (Bricker, incontinent stoma, needs pouch), Kock and Indiana pouches (continent, self-catheterize every 4-6 hours after building up from 2-3 hours), neobladder, ureterostomy, nephrostomy.",
+     "zh": "改道方式：迴腸導管（Bricker，非節制性造口需戴袋）、Kock與Indiana貯尿囊（節制性，從每2-3小時逐週增加至每4-6小時自我導尿）、新膀胱、輸尿管造口、腎造口。"
+    },
+    {
+     "en": "Postop stoma: red and moist, check hourly for 24 hours; dark/dusky = necrosis, call surgeon. Urine output 30-60 mL/hr; report under 30 mL/hr or none for 15 minutes. Peristalsis returns in 3-4 days; NPO until bowel sounds.",
+     "zh": "術後造口：紅且濕潤，前24小時每小時評估；暗沉=壞死須通知外科。尿量30-60 mL/小時；低於30 mL/小時或15分鐘無尿須通報。腸蠕動於3-4天恢復；腸音恢復前禁食。"
+    },
+    {
+     "en": "Urinary stoma care: change appliance in the morning, cut barrier no more than 3 mm larger than stoma, empty at one-third full, change every 5-7 days, non-karaya products, vinegar rinse to reduce odor.",
+     "zh": "尿路造口護理：早晨更換裝置、皮膚護板開口不超過造口3 mm、1/3滿時倒空、每5-7天更換、使用非karaya產品、白醋浸泡減少異味。"
+    }
+   ],
+   "pdf_pages": [
+    632,
+    633,
+    634,
+    635,
+    636
+   ]
+  },
+  {
+   "heading": {
+    "en": "Oncological emergencies",
+    "zh": "腫瘤急症"
+   },
+   "points": [
+    {
+     "en": "Sepsis and DIC: gram-negative sepsis in immunocompromised clients; IV antibiotics, anticoagulants early in DIC, cryoprecipitated clotting factors if hemorrhage dominates.",
+     "zh": "敗血症與DIC：免疫低下病人易發生格蘭氏陰性菌敗血症；靜脈抗生素、DIC早期給抗凝劑、出血為主時給冷凍沉澱凝血因子。"
+    },
+    {
+     "en": "SIADH: tumor-produced ADH causes water intoxication and hyponatremia (115-120 mEq/L mild; near 110 seizures, coma); restrict fluids, give sodium, ADH antagonist, treat tumor.",
+     "zh": "SIADH：腫瘤產生ADH造成水中毒與低血鈉（115-120 mEq/L輕度；近110時抽搐昏迷）；限水、補鈉、ADH拮抗劑、治療腫瘤。"
+    },
+    {
+     "en": "Spinal cord compression: back pain first, then weakness, numbness, loss of bowel/bladder sensation; give high-dose corticosteroids, immediate radiation or surgery.",
+     "zh": "脊髓壓迫：先背痛，再無力、麻木、大小便感覺喪失；給予高劑量類固醇、立即放療或手術。"
+    },
+    {
+     "en": "Hypercalcemia (bone metastasis): fatigue, nausea, constipation, polyuria, weakness, ECG changes; fluids, calcium-lowering drugs, encourage walking, dialysis if severe.",
+     "zh": "高血鈣（骨轉移）：疲倦、噁心、便祕、多尿、無力、心電圖改變；輸液、降鈣藥物、鼓勵走動、嚴重時透析。"
+    },
+    {
+     "en": "Superior vena cava syndrome (lung cancer, lymphoma): facial and periorbital edema in the morning, tight collar (Stokes' sign), dyspnea, neck vein distention; semi-Fowler's, steroids, diuretics, mediastinal radiation or stent.",
+     "zh": "上腔靜脈症候群（肺癌、淋巴瘤）：晨起臉部眼周水腫、衣領變緊（Stokes徵象）、呼吸困難、頸靜脈怒張；半坐臥、類固醇、利尿劑、縱膈放療或支架。"
+    },
+    {
+     "en": "Tumor lysis syndrome: hyperkalemia, hyperphosphatemia with hypocalcemia, hyperuricemia leading to AKI; hydrate, diuretics, allopurinol, glucose-insulin for potassium, dialysis if needed, low K and phosphorus diet.",
+     "zh": "腫瘤溶解症候群：高血鉀、高血磷伴低血鈣、高尿酸導致急性腎損傷；補水、利尿劑、allopurinol、葡萄糖加胰島素降鉀、必要時透析、低鉀低磷飲食。"
+    }
+   ],
+   "pdf_pages": [
+    636,
+    637,
+    638
+   ]
+  },
+  {
+   "heading": {
+    "en": "Anemias",
+    "zh": "貧血"
+   },
+   "points": [
+    {
+     "en": "Anemia: too few healthy red cells or hemoglobin; fatigue, pallor, dyspnea, tachycardia, dysrhythmias, chest pain, cool extremities.",
+     "zh": "貧血：健康紅血球或血紅素不足；疲倦、蒼白、呼吸困難、心搏過速、心律不整、胸痛、四肢冰冷。"
+    },
+    {
+     "en": "Iron deficiency: microcytic, hypochromic, low Hgb/Hct/MCV. Iron between meals with vitamin C; not with milk or antacids; black stools, constipation; liquid iron through straw; Z-track if IM.",
+     "zh": "缺鐵性貧血：小球性低色素、血紅素/血容比/MCV低。鐵劑餐間服用並配維生素C；不與牛奶或制酸劑併服；黑便、便祕；液態鐵用吸管；肌注採Z字形。"
+    },
+    {
+     "en": "Vitamin B12 deficiency (pernicious anemia, lack of intrinsic factor): macrocytic, beefy red tongue, paresthesias, gait disturbance; lifelong B12 injections.",
+     "zh": "維生素B12缺乏（惡性貧血，缺乏內在因子）：大球性、牛肉紅舌、感覺異常、步態不穩；需終身注射B12。"
+    },
+    {
+     "en": "Folate deficiency: macrocytic, from poor diet, alcoholism, malabsorption, anticonvulsants, pregnancy; give folic acid and folate-rich foods.",
+     "zh": "葉酸缺乏：大球性，因飲食不良、酗酒、吸收不良、抗癲癇藥、懷孕；補充葉酸與富含葉酸食物。"
+    },
+    {
+     "en": "Aplastic anemia: pancytopenia from marrow failure; marrow biopsy shows fatty marrow; treat with immunosuppression (ATG), transplant if donor available, bleeding and infection precautions.",
+     "zh": "再生不良性貧血：骨髓衰竭造成全血球低下；骨髓切片呈脂肪化；以免疫抑制（ATG）治療，有合適捐贈者則移植；預防出血與感染。"
+    }
+   ],
+   "pdf_pages": [
+    638,
+    639,
+    640
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Pain is what the client says; do not undermedicate; around-the-clock oral opioids control most cancer pain.",
+   "zh": "疼痛以病人主訴為準；不可給藥不足；定時口服鴉片類可控制多數癌痛。",
+   "pdf_pages": [
+    612
+   ]
+  },
+  {
+   "en": "Sealed radiation implant: client emits radiation, excreta do not. Limit caregiver time to 30 min/shift, no pregnant staff, visitors 6 ft away; lost source: long forceps into lead container, never touch.",
+   "zh": "密封放射植入：病人具放射性，排泄物不具。照護者每班30分鐘、孕婦不可照護、訪客距離6呎；放射源掉落以長夾放入鉛容器，絕不徒手碰觸。",
+   "pdf_pages": [
+    613,
+    614
+   ]
+  },
+  {
+   "en": "External beam radiation does not make the client radioactive; protect skin, avoid lotions, sun, friction, and do not wash off markings.",
+   "zh": "外部放療不使病人具放射性；保護皮膚，避免乳液、日曬、摩擦，勿洗掉標記。",
+   "pdf_pages": [
+    613,
+    614
+   ]
+  },
+  {
+   "en": "Until stem cell engraftment (2-5 weeks) the client has no immunity; main risks are infection, bleeding, GVHD in allogeneic transplants, hepatic veno-occlusive disease.",
+   "zh": "幹細胞植入前（2-5週）病人無免疫力；主要風險為感染、出血、異體移植的GVHD、肝靜脈阻塞症。",
+   "pdf_pages": [
+    615
+   ]
+  },
+  {
+   "en": "Leukemia: infection is the major cause of death. Protective isolation, no fresh flowers or raw produce, no rectal temps or injections, no live vaccines.",
+   "zh": "白血病：感染為主要死因。保護性隔離、不放鮮花與生食、不測肛溫與注射、不打活性疫苗。",
+   "pdf_pages": [
+    616,
+    617
+   ]
+  },
+  {
+   "en": "Platelets under 50,000/mm3 bleeding risk; under 20,000/mm3 spontaneous bleeding and platelet transfusion.",
+   "zh": "血小板低於50,000/mm3有出血風險；低於20,000/mm3自發性出血並可能輸血小板。",
+   "pdf_pages": [
+    617
+   ]
+  },
+  {
+   "en": "Multiple myeloma: protect from pathological fractures, 2 L fluid per day, watch calcium, uric acid and kidney failure; Bence Jones proteinuria.",
+   "zh": "多發性骨髓瘤：防病理性骨折、每日2 L水分、監測血鈣尿酸與腎衰竭；Bence Jones蛋白尿。",
+   "pdf_pages": [
+    618,
+    619
+   ]
+  },
+  {
+   "en": "Testicular self-exam monthly after a warm shower; painless swelling is the key sign.",
+   "zh": "睪丸自我檢查每月一次，溫水淋浴後；無痛性腫大為關鍵徵象。",
+   "pdf_pages": [
+    619,
+    620
+   ]
+  },
+  {
+   "en": "After mastectomy: no BP, IV or venipuncture in the affected arm; elevate arm, watch lymphedema.",
+   "zh": "乳房切除術後：患側手臂不可量血壓、靜脈注射或抽血；抬高手臂、注意淋巴水腫。",
+   "pdf_pages": [
+    624
+   ]
+  },
+  {
+   "en": "Colostomy/urostomy stoma: red/pink healthy; dark blue, purple, black or dusky means ischemia, notify surgeon.",
+   "zh": "結腸/泌尿造口：紅或粉紅為健康；暗藍、紫、黑或暗沉代表缺血，須通知外科。",
+   "pdf_pages": [
+    627,
+    636
+   ]
+  },
+  {
+   "en": "Lung or laryngeal cancer: airway is the priority; after laryngectomy keep high Fowler's, suction, tracheostomy stoma permanent.",
+   "zh": "肺癌或喉癌：氣道為優先；喉切除術後高坐臥、抽吸、氣切造口為永久性。",
+   "pdf_pages": [
+    628
+   ]
+  },
+  {
+   "en": "Post-TURP/prostatectomy CBI: pink urine goal; bright red with clots = arterial bleeding; obstruction: stop CBI, notify surgeon; watch TUR syndrome (hyponatremia).",
+   "zh": "TURP/攝護腺切除術後持續膀胱灌洗：目標粉紅尿；鮮紅含血塊=動脈出血；阻塞時停止灌洗並通知醫師；注意TUR症候群（低血鈉）。",
+   "pdf_pages": [
+    630,
+    631,
+    632
+   ]
+  },
+  {
+   "en": "Urinary diversion: report urine output under 30 mL/hr; stoma should be red and moist.",
+   "zh": "尿路改道：尿量低於30 mL/小時須通報；造口應紅潤濕潤。",
+   "pdf_pages": [
+    636
+   ]
+  },
+  {
+   "en": "Spinal cord compression: back pain precedes neuro deficits; give high-dose steroids and prepare for radiation. It is an emergency.",
+   "zh": "脊髓壓迫：背痛先於神經缺損；給高劑量類固醇並準備放療；屬急症。",
+   "pdf_pages": [
+    637
+   ]
+  },
+  {
+   "en": "SIADH: sodium 115-120 mild, near 110 seizures; fluid restriction, sodium, monitor sodium.",
+   "zh": "SIADH：鈉115-120輕度，近110抽搐；限水、補鈉、監測血鈉。",
+   "pdf_pages": [
+    636,
+    637
+   ]
+  },
+  {
+   "en": "Tumor lysis syndrome: high K, high phosphorus, low Ca, high uric acid; hydrate, allopurinol, glucose-insulin, dialysis if refractory.",
+   "zh": "腫瘤溶解症候群：高鉀、高磷、低鈣、高尿酸；補水、allopurinol、葡萄糖加胰島素、無效則透析。",
+   "pdf_pages": [
+    638
+   ]
+  },
+  {
+   "en": "SVC syndrome: facial edema in the morning and tight collar; semi-Fowler's, steroids, radiation.",
+   "zh": "上腔靜脈症候群：晨間臉腫、衣領緊；半坐臥、類固醇、放療。",
+   "pdf_pages": [
+    637
+   ]
+  },
+  {
+   "en": "Hypercalcemia of malignancy: weakness, constipation, polyuria, ECG changes; fluids and encourage walking.",
+   "zh": "惡性腫瘤高血鈣：無力、便祕、多尿、心電圖改變；輸液並鼓勵走動。",
+   "pdf_pages": [
+    637
+   ]
+  },
+  {
+   "en": "Iron: between meals with vitamin C, black stools expected. B12 deficiency (pernicious anemia) needs lifelong injections.",
+   "zh": "鐵劑：餐間併維生素C，黑便屬預期。B12缺乏（惡性貧血）需終身注射。",
+   "pdf_pages": [
+    638,
+    639
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "CAUTION-US warning signs: Change in bowel/bladder, A sore that does not heal, Unusual bleeding, Thickening/lump, Indigestion, Obvious wart/mole change, Nagging cough/hoarseness, Unexplained anemia, Sudden weight loss.",
+   "zh": "CAUTION-US癌症警訊：排便排尿習慣改變、傷口不癒、異常出血、增厚或腫塊、消化不良、痣疣明顯變化、持續咳嗽聲啞、不明原因貧血、體重驟降。",
+   "pdf_pages": [
+    611
+   ]
+  },
+  {
+   "en": "Tumor lysis: 'K-P-U up, Ca down' (potassium, phosphate, uric acid rise; calcium falls).",
+   "zh": "腫瘤溶解：鉀、磷、尿酸上升，鈣下降。",
+   "pdf_pages": [
+    638
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 611,
+   "caption": {
+    "en": "Box 45.2 grading and staging, Box 45.3 warning signs, Box 45.1 common metastasis sites.",
+    "zh": "Box 45.2分級與分期、Box 45.3警訊、Box 45.1常見轉移部位。"
+   }
+  },
+  {
+   "pdf_page": 614,
+   "caption": {
+    "en": "Box 45.5 radiation skin care and Box 45.6 sealed implant precautions, plus dislodged implant Take Action box.",
+    "zh": "Box 45.5放療皮膚護理、Box 45.6密封植入防護及放射源脫落處置。"
+   }
+  },
+  {
+   "pdf_page": 616,
+   "caption": {
+    "en": "Box 45.7 leukemia classification by type and age of onset.",
+    "zh": "Box 45.7白血病類型與好發年齡。"
+   }
+  },
+  {
+   "pdf_page": 619,
+   "caption": {
+    "en": "Fig. 45.1 testicular self-examination.",
+    "zh": "圖45.1睪丸自我檢查。"
+   }
+  },
+  {
+   "pdf_page": 623,
+   "caption": {
+    "en": "Fig. 45.2 breast self-examination steps.",
+    "zh": "圖45.2乳房自我檢查步驟。"
+   }
+  },
+  {
+   "pdf_page": 632,
+   "caption": {
+    "en": "Box 45.17 continuous bladder irrigation care.",
+    "zh": "Box 45.17持續膀胱灌洗護理。"
+   }
+  },
+  {
+   "pdf_page": 634,
+   "caption": {
+    "en": "Fig. 45.8 urinary diversion procedures.",
+    "zh": "圖45.8尿路改道手術。"
+   }
+  },
+  {
+   "pdf_page": 637,
+   "caption": {
+    "en": "Spinal cord compression Analyze Cues box and SVC syndrome content.",
+    "zh": "脊髓壓迫辨識線索範例與上腔靜脈症候群內容。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "The nurse finds a radiation seed in the bed of a client with a cervical implant. What is the first action?",
+    "zh": "護理師在子宮頸植入病人床上發現放射種子，首要行動為何？"
+   },
+   "options": [
+    {
+     "en": "Pick it up with a gloved hand",
+     "zh": "戴手套徒手拿起"
+    },
+    {
+     "en": "Use long-handled forceps to place it in a lead container",
+     "zh": "用長柄夾放入鉛容器"
+    },
+    {
+     "en": "Flush it down the toilet",
+     "zh": "沖入馬桶"
+    },
+    {
+     "en": "Call housekeeping",
+     "zh": "通知清潔人員"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Never touch a dislodged source; use long forceps, place in the lead container, keep others out, notify the radiation oncologist and document.",
+    "zh": "掉落放射源絕不可碰觸；用長夾放入鉛容器、禁止他人進入、通知放射腫瘤科醫師並記錄。"
+   },
+   "pdf_pages": [
+    614
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which instructions apply to a client with a sealed radiation implant? Select all that apply.",
+    "zh": "密封放射植入病人適用哪些措施？（複選）"
+   },
+   "options": [
+    {
+     "en": "Private room",
+     "zh": "單人房"
+    },
+    {
+     "en": "Limit each caregiver to 30 minutes per shift",
+     "zh": "每位照護者每班限30分鐘"
+    },
+    {
+     "en": "Pregnant nurse may care for the client",
+     "zh": "孕婦護理師可照護"
+    },
+    {
+     "en": "Visitors stay at least 6 feet away",
+     "zh": "訪客保持至少6呎"
+    },
+    {
+     "en": "Children under 16 may visit freely",
+     "zh": "16歲以下兒童可自由探視"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Pregnant staff and children under 16 are restricted. Time, distance and shielding limit exposure.",
+    "zh": "孕婦與16歲以下兒童受限制；以時間、距離與屏蔽減少暴露。"
+   },
+   "pdf_pages": [
+    614
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with leukemia has a platelet count of 15,000/mm3. Which action is appropriate?",
+    "zh": "白血病病人血小板15,000/mm3，何者適當？"
+   },
+   "options": [
+    {
+     "en": "Give an IM antiemetic",
+     "zh": "肌肉注射止吐劑"
+    },
+    {
+     "en": "Pad the side rails and use an electric razor",
+     "zh": "床欄加墊並使用電動刮鬍刀"
+    },
+    {
+     "en": "Take a rectal temperature",
+     "zh": "測量肛溫"
+    },
+    {
+     "en": "Offer hard crusty bread",
+     "zh": "提供硬脆麵包"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Below 20,000/mm3 spontaneous bleeding can occur; avoid injections, rectal measures and rough foods.",
+    "zh": "低於20,000/mm3可能自發性出血；避免注射、肛門處置與粗硬食物。"
+   },
+   "pdf_pages": [
+    617
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "After a modified radical mastectomy, which action by the nurse is correct?",
+    "zh": "改良式根治乳房切除術後，哪項護理正確？"
+   },
+   "options": [
+    {
+     "en": "Take BP on the operative arm",
+     "zh": "在手術側手臂量血壓"
+    },
+    {
+     "en": "Elevate the affected arm above the heart",
+     "zh": "將患側手臂抬高於心臟"
+    },
+    {
+     "en": "Draw blood from the affected arm",
+     "zh": "自患側手臂抽血"
+    },
+    {
+     "en": "Keep the arm dependent",
+     "zh": "手臂下垂"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Elevation promotes drainage and prevents lymphedema; the affected arm is protected from procedures.",
+    "zh": "抬高促進引流並預防淋巴水腫；患側手臂應避免任何侵入處置。"
+   },
+   "pdf_pages": [
+    624
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client after TURP has bright red urine with clots on continuous bladder irrigation. What does the nurse do?",
+    "zh": "TURP後持續膀胱灌洗病人出現鮮紅尿與血塊，護理師應如何處理？"
+   },
+   "options": [
+    {
+     "en": "Slow the irrigation",
+     "zh": "減慢灌洗"
+    },
+    {
+     "en": "Increase irrigation rate and notify the surgeon",
+     "zh": "加快灌洗並通知外科醫師"
+    },
+    {
+     "en": "Remove the catheter",
+     "zh": "拔除導尿管"
+    },
+    {
+     "en": "Release catheter traction",
+     "zh": "放鬆導管牽引"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Bright red urine with clots indicates arterial bleeding; increase CBI and notify the surgeon. Traction is released only on order.",
+    "zh": "鮮紅含血塊為動脈出血；加快灌洗並通知醫師；牽引須醫囑才可放鬆。"
+   },
+   "pdf_pages": [
+    632
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client with lung cancer develops facial swelling worse in the morning and a tight collar. Which condition is suspected and what position helps?",
+    "zh": "肺癌病人晨間臉部腫脹且衣領變緊，懷疑何種情況，何種姿勢有幫助？"
+   },
+   "options": [
+    {
+     "en": "SIADH; supine",
+     "zh": "SIADH；平躺"
+    },
+    {
+     "en": "Superior vena cava syndrome; semi-Fowler's",
+     "zh": "上腔靜脈症候群；半坐臥"
+    },
+    {
+     "en": "Hypercalcemia; Trendelenburg",
+     "zh": "高血鈣；頭低腳高"
+    },
+    {
+     "en": "Tumor lysis syndrome; prone",
+     "zh": "腫瘤溶解症候群；俯臥"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Facial and periorbital edema with a tight collar (Stokes' sign) indicates SVC obstruction; semi-Fowler's with steroids, diuretics and radiation.",
+    "zh": "臉與眼周水腫加衣領變緊（Stokes徵象）為上腔靜脈阻塞；半坐臥併類固醇、利尿劑與放療。"
+   },
+   "pdf_pages": [
+    637
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which laboratory findings indicate tumor lysis syndrome? Select all that apply.",
+    "zh": "哪些檢驗結果提示腫瘤溶解症候群？（複選）"
+   },
+   "options": [
+    {
+     "en": "Hyperkalemia",
+     "zh": "高血鉀"
+    },
+    {
+     "en": "Hyperphosphatemia",
+     "zh": "高血磷"
+    },
+    {
+     "en": "Hypocalcemia",
+     "zh": "低血鈣"
+    },
+    {
+     "en": "Hyperuricemia",
+     "zh": "高尿酸"
+    },
+    {
+     "en": "Hypernatremia",
+     "zh": "高血鈉"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Rapid cell death releases potassium, phosphate and uric acid; calcium falls as phosphate rises.",
+    "zh": "細胞快速死亡釋出鉀、磷與尿酸；磷上升使鈣下降。"
+   },
+   "pdf_pages": [
+    638
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client takes oral iron for iron-deficiency anemia. Which statement shows understanding?",
+    "zh": "病人因缺鐵性貧血服用口服鐵劑，哪項敘述顯示理解？"
+   },
+   "options": [
+    {
+     "en": "I will take it with milk",
+     "zh": "我會配牛奶服用"
+    },
+    {
+     "en": "I will take it with orange juice between meals",
+     "zh": "我會在餐間配柳橙汁服用"
+    },
+    {
+     "en": "Black stools mean I should stop",
+     "zh": "出現黑便就要停藥"
+    },
+    {
+     "en": "I will take it with antacids",
+     "zh": "我會與制酸劑併服"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Vitamin C boosts absorption; milk and antacids reduce it; black stools are expected.",
+    "zh": "維生素C促進吸收；牛奶與制酸劑降低吸收；黑便屬預期。"
+   },
+   "pdf_pages": [
+    638,
+    639
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Cancer & Oncology Nursing NCLEX Practice Quiz (170+ Questions)",
+   "url": "https://nurseslabs.com/cancer-oncology-nursing-nclex-practice-questions/",
+   "note": {
+    "en": "Free oncology NCLEX-style questions with rationales.",
+    "zh": "免費腫瘤護理NCLEX題目附解析。"
+   }
+  },
+  {
+   "title": "Cancer and Oncology Nursing NCLEX Practice Exam (Quiz 4)",
+   "url": "https://nurseslabs.com/quizzes/nclex-cancer-oncology-quiz-4/",
+   "note": {
+    "en": "20-question oncology quiz.",
+    "zh": "20題腫瘤護理測驗。"
+   }
+  },
+  {
+   "title": "Free Hematology, Oncology and Immunology NCLEX Questions",
+   "url": "https://nursing.com/nclex-questions/hematology-oncology-immunology",
+   "note": {
+    "en": "Free sample questions from nurse educators.",
+    "zh": "護理教師編寫的免費範例題。"
+   }
+  }
+ ]
+}

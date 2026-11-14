@@ -1,0 +1,761 @@
+{
+ "number": 64,
+ "title": {
+  "en": "Immune Medications",
+  "zh": "免疫藥物"
+ },
+ "overview": {
+  "en": "This chapter groups the drugs used for HIV/AIDS, transplant and autoimmune immunosuppression, and bacterial/fungal/viral infections. For each class, know the action, signature adverse effects, the lab or sign to monitor, and the teaching points. Many NCLEX items simply ask 'which adverse effect goes with which drug class'.",
+  "zh": "本章依藥物類別整理 HIV/AIDS 用藥、移植與自體免疫疾病的免疫抑制劑，以及抗細菌、抗黴菌、抗病毒藥物。每一類都要記住作用、代表性不良反應、需監測的檢驗或徵象，以及衛教重點。NCLEX 常考「哪個不良反應對應哪一類藥」。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "HIV/AIDS drugs: overview and HAART",
+    "zh": "HIV/AIDS 藥物：總覽與 HAART"
+   },
+   "points": [
+    {
+     "en": "Drug classes: NRTIs, NNRTIs, protease inhibitors (PIs), integrase inhibitors, fusion inhibitor (enfuvirtide) and the CCR5 antagonist maraviroc.",
+     "zh": "藥物類別：核苷(酸)類逆轉錄酶抑制劑 NRTI、非核苷類 NNRTI、蛋白酶抑制劑 PI、整合酶抑制劑、融合抑制劑 enfuvirtide，以及 CCR5 拮抗劑 maraviroc。"
+    },
+    {
+     "en": "NRTIs and NNRTIs block reverse transcriptase; PIs block the enzyme protease; fusion inhibitors block HIV binding/entry into cells; maraviroc binds CCR5 and blocks viral entry; integrase inhibitors stop viral replication.",
+     "zh": "NRTI 與 NNRTI 抑制逆轉錄酶；PI 抑制蛋白酶；融合抑制劑阻止 HIV 與細胞結合；maraviroc 結合 CCR5 阻斷病毒進入；整合酶抑制劑阻止病毒複製。"
+    },
+    {
+     "en": "Standard therapy is 3-4 drugs together (HAART). It is not a cure, but it delays or reverses immune loss and prolongs life.",
+     "zh": "標準治療是同時使用 3–4 種藥物（HAART）。它不能治癒，但可延緩或逆轉免疫功能喪失並延長壽命。"
+    },
+    {
+     "en": "Other drugs treat complications and opportunistic infections; the client with HIV/AIDS is at high risk of opportunistic infection.",
+     "zh": "其他藥物用於治療併發症與伺機性感染；HIV/AIDS 客戶有高度伺機性感染風險。"
+    }
+   ],
+   "pdf_pages": [
+    1031,
+    1032,
+    1033
+   ]
+  },
+  {
+   "heading": {
+    "en": "NRTIs (nucleoside/nucleotide RT inhibitors)",
+    "zh": "NRTI 類藥物"
+   },
+   "points": [
+    {
+     "en": "Abacavir: nausea; watch for hypersensitivity (fever, rash, N/V/D, malaise, sore throat, cough, dyspnea).",
+     "zh": "Abacavir：噁心；監測過敏反應（發燒、皮疹、噁心嘔吐腹瀉、倦怠、喉痛、咳嗽、呼吸困難）。"
+    },
+    {
+     "en": "Didanosine: peripheral neuropathy, hepatotoxicity, pancreatitis (rising serum amylase may mean drug must be stopped).",
+     "zh": "Didanosine：周邊神經病變、肝毒性、胰臟炎（血清澱粉酶上升可能需停藥）。"
+    },
+    {
+     "en": "Stavudine: peripheral neuropathy and pancreatitis; check gait and paresthesias.",
+     "zh": "Stavudine：周邊神經病變與胰臟炎；評估步態與感覺異常。"
+    },
+    {
+     "en": "Zidovudine and lamivudine/zidovudine: anemia, neutropenia/leukopenia, myopathy; combinations may add lactic acidosis with severe hepatomegaly.",
+     "zh": "Zidovudine 及 lamivudine/zidovudine：貧血、嗜中性球/白血球減少、肌病變；複方可能併有乳酸中毒與嚴重肝腫大。"
+    },
+    {
+     "en": "Emtricitabine: headache, diarrhea, nausea, rash, palm/sole hyperpigmentation, lactic acidosis. Lamivudine: nausea, nasal congestion. Tenofovir: nausea and vomiting.",
+     "zh": "Emtricitabine：頭痛、腹瀉、噁心、皮疹、手掌腳底色素沉著、乳酸中毒。Lamivudine：噁心、鼻塞。Tenofovir：噁心嘔吐。"
+    }
+   ],
+   "pdf_pages": [
+    1031,
+    1032
+   ]
+  },
+  {
+   "heading": {
+    "en": "NNRTIs, protease inhibitors, integrase, fusion, CCR5",
+    "zh": "NNRTI、PI、整合酶、融合與 CCR5 抑制劑"
+   },
+   "points": [
+    {
+     "en": "NNRTIs: rash is the common theme; nevirapine can cause Stevens-Johnson syndrome and hepatitis; efavirenz causes dizziness, confusion, abnormal dreams; etravirine adds hypertension and neuropathy.",
+     "zh": "NNRTI：共通特徵是皮疹；nevirapine 可致 Stevens-Johnson 症候群與肝炎；efavirenz 造成頭暈、意識混亂、怪夢；etravirine 另有高血壓與神經病變。"
+    },
+    {
+     "en": "Protease inhibitors (-navir): GI upset, altered taste, circumoral paresthesia, hyperglycemia, hyperlipidemia, fat redistribution, liver effects.",
+     "zh": "蛋白酶抑制劑（-navir）：腸胃不適、味覺改變、口周感覺異常、高血糖、高血脂、脂肪重新分佈、肝功能異常。"
+    },
+    {
+     "en": "Specific PIs: indinavir causes kidney stones/nephritis and hyperbilirubinemia; tipranavir is hepatotoxic; saquinavir causes photosensitivity; atazanavir raises bleeding risk in hemophilia.",
+     "zh": "特定 PI：indinavir 造成腎結石/腎炎與高膽紅素血症；tipranavir 有肝毒性；saquinavir 造成光敏感；atazanavir 使血友病患出血風險增加。"
+    },
+    {
+     "en": "Integrase inhibitors (-gravir): nausea, diarrhea, headache, fatigue; dolutegravir: hypersensitivity and liver problems.",
+     "zh": "整合酶抑制劑（-gravir）：噁心、腹瀉、頭痛、疲倦；dolutegravir 可致過敏與肝問題。"
+    },
+    {
+     "en": "Enfuvirtide (fusion inhibitor, injected): injection-site reactions, fatigue, insomnia, peripheral neuropathy. Maraviroc: cough, fever, rash, upper respiratory infection, liver injury, cardiovascular events.",
+     "zh": "Enfuvirtide（注射）：注射部位反應、疲倦、失眠、周邊神經病變。Maraviroc：咳嗽、發燒、皮疹、上呼吸道感染、肝損傷、心血管事件。"
+    }
+   ],
+   "pdf_pages": [
+    1032,
+    1033
+   ]
+  },
+  {
+   "heading": {
+    "en": "Treatment of opportunistic infections",
+    "zh": "伺機性感染用藥"
+   },
+   "points": [
+    {
+     "en": "Pneumocystis jirovecii pneumonia and toxoplasma encephalitis: sulfamethoxazole/trimethoprim (also pentamidine, atovaquone).",
+     "zh": "肺囊蟲肺炎與弓形蟲腦炎：sulfamethoxazole/trimethoprim（亦可用 pentamidine、atovaquone）。"
+    },
+    {
+     "en": "Antifungals (amphotericin B, fluconazole, itraconazole, ketoconazole, voriconazole): candidiasis and cryptococcal meningitis.",
+     "zh": "抗黴菌藥（amphotericin B、fluconazole、itraconazole、ketoconazole、voriconazole）：念珠菌感染與隱球菌腦膜炎。"
+    },
+    {
+     "en": "Antivirals (acyclovir, ganciclovir, foscarnet, valacyclovir): CMV retinitis, herpes simplex, varicella-zoster.",
+     "zh": "抗病毒藥（acyclovir、ganciclovir、foscarnet、valacyclovir）：CMV 視網膜炎、單純疱疹、水痘帶狀疱疹。"
+    },
+    {
+     "en": "Fever during pentamidine therapy in AIDS suggests a new infection because the drug can cause leukopenia, thrombocytopenia, and anemia.",
+     "zh": "AIDS 客戶使用 pentamidine 時發燒，應考慮新的感染，因藥物可造成白血球、血小板減少與貧血。"
+    }
+   ],
+   "pdf_pages": [
+    1032,
+    1033,
+    1035
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immunosuppressants",
+    "zh": "免疫抑制劑"
+   },
+   "points": [
+    {
+     "en": "Uses: prevent organ/tissue rejection after transplant and treat autoimmune disease (e.g., lupus). Classes: calcineurin inhibitors, cytotoxic drugs, antibodies, mTOR/other drugs, glucocorticoids.",
+     "zh": "用途：預防移植排斥並治療自體免疫疾病（如狼瘡）。類別：calcineurin 抑制劑、細胞毒性藥、抗體、mTOR/其他、糖皮質激素。"
+    },
+    {
+     "en": "Cyclosporine: nephrotoxicity, infection, hypertension, hirsutism. Tacrolimus: nephrotoxicity, neurotoxicity, hyperkalemia, hyperglycemia, hypertension, gum hyperplasia.",
+     "zh": "Cyclosporine：腎毒性、感染、高血壓、多毛。Tacrolimus：腎毒性、神經毒性、高血鉀、高血糖、高血壓、牙齦增生。"
+    },
+    {
+     "en": "Azathioprine: neutropenia, thrombocytopenia (renal transplant). Cyclophosphamide: neutropenia, hemorrhagic cystitis. Methotrexate: hepatic fibrosis/cirrhosis, bone marrow suppression, stomatitis, renal damage.",
+     "zh": "Azathioprine：嗜中性球與血小板減少（腎移植）。Cyclophosphamide：嗜中性球減少、出血性膀胱炎。Methotrexate：肝纖維化/肝硬化、骨髓抑制、口腔潰瘍、腎損傷。"
+    },
+    {
+     "en": "Mycophenolate: diarrhea, vomiting, neutropenia, sepsis, lymphoma risk. Basiliximab and antithymocyte globulin: anaphylactic/anaphylactoid reactions, fever, chills, leukopenia.",
+     "zh": "Mycophenolate：腹瀉、嘔吐、嗜中性球減少、敗血症、淋巴瘤風險。Basiliximab 與抗胸腺細胞球蛋白：過敏性/類過敏反應、發燒、畏寒、白血球減少。"
+    },
+    {
+     "en": "Sirolimus: infection, elevated cholesterol/triglycerides, renal injury, rash, anemia, thrombocytopenia, hypokalemia. Everolimus: mouth sores, edema, infection.",
+     "zh": "Sirolimus：感染、膽固醇與三酸甘油酯上升、腎損傷、皮疹、貧血、血小板減少、低血鉀。Everolimus：口腔潰瘍、水腫、感染。"
+    },
+    {
+     "en": "Monitor all immunosuppressed clients closely for signs of infection.",
+     "zh": "所有免疫抑制客戶都要密切監測感染徵象。"
+    }
+   ],
+   "pdf_pages": [
+    1033
+   ]
+  },
+  {
+   "heading": {
+    "en": "Antimicrobials: classes and adverse effects",
+    "zh": "抗微生物藥：類別與不良反應"
+   },
+   "points": [
+    {
+     "en": "Aminoglycosides (-mycin/-micin, e.g., gentamicin, amikacin): ototoxicity, nephrotoxicity, confusion, GI irritation, palpitations, BP changes, hypersensitivity. Report hearing loss at once.",
+     "zh": "胺基糖苷類（如 gentamicin、amikacin）：耳毒性、腎毒性、意識混亂、腸胃刺激、心悸、血壓變化、過敏。聽力減退須立即通報。"
+    },
+    {
+     "en": "Cephalosporins (cef-/ceph-): GI upset, pseudomembranous colitis, nephrotoxicity, superinfection. Fluoroquinolones (-floxacin): CNS effects, photosensitivity, tendinopathy, GI effects.",
+     "zh": "頭孢菌素類：腸胃不適、偽膜性結腸炎、腎毒性、二重感染。氟喹諾酮類（-floxacin）：中樞神經效應、光敏感、肌腱病變、腸胃效應。"
+    },
+    {
+     "en": "Macrolides (-thromycin) and lincosamides (clindamycin): GI effects, pseudomembranous colitis, superinfection.",
+     "zh": "大環內酯類（-thromycin）與林可醯胺類（clindamycin）：腸胃效應、偽膜性結腸炎、二重感染。"
+    },
+    {
+     "en": "Penicillins: hypersensitivity/anaphylaxis, GI effects, sore mouth, furry tongue, superinfection. Sulfonamides: nephrotoxicity, hepatotoxicity, bone marrow suppression, rash/photosensitivity, neurologic symptoms.",
+     "zh": "青黴素類：過敏/過敏性休克、腸胃效應、口腔痛、毛舌、二重感染。磺胺類：腎毒性、肝毒性、骨髓抑制、皮疹/光敏感、神經症狀。"
+    },
+    {
+     "en": "Tetracyclines (-cycline): tooth staining and bone damage, photosensitivity, hepatotoxicity, GI effects. Aztreonam: GI, hepatotoxicity, allergy.",
+     "zh": "四環黴素類（-cycline）：牙齒染色與骨骼傷害、光敏感、肝毒性、腸胃效應。Aztreonam：腸胃、肝毒性、過敏。"
+    },
+    {
+     "en": "Antifungals: GI effects, headache, rash, anemia, hepatotoxicity, hearing loss, peripheral neuritis. Ketoconazole: give with food, avoid alcohol, antacids 2 h apart, avoid sun, monitor liver function.",
+     "zh": "抗黴菌藥：腸胃效應、頭痛、皮疹、貧血、肝毒性、聽力喪失、周邊神經炎。Ketoconazole：隨餐服用、避免酒精、制酸劑間隔 2 小時、避免日曬、監測肝功能。"
+    }
+   ],
+   "pdf_pages": [
+    1034,
+    1035
+   ]
+  },
+  {
+   "heading": {
+    "en": "Nursing considerations for antimicrobials",
+    "zh": "抗微生物藥護理考量"
+   },
+   "points": [
+    {
+     "en": "Assess for allergies before the first dose and review baseline labs; monitor labs during therapy.",
+     "zh": "首次給藥前評估過敏史並檢視基準檢驗值；治療期間持續監測。"
+    },
+    {
+     "en": "Report adverse effects to the primary health care provider; monitor intake and output and encourage fluids unless contraindicated.",
+     "zh": "通報不良反應給醫師；監測輸入輸出量，除非禁忌否則鼓勵飲水。"
+    },
+    {
+     "en": "Institute safety precautions for CNS effects; teach how to take the drug and to finish the full course.",
+     "zh": "因可能有中樞神經效應，採取安全措施；教導用藥方式並強調完成整個療程。"
+    },
+    {
+     "en": "Severe diarrhea on a cephalosporin: contact precautions, monitor fluid/electrolytes, oral fluids (avoid caffeine, sugar, fatty/spicy food), ask the provider about probiotics and antidiarrheals.",
+     "zh": "使用頭孢菌素後嚴重腹瀉：接觸隔離、監測體液電解質、口服補液（避免咖啡因、高糖、油膩辛辣）、詢問醫師是否使用益生菌與止瀉藥。"
+    },
+    {
+     "en": "Immunizations are covered in Chapter 19.",
+     "zh": "疫苗接種請見第 19 章。"
+    }
+   ],
+   "pdf_pages": [
+    1033,
+    1035
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Didanosine: pancreatitis. Serum amylase rising to 1.5-2x normal may require stopping the drug; also hepatotoxic.",
+   "zh": "Didanosine：胰臟炎。血清澱粉酶升到正常 1.5–2 倍可能需停藥；亦有肝毒性。",
+   "pdf_pages": [
+    1031,
+    1036
+   ]
+  },
+  {
+   "en": "Stavudine and didanosine: peripheral neuropathy; assess gait and paresthesia.",
+   "zh": "Stavudine 與 didanosine：周邊神經病變；評估步態與麻木感。",
+   "pdf_pages": [
+    1031,
+    1036
+   ]
+  },
+  {
+   "en": "Abacavir: hypersensitivity reaction (fever, rash, GI, respiratory symptoms) is the red flag.",
+   "zh": "Abacavir：過敏反應（發燒、皮疹、腸胃與呼吸症狀）為警訊。",
+   "pdf_pages": [
+    1031
+   ]
+  },
+  {
+   "en": "Zidovudine: anemia and neutropenia; monitor CBC.",
+   "zh": "Zidovudine：貧血與嗜中性球減少；監測全血球計數。",
+   "pdf_pages": [
+    1031
+   ]
+  },
+  {
+   "en": "NRTI combos: lactic acidosis with severe hepatomegaly.",
+   "zh": "NRTI 複方：乳酸中毒併嚴重肝腫大。",
+   "pdf_pages": [
+    1031
+   ]
+  },
+  {
+   "en": "Nevirapine: rash can progress to Stevens-Johnson syndrome; also hepatitis.",
+   "zh": "Nevirapine：皮疹可進展為 Stevens-Johnson 症候群；亦可能肝炎。",
+   "pdf_pages": [
+    1032
+   ]
+  },
+  {
+   "en": "Protease inhibitors: hyperglycemia, hyperlipidemia, fat redistribution; indinavir causes kidney stones (hydrate).",
+   "zh": "蛋白酶抑制劑：高血糖、高血脂、脂肪重新分佈；indinavir 造成腎結石（需充足補水）。",
+   "pdf_pages": [
+    1032
+   ]
+  },
+  {
+   "en": "HAART is not a cure; it is lifelong, combination therapy.",
+   "zh": "HAART 非治癒，是終身的合併療法。",
+   "pdf_pages": [
+    1031
+   ]
+  },
+  {
+   "en": "Cyclosporine and tacrolimus: nephrotoxicity and hypertension; a headache in a client on cyclosporine should prompt a BP check.",
+   "zh": "Cyclosporine 與 tacrolimus：腎毒性與高血壓；服用 cyclosporine 者頭痛應先量血壓。",
+   "pdf_pages": [
+    1033,
+    1036
+   ]
+  },
+  {
+   "en": "Tacrolimus: also hyperkalemia and hyperglycemia.",
+   "zh": "Tacrolimus：亦可致高血鉀與高血糖。",
+   "pdf_pages": [
+    1033
+   ]
+  },
+  {
+   "en": "Cyclophosphamide: hemorrhagic cystitis (hydrate). Methotrexate: liver, marrow, mucosa, kidney.",
+   "zh": "Cyclophosphamide：出血性膀胱炎（須補水）。Methotrexate：肝、骨髓、黏膜、腎。",
+   "pdf_pages": [
+    1033
+   ]
+  },
+  {
+   "en": "Basiliximab and antithymocyte globulin: anaphylaxis risk; monitor during infusion.",
+   "zh": "Basiliximab 與抗胸腺細胞球蛋白：有過敏性休克風險；輸注期間監測。",
+   "pdf_pages": [
+    1033
+   ]
+  },
+  {
+   "en": "Aminoglycosides: ototoxicity and nephrotoxicity. Report hearing loss, tinnitus, or decreased urine output immediately.",
+   "zh": "胺基糖苷類：耳毒性與腎毒性。聽力減退、耳鳴或尿量減少須立即通報。",
+   "pdf_pages": [
+    1034,
+    1036,
+    1037
+   ]
+  },
+  {
+   "en": "Tetracyclines: teeth staining; avoid in pregnancy and young children; photosensitivity.",
+   "zh": "四環黴素類：牙齒染色；孕婦與幼童避免；光敏感。",
+   "pdf_pages": [
+    1034
+   ]
+  },
+  {
+   "en": "Cephalosporins/clindamycin/macrolides: severe diarrhea may be pseudomembranous colitis (C. difficile) - contact precautions.",
+   "zh": "頭孢菌素/clindamycin/大環內酯類：嚴重腹瀉可能是偽膜性結腸炎（C. difficile）——接觸隔離。",
+   "pdf_pages": [
+    1034,
+    1035
+   ]
+  },
+  {
+   "en": "Ketoconazole: hepatotoxic; give with food, avoid alcohol, sun and antacids.",
+   "zh": "Ketoconazole：肝毒性；隨餐服用，避免酒精、日曬與制酸劑。",
+   "pdf_pages": [
+    1035,
+    1036
+   ]
+  },
+  {
+   "en": "Always check allergies first (especially penicillins and sulfonamides) and complete the entire antibiotic course.",
+   "zh": "務必先確認過敏史（尤其青黴素與磺胺類），並完成整個抗生素療程。",
+   "pdf_pages": [
+    1035
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Drug-name stems: -navir = protease inhibitor; -vir (acyclovir etc.) = antiviral; -gravir = integrase inhibitor; -floxacin = fluoroquinolone; -cycline = tetracycline; -mycin/-micin = aminoglycoside (macrolides end -thromycin); cef-/ceph- = cephalosporin; -azole = antifungal.",
+   "zh": "藥名字尾：-navir＝蛋白酶抑制劑；-vir＝抗病毒；-gravir＝整合酶抑制劑；-floxacin＝氟喹諾酮；-cycline＝四環黴素；-mycin/-micin＝胺基糖苷（大環內酯為 -thromycin）；cef-/ceph-＝頭孢菌素；-azole＝抗黴菌。",
+   "pdf_pages": [
+    1032,
+    1034
+   ]
+  },
+  {
+   "en": "Ototoxic/nephrotoxic pair for aminoglycosides: 'Ears and Kidneys'. Neuropathy pair: 'd4T and ddI hurt the nerves and pancreas' (stavudine, didanosine).",
+   "zh": "胺基糖苷「耳與腎」。周邊神經病變與胰臟炎：stavudine、didanosine（d4T、ddI）。",
+   "pdf_pages": [
+    1031,
+    1034
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 1032,
+   "caption": {
+    "en": "Box 64.1 lists every HIV/AIDS drug by class, including opportunistic-infection drugs. Use it to sort names into classes.",
+    "zh": "方框 64.1 依類別列出所有 HIV/AIDS 藥物，包括伺機性感染用藥；可用來歸類藥名。"
+   }
+  },
+  {
+   "pdf_page": 1033,
+   "caption": {
+    "en": "Box 64.2 lists immunosuppressant classes (calcineurin inhibitors, cytotoxic drugs, antibodies, others).",
+    "zh": "方框 64.2 列出免疫抑制劑類別（calcineurin 抑制劑、細胞毒性藥、抗體、其他）。"
+   }
+  },
+  {
+   "pdf_page": 1034,
+   "caption": {
+    "en": "Box 64.3 and Table 64.1: antimicrobial classes with their adverse effects, the core review table.",
+    "zh": "方框 64.3 與表 64.1：抗微生物藥類別與其不良反應，為本章核心整理表。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "A client with AIDS who is receiving didanosine has laboratory results returned. Which result is most concerning and may lead to stopping the drug?",
+    "zh": "正在使用 didanosine 的 AIDS 客戶檢驗結果回報，哪一項最令人擔憂而可能需停藥？"
+   },
+   "options": [
+    {
+     "en": "Serum amylase 2 times normal",
+     "zh": "血清澱粉酶為正常 2 倍"
+    },
+    {
+     "en": "Serum sodium 138 mEq/L",
+     "zh": "血清鈉 138 mEq/L"
+    },
+    {
+     "en": "Hemoglobin 13 g/dL",
+     "zh": "血紅素 13 g/dL"
+    },
+    {
+     "en": "Blood glucose 95 mg/dL",
+     "zh": "血糖 95 mg/dL"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Didanosine can cause pancreatitis; rising amylase signals it. The other values are normal.",
+    "zh": "Didanosine 可造成胰臟炎，澱粉酶上升為警訊；其他數值皆正常。"
+   },
+   "pdf_pages": [
+    1036
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which adverse effects should the nurse monitor for in a client receiving an aminoglycoside? Select all that apply.",
+    "zh": "接受胺基糖苷類的客戶，護理師應監測哪些不良反應？（複選）"
+   },
+   "options": [
+    {
+     "en": "Ototoxicity",
+     "zh": "耳毒性"
+    },
+    {
+     "en": "Nephrotoxicity",
+     "zh": "腎毒性"
+    },
+    {
+     "en": "Palpitations",
+     "zh": "心悸"
+    },
+    {
+     "en": "Tooth discoloration",
+     "zh": "牙齒變色"
+    },
+    {
+     "en": "Gynecomastia",
+     "zh": "男性女乳症"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "rationale": {
+    "en": "Aminoglycosides cause ototoxicity, renal toxicity, palpitations/BP changes, confusion and hypersensitivity. Tooth staining belongs to tetracyclines.",
+    "zh": "胺基糖苷類造成耳毒性、腎毒性、心悸/血壓變化、意識混亂與過敏。牙齒染色屬於四環黴素。"
+   },
+   "pdf_pages": [
+    1034,
+    1036
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking cyclosporine after a kidney transplant reports a headache. Which vital sign should the nurse check first?",
+    "zh": "腎移植後服用 cyclosporine 的客戶主訴頭痛，護理師應先檢查哪項生命徵象？"
+   },
+   "options": [
+    {
+     "en": "Blood pressure",
+     "zh": "血壓"
+    },
+    {
+     "en": "Respirations",
+     "zh": "呼吸"
+    },
+    {
+     "en": "Oxygen saturation",
+     "zh": "血氧飽和度"
+    },
+    {
+     "en": "Temperature",
+     "zh": "體溫"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Hypertension is a common cyclosporine effect and can present with headache.",
+    "zh": "高血壓是 cyclosporine 常見副作用，可表現為頭痛。"
+   },
+   "pdf_pages": [
+    1033,
+    1036
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse is teaching a client who will start ketoconazole for candidiasis. Which instructions are appropriate? Select all that apply.",
+    "zh": "護理師衛教即將因念珠菌感染使用 ketoconazole 的客戶，哪些指導適當？（複選）"
+   },
+   "options": [
+    {
+     "en": "Take with food",
+     "zh": "隨餐服用"
+    },
+    {
+     "en": "Avoid alcohol",
+     "zh": "避免酒精"
+    },
+    {
+     "en": "Limit fluids",
+     "zh": "限制水分"
+    },
+    {
+     "en": "Avoid sun exposure",
+     "zh": "避免日曬"
+    },
+    {
+     "en": "Take antacids with each dose",
+     "zh": "每次服藥同時服制酸劑"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Ketoconazole is hepatotoxic and photosensitizing; give with food. Antacids reduce absorption (separate by 2 hours) and fluids need not be restricted.",
+    "zh": "Ketoconazole 具肝毒性與光敏感；需隨餐。制酸劑會降低吸收（間隔 2 小時），不需限水。"
+   },
+   "pdf_pages": [
+    1035,
+    1036
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client on stavudine should be monitored most closely for which problem?",
+    "zh": "服用 stavudine 的客戶最需密切監測哪項問題？"
+   },
+   "options": [
+    {
+     "en": "Gait disturbance and paresthesias",
+     "zh": "步態異常與感覺異常"
+    },
+    {
+     "en": "Loss of appetite",
+     "zh": "食慾不振"
+    },
+    {
+     "en": "Altered level of consciousness",
+     "zh": "意識改變"
+    },
+    {
+     "en": "Constipation",
+     "zh": "便秘"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Stavudine causes peripheral neuropathy and pancreatitis.",
+    "zh": "Stavudine 造成周邊神經病變與胰臟炎。"
+   },
+   "pdf_pages": [
+    1032,
+    1037
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking amikacin should be told to contact the provider immediately for which symptom?",
+    "zh": "服用 amikacin 的客戶出現何種症狀應立即聯絡醫師？"
+   },
+   "options": [
+    {
+     "en": "Hearing loss",
+     "zh": "聽力減退"
+    },
+    {
+     "en": "Mild nausea",
+     "zh": "輕微噁心"
+    },
+    {
+     "en": "Muscle aches",
+     "zh": "肌肉痠痛"
+    },
+    {
+     "en": "Drowsiness",
+     "zh": "嗜睡"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Ototoxicity can be permanent; hearing loss or tinnitus must be reported at once.",
+    "zh": "耳毒性可能不可逆；聽力減退或耳鳴須立即通報。"
+   },
+   "pdf_pages": [
+    1037
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client taking an NNRTI begins to develop a diffuse rash with fever and mouth sores. Which drug is most likely responsible and what is the concern?",
+    "zh": "服用 NNRTI 的客戶出現廣泛皮疹、發燒與口腔潰瘍，最可能的藥物與疑慮為何？"
+   },
+   "options": [
+    {
+     "en": "Nevirapine; Stevens-Johnson syndrome",
+     "zh": "Nevirapine；Stevens-Johnson 症候群"
+    },
+    {
+     "en": "Enfuvirtide; injection reaction",
+     "zh": "Enfuvirtide；注射反應"
+    },
+    {
+     "en": "Indinavir; kidney stones",
+     "zh": "Indinavir；腎結石"
+    },
+    {
+     "en": "Zidovudine; anemia",
+     "zh": "Zidovudine；貧血"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Nevirapine is an NNRTI linked to severe rash and SJS; stop and notify the provider.",
+    "zh": "Nevirapine 為 NNRTI，與嚴重皮疹及 SJS 相關；應停藥並通知醫師。"
+   },
+   "pdf_pages": [
+    1032
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client on a cephalosporin develops profuse watery diarrhea. Which nursing actions are appropriate? Select all that apply.",
+    "zh": "使用頭孢菌素的客戶發生大量水瀉，哪些護理措施適當？（複選）"
+   },
+   "options": [
+    {
+     "en": "Initiate contact precautions",
+     "zh": "啟動接觸隔離"
+    },
+    {
+     "en": "Monitor fluid and electrolyte status",
+     "zh": "監測體液與電解質"
+    },
+    {
+     "en": "Encourage caffeinated beverages",
+     "zh": "鼓勵含咖啡因飲料"
+    },
+    {
+     "en": "Ask the provider about probiotics",
+     "zh": "詢問醫師是否使用益生菌"
+    },
+    {
+     "en": "Offer fatty, spicy foods",
+     "zh": "提供油膩辛辣食物"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "rationale": {
+    "en": "Suspect pseudomembranous colitis; isolate, replace fluids, avoid caffeine and fatty/spicy foods.",
+    "zh": "懷疑偽膜性結腸炎；隔離、補充體液，避免咖啡因與油膩辛辣食物。"
+   },
+   "pdf_pages": [
+    1035
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Immune System Drugs Practice Questions with Answers and NCLEX Review (Simple Nursing)",
+   "url": "https://simplenursing.com/immune-system-drugs-nclex-practice-questions-review/",
+   "note": {
+    "en": "Free practice questions on immune system drugs including immunosuppressant teaching.",
+    "zh": "免費的免疫系統藥物練習題，含免疫抑制劑衛教。"
+   }
+  },
+  {
+   "title": "NCLEX Pharmacology Practice Test (NurseStudy.net)",
+   "url": "https://nursestudy.net/nclex-pharmacology-practice-test-1/",
+   "note": {
+    "en": "Free timed 10-question pharmacology tests with rationales.",
+    "zh": "免費限時 10 題藥理測驗，附解析。"
+   }
+  },
+  {
+   "title": "Varsity Tutors NCLEX-RN pharmacology help",
+   "url": "https://email.varsitytutors.com/nclexrn-help/pharmacology?page=18",
+   "note": {
+    "en": "Free example NCLEX-RN pharmacology questions (e.g., antivirals).",
+    "zh": "免費 NCLEX-RN 藥理範例題（如抗病毒藥）。"
+   }
+  }
+ ]
+}

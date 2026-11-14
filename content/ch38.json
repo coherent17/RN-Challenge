@@ -1,0 +1,744 @@
+{
+ "number": 38,
+ "title": {
+  "en": "Renal and Genitourinary Problems",
+  "zh": "腎臟與泌尿生殖問題（兒科）"
+ },
+ "overview": {
+  "en": "Pediatric renal and genitourinary disorders: UTI, glomerulonephritis, nephrotic syndrome, hemolytic-uremic syndrome, vesicoureteral reflux, enuresis, and congenital genital/urinary anomalies (cryptorchidism, hypospadias/epispadias, bladder exstrophy).",
+  "zh": "兒童腎臟與泌尿生殖疾病：泌尿道感染、腎絲球腎炎、腎病症候群、溶血性尿毒症候群、膀胱輸尿管逆流、遺尿，以及先天性泌尿生殖異常（隱睪症、尿道下裂/上裂、膀胱外翻）。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Urinary tract infection",
+    "zh": "泌尿道感染"
+   },
+   "points": [
+    {
+     "en": "Bacteria from skin or gut flora invade the urinary tract.",
+     "zh": "皮膚或腸道菌叢細菌侵入泌尿道。"
+    },
+    {
+     "en": "Uncircumcised infants have higher UTI risk than circumcised infants.",
+     "zh": "未包皮環切的嬰兒UTI風險較高。"
+    },
+    {
+     "en": "Teach front-to-back wiping; asymptomatic bacteriuria can occur, so screen and treat when infection is suspected.",
+     "zh": "教導由前往後擦拭；可能有無症狀菌尿，懷疑感染時須篩檢並治療。"
+    }
+   ],
+   "pdf_pages": [
+    533
+   ]
+  },
+  {
+   "heading": {
+    "en": "Glomerulonephritis",
+    "zh": "腎絲球腎炎"
+   },
+   "points": [
+    {
+     "en": "Immune (antigen-antibody) inflammatory injury of glomeruli, typically after group A beta-hemolytic strep: pharyngitis 1-2 weeks before, or skin infection 3-6 weeks before.",
+     "zh": "腎絲球之免疫（抗原抗體）發炎損傷，多見於A群乙型溶血性鏈球菌感染後：咽炎後1-2週，或皮膚感染後3-6週。"
+    },
+    {
+     "en": "Findings: periorbital/facial edema worse in the morning, decreased urine, cola-colored urine (hematuria), hypertension, proteinuria, elevated BUN/creatinine, elevated ASO titer.",
+     "zh": "表現：晨間較明顯的眼周/臉部水腫、尿量減少、可樂色尿（血尿）、高血壓、蛋白尿、BUN/肌酸酐上升、ASO升高。"
+    },
+    {
+     "en": "Complications: kidney failure, hypertensive encephalopathy, pulmonary edema, heart failure, seizures.",
+     "zh": "併發症：腎衰竭、高血壓腦病變、肺水腫、心衰竭、癲癇。"
+    },
+    {
+     "en": "Care: VS, I&O, urine characteristics, daily weight (same time, scale, clothing), limited activity, sodium (and potassium if oliguric) restriction, diuretics, antihypertensives, antibiotics for persistent strep, seizure precautions.",
+     "zh": "照護：生命徵象、I&O、尿液性狀、每日體重（同時間、同磅秤、同衣著）、限制活動、限鈉（少尿時限鉀）、利尿劑、降壓藥、持續鏈球菌感染給抗生素、癲癇防護。"
+    },
+    {
+     "en": "Daily weight is the most useful measure of fluid balance; teach parents to treat sore throat, URI and skin infections promptly.",
+     "zh": "每日體重是評估體液平衡最有用的方法；教導家長及早處理喉嚨痛、上呼吸道與皮膚感染。"
+    }
+   ],
+   "pdf_pages": [
+    533,
+    534
+   ]
+  },
+  {
+   "heading": {
+    "en": "Nephrotic syndrome",
+    "zh": "腎病症候群"
+   },
+   "points": [
+    {
+     "en": "Classic tetrad: massive proteinuria, hypoalbuminemia, hyperlipidemia, edema.",
+     "zh": "典型四聯：大量蛋白尿、低白蛋白血症、高血脂、水腫。"
+    },
+    {
+     "en": "Findings: weight gain, periorbital edema worse in morning, leg/labial/scrotal edema, ascites, dark frothy urine, normal or low BP, lethargy, pallor.",
+     "zh": "表現：體重增加、晨間眼周水腫、腿/陰唇/陰囊水腫、腹水、深色泡沫尿、血壓正常或偏低、倦怠、蒼白。"
+    },
+    {
+     "en": "Goals: reduce urinary protein loss, reduce edema, prevent infection.",
+     "zh": "目標：減少尿蛋白流失、減輕水腫、預防感染。"
+    },
+    {
+     "en": "Treatment: corticosteroids started at diagnosis, immunosuppressants for relapse/non-response, diuretics, salt-poor albumin for severe edema; sodium restriction during massive edema.",
+     "zh": "治療：確診即開始類固醇；復發/無反應加免疫抑制劑；利尿劑；嚴重水腫用低鹽白蛋白；大量水腫時限鈉。"
+    },
+    {
+     "en": "Monitor urine specific gravity and protein; teach home urine protein testing, infection signs, avoiding infectious contacts.",
+     "zh": "監測尿比重與蛋白；教導居家尿蛋白檢測、感染徵象、避免接觸感染者。"
+    }
+   ],
+   "pdf_pages": [
+    534,
+    535
+   ]
+  },
+  {
+   "heading": {
+    "en": "Hemolytic-uremic syndrome (HUS)",
+    "zh": "溶血性尿毒症候群"
+   },
+   "points": [
+    {
+     "en": "Acute kidney injury in infants and children 6 months-5 years, linked to bacterial toxins, chemicals and viruses.",
+     "zh": "6個月至5歲嬰幼兒的急性腎損傷，與細菌毒素、化學物質、病毒有關。"
+    },
+    {
+     "en": "Triad: hemolytic anemia, thrombocytopenia, kidney failure; also CNS signs, hemorrhagic findings, oliguria/anuria.",
+     "zh": "三聯徵：溶血性貧血、血小板低下、腎衰竭；並有中樞神經症狀、出血表現、少尿/無尿。"
+    },
+    {
+     "en": "Labs: high BUN/creatinine, low Hgb/Hct, high reticulocytes, proteinuria, hematuria, casts.",
+     "zh": "檢驗：BUN/肌酸酐高、Hgb/Hct低、網狀紅血球高、蛋白尿、血尿、尿圓柱。"
+    },
+    {
+     "en": "Care: strict fluid balance, fluid restriction if anuric, dialysis if worsening, infection prevention, nutrition, blood transfusion cautiously to avoid fluid overload.",
+     "zh": "照護：嚴格體液平衡、無尿時限水、惡化時透析、預防感染、營養、謹慎輸血避免液體過量。"
+    }
+   ],
+   "pdf_pages": [
+    535
+   ]
+  },
+  {
+   "heading": {
+    "en": "Vesicoureteral reflux",
+    "zh": "膀胱輸尿管逆流"
+   },
+   "points": [
+    {
+     "en": "Urine flows backward from bladder to ureters/kidneys; primary type from faulty ureter-bladder valve, secondary from bladder outlet blockage.",
+     "zh": "尿液由膀胱逆流至輸尿管/腎臟；原發性為輸尿管膀胱瓣膜缺陷，續發性為膀胱出口阻塞。"
+    },
+    {
+     "en": "Risk: bladder exstrophy, family history, neurogenic bladder (e.g., spina bifida).",
+     "zh": "危險因子：膀胱外翻、家族史、神經性膀胱（如脊柱裂）。"
+    },
+    {
+     "en": "Diagnosis: ultrasound, voiding cystourethrogram; recurrent UTI is the common presentation.",
+     "zh": "診斷：超音波、排尿性膀胱尿道攝影；常見表現為反覆UTI。"
+    },
+    {
+     "en": "Treatment: prophylactic antibiotics, Deflux injection, or surgical repair; teach fluids, avoid juice/soda, warm towel for discomfort.",
+     "zh": "治療：預防性抗生素、Deflux注射或手術修補；教導多喝水、避免果汁與汽水、溫毛巾緩解不適。"
+    }
+   ],
+   "pdf_pages": [
+    535,
+    536
+   ]
+  },
+  {
+   "heading": {
+    "en": "Enuresis",
+    "zh": "遺尿症"
+   },
+   "points": [
+    {
+     "en": "Diagnosed in children older than 5 who wet at least twice weekly for 3 months; the child cannot control it.",
+     "zh": "5歲以上、每週至少2次且持續3個月的尿濕；孩子無法控制。"
+    },
+    {
+     "en": "Primary: never dry; nocturnal enuresis is common and usually outgrown. Secondary: wetting after established continence; check for UTI, diabetes.",
+     "zh": "原發性：從未乾爽；夜間遺尿常見，多會自行好轉。續發性：已控制後又發生；需排除UTI、糖尿病。"
+    },
+    {
+     "en": "Care: urinalysis/culture, limit fluids at night, void before bed, reward systems, conditioning (alarms), desmopressin or anticholinergics.",
+     "zh": "照護：尿液分析/培養、夜間限水、睡前排尿、獎勵制度、行為制約（警報器）、desmopressin或抗膽鹼藥。"
+    }
+   ],
+   "pdf_pages": [
+    536
+   ]
+  },
+  {
+   "heading": {
+    "en": "Cryptorchidism",
+    "zh": "隱睪症"
+   },
+   "points": [
+    {
+     "en": "One or both testes not descended into the scrotum; not palpable or easily guided down.",
+     "zh": "單側或雙側睪丸未下降至陰囊；摸不到或無法輕易推入。"
+    },
+    {
+     "en": "Observe for spontaneous descent in the first 6 months; surgical correction (orchiopexy) usually at 6-12 months.",
+     "zh": "前6個月觀察是否自然下降；睪丸固定術通常於6-12個月進行。"
+    },
+    {
+     "en": "Postop: monitor bleeding, infection, pain; teach home care and activity limits; offer counseling about fertility.",
+     "zh": "術後：監測出血、感染、疼痛；教導居家照護與活動限制；提供生育力諮詢。"
+    }
+   ],
+   "pdf_pages": [
+    536,
+    537
+   ]
+  },
+  {
+   "heading": {
+    "en": "Epispadias and hypospadias",
+    "zh": "尿道上裂與下裂"
+   },
+   "points": [
+    {
+     "en": "Epispadias: urethral opening on dorsal penis (often with bladder exstrophy). Hypospadias: opening on ventral side below glans.",
+     "zh": "尿道上裂：開口在陰莖背側（常伴膀胱外翻）。尿道下裂：開口在龜頭下腹側。"
+    },
+    {
+     "en": "Do not circumcise newborns; foreskin may be needed for repair. Surgery at 6-12 months, before toilet training.",
+     "zh": "新生兒勿行包皮環切，包皮可能用於重建。手術於6-12個月，在如廁訓練前進行。"
+    },
+    {
+     "en": "Postop: pressure dressing, stent/diversion, encourage fluids, monitor I&O, report no urine for 1 hour (kinked stent or sediment), anticholinergics for bladder spasms, antibiotics, no tub bath until stent removed.",
+     "zh": "術後：加壓敷料、導管/支架、鼓勵飲水、監測I&O、1小時無尿須通報（支架扭曲或沉積物）、抗膽鹼藥治膀胱痙攣、抗生素、支架拔除前不盆浴。"
+    }
+   ],
+   "pdf_pages": [
+    537
+   ]
+  },
+  {
+   "heading": {
+    "en": "Bladder exstrophy and STIs",
+    "zh": "膀胱外翻與性傳染病"
+   },
+   "points": [
+    {
+     "en": "Bladder protrudes through a lower abdominal wall defect; epispadias and vesicoureteral reflux are associated; closure in first days of life.",
+     "zh": "膀胱經下腹壁缺損外露；伴尿道上裂與膀胱輸尿管逆流；出生後數日內閉合。"
+    },
+    {
+     "en": "Protect exposed mucosa with sterile nonadherent covering (e.g., plastic wrap) to keep it moist; never petroleum jelly or dry gauze.",
+     "zh": "以無菌不沾黏敷料（如塑膠膜）覆蓋保持濕潤；不可用凡士林或乾紗布。"
+    },
+    {
+     "en": "Monitor urine output, infection, renal labs; give antibiotics; support parents.",
+     "zh": "監測尿量、感染、腎功能檢驗；給抗生素；支持家長。"
+    },
+    {
+     "en": "STI screening for selected children/adolescents follows CDC guidelines.",
+     "zh": "特定兒童與青少年依CDC指引進行STI篩檢。"
+    }
+   ],
+   "pdf_pages": [
+    537,
+    538
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Glomerulonephritis follows group A strep (pharyngitis 1-2 weeks; skin 3-6 weeks): cola-colored urine, periorbital edema, hypertension, high ASO.",
+   "zh": "腎絲球腎炎發生於A群鏈球菌感染後（咽炎1-2週；皮膚3-6週）：可樂色尿、眼周水腫、高血壓、ASO升高。",
+   "pdf_pages": [
+    533
+   ]
+  },
+  {
+   "en": "Daily weight (same time, scale, clothing) is the best measure of fluid balance.",
+   "zh": "每日體重（同時間、同磅秤、同衣著）是評估體液平衡最佳指標。",
+   "pdf_pages": [
+    534
+   ]
+  },
+  {
+   "en": "Glomerulonephritis complications: hypertensive encephalopathy, seizures, pulmonary edema, heart failure, kidney failure.",
+   "zh": "腎絲球腎炎併發症：高血壓腦病變、癲癇、肺水腫、心衰竭、腎衰竭。",
+   "pdf_pages": [
+    533,
+    534
+   ]
+  },
+  {
+   "en": "Nephrotic syndrome: massive proteinuria, hypoalbuminemia, hyperlipidemia, edema; BP normal or low (unlike GN).",
+   "zh": "腎病症候群：大量蛋白尿、低白蛋白、高血脂、水腫；血壓正常或偏低（不同於腎絲球腎炎）。",
+   "pdf_pages": [
+    535
+   ]
+  },
+  {
+   "en": "Nephrotic syndrome: steroids immediately at diagnosis, watch for infection; teach urine protein testing.",
+   "zh": "腎病症候群：確診即給類固醇，注意感染；教導尿蛋白檢測。",
+   "pdf_pages": [
+    535
+   ]
+  },
+  {
+   "en": "HUS triad: hemolytic anemia, thrombocytopenia, acute kidney injury; ages 6 months-5 years.",
+   "zh": "HUS三聯徵：溶血性貧血、血小板低下、急性腎損傷；好發6個月至5歲。",
+   "pdf_pages": [
+    535
+   ]
+  },
+  {
+   "en": "Anuric HUS child: restrict fluids, restrict potassium; transfuse cautiously; PD does not need an AV fistula.",
+   "zh": "無尿HUS兒童：限水、限鉀；謹慎輸血；腹膜透析不需動靜脈瘻管。",
+   "pdf_pages": [
+    535
+   ]
+  },
+  {
+   "en": "Vesicoureteral reflux presents as recurrent UTI; diagnose with voiding cystourethrogram.",
+   "zh": "膀胱輸尿管逆流表現為反覆UTI；以排尿性膀胱尿道攝影診斷。",
+   "pdf_pages": [
+    536
+   ]
+  },
+  {
+   "en": "Enuresis: evaluate for UTI/diabetes first; nocturnal enuresis is usually outgrown; desmopressin or anticholinergic may help.",
+   "zh": "遺尿：先排除UTI/糖尿病；夜間遺尿多會自行好轉；desmopressin或抗膽鹼藥可輔助。",
+   "pdf_pages": [
+    536
+   ]
+  },
+  {
+   "en": "Cryptorchidism: watch 6 months; orchiopexy at 6-12 months.",
+   "zh": "隱睪症：觀察6個月；6-12個月行睪丸固定術。",
+   "pdf_pages": [
+    536
+   ]
+  },
+  {
+   "en": "Hypospadias/epispadias: no newborn circumcision; surgery 6-12 months.",
+   "zh": "尿道下裂/上裂：新生兒不可包皮環切；6-12個月手術。",
+   "pdf_pages": [
+    537
+   ]
+  },
+  {
+   "en": "After hypospadias repair, no urine for 1 hour must be reported (stent kink/obstruction).",
+   "zh": "尿道下裂術後1小時無尿須通報（支架扭曲或阻塞）。",
+   "pdf_pages": [
+    537
+   ]
+  },
+  {
+   "en": "Bladder exstrophy: cover mucosa with nonadherent plastic wrap/sterile nonadherent dressing; no petroleum jelly.",
+   "zh": "膀胱外翻：以無菌不沾黏敷料/塑膠膜覆蓋黏膜；勿用凡士林。",
+   "pdf_pages": [
+    538
+   ]
+  }
+ ],
+ "mnemonics": [
+  {
+   "en": "Epispadias = 'Epi' on top (dorsal); Hypospadias = 'Hypo' below (ventral).",
+   "zh": "Epispadias 的 Epi＝上方（背側）；Hypospadias 的 Hypo＝下方（腹側）。",
+   "pdf_pages": [
+    537
+   ]
+  },
+  {
+   "en": "GN = 'hypertensive, hematuria, high' (volume overloaded); nephrotic = 'low' (low albumin, low-normal BP, big proteinuria).",
+   "zh": "腎絲球腎炎＝高血壓、血尿、容積過多；腎病症候群＝低白蛋白、血壓偏低/正常、大量蛋白尿。",
+   "pdf_pages": [
+    534,
+    535
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "pdf_page": 533,
+   "caption": {
+    "en": "Box 38.1: assessment findings in glomerulonephritis.",
+    "zh": "Box 38.1：腎絲球腎炎評估表現。"
+   }
+  },
+  {
+   "pdf_page": 534,
+   "caption": {
+    "en": "Fig 38.1: sequence of events in nephrotic syndrome; Clinical Judgment case showing fluid overload.",
+    "zh": "圖38.1：腎病症候群病理生理；臨床判斷案例（液體過量）。"
+   }
+  },
+  {
+   "pdf_page": 535,
+   "caption": {
+    "en": "Boxes 38.2 and 38.3: nephrotic syndrome and HUS assessment findings.",
+    "zh": "Box 38.2、38.3：腎病症候群與HUS評估表現。"
+   }
+  },
+  {
+   "pdf_page": 537,
+   "caption": {
+    "en": "Fig 38.2: epispadias (dorsal) vs hypospadias (ventral) urethral opening.",
+    "zh": "圖38.2：尿道上裂（背側）與下裂（腹側）。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "Which statement by the parent of a child with suspected acute glomerulonephritis is most consistent with the diagnosis?",
+    "zh": "疑似急性腎絲球腎炎孩童之家長，哪項說法最符合此診斷？"
+   },
+   "options": [
+    {
+     "en": "\"His urine has looked like cola for two days.\"",
+     "zh": "「他的尿液兩天來像可樂。」"
+    },
+    {
+     "en": "\"He has been urinating much more than usual.\"",
+     "zh": "「他排尿比平常多很多。」"
+    },
+    {
+     "en": "\"His blood pressure was low at the clinic.\"",
+     "zh": "「診所量到血壓偏低。」"
+    },
+    {
+     "en": "\"He had a stomach virus last week.\"",
+     "zh": "「他上週得過腸胃炎。」"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Gross hematuria (cola-colored urine) and oliguria with hypertension are classic; a strep throat or skin infection history is expected.",
+    "zh": "肉眼血尿（可樂色尿）、少尿及高血壓為典型表現；應有鏈球菌咽喉或皮膚感染史。"
+   },
+   "pdf_pages": [
+    533
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse is caring for a child with glomerulonephritis. Which finding indicates fluid volume overload? Select all that apply.",
+    "zh": "照護腎絲球腎炎孩童，哪些發現顯示體液容積過多？（複選）"
+   },
+   "options": [
+    {
+     "en": "Weight up 2.7 kg in 24 hours",
+     "zh": "24小時體重增加2.7 kg"
+    },
+    {
+     "en": "Blood pressure 140/98 mm Hg",
+     "zh": "血壓140/98 mm Hg"
+    },
+    {
+     "en": "Distended hand and neck veins",
+     "zh": "手與頸靜脈擴張"
+    },
+    {
+     "en": "Sunken fontanel",
+     "zh": "囟門凹陷"
+    },
+    {
+     "en": "Bounding pulse",
+     "zh": "洪脈"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "rationale": {
+    "en": "Rapid weight gain, hypertension, venous distention and bounding pulse reflect overload. Sunken fontanel indicates dehydration.",
+    "zh": "快速增重、高血壓、靜脈擴張與洪脈代表容積過多；囟門凹陷為脫水。"
+   },
+   "pdf_pages": [
+    534
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A 3-year-old with nephrotic syndrome has periorbital edema, frothy urine and BP 88/54. Which laboratory finding does the nurse expect?",
+    "zh": "3歲腎病症候群孩童，眼周水腫、泡沫尿、血壓88/54。預期哪項檢驗結果？"
+   },
+   "options": [
+    {
+     "en": "Low serum albumin and high lipids",
+     "zh": "血清白蛋白低、血脂高"
+    },
+    {
+     "en": "High serum albumin and low lipids",
+     "zh": "白蛋白高、血脂低"
+    },
+    {
+     "en": "Elevated ASO titer as the hallmark",
+     "zh": "ASO升高為特徵"
+    },
+    {
+     "en": "Low hemoglobin with schistocytes",
+     "zh": "血紅素低並有破碎紅血球"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Nephrotic syndrome shows massive proteinuria, hypoalbuminemia and hyperlipidemia. Schistocytes/anemia suggest HUS.",
+    "zh": "腎病症候群為大量蛋白尿、低白蛋白、高血脂；破碎紅血球與貧血見於HUS。"
+   },
+   "pdf_pages": [
+    535
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "An anuric child with hemolytic-uremic syndrome is receiving peritoneal dialysis. Which action is appropriate?",
+    "zh": "無尿的HUS孩童接受腹膜透析。何者適當？"
+   },
+   "options": [
+    {
+     "en": "Encourage high-potassium foods",
+     "zh": "鼓勵高鉀食物"
+    },
+    {
+     "en": "Restrict fluids as prescribed",
+     "zh": "依醫囑限制水分"
+    },
+    {
+     "en": "Assess the arteriovenous fistula",
+     "zh": "評估動靜脈瘻管"
+    },
+    {
+     "en": "Give a rapid transfusion for anemia",
+     "zh": "快速輸血治療貧血"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "Anuria requires fluid and potassium restriction. PD uses no AV fistula and transfusions are given cautiously to avoid overload.",
+    "zh": "無尿需限水限鉀；腹膜透析不需瘻管；輸血需謹慎以免液體過量。"
+   },
+   "pdf_pages": [
+    535
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A newborn with bladder exstrophy is admitted. Which intervention protects the exposed bladder?",
+    "zh": "膀胱外翻新生兒入院。何者可保護外露膀胱？"
+   },
+   "options": [
+    {
+     "en": "Petroleum jelly gauze",
+     "zh": "凡士林紗布"
+    },
+    {
+     "en": "Dry sterile gauze",
+     "zh": "乾無菌紗布"
+    },
+    {
+     "en": "Sterile nonadherent plastic wrap or dressing",
+     "zh": "無菌不沾黏塑膠膜或敷料"
+    },
+    {
+     "en": "Leave uncovered to air",
+     "zh": "暴露於空氣中"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "A nonadherent covering keeps mucosa moist and allows urine drainage without damage. Petroleum jelly and dry gauze adhere and injure tissue.",
+    "zh": "不沾黏覆蓋可保持黏膜濕潤並讓尿液引流；凡士林與乾紗布會黏附損傷組織。"
+   },
+   "pdf_pages": [
+    538
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "After hypospadias repair with a urinary stent, the toddler has had no urine output for 1 hour. What should the nurse do?",
+    "zh": "尿道下裂修補術後留置支架的幼兒，1小時無尿。護理師應？"
+   },
+   "options": [
+    {
+     "en": "Document and recheck in 4 hours",
+     "zh": "記錄並4小時後再評估"
+    },
+    {
+     "en": "Notify the surgeon",
+     "zh": "通知外科醫師"
+    },
+    {
+     "en": "Restrict fluids",
+     "zh": "限制水分"
+    },
+    {
+     "en": "Give a tub bath",
+     "zh": "盆浴"
+    }
+   ],
+   "answer": [
+    1
+   ],
+   "rationale": {
+    "en": "No output for an hour may mean a kinked stent or sediment obstruction; report to the surgeon. Fluids are encouraged and tub baths avoided.",
+    "zh": "1小時無尿可能為支架扭曲或沉積物阻塞，需通報外科醫師；應鼓勵飲水且避免盆浴。"
+   },
+   "pdf_pages": [
+    537
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The parents of a 7-year-old with nocturnal enuresis ask about the outlook. Which response is best?",
+    "zh": "7歲夜間遺尿孩童的家長詢問預後。何者最佳？"
+   },
+   "options": [
+    {
+     "en": "It is caused by a psychiatric problem.",
+     "zh": "那是精神問題造成的。"
+    },
+    {
+     "en": "It does not respond to treatment.",
+     "zh": "無法治療。"
+    },
+    {
+     "en": "It is usually outgrown; limiting evening fluids and voiding at bedtime help.",
+     "zh": "多半會自行好轉；晚間限水與睡前排尿有幫助。"
+    },
+    {
+     "en": "Surgery is needed.",
+     "zh": "需要手術。"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Most children outgrow nocturnal enuresis; behavioral measures, alarms or desmopressin may help after pathology is ruled out.",
+    "zh": "多數兒童會自然好轉；排除病理原因後，行為措施、警報器或desmopressin可輔助。"
+   },
+   "pdf_pages": [
+    536
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which findings would the nurse expect in a child with newly diagnosed nephrotic syndrome? Select all that apply.",
+    "zh": "新診斷腎病症候群孩童預期有哪些發現？（複選）"
+   },
+   "options": [
+    {
+     "en": "Pallor",
+     "zh": "蒼白"
+    },
+    {
+     "en": "Edema",
+     "zh": "水腫"
+    },
+    {
+     "en": "Anorexia",
+     "zh": "食慾不振"
+    },
+    {
+     "en": "Proteinuria",
+     "zh": "蛋白尿"
+    },
+    {
+     "en": "Weight loss",
+     "zh": "體重減輕"
+    },
+    {
+     "en": "Decreased serum lipids",
+     "zh": "血脂降低"
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Weight gain (not loss) from edema and elevated (not decreased) lipids occur.",
+    "zh": "水腫導致體重增加（非減輕），血脂升高（非降低）。"
+   },
+   "pdf_pages": [
+    535
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Nephrotic syndrome nursing: reference guide for students",
+   "url": "https://nursing-schools.pages.dev/nursing-tips/nephrotic-syndrome-nursing/",
+   "note": {
+    "en": "Study guide on nephrotic syndrome pathophysiology and nursing priorities.",
+    "zh": "腎病症候群病理生理與護理重點學習指南。"
+   }
+  },
+  {
+   "title": "Nephritic syndrome nursing: pathophysiology, assessment, and NCLEX review",
+   "url": "https://nursing-schools.pages.dev/nursing-tips/nephritic-syndrome-nursing/",
+   "note": {
+    "en": "Review of nephritic syndrome/glomerulonephritis with NCLEX focus.",
+    "zh": "腎炎症候群/腎絲球腎炎之NCLEX導向複習。"
+   }
+  },
+  {
+   "title": "Nursing Care of Child with Genitourinary Disorder (NextGenU)",
+   "url": "https://courses.nextgenu.org/course/section.php?id=19055",
+   "note": {
+    "en": "Free course section on pediatric genitourinary disorders.",
+    "zh": "兒童泌尿生殖疾病免費課程章節。"
+   }
+  }
+ ]
+}

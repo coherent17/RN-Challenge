@@ -1,0 +1,713 @@
+{
+ "number": 5,
+ "title": {
+  "en": "Population Health Nursing",
+  "zh": "族群健康護理"
+ },
+ "overview": {
+  "en": "This chapter reviews vulnerable and at-risk populations and how disparities, social determinants and culture shape care. It teaches a nonjudgmental, individualized assessment approach, key health risks for each group and nursing considerations such as interpreter use, teach-back, safety and referrals.",
+  "zh": "本章回顧弱勢與高風險族群，以及健康不平等、社會決定因素與文化如何影響照護。強調非批判、個別化的評估，並說明各族群主要健康風險與護理考量（如口譯、回述、安全與轉介）。"
+ },
+ "sections": [
+  {
+   "heading": {
+    "en": "Health care disparities and nursing assessment",
+    "zh": "健康照護不平等與護理評估"
+   },
+   "points": [
+    {
+     "en": "Health care disparities are differences in care offered to different groups; vulnerable groups include minorities, the uninsured, those in poverty or homeless, people with chronic illness or disability, immigrants, refugees, limited-English speakers, the incarcerated and LGBTQIA people.",
+     "zh": "健康照護不平等是不同群體獲得照護的差異；弱勢族群包括少數族群、無保險者、貧窮或無家者、慢性病或身心障礙者、移民、難民、英語能力有限者、受監禁者與 LGBTQIA。"
+    },
+    {
+     "en": "Leading U.S. chronic problems: heart disease, cancer, lung disease, stroke, Alzheimer's, diabetes, kidney disease; risk factors include tobacco, poor nutrition, obesity, inactivity and excess alcohol.",
+     "zh": "美國主要慢性病：心臟病、癌症、肺病、中風、阿茲海默症、糖尿病、腎臟病；危險因子包括吸菸、營養不良、肥胖、缺乏運動與過量飲酒。"
+    },
+    {
+     "en": "Use a nonjudgmental, nonthreatening approach; address reported symptoms first to encourage adherence and follow-up.",
+     "zh": "採非批判、非威脅的態度；先處理主訴症狀以促進遵從與回診。"
+    },
+    {
+     "en": "The needs assessment tool asks about language, interpreter need, culture, diet, living situation, support, finances, insurance, safety/abuse, substances, advance directive, immunizations and mental health.",
+     "zh": "需求評估工具詢問語言、是否需口譯、文化、飲食、居住、支持系統、經濟、保險、安全/虐待、物質使用、預立醫囑、疫苗與心理健康。"
+    },
+    {
+     "en": "Be self-aware of your own values and biases; avoid stereotyping since every client is an individual.",
+     "zh": "覺察自身價值觀與偏見；避免刻板印象，每位病人都是個體。"
+    }
+   ],
+   "pdf_pages": [
+    58,
+    59,
+    60,
+    61
+   ]
+  },
+  {
+   "heading": {
+    "en": "COVID-19 and minority groups",
+    "zh": "COVID-19 與少數族群"
+   },
+   "points": [
+    {
+     "en": "COVID-19 is a highly contagious respiratory illness (SARS-CoV) that can affect many body systems; high risk includes older adults, chronic illness, cancer, immunocompromise and minority groups.",
+     "zh": "COVID-19 為高傳染性呼吸道疾病（SARS-CoV），可影響多個系統；高風險族群含年長者、慢性病、癌症、免疫低下者與少數族群。"
+    },
+    {
+     "en": "Emergency warning signs: trouble breathing, persistent chest pain or pressure, new confusion, inability to stay awake, bluish lips or face.",
+     "zh": "緊急警訊：呼吸困難、持續胸痛或壓迫感、新發意識混亂、無法保持清醒、嘴唇或臉部發紫。"
+    },
+    {
+     "en": "Prevention: handwashing, mask and eye protection, distancing, avoiding crowds and sick contacts, covering coughs, avoiding touching the face, quarantine.",
+     "zh": "預防：洗手、口罩與護目、保持距離、避免人群與病人、遮掩咳嗽、避免觸摸臉部、自我隔離。"
+    },
+    {
+     "en": "Minority groups face higher disparities; examples: obesity/diabetes in Hispanic/Latinx; smoking, diabetes, hepatitis B, TB, SIDS in Native Hawaiian/Pacific Islander; diabetes, heart disease, accidents, suicide in Native American/Alaska Native; hypertension, heart disease, asthma in African Americans; cancer, TB, hepatitis in Asian Americans.",
+     "zh": "少數族群不平等更明顯：拉丁裔肥胖/糖尿病；夏威夷原住民與太平洋島民吸菸、糖尿病、B 肝、結核、SIDS；美洲原住民/阿拉斯加原住民糖尿病、心臟病、意外、自殺；非裔高血壓、心臟病、氣喘；亞裔癌症、結核、肝炎。"
+    },
+    {
+     "en": "Do not use family or friends as interpreters; use designated interpreters. Use cultural responsiveness and teach-back (return demonstration).",
+     "zh": "不可請家人朋友擔任口譯，應使用指定口譯員。展現文化回應能力並使用回述（回覆示教）。"
+    }
+   ],
+   "pdf_pages": [
+    61,
+    62
+   ]
+  },
+  {
+   "heading": {
+    "en": "LGBTQIA individuals",
+    "zh": "LGBTQIA 族群"
+   },
+   "points": [
+    {
+     "en": "Fear of stigma reduces access to care; transgender people are less likely to complete screenings such as mammograms, cervical and prostate screening.",
+     "zh": "害怕汙名化降低就醫；跨性別者較少完成乳房攝影、子宮頸與攝護腺等篩檢。"
+    },
+    {
+     "en": "Concerns: STIs, depression and suicide, bullying and abuse of youth, rejection by family, barriers to child-rearing.",
+     "zh": "關注議題：性傳染病、憂鬱與自殺、青少年霸凌與虐待、家人排斥、育兒障礙。"
+    },
+    {
+     "en": "Create a welcoming environment, use the client's identified name and pronouns, use inclusive forms and policies, take a careful sexual history.",
+     "zh": "營造友善環境，使用病人認同的姓名與代名詞，採用包容的表單與政策，詳細詢問性史。"
+    },
+    {
+     "en": "Consider nPEP after possible HIV exposure; monitor transgender hormone therapy (e.g., polycythemia with testosterone); keep age-appropriate screening for retained organs/breast tissue.",
+     "zh": "可能暴露於 HIV 後考慮 nPEP；追蹤跨性別荷爾蒙治療（如睪固酮造成紅血球增多症）；對保留的器官/乳房組織持續做適齡篩檢。"
+    }
+   ],
+   "pdf_pages": [
+    62,
+    63
+   ]
+  },
+  {
+   "heading": {
+    "en": "Homeless, socioeconomically disadvantaged and uninsured",
+    "zh": "無家者、社經弱勢與無保險者"
+   },
+   "points": [
+    {
+     "en": "Homelessness is linked to early death, malnutrition, STIs, TB and pneumonia, wounds, mental illness and substance abuse; children have asthma, lead poisoning and ear infections.",
+     "zh": "無家者與早逝、營養不良、性傳染病、結核與肺炎、傷口、精神疾病及物質濫用相關；兒童常有氣喘、鉛中毒與中耳炎。"
+    },
+    {
+     "en": "Address the client's stated symptom first (e.g., pain with numbness in both feet), assess wounds, establish an emergency contact and follow-up, and connect to resources.",
+     "zh": "先處理病人主訴（例：雙腳疼痛麻木），評估傷口，建立緊急聯絡人與追蹤，並連結資源。"
+    },
+    {
+     "en": "Social determinants (education, income, family and social support, community safety) are as important as lifestyle and access to care.",
+     "zh": "社會決定因素（教育、收入、家庭與社會支持、社區安全）與生活型態及就醫可近性同樣重要。"
+    },
+    {
+     "en": "Use social work and refer the uninsured to Medicaid or financial services; lack of insurance leads to missed preventive care.",
+     "zh": "運用社工，並轉介無保險者申請 Medicaid 或財務服務；缺乏保險導致預防照護缺漏。"
+    }
+   ],
+   "pdf_pages": [
+    63,
+    64
+   ]
+  },
+  {
+   "heading": {
+    "en": "Intellectual disability, abuse and neglect, single parents, foster children",
+    "zh": "智能障礙、虐待與忽略、單親與寄養兒童"
+   },
+   "points": [
+    {
+     "en": "Intellectually disabled clients may present atypically; history taking takes more time with questions asked in different ways; assess choking/aspiration risk; behavior change may signal illness.",
+     "zh": "智能障礙病人症狀可能不典型；問診需花更多時間並以不同方式提問；評估噎嗆/吸入風險；行為改變可能是疾病訊號。"
+    },
+    {
+     "en": "Abuse victims: bruises (eyes, neck), sprains/fractures, fatigue, PTSD, depression; safety is the priority; nurses are mandated reporters; photograph injuries when needed.",
+     "zh": "受虐者：瘀傷（眼周、頸部）、扭傷/骨折、疲倦、創傷後壓力症、憂鬱；安全為優先；護理師為強制通報者；必要時拍攝傷處。"
+    },
+    {
+     "en": "Single parents need a therapeutic relationship and community resources (child care, food security, immunizations); preventive screenings matter.",
+     "zh": "單親需要治療性關係與社區資源（托育、糧食、疫苗）；預防篩檢很重要。"
+    },
+    {
+     "en": "Foster children often have unmet physical, mental, behavioral and dental needs; include social workers and community resources.",
+     "zh": "寄養兒童常有未滿足的身體、心理、行為與牙科需求；需納入社工與社區資源。"
+    }
+   ],
+   "pdf_pages": [
+    64,
+    65
+   ]
+  },
+  {
+   "heading": {
+    "en": "Mental health, older adults, veterans, prisoners",
+    "zh": "精神疾病、老年人、退伍軍人、受刑人"
+   },
+   "points": [
+    {
+     "en": "Mental illness: psychotropic weight gain and metabolic syndrome, diabetes risk, STIs, xerostomia, poor access; screen regularly.",
+     "zh": "精神疾病：精神科藥物導致體重增加與代謝症候群、糖尿病風險、性傳染病、口乾、就醫困難；需定期篩檢。"
+    },
+    {
+     "en": "Older adults: neglect is the most common elder abuse; report suspected abuse; common problems include dementia, falls, depression, osteoporosis.",
+     "zh": "老年人：忽略是最常見的老人虐待；疑似虐待須通報；常見問題包括失智、跌倒、憂鬱、骨質疏鬆。"
+    },
+    {
+     "en": "Veterans: PTSD, moral injury, TBI, substance use and suicide risk, amputations, chemical exposure; treat mental health to reduce suicide risk.",
+     "zh": "退伍軍人：創傷後壓力症、道德創傷、腦外傷、物質使用與自殺風險、截肢、化學暴露；治療心理健康以降低自殺風險。"
+    },
+    {
+     "en": "Prisoners: TB, STIs and infectious disease risk, asthma, diabetes, hypertension, mental illness; facility is usually the only care provider; screening must be thorough and regular.",
+     "zh": "受刑人：結核、性傳染病與傳染病風險、氣喘、糖尿病、高血壓、精神疾病；矯正機構通常是唯一照護提供者；篩檢須完整且定期。"
+    }
+   ],
+   "pdf_pages": [
+    65,
+    66
+   ]
+  },
+  {
+   "heading": {
+    "en": "Immigrants, refugees and chronic illness",
+    "zh": "移民、難民與慢性病"
+   },
+   "points": [
+    {
+     "en": "Immigrants face language, culture, housing, employment and access barriers; infections include TB, hepatitis, STIs and vaccine-preventable diseases; services must be offered regardless of insurance; provide vaccinations.",
+     "zh": "移民面臨語言、文化、住房、就業與就醫障礙；感染包括結核、肝炎、性傳染病與疫苗可預防疾病；不論保險均應提供服務並施打疫苗。"
+    },
+    {
+     "en": "Refugees: mental health problems from war, violence and rape are a priority concern.",
+     "zh": "難民：因戰爭、暴力與性侵造成的心理健康問題是優先關注。"
+    },
+    {
+     "en": "Chronic illness is the leading cause of death and disability; modifiable factors (diet, inactivity, tobacco) vs nonmodifiable (age, genetics).",
+     "zh": "慢性病為死亡與失能首要原因；可改變因素（飲食、缺乏運動、吸菸）與不可改變因素（年齡、基因）。"
+    },
+    {
+     "en": "Manage the 'big picture', not one illness; use interprofessional collaboration, follow-up (home health) and include the client and supporters in decisions.",
+     "zh": "管理整體狀況而非單一疾病；跨專業合作、持續追蹤（居家照護），並讓病人與支持者參與決策。"
+    }
+   ],
+   "pdf_pages": [
+    66,
+    67
+   ]
+  }
+ ],
+ "critical_points": [
+  {
+   "en": "Teach-back (return explanation/demonstration) is the most reliable way to confirm understanding.",
+   "zh": "回述/回覆示教是確認理解最可靠的方式。",
+   "pdf_pages": [
+    62,
+    68
+   ]
+  },
+  {
+   "en": "Never use family or friends as interpreters; use agency-designated interpreters.",
+   "zh": "絕不使用家人或朋友當口譯，應使用機構指定口譯員。",
+   "pdf_pages": [
+    62
+   ]
+  },
+  {
+   "en": "Address transgender clients by their identified name and pronouns.",
+   "zh": "以跨性別者認同的姓名與代名詞稱呼。",
+   "pdf_pages": [
+    62,
+    68
+   ]
+  },
+  {
+   "en": "With homeless clients, address the client's reported symptom first to improve return and adherence.",
+   "zh": "對無家者先處理其主訴，以提高回診與遵從。",
+   "pdf_pages": [
+    63,
+    68
+   ]
+  },
+  {
+   "en": "Abuse red flags: bruises around eyes, red-purple marks on neck, sprained wrists, PTSD, chronic fatigue.",
+   "zh": "受虐警訊：眼周瘀傷、頸部紅紫痕、手腕扭傷、創傷後壓力、慢性疲倦。",
+   "pdf_pages": [
+    65,
+    69
+   ]
+  },
+  {
+   "en": "Nurses are mandated reporters of abuse and neglect; safety is the priority.",
+   "zh": "護理師是虐待與忽略的強制通報者；安全為優先。",
+   "pdf_pages": [
+    65
+   ]
+  },
+  {
+   "en": "Neglect is the most common type of elder abuse.",
+   "zh": "忽略是最常見的老人虐待類型。",
+   "pdf_pages": [
+    66
+   ]
+  },
+  {
+   "en": "Veterans: PTSD and suicide risk are the priority concerns.",
+   "zh": "退伍軍人：創傷後壓力症與自殺風險為優先關注。",
+   "pdf_pages": [
+    66,
+    69
+   ]
+  },
+  {
+   "en": "Refugees: mental health care is the priority need.",
+   "zh": "難民：心理健康照護為優先需求。",
+   "pdf_pages": [
+    67,
+    69
+   ]
+  },
+  {
+   "en": "Prison environments predispose to TB, STIs and other communicable diseases.",
+   "zh": "監獄環境易導致結核、性傳染病與其他傳染病。",
+   "pdf_pages": [
+    66,
+    69
+   ]
+  },
+  {
+   "en": "Intellectually disabled clients: allow extra time for history, assess for choking, and watch behavior as a symptom.",
+   "zh": "智能障礙者：病史採集多給時間、評估噎嗆、並將行為改變視為症狀。",
+   "pdf_pages": [
+    64,
+    69
+   ]
+  },
+  {
+   "en": "Chronic illness care: look at the big picture, collaborate across providers, involve client and supporters.",
+   "zh": "慢性病照護：看整體、跨專業合作、讓病人與支持者參與。",
+   "pdf_pages": [
+    67,
+    69,
+    70
+   ]
+  },
+  {
+   "en": "COVID-19 emergency signs: dyspnea, chest pain, new confusion, cyanosis.",
+   "zh": "COVID-19 緊急警訊：呼吸困難、胸痛、新發混亂、發紺。",
+   "pdf_pages": [
+    61
+   ]
+  },
+  {
+   "en": "Social determinants of health matter as much as lifestyle and access to care.",
+   "zh": "社會決定因素與生活型態及就醫可近性同樣重要。",
+   "pdf_pages": [
+    64
+   ]
+  }
+ ],
+ "mnemonics": [],
+ "figures": [
+  {
+   "pdf_page": 58,
+   "caption": {
+    "en": "Box 5.1 and 5.2: chronic health problems, risk factors and common infectious diseases.",
+    "zh": "Box 5.1、5.2：慢性病、危險因子與常見傳染病。"
+   }
+  },
+  {
+   "pdf_page": 59,
+   "caption": {
+    "en": "Box 5.3: population health needs assessment tool (general background questions).",
+    "zh": "Box 5.3：族群健康需求評估工具（一般背景問題）。"
+   }
+  },
+  {
+   "pdf_page": 60,
+   "caption": {
+    "en": "Box 5.3 continued: targeted questions for living situation, abuse, gender, veterans, incarceration, immigration.",
+    "zh": "Box 5.3 續：居住、虐待、性別、退伍軍人、監禁、移民等針對性問題。"
+   }
+  },
+  {
+   "pdf_page": 63,
+   "caption": {
+    "en": "Box 5.4 and Clinical Judgment box: homelessness and health, priority needs of a homeless client.",
+    "zh": "Box 5.4 與臨床判斷框：無家與健康、無家病人的優先需求。"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "stem": {
+    "en": "Which teaching method best confirms a client's understanding when teaching members of a specific population?",
+    "zh": "針對特定族群衛教時，哪種方法最能確認病人理解？"
+   },
+   "options": [
+    {
+     "en": "Teach-back",
+     "zh": "回述"
+    },
+    {
+     "en": "Video",
+     "zh": "影片"
+    },
+    {
+     "en": "Pamphlet",
+     "zh": "宣導手冊"
+    },
+    {
+     "en": "Lecture",
+     "zh": "口頭說明"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Return explanation and demonstration verify comprehension; other methods are supplementary.",
+    "zh": "回述與回覆示教可驗證理解；其他方法為輔助。"
+   },
+   "pdf_pages": [
+    62
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse cares for a transgender client. Which is most appropriate?",
+    "zh": "護理師照護一位跨性別病人。何者最恰當？"
+   },
+   "options": [
+    {
+     "en": "Use the pronouns the client identifies",
+     "zh": "使用病人認同的代名詞"
+    },
+    {
+     "en": "Use pronouns of birth sex",
+     "zh": "使用出生性別代名詞"
+    },
+    {
+     "en": "Avoid asking about name preference",
+     "zh": "避免詢問偏好稱呼"
+    },
+    {
+     "en": "Suggest what the client needs",
+     "zh": "主動建議病人需要什麼"
+    }
+   ],
+   "answer": [
+    0
+   ],
+   "rationale": {
+    "en": "Respect for identified name and pronouns builds rapport.",
+    "zh": "尊重認同的姓名與代名詞可建立關係。"
+   },
+   "pdf_pages": [
+    62
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "At a homeless outreach clinic, which finding does the nurse address first?",
+    "zh": "在無家者外展門診，護理師首先處理哪項發現？"
+   },
+   "options": [
+    {
+     "en": "BP 154/72 mm Hg",
+     "zh": "血壓 154/72 mm Hg"
+    },
+    {
+     "en": "Visual acuity 20/200 in both eyes",
+     "zh": "雙眼視力 20/200"
+    },
+    {
+     "en": "Random glucose 206 mg/dL",
+     "zh": "隨機血糖 206 mg/dL"
+    },
+    {
+     "en": "Pain with numbness and tingling in both feet",
+     "zh": "雙腳疼痛、麻木與刺痛"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Address the client's stated concern first to encourage return and adherence.",
+    "zh": "先處理病人主訴以促進回診與遵從。"
+   },
+   "pdf_pages": [
+    63
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A client presents with fatigue and dyspnea. Which finding warrants follow-up for possible abuse?",
+    "zh": "病人因疲倦與呼吸困難就診。哪項發現提示可能受虐需追蹤？"
+   },
+   "options": [
+    {
+     "en": "Reddened sclera",
+     "zh": "鞏膜發紅"
+    },
+    {
+     "en": "Dry flaking scalp",
+     "zh": "頭皮乾燥脫屑"
+    },
+    {
+     "en": "Reddish-purple mark on neck",
+     "zh": "頸部紅紫色痕跡"
+    },
+    {
+     "en": "Scaly rash on elbows and knees",
+     "zh": "手肘膝蓋鱗屑皮疹"
+    }
+   ],
+   "answer": [
+    2
+   ],
+   "rationale": {
+    "en": "Marks on the neck and bruising around the eyes suggest battering.",
+    "zh": "頸部痕跡與眼周瘀傷提示受虐。"
+   },
+   "pdf_pages": [
+    65
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which conditions are common in foster children? Select all that apply.",
+    "zh": "寄養兒童常見哪些情況？（複選）"
+   },
+   "options": [
+    {
+     "en": "Asthma",
+     "zh": "氣喘"
+    },
+    {
+     "en": "Claustrophobia",
+     "zh": "幽閉恐懼症"
+    },
+    {
+     "en": "Sleep problems",
+     "zh": "睡眠問題"
+    },
+    {
+     "en": "Bipolar disorder",
+     "zh": "雙相情緒障礙"
+    },
+    {
+     "en": "Aggressive behavior",
+     "zh": "攻擊行為"
+    },
+    {
+     "en": "ADHD",
+     "zh": "注意力不足過動症"
+    }
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "rationale": {
+    "en": "Mental health and behavioral issues are major concerns in foster care.",
+    "zh": "心理與行為問題為寄養照護的重點。"
+   },
+   "pdf_pages": [
+    65
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "The nurse planning care for a military veteran prioritizes which condition?",
+    "zh": "照護退伍軍人的護理師優先處理哪項？"
+   },
+   "options": [
+    {
+     "en": "Hypertension",
+     "zh": "高血壓"
+    },
+    {
+     "en": "Hyperlipidemia",
+     "zh": "高血脂"
+    },
+    {
+     "en": "Substance abuse",
+     "zh": "物質濫用"
+    },
+    {
+     "en": "Post-traumatic stress disorder",
+     "zh": "創傷後壓力症"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "PTSD with suicide risk is the safety priority.",
+    "zh": "創傷後壓力症及自殺風險是安全優先事項。"
+   },
+   "pdf_pages": [
+    66
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "A refugee's priority health need is:",
+    "zh": "難民的優先健康需求為："
+   },
+   "options": [
+    {
+     "en": "Housing",
+     "zh": "住房"
+    },
+    {
+     "en": "Clean water",
+     "zh": "潔淨水"
+    },
+    {
+     "en": "Transportation",
+     "zh": "交通"
+    },
+    {
+     "en": "Mental health services",
+     "zh": "心理健康服務"
+    }
+   ],
+   "answer": [
+    3
+   ],
+   "rationale": {
+    "en": "Trauma from war, violence and camps makes mental health a priority.",
+    "zh": "戰爭、暴力與難民營創傷使心理健康成為優先。"
+   },
+   "pdf_pages": [
+    67
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  },
+  {
+   "stem": {
+    "en": "Which action best promotes adherence for a client with multiple chronic illnesses? Select all that apply.",
+    "zh": "哪些措施最能促進多重慢性病病人的遵從？（複選）"
+   },
+   "options": [
+    {
+     "en": "Arrange follow-up such as home health",
+     "zh": "安排居家照護等追蹤"
+    },
+    {
+     "en": "Focus on one illness only",
+     "zh": "只處理一種疾病"
+    },
+    {
+     "en": "Facilitate communication among providers",
+     "zh": "促進各醫療提供者間的溝通"
+    },
+    {
+     "en": "Include the client and supporters in decisions",
+     "zh": "讓病人與支持者參與決策"
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "rationale": {
+    "en": "Big-picture, collaborative, client-centered care improves adherence.",
+    "zh": "整體、合作、以病人為中心的照護提升遵從。"
+   },
+   "pdf_pages": [
+    67
+   ],
+   "source": {
+    "type": "original",
+    "title": "Original practice question based on the chapter"
+   }
+  }
+ ],
+ "resources": [
+  {
+   "title": "Chapter Three: Social Determinants of Health and Vulnerable Populations (Community Health Nursing)",
+   "url": "https://viva.pressbooks.pub/communityhealthnursing/chapter/chapter-three-social-determinants-of-health-and-vulnerable-populations/",
+   "note": {
+    "en": "Open textbook chapter on SDOH and vulnerable groups.",
+    "zh": "SDOH 與弱勢族群的開放教科書章節。"
+   }
+  },
+  {
+   "title": "3.5 Health Disparities (WTCS Pressbooks)",
+   "url": "https://wtcs.pressbooks.pub/nursingfundamentals/chapter/3-5-health-disparities/",
+   "note": {
+    "en": "Open textbook section on health disparities.",
+    "zh": "健康不平等的開放教科書小節。"
+   }
+  },
+  {
+   "title": "Social determinants of health (SDOH): Nursing (Osmosis)",
+   "url": "https://www.osmosis.org/learn/Social_determinants_of_health_(SDOH):_Nursing",
+   "note": {
+    "en": "Video/learning module on SDOH.",
+    "zh": "SDOH 影音學習模組。"
+   }
+  },
+  {
+   "title": "NCLEX Management of Care Practice Test",
+   "url": "https://allhealthcarecareers.com/?p=47323",
+   "note": {
+    "en": "Free Management of Care questions with explanations.",
+    "zh": "附解析的照護管理免費練習題。"
+   }
+  }
+ ]
+}

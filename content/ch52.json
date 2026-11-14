@@ -1,0 +1,161 @@
+{
+  "number": 52,
+  "title": {"en": "Respiratory Medications", "zh": "呼吸系統藥物"},
+  "overview": {
+    "en": "This chapter covers inhalation devices and each respiratory drug class (bronchodilators, anticholinergics, corticosteroids, leukotriene modifiers, mast cell stabilizers, omalizumab, antihistamines, decongestants, expectorants/mucolytics, antitussives, opioid antagonists), then tuberculosis drugs and influenza/COVID-19 prevention and treatment. Focus on class action, key adverse effects, monitoring, and client teaching.",
+    "zh": "本章涵蓋吸入裝置與各類呼吸系統藥物(支氣管擴張劑、抗膽鹼藥、類固醇、白三烯調節劑、肥大細胞穩定劑、omalizumab、抗組織胺、解鼻充血劑、化痰/黏液溶解劑、鎮咳劑、鴉片類拮抗劑),以及抗結核藥物和流感/COVID-19的預防與治療。重點為藥物分類的作用、主要不良反應、監測與衛教。"
+  },
+  "sections": [
+    {"heading": {"en": "Inhalation devices and order of administration", "zh": "吸入裝置與給藥順序"},
+     "points": [
+      {"en": "MDI uses a propellant to push out drug; a spacer improves lung delivery and reduces mouth/throat deposition.", "zh": "定量噴霧吸入器(MDI)以推進劑噴出藥物;使用間隔器可增加肺部沉積並減少口咽殘留。"},
+      {"en": "DPI has no propellant but needs a strong, fast inhalation.", "zh": "乾粉吸入器(DPI)不含推進劑,但需要用力且快速吸氣。"},
+      {"en": "Nebulizer turns liquid drug into a fine mist via mask or mouthpiece using air or oxygen under pressure.", "zh": "噴霧器以加壓空氣或氧氣將藥液變成細霧,經面罩或口含嘴給藥。"},
+      {"en": "Give the bronchodilator first, corticosteroid second so airways are open for the steroid.", "zh": "先給支氣管擴張劑,再給類固醇,讓氣道先擴張使類固醇更有效。"},
+      {"en": "Wait 5 minutes between two different inhaled drugs; wait 1-2 minutes between repeat puffs of the same drug.", "zh": "兩種不同吸入藥之間間隔5分鐘;同一藥物第二劑間隔1-2分鐘。"},
+      {"en": "Technique: breathe out, activate while inhaling slowly about 5 seconds, hold breath 10-15 seconds; sip water before/after to reduce cough and bad taste.", "zh": "技巧:先吐氣,緩慢吸入並噴藥約5秒,閉氣10-15秒;吸入前後喝幾口水可減少咳嗽與口中異味。"}
+     ], "pdf_pages": [778, 779, 780]},
+    {"heading": {"en": "Bronchodilators: beta2 agonists and methylxanthines", "zh": "支氣管擴張劑:β2受體促效劑與甲基黃嘌呤"},
+     "points": [
+      {"en": "Beta2 agonists (albuterol, salmeterol, formoterol, terbutaline) relax bronchial smooth muscle; theophylline/aminophylline also stimulate CNS and cause diuresis.", "zh": "β2促效劑(albuterol、salmeterol、formoterol、terbutaline)放鬆支氣管平滑肌;theophylline/aminophylline另會刺激中樞神經並利尿。"},
+      {"en": "Adverse effects: tachycardia, palpitations, dysrhythmias, tremor, nervousness, seizures, nausea, hyperglycemia, dry mouth, paradoxical bronchospasm.", "zh": "不良反應:心搏過速、心悸、心律不整、顫抖、神經質、癲癇、噁心、高血糖、口乾、反常性支氣管痙攣。"},
+      {"en": "Caution: hypertension, diabetes, narrow-angle glaucoma, severe cardiac disease, hyperthyroidism, seizure disorder.", "zh": "需謹慎:高血壓、糖尿病、狹角性青光眼、嚴重心臟病、甲狀腺機能亢進、癲癇。"},
+      {"en": "Therapeutic theophylline level 10-20 mcg/mL (55.5-111 mcmol/L); toxic above 20; early toxicity = restlessness, tremor, palpitations, tachycardia.", "zh": "Theophylline治療濃度10-20 mcg/mL(55.5-111 mcmol/L);超過20即可能中毒;早期徵象為躁動、顫抖、心悸、心搏過速。"},
+      {"en": "Interactions: theophylline raises digoxin toxicity risk; beta blockers, cimetidine, erythromycin raise theophylline levels; barbiturates and carbamazepine lower them.", "zh": "交互作用:theophylline增加digoxin毒性風險;β阻斷劑、cimetidine、erythromycin使theophylline濃度升高;巴比妥類與carbamazepine使其降低。"},
+      {"en": "Teach: do not crush enteric-coated/sustained-release forms, avoid caffeine (coffee, tea, cola, chocolate), take with/after meals, carry rescue inhaler, stop smoking, check pulse. IV theophylline via infusion pump, slowly.", "zh": "衛教:緩釋/腸溶錠不可磨碎、避免咖啡因(咖啡、茶、可樂、巧克力)、隨餐或餐後服用、隨身攜帶急救吸入器、戒菸、監測脈搏。IV theophylline須以輸液幫浦緩慢給予。"}
+     ], "pdf_pages": [778, 779, 780]},
+    {"heading": {"en": "Anticholinergics, corticosteroids, leukotriene modifiers", "zh": "抗膽鹼藥、類固醇與白三烯調節劑"},
+     "points": [
+      {"en": "Inhaled anticholinergics (ipratropium, tiotropium, aclidinium, umeclidinium) block muscarinic receptors to prevent bronchoconstriction; used in COPD and exercise-induced bronchospasm.", "zh": "吸入型抗膽鹼藥(ipratropium、tiotropium、aclidinium、umeclidinium)阻斷蕈毒鹼受體以防支氣管收縮;用於COPD與運動誘發支氣管痙攣。"},
+      {"en": "Dry mouth and pharyngeal irritation are common (sugarless candy helps); systemic effects are rare: blurred vision, glaucoma, urinary retention, constipation, tachycardia.", "zh": "常見口乾與咽部刺激(含無糖糖果可緩解);全身性作用少見:視力模糊、青光眼、尿滯留、便秘、心搏過速。"},
+      {"en": "Some ipratropium products contain soy lecithin: avoid in peanut allergy.", "zh": "部分ipratropium產品含大豆卵磷脂,花生過敏者應避免。"},
+      {"en": "Inhaled/oral glucocorticoids reduce airway inflammation and edema (see Chapter 48).", "zh": "吸入或口服糖皮質素可減輕氣道發炎與水腫(見第48章)。"},
+      {"en": "Leukotriene modifiers (montelukast, zafirlukast, zileuton) are for chronic asthma prophylaxis, NOT acute attacks; monitor liver function; watch for depression, suicidal thinking, hallucinations.", "zh": "白三烯調節劑(montelukast、zafirlukast、zileuton)用於氣喘長期預防,不用於急性發作;需監測肝功能;注意憂鬱、自殺意念與幻覺。"},
+      {"en": "Teach: take zafirlukast 1 hour before or 2 hours after meals; effect needs 48-72 hours of regular use; do not stop even when symptom-free.", "zh": "衛教:zafirlukast餐前1小時或餐後2小時服用;需規律使用48-72小時才見效;無症狀時也不可自行停藥。"}
+     ], "pdf_pages": [779, 780]},
+    {"heading": {"en": "Mast cell stabilizer and omalizumab", "zh": "肥大細胞穩定劑與omalizumab"},
+     "points": [
+      {"en": "Cromolyn sodium stabilizes mast cells to prevent mediator release; for allergic rhinitis, asthma, exercise-induced bronchospasm (prophylaxis).", "zh": "Cromolyn sodium穩定肥大細胞、防止介質釋放;用於過敏性鼻炎、氣喘及運動誘發支氣管痙攣的預防。"},
+      {"en": "Adverse effects: cough, sneezing, nasal stinging, bronchospasm after inhalation, unpleasant taste. Do not stop abruptly (rebound asthma).", "zh": "不良反應:吸入後咳嗽、打噴嚏、鼻刺痛、支氣管痙攣、口中異味。不可突然停藥(反彈性氣喘發作)。"},
+      {"en": "Omalizumab is an anti-IgE monoclonal antibody given subcutaneously every 2-4 weeks for allergic asthma; dose based on IgE level and weight.", "zh": "Omalizumab為抗IgE單株抗體,每2-4週皮下注射,用於過敏性氣喘;劑量依血清IgE與體重調整。"},
+      {"en": "Risk of anaphylaxis: have emergency drugs available at first dose; avoid live vaccines; do not stop other asthma drugs; improvement is gradual.", "zh": "有過敏性休克風險:首次給藥需備妥急救藥物;避免活性疫苗;不可自行停其他氣喘藥;改善是漸進的。"},
+      {"en": "Other adverse effects: injection site reactions, URI, sinusitis, headache, malignancy.", "zh": "其他不良反應:注射部位反應、上呼吸道感染、鼻竇炎、頭痛、惡性腫瘤。"}
+     ], "pdf_pages": [780, 781]},
+    {"heading": {"en": "Antihistamines, decongestants, expectorants, antitussives", "zh": "抗組織胺、解鼻充血劑、化痰藥與鎮咳劑"},
+     "points": [
+      {"en": "H1 antihistamines (diphenhydramine, loratadine, cetirizine) block histamine; first-generation cause sedation, dry secretions, urinary retention, blurred vision; avoid with alcohol/CNS depressants; avoid diphenhydramine in narrow-angle glaucoma.", "zh": "H1抗組織胺(diphenhydramine、loratadine、cetirizine)阻斷組織胺;第一代易致嗜睡、分泌物變乾、尿滯留、視力模糊;避免與酒精/中樞抑制劑併用;狹角性青光眼避免diphenhydramine。"},
+      {"en": "Antihistamines: use caution in COPD (drying); give IM deep in large muscle, never subcutaneous; motion sickness dose 30 min before event.", "zh": "抗組織胺:COPD者慎用(乾燥作用);肌肉注射須打在大肌肉,不可皮下注射;暈車藥於事前30分鐘服用。"},
+      {"en": "Decongestants (pseudoephedrine, phenylephrine, oxymetazoline): cause hypertension, palpitations, insomnia, hyperglycemia; do not use longer than 48 hours (rebound congestion).", "zh": "解鼻充血劑(pseudoephedrine、phenylephrine、oxymetazoline):可致高血壓、心悸、失眠、高血糖;使用勿超過48小時(反彈性鼻塞)。"},
+      {"en": "Guaifenesin (expectorant): take with a full glass of water; fluids up to 3000 mL/day unless contraindicated.", "zh": "Guaifenesin(化痰藥):以一整杯水服用;除非禁忌,每日液體攝取可達3000 mL。"},
+      {"en": "Acetylcysteine (mucolytic): avoid in asthma (increases airway resistance); give bronchodilator 5 min before; do not mix in nebulizer; also antidote for acetaminophen overdose.", "zh": "Acetylcysteine(黏液溶解劑):氣喘者避免(增加氣道阻力);支氣管擴張劑先給,間隔5分鐘;噴霧時不與其他藥混合;亦為acetaminophen過量的解毒劑。"},
+      {"en": "Antitussives (codeine, hydrocodone, benzonatate, dextromethorphan) suppress medullary cough center for dry irritating cough; avoid in head injury/post-craniotomy and with CNS depressants; avoid cough suppression in COPD.", "zh": "鎮咳劑(codeine、hydrocodone、benzonatate、dextromethorphan)抑制延腦咳嗽中樞,用於乾咳;頭部外傷/開顱術後及併用中樞抑制劑者避免;COPD者避免抑制咳嗽。"},
+      {"en": "Call provider if cough lasts over 1 week or with fever or rash.", "zh": "咳嗽超過1週或伴隨發燒、皮疹應通知醫療人員。"}
+     ], "pdf_pages": [781, 782, 783]},
+    {"heading": {"en": "Opioid antagonists", "zh": "鴉片類拮抗劑"},
+     "points": [
+      {"en": "Naloxone reverses opioid-induced respiratory depression; do not use for non-opioid respiratory depression.", "zh": "Naloxone逆轉鴉片類引起的呼吸抑制;非鴉片類引起的呼吸抑制不使用。"},
+      {"en": "Respiratory depression can recur if the opioid outlasts naloxone, so monitor closely and re-dose as needed.", "zh": "若鴉片類作用時間比naloxone長,呼吸抑制可能復發,需密切監測並視需要再給藥。"},
+      {"en": "IV doses titrated every 2-5 minutes; keep oxygen and resuscitation equipment at bedside.", "zh": "IV劑量每2-5分鐘調整;床邊備氧氣與急救設備。"},
+      {"en": "Adverse effects: nausea, vomiting, tremor, sweating, hypertension, tachycardia (withdrawal-type effects).", "zh": "不良反應:噁心、嘔吐、顫抖、出汗、高血壓、心搏過速(類戒斷反應)。"}
+     ], "pdf_pages": [783]},
+    {"heading": {"en": "Tuberculosis therapy principles and first-line drugs", "zh": "結核病治療原則與第一線藥物"},
+     "points": [
+      {"en": "Multidrug therapy for active TB lasts 6-9 months (longer if immunosuppressed); transmission risk falls greatly after 2-3 weeks; sputum cultures usually negative by 3 months; exposed persons get isoniazid for 9-12 months.", "zh": "活動性結核採多重藥物治療6-9個月(免疫抑制者更久);治療2-3週後傳染力大幅降低;多數3個月後痰培養轉陰;暴露者以isoniazid預防9-12個月。"},
+      {"en": "Nonadherence causes multidrug-resistant TB; use DOT/VDOT; take on an empty stomach (1 hour before/2 hours after meals), no antacids, no alcohol; all first-line drugs can harm the liver.", "zh": "不遵從服藥會產生多重抗藥性結核;可採直接觀察治療(DOT/VDOT);空腹服用(餐前1小時或餐後2小時),避免抗酸劑與酒精;所有第一線藥物皆可能傷肝。"},
+      {"en": "First-line: isoniazid, rifampin, ethambutol, pyrazinamide.", "zh": "第一線藥物:isoniazid、rifampin、ethambutol、pyrazinamide。"},
+      {"en": "Isoniazid: hepatitis (anorexia, dark urine, jaundice, fatigue), peripheral neuritis; give pyridoxine (B6); raises phenytoin levels; avoid tyramine foods (aged cheese, tuna); check baseline and ongoing liver enzymes.", "zh": "Isoniazid:肝炎(厭食、尿液變深、黃疸、疲倦)、周邊神經炎;給予pyridoxine(B6);使phenytoin濃度上升;避免含酪胺食物(陳年乳酪、鮪魚);需基線與持續追蹤肝酵素。"},
+      {"en": "Rifampin: red-orange secretions (urine, sweat, tears, feces; stains soft contacts), hepatotoxicity; lowers effect of oral contraceptives, warfarin, oral hypoglycemics, digoxin, phenytoin, verapamil.", "zh": "Rifampin:體液呈橘紅色(尿、汗、淚、糞便;軟式隱形眼鏡會染色)、肝毒性;降低口服避孕藥、warfarin、口服降血糖藥、digoxin、phenytoin、verapamil的效果。"},
+      {"en": "Ethambutol: optic neuritis (decreased acuity, red-green color confusion) - report immediately; raises uric acid; contraindicated under age 13 per book; give once daily with food.", "zh": "Ethambutol:視神經炎(視力下降、紅綠色辨識困難),須立即通報;升高尿酸;依本書不適用13歲以下兒童;每日一次隨餐服用。"},
+      {"en": "Pyrazinamide: hepatotoxicity, raised uric acid (gout, joint pain), photosensitivity; can make diabetes harder to control.", "zh": "Pyrazinamide:肝毒性、尿酸升高(痛風、關節痛)、光敏感;可能使糖尿病更難控制。"}
+     ], "pdf_pages": [783, 784, 785, 786]},
+    {"heading": {"en": "Second-line TB drugs", "zh": "第二線結核藥物"},
+     "points": [
+      {"en": "Rifabutin: neutropenia, uveitis (eye pain, blurred vision), hepatitis, flu-like syndrome, red-orange secretions; use non-hormonal contraception; used for MAC in HIV.", "zh": "Rifabutin:嗜中性球低下、葡萄膜炎(眼痛、視力模糊)、肝炎、類流感症候群、橘紅色體液;應使用非荷爾蒙避孕;用於HIV患者的MAC感染。"},
+      {"en": "Rifapentine: pulmonary TB only; hepatotoxicity, red-orange secretions, interacts with warfarin and oral contraceptives; baseline LFTs.", "zh": "Rifapentine:僅用於肺結核;肝毒性、橘紅色體液,與warfarin及口服避孕藥有交互作用;需基線肝功能。"},
+      {"en": "Capreomycin (IM, MDR-TB): nephrotoxicity, ototoxicity, neuromuscular blockade; baseline audiometry; avoid with aminoglycosides/loop diuretics.", "zh": "Capreomycin(肌肉注射,用於MDR-TB):腎毒性、耳毒性、神經肌肉阻斷;需基線聽力檢查;避免與胺基糖苷類/袢利尿劑併用。"},
+      {"en": "Aminoglycosides/fluoroquinolones (streptomycin, amikacin, levofloxacin): nephro-, oto-, neurotoxicity; audiometry every 1-2 months; hydrate; monitor BUN/creatinine, peak and trough.", "zh": "胺基糖苷類/氟喹諾酮類(streptomycin、amikacin、levofloxacin):腎、耳、神經毒性;每1-2個月聽力檢查;維持水分;監測BUN/肌酐及波峰/波谷濃度。"},
+      {"en": "Ethionamide: GI upset, metallic taste, orthostatic hypotension, hepatotoxicity; give pyridoxine; watch glucose.", "zh": "Ethionamide:胃腸不適、金屬味、姿勢性低血壓、肝毒性;給予pyridoxine;注意血糖。"},
+      {"en": "Aminosalicylic acid: GI irritation, crystalluria (push fluids), blood dyscrasias; discard if purplish-brown.", "zh": "Aminosalicylic acid:胃腸刺激、結晶尿(多喝水)、血液病變;若變紫褐色須丟棄。"},
+      {"en": "Cycloserine: CNS toxicity, seizures, depression/suicidal thoughts; avoid alcohol; peak level 2 hours after dose 25-35 mcg/mL; weekly levels.", "zh": "Cycloserine:中樞神經毒性、癲癇、憂鬱/自殺意念;避免酒精;給藥後2小時峰值25-35 mcg/mL;每週監測濃度。"},
+      {"en": "Streptomycin toxicity: nephro (urine output change), neuro (numbness, twitching), vestibular (vertigo), auditory (tinnitus, permanent hearing loss).", "zh": "Streptomycin毒性:腎(尿量改變)、神經(麻木、抽動)、前庭(眩暈)、聽覺(耳鳴、永久性聽損)。"}
+     ], "pdf_pages": [786, 787, 788, 789]},
+    {"heading": {"en": "Influenza, pneumococcal and COVID-19", "zh": "流感、肺炎鏈球菌與COVID-19"},
+     "points": [
+      {"en": "Annual flu vaccine for all without contraindication; inactivated IM vaccine (deltoid) is safe in pregnancy and from 6 months; cannot cause influenza; antibodies take about 2 weeks.", "zh": "無禁忌者每年接種流感疫苗;不活化肌肉注射疫苗(三角肌)可用於孕婦及6個月以上嬰兒;不會引起流感;抗體約2週產生。"},
+      {"en": "Live nasal vaccine: only healthy ages 2-49; not for pregnancy, long-term aspirin in children, asthma, diabetes, heart/kidney/lung disease; virus shed up to 2 days.", "zh": "活性鼻噴疫苗:僅限2-49歲健康者;孕婦、長期服用aspirin的兒童、氣喘、糖尿病、心/腎/肺疾病者不可用;病毒可排出約2天。"},
+      {"en": "Inactivated vaccine contraindications: hypersensitivity, Guillain-Barre syndrome, febrile illness, under 6 months.", "zh": "不活化疫苗禁忌:過敏、格林-巴利症候群、發燒疾病、未滿6個月。"},
+      {"en": "Antivirals (oseltamivir, zanamivir, peramivir, amantadine, rimantadine): start within 2 days of symptoms, finish the course; do not replace vaccination and may not stop transmission.", "zh": "抗病毒藥(oseltamivir、zanamivir、peramivir、amantadine、rimantadine):症狀出現2天內開始並完成療程;不能取代疫苗,也不一定能阻止傳染。"},
+      {"en": "Amantadine/rimantadine: CNS effects, orthostatic hypotension; oseltamivir: insomnia, diarrhea; zanamivir: ENT infection, cough, bronchitis.", "zh": "Amantadine/rimantadine:中樞神經作用、姿勢性低血壓;oseltamivir:失眠、腹瀉;zanamivir:耳鼻喉感染、咳嗽、支氣管炎。"},
+      {"en": "COVID-19: follow vaccination and boosters; consult the current NIH treatment guidelines for up-to-date therapy.", "zh": "COVID-19:依建議接種疫苗與追加劑;治療請隨時查閱最新NIH治療指引。"}
+    ], "pdf_pages": [789, 790, 791]}
+  ],
+  "critical_points": [
+    {"en": "Bronchodilator before corticosteroid; wait 5 minutes between different inhaled drugs, 1-2 minutes between same-drug puffs.", "zh": "先支氣管擴張劑、後類固醇;不同吸入藥間隔5分鐘,同藥重複劑量間隔1-2分鐘。", "pdf_pages": [778]},
+    {"en": "Therapeutic theophylline 10-20 mcg/mL; >20 toxic (restlessness, tremor, tachycardia, palpitations); avoid caffeine.", "zh": "Theophylline治療濃度10-20 mcg/mL;>20中毒(躁動、顫抖、心搏過速、心悸);避免咖啡因。", "pdf_pages": [779, 780]},
+    {"en": "Theophylline + beta2 agonist together may cause dysrhythmias; theophylline raises digoxin toxicity risk.", "zh": "Theophylline併用β2促效劑可能導致心律不整;theophylline增加digoxin中毒風險。", "pdf_pages": [778]},
+    {"en": "Leukotriene modifiers prevent, they do not treat acute asthma; monitor liver function and mood/suicidal thoughts.", "zh": "白三烯調節劑為預防用藥,不治療急性氣喘;監測肝功能與情緒/自殺意念。", "pdf_pages": [780]},
+    {"en": "Cromolyn can cause bronchospasm; do not stop abruptly (rebound attack).", "zh": "Cromolyn可能引起支氣管痙攣;不可突然停藥(反彈性發作)。", "pdf_pages": [780]},
+    {"en": "Omalizumab: anaphylaxis risk (lip/tongue swelling, dyspnea) - have emergency meds ready at first dose; no live vaccines.", "zh": "Omalizumab:有過敏性休克風險(嘴唇/舌頭腫脹、呼吸困難),首次給藥備妥急救藥;避免活性疫苗。", "pdf_pages": [780, 781]},
+    {"en": "Decongestants max 48 hours because of rebound congestion; caution in hypertension, cardiac disease, diabetes, hyperthyroidism.", "zh": "解鼻充血劑最長使用48小時(反彈性鼻塞);高血壓、心臟病、糖尿病、甲狀腺亢進者慎用。", "pdf_pages": [782]},
+    {"en": "Acetylcysteine: avoid in asthma; also antidote for acetaminophen overdose.", "zh": "Acetylcysteine:氣喘者避免;亦為acetaminophen過量的解毒劑。", "pdf_pages": [782]},
+    {"en": "Naloxone: have resuscitation equipment ready; effect may wear off before the opioid, so respiratory depression can return.", "zh": "Naloxone:備妥急救設備;藥效可能比鴉片類先消退,呼吸抑制可能復發。", "pdf_pages": [783]},
+    {"en": "Isoniazid: hepatitis and peripheral neuritis; give pyridoxine (B6); report jaundice, dark urine, anorexia, fatigue; no alcohol; avoid tyramine foods.", "zh": "Isoniazid:肝炎與周邊神經炎;給予B6;通報黃疸、尿液變深、厭食、疲倦;禁酒;避免含酪胺食物。", "pdf_pages": [784, 785]},
+    {"en": "Rifampin turns urine, sweat, tears, feces red-orange (harmless, stains soft contacts); reduces oral contraceptive effectiveness.", "zh": "Rifampin使尿液、汗液、淚液、糞便呈橘紅色(無害,會染色軟式隱形眼鏡);降低口服避孕藥效果。", "pdf_pages": [785]},
+    {"en": "Ethambutol: report any visual change (red-green discrimination, decreased acuity) immediately - optic neuritis.", "zh": "Ethambutol:任何視覺改變(紅綠辨色困難、視力下降)須立即通報(視神經炎)。", "pdf_pages": [785, 786]},
+    {"en": "Streptomycin/aminoglycosides/capreomycin: ototoxicity, nephrotoxicity; baseline and repeated audiometry; report tinnitus, hearing loss, vertigo.", "zh": "Streptomycin/胺基糖苷類/capreomycin:耳毒性、腎毒性;基線及定期聽力檢查;通報耳鳴、聽力下降、眩暈。", "pdf_pages": [787, 788, 789]},
+    {"en": "Never skip TB doses: nonadherence creates multidrug-resistant TB; DOT improves adherence.", "zh": "結核藥物不可漏服:不遵從會產生多重抗藥性結核;DOT可提升遵從性。", "pdf_pages": [783, 784]},
+    {"en": "Influenza antivirals work best within 2 days of symptom onset and do not replace the vaccine.", "zh": "流感抗病毒藥在症狀出現2天內使用效果最佳,且不能取代疫苗。", "pdf_pages": [790, 791]},
+    {"en": "Live attenuated nasal flu vaccine is not for pregnancy or people with chronic lung/heart disease or asthma.", "zh": "活性減毒鼻噴流感疫苗不適用於孕婦或患有慢性肺/心臟病、氣喘者。", "pdf_pages": [790]}
+  ],
+  "mnemonics": [
+    {"en": "RIPE for first-line TB drugs: Rifampin, Isoniazid, Pyrazinamide, Ethambutol.", "zh": "RIPE記憶第一線結核藥:Rifampin、Isoniazid、Pyrazinamide、Ethambutol。", "pdf_pages": [783]},
+    {"en": "Ethambutol = Eyes (optic neuritis); Isoniazid = Impairs nerves and liver (B6); Rifampin = Red-orange fluids; Streptomycin = Sound (ears).", "zh": "Ethambutol=眼睛(視神經炎);Isoniazid=神經與肝(補B6);Rifampin=橘紅體液;Streptomycin=聽力(耳)。", "pdf_pages": [784, 785, 786, 789]},
+    {"en": "Theophylline toxicity: nervous, shaky, racing heart (above 20 mcg/mL).", "zh": "Theophylline中毒:緊張、顫抖、心跳加快(>20 mcg/mL)。", "pdf_pages": [780]},
+    {"en": "Bronchodilator first (open the door), steroid second (deliver inside).", "zh": "先擴張劑(先開門),再類固醇(再送進去)。", "pdf_pages": [778]}
+  ],
+  "figures": [
+    {"pdf_page": 779, "caption": {"en": "Fig. 52.1 shows MDI and spacer technique with drug deposition percentages, plus Box 52.1 listing bronchodilator, steroid, leukotriene and other drug names.", "zh": "圖52.1顯示MDI與間隔器技巧及藥物沉積比例;Box 52.1列出支氣管擴張劑、類固醇、白三烯等藥名。"}},
+    {"pdf_page": 783, "caption": {"en": "Boxes 52.5-52.7: antitussives, opioid antagonists, first- and second-line TB drug lists.", "zh": "Box 52.5-52.7:鎮咳劑、鴉片類拮抗劑、第一線與第二線結核藥物清單。"}},
+    {"pdf_page": 789, "caption": {"en": "Box 52.8: streptomycin toxicities (nephro-, neuro-, vestibular, auditory).", "zh": "Box 52.8:streptomycin的毒性(腎、神經、前庭、聽覺)。"}},
+    {"pdf_page": 790, "caption": {"en": "Table 52.1: adverse effects of influenza antivirals (amantadine, oseltamivir, rimantadine, zanamivir, peramivir).", "zh": "表52.1:流感抗病毒藥(amantadine、oseltamivir、rimantadine、zanamivir、peramivir)的不良反應。"}}
+  ],
+  "questions": [
+    {"stem": {"en": "A client is prescribed albuterol and beclomethasone metered-dose inhalers at the same time. Which action by the nurse is correct?", "zh": "個案同時被開立albuterol與beclomethasone定量噴霧吸入器。護理師何種做法正確?"},
+     "options": [{"en": "Give beclomethasone first, then albuterol immediately", "zh": "先給beclomethasone,立即再給albuterol"}, {"en": "Give albuterol first, wait about 5 minutes, then beclomethasone", "zh": "先給albuterol,等待約5分鐘後再給beclomethasone"}, {"en": "Alternate one puff of each drug", "zh": "兩種藥物各一噴交替給予"}, {"en": "Give both together through a nebulizer", "zh": "兩藥一起混合噴霧"}],
+     "answer": [1], "rationale": {"en": "The bronchodilator opens airways first, improving steroid delivery. Different inhaled drugs are separated by 5 minutes.", "zh": "支氣管擴張劑先打開氣道,使類固醇更易到達;不同吸入藥間隔5分鐘。"},
+     "pdf_pages": [778], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client taking theophylline reports restlessness, tremors and palpitations. The serum level is 24 mcg/mL. What does the nurse conclude and do first?", "zh": "服用theophylline的個案出現躁動、顫抖與心悸,血中濃度24 mcg/mL。護理師的判斷與首要處置為何?"},
+     "options": [{"en": "Level is therapeutic; reassure the client", "zh": "濃度在治療範圍,安撫個案"}, {"en": "Level is toxic; hold the dose and notify the provider", "zh": "濃度已中毒,暫停給藥並通知醫師"}, {"en": "Level is subtherapeutic; give extra dose", "zh": "濃度過低,加給劑量"}, {"en": "Give caffeine to counteract effect", "zh": "給予咖啡因對抗作用"}],
+     "answer": [1], "rationale": {"en": "Therapeutic range is 10-20 mcg/mL; above 20 is toxic and signs match early toxicity.", "zh": "治療範圍10-20 mcg/mL,超過20即中毒,症狀符合早期中毒。"},
+     "pdf_pages": [779, 780], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client on isoniazid reports dark urine, fatigue, anorexia and yellow sclera. What should the nurse do?", "zh": "服用isoniazid的個案主訴尿液變深、疲倦、厭食與鞏膜發黃。護理師應如何處理?"},
+     "options": [{"en": "Encourage continued dosing with food", "zh": "鼓勵繼續隨餐服藥"}, {"en": "Withhold the medication and notify the provider", "zh": "暫停藥物並通知醫師"}, {"en": "Reassure that this is a harmless discoloration", "zh": "告知這是無害的變色"}, {"en": "Increase vitamin B6 only", "zh": "只增加維他命B6"}],
+     "answer": [1], "rationale": {"en": "These are signs of nonviral hepatitis; hold drug, notify provider, and check liver function tests.", "zh": "這些是非病毒性肝炎徵象;應停藥、通知醫師並檢查肝功能。"},
+     "pdf_pages": [784, 785], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which statements by a client starting rifampin show understanding? Select all that apply.", "zh": "個案開始服用rifampin,下列哪些敘述顯示理解?(多選)"},
+     "options": [{"en": "My urine and tears may turn red-orange.", "zh": "我的尿液和淚液可能變橘紅色。"}, {"en": "I should use a nonhormonal birth control method.", "zh": "我應使用非荷爾蒙避孕方法。"}, {"en": "I can drink a glass of wine with dinner.", "zh": "晚餐可以喝一杯酒。"}, {"en": "My soft contact lenses may be stained.", "zh": "我的軟式隱形眼鏡可能被染色。"}, {"en": "I can stop when I feel better.", "zh": "感覺好了就可以停藥。"}],
+     "answer": [0, 1, 3], "rationale": {"en": "Rifampin causes red-orange secretions, stains soft lenses, lowers oral contraceptive effect, is hepatotoxic (no alcohol), and must be completed.", "zh": "Rifampin導致體液橘紅、染色軟式隱形眼鏡、降低口服避孕藥效果、有肝毒性(禁酒)且須完成療程。"},
+     "pdf_pages": [785], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client taking ethambutol says red and green objects look alike. What is the priority nursing action?", "zh": "服用ethambutol的個案說紅色與綠色看起來一樣。護理師的優先處置為何?"},
+     "options": [{"en": "Take the dose with food", "zh": "隨餐服藥"}, {"en": "Hold the drug and notify the provider", "zh": "停藥並通知醫師"}, {"en": "Check serum theophylline level", "zh": "檢查theophylline濃度"}, {"en": "Recheck vision next month", "zh": "下個月再檢查視力"}],
+     "answer": [1], "rationale": {"en": "Red-green color discrimination loss signals optic neuritis; withhold and notify.", "zh": "紅綠辨色困難為視神經炎徵象;應停藥並通知。"},
+     "pdf_pages": [785, 786], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client receiving the first omalizumab injection reports lip and tongue swelling and tightness in the throat. What is the priority?", "zh": "首次注射omalizumab的個案主訴嘴唇與舌頭腫脹、喉嚨緊縮。首要處置為何?"},
+     "options": [{"en": "Apply ice to the injection site", "zh": "注射部位冰敷"}, {"en": "Treat as anaphylaxis: call for help, maintain airway, give emergency drugs", "zh": "視為過敏性休克:呼救、維持呼吸道、給予急救藥物"}, {"en": "Encourage fluids", "zh": "鼓勵喝水"}, {"en": "Administer an antitussive", "zh": "給予鎮咳劑"}],
+     "answer": [1], "rationale": {"en": "Angioedema after omalizumab indicates anaphylaxis, a life-threatening airway problem.", "zh": "Omalizumab後血管性水腫代表過敏性休克,為威脅生命的呼吸道問題。"},
+     "pdf_pages": [781], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "Which clients should the nurse question before giving acetylcysteine by nebulizer? Select the one.", "zh": "給予acetylcysteine噴霧前,護理師應對哪一位個案提出疑問?"},
+     "options": [{"en": "Client with cystic fibrosis", "zh": "囊腫纖維化個案"}, {"en": "Client with active asthma", "zh": "氣喘活動期個案"}, {"en": "Client with thick secretions", "zh": "痰液黏稠個案"}, {"en": "Client with acetaminophen overdose", "zh": "acetaminophen過量個案"}],
+     "answer": [1], "rationale": {"en": "Acetylcysteine can increase airway resistance and should be avoided in asthma.", "zh": "Acetylcysteine可能增加氣道阻力,氣喘者應避免。"},
+     "pdf_pages": [782], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+    {"stem": {"en": "A client on streptomycin reports ringing in the ears and unsteadiness. Which is the most likely cause and monitoring need? Select all that apply.", "zh": "服用streptomycin的個案主訴耳鳴與步態不穩。下列哪些正確?(多選)"},
+     "options": [{"en": "Eighth cranial nerve toxicity", "zh": "第八對腦神經毒性"}, {"en": "Obtain audiometry", "zh": "進行聽力檢查"}, {"en": "Monitor BUN and creatinine", "zh": "監測BUN與肌酐"}, {"en": "Give extra dose", "zh": "加量給藥"}, {"en": "Add pyridoxine to fix hearing loss", "zh": "加B6以改善聽力"}],
+     "answer": [0, 1, 2], "rationale": {"en": "Tinnitus and vestibular signs indicate ototoxicity; check hearing and renal function and notify provider.", "zh": "耳鳴與前庭症狀代表耳毒性;應檢查聽力與腎功能並通知醫師。"},
+     "pdf_pages": [788, 789], "source": {"type": "original", "title": "Original practice question based on the chapter"}}
+  ],
+  "resources": [
+    {"title": "Respiratory Drugs Practice Questions with Answers and NCLEX Review (Simple Nursing)", "url": "https://simplenursing.com/respiratory-drugs-nclex-practice-questions-review/", "note": {"en": "Free respiratory pharmacology NCLEX review and practice questions.", "zh": "免費的呼吸系統藥理NCLEX複習與練習題。"}},
+    {"title": "Causes and Treatments of Respiratory Conditions (Varsity Tutors NCLEX)", "url": "https://students.varsitytutors.com/practice/subjects/nclexpn/help/causes-and-treatments-of-respiratory-conditions", "note": {"en": "Free practice items on bronchodilators and TB drugs (NCLEX-PN level).", "zh": "免費練習題,含支氣管擴張劑與結核藥(NCLEX-PN程度)。"}},
+    {"title": "Simple Nursing NCLEX Practice Part 3: The Respiratory System", "url": "https://simplenursing.com/nclex-practice-part-3-the-respiratory-system/", "note": {"en": "Respiratory NCLEX review covering TB and related topics.", "zh": "呼吸系統NCLEX複習,含結核病等主題。"}}
+  ]
+}

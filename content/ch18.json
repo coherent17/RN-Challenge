@@ -1,0 +1,202 @@
+{
+  "number": 18,
+  "title": {"en": "Theories of Growth and Development", "zh": "成長與發展理論"},
+  "overview": {
+    "en": "This chapter summarizes four major developmental theories tested on NCLEX: Erikson (psychosocial), Piaget (cognitive), Kohlberg (moral) and Freud (psychosexual). Match each age group to its stage, task and appropriate nursing approach, and recognize when a finding is developmentally abnormal.",
+    "zh": "本章整理 NCLEX 常考的四大發展理論：艾瑞克森（心理社會）、皮亞傑（認知）、柯爾伯格（道德）與佛洛伊德（心理性慾）。須將各年齡層對應其階段、任務與適當護理方式，並能辨識發展異常。"
+  },
+  "sections": [
+    {
+      "heading": {"en": "Erikson: Psychosocial Development", "zh": "艾瑞克森：心理社會發展"},
+      "points": [
+        {"en": "Eight stages from birth to death; each presents a crisis that must be resolved for emotional progress, though outcomes can be revised by later experience.", "zh": "從出生到死亡共八個階段；每階段有一個危機，須解決才能情緒成長，但結果可被日後經驗改變。"},
+        {"en": "Infancy (birth-18 mo): trust vs mistrust; attachment to caregiver. Respond to infant cues, hold and comfort.", "zh": "嬰兒期（出生-18個月）：信任對不信任；與主要照顧者依附。回應嬰兒的訊號、擁抱與安撫。"},
+        {"en": "Early childhood (18 mo-3 yr): autonomy vs shame and doubt; allow self-feeding, dressing and safe choices; set limits for tantrums with simple explanations.", "zh": "幼兒期（18個月-3歲）：自主對羞愧懷疑；讓孩子自行進食、穿衣與在安全下做選擇；對發脾氣設限並簡單說明。"},
+        {"en": "Late childhood (3-6 yr): initiative vs guilt; purposeful play, medical-equipment play.", "zh": "學齡前期（3-6歲）：主動對罪惡感；有目的的遊戲、使用醫療器材玩具。"},
+        {"en": "School age (6-12 yr): industry vs inferiority; learning and social skills; peers become important; continue schoolwork in hospital.", "zh": "學齡期（6-12歲）：勤奮對自卑；學習與社交技能；同儕變重要；住院時持續課業。"},
+        {"en": "Adolescence (12-20 yr): identity vs role confusion; allow choices and private interviews without parents.", "zh": "青春期（12-20歲）：自我認同對角色混淆；讓其參與決定並可在無父母在場下會談。"},
+        {"en": "Early adulthood (20-35): intimacy vs isolation. Middle adulthood (35-65): generativity vs stagnation. Later adulthood (65+): integrity vs despair; listen to reminiscence.", "zh": "成年早期（20-35歲）：親密對孤立。成年中期（35-65歲）：生產對停滯。老年期（65歲以上）：完整對絕望；傾聽其回顧人生。"}
+      ],
+      "pdf_pages": [268, 269]
+    },
+    {
+      "heading": {"en": "Piaget: Cognitive Development", "zh": "皮亞傑：認知發展"},
+      "points": [
+        {"en": "Schema is a mental framework; assimilation fits new information into existing schemas; accommodation changes the schema to fit new information.", "zh": "基模是思考架構；同化是將新資訊納入既有基模；調適是改變基模以容納新資訊。"},
+        {"en": "Sensorimotor (birth-2 yr): learns through senses and movement; object permanence develops (does not know hidden objects exist at first).", "zh": "感覺動作期（出生-2歲）：透過感覺與動作學習；發展物體恆存概念（起初不知被遮物體仍存在）。"},
+        {"en": "Preoperational (2-7 yr): prelogical, egocentric, needs concrete examples, thinks in past/present/future.", "zh": "前運思期（2-7歲）：前邏輯思考、自我中心、需要具體例子，開始有過去、現在、未來概念。"},
+        {"en": "Concrete operational (7-11 yr): classifies, orders, sorts; logical about concrete problems; less egocentric.", "zh": "具體運思期（7-11歲）：分類、排序、歸納；對具體問題有邏輯；較不自我中心。"},
+        {"en": "Formal operational (11 yr to adulthood): abstract and logical thinking like an adult.", "zh": "形式運思期（11歲至成年）：如成人般抽象與邏輯思考。"},
+        {"en": "A 6-year-old who lacks object permanence is abnormal: report to the pediatrician.", "zh": "6歲兒童缺乏物體恆存屬異常：應通報小兒科醫師。"}
+      ],
+      "pdf_pages": [269, 270, 274]
+    },
+    {
+      "heading": {"en": "Kohlberg: Moral Development", "zh": "柯爾伯格：道德發展"},
+      "points": [
+        {"en": "Moral development is sequential; stages cannot be skipped; it follows cognitive development; not everyone reaches stages 5-6.", "zh": "道德發展依序進行，不可跳階；隨認知發展而進展；並非人人達到第5-6階段。"},
+        {"en": "Preconventional: stage 1 punishment-obedience (2-4 yr), stage 2 instrumental relativist, 'what is in it for me' (4-7 yr). Motivated by punishment and reward.", "zh": "前習俗層次：第1階段懲罰與服從（2-4歲），第2階段工具相對（「我有什麼好處」）（4-7歲）。動機來自懲罰與獎賞。"},
+        {"en": "Conventional: stage 3 good boy/nice girl (7-10 yr) to please others; stage 4 law and order (10-12 yr).", "zh": "習俗層次：第3階段乖男孩／好女孩（7-10歲），為取悅他人；第4階段法律與秩序（10-12歲）。"},
+        {"en": "Postconventional (about age 13+): stage 5 social contract; stage 6 universal ethical principles; internal conscience.", "zh": "後習俗層次（約13歲後）：第5階段社會契約；第6階段普遍倫理原則；內在良知。"},
+        {"en": "Toddler discipline: simple explanations, praise good behavior, distraction; avoid physical punishment or withdrawing love.", "zh": "幼兒管教：簡單說明、稱讚良好行為、轉移注意；避免體罰或收回關愛。"}
+      ],
+      "pdf_pages": [270, 271]
+    },
+    {
+      "heading": {"en": "Freud: Levels of Awareness and Personality", "zh": "佛洛伊德：意識層次與人格結構"},
+      "points": [
+        {"en": "Unconscious: illogical, pleasure principle, repressed material. Preconscious: recallable. Conscious: logical, reality principle.", "zh": "潛意識：不合邏輯、享樂原則、壓抑的內容。前意識：可回憶。意識：合邏輯、現實原則。"},
+        {"en": "Id: drives, pleasure principle, present at birth, impulsive. Ego: reality testing and problem solving, mediates between id and world, starts about 4-5 months. Superego: conscience and ego ideal, develops in phallic stage (3-6 yr).", "zh": "本我：驅力、享樂原則、出生即有、衝動。自我：現實檢驗與解決問題、調節本我與外界，約4-5個月開始形成。超我：良知與自我理想，於性器期（3-6歲）發展。"},
+        {"en": "Defense mechanisms are mostly unconscious (except suppression) and distort reality to reduce anxiety; needed for survival but extreme use hinders adjustment.", "zh": "防衛機轉多為無意識（壓抑除外），扭曲現實以減少焦慮；為生存所必需，但過度使用妨礙適應。"}
+      ],
+      "pdf_pages": [270, 271, 272]
+    },
+    {
+      "heading": {"en": "Freud: Psychosexual Stages", "zh": "佛洛伊德：心理性慾期"},
+      "points": [
+        {"en": "Oral (birth-1 yr): gratification through mouth; trust begins; ego emerges.", "zh": "口腔期（出生-1歲）：以口腔獲得滿足；信任開始；自我萌芽。"},
+        {"en": "Anal (1-3 yr): toilet training and control of body; learning to delay gratification.", "zh": "肛門期（1-3歲）：如廁訓練與身體控制；學習延遲滿足。"},
+        {"en": "Phallic (3-6 yr): genital focus, Oedipus complex, identification with same-sex parent; superego emerges.", "zh": "性器期（3-6歲）：注意生殖器、戀母情結、認同同性父母；超我出現。"},
+        {"en": "Latency (6-12 yr): sexual urges quiet; energy goes to school, friends and skills.", "zh": "潛伏期（6-12歲）：性衝動沉寂；精力投入學業、友誼與技能。"},
+        {"en": "Genital (12+): puberty, mature sexual and emotional relationships, life goals and identity.", "zh": "兩性期／生殖期（12歲以上）：青春期、成熟的性與情感關係、人生目標與認同。"},
+        {"en": "Each stage has a conflict to resolve; early experiences shape adult personality.", "zh": "每階段有需解決的衝突；早期經驗形塑成人人格。"}
+      ],
+      "pdf_pages": [272, 273]
+    }
+  ],
+  "critical_points": [
+    {"en": "Infant: trust vs mistrust; respond promptly and consistently to the infant's signals.", "zh": "嬰兒：信任對不信任；對嬰兒訊號迅速且一致地回應。", "pdf_pages": [269, 274]},
+    {"en": "Toddler: autonomy vs shame/doubt; allow safe choices, set limits on tantrums with simple explanations.", "zh": "幼兒：自主對羞愧懷疑；給予安全選擇，對發脾氣設限並簡單說明。", "pdf_pages": [268, 269]},
+    {"en": "Preschooler: initiative vs guilt; encourage purposeful, imaginative play.", "zh": "學齡前：主動對罪惡感；鼓勵有目的與想像的遊戲。", "pdf_pages": [269]},
+    {"en": "School-age: industry vs inferiority; peer focus is normal and healthy.", "zh": "學齡兒童：勤奮對自卑；注重同儕是正常且健康的。", "pdf_pages": [269, 274]},
+    {"en": "Adolescent: identity vs role confusion; interview privately and include in decisions.", "zh": "青少年：認同對角色混淆；私下會談並納入決策。", "pdf_pages": [269]},
+    {"en": "Older adult: integrity vs despair; listen to life reminiscence.", "zh": "老年人：完整對絕望；傾聽生命回顧。", "pdf_pages": [269]},
+    {"en": "Piaget: sensorimotor 0-2, preoperational 2-7, concrete 7-11, formal 11+.", "zh": "皮亞傑：感覺動作期0-2、前運思期2-7、具體運思期7-11、形式運思期11歲以上。", "pdf_pages": [270]},
+    {"en": "A school-age child without object permanence is developmentally delayed: report to the provider.", "zh": "學齡兒童缺乏物體恆存為發展遲緩：通報醫師。", "pdf_pages": [270, 274]},
+    {"en": "Preconventional morality is driven by punishment and reward.", "zh": "前習俗道德以懲罰與獎賞為動機。", "pdf_pages": [271, 274]},
+    {"en": "Kohlberg stages are sequential and cannot be skipped; preschoolers are preconventional, school-age conventional, adolescents postconventional.", "zh": "柯爾伯格階段依序、不可跳階；學齡前為前習俗、學齡期為習俗、青少年進入後習俗。", "pdf_pages": [271, 275]},
+    {"en": "Freud: anal stage = toilet training (1-3 yr); phallic = identification with same-sex parent; latency = sexual repression; oral = mouth gratification.", "zh": "佛洛伊德：肛門期＝如廁訓練（1-3歲）；性器期＝認同同性父母；潛伏期＝性衝動壓抑；口腔期＝口腔滿足。", "pdf_pages": [272, 274]},
+    {"en": "Id = pleasure principle, ego = reality principle, superego = conscience.", "zh": "本我＝享樂原則；自我＝現實原則；超我＝良知。", "pdf_pages": [270, 271, 272]},
+    {"en": "Defense mechanisms are unconscious except suppression.", "zh": "防衛機轉為無意識，唯壓抑（suppression）為有意識。", "pdf_pages": [272]},
+    {"en": "Do not use physical punishment or withdraw love with toddlers; use explanation, praise and distraction.", "zh": "對幼兒勿用體罰或收回關愛；用說明、稱讚與轉移注意力。", "pdf_pages": [271]}
+  ],
+  "mnemonics": [
+    {"en": "Erikson in order: Trust, Autonomy, Initiative, Industry, Identity, Intimacy, Generativity, Integrity (TAI-III-GI).", "zh": "艾瑞克森順序：信任、自主、主動、勤奮、認同、親密、生產、完整。", "pdf_pages": [269]},
+    {"en": "Piaget: Sensorimotor, Preoperational, Concrete, Formal (S-P-C-F).", "zh": "皮亞傑：感覺動作、前運思、具體運思、形式運思（S-P-C-F）。", "pdf_pages": [270]},
+    {"en": "Freud: Oral, Anal, Phallic, Latency, Genital (OAPLG).", "zh": "佛洛伊德：口腔、肛門、性器、潛伏、兩性（OAPLG）。", "pdf_pages": [272]},
+    {"en": "Kohlberg: Pre-conventional (punish/reward), Conventional (please others/law), Post-conventional (principles).", "zh": "柯爾伯格：前習俗（懲罰／獎賞）、習俗（取悅他人／法律）、後習俗（原則）。", "pdf_pages": [271]}
+  ],
+  "figures": [
+    {"pdf_page": 269, "caption": {"en": "Table 18.1: Erikson's eight stages with age, crisis, task and successful/unsuccessful resolution; Box 18.1 nursing interventions by stage.", "zh": "表18.1：艾瑞克森八階段的年齡、危機、任務與成敗結果；方框18.1各階段護理措施。"}},
+    {"pdf_page": 271, "caption": {"en": "Box 18.2: Kohlberg's three levels and stages of moral development.", "zh": "方框18.2：柯爾伯格道德發展三層次與各階段。"}},
+    {"pdf_page": 272, "caption": {"en": "Box 18.4: Freud's psychosexual stages; id, ego, superego and defense mechanisms.", "zh": "方框18.4：佛洛伊德心理性慾期；本我、自我、超我與防衛機轉。"}}
+  ],
+  "questions": [
+    {
+      "stem": {"en": "According to Kohlberg, what motivates good and bad actions in a child at the preconventional level?", "zh": "依柯爾伯格理論，前習俗層次的兒童以何種因素決定行為好壞？"},
+      "options": [{"en": "Peer pressure", "zh": "同儕壓力"}, {"en": "Social pressure", "zh": "社會壓力"}, {"en": "Parents' behavior", "zh": "父母行為"}, {"en": "Punishment and reward", "zh": "懲罰與獎賞"}],
+      "answer": [3],
+      "rationale": {"en": "At the preconventional level morality is motivated by punishment and reward.", "zh": "前習俗層次的道德以懲罰與獎賞為動機。"},
+      "pdf_pages": [271, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Using Erikson's theory, what should the nurse teach new parents about their newborn?", "zh": "依艾瑞克森理論，護理師應教導新手父母如何對待新生兒？"},
+      "options": [
+        {"en": "Allow the infant to signal needs and respond consistently", "zh": "讓嬰兒表達需求並一致地回應"},
+        {"en": "Anticipate every need before the infant signals", "zh": "在嬰兒表達前預先滿足所有需求"},
+        {"en": "Ignore crying for the first 10 minutes", "zh": "前10分鐘哭泣不理會"},
+        {"en": "Feed on a strict rigid schedule only", "zh": "只依嚴格固定時間表餵食"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Responding to signals teaches the infant they can influence the world, building trust. Delayed responses lead to mistrust.", "zh": "回應訊號使嬰兒學會能影響環境，建立信任；延遲回應導致不信任。"},
+      "pdf_pages": [269, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A 6-year-old does not realize objects exist when out of sight. What does the nurse do?", "zh": "6歲兒童不知物體離開視線後仍存在。護理師應怎麼做？"},
+      "options": [
+        {"en": "Report to the pediatrician", "zh": "通報小兒科醫師"},
+        {"en": "Keep objects in the child's direct view", "zh": "將物品放在孩子視線內"},
+        {"en": "Teach visual scanning", "zh": "教導視覺掃描"},
+        {"en": "Increase lighting", "zh": "增加照明"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Lack of object permanence is expected in infancy but abnormal at 6; it needs medical follow-up.", "zh": "缺乏物體恆存在嬰兒期屬正常，6歲則異常，需醫療追蹤。"},
+      "pdf_pages": [270, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which characteristic relates to Freud's anal stage?", "zh": "哪項特徵屬於佛洛伊德的肛門期？"},
+      "options": [
+        {"en": "Toilet training", "zh": "如廁訓練"},
+        {"en": "Oral gratification", "zh": "口腔滿足"},
+        {"en": "Repression of sexuality", "zh": "性衝動壓抑"},
+        {"en": "Identification with same-sex parent", "zh": "認同同性父母"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Anal stage (1-3 yr) centers on control of elimination. Oral = mouth; latency = repression; phallic = identification.", "zh": "肛門期（1-3歲）以排泄控制為核心；口腔期為口腔、潛伏期為壓抑、性器期為認同。"},
+      "pdf_pages": [272, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which behavior is characteristic of Piaget's formal operations stage?", "zh": "哪種行為是皮亞傑形式運思期的特徵？"},
+      "options": [
+        {"en": "Thinks abstractly and solves problems like an adult", "zh": "如成人般抽象思考與解決問題"},
+        {"en": "Egocentric and concrete thinking", "zh": "自我中心與具體思考"},
+        {"en": "Understands objects that are no longer visible", "zh": "理解看不見的物體仍存在"},
+        {"en": "Classifies, orders and sorts facts", "zh": "分類、排序與歸納事實"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Formal operations (11 years onward) allow abstract, logical thought. The others describe preoperational, sensorimotor, and concrete operational stages.", "zh": "形式運思期（11歲起）可抽象邏輯思考；其他選項分別是前運思、感覺動作與具體運思期。"},
+      "pdf_pages": [270, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "A parent worries that an 8-year-old cares more about friends than anything else. Which response reflects Erikson's theory?", "zh": "家長擔心8歲孩子最在意朋友。哪個回應符合艾瑞克森理論？"},
+      "options": [
+        {"en": "You need to be concerned", "zh": "你應該擔心"},
+        {"en": "Monitor the child closely", "zh": "要嚴密監控孩子"},
+        {"en": "At this age children are developing their own personalities", "zh": "這個年紀的孩子正在發展自己的個性"},
+        {"en": "Give more praise to stop this", "zh": "多稱讚以停止這種行為"}
+      ],
+      "answer": [2],
+      "rationale": {"en": "School-age children turn toward peers and develop their own interests (industry vs inferiority); this is normal.", "zh": "學齡兒童轉向同儕並發展自己的興趣（勤奮對自卑），屬正常。"},
+      "pdf_pages": [269, 274],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which statements about Kohlberg's theory are correct? Select all that apply.", "zh": "關於柯爾伯格理論，哪些正確？（複選）"},
+      "options": [
+        {"en": "Stages are passed through sequentially", "zh": "依序經歷各階段"},
+        {"en": "Moral development parallels cognitive development", "zh": "道德發展與認知發展並行"},
+        {"en": "Stage 1 children reason like mature members of society", "zh": "第1階段兒童像成熟社會成員般推理"},
+        {"en": "In stage 2 the child follows rules to gain rewards", "zh": "第2階段兒童遵守規則以獲取獎賞"},
+        {"en": "Everyone reaches stage 6", "zh": "每個人都會達到第6階段"}
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {"en": "Not everyone reaches stages 5-6, and stage 1 children cannot reason as mature members of society.", "zh": "並非人人達到第5-6階段，且第1階段兒童無法像成熟社會成員般推理。"},
+      "pdf_pages": [270, 271, 275],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    },
+    {
+      "stem": {"en": "Which nursing action best supports an adolescent's task of identity development during hospitalization?", "zh": "住院期間，哪項護理措施最能支持青少年的認同發展？"},
+      "options": [
+        {"en": "Perform the history and examination without parents present and allow choices in care", "zh": "在家長不在場下做病史與檢查，並讓其參與照護決定"},
+        {"en": "Make all decisions for the adolescent", "zh": "替青少年做所有決定"},
+        {"en": "Restrict visits from peers", "zh": "限制同儕探訪"},
+        {"en": "Require parents to answer all questions", "zh": "要求家長回答所有問題"}
+      ],
+      "answer": [0],
+      "rationale": {"en": "Autonomy and privacy support identity vs role confusion.", "zh": "自主與隱私支持「認同對角色混淆」的任務。"},
+      "pdf_pages": [269],
+      "source": {"type": "original", "title": "Original practice question based on the chapter"}
+    }
+  ],
+  "resources": [
+    {"title": "Growth and Development NCLEX Practice Questions (50 Items) - Nurseslabs", "url": "https://nurseslabs.com/growth-and-development-nclex-questions/", "note": {"en": "Free 50-item growth and development NCLEX-style quiz with rationales.", "zh": "免費50題成長與發展 NCLEX 風格測驗，附解析。"}},
+    {"title": "NCLEX-RN Quiz: Growth And Development Milestones - Varsity Tutors", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/growth-and-development-milestones", "note": {"en": "20-question growth and development milestones quiz.", "zh": "20題成長發展里程碑測驗。"}},
+    {"title": "Developmental Theories Review - GetOnCourse", "url": "https://getoncourse.ai/notes/nclex-rn/growth-development-lifespan/developmental-theories/", "note": {"en": "Review of Erikson, Piaget and Kohlberg theories.", "zh": "艾瑞克森、皮亞傑、柯爾伯格理論複習。"}},
+    {"title": "Developmental Theories for Nursing Practice: Erikson, Piaget, Maslow & Kohlberg - GoodNurse", "url": "https://goodnurse.com/nclex-video-tutorials/developmental-theories-for-nursing-practice-erikson-piaget-maslow-kohlberg", "note": {"en": "Video tutorial on developmental theories.", "zh": "發展理論影片教學。"}}
+  ]
+}
