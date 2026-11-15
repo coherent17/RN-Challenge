@@ -100,22 +100,22 @@
     {"en": "Statins/lipid drugs: report unexplained muscle pain immediately; gemfibrozil + statin raises rhabdomyolysis risk; OTC niacin can harm the liver.", "zh": "Statin/降血脂藥:不明原因肌肉痛立即通報;gemfibrozil併用statin增加橫紋肌溶解風險;成藥菸鹼酸可能傷肝。", "pdf_pages": [853, 854, 857]}
   ],
   "mnemonics": [
-    {"en": "Antidotes: Heparin = Protamine (both start with P-); Warfarin = phytonadione (vitamin K); Thrombolytics = aminocaproic acid; Digoxin = digoxin immune Fab.", "zh": "解毒劑:Heparin=Protamine;Warfarin=phytonadione(維生素K);血栓溶解劑=aminocaproic acid;Digoxin=digoxin immune Fab。", "pdf_pages": [841, 842, 843, 845]},
+    {"en": "Antidotes: Heparin = Protamine sulfate; Warfarin = phytonadione (vitamin K); Thrombolytics = aminocaproic acid; Digoxin = digoxin immune Fab.", "zh": "解毒劑:Heparin=Protamine;Warfarin=phytonadione(維生素K);血栓溶解劑=aminocaproic acid;Digoxin=digoxin immune Fab。", "pdf_pages": [841, 842, 843, 845]},
     {"en": "Digoxin toxicity order: GI first (anorexia, N/V, diarrhea), then heart rate and vision changes; think low K, low Mg, high Ca.", "zh": "Digoxin中毒順序:先胃腸症狀(厭食、噁心嘔吐、腹瀉),再出現心率與視覺變化;記住低鉀、低鎂、高鈣。", "pdf_pages": [845]},
-    {"en": "-pril = cough (ACE inhibitors); -sartan = no cough (ARBs); -olol = beta blocker (slow heart); -dipine = CCB (edema, constipation for verapamil).", "zh": "-pril=咳嗽(ACE抑制劑);-sartan=不咳(ARB);-olol=β阻斷劑(心跳變慢);-dipine=鈣通道阻斷劑(水腫、verapamil便祕)。", "pdf_pages": [847, 849, 850]},
+    {"en": "-pril = cough (ACE inhibitors); -sartan = no cough (ARBs); -olol = beta blocker (slow heart); -dipine = dihydropyridine CCB causing edema; verapamil (a non-dihydropyridine CCB, so it is not a '-dipine') is more linked to constipation.", "zh": "-pril=咳嗽(ACE抑制劑);-sartan=不咳(ARB);-olol=β阻斷劑(心跳變慢);-dipine=雙氫吡啶類鈣通道阻斷劑,易致水腫;verapamil(屬非雙氫吡啶類鈣通道阻斷劑,藥名並非以-dipine結尾)則較易引起便祕。", "pdf_pages": [847, 849, 850]},
     {"en": "Loops lose K, Ca, Mg; thiazides lose K but keep Ca (hypercalcemia); spironolactone spares K (hyperkalemia).", "zh": "袢利尿劑流失鉀、鈣、鎂;thiazide流失鉀但留鈣(高血鈣);spironolactone保鉀(高血鉀)。", "pdf_pages": [845, 846]}
   ],
   "figures": [
-    {"pdf_page": 841, "caption": {"en": "Heparin monitoring details: aPTT targets and subcutaneous technique; Box 54.1 lists oral and parenteral anticoagulants.", "zh": "Heparin監測:aPTT目標與皮下注射技巧;Box 54.1列出口服與注射抗凝血劑。"}},
-    {"pdf_page": 842, "caption": {"en": "Warfarin PT/INR targets, enoxaparin anti-Xa range, and Box 54.2 substances to avoid with anticoagulants.", "zh": "Warfarin的PT/INR目標、enoxaparin抗Xa範圍,以及Box 54.2抗凝血劑應避免的物質。"}},
+    {"pdf_page": 841, "caption": {"en": "Heparin monitoring details: aPTT targets and subcutaneous injection technique.", "zh": "Heparin監測:aPTT目標與皮下注射技巧。"}},
+    {"pdf_page": 842, "caption": {"en": "Warfarin PT/INR targets, enoxaparin anti-Xa range, Box 54.1 listing oral and parenteral anticoagulants, and Box 54.2 substances to avoid with anticoagulants.", "zh": "Warfarin的PT/INR目標、enoxaparin抗Xa範圍、Box 54.1列出的口服與注射抗凝血劑,以及Box 54.2抗凝血劑應避免的物質。"}},
     {"pdf_page": 844, "caption": {"en": "Fig. 54.1: vicious cycle of maladaptive compensatory responses in a failing heart (why inotropes, ACE inhibitors, diuretics help); Box 54.5 inotropes.", "zh": "圖54.1:衰竭心臟代償反應的惡性循環(說明強心劑、ACE抑制劑、利尿劑的作用);Box 54.5強心劑。"}},
     {"pdf_page": 849, "caption": {"en": "Clinical Judgment box: stepwise nitroglycerin response to chest pain; Box 54.14 beta blockers by selectivity.", "zh": "臨床判斷方塊:胸痛時nitroglycerin的逐步處置;Box 54.14依選擇性分類的β阻斷劑。"}},
-    {"pdf_page": 851, "caption": {"en": "Antidysrhythmic classes I-III listed with adverse effects; Box 54.17 direct arteriolar vasodilators.", "zh": "第I-III類抗心律不整藥及其不良反應;Box 54.17直接作用小動脈血管擴張劑。"}}
+    {"pdf_page": 851, "caption": {"en": "Antidysrhythmic classes I-II listed with adverse effects (class III begins on the next page); Box 54.17 direct arteriolar vasodilators.", "zh": "第I-II類抗心律不整藥及其不良反應(第III類始於次頁);Box 54.17直接作用小動脈血管擴張劑。"}}
   ],
   "questions": [
     {"stem": {"en": "A client with atrial fibrillation is on a continuous heparin infusion; the laboratory control aPTT is 35 seconds. Which result shows a therapeutic effect?", "zh": "心房顫動個案持續滴注heparin,實驗室對照aPTT為35秒。哪個結果代表達到治療效果?"},
      "options": [{"en": "aPTT 30 seconds", "zh": "aPTT 30秒"}, {"en": "aPTT 65 seconds", "zh": "aPTT 65秒"}, {"en": "aPTT 130 seconds", "zh": "aPTT 130秒"}, {"en": "PT 12 seconds", "zh": "PT 12秒"}],
-     "answer": [1], "rationale": {"en": "Therapeutic aPTT is 1.5-2.5 times normal, roughly 55-90 seconds here. PT monitors warfarin.", "zh": "治療性aPTT為正常的1.5-2.5倍,此例約55-90秒。PT用於監測warfarin。"},
+     "answer": [1], "rationale": {"en": "Therapeutic aPTT is 1.5-2.5 times the control value; with a 35-second control, that range is about 53-88 seconds. PT monitors warfarin, not heparin.", "zh": "治療性aPTT應為對照值的1.5-2.5倍;對照值35秒時,範圍約為53-88秒。PT是用於監測warfarin,而非heparin。"},
      "pdf_pages": [841, 856], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
     {"stem": {"en": "A client taking warfarin has an INR of 5.2 and gum bleeding. Which medication does the nurse anticipate?", "zh": "服用warfarin的個案INR為5.2且牙齦出血。護理師預期給予何種藥物?"},
      "options": [{"en": "Protamine sulfate", "zh": "Protamine sulfate"}, {"en": "Phytonadione (vitamin K)", "zh": "Phytonadione(維生素K)"}, {"en": "Aminocaproic acid", "zh": "Aminocaproic acid"}, {"en": "Digoxin immune Fab", "zh": "Digoxin immune Fab"}],
@@ -124,7 +124,7 @@
     {"stem": {"en": "A client taking digoxin and furosemide has K+ 3.0 mEq/L, anorexia and nausea. Which digoxin level would be outside the therapeutic range?", "zh": "服用digoxin與furosemide的個案鉀3.0 mEq/L,有厭食與噁心。哪個digoxin濃度超出治療範圍?"},
      "options": [{"en": "0.6 ng/mL", "zh": "0.6 ng/mL"}, {"en": "1.0 ng/mL", "zh": "1.0 ng/mL"}, {"en": "1.8 ng/mL", "zh": "1.8 ng/mL"}, {"en": "2.4 ng/mL", "zh": "2.4 ng/mL"}],
      "answer": [3], "rationale": {"en": "Therapeutic range is 0.5-2.0 ng/mL. Hypokalemia raises toxicity risk.", "zh": "治療範圍0.5-2.0 ng/mL;低血鉀增加中毒風險。"},
-     "pdf_pages": [844, 856], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
+     "pdf_pages": [845, 856], "source": {"type": "original", "title": "Original practice question based on the chapter"}},
     {"stem": {"en": "Which findings indicate digoxin toxicity? Select all that apply.", "zh": "下列哪些是digoxin中毒的徵象?(多選)"},
      "options": [{"en": "Nausea and vomiting", "zh": "噁心嘔吐"}, {"en": "Yellow-green vision", "zh": "黃綠視"}, {"en": "Apical pulse 48/min", "zh": "心尖脈48次/分"}, {"en": "Tinnitus", "zh": "耳鳴"}, {"en": "Dry cough", "zh": "乾咳"}],
      "answer": [0, 1, 2], "rationale": {"en": "GI symptoms, visual disturbances and bradycardia are classic. Cough and tinnitus are not.", "zh": "胃腸症狀、視覺異常與心搏過緩為典型表現;咳嗽與耳鳴不是。"},

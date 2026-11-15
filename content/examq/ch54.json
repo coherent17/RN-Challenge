@@ -167,8 +167,8 @@
       {"en": "Administer protamine sulfate.", "zh": "給予硫酸魚精蛋白（protamine sulfate）。"},
       {"en": "Raise the head of the bed.", "zh": "抬高床頭。"}
     ],
-    "answer": [0, 2, 3, 5],
-    "rationale": {"en": "These findings suggest an acute hypersensitivity (anaphylactoid) reaction to the thrombolytic agent. The nurse should stop the infusion immediately, call for the Rapid Response Team, administer an antihistamine such as diphenhydramine as prescribed, and raise the head of the bed to ease breathing. Continuing the infusion would worsen the reaction, and protamine sulfate is the antidote for heparin, not alteplase; aminocaproic acid is the antidote for thrombolytics.", "zh": "這些發現提示對溶血栓藥物產生急性過敏（類過敏）反應。護理師應立即停止輸注、呼叫快速反應小組、依醫囑給予抗組織胺（如diphenhydramine），並抬高床頭以利呼吸。繼續輸注會使反應惡化；硫酸魚精蛋白是肝素的解毒劑而非alteplase的解毒劑，溶血栓藥物的解毒劑為胺基己酸。"},
+    "answer": [0, 2, 3],
+    "rationale": {"en": "These findings suggest an acute hypersensitivity (anaphylactoid) reaction to the thrombolytic agent. The nurse should stop the infusion immediately, call for the Rapid Response Team, and administer an antihistamine such as diphenhydramine as prescribed. Continuing the infusion would worsen the reaction. Raising the head of the bed is not appropriate here because the client is already hypotensive, and that position can worsen hypotension. Protamine sulfate is the antidote for heparin, not alteplase; aminocaproic acid is the antidote for thrombolytics.", "zh": "這些發現提示對溶血栓藥物產生急性過敏（類過敏）反應。護理師應立即停止輸注、呼叫快速反應小組，並依醫囑給予抗組織胺（如diphenhydramine）。繼續輸注會使反應惡化。此時病人已出現低血壓，抬高床頭並非適當處置，因為此姿勢可能使低血壓更加惡化。硫酸魚精蛋白是肝素的解毒劑而非alteplase的解毒劑，溶血栓藥物的解毒劑為胺基己酸。"},
     "pdf_pages": [843],
     "tags": ["sata", "red flag", "requires immediate action"]
   },

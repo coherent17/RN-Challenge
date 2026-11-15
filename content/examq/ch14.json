@@ -236,7 +236,7 @@
       "en": "Per agency policy, small and critical or pediatric doses are rounded down (not up) to the nearest hundredth to avoid administering an excess amount; 0.638 mL rounds down to 0.63 mL.",
       "zh": "依機構政策，小量且重要的（含兒童）劑量應向下取整至百分之一毫升，而非向上取整，以避免給藥過量；0.638 mL向下取整為0.63 mL。"
     },
-    "pdf_pages": [208],
+    "pdf_pages": [209],
     "tags": ["dosage calc", "rounding", "pediatric safety"]
   },
   {
