@@ -36,7 +36,7 @@
      "zh": "危險因子：化學物質、物理因素（輻射、紫外線）、病毒（EBV、HBV、HPV）、幽門螺旋桿菌、菸草、肥胖、飲食、遺傳、年齡、免疫抑制。"
     },
     {
-     "en": "Early detection: mammography, Pap test, stool occult blood, colonoscopy, breast and testicular self-exam, skin checks, and the seven CAUTION warning signs.",
+     "en": "Early detection: mammography, Pap test, stool occult blood, colonoscopy, breast and testicular self-exam, skin checks, and the nine CAUTION-US warning signs.",
      "zh": "早期偵測：乳房攝影、子宮頸抹片、糞便潛血、大腸鏡、乳房與睪丸自我檢查、皮膚檢查及CAUTION警訊。"
     },
     {
@@ -142,7 +142,7 @@
    "points": [
     {
      "en": "Leukemia is abnormal, immature leukocyte overproduction in marrow; ALL (children under 15), AML (15-39), CML (fourth decade), CLL (over 50).",
-     "zh": "白血病為骨髓中不成熟白血球異常增生；ALL（15歲以下）、AML（15-39歲）、CML（40多歲）、CLL（50歲以上）。"
+     "zh": "白血病為骨髓中不成熟白血球異常增生；ALL（15歲以下）、AML（15-39歲）、CML（30多歲，人生第四個十年）、CLL（50歲以上）。"
     },
     {
      "en": "Findings: anemia (pallor, fatigue, tachycardia), thrombocytopenia (petechiae, bleeding), fever, enlarged nodes/spleen/liver, bone pain; bone marrow biopsy shows blasts.",
