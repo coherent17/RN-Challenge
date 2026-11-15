@@ -1,0 +1,204 @@
+[
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse is receiving hand-off report on four assigned clients. Based on the data provided, which client should the nurse assess first?",
+      "zh": "護理師正在接受四位病人的交班報告。根據所提供的資料，護理師應優先評估哪位病人？"
+    },
+    "options": [
+      {"en": "A client admitted for same-day surgery who ambulated once this shift and is requesting a warm blanket", "zh": "一位日間手術住院病人，本班已下床走動一次，現要求多一條保暖毛毯"},
+      {"en": "A client 3 days postoperative from a bowel resection whose last bowel movement was yesterday", "zh": "一位腸切除術後第 3 天的病人，昨天有排便"},
+      {"en": "A client admitted 2 hours ago for a transient ischemic attack who now reports new slurred speech and left-sided facial drooping", "zh": "一位 2 小時前因暫時性腦缺血發作入院的病人，現出現新發生的構音不清與左側臉部下垂"},
+      {"en": "A client receiving intravenous antibiotics who is due for the next dose in 20 minutes", "zh": "一位正在接受靜脈抗生素治療的病人，下一劑將在 20 分鐘後給予"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "This item addresses prioritizing care among several clients, a Management of Care activity. Note the strategic word, first, and use the skill of recognizing cues: new slurred speech and facial drooping in a client with a recent transient ischemic attack are warning signs of an evolving stroke and require immediate assessment and notification of the primary health care provider, because rapid intervention affects the outcome. The needs of the other clients are important but are not immediately life-threatening and can be addressed after the client with new neurological changes has been assessed and stabilized.",
+      "zh": "此題考核在多位病人間排定照護優先順序，屬於「照護管理」的活動。請注意關鍵字「首先」，並運用辨識線索的技能：曾有暫時性腦缺血發作病史的病人新出現構音不清與臉部下垂，是中風惡化的警示徵象，需立即評估並通知主治醫療人員，因為及時介入會影響預後。其他病人的需求雖重要，但並非立即威脅生命，可在評估並穩定該神經學變化的病人之後再處理。"
+    },
+    "pdf_pages": [23],
+    "tags": ["priority", "first action", "neurological emergency"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse prepares to assist with a bronchoscopy on a client with suspected active pulmonary tuberculosis. Which personal protective equipment would the nurse plan to use?",
+      "zh": "護理師準備協助為疑似活動性肺結核病人進行支氣管鏡檢查。護理師應計劃使用哪種個人防護裝備？"
+    },
+    "options": [
+      {"en": "Gloves and a surgical mask", "zh": "手套與外科口罩"},
+      {"en": "Gloves and a fitted N95 respirator", "zh": "手套與密合度測試合格的 N95 呼吸防護具"},
+      {"en": "Gloves, a gown, and shoe covers", "zh": "手套、隔離衣與鞋套"},
+      {"en": "A face shield and gloves only", "zh": "僅使用面罩與手套"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the Safety and Infection Control subcategory. Tuberculosis is spread by the airborne route, and a bronchoscopy is an aerosol-generating procedure that increases the risk of exposure to infectious droplet nuclei. Airborne precautions require a fitted N95 (or higher-level) respirator in addition to gloves. A surgical mask, shoe covers, and a face shield alone do not provide adequate protection against airborne transmission.",
+      "zh": "此題考核「安全與感染控制」次類別。結核病經由空氣傳播，而支氣管鏡檢查會產生氣霧，增加暴露於具感染性飛沫核的風險。空氣傳播防護除手套外，還須使用經密合度測試的 N95（或更高等級）呼吸防護具。僅使用外科口罩、鞋套或面罩都無法提供足夠的空氣傳播防護。"
+    },
+    "pdf_pages": [24],
+    "tags": ["PPE", "airborne precautions", "safety"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is selecting an age-appropriate toy for a 9-month-old infant during a well-child visit. Which toy would the nurse recommend to the parent?",
+      "zh": "護理師在健兒門診中為一名 9 個月大的嬰兒挑選合乎年齡發展的玩具。護理師應向家長建議哪一種玩具？"
+    },
+    "options": [
+      {"en": "A set of large, soft stacking rings", "zh": "一組大型、柔軟的套疊圈玩具"},
+      {"en": "A box of crayons and a coloring book", "zh": "一盒蠟筆與一本著色本"},
+      {"en": "A board book with small flip-up flaps", "zh": "一本有小翻頁的硬頁書"},
+      {"en": "A pull-along toy attached to a long string", "zh": "一個繫有長繩的拖拉玩具"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "This item addresses the Health Promotion and Maintenance category and the principles of growth and development. At 9 months, infants explore objects by mouthing them and are developing grasp skills, so toys need to be large, soft, and free of small or detachable parts. Crayons and the small flaps on a board book present choking hazards for an infant who still mouths objects, and a long string presents a strangulation risk. Large stacking rings are safe and support the infant's developing fine motor skills.",
+      "zh": "此題考核「健康促進與維持」類別及生長發展原則。9 個月大的嬰兒會用口探索物品，且正在發展抓握技能，因此玩具須大型、柔軟且無小型或可脫落零件。蠟筆及硬頁書上的小翻頁對仍會將物品放入口中的嬰兒有噎塞風險，長繩則有勒頸風險。大型套疊圈玩具安全，並能支持嬰兒發展中的精細動作技能。"
+    },
+    "pdf_pages": [25],
+    "tags": ["growth and development", "safety"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client scheduled for a bone marrow biopsy states to the nurse, \"I'm terrified this is going to confirm that I have leukemia.\" Which response by the nurse is most therapeutic?",
+      "zh": "一位即將接受骨髓穿刺檢查的病人向護理師說：「我很害怕這個檢查會證實我得了白血病。」護理師哪一項回應最具治療性？"
+    },
+    "options": [
+      {"en": "\"Try not to worry; many biopsy results come back normal.\"", "zh": "「不要太擔心，很多穿刺結果都是正常的。」"},
+      {"en": "\"I can hear how frightened you are. Tell me more about what's worrying you.\"", "zh": "「我聽得出您很害怕，可以多告訴我您擔心的是什麼嗎？」"},
+      {"en": "\"Your doctor wouldn't have ordered this test if they weren't concerned.\"", "zh": "「如果醫師不擔心，就不會開這項檢查了。」"},
+      {"en": "\"Let's talk about something else so you don't have to think about it.\"", "zh": "「我們聊點別的，讓您不要一直想這件事。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the Psychosocial Integrity category and the concept of therapeutic communication. The correct option acknowledges the client's feelings and uses an open-ended statement that encourages further expression, which demonstrates caring and explores the client's concerns. Option 1 provides false reassurance. Option 3 increases the client's anxiety and does not address feelings. Option 4 blocks communication by changing the subject and avoiding the client's fear.",
+      "zh": "此題考核「心理社會完整性」類別及治療性溝通的概念。正確答案肯定病人的感受，並以開放式語句鼓勵其進一步表達，展現關懷並探索病人的擔憂。選項 1 給予不實的安慰；選項 3 會增加病人焦慮且未處理其感受；選項 4 以轉移話題阻斷溝通，迴避了病人的恐懼。"
+    },
+    "pdf_pages": [25],
+    "tags": ["therapeutic communication", "anxiety"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse teaches a client with severe chronic obstructive pulmonary disease about energy conservation techniques to use at home. Which statement by the client indicates a need for further teaching?",
+      "zh": "護理師教導一位重度慢性阻塞性肺病病人在家中使用的節能技巧。病人的哪一句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will sit on a shower chair while I bathe.\"", "zh": "「我洗澡時會坐在沐浴椅上。」"},
+      {"en": "\"I will gather all my supplies before I start a task.\"", "zh": "「我做事前會先把所有用品準備好。」"},
+      {"en": "\"I will hold my breath while I lift anything heavy.\"", "zh": "「搬重物時我會憋住呼吸。」"},
+      {"en": "\"I will take rest periods between activities.\"", "zh": "「活動之間我會休息一下。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "This item addresses the Basic Care and Comfort subcategory and is a negative event query; note the strategic words, need for further teaching. Holding the breath during exertion (a Valsalva-type maneuver) increases intrathoracic pressure, worsens dyspnea, and is unsafe for a client with severe chronic obstructive pulmonary disease. The client should instead be taught to exhale through pursed lips during exertion. Sitting while bathing, gathering supplies in advance, and pacing activities with rest periods are all correct energy conservation measures.",
+      "zh": "此題考核「基本照護與舒適」次類別，屬於負向提問；請注意關鍵字「需要進一步指導」。用力時憋氣（類似 Valsalva 動作）會增加胸內壓、加重呼吸困難，對重度慢性阻塞性肺病病人並不安全；應指導病人用力時改以噘嘴吐氣。洗澡時坐著、事前備齊用品，以及分段活動並安排休息，都是正確的節能措施。"
+    },
+    "pdf_pages": [26],
+    "tags": ["need for further teaching", "energy conservation", "COPD"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is caring for a client taking lithium carbonate for bipolar disorder. Which finding would the nurse recognize as an early sign of lithium toxicity?",
+      "zh": "護理師照護一位因雙極性疾患服用碳酸鋰的病人。護理師應將下列哪項發現視為鋰中毒的早期徵象？"
+    },
+    "options": [
+      {"en": "Coarse hand tremor and persistent vomiting and diarrhea", "zh": "粗大手部震顫合併持續嘔吐與腹瀉"},
+      {"en": "Seizures and cardiac dysrhythmias", "zh": "癲癇發作與心律不整"},
+      {"en": "Severe oliguria and coma", "zh": "嚴重少尿與昏迷"},
+      {"en": "A fine hand tremor with no other symptoms", "zh": "僅有細微手部震顫而無其他症狀"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "This item addresses the Pharmacological and Parenteral Therapies subcategory; note the strategic word, early. Early manifestations of lithium toxicity include gastrointestinal disturbances, such as nausea, vomiting, and diarrhea, along with a coarse hand tremor and muscle weakness. Seizures, cardiac dysrhythmias, severe oliguria, and coma are late, severe manifestations of toxicity. A fine hand tremor alone is a common, expected side effect at therapeutic lithium levels and is not a sign of toxicity.",
+      "zh": "此題考核「藥物與注射治療」次類別；請注意關鍵字「早期」。鋰中毒的早期表現包括胃腸道不適（如噁心、嘔吐、腹瀉）合併粗大手部震顫與肌肉無力。癲癇發作、心律不整、嚴重少尿與昏迷則屬於嚴重中毒的晚期表現。僅出現細微手部震顫是治療劑量下常見且預期的副作用，並非中毒徵象。"
+    },
+    "pdf_pages": [26],
+    "tags": ["early sign", "toxicity", "lithium"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse reviews a client's arterial blood gas results: pH 7.30, PaCO2 55 mm Hg, HCO3- 24 mEq/L (24 mmol/L). The nurse interprets these findings as indicating which acid-base imbalance?",
+      "zh": "護理師查看病人的動脈血氣分析結果：pH 7.30、PaCO2 55 mmHg、HCO3- 24 mEq/L（24 mmol/L）。護理師應將此結果判讀為哪種酸鹼平衡異常？"
+    },
+    "options": [
+      {"en": "Metabolic acidosis, uncompensated", "zh": "代謝性酸中毒，未代償"},
+      {"en": "Respiratory acidosis, uncompensated", "zh": "呼吸性酸中毒，未代償"},
+      {"en": "Respiratory alkalosis, compensated", "zh": "呼吸性鹼中毒，已代償"},
+      {"en": "Metabolic alkalosis, compensated", "zh": "代謝性鹼中毒，已代償"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the Reduction of Risk Potential subcategory and requires analyzing data to determine the client's acid-base status. The normal pH range is 7.35 to 7.45; this pH of 7.30 is acidic. The normal PaCO2 range is 35 to 45 mm Hg; a PaCO2 of 55 mm Hg is elevated, identifying a respiratory cause. The normal HCO3- range is 22 to 26 mEq/L (22 to 26 mmol/L); because the HCO3- remains within normal limits, the kidneys have not yet compensated. These values indicate uncompensated respiratory acidosis.",
+      "zh": "此題考核「降低風險潛能」次類別，需分析資料以判定病人的酸鹼狀態。正常 pH 範圍為 7.35 至 7.45，此 pH 值 7.30 屬於酸性。正常 PaCO2 範圍為 35 至 45 mmHg，此處 55 mmHg 偏高，顯示呼吸性病因。正常 HCO3- 範圍為 22 至 26 mEq/L（22 至 26 mmol/L），因 HCO3- 仍在正常範圍內，表示腎臟尚未開始代償。綜合判讀為未代償的呼吸性酸中毒。"
+    },
+    "pdf_pages": [26],
+    "tags": ["lab values", "acid-base", "analysis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse reviews laboratory results for a client with chronic kidney disease and notes a serum potassium level of 6.8 mEq/L (6.8 mmol/L). Which finding would the nurse interpret as most concerning and requiring immediate notification of the primary health care provider?",
+      "zh": "護理師查看一位慢性腎病病人的檢驗結果，發現血清鉀濃度為 6.8 mEq/L（6.8 mmol/L）。護理師應將下列哪項發現視為最令人擔憂、須立即通知主治醫療人員的徵象？"
+    },
+    "options": [
+      {"en": "Hypoactive bowel sounds", "zh": "腸音減弱"},
+      {"en": "Fatigue and generalized weakness", "zh": "疲倦與全身無力"},
+      {"en": "A widened QRS complex with peaked T waves on the cardiac monitor", "zh": "心臟監視器顯示 QRS 波變寬合併 T 波高尖"},
+      {"en": "Numbness and tingling around the mouth", "zh": "口周麻木與刺痛感"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "This item addresses the Physiological Adaptation subcategory and an alteration in a body system. The normal serum potassium level is 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L); a level of 6.8 mEq/L (6.8 mmol/L) indicates severe hyperkalemia. Cardiac manifestations, including a widened QRS complex and peaked T waves, reflect the most life-threatening effect of hyperkalemia because they can progress to a lethal ventricular dysrhythmia or cardiac arrest, so this finding requires the most immediate attention. Hypoactive bowel sounds, fatigue, weakness, and perioral numbness and tingling can occur with hyperkalemia but are not immediately life-threatening.",
+      "zh": "此題考核「生理調適」次類別及身體系統的改變。正常血清鉀濃度為 3.5 至 5.0 mEq/L（3.5 至 5.0 mmol/L），6.8 mEq/L（6.8 mmol/L）表示嚴重高血鉀。心臟表現（包括 QRS 波變寬與 T 波高尖）反映高血鉀最危及生命的影響，因其可能進展為致命性心室心律不整或心跳停止，因此此發現最需要立即處理。腸音減弱、疲倦、無力與口周麻木刺痛雖可能發生於高血鉀，但並非立即危及生命。"
+    },
+    "pdf_pages": [27],
+    "tags": ["red flag", "hyperkalemia", "lab values"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a client admitted with norovirus gastroenteritis. Which actions would the nurse include in the plan of care? Select all that apply.",
+      "zh": "護理師照護一位因諾羅病毒腸胃炎入院的病人。護理師在照護計畫中應納入下列哪些措施？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Don gloves and a gown before entering the room.", "zh": "進入病室前先穿戴手套與隔離衣。"},
+      {"en": "Place the client in a private room if one is available.", "zh": "如有空房，將病人安置於單人病室。"},
+      {"en": "Use an alcohol-based hand sanitizer instead of washing hands with soap and water.", "zh": "使用酒精性乾洗手液取代肥皂與清水洗手。"},
+      {"en": "Dedicate equipment, such as a stethoscope, for use only with this client.", "zh": "將聽診器等設備專用於此病人。"},
+      {"en": "Clean environmental surfaces with an EPA-registered disinfectant effective against norovirus.", "zh": "使用美國環保署登記、對諾羅病毒有效的消毒劑清潔環境表面。"},
+      {"en": "Instruct visitors that a fitted N95 respirator is required before entering the room.", "zh": "告知訪客須在進入病室前配戴密合測試合格的 N95 呼吸防護具。"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "This item addresses the Safety and Infection Control subcategory. Norovirus is highly contagious and is spread primarily by the contact and fecal-oral routes, so contact precautions (gloves and gown), a private room when available, dedicated equipment, and disinfection with a product proven effective against norovirus are appropriate. Alcohol-based hand sanitizer does not reliably inactivate norovirus, so hands must be washed with soap and water. Norovirus is not spread by the airborne route, so an N95 respirator is not required.",
+      "zh": "此題考核「安全與感染控制」次類別。諾羅病毒傳染力極強，主要經由接觸及糞口途徑傳播，因此接觸防護措施（手套、隔離衣）、可行時安置單人病室、設備專用，以及使用證實對諾羅病毒有效的消毒劑皆屬適當措施。酒精性乾洗手液無法穩定殺滅諾羅病毒，仍須以肥皂與清水洗手。諾羅病毒並非經空氣傳播，故不需使用 N95 呼吸防護具。"
+    },
+    "pdf_pages": [24],
+    "tags": ["sata", "infection control", "contact precautions"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The registered nurse is making client assignments for the shift. Which client would be most appropriate to assign to the licensed practical nurse (LPN)?",
+      "zh": "註冊護理師正在安排本班的病人分配。下列哪位病人最適合分配給執業實習護士（LPN）照護？"
+    },
+    "options": [
+      {"en": "A newly admitted client who requires an admission history and physical assessment", "zh": "一位新入院病人，需要進行入院病史詢問與身體評估"},
+      {"en": "A client who is 10 minutes into receiving a unit of packed red blood cells", "zh": "一位正在輸注紅血球濃厚液、才輸注 10 分鐘的病人"},
+      {"en": "A client who requires a scheduled dressing change of a stage 2 pressure injury", "zh": "一位需按時更換第二期壓傷敷料的病人"},
+      {"en": "A client who needs initial teaching about a new diagnosis of type 2 diabetes mellitus", "zh": "一位剛被診斷第 2 型糖尿病、需要初次衛教的病人"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "This item addresses the Management of Care subcategory, use of delegation and assignment-making guidelines. The LPN's scope of practice includes performing certain invasive tasks, such as dressing changes. The comprehensive admission assessment, initiating client teaching, and monitoring a blood transfusion during its highest-risk period (the first 15 minutes) require the broader scope of practice and critical judgment of the registered nurse.",
+      "zh": "此題考核「照護管理」次類別及授權與分派指派的指引。LPN 的執業範圍包含執行特定侵入性工作，例如更換敷料。完整的入院評估、開始病人衛教，以及監測輸血最高風險期間（前 15 分鐘）則需要註冊護理師更廣的執業範圍與批判性判斷。"
+    },
+    "pdf_pages": [23],
+    "tags": ["delegation", "scope of practice", "LPN"]
+  }
+]

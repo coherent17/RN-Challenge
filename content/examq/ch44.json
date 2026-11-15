@@ -1,0 +1,190 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A PHCP prescribes a topical corticosteroid for a client with eczema affecting several body areas. To minimize the risk of systemic absorption, on which body areas can the nurse safely apply the medication as prescribed? Select all that apply.", "zh": "醫療人員為一位多處部位有濕疹的病人開立外用類固醇藥物。為降低全身性吸收的風險,護理師可將藥物安全地塗抹於下列哪些身體部位?(多選)"},
+    "options": [
+      {"en": "Back", "zh": "背部"},
+      {"en": "Axilla", "zh": "腋下"},
+      {"en": "Palms of the hands", "zh": "手掌"},
+      {"en": "Soles of the feet", "zh": "足底"},
+      {"en": "Eyelids", "zh": "眼瞼"},
+      {"en": "Groin", "zh": "腹股溝"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Topical corticosteroid absorption is greater in permeable skin areas, such as the scalp, axilla, face, neck, eyelids, perineum, and groin, and lower in areas of poor permeability, such as the palms, soles, and back. The nurse should apply the medication to areas of lower absorption as prescribed and use caution in highly permeable areas.", "zh": "外用類固醇在皮膚通透性較高的部位(如頭皮、腋下、臉部、頸部、眼瞼、會陰與腹股溝)吸收較多,而在通透性較差的部位(如手掌、足底與背部)吸收較少。護理師應依醫囑將藥物塗抹於吸收較少的部位,並對高通透性部位謹慎使用。"},
+    "pdf_pages": [599],
+    "tags": ["sata", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client has been using a potent topical corticosteroid over a large body surface area for several months. Which finding should prompt the nurse to suspect a systemic adverse effect of the medication?", "zh": "一位病人已在大範圍體表持續使用強效外用類固醇數個月。下列哪一項發現應使護理師懷疑此藥物出現全身性不良反應?"},
+    "options": [
+      {"en": "Localized thinning of the skin and striae at the application site", "zh": "塗藥部位出現局部皮膚變薄與伸展紋"},
+      {"en": "A round, puffy facial appearance (moon face) with new-onset hyperglycemia", "zh": "出現圓潤浮腫的臉部外觀(月亮臉),並新發生高血糖"},
+      {"en": "Mild burning sensation immediately after application", "zh": "塗藥後立即出現輕微灼熱感"},
+      {"en": "Transient redness at the application site", "zh": "塗藥部位出現短暫發紅"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Systemic adverse effects of topical glucocorticoids, which occur more often with prolonged therapy over extensive skin surfaces, include adrenal suppression and Cushing's syndrome (moon face, hyperglycemia), growth retardation in children, and ocular effects such as glaucoma and cataracts. Localized thinning, striae, burning, and transient redness at the site are expected local effects, not systemic toxicity.", "zh": "外用類固醇的全身性不良反應較常發生於長期治療且塗敷大範圍皮膚表面時,包括腎上腺抑制與庫欣氏症候群(月亮臉、高血糖)、兒童生長遲滯,以及青光眼、白內障等眼部影響。塗藥部位的局部皮膚變薄、伸展紋、灼熱感與短暫發紅屬於預期的局部反應,而非全身性毒性。"},
+    "pdf_pages": [599],
+    "tags": ["red flag", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking isotretinoin for severe cystic acne calls the clinic to report a positive home pregnancy test. Which action should the nurse take first?", "zh": "一位因嚴重囊腫型痤瘡服用異維A酸(isotretinoin)的病人打電話到門診,表示居家驗孕試驗結果為陽性。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Instruct the client to continue the medication until the next scheduled appointment", "zh": "指示病人繼續服藥,直到下次預約回診"},
+      {"en": "Instruct the client to stop the medication immediately and arrange for the client to be seen by the PHCP as soon as possible", "zh": "指示病人立即停藥,並安排儘快讓醫療人員評估病人"},
+      {"en": "Tell the client this is likely a false positive and to repeat the test in 1 week", "zh": "告知病人這可能是假陽性,請於1週後重新驗孕"},
+      {"en": "Advise the client to reduce the dose by half until further notice", "zh": "建議病人先將劑量減半,直到進一步通知"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Isotretinoin is highly teratogenic and must not be used during pregnancy. Upon report of a positive pregnancy test, the medication must be stopped immediately and the client evaluated by the PHCP as soon as possible under the iPLEDGE program requirements; continuing, delaying, or reducing the dose would prolong fetal exposure.", "zh": "異維A酸具高度致畸胎性,絕不可於懷孕期間使用。得知驗孕結果為陽性後,應依iPLEDGE計畫要求立即停藥,並儘快安排醫療人員評估病人;繼續用藥、延遲處置或僅減半劑量都會延長胎兒的暴露時間。"},
+    "pdf_pages": [603],
+    "tags": ["red flag", "first action", "requires immediate action", "medication safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is about to begin isotretinoin therapy for severe acne. Which items in the client's current regimen should the nurse bring to the PHCP's attention before therapy begins? Select all that apply.", "zh": "一位病人即將開始接受異維A酸治療嚴重痤瘡。護理師應在治療開始前,將病人目前使用的下列哪些項目提報給醫療人員注意?(多選)"},
+    "options": [
+      {"en": "A daily vitamin A supplement", "zh": "每日服用的維生素A補充劑"},
+      {"en": "A tetracycline-class antibiotic", "zh": "四環黴素類抗生素"},
+      {"en": "Daily alcohol consumption", "zh": "每日飲酒"},
+      {"en": "Acetaminophen taken occasionally for headaches", "zh": "偶爾因頭痛服用的乙醯胺酚"},
+      {"en": "A multivitamin that does not contain vitamin A", "zh": "不含維生素A的綜合維生素"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "Vitamin A supplements should be discontinued during isotretinoin therapy because the medication is itself a vitamin A derivative and can intensify toxicity; tetracyclines increase the risk of adverse effects and should be discontinued before starting isotretinoin; alcohol should be eliminated because it can potentiate elevation of serum triglycerides. Occasional acetaminophen use and a vitamin-A-free multivitamin are not specific concerns with this therapy.", "zh": "異維A酸本身為維生素A衍生物,治療期間應停用維生素A補充劑,以免加重毒性;四環黴素類藥物會增加不良反應風險,應在開始異維A酸治療前停用;飲酒則應完全避免,因為可能加重血中三酸甘油酯的升高。偶爾服用乙醯胺酚與不含維生素A的綜合維生素,並非此療法特別關注的項目。"},
+    "pdf_pages": [603],
+    "tags": ["sata", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "Which medications used to treat integumentary conditions require the nurse to instruct the client to use sunscreen and wear protective clothing because of photosensitization? Select all that apply.", "zh": "下列哪些用於治療皮膚疾患的藥物,需要護理師教導病人使用防曬並穿著防護衣物,以避免光敏感反應?(多選)"},
+    "options": [
+      {"en": "Tretinoin", "zh": "Tretinoin(維A酸)"},
+      {"en": "Fluorouracil", "zh": "Fluorouracil"},
+      {"en": "Tazarotene", "zh": "Tazarotene"},
+      {"en": "Azelaic acid", "zh": "杏仁酸(azelaic acid)"},
+      {"en": "Methoxsalen used with ultraviolet A phototherapy", "zh": "搭配紫外線A光療使用的methoxsalen"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Tretinoin, fluorouracil, and tazarotene all sensitize the skin to sunlight, so clients should use sunscreen and protective clothing outdoors. Methoxsalen used in photochemotherapy is itself a photosensitizing medication combined with planned UVA exposure. Azelaic acid's documented adverse effects are local burning, itching, stinging, redness, and hypopigmentation, without the photosensitivity caution noted for the other agents.", "zh": "Tretinoin、fluorouracil與tazarotene皆會使皮膚對陽光敏感,病人外出時應使用防曬並穿著防護衣物。用於光化學療法的methoxsalen本身即為光敏感藥物,並搭配計畫性的UVA曝露。杏仁酸所記載的不良反應為局部灼熱、搔癢、刺痛、發紅及皮膚色素減退,並未如其他藥物一般特別標註光敏感注意事項。"},
+    "pdf_pages": [599, 600, 601, 602],
+    "tags": ["sata", "photosensitivity", "medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with a partial-thickness burn is receiving topical silver sulfadiazine. Which laboratory result requires the nurse to notify the PHCP?", "zh": "一位部分層皮膚燒傷的病人正接受外用磺胺銀(silver sulfadiazine)治療。下列哪一項檢驗結果需要護理師通知醫療人員?"},
+    "options": [
+      {"en": "Platelet count of 280,000/mm3 (280 × 10^9/L)", "zh": "血小板 280,000/mm3(280 × 10^9/L)"},
+      {"en": "White blood cell count of 2800/mm3 (2.8 × 10^9/L)", "zh": "白血球 2800/mm3(2.8 × 10^9/L)"},
+      {"en": "Blood glucose of 110 mg/dL (6.1 mmol/L)", "zh": "血糖 110 mg/dL(6.1 mmol/L)"},
+      {"en": "Serum magnesium of 1.9 mEq/L (0.95 mmol/L)", "zh": "血鎂 1.9 mEq/L(0.95 mmol/L)"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An adverse effect of silver sulfadiazine is leukopenia; the nurse monitors the complete blood count, particularly the white blood cells, and notifies the PHCP if leukopenia develops, because the medication is usually discontinued. The white blood cell count of 2800/mm3 is below the normal range and indicates leukopenia. The other values are within normal limits.", "zh": "磺胺銀的不良反應之一是白血球低下;護理師應監測全血球計數,尤其是白血球數值,若發生白血球低下應通知醫療人員,因為此藥物通常會因此停用。此處白血球2800/mm3低於正常範圍,顯示白血球低下。其餘數值皆在正常範圍內。"},
+    "pdf_pages": [603, 604],
+    "tags": ["labs", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with an extensive burn injury is receiving topical mafenide acetate. The nurse notes that the client has become tachypneic with deep, rapid respirations. Which action should the nurse take first?", "zh": "一位廣泛燒傷的病人正接受外用乙酸磺胺米隆(mafenide acetate)治療。護理師發現病人出現呼吸急促且深而快速的呼吸。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Recognize this as an expected local response and continue the medication as prescribed", "zh": "視為預期的局部反應,依醫囑持續用藥"},
+      {"en": "Notify the PHCP, because this may indicate a metabolic acidosis caused by the medication", "zh": "通知醫療人員,因為這可能顯示藥物引起代謝性酸中毒"},
+      {"en": "Administer a PRN opioid analgesic for suspected pain", "zh": "依需要給予鴉片類止痛藥以緩解疑似疼痛"},
+      {"en": "Increase the client's oxygen flow rate and reassess in 1 hour", "zh": "提高病人的氧氣流量,並於1小時後重新評估"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mafenide acetate diffuses through devascularized burn tissue and may precipitate metabolic acidosis, which manifests as hyperventilation (tachypnea with deep, rapid respirations). This systemic finding must be reported to the PHCP promptly; the medication is usually washed off and discontinued for 1 to 2 days if acidosis develops. This is a systemic effect, not an expected or purely local response, and should not simply be treated with analgesics or oxygen while delaying notification.", "zh": "乙酸磺胺米隆會透過去血管化的燒傷組織擴散,可能引發代謝性酸中毒,表現為換氣過度(呼吸急促且深快)。此全身性發現須立即報告醫療人員;若發生酸中毒,通常會將藥物洗除並停用1至2天。這是全身性反應,並非預期或單純局部反應,不應僅給予止痛藥或氧氣而延遲通報。"},
+    "pdf_pages": [604],
+    "tags": ["red flag", "first action", "requires immediate action", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with severe psoriasis is prescribed methotrexate. Which statement by the client indicates the need for further teaching?", "zh": "一位嚴重乾癬病人被開立methotrexate。病人的下列哪一句話表示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will have my liver function checked periodically during treatment.\"", "zh": "「治療期間我會定期檢查肝功能。」"},
+      {"en": "\"I will avoid alcohol while taking this medication.\"", "zh": "「服藥期間我會避免飲酒。」"},
+      {"en": "\"I can try to get pregnant as soon as I stop taking this medication.\"", "zh": "「只要停藥後我就可以馬上嘗試懷孕。」"},
+      {"en": "\"I will report any unusual bruising or bleeding to my provider.\"", "zh": "「若出現異常的瘀傷或出血,我會向醫療人員報告。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Methotrexate is teratogenic; persons of childbearing age should wait 3 months after discontinuing the medication before attempting to become pregnant, so this statement indicates a need for further teaching. Methotrexate can be hepatotoxic (requiring liver function monitoring), can cause bone marrow depression leading to blood dyscrasias (requiring the client to report bruising or bleeding), and alcohol should be avoided because it increases hepatotoxicity risk.", "zh": "methotrexate具致畸胎性;具生育能力者應於停藥後等待3個月才可嘗試懷孕,因此此陳述表示需要進一步指導。methotrexate可能具肝毒性(需監測肝功能)、可能造成骨髓抑制導致血液病變(需報告瘀傷或出血),且應避免飲酒,因其會增加肝毒性風險。"},
+    "pdf_pages": [601],
+    "tags": ["teaching", "need further teaching", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client of childbearing age is started on acitretin for severe psoriasis. Which instruction is most important for the nurse to include?", "zh": "一位具生育能力的病人因嚴重乾癬開始服用acitretin。護理師應包含下列哪一項指導最為重要?"},
+    "options": [
+      {"en": "\"You must use two reliable forms of contraception, starting at least 1 month before treatment and continuing for at least 3 years after you stop this medication.\"", "zh": "「您必須採取兩種可靠的避孕方式,至少在治療開始前1個月開始使用,並於停藥後至少持續3年。」"},
+      {"en": "\"You should avoid pregnancy for 1 month after you stop taking this medication.\"", "zh": "「停藥後您應避免懷孕1個月。」"},
+      {"en": "\"You may take a vitamin A supplement to help the medication work.\"", "zh": "「您可以服用維生素A補充劑來幫助藥效。」"},
+      {"en": "\"This medication is safe to combine with alcohol.\"", "zh": "「這個藥物可以安全地與酒精併用。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Acitretin is embryotoxic and teratogenic. Pregnancy must be ruled out, and two reliable forms of contraception must be implemented at least 1 month before treatment starts and continued for at least 3 years after the medication is discontinued. Vitamin A supplementation and alcohol are both contraindicated with acitretin, not safe to combine.", "zh": "acitretin具胚胎毒性與致畸胎性。使用前必須排除懷孕,並須於治療開始前至少1個月採取兩種可靠的避孕方式,並於停藥後持續至少3年。維生素A補充劑與酒精皆為acitretin的禁忌,並非可安全併用。"},
+    "pdf_pages": [601],
+    "tags": ["teaching", "medication safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is about to begin treatment with a biologic agent (such as adalimumab or etanercept) for severe psoriasis. Which actions should the nurse anticipate before therapy begins? Select all that apply.", "zh": "一位病人即將開始使用生物製劑(如adalimumab或etanercept)治療嚴重乾癬。護理師應預期在治療開始前進行下列哪些行動?(多選)"},
+    "options": [
+      {"en": "Tuberculosis screening", "zh": "結核病篩檢"},
+      {"en": "Administration of a live attenuated vaccine, such as varicella, to boost immunity before starting therapy", "zh": "開始治療前給予活性減毒疫苗(如水痘疫苗)以增強免疫力"},
+      {"en": "Assessment for a history of heart failure", "zh": "評估心衰竭病史"},
+      {"en": "Assessment for a history of severe or recurrent infections", "zh": "評估嚴重或反覆感染的病史"},
+      {"en": "Review of hepatitis B history, because the medication can cause reactivation", "zh": "審視B型肝炎病史,因為此藥物可能導致其再活化"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Clients should be tested for tuberculosis and other infections before starting a biological medication for psoriasis. These medications are contraindicated for persons with a history of certain cancers, severe or recurrent infections, heart failure, or demyelinating neurological disease, and can cause reactivation of hepatitis B. Live virus vaccines should not be given because the viruses used in some vaccines can cause infection in a client with a weakened immune system.", "zh": "在開始使用治療乾癬的生物製劑前,應先篩檢結核病及其他感染。這類藥物禁用於曾罹患某些癌症、嚴重或反覆感染、心衰竭或去髓鞘神經疾病病史者,並可能導致B型肝炎再活化。不應給予活性病毒疫苗,因為某些疫苗所含的病毒可能使免疫力低下的病人發生感染。"},
+    "pdf_pages": [601],
+    "tags": ["sata", "safety", "medication safety"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client about sunscreen use for skin cancer prevention. Which statement by the client indicates the need for further teaching?", "zh": "護理師正在教導病人使用防曬乳以預防皮膚癌。病人的下列哪一句話表示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will choose a sunscreen with an SPF of at least 15 that protects against both UVA and UVB rays.\"", "zh": "「我會選擇防曬係數至少15,且能同時防護UVA與UVB的防曬乳。」"},
+      {"en": "\"I will reapply sunscreen every 2 to 3 hours and after swimming.\"", "zh": "「我會每2到3小時補擦防曬乳,游泳後也會補擦。」"},
+      {"en": "\"Since I am allergic to sulfa drugs, I should check the label for para-aminobenzoic acid before using a sunscreen.\"", "zh": "「因為我對磺胺類藥物過敏,使用防曬乳前我會檢查標籤上是否含對氨基苯甲酸。」"},
+      {"en": "\"I only need to apply sunscreen once, right before I go outside, no matter which product I use.\"", "zh": "「無論使用哪種產品,我只需要在出門前擦一次防曬乳就足夠了。」"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Sunscreens are most effective when applied at least 30 minutes before sun exposure (2 hours for products containing para-aminobenzoic acid or padimate O) and should be reapplied every 2 to 3 hours and after swimming or sweating; applying only once immediately before going outside indicates a need for further teaching. Choosing an SPF of at least 15 with UVA/UVB coverage and checking for para-aminobenzoic acid with a sulfa allergy are both correct.", "zh": "防曬乳在陽光曝曬前至少30分鐘擦(含對氨基苯甲酸或padimate O的產品則需提前2小時)效果最佳,且應每2到3小時補擦,游泳或大量出汗後也應補擦;只在出門前擦一次即表示需要進一步指導。選擇防曬係數至少15且能防護UVA/UVB,以及磺胺過敏者檢查是否含對氨基苯甲酸,皆為正確觀念。"},
+    "pdf_pages": [600],
+    "tags": ["teaching", "need further teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is prescribed tretinoin for acne. Which instruction should the nurse include in the teaching plan?", "zh": "一位病人被開立tretinoin治療痤瘡。護理師應在教學計畫中包含下列哪一項指導?"},
+    "options": [
+      {"en": "\"Apply the medication along with your usual exfoliating scrub for faster results.\"", "zh": "「可以搭配平常使用的去角質磨砂膏一起塗抹,效果會更快。」"},
+      {"en": "\"Expect your acne to improve within the first few days of use.\"", "zh": "「預期使用的頭幾天痤瘡就會改善。」"},
+      {"en": "\"Use a sunscreen and wear protective clothing when outdoors, because this medication increases sensitivity to sunlight.\"", "zh": "「外出時要使用防曬乳並穿著防護衣物,因為這個藥物會增加對陽光的敏感性。」"},
+      {"en": "\"You may continue taking your vitamin A supplement only if you develop side effects.\"", "zh": "「只有在出現副作用時,您才需要停止服用維生素A補充劑。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Tretinoin sensitizes the skin to UV light, so the client should use a sunscreen with an SPF of 15 or greater and wear protective clothing outdoors. Abrasive and keratolytic products should be discontinued before using tretinoin to decrease localized adverse effects, vitamin A supplements should be discontinued during therapy (not continued until side effects occur), and visible improvement generally takes weeks, not days.", "zh": "tretinoin會使皮膚對UV光敏感,因此病人外出時應使用防曬係數15以上的防曬乳並穿著防護衣物。使用tretinoin前應先停用磨砂與角質溶解產品以減少局部不良反應,治療期間應停用維生素A補充劑(而非等出現副作用才停用),且可見的改善通常需數週,而非數天。"},
+    "pdf_pages": [602],
+    "tags": ["teaching", "photosensitivity", "medication safety"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is teaching a client with mild acne about daily skin care. Which instructions should the nurse include? Select all that apply.", "zh": "護理師正在教導一位輕度痤瘡病人日常皮膚保養方式。護理師應包含下列哪些指導內容?(多選)"},
+    "options": [
+      {"en": "Cleanse the face gently two to three times a day", "zh": "每天溫和清潔臉部2到3次"},
+      {"en": "Choose cosmetics and moisturizers labeled noncomedogenic and water based", "zh": "選擇標示為不致粉刺(noncomedogenic)且水性配方的化妝品與保濕品"},
+      {"en": "Vigorously scrub the face with an abrasive sponge to remove excess oil", "zh": "用磨砂海綿用力刷洗臉部以去除多餘油脂"},
+      {"en": "Avoid squeezing, picking, or picking at lesions", "zh": "避免擠壓或摳抓病灶"},
+      {"en": "Avoid products with an excessive oil base", "zh": "避免使用含過量油脂基底的產品"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Clients with acne should cleanse gently two to three times daily, use noncomedogenic water-based cosmetics and moisturizers, avoid squeezing or picking at lesions, and avoid products with an excessive oil base. Vigorous scrubbing with an abrasive sponge is not recommended and can worsen skin irritation.", "zh": "痤瘡病人應每日溫和清潔臉部2到3次,使用標示不致粉刺的水性化妝品與保濕品,避免擠壓或摳抓病灶,並避免使用含過量油脂基底的產品。用磨砂海綿用力刷洗並不建議,反而可能加重皮膚刺激。"},
+    "pdf_pages": [601, 602],
+    "tags": ["sata", "teaching"]
+  }
+]

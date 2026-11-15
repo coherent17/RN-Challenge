@@ -1,0 +1,203 @@
+[
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse is teaching a client with iron-deficiency anemia about food choices to include in the diet. The nurse determines that the client understands the teaching if which menu selection is chosen?", "zh": "護理師正在教導一位缺鐵性貧血的病人關於應納入飲食中的食物選擇。若病人選擇下列哪一項菜單,護理師可判斷病人已理解教學內容?"},
+    "options": [
+      {"en": "Whole milk and mixed nuts", "zh": "全脂牛奶與混合堅果"},
+      {"en": "Black coffee and buttered toast", "zh": "黑咖啡與塗奶油的吐司"},
+      {"en": "Cooked rolled oats and broiled haddock", "zh": "煮燕麥片與烤黑線鱈魚"},
+      {"en": "Dark green leafy salad with orange slices", "zh": "深綠色葉菜沙拉配橙片"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Dark green leafy vegetables are a rich source of iron, and the vitamin C in oranges enhances the absorption of nonheme iron. Milk, coffee, oats, and fish do not provide this combination of high iron with an absorption-enhancing vitamin.", "zh": "深綠色葉菜富含鐵質,而橙子中的維生素C可增強非血基質鐵的吸收。牛奶、咖啡、燕麥片與魚類並不具備高鐵質加上促進吸收維生素的組合。"},
+    "pdf_pages": [163],
+    "tags": ["nutrition", "anemia", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is following a clear liquid diet in preparation for a colonoscopy scheduled for the next morning. The nurse should instruct the client to avoid which item?", "zh": "病人正遵循清流飲食,為次日早晨的大腸鏡檢查做準備。護理師應指示病人避免下列哪一項?"},
+    "options": [
+      {"en": "Apple juice", "zh": "蘋果汁"},
+      {"en": "Lemon-lime soda", "zh": "檸檬萊姆汽水"},
+      {"en": "Grape-flavored gelatin", "zh": "葡萄口味果凍"},
+      {"en": "Plain black coffee", "zh": "無糖黑咖啡"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Liquids that contain red or purple dye should be avoided before bowel preparation procedures because the dye can mask the normal appearance of the colon lining and be mistaken for blood during the examination.", "zh": "在腸道準備程序前應避免含有紅色或紫色染料的液體,因為染料可能掩蓋結腸黏膜的正常外觀,在檢查時可能被誤認為出血。"},
+    "pdf_pages": [159],
+    "tags": ["pre-procedure", "diet teaching"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is advancing a postoperative client from a clear liquid diet to a full liquid diet. Which items can the nurse now offer the client? Select all that apply.", "zh": "護理師正將一位術後病人由清流飲食進階至全流質飲食。護理師現在可以提供下列哪些項目給病人?(多選)"},
+    "options": [
+      {"en": "Vanilla milkshake", "zh": "香草奶昔"},
+      {"en": "Strained cream soup", "zh": "過濾過的濃湯"},
+      {"en": "Vanilla pudding", "zh": "香草布丁"},
+      {"en": "Pureed chicken", "zh": "雞肉泥"},
+      {"en": "Dinner roll", "zh": "餐包"},
+      {"en": "Strained vegetable juice", "zh": "過濾過的蔬菜汁"}
+    ],
+    "answer": [0, 1, 2, 5],
+    "rationale": {"en": "A full liquid diet includes clear liquids plus opaque liquid foods such as milkshakes, strained soups, pudding and custard, and strained vegetable juice. Pureed chicken is a mechanical soft diet food requiring more digestive capability, and a dinner roll is a solid food; neither is allowed on a full liquid diet.", "zh": "全流質飲食包括清流飲食加上不透明的液態食物,如奶昔、過濾濃湯、布丁與蛋奶糊,以及過濾蔬菜汁。雞肉泥屬於機械性軟質飲食,需要較多消化能力;餐包則為固體食物,兩者皆不適用於全流質飲食。"},
+    "pdf_pages": [159, 160],
+    "tags": ["sata", "diet progression"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A nurse is teaching a client with heart failure about a sodium-restricted diet. Which statement by the client indicates the need for further teaching?", "zh": "護理師正在教導一位心臟衰竭病人關於限鈉飲食的知識。病人的下列哪一句話表示需要進一步教學?"},
+    "options": [
+      {"en": "\"I will avoid canned soups and processed lunch meats.\"", "zh": "「我會避免罐裝湯品和加工午餐肉。」"},
+      {"en": "\"I will check nutrition labels for the sodium content per serving.\"", "zh": "「我會查看營養標示上每份的鈉含量。」"},
+      {"en": "\"Since effervescent tablets aren't food, I can keep taking my fizzy antacid as often as I like.\"", "zh": "「因為發泡錠不是食物,所以我可以照自己喜歡的頻率繼續服用發泡性胃藥。」"},
+      {"en": "\"I will ask the pharmacist whether a non-effervescent form of my pain reliever is available.\"", "zh": "「我會詢問藥師我的止痛藥是否有非發泡性的劑型。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Effervescent medications, including those containing sodium bicarbonate or sodium citrate, contain significant amounts of sodium and must be counted toward a client's sodium restriction. Believing they are exempt because they are not food reflects a misunderstanding requiring further teaching.", "zh": "發泡性藥物(包括含碳酸氫鈉或檸檬酸鈉的藥物)含有相當量的鈉,必須計入病人的限鈉總量。認為因非食物而不受限制,反映出需要進一步教學的誤解。"},
+    "pdf_pages": [162],
+    "tags": ["medication safety", "sodium restriction"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is reviewing the medication administration record of a client for whom a low-potassium diet has been prescribed. Which medication supports the need for this dietary restriction?", "zh": "護理師正在審閱一位被處方限鉀飲食病人的用藥記錄。下列哪一項藥物支持此飲食限制的必要性?"},
+    "options": [
+      {"en": "Furosemide", "zh": "furosemide(呋塞米)"},
+      {"en": "Lisinopril", "zh": "lisinopril(利辛諾普)"},
+      {"en": "Levothyroxine", "zh": "levothyroxine(左旋甲狀腺素)"},
+      {"en": "Regular insulin", "zh": "regular insulin(常規胰島素)"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Angiotensin-converting enzyme (ACE) inhibitors such as lisinopril can cause hyperkalemia, which is an indication for a low-potassium diet. Furosemide is a potassium-wasting (loop) diuretic that would indicate a need for increased, not decreased, potassium intake.", "zh": "血管收縮素轉化酶(ACE)抑制劑如lisinopril可能導致高血鉀,這是限鉀飲食的適應症。furosemide是排鉀性(loop)利尿劑,會使鉀需求增加而非減少。"},
+    "pdf_pages": [163],
+    "tags": ["labs", "potassium", "medication"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client develops hypokalemia after several days of vomiting while taking a potassium-depleting diuretic. The nurse should teach the client to increase intake of which foods? Select all that apply.", "zh": "一位病人在服用排鉀性利尿劑期間連續嘔吐數日後出現低血鉀。護理師應教導病人增加攝取下列哪些食物?(多選)"},
+    "options": [
+      {"en": "Bananas", "zh": "香蕉"},
+      {"en": "Cantaloupe", "zh": "哈密瓜"},
+      {"en": "White rice", "zh": "白米飯"},
+      {"en": "Cooked carrots", "zh": "煮熟的胡蘿蔔"},
+      {"en": "Baked potato with skin", "zh": "連皮烤馬鈴薯"}
+    ],
+    "answer": [0, 1, 4],
+    "rationale": {"en": "Bananas, cantaloupe, and potatoes (particularly the skin) are foods high in potassium and are appropriate to recommend for a client with hypokalemia. White rice and cooked carrots are not significant sources of potassium.", "zh": "香蕉、哈密瓜與馬鈴薯(尤其帶皮部分)皆為高鉀食物,適合推薦給低血鉀的病人。白米飯與煮熟胡蘿蔔並非顯著的鉀質來源。"},
+    "pdf_pages": [158, 163],
+    "tags": ["sata", "electrolytes", "potassium"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse is teaching a client with chronic kidney disease who receives hemodialysis about appropriate breakfast choices. The nurse determines that the client understands the dietary instructions if the client selects which breakfast?", "zh": "護理師正在教導一位接受血液透析的慢性腎臟病病人關於合適的早餐選擇。若病人選擇下列哪一項早餐,護理師可判斷病人已理解飲食指導?"},
+    "options": [
+      {"en": "Cream of wheat, blueberries, and decaffeinated coffee", "zh": "小麥奶糊、藍莓與低咖啡因咖啡"},
+      {"en": "Sausage links, banana, and orange juice", "zh": "香腸、香蕉與橙汁"},
+      {"en": "Bacon, cantaloupe, and tomato juice", "zh": "培根、哈密瓜與番茄汁"},
+      {"en": "Ham, grits with cheese, and strawberries with orange juice", "zh": "火腿、起司玉米粥與草莓配橙汁"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A diet for a client on hemodialysis requires controlled amounts of sodium, potassium, and phosphorus. Cream of wheat, blueberries, and decaffeinated coffee are lower in these nutrients. The other options contain processed/salted meats (high sodium) and fruits or juices high in potassium.", "zh": "接受血液透析的病人飲食需控制鈉、鉀與磷的攝取量。小麥奶糊、藍莓與低咖啡因咖啡在這些營養素上含量較低。其他選項則含有加工/鹽漬肉類(高鈉)以及高鉀的水果或果汁。"},
+    "pdf_pages": [162, 163],
+    "tags": ["renal diet", "patient education"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is assessing a client who has followed a strict vegan diet for several years. The nurse should recognize which finding as most concerning for a nutrient deficiency associated with this diet?", "zh": "護理師正在評估一位已嚴格奉行純素飲食數年的病人。護理師應將下列哪一項發現視為與此飲食相關營養素缺乏中最令人擔憂的?"},
+    "options": [
+      {"en": "Dry, scaly skin", "zh": "乾燥、脫屑的皮膚"},
+      {"en": "Occasional bleeding gums", "zh": "偶發性牙齦出血"},
+      {"en": "Paresthesia of the hands and feet with macrocytic anemia", "zh": "手腳感覺異常合併巨球性貧血"},
+      {"en": "Difficulty with night vision", "zh": "夜間視力困難"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Vitamin B12 is found almost exclusively in animal products, so a strict vegan diet places a client at risk for B12 deficiency, which manifests as peripheral neuropathy (paresthesia) and macrocytic (megaloblastic) anemia. The other findings suggest deficiencies in fatty acids, vitamin C, or vitamin A, which are less of a risk because vegans consume ample fruits and vegetables.", "zh": "維生素B12幾乎只存在於動物性食品中,因此嚴格的純素飲食使病人有B12缺乏的風險,表現為周邊神經病變(感覺異常)合併巨球性(巨幼紅細胞性)貧血。其他發現則提示脂肪酸、維生素C或維生素A缺乏,因純素者攝取大量蔬果,風險較低。"},
+    "pdf_pages": [164],
+    "tags": ["recognizing cues", "vegan diet", "vitamin deficiency"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with cirrhosis of the liver has a long history of chronic alcohol use. To help prevent complications associated with thiamine deficiency, the nurse should encourage the client to increase intake of which food?", "zh": "一位肝硬化病人有長期慢性飲酒史。為協助預防與硫胺素(維生素B1)缺乏相關的併發症,護理師應鼓勵病人增加攝取下列哪一項食物?"},
+    "options": [
+      {"en": "Whole-grain cereal with lean pork", "zh": "全穀類穀片配瘦豬肉"},
+      {"en": "White rice with grilled chicken breast", "zh": "白米飯配烤雞胸肉"},
+      {"en": "Iceberg lettuce salad", "zh": "美生菜沙拉"},
+      {"en": "Apple slices with cheese", "zh": "蘋果片配起司"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Clients with chronic alcohol use and cirrhosis are at risk for thiamine deficiency, which can lead to serious neurological complications such as Wernicke encephalopathy. Pork, whole-grain cereals, nuts, and legumes are especially rich sources of thiamine; white rice, lettuce, and cheese are not significant sources.", "zh": "慢性飲酒合併肝硬化的病人有硫胺素缺乏的風險,可能導致嚴重的神經系統併發症,如魏尼克腦病。豬肉、全穀類穀片、堅果與豆類是硫胺素特別豐富的來源;白米飯、生菜與起司則非重要來源。"},
+    "pdf_pages": [163],
+    "tags": ["cirrhosis", "vitamin deficiency", "complication prevention"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A nurse is about to initiate a continuous enteral tube feeding for a client who reports a history of lactose intolerance. Which action by the nurse is most important before beginning the feeding?", "zh": "護理師準備為一位有乳糖不耐症病史的病人開始持續性管飼。在開始灌食前,護理師採取下列哪一項行動最為重要?"},
+    "options": [
+      {"en": "Confirm that the prescribed formula is lactose-free", "zh": "確認處方的配方為無乳糖配方"},
+      {"en": "Dilute the formula with an equal amount of water", "zh": "以等量的水稀釋配方"},
+      {"en": "Add a fiber supplement to the formula", "zh": "在配方中加入纖維補充劑"},
+      {"en": "Warm the formula to body temperature before infusing", "zh": "灌食前將配方加溫至體溫"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Clients with lactose intolerance need to be placed on lactose-free enteral formulas to prevent abdominal cramping, bloating, and diarrhea from undigested lactose. Diluting the formula, adding fiber, and warming the formula are not the priority safety action related to the client's reported lactose intolerance.", "zh": "乳糖不耐症病人需使用無乳糖管飼配方,以避免未消化乳糖造成腹部絞痛、腹脹與腹瀉。稀釋配方、加入纖維或加溫配方均非針對病人乳糖不耐症所提報的優先安全措施。"},
+    "pdf_pages": [164],
+    "tags": ["enteral nutrition", "safety", "first action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client with acute kidney injury and fluid volume excess has a prescribed fluid restriction. Which nursing measures should the nurse include in the plan of care to help relieve the client's thirst while adhering to the restriction? Select all that apply.", "zh": "一位急性腎損傷合併體液容積過多的病人被處方限水。護理師應在照護計畫中納入下列哪些措施,以在遵守限水的同時緩解病人的口渴感?(多選)"},
+    "options": [
+      {"en": "Offer the client a large glass of water on demand throughout the day", "zh": "整天隨時提供病人一大杯水"},
+      {"en": "Freeze a portion of the allowed fluids so they take longer to consume", "zh": "將部分允許的液體製成冰塊,延長飲用時間"},
+      {"en": "Offer sugar-free hard candy to suck on", "zh": "提供無糖硬糖供含吮"},
+      {"en": "Add a small amount of lemon juice to water to make it more refreshing", "zh": "在水中加入少量檸檬汁使其更清爽"},
+      {"en": "Encourage chewing sugar-free gum", "zh": "鼓勵咀嚼無糖口香糖"}
+    ],
+    "answer": [1, 2, 3, 4],
+    "rationale": {"en": "Freezing fluids, sucking on hard candy, adding lemon juice to water, and chewing gum all help relieve thirst without adding a large volume of fluid. Offering a large glass of water on demand would violate the prescribed fluid restriction.", "zh": "將液體冷凍、含吮硬糖、在水中加入檸檬汁以及咀嚼口香糖皆能緩解口渴而不會增加大量液體攝取。隨時提供一大杯水則會違反處方的限水規定。"},
+    "pdf_pages": [163],
+    "tags": ["sata", "fluid restriction", "generate solutions"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nurse is teaching a client with gout and an elevated uric acid level about dietary modifications to reduce the risk of future gout attacks. The nurse should instruct the client to limit intake of which food?", "zh": "護理師正在教導一位痛風合併尿酸升高的病人,關於減少未來痛風發作風險的飲食調整。護理師應指示病人限制攝取下列哪一項食物?"},
+    "options": [
+      {"en": "Sardines", "zh": "沙丁魚"},
+      {"en": "Apples", "zh": "蘋果"},
+      {"en": "White rice", "zh": "白米飯"},
+      {"en": "Low-fat milk", "zh": "低脂牛奶"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Sardines, along with organ meats, anchovies, herring, mackerel, scallops, and gravies, are high in purines, which are a precursor to uric acid and should be limited for clients with gout. Apples, rice, and low-fat milk are not high-purine foods.", "zh": "沙丁魚與內臟肉類、鯷魚、鯡魚、鯖魚、扇貝及肉汁一樣,均富含嘌呤,為尿酸的前驅物,痛風病人應加以限制。蘋果、米飯與低脂牛奶則非高嘌呤食物。"},
+    "pdf_pages": [163],
+    "tags": ["gout", "reduction of risk", "patient education"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse is teaching a client with chronic pancreatitis about a fat-restricted diet to reduce steatorrhea and abdominal pain. Which foods should the nurse instruct the client to limit? Select all that apply.", "zh": "護理師正在教導一位慢性胰臟炎病人關於限脂飲食,以減少脂肪便與腹痛。護理師應指示病人限制下列哪些食物?(多選)"},
+    "options": [
+      {"en": "Sausage", "zh": "香腸"},
+      {"en": "Broiled cod", "zh": "烤鱈魚"},
+      {"en": "Margarine", "zh": "人造奶油"},
+      {"en": "Raw celery", "zh": "生西芹"},
+      {"en": "Cream cheese", "zh": "奶油乳酪"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {"en": "Sausage, margarine, and cream cheese are high-fat foods that should be restricted for a client with malabsorption disorders such as chronic pancreatitis to decrease nutrient losses and reduce steatorrhea and abdominal pain. Broiled fish and raw vegetables are naturally lower in fat.", "zh": "香腸、人造奶油與奶油乳酪均為高脂肪食物,對於如慢性胰臟炎等吸收不良疾病病人應予限制,以減少營養素流失並降低脂肪便與腹痛。烤魚與生鮮蔬菜天然脂肪含量較低。"},
+    "pdf_pages": [161],
+    "tags": ["sata", "fat-restricted diet", "pancreatitis"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is teaching a postmenopausal client who is lactose intolerant about nondairy sources of calcium to help prevent osteoporosis. Which food should the nurse recommend?", "zh": "護理師正在教導一位乳糖不耐症的絕經後婦女,關於有助於預防骨質疏鬆症的非乳製品鈉質來源。護理師應推薦下列哪一項食物?"},
+    "options": [
+      {"en": "Whole milk", "zh": "全脂牛奶"},
+      {"en": "Canned salmon with bones", "zh": "含骨罐裝鮭魚"},
+      {"en": "Dark chocolate", "zh": "黑巧克力"},
+      {"en": "White bread", "zh": "白麵包"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Canned salmon and sardines (eaten with the soft bones) are nondairy sources of calcium appropriate for a lactose-intolerant client. Whole milk contains lactose, and dark chocolate and white bread are not significant calcium sources.", "zh": "含骨食用的罐裝鮭魚與沙丁魚是適合乳糖不耐症病人的非乳製品鈣質來源。全脂牛奶含乳糖,而黑巧克力與白麵包則非重要的鈣質來源。"},
+    "pdf_pages": [158],
+    "tags": ["calcium", "osteoporosis", "health promotion"]
+  }
+]

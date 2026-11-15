@@ -1,0 +1,229 @@
+[
+  {
+    "cat": "HP",
+    "stem": {"en": "A mother asks the clinic nurse how to reduce her toddler daughter's risk of developing urinary tract infections. Which instruction should the nurse give?", "zh": "一位母親詢問診所護理師如何降低她的幼兒女兒發生泌尿道感染的風險。護理師應給予哪項指導？"},
+    "options": [
+      {"en": "Wipe from front to back after voiding or stooling", "zh": "排尿或排便後由前往後擦拭"},
+      {"en": "Give daily bubble baths to keep the perineal area clean", "zh": "每天泡泡泡浴以保持會陰部清潔"},
+      {"en": "Limit the child's fluid intake during the day", "zh": "白天限制孩子的水分攝取"},
+      {"en": "Dress the child in tight-fitting underwear to prevent soiling", "zh": "讓孩子穿貼身內褲以避免弄髒"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Proper hygiene, specifically wiping from front to back, helps prevent bacteria from the gastrointestinal tract and skin flora from entering the urethra. Bubble baths, tight underwear, and limiting fluids all increase UTI risk rather than reduce it.", "zh": "正確的衛生習慣，尤其是由前往後擦拭，可避免腸胃道與皮膚上的菌叢進入尿道。泡泡浴、貼身內褲與限制水分攝取反而會增加泌尿道感染的風險。"},
+    "pdf_pages": [533],
+    "tags": ["health promotion", "teaching"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigned to four children on a pediatric unit. Which child should the nurse assess first?", "zh": "護理師被分配照護小兒科病房的四名兒童。護理師應優先評估哪一位？"},
+    "options": [
+      {"en": "A child 2 days post-orchiopexy who is resting comfortably with a clean dressing", "zh": "輸精管固定術後第2天、休息舒適且敷料乾淨的兒童"},
+      {"en": "A child with acute glomerulonephritis whose blood pressure rose from 128/84 to 156/100 mm Hg with a new severe headache", "zh": "急性腎小球腎炎的兒童，其血壓由128/84上升至156/100 mmHg，並出現新發生的劇烈頭痛"},
+      {"en": "A child with nephrotic syndrome who has 2+ periorbital edema this morning, unchanged from yesterday", "zh": "腎病症候群的兒童，今晨眼周水腫2+，與昨日相比無變化"},
+      {"en": "A child 6 hours post-hypospadias repair with a urethral stent draining clear yellow urine", "zh": "尿道下裂修補術後6小時、尿道支架引流出清澈黃色尿液的兒童"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A sharp rise in blood pressure with a new severe headache in a child with glomerulonephritis suggests evolving hypertensive encephalopathy, a complication that can progress rapidly to seizures and requires immediate assessment and provider notification. The other children have stable or expected findings.", "zh": "腎小球腎炎兒童血壓急速上升合併新發生的劇烈頭痛，提示可能正發展為高血壓腦病，此併發症可迅速進展為癲癇發作，需立即評估並通知醫師。其他兒童的情況皆屬穩定或預期範圍內。"},
+    "pdf_pages": [533, 534],
+    "tags": ["priority", "delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is caring for an 8-year-old with acute glomerulonephritis. Which finding should be reported to the primary health care provider immediately?", "zh": "護理師正在照護一名患有急性腎小球腎炎的8歲兒童。應立即向醫療人員報告哪項發現？"},
+    "options": [
+      {"en": "Urine that is dark, cola-colored, and foamy", "zh": "尿液呈深色、可樂色且帶泡沫"},
+      {"en": "Mild periorbital puffiness that is more noticeable on awakening", "zh": "輕微眼周浮腫，晨起時較明顯"},
+      {"en": "Blood pressure of 158/102 mm Hg with a new, severe headache", "zh": "血壓158/102 mmHg並新發生劇烈頭痛"},
+      {"en": "Poor appetite, having eaten only half of breakfast", "zh": "食慾不佳，早餐只吃了一半"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Hematuria, periorbital edema, and anorexia are expected findings in glomerulonephritis. A marked rise in blood pressure accompanied by severe headache signals hypertensive encephalopathy, a complication that can progress to seizures and requires immediate intervention.", "zh": "血尿、眼周水腫與食慾不振為腎小球腎炎的常見表現。但血壓明顯上升合併劇烈頭痛，提示高血壓腦病，此併發症可能進展為癲癇發作，需立即處理。"},
+    "pdf_pages": [533, 534],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse wants to detect early fluid retention in a child hospitalized with glomerulonephritis. Which nursing action provides the most reliable information?", "zh": "護理師想要及早發現腎小球腎炎住院兒童的體液滯留情形。哪項護理措施能提供最可靠的資訊？"},
+    "options": [
+      {"en": "Measuring daily weight on the same scale, at the same time, in similar clothing", "zh": "每日於同一時間、使用同一體重計、穿著相近衣物測量體重"},
+      {"en": "Asking the parent each shift whether the child appears more swollen", "zh": "每班詢問家長孩子是否看起來更腫"},
+      {"en": "Checking capillary refill on the fingertips every 4 hours", "zh": "每4小時檢查指尖毛細血管充盈時間"},
+      {"en": "Comparing today's calorie intake with yesterday's intake", "zh": "比較今日與昨日的熱量攝取"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A consistent daily weight, taken under the same conditions, is the most sensitive and objective indicator of fluid retention; a gain of about 0.5 kg (1 lb) in a day reflects fluid accumulation. Subjective reports, capillary refill, and calorie comparisons do not reliably detect early fluid shifts.", "zh": "在相同條件下每日測量體重，是偵測體液滯留最敏感且客觀的指標；一天內增加約0.5公斤（1磅）即代表液體蓄積。主觀描述、毛細血管充盈與熱量比較皆無法可靠偵測早期體液變化。"},
+    "pdf_pages": [534],
+    "tags": ["monitoring"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A 2-year-old is admitted with suspected nephrotic syndrome. Which assessment findings would the nurse expect to find? Select all that apply.", "zh": "一名2歲兒童因疑似腎病症候群入院。護理師預期會發現哪些評估結果？請選出所有適用項目。"},
+    "options": [
+      {"en": "Generalized edema, more pronounced periorbitally in the morning", "zh": "全身性水腫，晨起時眼周更明顯"},
+      {"en": "Massive proteinuria with dark, frothy urine", "zh": "大量蛋白尿，尿液深色且帶泡沫"},
+      {"en": "Elevated serum lipid levels", "zh": "血脂升高"},
+      {"en": "Weight loss over the past several days", "zh": "過去數天體重減輕"},
+      {"en": "Blood pressure that is significantly elevated above baseline", "zh": "血壓明顯高於基礎值"},
+      {"en": "Pallor and anorexia", "zh": "臉色蒼白與食慾不振"}
+    ],
+    "answer": [0, 1, 2, 5],
+    "rationale": {"en": "Nephrotic syndrome classically presents with massive proteinuria, hypoalbuminemia, hyperlipidemia, and generalized edema that is most prominent periorbitally in the morning, along with pallor, anorexia, and weight gain (not loss). Blood pressure is usually normal or only slightly decreased, not significantly elevated.", "zh": "腎病症候群的典型表現為大量蛋白尿、低白蛋白血症、高血脂症與全身性水腫，晨起時眼周水腫最明顯，並伴隨臉色蒼白、食慾不振與體重增加（而非減輕）。血壓通常正常或略為偏低，而非明顯升高。"},
+    "pdf_pages": [534, 535],
+    "tags": ["sata", "recognize cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A child with nephrotic syndrome has just started high-dose corticosteroid therapy. Which teaching point is most important for the nurse to include for the parents?", "zh": "一名腎病症候群兒童剛開始接受高劑量類固醇治療。護理師應向家長提供哪項最重要的指導？"},
+    "options": [
+      {"en": "Watch for and report signs of infection, since the medication can mask or increase susceptibility to infection", "zh": "觀察並回報感染徵象，因為此藥物可能掩蓋感染或增加感染風險"},
+      {"en": "The medication should be stopped as soon as the edema resolves", "zh": "一旦水腫消退就應停藥"},
+      {"en": "The child should avoid all dietary sodium restriction while taking this medication", "zh": "服用此藥期間應避免任何飲食鈉限制"},
+      {"en": "This medication cures the underlying kidney disease permanently", "zh": "此藥物能永久治癒潛在的腎臟疾病"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Corticosteroids are a mainstay of therapy for nephrotic syndrome, but they increase susceptibility to infection and can mask typical signs of infection, so parents must be taught to monitor for and promptly report fever or other signs of infection. Steroids are tapered as prescribed, not stopped abruptly; sodium restriction may still be needed during edema; and the medication induces remission rather than a permanent cure.", "zh": "類固醇是腎病症候群治療的主要藥物，但會增加感染風險並可能掩蓋典型的感染徵象，因此家長須被教導要監測並立即回報發燒或其他感染徵象。類固醇需依醫囑逐漸減量，不可驟然停藥；水腫期間仍可能需限鈉；此藥物是誘導緩解，而非永久治癒。"},
+    "pdf_pages": [535],
+    "tags": ["medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A toddler is admitted with suspected hemolytic-uremic syndrome (HUS). Which laboratory findings would support this diagnosis? Select all that apply.", "zh": "一名幼兒因疑似溶血性尿毒症候群（HUS）入院。哪些檢驗結果可支持此診斷？請選出所有適用項目。"},
+    "options": [
+      {"en": "Decreased platelet count", "zh": "血小板數降低"},
+      {"en": "Decreased hemoglobin and hematocrit", "zh": "血紅素與血細胞比容降低"},
+      {"en": "Elevated blood urea nitrogen and serum creatinine", "zh": "血中尿素氮與血清肌酸酐升高"},
+      {"en": "Increased reticulocyte count", "zh": "網狀紅血球計數增加"},
+      {"en": "Decreased white blood cell count", "zh": "白血球數降低"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "HUS is characterized by the triad of hemolytic anemia (decreased hemoglobin/hematocrit with an increased reticulocyte count as the bone marrow compensates), thrombocytopenia, and acute kidney injury (elevated BUN and creatinine). White blood cell count is not characteristically decreased in HUS.", "zh": "HUS的三大特徵為溶血性貧血（血紅素/血細胞比容降低，骨髓代償使網狀紅血球增加）、血小板減少，以及急性腎損傷（BUN與肌酸酐升高）。白血球數並非HUS的典型特徵性降低表現。"},
+    "pdf_pages": [535, 536],
+    "tags": ["sata", "labs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A child with hemolytic-uremic syndrome has become anuric and is beginning peritoneal dialysis. Which intervention should the nurse plan to implement?", "zh": "一名溶血性尿毒症候群兒童已出現無尿，並開始接受腹膜透析。護理師應計畫執行哪項措施？"},
+    "options": [
+      {"en": "Restrict fluids as prescribed", "zh": "依醫囑限制水分攝取"},
+      {"en": "Encourage foods high in potassium", "zh": "鼓勵攝取高鉀食物"},
+      {"en": "Care for an arteriovenous fistula at the dialysis access site", "zh": "照護透析通路部位的動靜脈瘻管"},
+      {"en": "Encourage a high-sodium diet to replace losses", "zh": "鼓勵高鈉飲食以補充流失"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A child who is anuric requires fluid restriction to prevent fluid overload; potassium and sodium intake are also typically restricted, not encouraged, in acute kidney injury. Peritoneal dialysis uses a peritoneal catheter, not an arteriovenous fistula, which is specific to hemodialysis.", "zh": "無尿的兒童需限制水分攝取以避免體液過荷；在急性腎損傷期間，鉀與鈉的攝取通常也需限制而非鼓勵。腹膜透析使用的是腹膜導管，動靜脈瘻管則用於血液透析。"},
+    "pdf_pages": [536],
+    "tags": ["safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A 3-year-old has had three febrile urinary tract infections in the past year. The provider suspects vesicoureteral reflux (VUR). Which diagnostic test does the nurse anticipate will be scheduled to confirm the diagnosis?", "zh": "一名3歲兒童在過去一年內已發生三次發熱性泌尿道感染，醫師懷疑為膀胱輸尿管逆流（VUR）。護理師預期會安排哪項檢查以確診？"},
+    "options": [
+      {"en": "Voiding cystourethrogram", "zh": "排尿性膀胱尿道攝影"},
+      {"en": "Renal biopsy", "zh": "腎臟活體組織切片"},
+      {"en": "Electroencephalogram", "zh": "腦電圖"},
+      {"en": "Bone marrow aspiration", "zh": "骨髓穿刺"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "VUR, the backflow of urine from the bladder into the ureters and kidneys, is diagnosed with imaging studies such as abdominal ultrasound and a voiding cystourethrogram, which visualizes reflux during voiding. A renal biopsy, EEG, and bone marrow aspiration are not used to diagnose this condition.", "zh": "VUR是指尿液由膀胱逆流至輸尿管及腎臟，其診斷依賴影像學檢查，如腹部超音波及排尿性膀胱尿道攝影，可於排尿時觀察逆流情形。腎臟活體切片、腦電圖與骨髓穿刺皆非用於診斷此病症的檢查。"},
+    "pdf_pages": [535, 536],
+    "tags": ["diagnostics"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A 6-year-old who has been fully toilet trained and dry at night for over a year suddenly begins wetting the bed nightly and complains of burning with urination. What is the nurse's priority action?", "zh": "一名6歲兒童已完全接受大小便訓練且已有一年以上夜間不尿床，卻突然開始每夜尿床並訴說排尿時有灼熱感。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Reassure the parents that this is normal primary nocturnal enuresis", "zh": "向家長保證這是正常的原發性夜間遺尿"},
+      {"en": "Obtain a urine specimen for urinalysis and culture", "zh": "採集尿液進行尿液分析與尿液培養"},
+      {"en": "Recommend fluid restriction after dinner only", "zh": "建議晚餐後限制水分攝取"},
+      {"en": "Begin a reward-based behavioral conditioning program immediately", "zh": "立即開始以獎勵為基礎的行為制約計畫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "New-onset bedwetting after a period of established continence is secondary enuresis; when accompanied by dysuria, this warrants assessment for a urinary tract infection before any behavioral intervention is pursued. This is not primary nocturnal enuresis, since the child had already established nighttime dryness.", "zh": "在已建立控尿能力後突然出現尿床屬於次發性遺尿；若合併排尿疼痛，應先評估是否為泌尿道感染，再考慮任何行為介入。此情況並非原發性夜間遺尿，因為孩子原本已具備夜間控尿能力。"},
+    "pdf_pages": [536, 537],
+    "tags": ["recognize cues", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching the parents of a 7-year-old prescribed desmopressin for nighttime enuresis. Which statement by the parents indicates correct understanding of this medication's purpose?", "zh": "護理師正教導一名7歲兒童的家長，該兒童因夜間遺尿而使用desmopressin。家長的哪項陳述顯示其正確理解此藥物的作用？"},
+    "options": [
+      {"en": "\"This medication helps reduce the amount of urine my child's body makes at night.\"", "zh": "「這個藥物能減少我孩子夜間身體製造的尿量。」"},
+      {"en": "\"This medication will cure the bedwetting permanently after one course.\"", "zh": "「這個藥物吃一個療程後就能永久治好尿床。」"},
+      {"en": "\"This medication strengthens the bladder muscle so it holds more urine.\"", "zh": "「這個藥物能強化膀胱肌肉讓它能裝更多尿液。」"},
+      {"en": "\"I should encourage extra fluids in the evening while my child is on this medication.\"", "zh": "「服用這個藥物期間我應該讓孩子晚上多喝水。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Desmopressin is an antidiuretic that reduces nighttime urine production; it does not strengthen bladder muscle (that is the mechanism of anticholinergics) and is not a guaranteed permanent cure. Evening fluids should be limited, not encouraged, while the child is on this therapy.", "zh": "Desmopressin是一種抗利尿藥物，能減少夜間尿液的產生；它並不會強化膀胱肌肉（那是抗膽鹼藥物的作用機轉），也不保證能永久治癒。使用此藥期間應限制而非鼓勵晚間水分攝取。"},
+    "pdf_pages": [537],
+    "tags": ["medication safety", "evaluate outcomes"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse provides discharge teaching to the parents of a toddler who had an orchiopexy for cryptorchidism. Which statement by the parents indicates a need for further instruction?", "zh": "護理師為一名接受輸精管固定術治療隱睪症的幼兒家長提供出院指導。家長的哪項陳述顯示需要進一步指導？"},
+    "options": [
+      {"en": "\"I'll check his temperature over the next few days.\"", "zh": "「接下來幾天我會幫他量體溫。」"},
+      {"en": "\"I'll give the pain medicine as prescribed if he seems uncomfortable.\"", "zh": "「如果他看起來不舒服，我會依醫囑給止痛藥。」"},
+      {"en": "\"Since he's walking fine today, he can ride his ride-on toy again tomorrow.\"", "zh": "「他今天走得很好，明天就可以再騎他的跨騎玩具了。」"},
+      {"en": "\"I'll let the surgeon know if he doesn't urinate for several hours.\"", "zh": "「如果他好幾個小時沒有排尿，我會告知外科醫師。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Vigorous and straddling activities (such as ride-on toys, tricycles, and similar) need to be restricted for about 2 weeks after orchiopexy to prevent dislodging the internal suture line and promote healing, regardless of how well the child appears to be walking. Monitoring temperature, administering pain medication as prescribed, and monitoring voiding are all appropriate.", "zh": "輸精管固定術後約2週內須限制劇烈及跨騎類活動（如跨騎玩具、三輪車等），以避免移位內部縫線並促進癒合，即使孩子走路看起來正常也是如此。量體溫、依醫囑給止痛藥及觀察排尿狀況皆屬正確措施。"},
+    "pdf_pages": [536, 537],
+    "tags": ["needs further instruction", "home care"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "An infant is 2 hours postoperative following hypospadias repair with a urethral stent in place. The nurse notes no urine in the collection bag for the past 90 minutes. What is the nurse's priority action?", "zh": "一名嬰兒於尿道下裂修補術後2小時，裝有尿道支架。護理師發現過去90分鐘內收集袋內無尿液。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Continue to monitor and reassess in another hour", "zh": "持續觀察並於1小時後再評估"},
+      {"en": "Encourage oral fluids and recheck output in 30 minutes", "zh": "鼓勵口服補液並於30分鐘後再次檢查尿量"},
+      {"en": "Notify the pediatric surgeon", "zh": "通知小兒外科醫師"},
+      {"en": "Irrigate the stent with sterile saline", "zh": "以無菌生理食鹽水灌洗支架"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "No urinary output for 1 hour or more after hypospadias repair may indicate a kink, obstruction by sediment, or other problem with the urinary diversion or stent and should be reported to the surgeon promptly; the stent should not be irrigated without a specific order.", "zh": "尿道下裂修補術後若1小時以上無尿液排出，可能代表尿路分流管或支架扭結、被沉積物阻塞或其他問題，應立即通報外科醫師；未經特別醫囑不應自行灌洗支架。"},
+    "pdf_pages": [537],
+    "tags": ["priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A newborn is diagnosed with bladder exstrophy shortly after birth. Until surgical closure can be performed, which nursing intervention best protects the exposed bladder mucosa?", "zh": "一名新生兒出生後不久被診斷為膀胱外翻。在手術修補前，哪項護理措施最能保護外露的膀胱黏膜？"},
+    "options": [
+      {"en": "Cover the bladder with a sterile, nonadherent dressing that allows urine drainage while preventing the tissue from drying out", "zh": "以無菌、不沾黏的敷料覆蓋膀胱，使尿液可引流出來，同時避免組織乾燥"},
+      {"en": "Apply petroleum jelly gauze to keep the tissue moist", "zh": "塗抹凡士林紗布以保持組織濕潤"},
+      {"en": "Cover the area with dry sterile gauze and change it only once daily", "zh": "以乾燥無菌紗布覆蓋，且每日只更換一次"},
+      {"en": "Leave the bladder mucosa completely uncovered to allow air exposure", "zh": "讓膀胱黏膜完全暴露於空氣中，不加任何覆蓋"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The exposed bladder mucosa must be kept from drying out while still allowing urine to drain, which is achieved with a sterile, nonadherent dressing. Petroleum jelly gauze dries out, adheres to the mucosa, and damages delicate tissue on removal; dry gauze also allows the tissue to dry out; and leaving it uncovered does not protect the fragile mucosa.", "zh": "外露的膀胱黏膜須避免乾燥，同時仍需讓尿液能夠引流，使用無菌、不沾黏的敷料可達成此目的。凡士林紗布會乾燥並沾黏於黏膜上，移除時會損傷脆弱組織；乾燥紗布同樣會使組織乾燥；完全不覆蓋則無法保護脆弱的黏膜。"},
+    "pdf_pages": [537, 538],
+    "tags": ["take action"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "The parents of a newborn just diagnosed with bladder exstrophy are visibly distressed and keep asking why this happened to their baby. Which nursing response is most therapeutic?", "zh": "剛被診斷出膀胱外翻的新生兒父母明顯顯得心煩意亂，不斷詢問為什麼這會發生在他們的寶寶身上。護理師哪項回應最具治療性？"},
+    "options": [
+      {"en": "\"Tell me more about what's worrying you most right now.\"", "zh": "「告訴我，現在最讓你擔心的是什麼？」"},
+      {"en": "\"Try not to worry — the surgeons fix this all the time.\"", "zh": "「別太擔心——醫師常常在處理這種情況。」"},
+      {"en": "\"These things happen; there's nothing anyone could have done.\"", "zh": "「這種事情就是會發生，誰也無能為力。」"},
+      {"en": "\"Let's focus on practical matters like feeding right now instead.\"", "zh": "「我們現在先專注在實際的事情上，比如餵奶就好。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Open-ended questions that invite parents to express their specific fears and concerns are therapeutic and allow the nurse to provide targeted emotional support and information. Minimizing the concern, offering premature reassurance, or redirecting away from their feelings shuts down communication rather than supporting it.", "zh": "開放式問句能邀請家長表達具體的恐懼與擔憂，具有治療性，並讓護理師能提供針對性的情緒支持與資訊。輕描淡寫、過早給予安慰或轉移話題皆會阻斷溝通，而非給予支持。"},
+    "pdf_pages": [538],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "During a confidential portion of a well visit, a sexually active 16-year-old asks the nurse about getting tested for sexually transmitted infections (STIs) without the parent finding out. What is the nurse's best response?", "zh": "在健康檢查的保密談話時段，一名有性行為的16歲青少年詢問護理師是否能在家長不知情的情況下接受性傳染病（STI）篩檢。護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "Explain the clinic's confidentiality policies for adolescent STI screening and arrange the appropriate testing", "zh": "說明診所對青少年STI篩檢的保密政策，並安排適當的檢測"},
+      {"en": "Tell the adolescent that parental consent is always required before any STI testing", "zh": "告知青少年所有STI檢測皆一定需要家長同意"},
+      {"en": "Advise the adolescent to ask the parent to be present before discussing this further", "zh": "建議青少年先請家長到場後再進一步討論"},
+      {"en": "Avoid answering and refer the adolescent to search for information independently online", "zh": "不回答此問題，請青少年自行上網查詢資訊"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Adolescents and certain children are offered screening for specific STIs as part of standard health promotion care, and clinics follow confidentiality protections appropriate to the adolescent's age and the service requested. The nurse should provide accurate information and facilitate screening rather than requiring parental presence or deflecting the question.", "zh": "青少年及某些兒童依標準健康促進照護原則，可接受特定STI的篩檢，診所也會依青少年的年齡及所需服務提供適當的保密保護。護理師應提供正確資訊並協助安排篩檢，而非要求家長必須在場或迴避此問題。"},
+    "pdf_pages": [538],
+    "tags": ["health promotion", "confidentiality"]
+  }
+]

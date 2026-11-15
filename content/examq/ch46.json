@@ -1,0 +1,285 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client's white blood cell (WBC) count is 6000/mm3, and the differential shows that 15% of the WBCs are neutrophils. What is the client's absolute neutrophil count (ANC), and what should the nurse do before administering the scheduled chemotherapy?", "zh": "一名病人白血球（WBC）計數為6000/mm3，分類顯示其中15%為嗜中性白血球。該病人的嗜中性白血球絕對值（ANC）為多少？護理師在給予預定化療前應採取何種行動？"},
+    "options": [
+      {"en": "ANC = 900; withhold the chemotherapy and notify the oncologist", "zh": "ANC = 900；應暫停化療並通知腫瘤科醫師"},
+      {"en": "ANC = 900; administer the chemotherapy as scheduled because the ANC is within normal limits", "zh": "ANC = 900；因ANC在正常範圍內，應依排定時間給藥"},
+      {"en": "ANC = 6150; withhold the chemotherapy because the ANC is critically elevated", "zh": "ANC = 6150；因ANC過高，應暫停化療"},
+      {"en": "ANC = 40; administer the chemotherapy immediately to prevent further decline", "zh": "ANC = 40；應立即給藥以避免further下降"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "ANC is calculated by multiplying the total WBC count by the percentage of neutrophils: 6000 x 0.15 = 900. A normal ANC is over 1000, so 900 indicates neutropenia. Chemotherapy is withheld and the segmented neutrophil count/ANC below the threshold (ANC under 1000 or segmented neutrophils under 18%) requires notifying the oncologist and initiating neutropenic precautions.", "zh": "ANC的計算方式為：白血球總數乘以嗜中性白血球百分比：6000 x 0.15 = 900。正常ANC應大於1000，因此900代表嗜中性白血球低下。當ANC低於1000（或分節嗜中性白血球低於18%）時，應暫停化療，通知腫瘤科醫師並啟動嗜中性白血球低下防護措施。"},
+    "pdf_pages": [652],
+    "tags": ["dosage calc", "labs", "neutropenia"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse in the chemotherapy infusion center reviews a client's laboratory results before administering a scheduled antineoplastic medication and notes an absolute neutrophil count (ANC) of 850. Which action should the nurse take FIRST?", "zh": "化療輸注中心的護理師在給予排定的抗腫瘤藥物前查看病人的檢驗結果，發現嗜中性白血球絕對值（ANC）為850。護理師應優先採取下列哪項行動？"},
+    "options": [
+      {"en": "Administer the chemotherapy as scheduled and recheck the ANC after the infusion", "zh": "依排定時間給予化療，並於輸注後重新檢測ANC"},
+      {"en": "Contact the oncologist to discuss withholding the chemotherapy and obtaining further prescriptions", "zh": "聯繫腫瘤科醫師，討論暫停化療並取得進一步醫囑"},
+      {"en": "Administer the chemotherapy at half the prescribed dose", "zh": "以處方劑量的一半給予化療"},
+      {"en": "Give the client a dose of a broad-spectrum oral antibiotic and then proceed with the infusion", "zh": "給予病人一劑廣效口服抗生素後再進行輸注"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An ANC of 850 is below the normal threshold of 1000 and indicates neutropenia, placing the client at increased risk for infection. The medication is withheld and the nurse contacts the oncologist for further prescriptions before initiating the chemotherapy infusion; the client is instructed on neutropenic precautions. The nurse never independently alters the dose or substitutes an unprescribed antibiotic.", "zh": "ANC 850低於正常門檻1000，代表嗜中性白血球低下，病人感染風險增加。此時應暫停用藥，由護理師聯繫腫瘤科醫師取得進一步醫囑後才開始化療輸注，並指導病人嗜中性白血球低下防護措施。護理師不應自行調整劑量或擅自給予未經處方的抗生素。"},
+    "pdf_pages": [652, 653],
+    "tags": ["first action", "neutropenia", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Thirty minutes into a client's first infusion of an antineoplastic medication, the client reports severe shortness of breath, dizziness, chest tightness, and itching. The nurse recognizes these as signs of an anaphylactic reaction. Which action should the nurse take FIRST?", "zh": "病人在接受第一次抗腫瘤藥物輸注30分鐘後，報告嚴重呼吸困難、暈眩、胸悶與搔癢。護理師辨識此為過敏性反應的徵象。護理師應優先採取下列哪項行動？"},
+    "options": [
+      {"en": "Slow the infusion rate and continue to monitor the client", "zh": "減慢輸注速率並持續觀察病人"},
+      {"en": "Stop the infusion immediately and maintain IV access with normal saline", "zh": "立即停止輸注，並以生理食鹽水維持靜脈通路"},
+      {"en": "Administer an oral antihistamine and recheck vital signs in 15 minutes", "zh": "給予口服抗組織胺，15分鐘後再檢查生命徵象"},
+      {"en": "Document the findings and notify the oncologist at the end of the shift", "zh": "記錄此發現，並於班次結束時通知腫瘤科醫師"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An anaphylactic reaction can occur within seconds to minutes of exposure to an antineoplastic agent and is potentially life-threatening. The first action is to stop the infusion immediately while maintaining IV access with normal saline; the Rapid Response Team and oncologist are then contacted, oxygen is administered, vital signs and respiratory status are monitored closely, and emergency medications such as epinephrine are given as prescribed.", "zh": "過敏性反應可能在接觸抗腫瘤藥物後數秒至數分鐘內發生，具潛在致命性。第一步應立即停止輸注，並以生理食鹽水維持靜脈通路；接著通知快速反應小組與腫瘤科醫師，給予氧氣，密切監測生命徵象與呼吸狀況，並依醫囑給予如腎上腺素等緊急藥物。"},
+    "pdf_pages": [653],
+    "tags": ["first action", "red flag", "requires immediate action", "anaphylaxis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "During an IV infusion of an antineoplastic medication, the client reports pain at the insertion site. The nurse notes redness, swelling, and a slowed infusion rate, and suspects extravasation. Which actions should the nurse take? Select all that apply.", "zh": "病人在接受抗腫瘤藥物靜脈輸注期間，報告注射部位疼痛。護理師注意到局部發紅、腫脹，且輸注速率已變慢，懷疑為藥液外滲（extravasation）。護理師應採取下列哪些行動？（複選）"},
+    "options": [
+      {"en": "Stop the infusion immediately", "zh": "立即停止輸注"},
+      {"en": "Notify the primary health care provider (PHCP)", "zh": "通知醫療人員（PHCP）"},
+      {"en": "Prepare to apply heat or ice to the site, depending on the medication", "zh": "依藥物種類準備於局部施予熱敷或冰敷"},
+      {"en": "Prepare to administer a prescribed antidote into the site", "zh": "準備依醫囑於該部位注射解毒劑"},
+      {"en": "Restart the IV at a more distal site on the same vein and continue the infusion", "zh": "於同一條靜脈較遠端重新建立靜脈通路並繼續輸注"},
+      {"en": "Increase the flow rate to flush the medication through the tissue", "zh": "提高輸注速率，以將藥液沖出組織"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Extravasation is leakage of a vesicant/irritant medication into surrounding skin and subcutaneous tissue that can cause tissue necrosis. The nurse stops the infusion, notifies the PHCP, applies heat or ice depending on the medication, and prepares to administer a prescribed antidote into the site. The IV is never restarted more distally on the same vein (this can force more medication through the damaged area), and the flow rate is never increased at the site of a suspected extravasation.", "zh": "藥液外滲是指刺激性/發疱性藥物滲漏至周圍皮膚與皮下組織，可導致組織壞死。護理師應停止輸注、通知醫療人員，依藥物種類施予熱敷或冰敷，並準備依醫囑於局部注射解毒劑。絕不應於同一條靜脈較遠端重新建立通路繼續輸注（可能將更多藥液推入受損部位），也絕不應於疑似外滲部位提高輸注速率。"},
+    "pdf_pages": [652],
+    "tags": ["sata", "red flag", "extravasation", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is preparing to administer a vesicant antineoplastic medication by the IV route. Which nursing action is MOST important before beginning the infusion through a peripheral IV line?", "zh": "護理師準備經靜脈給予一種發疱性抗腫瘤藥物。若經由周邊靜脈導管給藥，開始輸注前最重要的護理行動為下列何者？"},
+    "options": [
+      {"en": "Confirm that the client has eaten a full meal within the last hour", "zh": "確認病人過去一小時內已完整進食"},
+      {"en": "Check for blood return from the IV line before and during administration", "zh": "給藥前及給藥期間確認靜脈導管有血液回流"},
+      {"en": "Apply a tourniquet above the insertion site for the duration of the infusion", "zh": "在輸注期間於注射部位上方持續綁上止血帶"},
+      {"en": "Increase the infusion rate to minimize the client's exposure time to the medication", "zh": "加快輸注速率，以縮短病人接觸藥物的時間"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Vesicants should be administered through a central line when possible; when a peripheral line must be used, blood return must be checked before and during administration to help confirm proper placement and reduce the risk of extravasation, which causes tissue necrosis.", "zh": "發疱性藥物應盡可能經中央靜脈導管給予；若必須使用周邊靜脈導管，給藥前及給藥期間都應確認血液回流，以協助確認導管位置正確，降低藥液外滲（可造成組織壞死）的風險。"},
+    "pdf_pages": [652],
+    "tags": ["medication safety", "vesicant", "IV therapy"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is receiving cyclophosphamide for breast cancer. Which instruction should the nurse include to help prevent a major adverse effect of this medication?", "zh": "一名病人因乳癌接受cyclophosphamide治療。護理師應提供下列哪項指導，以協助預防此藥物的主要不良反應？"},
+    "options": [
+      {"en": "\"Restrict your fluid intake to 1 L per day while taking this medication.\"", "zh": "「服用此藥期間，請將水分攝取限制在每日1公升以內。」"},
+      {"en": "\"Drink at least 2 to 3 L of fluid per day unless your provider tells you otherwise.\"", "zh": "「除非醫師另有指示，請每日至少攝取2到3公升的液體。」"},
+      {"en": "\"Take this medication with a high-fat meal to improve absorption.\"", "zh": "「請與高脂肪餐一起服用此藥，以提升吸收效果。」"},
+      {"en": "\"Increase your intake of potassium-rich foods while on this medication.\"", "zh": "「服用此藥期間請增加高鉀食物的攝取。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Cyclophosphamide (and ifosfamide) can cause hemorrhagic cystitis and hematuria. The client is instructed to drink increased fluids (2 to 3 L/day) during therapy, unless contraindicated, to reduce this risk; mesna may also be administered with ifosfamide to reduce medication-induced cystitis. Oral cyclophosphamide is taken without food, not with a high-fat meal.", "zh": "Cyclophosphamide（及ifosfamide）可導致出血性膀胱炎與血尿。除非有禁忌，病人在治療期間應增加液體攝取（每日2到3公升）以降低此風險；ifosfamide亦可併用mesna以降低藥物引起的膀胱炎。口服cyclophosphamide應空腹服用，而非與高脂肪餐一起服用。"},
+    "pdf_pages": [654],
+    "tags": ["medication safety", "patient teaching", "alkylating agent"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client receiving cisplatin for treatment of ovarian cancer should be monitored for which adverse effects specific to this medication?", "zh": "一名接受cisplatin治療卵巢癌的病人，應監測下列哪些此藥物特有的不良反應？"},
+    "options": [
+      {"en": "Ototoxicity, tinnitus, and nephrotoxicity", "zh": "耳毒性、耳鳴與腎毒性"},
+      {"en": "Cardiomyopathy and congestive heart failure", "zh": "心肌病變與鬱血性心衰竭"},
+      {"en": "Pulmonary fibrosis", "zh": "肺纖維化"},
+      {"en": "Hemorrhagic cystitis", "zh": "出血性膀胱炎"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cisplatin, a platinum compound, may cause ototoxicity, tinnitus, hypokalemia, hypocalcemia, hypomagnesemia, and nephrotoxicity. The nurse assesses for dizziness, tinnitus, hearing loss, incoordination, and numbness or tingling of the extremities when administering this medication. Cardiomyopathy is associated with doxorubicin/idarubicin, pulmonary fibrosis with bleomycin, and hemorrhagic cystitis with cyclophosphamide/ifosfamide.", "zh": "Cisplatin屬鉑類化合物，可能造成耳毒性、耳鳴、低血鉀、低血鈣、低血鎂與腎毒性。給藥期間應評估病人是否有暈眩、耳鳴、聽力喪失、動作不協調，以及肢端麻木或刺痛感。心肌病變與doxorubicin/idarubicin相關，肺纖維化與bleomycin相關，出血性膀胱炎則與cyclophosphamide/ifosfamide相關。"},
+    "pdf_pages": [654],
+    "tags": ["labs", "medication safety", "alkylating agent"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with acute myelocytic leukemia is being treated with busulfan. Which laboratory value should the nurse monitor specifically for this medication?", "zh": "一名急性骨髓性白血病病人正接受busulfan治療。護理師應針對此藥物特別監測下列哪項檢驗數值？"},
+    "options": [
+      {"en": "Serum uric acid level", "zh": "血清尿酸值"},
+      {"en": "Serum potassium level", "zh": "血清鉀值"},
+      {"en": "Prothrombin time", "zh": "凝血酶原時間"},
+      {"en": "Fasting blood glucose level", "zh": "空腹血糖值"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Busulfan may cause hyperuricemia; the uric acid level is monitored closely, and allopurinol may be prescribed to lower the serum uric acid level in clients receiving antineoplastic therapy for leukemia or lymphoma because of the rapid destruction of cells.", "zh": "Busulfan可能造成高尿酸血症，應密切監測尿酸值；由於白血病或淋巴瘤病人接受抗腫瘤治療時細胞被快速破壞，可能會依醫囑給予allopurinol以降低血清尿酸值。"},
+    "pdf_pages": [654],
+    "tags": ["labs", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is receiving doxorubicin for treatment of non-Hodgkin's lymphoma. Which finding should the nurse recognize as an early sign of a serious adverse effect of this medication?", "zh": "一名病人因非何杰金氏淋巴瘤接受doxorubicin治療。護理師應將下列哪項發現視為此藥物嚴重不良反應的早期徵象？"},
+    "options": [
+      {"en": "Complaints of nausea and vomiting after the infusion", "zh": "輸注後出現噁心與嘔吐"},
+      {"en": "Mouth sores and difficulty swallowing", "zh": "口腔潰瘍與吞嚥困難"},
+      {"en": "New-onset dyspnea, crackles on lung auscultation, and weight gain", "zh": "新發生的呼吸困難、肺部聽診有爆裂音，以及體重增加"},
+      {"en": "Temporary hair thinning", "zh": "暫時性頭髮稀疏"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Doxorubicin (and idarubicin) can cause cardiotoxicity, cardiomyopathy, and ECG changes. The nurse assesses for signs of heart failure, including dyspnea, crackles, peripheral edema, and weight gain, along with dysrhythmias and hypotension. Dexrazoxane, a cardioprotective agent, may be administered with doxorubicin to reduce the risk of cardiomyopathy. Nausea, mouth sores, and alopecia are common but nonspecific chemotherapy effects.", "zh": "Doxorubicin（及idarubicin）可造成心毒性、心肌病變與心電圖變化。護理師應評估心衰竭徵象，包括呼吸困難、肺部爆裂音、周邊水腫與體重增加，以及心律不整與低血壓。Dexrazoxane作為心臟保護劑，可與doxorubicin併用以降低心肌病變風險。噁心、口腔潰瘍與脫髮則屬於較常見但非特異性的化療反應。"},
+    "pdf_pages": [654],
+    "tags": ["red flag", "recognize cues", "cardiotoxicity"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with squamous cell carcinoma is receiving bleomycin. The nurse anticipates that which diagnostic study will be prescribed to monitor for an adverse effect specific to this medication?", "zh": "一名鱗狀細胞癌病人正接受bleomycin治療。護理師預期會安排下列哪項診斷檢查，以監測此藥物特有的不良反應？"},
+    "options": [
+      {"en": "Echocardiography", "zh": "心臟超音波"},
+      {"en": "Pulmonary function studies", "zh": "肺功能檢查"},
+      {"en": "Audiometry", "zh": "聽力檢查"},
+      {"en": "Cystoscopy", "zh": "膀胱鏡檢查"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Pulmonary toxicity can occur with bleomycin. The nurse assesses results of pulmonary function tests, monitors lung sounds for crackles, and monitors pulmonary status throughout therapy.", "zh": "Bleomycin可造成肺毒性。護理師應評估肺功能檢查結果，監測肺部聽診有無爆裂音，並於整個治療期間持續監測呼吸狀況。"},
+    "pdf_pages": [654],
+    "tags": ["labs", "medication safety", "pulmonary toxicity"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is receiving a large dose of methotrexate. The nurse prepares to administer which medication to help prevent methotrexate toxicity?", "zh": "一名病人接受大劇量methotrexate治療。護理師準備給予下列哪種藥物，以協助預防methotrexate毒性？"},
+    "options": [
+      {"en": "Leucovorin", "zh": "Leucovorin（甲醯四氫葉酸）"},
+      {"en": "Mesna", "zh": "Mesna"},
+      {"en": "Allopurinol", "zh": "Allopurinol"},
+      {"en": "Dexrazoxane", "zh": "Dexrazoxane"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "When administering methotrexate in large doses, leucovorin is prepared and given as prescribed to prevent toxicity; this is known as leucovorin rescue. Mesna is used to reduce ifosfamide-induced cystitis, allopurinol lowers uric acid levels, and dexrazoxane is a cardioprotective agent used with doxorubicin.", "zh": "當methotrexate以大劇量給予時，應依醫囑準備並給予leucovorin以預防毒性，此做法稱為「leucovorin rescue」。Mesna用於降低ifosfamide引起的膀胱炎，allopurinol用於降低尿酸值，dexrazoxane則為與doxorubicin併用的心臟保護劑。"},
+    "pdf_pages": [655],
+    "tags": ["medication safety", "antidote", "antimetabolite"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving fluorouracil asks the nurse about activity restrictions. Which instruction should the nurse provide?", "zh": "一名接受fluorouracil治療的病人詢問護理師關於活動限制的問題。護理師應提供下列哪項指導？"},
+    "options": [
+      {"en": "\"Avoid sun exposure and use sunscreen and protective clothing.\"", "zh": "「應避免曝曬陽光，並使用防曬產品與防護衣物。」"},
+      {"en": "\"It is fine to spend extended time in direct sunlight without sunscreen.\"", "zh": "「可以長時間在陽光下曝曬，不需使用防曬產品。」"},
+      {"en": "\"Avoid drinking more than 1 L of fluid per day.\"", "zh": "「每日液體攝取不應超過1公升。」"},
+      {"en": "\"You may resume contact sports immediately after each treatment.\"", "zh": "「每次治療後可立即恢復接觸性運動。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Fluorouracil may cause phototoxicity reactions as well as cerebellar dysfunction (dizziness, weakness, ataxia), stomatitis, and diarrhea. The client is instructed to use sunscreen and wear protective clothing to prevent photosensitivity reactions when receiving fluorouracil or methotrexate.", "zh": "Fluorouracil可能造成光毒性反應，以及小腦功能障礙（暈眩、無力、步態不穩）、口腔黏膜炎與腹瀉。接受fluorouracil或methotrexate治療的病人應被指導使用防曬產品並穿著防護衣物，以預防光敏感反應。"},
+    "pdf_pages": [655],
+    "tags": ["patient teaching", "medication safety", "photosensitivity"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving vincristine reports new numbness and tingling in the fingers and toes and has not had a bowel movement in 4 days with a distended, tympanic abdomen. The nurse recognizes these findings as consistent with which medication-related complication?", "zh": "一名接受vincristine治療的病人，報告手指與腳趾出現新發的麻木與刺痛感，且4天未排便，腹部膨脹並呈鼓音。護理師應辨識此為下列哪種藥物相關併發症？"},
+    "options": [
+      {"en": "Hemorrhagic cystitis", "zh": "出血性膀胱炎"},
+      {"en": "Peripheral neurotoxicity progressing toward paralytic ileus", "zh": "周邊神經毒性進展至麻痺性腸阻塞"},
+      {"en": "Cardiotoxicity", "zh": "心毒性"},
+      {"en": "Ototoxicity", "zh": "耳毒性"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Vincristine, a vinca alkaloid, is associated with neurotoxicity manifested as numbness and tingling in the fingers and toes, as well as constipation that can progress to paralytic ileus. The nurse monitors for these findings and for motor instability, ptosis, and hoarseness, and initiates safety precautions as needed.", "zh": "Vincristine屬長春花鹼類藥物，與神經毒性相關，表現為手指與腳趾的麻木刺痛感，以及可能進展為麻痺性腸阻塞的便秘。護理師應監測這些徵象，以及運動不穩定、眼皮下垂與聲音嘶啞，並依需要啟動安全防護措施。"},
+    "pdf_pages": [655],
+    "tags": ["red flag", "recognize cues", "neurotoxicity"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews the medical history of a client scheduled to receive asparaginase. Which documented condition should the nurse report to the primary health care provider (PHCP) before administering the medication?", "zh": "護理師查閱一名即將接受asparaginase治療病人的病史。下列哪項已記錄的病況，護理師應在給藥前報告給醫療人員（PHCP）？"},
+    "options": [
+      {"en": "Pancreatitis", "zh": "胰臟炎"},
+      {"en": "Seasonal allergies", "zh": "季節性過敏"},
+      {"en": "Osteoarthritis", "zh": "骨關節炎"},
+      {"en": "Hyperopia", "zh": "遠視"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Asparaginase can impair pancreatic function, so a history of pancreatitis is reported to the PHCP before the medication is administered. Pancreatic function is monitored throughout therapy.", "zh": "Asparaginase可能影響胰臟功能，因此若病史有胰臟炎，應在給藥前報告給醫療人員。治療期間應持續監測胰臟功能。"},
+    "pdf_pages": [656],
+    "tags": ["medication safety", "contraindication"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with metastatic breast cancer is receiving tamoxifen citrate. Which finding should the nurse monitor for as an adverse effect of this medication?", "zh": "一名轉移性乳癌病人正接受tamoxifen citrate治療。護理師應監測下列哪項發現，視為此藥物的不良反應？"},
+    "options": [
+      {"en": "Hypoglycemia", "zh": "低血糖"},
+      {"en": "Elevated cholesterol and triglyceride levels and signs of venous thromboembolism", "zh": "膽固醇與三酸甘油酯值升高，以及靜脈血栓栓塞的徵象"},
+      {"en": "Decreased serum calcium level", "zh": "血清鈣值降低"},
+      {"en": "Prolonged bleeding time", "zh": "出血時間延長"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Tamoxifen citrate may cause edema, hypercalcemia, and elevated cholesterol and triglyceride levels, and it increases the risk of venous thromboembolism, particularly in older clients. The nurse monitors for leg swelling, pain, or shortness of breath, which could indicate a thromboembolic event, as well as lipid and calcium levels.", "zh": "Tamoxifen citrate可能造成水腫、高血鈣，以及膽固醇與三酸甘油酯值升高，並會增加靜脈血栓栓塞的風險，尤其在高齡病人中更為明顯。護理師應監測下肢腫脹、疼痛或呼吸困難等可能提示血栓栓塞事件的徵象，並監測血脂與血鈣值。"},
+    "pdf_pages": [656],
+    "tags": ["labs", "medication safety", "hormonal therapy"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client scheduled to begin combination chemotherapy says to the nurse, \"I'm so scared I'll lose all my hair and never be able to have children.\" Which nursing actions are MOST appropriate? Select all that apply.", "zh": "一名即將開始聯合化療的病人對護理師說：「我很害怕我會掉光頭髮，而且再也無法生小孩。」護理師下列哪些行動最為適當？（複選）"},
+    "options": [
+      {"en": "Discuss the option of purchasing a wig or cutting the hair short before treatment begins", "zh": "討論在治療開始前購買假髮或剪短頭髮的選項"},
+      {"en": "Reassure the client that hair loss and infertility never occur with chemotherapy", "zh": "向病人保證化療絕不會造成脫髮或不孕"},
+      {"en": "Inform the client that new hair growth typically occurs several months after the final treatment", "zh": "告知病人治療結束後數個月，通常會重新長出頭髮"},
+      {"en": "Encourage pretreatment counseling and discuss sperm banking or egg preservation if the client is of childbearing age", "zh": "鼓勵治療前諮詢，並與育齡病人討論精子冷凍或卵子保存的選項"},
+      {"en": "Tell the client that infertility from chemotherapy is always temporary and fully reversible", "zh": "告知病人化療造成的不孕永遠是暫時性且可完全恢復的"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "The nurse should instruct the client about the possibility of varying degrees of hair loss, discuss purchasing a wig or cutting hair short, and inform the client that new hair growth occurs several months after the final treatment. The nurse should also discuss the potential effect of infertility, which may be irreversible, and encourage pretreatment counseling and sperm banking or egg preservation. It is inaccurate and nontherapeutic to tell the client these effects never occur or are always reversible.", "zh": "護理師應告知病人可能出現不同程度的脫髮，討論購買假髮或剪短頭髮的選項，並告知治療結束後數個月通常會重新長出頭髮。護理師也應討論不孕的可能影響（此影響可能是不可逆的），並鼓勵治療前諮詢及精子冷凍或卵子保存。告知病人這些效果絕不會發生或必定可逆，既不正確也不具治療性。"},
+    "pdf_pages": [653],
+    "tags": ["sata", "therapeutic communication", "psychosocial"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is caring for a client who develops severe neutropenia after a cycle of chemotherapy. The PHCP prescribes filgrastim. What is the expected purpose of this medication?", "zh": "護理師照護一名化療後出現嚴重嗜中性白血球低下的病人。醫療人員開立filgrastim。此藥物預期的用途為下列何者？"},
+    "options": [
+      {"en": "To directly kill remaining malignant cells", "zh": "直接殺死殘留的惡性細胞"},
+      {"en": "To stimulate more rapid bone marrow recovery after chemotherapy-induced suppression", "zh": "刺激骨髓在化療抑制後更快速地恢復造血功能"},
+      {"en": "To prevent nausea and vomiting associated with chemotherapy", "zh": "預防化療相關的噁心與嘔吐"},
+      {"en": "To reverse chemotherapy-induced cardiotoxicity", "zh": "逆轉化療引起的心毒性"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Filgrastim is a granulocyte colony-stimulating factor. Colony-stimulating factors induce more rapid bone marrow recovery after suppression by chemotherapy, helping to restore white blood cell counts and reduce the duration and severity of neutropenia.", "zh": "Filgrastim為顆粒性白血球群落刺激因子。群落刺激因子可在化療抑制骨髓後，促使骨髓更快速恢復造血功能，協助恢復白血球數目並縮短嗜中性白血球低下的持續時間與嚴重度。"},
+    "pdf_pages": [652, 657],
+    "tags": ["medication safety", "colony-stimulating factor"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is about to receive a first dose of a monoclonal antibody (such as rituximab) as part of targeted cancer therapy. Which nursing action is MOST important during the infusion?", "zh": "一名病人即將接受單株抗體（如rituximab）作為目標治療的第一劑。輸注期間護理師最重要的行動為下列何者？"},
+    "options": [
+      {"en": "Administer the full dose rapidly to minimize the client's time connected to the IV pump", "zh": "快速給予全劑量，以縮短病人連接輸液泵的時間"},
+      {"en": "Remain with the client and closely monitor for signs of an allergic or infusion reaction", "zh": "陪伴病人並密切監測有無過敏或輸注反應的徵象"},
+      {"en": "Discontinue continuous vital sign monitoring once the infusion begins successfully", "zh": "一旦輸注順利開始，即可停止持續監測生命徵象"},
+      {"en": "Allow the client to go to the cafeteria unaccompanied during the infusion", "zh": "允許病人在輸注期間獨自前往餐廳"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Monoclonal antibodies used in targeted therapy carry a risk of allergic/hypersensitivity reactions. As with other antineoplastic agents at risk for anaphylaxis, the nurse should stay with the client during administration, monitor vital signs closely, and have emergency equipment and medications readily available.", "zh": "用於目標治療的單株抗體具有過敏/過敏性反應的風險。如同其他有過敏性反應風險的抗腫瘤藥物，護理師應於給藥期間陪伴病人、密切監測生命徵象，並隨時備妥急救設備與藥物。"},
+    "pdf_pages": [653, 657],
+    "tags": ["medication safety", "targeted therapy", "anaphylaxis"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is reviewing laboratory results for several clients receiving antineoplastic medications. For which client should the nurse initiate bleeding precautions and notify the PHCP regarding the scheduled medication?", "zh": "護理師查看多位正接受抗腫瘤藥物治療病人的檢驗結果。下列哪位病人，護理師應啟動出血防護措施並就排定用藥通知醫療人員？"},
+    "options": [
+      {"en": "Platelet count of 150,000 mm3 (150 x 10^9/L)", "zh": "血小板150,000 mm3（150 x 10^9/L）"},
+      {"en": "Platelet count of 110,000 mm3 (110 x 10^9/L)", "zh": "血小板110,000 mm3（110 x 10^9/L）"},
+      {"en": "Platelet count of 18,000 mm3 (18 x 10^9/L)", "zh": "血小板18,000 mm3（18 x 10^9/L）"},
+      {"en": "White blood cell count of 6000 mm3 (6.0 x 10^9/L)", "zh": "白血球6000 mm3（6.0 x 10^9/L）"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "When the platelet count is less than 50,000 mm3, minor trauma can lead to prolonged bleeding; when it is less than 20,000 mm3, spontaneous and uncontrollable bleeding can occur. A platelet count of 18,000 mm3 requires bleeding precautions, and the medication is withheld per agency policy with the PHCP notified. A normal WBC count of 6000 mm3 does not indicate a need for bleeding precautions.", "zh": "當血小板低於50,000 mm3時，輕微創傷即可導致出血時間延長；低於20,000 mm3時，可能發生自發性且難以控制的出血。血小板18,000 mm3即需啟動出血防護措施，並依機構政策暫停用藥並通知醫療人員。白血球6000 mm3屬正常值，不需啟動出血防護措施。"},
+    "pdf_pages": [652],
+    "tags": ["labs", "red flag", "bleeding precautions"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client who is about to start antineoplastic chemotherapy. Which statement by the client indicates a need for further teaching?", "zh": "護理師對一名即將開始接受抗腫瘤化療的病人進行衛教。病人下列哪項說法顯示其仍需加強指導？"},
+    "options": [
+      {"en": "\"I will consult my provider before getting any vaccinations while on chemotherapy.\"", "zh": "「在接受化療期間，我會先徵詢醫療人員意見再接種任何疫苗。」"},
+      {"en": "\"I will avoid aspirin and aspirin-containing products to reduce my risk of bleeding.\"", "zh": "「我會避免使用阿斯匹靈及含阿斯匹靈的產品，以降低出血風險。」"},
+      {"en": "\"It's fine for me to get a flu shot at a community health fair without checking with my provider first, since the flu is so contagious.\"", "zh": "「流感傳染性這麼強，所以我可以直接去社區健康園遊會接種流感疫苗，不需要先問過醫療人員。」"},
+      {"en": "\"I will avoid crowds and people who are sick while my blood counts are low.\"", "zh": "「在我的血球數偏低期間，我會避免人群和生病的人。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Because antineoplastic medications lower the body's resistance, clients must consult the PHCP before receiving any vaccination (live vaccines are avoided), and should avoid aspirin-containing products and crowds/persons with infection. The statement about receiving a flu shot at a health fair without PHCP approval reflects a misunderstanding and requires further teaching.", "zh": "由於抗腫瘤藥物會降低身體的抵抗力，病人在接種任何疫苗前都必須先徵詢醫療人員意見（應避免接種活病毒疫苗），並應避免使用含阿斯匹靈的產品，也應避免人群與感染者接觸。「可自行在健康園遊會接種流感疫苗而不需醫師核准」的說法顯示認知有誤，需要加強指導。"},
+    "pdf_pages": [653],
+    "tags": ["patient teaching", "evaluate outcomes", "safety"]
+  }
+]

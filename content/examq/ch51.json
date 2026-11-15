@@ -1,0 +1,246 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client receiving mechanical ventilation with positive end-expiratory pressure (PEEP) who suddenly develops absent breath sounds on the right side, tracheal deviation to the left, distended neck veins, and a blood pressure of 78/42 mm Hg. Which action should the nurse take first?", "zh": "護理師正在照護一位接受機械通氣合併正壓呼吸末期陽壓(PEEP)的病人，病人突然出現右側呼吸音消失、氣管偏向左側、頸靜脈擴張，血壓為78/42 mmHg。護理師首先應採取下列哪項行動？"},
+    "options": [
+      {"en": "Increase the FiO2 setting on the ventilator.", "zh": "提高呼吸機的FiO2設定。"},
+      {"en": "Call for help and prepare for emergency chest decompression.", "zh": "呼叫支援並準備緊急胸腔減壓。"},
+      {"en": "Reposition the client onto the left side.", "zh": "將病人翻向左側臥位。"},
+      {"en": "Obtain a stat portable chest x-ray before taking further action.", "zh": "先取得床邊胸部X光後再採取進一步行動。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These findings (absent breath sounds, tracheal deviation away from the affected side, distended neck veins, and hypotension) are classic for tension pneumothorax, a life-threatening emergency caused by a buildup of positive pressure in the pleural space, often from PEEP. The nurse must summon immediate help so that emergency needle decompression or chest tube insertion can occur without delay; waiting for an x-ray or repositioning the client would delay life-saving treatment.", "zh": "這些發現（呼吸音消失、氣管偏向健側、頸靜脈擴張、低血壓）是張力性氣胸的典型表現，這是因胸膜腔內正壓堆積（常見於使用PEEP）所致的危及生命的急症。護理師必須立即呼叫支援，以便立即進行緊急針刺減壓或放置胸管；等待X光或翻身會延誤救命治療。"},
+    "pdf_pages": [760, 761],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client involved in a motor vehicle collision has multiple rib fractures on the right side. On assessment, the nurse observes a section of the right chest wall moving inward during inspiration and outward during expiration, opposite the movement of the rest of the chest wall. The nurse documents this finding as a sign of which complication?", "zh": "一位因車禍導致右側多發性肋骨骨折的病人，護理師評估時觀察到右側胸壁某一節段在吸氣時向內凹陷，呼氣時向外突出，與其餘胸壁的運動方向相反。護理師應將此發現記錄為下列哪項併發症的徵象？"},
+    "options": [
+      {"en": "Hemothorax", "zh": "血胸"},
+      {"en": "Flail chest", "zh": "連枷胸（浮動胸壁）"},
+      {"en": "Pulmonary contusion", "zh": "肺挫傷"},
+      {"en": "Simple pneumothorax", "zh": "單純性氣胸"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Paradoxical chest wall movement, in which a free-floating segment of ribs moves inward on inspiration and outward on expiration, is the hallmark finding of flail chest resulting from multiple adjacent rib fractures. Hemothorax, pulmonary contusion, and simple pneumothorax do not produce this distinctive paradoxical movement.", "zh": "矛盾性胸壁運動（浮動的肋骨節段在吸氣時向內移動、呼氣時向外移動）是多根鄰近肋骨骨折所造成連枷胸的標誌性表現。血胸、肺挫傷及單純性氣胸都不會出現這種特殊的矛盾運動。"},
+    "pdf_pages": [759, 760],
+    "tags": ["assessment", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is assessing a client who is 2 days postoperative following hip replacement surgery and is at risk for pulmonary embolism. Which findings would require the nurse to notify the primary health care provider (PHCP) immediately? Select all that apply.", "zh": "護理師正在評估一位髖關節置換術後第2天、有肺栓塞風險的病人。下列哪些發現需要護理師立即通知主治醫師（PHCP)？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Sudden onset of sharp chest pain that worsens with inspiration", "zh": "突然發生、吸氣時加劇的劇烈胸痛"},
+      {"en": "Petechiae noted over the chest and axilla", "zh": "胸部及腋下出現瘀點"},
+      {"en": "Respiratory rate of 14 breaths/min", "zh": "呼吸速率每分鐘14次"},
+      {"en": "A feeling of impending doom", "zh": "有一種大難臨頭的感覺"},
+      {"en": "Oxygen saturation of 98% on room air", "zh": "在室內空氣下血氧飽和度98%"},
+      {"en": "Blood-tinged sputum", "zh": "帶血絲的痰液"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Classic manifestations of pulmonary embolism include sudden pleuritic chest pain, petechiae over the chest and axilla, apprehension or a feeling of impending doom, hemoptysis (blood-tinged sputum), tachypnea, tachycardia, and hypotension. A respiratory rate of 14 breaths/min and an oxygen saturation of 98% are within normal limits and would not be reported as emergent findings.", "zh": "肺栓塞的典型表現包括突發性肋膜性胸痛、胸部及腋下瘀點、焦慮不安或大難臨頭的感覺、血痰（咳血）、呼吸急促、心搏過速及低血壓。呼吸速率每分鐘14次及血氧飽和度98%都在正常範圍內，不需作為緊急發現通報。"},
+    "pdf_pages": [767],
+    "tags": ["sata", "red flag", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is being evaluated for suspected pulmonary embolism, and the PHCP prescribes a D-dimer blood test. The result is reported as 620 ng/mL. How should the nurse interpret this finding?", "zh": "一位疑似肺栓塞的病人正在接受評估，醫師開立D-dimer血液檢驗，結果為620 ng/mL。護理師應如何解讀此結果？"},
+    "options": [
+      {"en": "It is a normal result, and no further testing is needed.", "zh": "這是正常結果，不需要進一步檢查。"},
+      {"en": "It is elevated, which is consistent with possible clot formation and warrants further diagnostic testing.", "zh": "此數值偏高，符合可能有血栓形成，需要進一步診斷性檢查。"},
+      {"en": "It confirms the client has disseminated intravascular coagulation.", "zh": "此結果可確診病人患有瀰漫性血管內凝血（DIC)。"},
+      {"en": "It indicates that anticoagulation therapy is subtherapeutic.", "zh": "此結果表示抗凝血治療劑量不足。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The normal D-dimer level is less than 50 ng/mL. A D-dimer has high sensitivity but low specificity for clot formation, so an elevated level supports but does not confirm a diagnosis such as pulmonary embolism, deep vein thrombosis, or disseminated intravascular coagulation; additional diagnostic testing (e.g., CT pulmonary angiography) is needed.", "zh": "D-dimer的正常值低於50 ng/mL。D-dimer對血栓形成具有高敏感度但低特異度，因此數值偏高只能支持、但不能確診肺栓塞、深層靜脈栓塞或瀰漫性血管內凝血等診斷，仍需要進一步的診斷性檢查（例如電腦斷層肺血管攝影）。"},
+    "pdf_pages": [759],
+    "tags": ["labs", "diagnostic test"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client having a severe asthma exacerbation. Which assessment finding is most concerning and requires immediate intervention?", "zh": "護理師正在照護一位嚴重氣喘急性發作的病人。下列哪項評估發現最令人擔憂，需要立即處理？"},
+    "options": [
+      {"en": "Loud expiratory wheezing heard throughout both lung fields", "zh": "雙側肺野皆可聽到明顯的呼氣喘鳴聲"},
+      {"en": "Absence of wheezing with markedly diminished breath sounds", "zh": "喘鳴聲消失，且呼吸音明顯減弱"},
+      {"en": "Respiratory rate of 28 breaths/min", "zh": "呼吸速率每分鐘28次"},
+      {"en": "Use of accessory muscles to breathe", "zh": "使用呼吸輔助肌呼吸"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Silent breath sounds (absence of wheezing with diminished or absent breath sounds) during an acute asthma exacerbation indicate impending respiratory failure from diffuse bronchospasm and are a life-threatening finding, not a sign of improvement. Wheezing, tachypnea, and accessory muscle use are expected findings in an asthma exacerbation but are less urgent than a silent chest.", "zh": "急性氣喘發作時出現「寂靜胸」（喘鳴聲消失合併呼吸音減弱或消失）表示瀰漫性支氣管痉攣所致的呼吸衰竭即將發生，是危及生命的徵象，並非病情改善的表現。喘鳴、呼吸急促及使用呼吸輔助肌雖是氣喘發作時的常見表現，但緊急程度低於寂靜胸。"},
+    "pdf_pages": [761],
+    "tags": ["red flag", "requires immediate action", "recognize cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client with asthma about common triggers for an exacerbation. Which items would the nurse include as potential triggers? Select all that apply.", "zh": "護理師正在教導一位氣喘病人關於常見發作誘因的知識。護理師應將下列哪些項目納入可能的誘因？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Cold, dry air", "zh": "寒冷乾燥的空氣"},
+      {"en": "Sudden weather changes", "zh": "天氣突然變化"},
+      {"en": "A nonselective beta-adrenergic blocker", "zh": "非選擇性乙型腎上腺素受體阻斷劑"},
+      {"en": "Drinking adequate water throughout the day", "zh": "整天攝取足夠的水分"},
+      {"en": "Aspirin-containing products", "zh": "含阿斯匹靈成分的藥品"},
+      {"en": "Eating a variety of fresh fruit", "zh": "食用多種新鮮水果"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Known asthma triggers include environmental factors such as cold, dry air and sudden weather changes, as well as medications such as nonselective beta-adrenergic blockers, aspirin, and nonsteroidal antiinflammatory drugs. Adequate hydration and eating fresh fruit are not triggers and are generally part of healthy self-care.", "zh": "已知的氣喘誘因包括環境因素，如寒冷乾燥的空氣及天氣突然變化，以及藥物因素，如非選擇性乙型腎上腺素受體阻斷劑、阿斯匹靈及非類固醇消炎藥。攝取足夠水分及食用新鮮水果並非誘因，一般屬於健康自我照顧的一部分。"},
+    "pdf_pages": [762],
+    "tags": ["patient education", "sata"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse teaches a client with chronic obstructive pulmonary disease (COPD) to use pursed-lip breathing. What is the expected benefit of this technique?", "zh": "護理師教導一位慢性阻塞性肺疾病（COPD)病人使用吐氣縮唇呼吸法。此技巧預期能帶來下列哪項效益？"},
+    "options": [
+      {"en": "It increases airway pressure during exhalation, helping keep airways open and promoting more complete carbon dioxide expiration.", "zh": "可增加呼氣時的呼吸道內壓，有助維持呼吸道暢通，並促進更完全地呼出二氧化碳。"},
+      {"en": "It increases the overall respiratory rate to compensate for airway obstruction.", "zh": "可增加整體呼吸速率以代償呼吸道阻塞。"},
+      {"en": "It decreases oxygen demand by encouraging rapid, shallow breaths.", "zh": "透過促使快速淺呼吸來降低氧氣需求。"},
+      {"en": "It increases residual volume trapped in the alveoli.", "zh": "增加肺泡內滯留的肺餘量。"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Pursed-lip breathing increases airway pressure during exhalation, which helps keep the airways open longer and promotes more complete exhalation of carbon dioxide, a key problem in COPD. It is a slow, controlled technique, not a rapid one, and it is not intended to increase air trapping.", "zh": "吐氣縮唇呼吸法可增加呼氣時的呼吸道內壓，有助延長呼吸道的開放時間，並促進更完全地呼出二氧化碳，這正是COPD的主要問題之一。此技巧是緩慢而有控制的呼吸方式，而非快速呼吸，目的也不是增加氣體滯留。"},
+    "pdf_pages": [763],
+    "tags": ["nonpharmacologic comfort", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews the arterial blood gas results of a client with a long-standing diagnosis of COPD: pH 7.30, PaCO2 62 mm Hg, HCO3 24 mEq/L (24 mmol/L). How should the nurse interpret this finding?", "zh": "護理師查看一位長期診斷為COPD病人的動脈血液氣體分析結果：pH 7.30，PaCO2 62 mmHg，HCO3 24 mEq/L（24 mmol/L）。護理師應如何解讀此結果？"},
+    "options": [
+      {"en": "Compensated respiratory acidosis, an expected baseline finding", "zh": "代償性呼吸性酸中毒，屬於預期的基準表現"},
+      {"en": "Uncompensated respiratory acidosis, generally indicating an acute exacerbation of COPD", "zh": "未代償性呼吸性酸中毒，通常表示COPD急性惡化"},
+      {"en": "Metabolic alkalosis caused by excessive diuretic use", "zh": "因過度使用利尿劑導致的代謝性鹼中毒"},
+      {"en": "A normal arterial blood gas result for a client with COPD", "zh": "對COPD病人而言屬於正常的動脈血液氣體結果"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An uncompensated respiratory acidosis (low pH with elevated PaCO2 and a bicarbonate level that has not risen to compensate) in a client with COPD generally indicates an acute exacerbation and should prompt further assessment and intervention, not be dismissed as baseline or normal.", "zh": "COPD病人出現未代償性呼吸性酸中毒（pH偏低、PaCO2升高，且HCO3尚未代償性上升）通常表示急性惡化，應促使護理師進一步評估及處置，而不應視為基準值或正常表現而忽略。"},
+    "pdf_pages": [762],
+    "tags": ["labs", "abg", "recognize cues"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client with emphysema reports increasing dyspnea. Which position would the nurse encourage the client to assume to ease the work of breathing?", "zh": "一位肺氣腫病人報告呼吸困難加重。護理師應鼓勵病人採取下列哪種姿勢以減輕呼吸負擔？"},
+    "options": [
+      {"en": "Supine with the legs elevated", "zh": "平躺並將雙腿抬高"},
+      {"en": "Side-lying with the head of the bed flat", "zh": "側臥且床頭放平"},
+      {"en": "Sitting up and leaning forward with the arms resting on an overbed table", "zh": "坐起並向前傾，雙臂支撐在床上餐桌上"},
+      {"en": "Trendelenburg position", "zh": "頭低腳高姿勢"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Clients with COPD/emphysema breathe more easily in a high-Fowler's or forward-leaning position with the arms supported on an overbed table or the knees, which allows better use of accessory muscles and diaphragmatic excursion. Supine, flat side-lying, and Trendelenburg positions worsen dyspnea by reducing diaphragmatic excursion and increasing venous return to the thorax.", "zh": "COPD／肺氣腫病人在高坐臥位或前傾坐姿、雙臂支撐於床上餐桌或膝上時呼吸較為輕鬆，因為這種姿勢能更有效運用呼吸輔助肌並增加橫膈活動度。平躺、床頭放平側臥及頭低腳高姿勢都會減少橫膈活動度並增加胸腔靜脈回流，使呼吸困難加重。"},
+    "pdf_pages": [764],
+    "tags": ["positioning", "comfort"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with pneumonia who develops a sudden increase in respiratory rate to 32 breaths/min, an oxygen saturation of 88%, and new-onset confusion. What is the nurse's priority action?", "zh": "護理師正在照護一位肺炎病人，病人突然呼吸速率上升至每分鐘32次、血氧飽和度88%，並出現新發的意識混亂。護理師的優先行動是下列哪一項？"},
+    "options": [
+      {"en": "Encourage the client to use the incentive spirometer.", "zh": "鼓勵病人使用誘發性肺量計。"},
+      {"en": "Notify the PHCP and prepare to administer supplemental oxygen.", "zh": "通知主治醫師並準備給予補充氧氣。"},
+      {"en": "Reposition the client onto the unaffected side.", "zh": "將病人翻向未患側臥位。"},
+      {"en": "Obtain a sputum culture before any other action.", "zh": "在採取其他行動前先採集痰液培養。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A sudden drop in oxygen saturation with tachypnea and new confusion signals worsening hypoxemia and respiratory compromise. The priority is to notify the PHCP and administer supplemental oxygen as prescribed; incentive spirometry, repositioning, and sputum collection are appropriate but are not the priority when acute hypoxemia and altered mental status are present.", "zh": "血氧飽和度突然下降合併呼吸急促及新發意識混亂，表示缺氧情形惡化及呼吸功能受損。優先行動是通知主治醫師並依醫囑給予補充氧氣；誘發性肺量計、翻身及採集痰液培養雖為適當措施，但在急性缺氧合併意識改變的情況下並非優先事項。"},
+    "pdf_pages": [764],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse must delegate a task related to care of a stable, ambulatory client with active pulmonary tuberculosis who is on airborne precautions. Which task is most appropriate to delegate to an unlicensed assistive personnel (UAP) who has been fitted for a particulate respirator?", "zh": "護理師必須將一項照護任務分派給他人，照護對象是一位穩定、可自行走動且正接受空氣傳染防護措施的活動性肺結核病人。下列哪項任務最適合分派給已完成微粒口罩密合測試的非專業輔助人員（UAP)？"},
+    "options": [
+      {"en": "Assisting the client with a bed bath after donning a particulate respirator and gown", "zh": "穿戴好微粒口罩及隔離衣後協助病人進行床上擦澡"},
+      {"en": "Teaching the client about the need for a 6- to 12-month course of medication", "zh": "教導病人關於需要接受6至12個月藥物療程的知識"},
+      {"en": "Obtaining a sputum sample for acid-fast bacilli culture", "zh": "採集痰液樣本進行耐酸性桿菌培養"},
+      {"en": "Auscultating breath sounds before and after a nebulizer treatment", "zh": "在噴霧治療前後聽診呼吸音"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Assisting with basic hygiene care is within the scope of a trained UAP who has been properly fitted for a particulate respirator and uses correct personal protective equipment. Client teaching, specimen collection requiring clinical judgment, and respiratory assessment are nursing responsibilities that require the education and judgment of a licensed nurse and should not be delegated to a UAP.", "zh": "協助基本衛生照護屬於已完成微粒口罩密合測試並正確使用個人防護裝備的受訓UAP職責範圍。病人教育、需臨床判斷的檢體採集及呼吸評估屬於需要具執照護理師教育背景及臨床判斷的護理職責，不應分派給UAP。"},
+    "pdf_pages": [770],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with no known HIV infection and no other risk factors for tuberculosis undergoes a tuberculin skin test. At 48 hours, the nurse measures 13 mm of induration at the injection site. How should the nurse interpret this result?", "zh": "一位無已知HIV感染且無其他結核病風險因子的病人接受結核菌素皮膚試驗，48小時後護理師測量注射部位的硬結（induration）為13 mm。護理師應如何解讀此結果？"},
+    "options": [
+      {"en": "Negative", "zh": "陰性"},
+      {"en": "Positive", "zh": "陽性"},
+      {"en": "Inconclusive; the test should be repeated in 1 week", "zh": "結果不明確，應於1週後重複檢測"},
+      {"en": "Indicates active, contagious disease", "zh": "表示病人患有具傳染性的活動性疾病"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A client without HIV infection is considered to have a positive tuberculin skin test result when the area of induration is larger than 10 mm. A positive skin test indicates previous exposure to tuberculosis or inactive (dormant) disease; it does not by itself confirm active disease, which requires further evaluation such as a chest x-ray and sputum culture.", "zh": "無HIV感染的病人若硬結面積大於10 mm，則視為結核菌素皮膚試驗陽性。陽性皮膚試驗表示曾暴露於結核菌或存在非活動性（潛伏性）疾病，本身並不能確診活動性疾病，仍需進一步評估，如胸部X光及痰液培養。"},
+    "pdf_pages": [770],
+    "tags": ["diagnostic test", "labs"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse provides discharge teaching for a client who has completed 3 weeks of medication therapy for tuberculosis. Which statements by the client indicate correct understanding of the teaching? Select all that apply.", "zh": "護理師為一位已完成3週結核病藥物治療的病人提供出院指導。下列哪些病人的陳述顯示其正確理解指導內容？請選出所有適用的選項。"},
+    "options": [
+      {"en": "\"I will take my medication exactly as prescribed, possibly for up to 12 months.\"", "zh": "「我會完全依照醫囑服藥，療程可能長達12個月。」"},
+      {"en": "\"I must remain in strict respiratory isolation at home, away from my family.\"", "zh": "「我在家中必須採取嚴格的呼吸道隔離，遠離家人。」"},
+      {"en": "\"I should cover my mouth and nose when coughing or sneezing and put used tissues in a plastic bag.\"", "zh": "「咳嗽或打噴嚏時我應遮住口鼻，並將用過的衛生紙放入塑膠袋中。」"},
+      {"en": "\"I am much less likely to transmit the infection to others after this much therapy.\"", "zh": "「經過這麼長的治療後，我將他人感染的可能性大幅降低。」"},
+      {"en": "\"I can resume all of my normal activities immediately at full intensity.\"", "zh": "「我可以立即恢復所有日常活動並達到原本的強度。」"},
+      {"en": "\"I should eat a diet that is high in protein, iron, and vitamin C.\"", "zh": "「我應攝取高蛋白質、高鐵及高維生素C的飲食。」"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "Tuberculosis medication therapy may continue for up to 12 months. After 2 to 3 weeks of effective therapy, the client is unlikely to infect others, so strict home respiratory isolation from family is not necessary because family members have typically already been exposed. Good respiratory hygiene (covering the mouth/nose, discarding tissues properly) and a diet rich in protein, iron, and vitamin C to promote healing should continue. Activities should be resumed gradually, not immediately at full intensity.", "zh": "結核病藥物治療可能持續長達12個月。有效治療2至3週後，病人將他人感染的可能性已大幅降低，因此在家中不需要對家人採取嚴格的呼吸道隔離，因為家人通常已經暴露過。良好的呼吸道衛生（遮住口鼻、正確丟棄衛生紙）及高蛋白質、高鐵、高維生素C的飲食有助於促進復原，應持續維持。活動應逐漸恢復，而非立即恢復至原本的強度。"},
+    "pdf_pages": [771],
+    "tags": ["patient education", "sata", "infection"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with fractured ribs reports severe pain with breathing and is taking shallow, guarded breaths. Which intervention would the nurse implement first to prevent respiratory complications?", "zh": "一位肋骨骨折的病人表示呼吸時劇痛，並以淺而謹慎的方式呼吸。護理師首先應採取下列哪項措施以預防呼吸系統併發症？"},
+    "options": [
+      {"en": "Apply a rigid chest binder to splint the ribs.", "zh": "使用硬式胸帶固定肋骨。"},
+      {"en": "Administer the prescribed analgesic to promote more effective ventilation.", "zh": "依醫囑給予止痛藥物以促進更有效的通氣。"},
+      {"en": "Encourage the client to lie flat and avoid all movement.", "zh": "鼓勵病人平躺並避免任何活動。"},
+      {"en": "Insert an oral airway.", "zh": "放置口咽通氣道。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Adequate pain control is essential so the client can breathe deeply and cough effectively, reducing the risk of atelectasis and pneumonia after rib fracture. Rigid external splints or binders are not recommended because they restrict chest wall expansion; lying flat and avoiding movement worsens secretion retention, and an oral airway is not indicated for a client who is breathing spontaneously.", "zh": "適當的疼痛控制對於讓病人能夠深呼吸及有效咳嗽至關重要，可降低肋骨骨折後發生肺塌陷及肺炎的風險。不建議使用硬式外部支撐物或胸帶，因為會限制胸壁擴張；平躺並避免活動會使分泌物滯留惡化，而對於能自行呼吸的病人並不需要放置口咽通氣道。"},
+    "pdf_pages": [759],
+    "tags": ["pain management", "priority"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is preparing a client for pulmonary function testing. Which instruction would the nurse include in preprocedure teaching?", "zh": "護理師正在為病人準備肺功能檢測。護理師應在檢測前的指導中納入下列哪項內容？"},
+    "options": [
+      {"en": "\"Eat a heavy meal 1 hour before the test to maintain your energy.\"", "zh": "「檢測前1小時先吃一頓豐盛的餐點以維持體力。」"},
+      {"en": "\"Refrain from smoking for 4 to 6 hours before the test.\"", "zh": "「檢測前4至6小時請避免吸菸。」"},
+      {"en": "\"Take your bronchodilator immediately before the test regardless of other instructions.\"", "zh": "「無論其他指示為何，請在檢測前立即使用支氣管擴張劑。」"},
+      {"en": "\"Do not drink any fluids for 8 hours before the test.\"", "zh": "「檢測前8小時內請勿攝取任何液體。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Clients are instructed to refrain from smoking or eating a heavy meal for 4 to 6 hours before pulmonary function testing. Whether bronchodilators are withheld before testing depends on the specific PHCP prescription, and fluid restriction is not part of standard preprocedure preparation.", "zh": "病人應於肺功能檢測前4至6小時避免吸菸或吃一頓豐盛的餐點。是否於檢測前暫停使用支氣管擴張劑則依醫師的特定醫囑而定，液體限制並非標準的檢測前準備項目。"},
+    "pdf_pages": [758],
+    "tags": ["diagnostic test", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Following a thoracentesis, which finding would the nurse report to the PHCP immediately?", "zh": "胸腔穿刺術後，護理師應立即向主治醫師報告下列哪項發現？"},
+    "options": [
+      {"en": "Scant serosanguinous drainage noted at the puncture site dressing", "zh": "穿刺部位敷料上出現少量血清性分泌物"},
+      {"en": "New onset of subcutaneous crepitus at the puncture site and increasing dyspnea", "zh": "穿刺部位新出現皮下氣腫（捻發音）合併呼吸困難加重"},
+      {"en": "Mild discomfort at the insertion site that is relieved with position change", "zh": "穿刺部位輕微不適，變換姿勢後可緩解"},
+      {"en": "Respiratory rate of 18 breaths/min", "zh": "呼吸速率每分鐘18次"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Subcutaneous crepitus with increasing dyspnea after thoracentesis suggests a pneumothorax, a known complication of the procedure, and must be reported immediately. Scant serosanguinous drainage, mild positional discomfort, and a normal respiratory rate are expected or non-urgent findings.", "zh": "胸腔穿刺術後出現皮下捻發音合併呼吸困難加重，提示可能發生氣胸，這是此項檢查已知的併發症，必須立即報告。少量血清性分泌物、輕微的姿勢性不適及正常的呼吸速率均屬於預期或非緊急的發現。"},
+    "pdf_pages": [758],
+    "tags": ["complications of procedures", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews a chest x-ray report for a client with pleural effusion that notes a mediastinal shift away from the fluid collection. Based on the chapter content, what does this finding generally indicate about the volume of pleural fluid present?", "zh": "護理師查看一位胸膜腔積液病人的胸部X光報告，報告指出縱膈往積液對側偏移。根據本章內容，此發現通常表示存在的胸膜積液量為下列哪一項？"},
+    "options": [
+      {"en": "Less than 50 mL", "zh": "少於50 mL"},
+      {"en": "100 to 150 mL", "zh": "100至150 mL"},
+      {"en": "More than 250 mL", "zh": "超過250 mL"},
+      {"en": "Exactly 500 mL", "zh": "剛好500 mL"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A chest x-ray or CT scan showing pleural effusion with a mediastinal shift away from the fluid generally indicates that the effusion is greater than 250 mL.", "zh": "胸部X光或電腦斷層顯示胸膜腔積液合併縱膈往積液對側偏移，通常表示積液量超過250 mL。"},
+    "pdf_pages": [766],
+    "tags": ["diagnostic test", "labs"]
+  }
+]

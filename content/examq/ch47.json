@@ -1,0 +1,229 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with Addison disease who has been vomiting for 2 days arrives in the emergency department with a blood pressure of 78/40 mm Hg, severe weakness, and confusion. Which action should the nurse prepare to take first?", "zh": "一位患有愛迪生氏病（Addison disease）的病人，持續嘔吐兩天後被送至急診室，血壓為78/40 mmHg，並有嚴重虛弱與意識混亂。護理師應優先準備採取哪項措施？"},
+    "options": [
+      {"en": "Administer the client's usual oral dose of hydrocortisone and fludrocortisone", "zh": "給予病人平常口服劑量的氫化可體松（hydrocortisone）與氟氫可體松（fludrocortisone）"},
+      {"en": "Prepare to administer high-dose IV hydrocortisone and begin IV fluid replacement", "zh": "準備給予高劑量靜脈注射氫化可體松，並開始靜脈輸液補充"},
+      {"en": "Obtain a 12-lead ECG and wait for the cardiology consult before intervening", "zh": "進行12導程心電圖檢查，並等待心臟科會診後再處理"},
+      {"en": "Encourage the client to drink an oral electrolyte replacement solution", "zh": "鼓勵病人口服電解質補充液"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "This presentation (severe hypotension, confusion, precipitated by illness/vomiting in a client with known adrenal insufficiency) indicates addisonian crisis, a life-threatening emergency. Treatment requires immediate high-dose IV hydrocortisone and IV fluid replacement; the oral route is unreliable because of vomiting and poor perfusion, and there is no time to wait for cardiology before treating the underlying crisis.", "zh": "此表現（嚴重低血壓、意識混亂，由疾病/嘔吐誘發，且病人已知有腎上腺功能不足）代表愛迪生氏危象（addisonian crisis），屬於危及生命的緊急狀況。治療須立即給予高劑量靜脈注射氫化可體松並補充靜脈輸液；因嘔吐及灌流不佳，口服途徑不可靠，且不應等待心臟科會診而延誤處理根本危象。"},
+    "pdf_pages": [671],
+    "tags": ["priority", "addisonian crisis", "first action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in diabetic ketoacidosis (DKA) is started on a continuous IV insulin infusion. Which type of insulin is appropriate for this infusion?", "zh": "一位糖尿病酮酸中毒（DKA）病人開始接受持續靜脈注射胰島素輸注。下列哪種胰島素適合用於此輸注？"},
+    "options": [
+      {"en": "Short-duration (regular) insulin", "zh": "短效（常規，regular）胰島素"},
+      {"en": "NPH insulin", "zh": "NPH胰島素"},
+      {"en": "Insulin glargine", "zh": "甘精胰島素（insulin glargine）"},
+      {"en": "A premixed 70/30 insulin preparation", "zh": "預混70/30胰島素製劑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Only short-duration (regular) insulin, and under close supervision the rapid-acting analogs, can be given by the IV route. NPH, glargine, and premixed insulins are never administered intravenously because of their delayed or prolonged absorption profiles.", "zh": "只有短效（常規）胰島素，以及在密切監測下的速效類似物，可經靜脈給予。NPH、甘精胰島素及預混胰島素因吸收延遲或作用時間延長，絕不可經靜脈注射給予。"},
+    "pdf_pages": [681],
+    "tags": ["dosage calc", "DKA", "medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Which findings would help the nurse distinguish diabetic ketoacidosis (DKA) from hyperosmolar hyperglycemic syndrome (HHS)? Select all that apply.", "zh": "下列哪些發現可協助護理師區分糖尿病酮酸中毒（DKA）與高血糖高滲透壓症候群（HHS）？請選出所有適用項目。"},
+    "options": [
+      {"en": "Positive serum and urine ketones", "zh": "血清及尿液酮體呈陽性"},
+      {"en": "Serum pH less than 7.35", "zh": "血清pH值低於7.35"},
+      {"en": "Serum bicarbonate greater than 20 mEq/L (20 mmol/L)", "zh": "血清碳酸氫鹽大於20 mEq/L（20 mmol/L）"},
+      {"en": "Kussmaul respirations with a fruity breath odor", "zh": "庫斯莫耳氏呼吸（Kussmaul respirations）合併水果味呼氣"},
+      {"en": "Serum glucose greater than 800 mg/dL (44.5 mmol/L)", "zh": "血糖大於800 mg/dL（44.5 mmol/L）"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "DKA features ketosis (positive ketones), acidosis (pH <7.35), and Kussmaul respirations with fruity breath odor from ketone excretion. A bicarbonate greater than 20 mEq/L and a glucose level greater than 800 mg/dL are characteristic of HHS, not DKA, because in HHS enough insulin remains to prevent ketosis and acidosis.", "zh": "DKA的特徵為酮症（酮體陽性）、酸中毒（pH<7.35），以及因酮體排出所致的庫斯莫耳氏呼吸與水果味呼氣。碳酸氫鹽大於20 mEq/L及血糖大於800 mg/dL則為HHS的特徵而非DKA，因為HHS病人仍有足夠胰島素可防止酮症與酸中毒發生。"},
+    "pdf_pages": [681],
+    "tags": ["sata", "DKA", "HHS", "labs"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is scheduled for a 24-hour urine collection for fractionated metanephrines because of suspected pheochromocytoma. Which nursing action should be avoided to prevent precipitating a hypertensive crisis?", "zh": "一位病人因疑似嗜鉻細胞瘤（pheochromocytoma）安排進行24小時尿液分段兒茶酚胺代謝物（metanephrines）收集。護理師應避免下列哪項措施，以防誘發高血壓危象？"},
+    "options": [
+      {"en": "Encouraging the client to ambulate in the hallway twice daily", "zh": "鼓勵病人每日在走廊行走兩次"},
+      {"en": "Palpating the client's abdomen to assess for a mass", "zh": "觸診病人腹部以評估是否有腫塊"},
+      {"en": "Offering the client decaffeinated herbal tea", "zh": "提供病人無咖啡因的花草茶"},
+      {"en": "Weighing the client each morning before breakfast", "zh": "於每日早餐前為病人測量體重"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "In a client with pheochromocytoma, the nurse should avoid stimuli that can precipitate a hypertensive crisis, such as increased abdominal pressure from abdominal palpation, because this can trigger a surge of catecholamines from the tumor.", "zh": "對於嗜鉻細胞瘤病人，護理師應避免可能誘發高血壓危象的刺激，例如腹部觸診所造成腹內壓升高，因為此舉可能誘發腫瘤釋放大量兒茶酚胺。"},
+    "pdf_pages": [673],
+    "tags": ["safety", "hypertensive crisis", "pheochromocytoma"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who had a subtotal thyroidectomy 12 hours ago develops a temperature of 103.6°F (39.8°C), a heart rate of 160 beats/min, and agitation progressing to confusion. The nurse suspects thyroid storm. Which actions should the nurse anticipate? Select all that apply.", "zh": "一位於12小時前接受部分甲狀腺切除術的病人，出現體溫103.6°F（39.8°C）、心跳每分鐘160次，且躁動逐漸進展為意識混亂。護理師懷疑為甲狀腺風暴（thyroid storm）。護理師應預期採取下列哪些措施？請選出所有適用項目。"},
+    "options": [
+      {"en": "Administer a nonsalicylate antipyretic as prescribed", "zh": "依醫囑給予非水楊酸類退熱劑"},
+      {"en": "Administer aspirin suppositories to lower the fever quickly", "zh": "使用阿斯匹靈栓劑以快速退熱"},
+      {"en": "Apply a cooling blanket as prescribed", "zh": "依醫囑使用降溫毯"},
+      {"en": "Administer prescribed propranolol", "zh": "依醫囑給予普潮萼（propranolol）"},
+      {"en": "Prepare to administer prescribed glucocorticoids", "zh": "準備依醫囑給予糖皮質固醇（glucocorticoids）"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Thyroid storm is managed with nonsalicylate antipyretics (salicylates increase free thyroid hormone levels and are contraindicated), a cooling blanket, beta-blockers such as propranolol for tachycardia, and glucocorticoids along with antithyroid medications and iodides as prescribed.", "zh": "甲狀腺風暴的處理包括給予非水楊酸類退熱劑（水楊酸類會增加游離甲狀腺素濃度，屬禁忌）、使用降溫毯、給予beta阻斷劑（如普潮萼）以控制心搏過速，並依醫囑給予糖皮質固醇、抗甲狀腺藥物及碘化物。"},
+    "pdf_pages": [675],
+    "tags": ["thyroid storm", "sata", "priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with severe, longstanding untreated hypothyroidism. Which finding should the nurse report to the primary health care provider immediately as a possible sign of myxedema coma?", "zh": "護理師照護一位患有嚴重、長期未治療甲狀腺功能低下的病人。下列哪項發現應立即回報醫療照護提供者，視為黏液水腫昏迷（myxedema coma）的可能徵象？"},
+    "options": [
+      {"en": "Dry skin and hair with intolerance to cold", "zh": "皮膚與頭髮乾燥並對冷敏感"},
+      {"en": "Temperature of 94.5°F (34.7°C) with lethargy progressing toward unresponsiveness", "zh": "體溫94.5°F（34.7°C），嗜睡逐漸進展至無反應"},
+      {"en": "A 2-lb (0.9-kg) weight gain over the past week", "zh": "過去一週體重增加2磅（0.9公斤）"},
+      {"en": "Constipation unrelieved by increased fluid and fiber intake", "zh": "增加水分與纖維攝取後便秘仍未緩解"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Myxedema coma, a rare and life-threatening complication of severe hypothyroidism, is characterized by hypotension, bradycardia, hypothermia, hyponatremia, hypoglycemia, generalized edema, respiratory failure, and coma. A significantly low temperature with decreasing level of consciousness is an urgent warning sign requiring immediate intervention.", "zh": "黏液水腫昏迷是嚴重甲狀腺功能低下罕見且危及生命的併發症，特徵包括低血壓、心搏過緩、低體溫、低血鈉、低血糖、全身水腫、呼吸衰竭及昏迷。體溫明顯偏低合併意識程度下降，屬需立即處理的危急警訊。"},
+    "pdf_pages": [674],
+    "tags": ["myxedema coma", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is reviewing laboratory and intake/output findings for a client with a posterior pituitary disorder. Which combination of findings is most consistent with syndrome of inappropriate antidiuretic hormone secretion (SIADH) rather than diabetes insipidus?", "zh": "護理師查閱一位患有後垂體疾病病人的實驗室數值及輸入/輸出量資料。下列哪組發現最符合抗利尿激素分泌失調症候群（SIADH），而非尿崩症（diabetes insipidus）？"},
+    "options": [
+      {"en": "Serum sodium 118 mEq/L (118 mmol/L), concentrated urine, and low urine output", "zh": "血清鈉118 mEq/L（118 mmol/L）、濃縮尿液、尿量減少"},
+      {"en": "Serum sodium 150 mEq/L (150 mmol/L), dilute urine, and polyuria", "zh": "血清鈉150 mEq/L（150 mmol/L）、稀釋尿液、多尿"},
+      {"en": "Serum sodium 140 mEq/L (140 mmol/L) with a normal urine output", "zh": "血清鈉140 mEq/L（140 mmol/L），尿量正常"},
+      {"en": "Serum sodium 128 mEq/L (128 mmol/L), dilute urine, and high urine output", "zh": "血清鈉128 mEq/L（128 mmol/L）、稀釋尿液、尿量增加"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "SIADH results in excess ADH release, causing water retention, dilutional hyponatremia, concentrated urine, and low urinary output. Diabetes insipidus is the opposite: inadequate ADH action results in excretion of large amounts of dilute urine, polydipsia, and a tendency toward dehydration and hypernatremia.", "zh": "SIADH是因抗利尿激素過度分泌，造成水分滯留、稀釋性低血鈉、尿液濃縮及尿量減少。尿崩症則相反：抗利尿激素作用不足導致大量稀釋尿液排出、多飲，並易出現脫水及高血鈉。"},
+    "pdf_pages": [668, 669],
+    "tags": ["SIADH", "diabetes insipidus", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with type 1 diabetes is found unresponsive with a fingerstick glucose level of 32 mg/dL (1.8 mmol/L) and is unable to swallow safely. Which action should the nurse take?", "zh": "一位第一型糖尿病病人被發現無反應，指尖血糖為32 mg/dL（1.8 mmol/L），且無法安全吞咽。護理師應採取下列哪項措施？"},
+    "options": [
+      {"en": "Place glucose gel between the client's cheek and gum", "zh": "將葡萄糖凝膠置於病人臉頰與牙齦之間"},
+      {"en": "Administer 1 mg of glucagon intramuscularly as prescribed", "zh": "依醫囑肌肉注射1毫克升糖素（glucagon）"},
+      {"en": "Offer 4 oz (120 mL) of fruit juice through a straw", "zh": "以吸管提供4盎司（120毫升）果汁"},
+      {"en": "Wait 15 minutes and recheck the glucose level before intervening", "zh": "等待15分鐘後再次檢測血糖，再決定是否處理"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A client who is unconscious or unable to swallow safely should never be given oral food or fluids because of the risk for aspiration, including buccal glucose gel. Glucagon given subcutaneously, intramuscularly, or intravenously (or IV dextrose 50% in a hospital setting) is the appropriate treatment.", "zh": "對於意識喪失或無法安全吞咽的病人，絕不可給予任何口服食物或液體（包括口頰內葡萄糖凝膠），以免發生吸入性風險。應給予皮下、肌肉或靜脈注射升糖素（或在醫院內給予50%葡萄糖靜脈注射）作為合適的處置。"},
+    "pdf_pages": [679],
+    "tags": ["hypoglycemia", "priority", "safety", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with type 1 diabetes reports consistently elevated blood glucose levels at 7 a.m. Blood glucose checked at 3 a.m. on several nights has been within normal limits each time. The nurse recognizes this pattern as most consistent with which phenomenon?", "zh": "一位第一型糖尿病病人報告早上7點的血糖持續偏高，但數個晚上凌晨3點檢測的血糖值皆在正常範圍內。護理師辨識此型態最符合下列哪種現象？"},
+    "options": [
+      {"en": "Somogyi phenomenon, treated by decreasing the evening insulin dose", "zh": "蘇莫基現象（Somogyi phenomenon），以降低晚間胰島素劑量治療"},
+      {"en": "Dawn phenomenon, treated by adjusting the insulin dose or administration time", "zh": "黎明現象（Dawn phenomenon），以調整胰島素劑量或給藥時間治療"},
+      {"en": "Dawn phenomenon, treated by decreasing the bedtime snack", "zh": "黎明現象，以減少睡前點心治療"},
+      {"en": "Somogyi phenomenon, treated by increasing the morning insulin dose", "zh": "蘇莫基現象，以增加早晨胰島素劑量治療"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Because the 3 a.m. glucose levels are normal (no overnight hypoglycemia), this rules out Somogyi phenomenon, which involves hypoglycemia around 2-3 a.m. followed by rebound hyperglycemia. Dawn phenomenon is hyperglycemia on awakening caused by an early morning surge of growth hormone and cortisol and is treated by increasing the insulin dose or changing the time of administration.", "zh": "由於凌晨3點血糖正常（夜間無低血糖），可排除蘇莫基現象（其特徵為凌晨2-3點發生低血糖後反彈性高血糖）。黎明現象是因清晨生長激素與皮質醇升高所致的清晨高血糖，治療方式為增加胰島素劑量或調整給藥時間。"},
+    "pdf_pages": [677],
+    "tags": ["dawn phenomenon", "somogyi phenomenon", "insulin"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Six hours after a total thyroidectomy, a client reports tingling around the mouth and in the fingertips. The nurse taps the facial nerve just anterior to the client's ear and observes twitching of the facial muscles. What should the nurse do first?", "zh": "一位接受全甲狀腺切除術病人術後6小時，報告口周及指尖麻木感。護理師輕敲病人耳前面神經處，觀察到面部肌肉抽動。護理師應優先採取下列哪項措施？"},
+    "options": [
+      {"en": "Document the finding as a normal postoperative response", "zh": "將此發現記錄為正常的術後反應"},
+      {"en": "Notify the primary health care provider and prepare to administer IV calcium gluconate", "zh": "通知醫療照護提供者，並準備給予靜脈注射葡萄酸鈣（calcium gluconate）"},
+      {"en": "Encourage the client to perform deep-breathing exercises", "zh": "鼓勵病人進行深呼吸運動"},
+      {"en": "Reposition the client to a high-Fowler's position", "zh": "將病人調整為高坡式臥位（high-Fowler's position）"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A positive Chvostek's sign along with perioral and fingertip tingling indicates hypocalcemia and impending tetany, which can occur after thyroidectomy because of inadvertent trauma to or removal of parathyroid tissue. The nurse should notify the PHCP and prepare to administer IV calcium gluconate, and should also have a tracheotomy set, oxygen, and suction equipment at the bedside.", "zh": "出現陽性查佛斯特克氏徵象（Chvostek's sign）合併口周與指尖麻木，代表低血鈣及即將發生的抽搦（tetany），此可能因甲狀腺切除術中意外損傷或移除副甲狀腺組織所致。護理師應通知醫療照護提供者並準備給予靜脈注射葡萄酸鈣，同時應於床旁備妥氣切包、氧氣及抽吸設備。"},
+    "pdf_pages": [676],
+    "tags": ["hypoparathyroidism", "tetany", "priority", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with hyperparathyroidism has a serum calcium level of 13.2 mg/dL (3.3 mmol/L). Which prescribed interventions should the nurse anticipate? Select all that apply.", "zh": "一位副甲狀腺功能亢進病人的血清鈣為13.2 mg/dL（3.3 mmol/L）。護理師應預期下列哪些醫囑措施？請選出所有適用項目。"},
+    "options": [
+      {"en": "Administer furosemide as prescribed", "zh": "依醫囑給予furosemide（利尿劑）"},
+      {"en": "Encourage increased oral fluid intake", "zh": "鼓勵增加口服液體攝取"},
+      {"en": "Administer calcitonin as prescribed", "zh": "依醫囑給予降鈣素（calcitonin）"},
+      {"en": "Restrict fluids to 1000 mL/day", "zh": "限制每日液體攝取量為1000毫升"},
+      {"en": "Instruct the client to remain on strict bed rest indefinitely", "zh": "指導病人需無限期維持嚴格臥床休息"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "For hypercalcemia from hyperparathyroidism, interventions include furosemide to promote calcium excretion, increased fluid intake and IV normal saline to maintain hydration and promote excretion, and calcitonin to decrease skeletal calcium release and increase renal calcium excretion. Fluids are encouraged, not restricted, and prolonged inactivity should be avoided because immobility increases bone calcium release.", "zh": "對於副甲狀腺功能亢進造成的高血鈣，處置包括給予furosemide以促進鈣排出、增加液體攝取並給予靜脈生理食鹽水以維持水分並促進排出，以及給予降鈣素以減少骨骼鈣釋放並增加腎臟鈣排出。應鼓勵而非限制液體攝取，並應避免長時間不活動，因為制動會增加骨骼鈣釋放。"},
+    "pdf_pages": [676],
+    "tags": ["hyperparathyroidism", "medication safety", "sata"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Within the first 24 hours after a thyroidectomy, a client develops increasing hoarseness, stridor, and a sensation of tightness at the incision site. What is the nurse's priority action?", "zh": "甲狀腺切除術後24小時內，病人出現逐漸加重的聲音嘶啞、喉鳴聲（stridor），以及切口處緊繃感。護理師的優先措施為何？"},
+    "options": [
+      {"en": "Loosen the neck dressing and prepare for emergency airway intervention", "zh": "放鬆頸部敷料，並準備緊急氣道處置"},
+      {"en": "Administer the prescribed PRN opioid for incisional discomfort", "zh": "依醫囑給予必要時使用的鴉片類藥物以緩解切口不適"},
+      {"en": "Reassure the client that hoarseness is expected after surgery", "zh": "安慰病人聲音嘶啞為術後正常現象"},
+      {"en": "Elevate the head of the bed and continue to monitor every 4 hours", "zh": "抬高床頭並持續每4小時監測一次"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Stridor and a sensation of tightness at the incision suggest bleeding into the surgical site with hematoma formation or airway edema causing airway obstruction, a surgical emergency. The nurse should loosen the dressing to relieve pressure and prepare for emergency airway intervention; an emergency tracheostomy kit should be at the bedside for all thyroidectomy clients.", "zh": "喉鳴聲合併切口緊繃感提示手術部位出血形成血腫或氣道水腫導致氣道阻塞，屬外科急症。護理師應放鬆敷料以減輕壓迫，並準備緊急氣道處置；所有甲狀腺切除術病人床旁皆應備妥緊急氣切包。"},
+    "pdf_pages": [675],
+    "tags": ["thyroidectomy", "airway", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "Which instruction should the nurse include when teaching a client with Graves' disease and exophthalmos about eye care?", "zh": "護理師在教導患有葛瑞夫氏病（Graves' disease）合併凸眼症（exophthalmos）的病人眼部照護時，應包含下列哪項指導？"},
+    "options": [
+      {"en": "Sleep with the head of the bed flat to reduce periorbital pressure", "zh": "睡覺時將床頭放平以減輕眼周壓力"},
+      {"en": "Use artificial tears and wear dark glasses, and tape the eyelids closed at night if needed", "zh": "使用人工淚液並佩戴深色眼鏡，必要時夜間以貼布將眼皮貼合"},
+      {"en": "Limit blinking to avoid corneal irritation", "zh": "減少眨眼次數以避免角膜刺激"},
+      {"en": "Apply a warm compress to the eyes every 2 hours", "zh": "每2小時於眼部使用溫熱敷"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For the client with exophthalmos, the nurse elevates the head of the bed, instructs on a low-salt diet, administers artificial tears, encourages the use of dark glasses, and tapes the eyelids closed at night if necessary to protect the cornea from drying and irritation.", "zh": "對於凸眼症病人，護理師應抬高床頭、指導低鈉飲食、給予人工淚液、鼓勵佩戴深色眼鏡，並於必要時夜間以貼布貼合眼皮，以保護角膜避免乾燥與刺激。"},
+    "pdf_pages": [675],
+    "tags": ["Graves disease", "comfort", "patient teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who has self-administered insulin injections into the same area of the abdomen for the past 3 years reports erratic blood glucose control despite good adherence to the prescribed regimen. On inspection, the nurse notes firm, raised, fibrous tissue at the injection site. The nurse should provide which instruction?", "zh": "一位病人過去3年持續在腹部同一部位自行注射胰島素，報告儘管遵從醫囑仍出現血糖控制不穩定。護理師檢查發現注射部位有堅硬、隆起的纖維組織。護理師應提供下列哪項指導？"},
+    "options": [
+      {"en": "Continue injecting into the fibrous area because it reduces injection pain", "zh": "繼續於纖維化部位注射，因為該處注射較不痛"},
+      {"en": "Rotate injection sites systematically within one anatomical area, avoiding the affected site", "zh": "在同一解剖部位內系統性輪替注射位置，並避開受影響部位"},
+      {"en": "Switch to intramuscular injection technique for all future doses", "zh": "改用肌肉注射技術進行所有後續劑量注射"},
+      {"en": "Increase the insulin dose to compensate for reduced absorption", "zh": "增加胰島素劑量以補償吸收減少"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The firm, fibrous tissue described is insulin lipodystrophy, caused by repeated use of the same injection site, which leads to erratic absorption. The client should be instructed to avoid injecting into the affected site and to systematically rotate sites within one anatomical area, not using the same site more than once in a 2- to 3-week period.", "zh": "所描述的堅硬纖維組織為胰島素脂肪增生（lipodystrophy），因重複使用同一注射部位所致，會造成吸收不穩定。應指導病人避免於受影響部位注射，並在同一解剖部位內系統性輪替注射位置，同一部位於2至3週內不應重複使用超過一次。"},
+    "pdf_pages": [677],
+    "tags": ["insulin", "lipodystrophy", "patient teaching"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is caring for a client with type 2 diabetes mellitus. Which task can be safely delegated to unlicensed assistive personnel (UAP)?", "zh": "護理師正在照護一位第二型糖尿病病人。下列哪項任務可安全委派給無執照輔助人員（UAP）執行？"},
+    "options": [
+      {"en": "Teaching the client how to perform insulin self-injection", "zh": "教導病人如何自行注射胰島素"},
+      {"en": "Obtaining a fingerstick blood glucose level using the facility's standard procedure", "zh": "依機構標準程序執行指尖血糖檢測"},
+      {"en": "Determining the need for supplemental insulin based on the sliding scale", "zh": "依滑動量表判斷是否需要追加胰島素"},
+      {"en": "Assessing the client's feet for early signs of diabetic neuropathy", "zh": "評估病人足部是否有糖尿病神經病變的早期徵象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Obtaining a fingerstick blood glucose level using an established, standardized procedure is a task within the scope of a trained UAP. Teaching, clinical judgment about insulin dosing, and assessment all require the scope of practice of a licensed nurse.", "zh": "依既定標準化程序執行指尖血糖檢測屬於經訓練的UAP可執行之任務範圍。教學、依臨床判斷決定胰島素劑量，以及評估皆需由具執照護理師執行。"},
+    "pdf_pages": [678],
+    "tags": ["delegation", "management of care"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A nurse is comparing the laboratory findings of two clients, one with Addison's disease and one with Cushing's syndrome. Which laboratory finding pattern is expected in the client with Addison's disease rather than Cushing's syndrome?", "zh": "護理師正在比較兩位病人的實驗室數值，一位患有愛迪生氏病，另一位患有庫欣氏症候群（Cushing's syndrome）。下列哪種實驗室數值型態符合愛迪生氏病而非庫欣氏症候群？"},
+    "options": [
+      {"en": "Hyperkalemia and hyponatremia", "zh": "高血鉀及低血鈉"},
+      {"en": "Hypokalemia and hypernatremia", "zh": "低血鉀及高血鈉"},
+      {"en": "Hyperglycemia and hypercalcemia", "zh": "高血糖及高血鈣"},
+      {"en": "Hypocalcemia and metabolic alkalosis", "zh": "低血鈣及代謝性鹼中毒"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "In Addison's disease, loss of the mineralocorticoid aldosterone leads to hyperkalemia, hyponatremia, and hypoglycemia, along with hypotension. In contrast, Cushing's syndrome and Cushing's disease are characterized by hyperglycemia, hypernatremia, hypokalemia, and hypocalcemia from cortisol excess.", "zh": "愛迪生氏病因礦物皮質素（aldosterone）缺乏，導致高血鉀、低血鈉及低血糖，並合併低血壓。相對地，庫欣氏症候群及庫欣氏病則因皮質醇過量，呈現高血糖、高血鈉、低血鉀及低血鈣。"},
+    "pdf_pages": [670],
+    "tags": ["Addison disease", "Cushing syndrome", "labs"]
+  }
+]

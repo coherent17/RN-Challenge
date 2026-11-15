@@ -1,0 +1,631 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client receiving an intravenous antibiotic suddenly develops stridor, facial swelling, and a blood pressure of 78/42 mm Hg. What is the nurse's first action?",
+      "zh": "一位接受靜脈注射抗生素的病人突然出現喘鳴聲、臉部腫脹，血壓降至78/42 mmHg。護理師的第一步行動是什麼？"
+    },
+    "options": [
+      {
+        "en": "Elevate the head of the bed to 90 degrees.",
+        "zh": "將床頭抬高至90度。"
+      },
+      {
+        "en": "Stop the intravenous antibiotic infusion immediately.",
+        "zh": "立即停止靜脈注射抗生素輸液。"
+      },
+      {
+        "en": "Administer an antipyretic for the swelling.",
+        "zh": "給予解熱劑治療腫脹。"
+      },
+      {
+        "en": "Document the findings and reassess in 15 minutes.",
+        "zh": "記錄發現並於15分鐘後再評估。"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "When anaphylaxis is suspected in response to an IV medication, the nurse's first action is to immediately discontinue the suspected medication or infusing solution before completing other interventions such as calling for help, administering oxygen, or positioning.",
+      "zh": "當懷疑病人對靜脈注射藥物產生過敏性反應時，護理師的第一步行動是立即停止可疑藥物或輸注溶液，之後再進行呼叫求助、給氧、擺位等其他措施。"
+    },
+    "pdf_pages": [
+      1018
+    ],
+    "tags": [
+      "priority",
+      "first action",
+      "anaphylaxis"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client develops anaphylaxis after receiving a contrast dye during a diagnostic procedure. Which actions would the nurse take? Select all that apply.",
+      "zh": "一位病人在接受診斷性檢查使用的顯影劑後出現過敏性反應。護理師應採取哪些行動？（多選）"
+    },
+    "options": [
+      {
+        "en": "Call for the rapid response team and the PHCP.",
+        "zh": "呼叫快速反應團隊及主治醫療人員。"
+      },
+      {
+        "en": "Administer oxygen.",
+        "zh": "給予氧氣。"
+      },
+      {
+        "en": "Keep the client supine regardless of blood pressure.",
+        "zh": "無論血壓如何，皆讓病人保持平躺。"
+      },
+      {
+        "en": "Prepare to administer epinephrine and diphenhydramine as prescribed.",
+        "zh": "準備依醫囑給予腎上腺素及苯海拉明。"
+      },
+      {
+        "en": "Start an intravenous line with normal saline if one is not already in place.",
+        "zh": "若尚未建立靜脈路徑，立即建立並輸注生理食鹽水。"
+      },
+      {
+        "en": "Leave the client briefly to retrieve the emergency cart before assessing breathing.",
+        "zh": "先離開病人去拿急救車，再評估呼吸狀況。"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "rationale": {
+      "en": "Priority actions for anaphylaxis include staying with the client while calling for help, assessing and supporting the airway, administering oxygen, starting or maintaining an IV line with normal saline, and preparing epinephrine and diphenhydramine. The client should never be left alone, and head-of-bed positioning depends on the client's blood pressure rather than keeping the client supine regardless of readings.",
+      "zh": "過敏性反應的優先處置包括留在病人身旁同時呼叫求助、評估並支持呼吸道、給予氧氣、建立或維持生理食鹽水靜脈路徑，以及準備腎上腺素與苯海拉明。絕不可將病人單獨留下；床頭擺位則依血壓狀況決定，而非一律平躺。"
+    },
+    "pdf_pages": [
+      1018
+    ],
+    "tags": [
+      "sata",
+      "anaphylaxis",
+      "emergency"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "Which client is at greatest risk for developing a latex allergy?",
+      "zh": "哪位病人罹患乳膠過敏的風險最高？"
+    },
+    "options": [
+      {
+        "en": "A client who had one prior minor outpatient procedure",
+        "zh": "曾接受一次輕微門診手術的病人"
+      },
+      {
+        "en": "A hairdresser who wears gloves multiple times daily and reports an allergy to bananas and avocados",
+        "zh": "一位美髮師，每天多次戴手套，且自述對香蕉及酪梨過敏"
+      },
+      {
+        "en": "A client who drinks three cups of coffee a day",
+        "zh": "每天喝三杯咖啡的病人"
+      },
+      {
+        "en": "A client with a seasonal pollen allergy only",
+        "zh": "僅有季節性花粉過敏的病人"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Frequent glove use (e.g., hairdressers, food handlers, health care workers) along with allergy to foods that cross-react with latex, such as bananas, avocados, kiwis, and chestnuts, places a client at increased risk for latex allergy.",
+      "zh": "頻繁戴手套（如美髮師、食品從業人員、醫療人員）以及對與乳膠有交叉反應的食物（如香蕉、酪梨、奇異果、栗子）過敏，皆會增加病人罹患乳膠過敏的風險。"
+    },
+    "pdf_pages": [
+      1018
+    ],
+    "tags": [
+      "risk factors",
+      "latex allergy"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a client with a documented latex allergy. Which interventions are appropriate? Select all that apply.",
+      "zh": "護理師正在照護一位已確診乳膠過敏的病人。下列哪些措施是適當的？（多選）"
+    },
+    "options": [
+      {
+        "en": "Use nonlatex gloves and latex-safe supplies for all care.",
+        "zh": "所有照護皆使用非乳膠手套及乳膠安全用品。"
+      },
+      {
+        "en": "Select medications packaged in glass ampules rather than vials with rubber stoppers when possible.",
+        "zh": "盡可能選用玻璃安瓿裝的藥物，而非橡膠瓶塞的藥瓶。"
+      },
+      {
+        "en": "Apply the blood pressure cuff directly to bare skin to get the most accurate reading.",
+        "zh": "將血壓計袖帶直接套在裸露皮膚上，以取得最準確的讀數。"
+      },
+      {
+        "en": "Keep a latex-safe supply cart available in the client's area.",
+        "zh": "在病人所在區域備有乳膠安全用品車。"
+      },
+      {
+        "en": "Instruct the client to carry an epinephrine auto-injector.",
+        "zh": "指導病人隨身攜帶腎上腺素自動注射器。"
+      },
+      {
+        "en": "Place the client in a private room, because this is required for all latex-allergic clients.",
+        "zh": "所有乳膠過敏病人都必須安置於單人房。"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "rationale": {
+      "en": "Care of the client with a latex allergy includes using nonlatex gloves and latex-safe supplies, choosing glass ampules over rubber-stoppered vials when possible, keeping a latex-safe supply cart available, and having the client carry an epinephrine auto-injector. A private room is not required; if a blood pressure cuff contains latex, a cloth barrier should be applied rather than placing it directly on the skin, and latex-free equipment should be used instead.",
+      "zh": "乳膠過敏病人的照護應使用非乳膠手套及乳膠安全用品、盡量選用玻璃安瓿而非橡膠瓶塞藥瓶、在病人區域備有乳膠安全用品車，並指導病人隨身攜帶腎上腺素自動注射器。並非所有病人都需要單人房；若血壓計袖帶含乳膠成分，應在皮膚上加布質隔離層而非直接接觸，並盡量使用無乳膠設備。"
+    },
+    "pdf_pages": [
+      1019
+    ],
+    "tags": [
+      "sata",
+      "latex allergy",
+      "safety"
+    ]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A client with HIV infection has a CD4+ T-cell count of 180 cells/mcL. Based on this finding, the nurse recognizes that the client has which level of immune compromise?",
+      "zh": "一位HIV感染病人的CD4+ T細胞數為180 cells/mcL。根據此發現，護理師應認知病人處於哪種程度的免疫功能受損？"
+    },
+    "options": [
+      {
+        "en": "Normal immune function",
+        "zh": "免疫功能正常"
+      },
+      {
+        "en": "Mild immune system changes only",
+        "zh": "僅有輕微免疫變化"
+      },
+      {
+        "en": "Immune system problems",
+        "zh": "免疫系統出現問題"
+      },
+      {
+        "en": "Severe immune system problems, with a markedly increased risk for opportunistic infection",
+        "zh": "嚴重免疫系統問題，伺機性感染風險明顯增加"
+      }
+    ],
+    "answer": [
+      3
+    ],
+    "rationale": {
+      "en": "A CD4+ T-cell count below 200 cells/mcL indicates severe immune system compromise and a markedly increased risk for opportunistic infections, and also meets one of the diagnostic criteria for AIDS. Counts between 200 and 499 cells/mcL indicate immune system problems, and counts above 500 cells/mcL are generally associated with a healthy immune system.",
+      "zh": "CD4+ T細胞數低於200 cells/mcL表示嚴重免疫系統受損，伺機性感染風險明顯增加，也符合AIDS診斷標準之一。200-499 cells/mcL表示免疫系統出現問題，高於500 cells/mcL則通常代表免疫系統健康。"
+    },
+    "pdf_pages": [
+      1016
+    ],
+    "tags": [
+      "labs",
+      "HIV",
+      "interpretation"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client with systemic lupus erythematosus (SLE) asks the nurse why they must avoid sun exposure. What is the nurse's best explanation?",
+      "zh": "一位全身性紅斑性狼瘡（SLE）病人詢問護理師為何必須避免曝曬陽光。護理師最佳的解釋是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Sun exposure has no relationship to lupus symptoms.\"",
+        "zh": "「曝曬陽光與狼瘡症狀沒有關係。」"
+      },
+      {
+        "en": "\"Sunlight and ultraviolet light can precipitate a lupus flare and worsen the skin rash.\"",
+        "zh": "「陽光及紫外線可能誘發狼瘡發作，並使皮膚紅疹惡化。」"
+      },
+      {
+        "en": "\"Sun exposure will cure the skin lesions over time.\"",
+        "zh": "「曝曬陽光會隨時間治癒皮膚病灶。」"
+      },
+      {
+        "en": "\"Only clients with discoid lupus need to avoid the sun.\"",
+        "zh": "「只有盤狀狼瘡的病人需要避免陽光。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Sunlight and ultraviolet light are known precipitating factors for SLE flares and can worsen the characteristic malar (butterfly) rash and photosensitivity associated with the disease.",
+      "zh": "陽光與紫外線是已知可誘發SLE發作的因子，並會使典型的蝴蝶斑（malar rash）及光敏感現象惡化。"
+    },
+    "pdf_pages": [
+      1020
+    ],
+    "tags": [
+      "patient education",
+      "SLE"
+    ]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is caring for a client with systemic lupus erythematosus. Which laboratory values would the nurse monitor closely to detect early renal involvement?",
+      "zh": "護理師正在照護一位全身性紅斑性狼瘡病人。應密切監測哪些實驗室數值，以偵測早期腎臟受累？"
+    },
+    "options": [
+      {
+        "en": "Serum amylase and lipase",
+        "zh": "血清澱粉酶與脂肪酶"
+      },
+      {
+        "en": "Blood urea nitrogen and creatinine",
+        "zh": "血中尿素氮與肌酸酐"
+      },
+      {
+        "en": "Serum calcium and phosphorus",
+        "zh": "血清鈣與磷"
+      },
+      {
+        "en": "Thyroid-stimulating hormone",
+        "zh": "甲狀腺刺激素"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Lupus nephritis often occurs early in the disease process; the nurse monitors blood urea nitrogen and creatinine levels frequently, along with urinalysis for proteinuria and red cell casts, to detect renal impairment.",
+      "zh": "狼瘡腎炎常在病程早期發生；護理師應頻繁監測血中尿素氮與肌酸酐，並檢查尿液中是否有蛋白尿及紅血球管型，以偵測腎功能受損。"
+    },
+    "pdf_pages": [
+      1020
+    ],
+    "tags": [
+      "labs",
+      "SLE",
+      "renal"
+    ]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse evaluates a teaching session about managing fatigue with a client who has SLE. Which statement indicates a need for further instruction?",
+      "zh": "護理師評估一位SLE病人對疲倦管理衛教的理解。哪項陳述顯示需要進一步指導？"
+    },
+    "options": [
+      {
+        "en": "\"I will sit down whenever I can to conserve my energy.\"",
+        "zh": "「我會盡可能坐著以節省體力。」"
+      },
+      {
+        "en": "\"I will take hot baths at the end of the day because they are relaxing.\"",
+        "zh": "「我會在一天結束時泡熱水澡，因為這樣很放鬆。」"
+      },
+      {
+        "en": "\"I will do light walking when I am not feeling fatigued.\"",
+        "zh": "「在不感到疲倦時，我會做輕度散步運動。」"
+      },
+      {
+        "en": "\"I will avoid long periods of complete rest because it can increase joint stiffness.\"",
+        "zh": "「我會避免長時間完全休息，因為這會增加關節僵硬。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Hot baths can exacerbate fatigue in clients with SLE and are not recommended. Sitting to conserve energy, balancing rest with light activity, and avoiding prolonged complete rest (which increases joint stiffness) are appropriate fatigue-management strategies.",
+      "zh": "熱水澡可能加重SLE病人的疲倦，並不建議；坐著節省體力、以輕度活動平衡休息、避免長時間完全休息（會增加關節僵硬）則是適當的疲倦管理策略。"
+    },
+    "pdf_pages": [
+      1020
+    ],
+    "tags": [
+      "evaluate outcomes",
+      "SLE",
+      "fatigue"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client with scleroderma reports burning and a sour taste after meals. Which intervention would the nurse include in the plan of care?",
+      "zh": "一位硬皮症（scleroderma）病人報告餐後出現灼熱感與酸味。護理師應將哪項措施納入照護計畫？"
+    },
+    "options": [
+      {
+        "en": "Encourage the client to lie flat immediately after eating to rest.",
+        "zh": "餐後立即平躺休息。"
+      },
+      {
+        "en": "Instruct the client to sit upright for 1 to 2 hours after meals and elevate the head of the bed.",
+        "zh": "指導病人餐後保持坐直姿勢1至2小時，並抬高床頭。"
+      },
+      {
+        "en": "Restrict all fluids with meals.",
+        "zh": "用餐時完全限制水分攝取。"
+      },
+      {
+        "en": "Encourage large meals to maintain weight.",
+        "zh": "鼓勵大量進食以維持體重。"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Scleroderma can cause esophageal involvement leading to reflux symptoms; clients are instructed to sit upright for 1 to 2 hours after meals and elevate the head of the bed, and to eat small, frequent meals rather than large ones while avoiding foods that stimulate gastric secretions.",
+      "zh": "硬皮症可能造成食道受累而出現逆流症狀；病人應於餐後保持坐直姿勢1至2小時並抬高床頭，並以少量多餐取代大餐，避免刺激胃酸分泌的食物。"
+    },
+    "pdf_pages": [
+      1021
+    ],
+    "tags": [
+      "scleroderma",
+      "GI complication"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client recovering from a recent upper respiratory illness develops hemoptysis, decreased urine output, and new-onset hypertension. The PHCP suspects Goodpasture's syndrome. Which additional finding would support this diagnosis?",
+      "zh": "一位剛從上呼吸道感染康復的病人出現咳血、尿量減少及新發高血壓。主治醫療人員懷疑古巴斯德氏症候群（Goodpasture's syndrome）。哪項額外發現可支持此診斷？"
+    },
+    "options": [
+      {
+        "en": "Bradycardia and hypotension",
+        "zh": "心搏過緩與低血壓"
+      },
+      {
+        "en": "Hematuria and edema",
+        "zh": "血尿與水腫"
+      },
+      {
+        "en": "Hyperglycemia and polyuria",
+        "zh": "高血糖與多尿"
+      },
+      {
+        "en": "Jaundice and clay-colored stools",
+        "zh": "黃疸與灰白色大便"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Goodpasture's syndrome involves autoantibodies against the glomerular and alveolar basement membranes, causing pulmonary findings (shortness of breath, hemoptysis) along with renal findings such as hematuria, decreased urine output, edema, weight gain, and hypertension.",
+      "zh": "古巴斯德氏症候群涉及針對腎小球及肺泡基底膜的自體抗體，造成肺部表現（呼吸困難、咳血）併隨腎臟表現，如血尿、尿量減少、水腫、體重增加及高血壓。"
+    },
+    "pdf_pages": [
+      1021
+    ],
+    "tags": [
+      "recognize cues",
+      "Goodpasture"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client who was just bitten by a tick in a wooded area removes the tick with bare fingers and flushes it down the toilet. The client asks the nurse how a future tick bite should be handled. What is the nurse's best instruction?",
+      "zh": "一位剛在林地被蜱蟲咬傷的病人以裸手移除蜱蟲，並將其沖入馬桶。病人詢問護理師日後若再被蜱蟲咬傷應如何處理。護理師最佳的指導是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Burn the tick off the skin with a match to ensure it releases.\"",
+        "zh": "「用火柴燒掉皮膚上的蜱蟲，確保牠鬆開。」"
+      },
+      {
+        "en": "\"Grasp the tick as close to the skin as possible with tweezers and pull upward with steady, even pressure, then clean the area with antiseptic.\"",
+        "zh": "「用鑷子盡量貼近皮膚夾住蜱蟲，以穩定且均勻的力量向上拔出，然後用消毒劑清潔該區域。」"
+      },
+      {
+        "en": "\"Apply petroleum jelly over the tick and wait for it to suffocate before removing it.\"",
+        "zh": "「在蜱蟲上塗抹凡士林，待其窒息後再移除。」"
+      },
+      {
+        "en": "\"Squeeze the body of the tick firmly to remove it quickly.\"",
+        "zh": "「用力擠壓蜱蟲的身體以快速移除。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Proper tick removal uses fine-tipped tweezers grasped close to the skin, pulling upward with steady, even pressure, followed by cleansing the site with antiseptic. Burning, smothering, or squeezing the tick's body can increase the risk of pathogen transmission.",
+      "zh": "正確的蜱蟲移除方式是使用細尖鑷子盡量貼近皮膚夾住蜱蟲，以穩定且均勻的力量向上拔出，再以消毒劑清潔咬傷部位。燒、悶或擠壓蜱蟲的身體皆可能增加病原體傳播的風險。"
+    },
+    "pdf_pages": [
+      1022
+    ],
+    "tags": [
+      "Lyme disease",
+      "patient education",
+      "tick removal"
+    ]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A client is being treated empirically for suspected early Lyme disease following a known tick bite. Which statement by the client reflects accurate understanding of the treatment plan?",
+      "zh": "一位病人因已知的蜱蟲咬傷，正接受疑似早期萊姆病（Lyme disease）的經驗性治療。病人的哪項陳述顯示其正確理解治療計畫？"
+    },
+    "options": [
+      {
+        "en": "\"I will wait for my blood test results before starting any antibiotics.\"",
+        "zh": "「我會等血液檢驗結果出來後再開始服用任何抗生素。」"
+      },
+      {
+        "en": "\"Antibiotics are usually started right away, even before blood test results are available.\"",
+        "zh": "「通常會立即開始使用抗生素，即使血液檢驗結果尚未出來。」"
+      },
+      {
+        "en": "\"A rash must be present at the bite site to confirm the diagnosis and start treatment.\"",
+        "zh": "「咬傷部位必須出現紅疹才能確診並開始治療。」"
+      },
+      {
+        "en": "\"Blood testing is most accurate if done within 24 hours of the bite.\"",
+        "zh": "「在咬傷後24小時內做血液檢驗最準確。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Antibiotic therapy (e.g., doxycycline, cefuroxime, amoxicillin) for suspected Lyme disease is initiated immediately, even before laboratory confirmation; blood testing is not reliable until 4 to 6 weeks after the bite, and many clients never develop the classic rash.",
+      "zh": "疑似萊姆病的抗生素治療（如doxycycline、cefuroxime、amoxicillin）會立即開始，即使尚未取得實驗室確診結果；血液檢驗在咬傷後4至6週內並不可靠，而且許多病人從未出現典型的環狀紅疹。"
+    },
+    "pdf_pages": [
+      1022
+    ],
+    "tags": [
+      "patient education",
+      "Lyme disease",
+      "medication"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is assessing a client admitted with a new diagnosis of pemphigus. Which findings would the nurse expect? Select all that apply.",
+      "zh": "護理師正在評估一位新診斷為天疱瘡（pemphigus）的病人。應預期出現哪些發現？（多選）"
+    },
+    "options": [
+      {
+        "en": "Fragile skin lesions that weep and crust when disrupted",
+        "zh": "脆弱的皮膚病灶，破損時會滲液並形成結痂"
+      },
+      {
+        "en": "A positive Nikolsky's sign",
+        "zh": "Nikolsky氏徵象陽性"
+      },
+      {
+        "en": "Silvery scales covering raised plaques",
+        "zh": "隆起斑塊上覆有銀白色鱗屑"
+      },
+      {
+        "en": "Leukocytosis and eosinophilia",
+        "zh": "白血球增多與嗜伊紅性白血球增多"
+      },
+      {
+        "en": "Foul-smelling discharge from the skin",
+        "zh": "皮膚出現惡臭分泌物"
+      },
+      {
+        "en": "Tiny, intensely itchy vesicles clustered along a dermatome",
+        "zh": "沿皮節分布的細小、劇癢水泡群"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "rationale": {
+      "en": "Pemphigus presents with fragile, partial-thickness lesions that weep, bleed, and form crusts when the bullae are disrupted; a positive Nikolsky's sign (separation of the epidermis with gentle rubbing); leukocytosis and eosinophilia; and foul-smelling skin discharge. Silvery scaled plaques describe psoriasis, and clustered vesicles along a dermatome describe herpes zoster.",
+      "zh": "天疱瘡表現為脆弱的部分厚度皮膚病灶，水泡破損時會滲液、出血並形成結痂；Nikolsky氏徵象（輕輕摩擦皮膚造成表皮分離）陽性；並伴有白血球增多、嗜伊紅性白血球增多及皮膚惡臭分泌物。銀白色鱗屑斑塊是乾癬的特徵，沿皮節分布的水泡群則是帶狀疱疹的特徵。"
+    },
+    "pdf_pages": [
+      1021
+    ],
+    "tags": [
+      "sata",
+      "pemphigus",
+      "assessment"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client is 6 weeks post kidney transplant and reports new-onset fever and increasing fatigue. Which nursing action is the priority?",
+      "zh": "一位腎臟移植術後6週的病人報告新發發燒及疲倦加重。護理師的優先行動是什麼？"
+    },
+    "options": [
+      {
+        "en": "Reassure the client that fatigue is expected and continue routine care.",
+        "zh": "向病人保證疲倦是預期中的現象，並繼續常規照護。"
+      },
+      {
+        "en": "Assess for signs of infection and rejection, and notify the PHCP.",
+        "zh": "評估感染及排斥的徵象，並通知主治醫療人員。"
+      },
+      {
+        "en": "Independently increase the dose of immunosuppressive therapy.",
+        "zh": "自行增加免疫抑制治療的劇量。"
+      },
+      {
+        "en": "Tell the client that these findings are unrelated to the transplant.",
+        "zh": "告知病人這與移植手術無關。"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Posttransplant clients are immunosuppressed and at high risk for both infection and organ rejection; new fever and fatigue require prompt assessment for both complications and notification of the PHCP. The nurse would never independently adjust immunosuppressive dosing.",
+      "zh": "移植後病人處於免疫抑制狀態，同時面臨感染及器官排斥的高風險；新發發燒與疲倦需立即評估這兩種併發症的可能性並通知主治醫療人員。護理師絕不應自行調整免疫抑制劑劇量。"
+    },
+    "pdf_pages": [
+      1024,
+      1025
+    ],
+    "tags": [
+      "priority",
+      "transplant",
+      "infection"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a client with AIDS who has cutaneous Kaposi's sarcoma lesions that are open and draining a scant amount of serous fluid. Which personal protective equipment is appropriate when bathing the client and changing the linens?",
+      "zh": "護理師正在照護一位患有皮膚卡波西氏肉瘤（Kaposi's sarcoma）病灶的AIDS病人，病灶開放並有少量漏出清澈分泌物。為該病人洗澡及更換床單時，適當的個人防護裝備是什麼？"
+    },
+    "options": [
+      {
+        "en": "Gloves only for both tasks",
+        "zh": "兩項工作都只需戴手套"
+      },
+      {
+        "en": "A gown and gloves for both tasks",
+        "zh": "兩項工作都需穿隔離衣並戴手套"
+      },
+      {
+        "en": "A gown, gloves, and an N95 respirator for both tasks",
+        "zh": "兩項工作都需穿隔離衣、戴手套及N95呼吸防護口罩"
+      },
+      {
+        "en": "A gown and gloves only when changing the linens, and no protection for the bath",
+        "zh": "更換床單時穿隔離衣並戴手套，洗澡時則不需任何防護"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Standard precautions with a gown and gloves are appropriate whenever there is potential contact with body fluids or soiled linens, such as with draining Kaposi's sarcoma lesions. A mask or respirator is not indicated because transmission is not respiratory.",
+      "zh": "當可能接觸體液或污染的床單時（如滲液的卡波西氏肉瘤病灶），應採取包含隔離衣與手套的標準防護措施。由於傳播途徑不是經由呼吸道，因此不需使用口罩／呼吸防護器。"
+    },
+    "pdf_pages": [
+      1024
+    ],
+    "tags": [
+      "standard precautions",
+      "Kaposi's sarcoma"
+    ]
+  }
+]

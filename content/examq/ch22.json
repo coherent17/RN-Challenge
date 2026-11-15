@@ -1,0 +1,230 @@
+[
+  {
+    "cat": "HP",
+    "stem": {"en": "A client's last menstrual period began on January 10, 2026, and her cycles are regular at 28 days. Using Näegele's rule, which date is the estimated date of delivery (EDD)?", "zh": "一名個案的末次月經始於 2026 年 1 月 10 日，月經週期規律為 28 天。依據奈格萊氏法則（Näegele's rule），預產期（EDD）應為以下何日？"},
+    "options": [
+      {"en": "October 3, 2026", "zh": "2026 年 10 月 3 日"},
+      {"en": "October 17, 2026", "zh": "2026 年 10 月 17 日"},
+      {"en": "November 17, 2026", "zh": "2026 年 11 月 17 日"},
+      {"en": "December 17, 2026", "zh": "2026 年 12 月 17 日"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Näegele's rule: subtract 3 months from the first day of the LMP, then add 7 days, then add 1 year if needed. January 10, 2026 minus 3 months = October 10, 2025; plus 7 days = October 17, 2025; because it is early enough in the year, add 1 year = October 17, 2026.", "zh": "奈格萊氏法則：以末次月經第一天減 3 個月，再加 7 天，若有需要再加 1 年。2026 年 1 月 10 日減 3 個月＝2025 年 10 月 10 日；加 7 天＝2025 年 10 月 17 日；因時間夠早，加 1 年＝2026 年 10 月 17 日。"},
+    "pdf_pages": [322],
+    "tags": ["dosage calc", "EDD"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is pregnant for the third time. Her history includes a spontaneous miscarriage at 9 weeks' gestation and a term vaginal birth of twins (both currently living) 3 years ago. Using the GTPAL system, how should the nurse document this pregnancy history?", "zh": "一名個案目前是第三次懷孕。病史包括：曾於懷孕 9 週時自然流產，以及 3 年前足月經陰道產下一對雙胞胎（現皆存活）。依 GTPAL 系統，護理師應如何記錄此孕產史？"},
+    "options": [
+      {"en": "G3 T1 P0 A1 L2", "zh": "G3 T1 P0 A1 L2"},
+      {"en": "G3 T2 P0 A1 L2", "zh": "G3 T2 P0 A1 L2"},
+      {"en": "G4 T1 P0 A1 L2", "zh": "G4 T1 P0 A1 L2"},
+      {"en": "G3 T1 P1 A1 L1", "zh": "G3 T1 P1 A1 L1"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Gravida = 3 (this is her third pregnancy). Term births = 1 (the twin birth counts as one term delivery, even though two infants were born). Preterm = 0. Abortions = 1 (the miscarriage, counted in gravidity but not in parity because it occurred before 20 weeks). Living children = 2 (both twins are alive, since living children is recorded as the actual number).", "zh": "Gravida（孕次）＝3（這是她第三次懷孕）。Term（足月產）＝1（雙胞胎生產算作一次足月分娩，即使生下兩名嬰兒）。Preterm（早產）＝0。Abortions（流產）＝1（流產算入孕次，但因發生於 20 週前不算入產次）。Living（現存活子女）＝2（雙胞胎皆存活，因存活子女數以實際人數記錄）。"},
+    "pdf_pages": [322],
+    "tags": ["GTPAL"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Which finding would the nurse identify as a positive (diagnostic) sign of pregnancy, one that confirms pregnancy rather than merely suggesting it?", "zh": "護理師應將下列哪一項發現視為妊娠的「陽性（確診性）徵象」，而非僅是提示性徵象？"},
+    "options": [
+      {"en": "Amenorrhea for 10 weeks", "zh": "停經 10 週"},
+      {"en": "Chadwick's sign noted on pelvic examination", "zh": "骨盆檢查發現查德威克氏徵象（Chadwick's sign）"},
+      {"en": "A positive urine human chorionic gonadotropin (hCG) test", "zh": "尿液人類絨毛膜促性腺激素（hCG）檢測陽性"},
+      {"en": "Fetal heart tones auscultated by Doppler transducer", "zh": "以都卜勒探頭聽診到胎心音"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Positive (diagnostic) signs can be caused by nothing other than pregnancy: fetal heart tones detected by Doppler (10-12 weeks) or fetoscope, active fetal movement palpated by the examiner, and visualization of the fetus by ultrasound. Amenorrhea is a presumptive sign; Chadwick's sign and a positive hCG test are probable signs, since both can occasionally occur from other causes.", "zh": "陽性（確診性）徵象只能由妊娠引起：都卜勒（懷孕 10-12 週）或胎兒聽診器偵測到胎心音、檢查者觸診到主動胎動，以及超音波看到胎兒輪廓。停經屬於推測性徵象；查德威克氏徵象與尿液 hCG 陽性屬於可能性徵象，因為兩者偶爾可由其他原因造成。"},
+    "pdf_pages": [322, 323],
+    "tags": ["recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is measuring fundal height on a client at 34 weeks' gestation who is lying supine. The client suddenly reports feeling dizzy and lightheaded, and her skin becomes pale and diaphoretic. What should the nurse do first?", "zh": "護理師為一名懷孕 34 週、平躺的個案測量子宮底高度時，個案突然表示感到暈眩、頭輕飄飄，皮膚變得蒼白且冒汗。護理師應先採取下列哪一項行動？"},
+    "options": [
+      {"en": "Measure the client's blood pressure immediately", "zh": "立即測量個案的血壓"},
+      {"en": "Turn the client onto her side", "zh": "將個案轉為側臥"},
+      {"en": "Place the client in Trendelenburg position", "zh": "將個案置於特倫德倫伯格氏（Trendelenburg）體位"},
+      {"en": "Administer oxygen via nasal cannula", "zh": "經鼻管給予氧氣"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These are signs of supine hypotension syndrome, caused by the enlarged uterus compressing the inferior vena cava when the client lies flat on her back. The first action is to relieve the compression by repositioning the client onto her side, which restores venous return and cardiac output; only after repositioning should the nurse reassess vital signs or consider oxygen.", "zh": "這些是仰臥低血壓症候群的徵象，由增大的子宮於個案平躺時壓迫下腔靜脈所致。護理師應先解除壓迫，將個案轉為側臥以恢復靜脈回流與心輸出量；重新擺位後才評估生命徵象或考慮給氧。"},
+    "pdf_pages": [323, 324],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client at 28 weeks' gestation has a hemoglobin level of 10.8 g/dL (108 g/L) and a hematocrit of 32%. How should the nurse interpret this finding?", "zh": "一名懷孕 28 週的個案血紅素為 10.8 g/dL（108 g/L），血球容積比（Hct）為 32%。護理師應如何解讀此發現？"},
+    "options": [
+      {"en": "These values indicate anemia and require additional iron supplementation beyond prenatal vitamins", "zh": "這些數值表示貧血，需要在產前維生素之外額外補充鐵劑"},
+      {"en": "These values reflect an expected physiological change of pregnancy and require no intervention", "zh": "這些數值反映懷孕期正常的生理變化，不需任何處置"},
+      {"en": "These values indicate the client is at risk for disseminated intravascular coagulation", "zh": "這些數值表示個案有瀰漫性血管內凝血的風險"},
+      {"en": "These values should be reported to the PHCP immediately as a sign of hemorrhage", "zh": "這些數值應立即通報醫療人員，視為出血的徵象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Physiological anemia of pregnancy occurs because plasma volume increases more than red blood cell volume, diluting the hemoglobin. True anemia in pregnancy is defined as a hemoglobin level less than 10 g/dL or a hematocrit less than 30%. Because this client's values remain above those thresholds, this is an expected dilutional change rather than true anemia.", "zh": "懷孕的生理性貧血是因血漿量增加幅度大於紅血球量增加幅度，使血紅素被稀釋。懷孕期真正貧血的定義為血紅素低於 10 g/dL 或血球容積比低於 30%。由於此個案數值仍高於這些門檻，屬於預期的稀釋性變化，而非真正貧血。"},
+    "pdf_pages": [324, 329],
+    "tags": ["evaluating outcomes", "labs"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is teaching a client who is 8 weeks pregnant about measures to relieve morning sickness. Which statements by the client indicate correct understanding? Select all that apply.", "zh": "護理師在教導一名懷孕 8 週的個案緩解晨吐的方法。下列個案的陳述中，哪些顯示其理解正確？（請選出所有正確答案）"},
+    "options": [
+      {"en": "\"I will keep dry crackers at my bedside and eat a few before I get out of bed.\"", "zh": "「我會在床邊放乾餅乾，起床前先吃幾片。」"},
+      {"en": "\"I will drink my fluids with my meals so I don't need to drink as often.\"", "zh": "「我會在用餐時喝水，這樣就不用常常喝水。」"},
+      {"en": "\"I will eat small, frequent meals throughout the day rather than three large meals.\"", "zh": "「我會少量多餐，而不是一天吃三頓大餐。」"},
+      {"en": "\"I will avoid fried and spicy foods.\"", "zh": "「我會避免油炸與辛辣食物。」"},
+      {"en": "\"I will eat a protein snack at bedtime.\"", "zh": "「我會在睡前吃一份蛋白質點心。」"},
+      {"en": "\"I will brush my teeth right after I wake up, before eating anything.\"", "zh": "「我會一起床就立刻刷牙，吃東西之前先刷。」"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Correct measures include eating dry crackers before rising, eating small frequent low-fat meals, avoiding fried and spicy foods, and eating a protein snack at bedtime. Fluids should be taken between meals rather than with meals to avoid overfilling the stomach and triggering nausea, and brushing the teeth immediately upon arising (before eating) can trigger a gag reflex and worsen nausea, so it should be avoided.", "zh": "正確措施包括起床前吃乾餅乾、少量多餐並選低脂飲食、避免油炸與辛辣食物、睡前吃蛋白質點心。喝水應在兩餐之間而非用餐時，以避免胃過脹而誘發噁心；一起床（還未進食前）就立刻刷牙可能誘發嘔吐反射、加重噁心，應避免。"},
+    "pdf_pages": [326],
+    "tags": ["sata", "need for further teaching", "evaluating outcomes"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who is Rh-negative with a negative antibody screen is at 28 weeks' gestation. What should the nurse anticipate the PHCP will prescribe?", "zh": "一名 Rh 陰性且抗體篩檢陰性的個案目前懷孕 28 週。護理師應預期醫療人員將開立下列何種處置？"},
+    "options": [
+      {"en": "Rho(D) immune globulin now, and again within 72 hours after birth if the newborn is Rh-positive", "zh": "現在給予 Rho(D) 免疫球蛋白，若新生兒為 Rh 陽性，產後 72 小時內再給一次"},
+      {"en": "Rho(D) immune globulin only if the newborn is confirmed Rh-negative at birth", "zh": "只有在新生兒出生後確認為 Rh 陰性時才給予 Rho(D) 免疫球蛋白"},
+      {"en": "Rubella vaccination now to prevent congenital rubella syndrome", "zh": "現在接種德國麻疹疫苗以預防先天性德國麻疹症候群"},
+      {"en": "No prophylaxis unless the client experiences bleeding or trauma", "zh": "除非個案發生出血或外傷，否則不需任何預防性處置"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Rh-negative clients with a negative antibody screen receive Rho(D) immune globulin at 28 weeks' gestation to prevent Rh isoimmunization, and again within 72 hours after birth if the newborn is Rh-positive. Rubella vaccine contains a live virus and is never given during pregnancy.", "zh": "Rh 陰性且抗體篩檢陰性的個案應於懷孕 28 週接受 Rho(D) 免疫球蛋白以預防 Rh 致敏化，若新生兒為 Rh 陽性，產後 72 小時內再追加一次。德國麻疹疫苗含活病毒，懷孕期絕不可接種。"},
+    "pdf_pages": [329],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client at her first prenatal visit has a rubella titer of 1:4, indicating nonimmunity. Which statement by the client indicates a need for further teaching?", "zh": "一名個案於首次產檢時德國麻疹抗體滴定值為 1:4，表示無免疫力。下列個案的哪一句話顯示需要進一步指導？"},
+    "options": [
+      {"en": "\"I should receive the rubella vaccine right after I deliver, before I go home from the hospital.\"", "zh": "「我應該在分娩後、出院前立即接種德國麻疹疫苗。」"},
+      {"en": "\"I can ask my doctor to give me the rubella vaccine today at this visit so I'm protected sooner.\"", "zh": "「我可以請醫師今天這次產檢就幫我打德國麻疹疫苗，這樣可以早點得到保護。」"},
+      {"en": "\"I need to avoid becoming pregnant again for 1 to 3 months after I receive the vaccine.\"", "zh": "「接種疫苗後 1 到 3 個月內，我需要避免再次懷孕。」"},
+      {"en": "\"I should avoid contact with anyone who is immunocompromised after I receive the vaccine.\"", "zh": "「接種疫苗後，我應避免接觸免疫功能低下的人。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rubella vaccine contains a live attenuated virus that may cross the placenta and present a risk to the developing fetus, so it is never administered during pregnancy; it is given postpartum, before discharge, if the titer is less than 1:8. The client also needs effective contraception for 1 to 3 months after vaccination and should avoid contact with anyone who is immunocompromised.", "zh": "德國麻疹疫苗含活性減毒病毒，可能通過胎盤對發育中的胎兒造成風險，故懷孕期間絕不可接種；應於產後、出院前，若滴定值低於 1:8 時才接種。個案接種後也需要有效避孕 1 到 3 個月，並避免接觸免疫功能低下者。"},
+    "pdf_pages": [329],
+    "tags": ["need for further teaching", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client at 26 weeks' gestation undergoes a 1-hour, 50-g oral glucose challenge test, and the result is 155 mg/dL (8.6 mmol/L). What should the nurse anticipate next?", "zh": "一名懷孕 26 週的個案接受 1 小時、50 公克口服葡萄糖耐受試驗，結果為 155 mg/dL（8.6 mmol/L）。護理師應預期接下來會進行下列何項？"},
+    "options": [
+      {"en": "No further testing is needed because this value is within the expected range", "zh": "不需進一步檢查，因為此數值在正常範圍內"},
+      {"en": "The test should be repeated immediately because the result is invalid", "zh": "應立即重測，因為此結果無效"},
+      {"en": "A 3-hour oral glucose tolerance test will be scheduled to confirm or rule out gestational diabetes", "zh": "將安排 3 小時口服葡萄糖耐受試驗以確認或排除妊娠糖尿病"},
+      {"en": "The client should begin insulin therapy based on this result alone", "zh": "個案應僅憑此結果開始胰島素治療"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A 1-hour glucose challenge test result greater than 140 mg/dL (7.8 mmol/L) is considered elevated and is followed by a 3-hour oral glucose tolerance test to confirm or rule out gestational diabetes mellitus; a single elevated screening value is not itself diagnostic, and insulin therapy is not initiated on this result alone.", "zh": "1 小時葡萄糖耐受試驗結果大於 140 mg/dL（7.8 mmol/L）即視為異常，需接著進行 3 小時口服葡萄糖耐受試驗以確認或排除妊娠糖尿病；單次篩檢值異常本身不具確診意義，也不應僅憑此結果開始胰島素治療。"},
+    "pdf_pages": [330],
+    "tags": ["labs", "analyzing cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "At a routine prenatal visit, a client's urine dipstick shows 3+ protein. Which action should the nurse take?", "zh": "在一次常規產檢中，個案的尿液試紙檢測顯示蛋白尿 3+。護理師應採取下列何種行動？"},
+    "options": [
+      {"en": "Document the finding as an expected result of pregnancy and continue the visit as scheduled", "zh": "將此發現記錄為懷孕期的正常結果，照常完成本次產檢"},
+      {"en": "Instruct the client to increase her fluid intake and return in 4 weeks", "zh": "指導個案增加水分攝取，4 週後回診"},
+      {"en": "Notify the PHCP, because this finding may indicate preeclampsia", "zh": "通報醫療人員，因為此發現可能提示子癲前症"},
+      {"en": "Instruct the client to restrict dietary protein until the next visit", "zh": "指導個案限制飲食中蛋白質，直到下次回診"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Although glycosuria is a common, expected finding caused by a decreased renal threshold for glucose in pregnancy, protein levels of 2+ to 4+ in the urine are abnormal and may indicate a urinary tract infection or preeclampsia; this finding warrants prompt notification of the PHCP for further evaluation rather than waiting for the next scheduled visit.", "zh": "雖然糖尿是懷孕期因腎糖閾值下降而常見的正常發現，但尿蛋白 2+ 到 4+ 屬異常，可能提示泌尿道感染或子癲前症；此發現應立即通報醫療人員進一步評估，而非等到下次預約回診。"},
+    "pdf_pages": [330],
+    "tags": ["priority", "requires immediate action", "red flag"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client is scheduled for an amniocentesis at 17 weeks' gestation. Which nursing action is the priority before the procedure begins?", "zh": "一名個案預定於懷孕 17 週接受羊膜穿刺術。在檢查開始前，護理師最優先的行動是下列何項？"},
+    "options": [
+      {"en": "Instruct the client to empty her bladder completely", "zh": "指導個案將膀胱完全排空"},
+      {"en": "Ensure that informed consent has been obtained", "zh": "確認已取得知情同意"},
+      {"en": "Place the client in the lateral position for the procedure", "zh": "將個案擺位為側臥以進行檢查"},
+      {"en": "Administer a prophylactic dose of an antibiotic", "zh": "給予預防性抗生素"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Informed consent must be obtained before any invasive procedure such as amniocentesis. Because this procedure is being performed before 20 weeks, the client should actually have a full (not empty) bladder to support the uterus; after 20 weeks the bladder is emptied to minimize the risk of puncture. The client is positioned supine, not lateral, during the procedure, and a prophylactic antibiotic is not a standard requirement.", "zh": "任何侵入性檢查（如羊膜穿刺術）前都必須先取得知情同意。由於此檢查於 20 週前進行，個案其實應保持膀胱充盈（而非排空）以支撐子宮；20 週後才需排空膀胱以減少穿刺風險。檢查時個案應採平躺姿勢而非側臥，也不需常規給予預防性抗生素。"},
+    "pdf_pages": [331, 332],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client had an amniocentesis performed earlier today. Which findings should the nurse instruct the client to report to the PHCP immediately? Select all that apply.", "zh": "一名個案今日稍早接受了羊膜穿刺術。護理師應指導個案若出現下列哪些發現需立即通報醫療人員？（請選出所有正確答案）"},
+    "options": [
+      {"en": "Temperature of 100.8°F (38.2°C)", "zh": "體溫 100.8°F（38.2°C）"},
+      {"en": "Mild cramping that resolves within an hour after the procedure", "zh": "檢查後一小時內即緩解的輕微痙攣"},
+      {"en": "Leakage of fluid from the needle insertion site", "zh": "穿刺部位有液體滲漏"},
+      {"en": "Decreased fetal movement", "zh": "胎動減少"},
+      {"en": "Uterine contractions", "zh": "子宮收縮"},
+      {"en": "Thin, clear, scant mucus discharge", "zh": "稀薄、清澈、量少的黏液分泌物"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "After amniocentesis, the client should notify the PHCP for chills, a temperature greater than 100.4°F (38°C), bleeding, clot or tissue passage, leakage of fluid at the needle insertion site, decreased fetal movement, uterine contractions, or persistent cramping. Mild, brief cramping right after the procedure and scant clear mucus discharge are expected findings and do not require notification.", "zh": "羊膜穿刺術後，個案若出現畏寒、體溫超過 100.4°F（38°C）、出血、排出血塊或組織、穿刺部位液體滲漏、胎動減少、子宮收縮或持續性痙攣，應通報醫療人員。檢查後短暫、輕微的痙攣以及少量清澈黏液分泌物屬正常預期發現，不需通報。"},
+    "pdf_pages": [332],
+    "tags": ["sata", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nonstress test performed on a client at 32 weeks' gestation shows no fetal heart rate accelerations of at least 15 beats per minute lasting at least 15 seconds in association with fetal movement over a 40-minute observation period. How should the nurse document this result, and what should the nurse anticipate?", "zh": "一名懷孕 32 週的個案進行無壓力試驗（NST），觀察 40 分鐘，未出現與胎動相關、至少上升 15 次/分且持續至少 15 秒的胎心加速。護理師應如何記錄此結果，並預期接下來會如何處置？"},
+    "options": [
+      {"en": "Reactive nonstress test; no further testing is needed", "zh": "反應性無壓力試驗；不需進一步檢查"},
+      {"en": "Nonreactive nonstress test; further evaluation, such as a contraction stress test or biophysical profile, is likely needed", "zh": "無反應性無壓力試驗；可能需要進一步評估，例如子宮收縮壓力試驗或生物理學評估"},
+      {"en": "Unsatisfactory nonstress test; the test should be repeated in 1 week", "zh": "結果無法判讀的無壓力試驗；應於 1 週後重測"},
+      {"en": "Positive nonstress test; immediate cesarean delivery should be prepared", "zh": "陽性無壓力試驗；應準備立即剖腹產"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A reactive (normal) nonstress test requires at least 2 fetal heart rate accelerations of 15 bpm lasting 15 seconds within a 20-minute period. The absence of adequate accelerations over an extended 40-minute observation is a nonreactive result, which is abnormal and requires further evaluation of fetal well-being, such as a contraction stress test or biophysical profile, rather than an automatic move to immediate cesarean delivery.", "zh": "反應性（正常）無壓力試驗要求在 20 分鐘內出現至少 2 次胎心上升 15 次/分、持續 15 秒的加速。若延長觀察至 40 分鐘仍未出現足夠的加速，即為無反應性結果，屬異常，需進一步評估胎兒狀況，例如安排子宮收縮壓力試驗或生物理學評估，而非直接準備立即剖腹產。"},
+    "pdf_pages": [332, 333],
+    "tags": ["analyzing cues", "evaluating outcomes"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Which client statement about headaches during pregnancy should prompt the nurse to recommend further evaluation by the PHCP?", "zh": "下列個案關於懷孕期頭痛的敘述中，哪一項應促使護理師建議其接受醫療人員進一步評估？"},
+    "options": [
+      {"en": "\"I'm at 9 weeks and get an occasional mild headache that goes away when I rest.\"", "zh": "「我現在懷孕 9 週，偶爾有輕微頭痛，休息後就會消退。」"},
+      {"en": "\"I'm at 31 weeks and have had a new, persistent headache for the past day.\"", "zh": "「我現在懷孕 31 週，過去一天出現了新發生且持續不退的頭痛。」"},
+      {"en": "\"I get a headache if I skip a meal, no matter how far along I am.\"", "zh": "「不論懷孕到第幾週，只要我沒吃正餐就會頭痛。」"},
+      {"en": "\"My headaches seem to happen after I've been reading for a long time.\"", "zh": "「我的頭痛似乎是在長時間閱讀之後發生的。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Headaches occurring in the first trimester are usually considered benign, but a new or persistent headache occurring in the second or third trimester may need further investigation because it can be an early sign of a hypertensive disorder of pregnancy, such as preeclampsia.", "zh": "第一孕期出現的頭痛通常被視為良性，但第二或第三孕期出現新發生或持續性的頭痛，可能需要進一步檢查，因為這可能是妊娠高血壓疾患（如子癲前症）的早期徵象。"},
+    "pdf_pages": [326, 329],
+    "tags": ["recognizing cues", "red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A 16-year-old client is newly diagnosed as pregnant. Compared with an adult client, which maternal complication is she at increased risk for because of her age?", "zh": "一名 16 歲個案剛被診斷懷孕。相較於成年個案，因其年齡因素，她較易發生下列何種母體併發症？"},
+    "options": [
+      {"en": "Cephalopelvic disproportion", "zh": "頭骨盆不對稱（CPD）"},
+      {"en": "Decreased risk of anemia due to greater metabolic reserves", "zh": "因代謝儲備較高而貧血風險較低"},
+      {"en": "Reduced risk of preterm birth", "zh": "早產風險較低"},
+      {"en": "Lower rate of sexually transmitted infections", "zh": "性傳染病發生率較低"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Adolescent pregnancy carries an increased risk for cephalopelvic disproportion, because the pelvis may not yet be fully mature, as well as poor nutritional status, anemia, hypertension, prolonged labor, infections, low-birth-weight infants, and stillbirth—not the decreased risks suggested by the other options.", "zh": "青少年懷孕因骨盆可能尚未發育完全，較易發生頭骨盆不對稱，也較易出現營養狀況不佳、貧血、高血壓、產程延長、感染、低出生體重兒及死產，而非其他選項所稱的風險降低。"},
+    "pdf_pages": [328],
+    "tags": ["risk factors"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is counseling a client who is planning to become pregnant. Which instruction is most important for preventing neural tube defects in the fetus?", "zh": "護理師正在諮詢一名計畫懷孕的個案。為預防胎兒神經管缺損，下列哪項指導最重要？"},
+    "options": [
+      {"en": "Begin taking a folic acid supplement before conception and continue it throughout pregnancy", "zh": "於懷孕前即開始補充葉酸，並持續整個孕期"},
+      {"en": "Avoid all seafood during the first trimester", "zh": "第一孕期應避免所有海鮮"},
+      {"en": "Limit caffeine intake to no more than 1 cup of coffee daily", "zh": "每日咖啡因攝取限制在不超過一杯咖啡"},
+      {"en": "Increase sodium intake to support plasma volume expansion", "zh": "增加鈉攝取以支持血漿容積擴張"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "All persons of childbearing age should take folic acid supplements, ideally starting before conception, because adequate folic acid intake significantly reduces the risk of neural tube defects and orofacial clefts in the fetus.", "zh": "所有具生育能力的人都應補充葉酸，最好於懷孕前即開始，因為足量葉酸攝取能顯著降低胎兒神經管缺損及顏面裂的風險。"},
+    "pdf_pages": [328, 333],
+    "tags": ["health promotion"]
+  }
+]

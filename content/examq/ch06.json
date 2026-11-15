@@ -1,0 +1,232 @@
+[
+  {
+    "cat": "MC",
+    "stem": {"en": "A surgeon has explained the risks, benefits, and alternatives of a procedure to a client, and the client then signs the consent form in the nurse's presence. Which statement best describes the nurse's role in this situation?", "zh": "外科醫師已向病人說明手術的風險、益處及替代方案，病人隨後在護理師面前簽署同意書。下列哪項陳述最能描述護理師在此情況中的角色？"},
+    "options": [
+      {"en": "The nurse ensures that the client comprehends all of the medical information before allowing the client to sign", "zh": "護理師在允許病人簽署前，確保病人已理解所有醫療資訊"},
+      {"en": "The nurse witnesses only the client's signature on the consent form", "zh": "護理師僅見證病人在同意書上的簽名"},
+      {"en": "The nurse determines whether the client is making the medically correct decision", "zh": "護理師判斷病人所做的決定在醫學上是否正確"},
+      {"en": "The nurse explains alternative treatment options that were not covered by the surgeon", "zh": "護理師說明外科醫師未提及的替代治療方案"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "In most states, when a nurse is involved in the informed consent process, the nurse is witnessing only the client's signature on the consent form; the responsibility for explaining risks, benefits, and alternatives belongs to the primary health care provider performing the procedure.", "zh": "在大多數州，當護理師參與告知後同意程序時，護理師僅見證病人在同意書上的簽名；說明風險、益處及替代方案的責任屬於執行該項處置的主要醫療照護提供者。"},
+    "pdf_pages": [77],
+    "tags": ["informed consent", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "An unconscious client with life-threatening injuries is brought to the emergency department with no identification, and no family can be located. An emergency surgical procedure is required. Which statement about informed consent in this situation is accurate?", "zh": "一位意識不清、傷勢危及生命的病人被送至急診室，無任何身分證件，也無法聯繫到家屬，現需緊急手術。下列關於此情況中告知後同意的陳述，哪項正確？"},
+    "options": [
+      {"en": "Surgery cannot proceed until a signed consent form is obtained", "zh": "手術必須等到取得已簽署的同意書後才能進行"},
+      {"en": "Informed consent may be waived for the emergency procedure according to institutional policy", "zh": "依機構政策，此緊急手術的告知後同意可被豁免"},
+      {"en": "A court order must be obtained before any treatment can be provided", "zh": "任何治療開始前，必須先取得法院命令"},
+      {"en": "Two primary health care providers must co-sign a waiver before treatment can begin", "zh": "必須有兩位主要醫療照護提供者共同簽署豁免書後才能開始治療"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An informed consent can be waived for urgent medical or surgical intervention when institutional policy allows this, so that lifesaving treatment is not delayed when the client cannot consent and no legal representative is available.", "zh": "當機構政策允許時，緊急醫療或手術處置的告知後同意可被豁免，以避免在病人無法表達同意且無法聯繫法定代理人時，延誤可挽救生命的治療。"},
+    "pdf_pages": [77],
+    "tags": ["informed consent", "emergency", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A 16-year-old presents alone to a clinic requesting treatment for a suspected sexually transmitted infection and asks that the parents not be contacted. Which response by the nurse best reflects the legal standard for minors?", "zh": "一名16歲青少年單獨至診所就診，要求治療疑似性傳染病，並要求不要聯絡父母。下列護理師的回應，哪項最能反映未成年人的法律標準？"},
+    "options": [
+      {"en": "\"I am required to call your parents before you can be treated.\"", "zh": "『我必須先打電話通知你的父母，才能為你治療。』"},
+      {"en": "\"You are legally able to consent to this treatment yourself, without parental involvement.\"", "zh": "『你在法律上可以自行同意接受此治療，不需父母參與。』"},
+      {"en": "\"You will need a court order to be treated without your parents' knowledge.\"", "zh": "『你需要法院命令才能在父母不知情的情況下接受治療。』"},
+      {"en": "\"Only emancipated minors can be treated for this without parental consent.\"", "zh": "『只有已解除監護的未成年人才能在未經父母同意下接受此治療。』"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Minors may legally consent to their own treatment in specific situations, including treatment of a sexually transmitted infection, substance abuse treatment, HIV testing, and birth control or pregnancy-related care, without requiring parental consent.", "zh": "在特定情況下，未成年人可依法自行同意接受治療，包括性傳染病治療、物質濫用治療、HIV檢測，以及避孕或懷孕相關照護，不需父母同意。"},
+    "pdf_pages": [78],
+    "tags": ["minor consent", "legal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which nurse actions represent violations of client confidentiality? Select all that apply.", "zh": "下列哪些護理師的行為構成侵犯病人隱私的行為？請選出所有適用答案。"},
+    "options": [
+      {"en": "Discussing a client's diagnosis with a family member who calls and asks, without the client's permission", "zh": "在未獲病人同意的情況下，向來電詢問的家屬透露病人的診斷"},
+      {"en": "Logging off the computer before leaving the nurses' station", "zh": "離開護理站前先登出電腦系統"},
+      {"en": "Posting a photo of a client to a personal social media account", "zh": "將病人的照片發佈於個人社群媒體帳戶"},
+      {"en": "Discussing a client's case with a colleague in a stairwell where others can overhear", "zh": "在走廊樓梯間與同事討論病人病情，可能被他人聽到"},
+      {"en": "Reviewing the medical record of a client currently assigned to the nurse's care", "zh": "查閱目前指派給自己照顧的病人之病歷"},
+      {"en": "Sharing a computer login password with a busy coworker so the coworker can chart", "zh": "與忙碌的同事分享電腦登入密碼，以協助其記錄病歷"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "Discussing PHI with unauthorized family members, posting client photos, discussing client information where it can be overheard, and sharing login credentials are all violations of confidentiality and information security. Logging off the computer and reviewing the record of an assigned client are appropriate, confidentiality-protecting actions.", "zh": "在未經授權的情況下與家屬討論個人健康資訊、發佈病人照片、在可能被他人聽到的場所討論病人資訊，以及分享登入密碼，皆屬於侵犯隱私及資訊安全的行為。離開前登出電腦及查閱自己負責病人的病歷，則屬於保護隱私的適當行為。"},
+    "pdf_pages": [79, 80],
+    "tags": ["sata", "HIPAA", "confidentiality"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "In a malpractice lawsuit filed against a nurse, which elements must be proven for the nurse to be found liable? Select all that apply.", "zh": "在對護理師提起的醫療疏失訴訟中，必須證明下列哪些要素，才能認定護理師負有法律責任？請選出所有適用答案。"},
+    "options": [
+      {"en": "Duty existed between the nurse and the client", "zh": "護理師與病人之間存在照護義務"},
+      {"en": "The nurse breached the duty of care", "zh": "護理師違反了照護義務"},
+      {"en": "The breach was the proximate cause of the client's injury", "zh": "該違反行為是造成病人傷害的直接原因"},
+      {"en": "The client experienced damage or injury that can be compensated", "zh": "病人遭受了可依法獲得賠償的損害或傷害"},
+      {"en": "The nurse intended to cause harm to the client", "zh": "護理師有意圖傷害病人"},
+      {"en": "The nurse acted with malice toward the client", "zh": "護理師對病人懷有惡意"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Proof of malpractice liability requires establishing that a duty existed, that duty was breached, the breach was the proximate cause of injury, and the client suffered compensable damage or injury. Intent to harm or malice is not required to establish negligence or malpractice.", "zh": "證明醫療疏失責任需確立：存在照護義務、該義務遭違反、違反行為為造成傷害的直接原因，以及病人遭受可獲賠償的損害或傷害。建立疏忽或醫療疏失責任並不需要證明傷害意圖或惡意。"},
+    "pdf_pages": [74, 75],
+    "tags": ["sata", "malpractice", "negligence"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "Which nursing actions are examples of negligent acts that could result in legal liability? Select all that apply.", "zh": "下列哪些護理行為屬於可能導致法律責任的疏忽行為？請選出所有適用答案。"},
+    "options": [
+      {"en": "Failing to monitor an intravenous site for infiltration", "zh": "未能監測靜脈注射部位是否發生滲漏"},
+      {"en": "Providing a detailed and complete discharge teaching plan", "zh": "提供詳細且完整的出院衛教計畫"},
+      {"en": "Leaving a surgical sponge count unverified at the end of a procedure", "zh": "手術結束時未確認紗布計數"},
+      {"en": "Documenting a complete head-to-toe assessment", "zh": "記錄完整的全身評估"},
+      {"en": "Failing to report a significant change in a client's condition to the primary health care provider", "zh": "未能將病人病況的重大變化告知主要醫療照護提供者"},
+      {"en": "Verifying the correct client identifiers before administering a medication", "zh": "給藥前確認正確的病人辨識資訊"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {"en": "Examples of negligent acts include failure to monitor for IV complications such as infiltration, errors in sponge or instrument counts during surgery, and failure to report changes in a client's condition. Complete discharge teaching, thorough documentation, and verifying client identifiers before medication administration are examples of safe, nonnegligent practice.", "zh": "疏忽行為的例子包括未監測靜脈注射併發症（如滲漏）、手術中紗布或器械計數錯誤，以及未能報告病人病況的變化。完整的出院衛教、詳盡的記錄，以及給藥前確認病人辨識資訊，則屬於安全、無疏忽的實務作法。"},
+    "pdf_pages": [75],
+    "tags": ["sata", "negligence"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "An off-duty nurse stops at the scene of a car accident and provides basic first aid to an injured bystander until emergency medical services arrive. The injured person later files a lawsuit claiming the nurse's actions caused harm. Under Good Samaritan laws, which factor is most important in determining the nurse's legal protection?", "zh": "一位非值勤中的護理師在車禍現場停下，為一名受傷的路人提供基本急救，直到救護人員抵達。該受傷者後來提起訴訟，聲稱護理師的行為造成了傷害。依據善良撒馬利亞人法（Good Samaritan law），下列哪項因素在判定該護理師是否受法律保護時最為重要？"},
+    "options": [
+      {"en": "Whether the nurse received any compensation for the care provided", "zh": "護理師是否因所提供的照護而獲得任何報酬"},
+      {"en": "Whether the nurse carries personal malpractice insurance", "zh": "護理師是否自行投保醫療疏失責任險"},
+      {"en": "Whether emergency medical services arrived within 10 minutes", "zh": "救護人員是否在10分鐘內抵達"},
+      {"en": "Whether the nurse documented the care given in writing afterward", "zh": "護理師事後是否以書面方式記錄所提供的照護"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Good Samaritan laws provide legal immunity to health care professionals who give reasonable emergency care, provided certain conditions are met, including that the professional receives no compensation for the care and the care was not given in an intentionally negligent manner.", "zh": "善良撒馬利亞人法為提供合理緊急照護的醫療專業人員提供法律豁免，前提是符合特定條件，包括該專業人員未因所提供的照護獲得報酬，且該照護並非出於故意疏忽。"},
+    "pdf_pages": [75],
+    "tags": ["Good Samaritan law", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A staff nurse administers a medication by the wrong route while functioning within the normal scope of hospital employment, resulting in client harm. Under the doctrine of respondeat superior, who may be held liable for this negligent act?", "zh": "一名在職護理師在正常職責範圍內，以錯誤途徑為病人給藥，導致病人受到傷害。依據『僱主代負責任』（respondeat superior）原則，下列哪一方可能須負法律責任？"},
+    "options": [
+      {"en": "The employer (hospital), in addition to the nurse", "zh": "雇主（醫院），連同該護理師"},
+      {"en": "Only the nurse, personally and exclusively", "zh": "僅由護理師個人獨自承擔責任"},
+      {"en": "The nursing school that originally trained the nurse", "zh": "最初訓練該護理師的護理學校"},
+      {"en": "No one, because medication errors are considered an expected risk", "zh": "無人需負責，因為給藥錯誤被視為預期中的風險"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Under respondeat superior, the employer is held liable for the negligent acts of an employee if the act occurred during the employment relationship and was within the scope of the employee's responsibilities.", "zh": "依據『僱主代負責任』原則，若員工的疏忽行為發生於僱用關係期間，且屬於該員工職責範圍內，雇主須對該員工的疏忽行為負責。"},
+    "pdf_pages": [73],
+    "tags": ["respondeat superior", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse who typically works on a postpartum unit is told to float to a busy medical-surgical unit with no orientation to that unit's client population. Which action should the nurse take first?", "zh": "一位通常在產後病房工作的護理師被指派支援（調派）至繁忙的內外科病房，且未接受該病房的任何導覽或介紹。下列哪項是護理師應優先採取的行動？"},
+    "options": [
+      {"en": "Flatly refuse to float to the unit", "zh": "直接拒絕調派至該病房"},
+      {"en": "Inform the charge nurse of the lack of experience and request an assignment matching the nurse's skill level", "zh": "告知值班護理長自己對該病房缺乏經驗，並要求指派符合其能力程度的病人"},
+      {"en": "Float to the unit, but refuse to accept any client assignments", "zh": "前往該病房，但拒絕接受任何病人指派"},
+      {"en": "Leave the facility for the remainder of the shift", "zh": "該班次剩餘時間直接離開醫院"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A floating nurse should inform the supervisor of any lack of experience with the new unit's client population so that a safe, appropriate assignment can be made; the nurse generally cannot refuse to float outright unless specific conditions apply, but client safety requires open communication about experience and competence.", "zh": "調派的護理師應將自己對新病房病人族群缺乏經驗的情況告知主管，以便安排安全、適當的病人指派；除非符合特定條件，護理師一般不能直接拒絕調派，但病人安全需要護理師就其經驗與能力進行公開溝通。"},
+    "pdf_pages": [73, 74],
+    "tags": ["floating", "delegation", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client has a newly written do-not-resuscitate (DNR) prescription and is scheduled for a diagnostic procedure later that day. Which nursing action is most important?", "zh": "一位病人剛被開立「不施行心肺復甦術」（DNR）醫囑，當天稍後需接受一項診斷性檢查。下列哪項護理行動最為重要？"},
+    "options": [
+      {"en": "Ensure that the DNR status is clearly communicated to all staff involved in the client's care", "zh": "確保DNR狀態已清楚傳達給所有參與此病人照護的工作人員"},
+      {"en": "Cancel all other prescribed treatments because the client has a DNR", "zh": "因病人有DNR醫囑，取消其所有其他已開立的治療"},
+      {"en": "Withhold the client's prescribed pain medication because of the DNR status", "zh": "因DNR狀態而暫停病人原已開立的止痛藥物"},
+      {"en": "Assume the DNR automatically cancels the scheduled diagnostic procedure", "zh": "假定DNR自動取消已安排的診斷性檢查"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "All health care personnel must know whether a client has a DNR prescription so that the appropriate action is taken in the event of cardiopulmonary arrest. A DNR prescription applies specifically to resuscitation and does not mean that other treatments, including pain management or scheduled procedures, are withheld.", "zh": "所有醫護人員都必須知道病人是否有DNR醫囑，以便在發生心肺停止時採取適當行動。DNR醫囑僅適用於心肺復甦術本身，並不代表應停止其他治療，包括疼痛管理或已安排的檢查。"},
+    "pdf_pages": [81, 82],
+    "tags": ["advance directive", "DNR", "legal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse completes an occurrence report after a client fall. Which action by the nurse is appropriate?", "zh": "護理師在一位病人跌倒後完成了意外事件報告（occurrence report）。下列哪項護理行動是恰當的？"},
+    "options": [
+      {"en": "Photocopy the occurrence report and place the copy in the client's medical record", "zh": "影印該意外事件報告，並將副本放入病人病歷中"},
+      {"en": "Document the facts of the fall in the client's record, without referring to the occurrence report by name", "zh": "在病人病歷中以事實方式記錄跌倒經過，但不直接提及意外事件報告的名稱"},
+      {"en": "Write \"occurrence report completed\" as the only nurse's note about the event", "zh": "僅在護理記錄中寫下『已完成意外事件報告』作為唯一記載"},
+      {"en": "Omit any mention of the fall from the medical record since it is described in the occurrence report", "zh": "因跌倒事件已記載於意外事件報告中，故在病歷中省略不記載"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The occurrence report is not a substitute for a complete, factual entry in the client's record describing the event; the report should not be copied into the chart, and the chart should make no reference to the occurrence report form.", "zh": "意外事件報告不能取代病歷中對該事件完整、客觀的事實記載；該報告不應被複製放入病歷，病歷中也不應提及意外事件報告表單。"},
+    "pdf_pages": [80, 81],
+    "tags": ["documentation", "occurrence report", "legal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client confides in the nurse that a family member physically harms the client regularly, but asks the nurse to keep this information private. Which nursing response reflects the nurse's legal and ethical obligations?", "zh": "一位病人私下向護理師透露，家人經常對其施以身體上的傷害，但要求護理師保密。下列哪項護理師的回應最能反映其法律與倫理責任？"},
+    "options": [
+      {"en": "\"I won't tell anyone, since you told me this in confidence.\"", "zh": "『既然你私下告訴我，我不會告訴任何人。』"},
+      {"en": "\"As a nurse, I am required to report this; let's talk about your safety and what happens next.\"", "zh": "『作為護理師，我有責任報告此事；讓我們談談你的安全以及接下來該怎麼做。』"},
+      {"en": "\"This is a private family matter, and it isn't something I can get involved in.\"", "zh": "『這是私人的家庭事務，不是我能介入的事。』"},
+      {"en": "\"I will speak with your family member directly to resolve this.\"", "zh": "『我會直接與你的家人談這件事，以解決問題。』"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Nurses are mandated reporters of suspected domestic violence and abuse; confidentiality does not override this legal obligation. The nurse should explain the duty to report while providing support and information about safety resources.", "zh": "護理師是疑似家庭暴力及受虐事件的法定報告人；保密原則並不能凌駕此項法律責任。護理師應說明報告的責任，同時提供支持及安全資源相關資訊。"},
+    "pdf_pages": [83],
+    "tags": ["mandatory reporting", "domestic violence", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse enters the medication room and finds a coworker with a tourniquet wrapped around their own upper arm, about to insert a needle attached to a syringe of clear liquid into the antecubital area. Which is the most appropriate immediate action by the nurse?", "zh": "護理師進入藥物室時，發現一位同事正將止血帶綁在自己的上臂，準備將裝有透明液體的針筒注射器插入肘窩靜脈。下列哪項是護理師最恰當的立即行動？"},
+    "options": [
+      {"en": "Confront the coworker directly and demand an explanation", "zh": "直接與該同事對質並要求其解釋"},
+      {"en": "Say nothing to avoid a confrontation with the coworker", "zh": "保持沉默以避免與同事發生衝突"},
+      {"en": "Notify the nursing supervisor immediately to protect client and coworker safety", "zh": "立即通知護理督導，以保護病人與同事的安全"},
+      {"en": "Wait until the end of the shift to report the incident", "zh": "等到該班次結束後再報告此事"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "If a nurse suspects that a coworker is impaired and potentially diverting substances, the nurse must report the situation to the nursing supervisor or administration immediately in a confidential manner, because client safety is always the first priority.", "zh": "若護理師懷疑同事可能受物質影響且有挪用藥物的情形，必須立即以保密方式向護理督導或行政主管報告，因為病人安全始終是首要考量。"},
+    "pdf_pages": [83, 84],
+    "tags": ["impaired nurse", "first action", "legal"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client with a terminal illness, who is alert and oriented, refuses further chemotherapy against the primary health care provider's recommendation. The nurse personally disagrees with this decision. Which ethical principle most directs the nurse's required response?", "zh": "一位意識清楚、罹患末期疾病的病人，拒絕繼續接受化學治療，違背主要醫療照護提供者的建議。護理師個人並不認同這項決定。下列哪項倫理原則最能指引護理師應採取的行動？"},
+    "options": [
+      {"en": "Autonomy, respecting the client's right to self-determination", "zh": "自主原則——尊重病人自我決定的權利"},
+      {"en": "Beneficence, persuading the client to continue treatment for their own good", "zh": "行善原則——說服病人為了自身利益繼續治療"},
+      {"en": "Justice, treating this client exactly the same as every other client regardless of their wishes", "zh": "公平原則——不論病人意願，一律給予相同對待"},
+      {"en": "Fidelity, following the primary health care provider's recommendation exactly", "zh": "忠誠原則——完全遵循主要醫療照護提供者的建議"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Autonomy is the ethical principle respecting an individual's right to self-determination and to make their own decisions. The nurse, acting as the client's advocate, must support this decision even when it conflicts with the nurse's own personal values; attempting to persuade the client against their wishes reflects paternalism, an undesirable outcome of beneficence.", "zh": "自主原則是尊重個人自我決定與自行做決定之權利的倫理原則。護理師作為病人的代言人，即使此決定與護理師個人價值觀相衝突，仍須支持病人的決定；試圖說服病人違背自身意願，則反映出行善原則中不良的結果——父權式作為。"},
+    "pdf_pages": [72, 73],
+    "tags": ["ethical dilemma", "autonomy", "advocacy"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "Which statement by a nurse regarding organ donation is accurate?", "zh": "下列關於器官捐贈的護理師陳述，哪項正確？"},
+    "options": [
+      {"en": "\"Organ donation will delay the family's funeral arrangements.\"", "zh": "『器官捐贈會延遲家屬辦理喪葬事宜。』"},
+      {"en": "\"An organ donor must be free of infectious disease and cancer.\"", "zh": "『器官捐贈者必須沒有感染性疾病及癌症。』"},
+      {"en": "\"Only a court-appointed guardian can provide consent for organ donation.\"", "zh": "『只有法院指定的監護人才能同意器官捐贈。』"},
+      {"en": "\"The donor's family will be charged a fee for the organ removal procedure.\"", "zh": "『捐贈者家屬須支付器官摘取手術的費用。』"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A potential organ donor must be free of infectious disease and cancer. Organ donation does not delay funeral arrangements, the family incurs no cost for organ removal, and consent may be given by individuals designated under the Uniform Anatomical Gift Act, not only a court-appointed guardian.", "zh": "潛在器官捐贈者必須沒有感染性疾病及癌症。器官捐贈不會延遲喪葬安排，家屬亦不需為器官摘取負擔任何費用，且依據《統一屍體解剖贈與法》，可由指定的個人提供同意，並不僅限於法院指定的監護人。"},
+    "pdf_pages": [76],
+    "tags": ["organ donation", "legal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which nursing action demonstrates proper handling of controlled substances according to legal and facility requirements?", "zh": "下列哪項護理行動符合法律及機構對管制藥品處理的要求？"},
+    "options": [
+      {"en": "Keeping controlled substances in a locked, secured location accessible only to authorized personnel, with an accurate sign-out record", "zh": "將管制藥品存放於上鎖、安全的地點，僅限授權人員取用，並保持準確的簽收記錄"},
+      {"en": "Allowing any staff member to access the narcotics supply during an emergency without documentation", "zh": "緊急情況下允許任何工作人員取用麻醉藥品，而不進行記錄"},
+      {"en": "Counting the controlled substance inventory only once per week", "zh": "每週僅盤點管制藥品庫存一次"},
+      {"en": "Storing controlled substances in an unlocked medication cart during busy shifts for faster access", "zh": "在繁忙班次中將管制藥品存放於未上鎖的給藥車中，以加快取藥速度"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Controlled substances are governed by federal and state laws and must be kept securely locked, with access limited to authorized personnel and an accurate, properly signed-out inventory maintained at all times.", "zh": "管制藥品受聯邦及州法律規範，必須始終存放於上鎖、安全的地點，僅限授權人員取用，並維持準確且經過正確簽收的庫存記錄。"},
+    "pdf_pages": [75],
+    "tags": ["controlled substances", "legal"]
+  }
+]

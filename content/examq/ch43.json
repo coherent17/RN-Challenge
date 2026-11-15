@@ -1,0 +1,194 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A nurse assesses a client's skin and finds a very painful, large raised nodule located deep within a hair follicle on the posterior neck; no pustule is visible. A wound culture confirms Staphylococcus aureus. Which term best describes this finding?", "zh": "護理師評估病人的皮膚,發現後頸部毛囊深處有一個非常疼痛、腫大隆起的結節,表面未見膿頭。傷口培養確認為金黃色葡萄球菌。下列哪一個名詞最能描述此發現?"},
+    "options": [
+      {"en": "Folliculitis", "zh": "毛囊炎"},
+      {"en": "Furuncle", "zh": "癰(深部毛囊膿腫)"},
+      {"en": "Erysipelas", "zh": "丹毒"},
+      {"en": "Cellulitis", "zh": "蜂窩組織炎"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A furuncle is caused by Staphylococcus and occurs deep in the follicle, presenting as a very painful, large, raised bump that may or may not have a pustule. Folliculitis is a superficial infection of the follicle presenting as a raised red rash with pustules. Erysipelas is a superficial infection of the upper skin layers caused by group A Streptococcus, and cellulitis involves the dermis and hypodermis.", "zh": "癰是由金黃色葡萄球菌引起,發生於毛囊深處,表現為非常疼痛、腫大隆起的腫塊,可能有或沒有膿頭。毛囊炎則是毛囊表淺感染,表現為隆起的紅疹合併膿疱。丹毒是A群鏈球菌引起的皮膚上層表淺感染,而蜂窩組織炎則侵犯真皮與皮下組織。"},
+    "pdf_pages": [589, 590],
+    "tags": ["recognize cues", "wound infection"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client's wound culture confirms methicillin-resistant Staphylococcus aureus (MRSA). Which actions should the nurse include in the plan of care? Select all that apply.", "zh": "病人的傷口培養確認為抗藥性金黃色葡萄球菌(MRSA)。護理師應將下列哪些行動納入照護計畫?(多選)"},
+    "options": [
+      {"en": "Maintain standard precautions and contact precautions", "zh": "維持標準防護措施與接觸隔離"},
+      {"en": "Place the client on droplet precautions instead of contact precautions", "zh": "改以飛沫隔離取代接觸隔離"},
+      {"en": "Dedicate reusable equipment, such as a blood pressure cuff, to this client's room", "zh": "將血壓計等可重複使用的設備專用於此病人房間"},
+      {"en": "Perform hand hygiene before and after client contact even when gloves are worn", "zh": "即使戴手套,接觸病人前後仍執行手部衛生"},
+      {"en": "Discontinue all precautions as soon as the client's temperature returns to normal", "zh": "一旦病人體溫恢復正常即停止所有防護措施"},
+      {"en": "Notify the PHCP of the positive culture so appropriate antibiotic therapy can be started or continued", "zh": "通知醫療人員培養結果為陽性,以便開始或持續適當的抗生素治療"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "MRSA is spread by direct contact with infected skin or articles, so standard and contact precautions (not droplet) are required. Dedicating equipment and performing hand hygiene even with gloves reduce transmission. A culture and sensitivity test guides antibiotic selection. Precautions are not discontinued based on temperature alone; they continue until the infection resolves or per facility policy.", "zh": "MRSA是透過直接接觸感染的皮膚或物品傳播,因此需要標準防護措施與接觸隔離(而非飛沫隔離)。專用設備與戴手套前後仍執行手部衛生可降低傳播風險。培養與藥敏試驗可指引抗生素選擇。防護措施不應僅因體溫恢復正常就停止,應持續至感染解除或依機構政策執行。"},
+    "pdf_pages": [589, 590],
+    "tags": ["sata", "safety", "wound infection"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is admitted with an acute skin infection of the lower leg. The nurse notes deep red erythema without sharp borders, tenderness, and edema extending into the dermis and underlying hypodermis. Which condition do these findings represent?", "zh": "病人因下肢急性皮膚感染入院。護理師發現深紅色紅斑、邊界不清、觸痛,且水腫已延伸至真皮與皮下組織。這些發現代表下列哪一種狀況?"},
+    "options": [
+      {"en": "Erysipelas, a superficial infection confined to the upper skin layers", "zh": "丹毒,一種侵犯皮膚上層的表淺感染"},
+      {"en": "Cellulitis, an infection of the dermis and underlying hypodermis", "zh": "蜂窩組織炎,侵犯真皮及皮下組織的感染"},
+      {"en": "Candidiasis, a superficial fungal infection", "zh": "念珠菌病,一種表淺的黴菌感染"},
+      {"en": "Herpes zoster, a viral infection of the dorsal nerve root ganglia", "zh": "帶狀疱疹,一種侵犯背根神經節的病毒感染"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Cellulitis is an infection of the dermis and underlying hypodermis caused by group A Streptococcus or Staphylococcus aureus, presenting with deep erythema without sharp borders. Erysipelas is superficial and affects only the upper skin layers with more sharply demarcated borders.", "zh": "蜂窩組織炎是由A群鏈球菌或金黃色葡萄球菌引起的真皮及皮下組織感染,表現為邊界不清的深紅斑。丹毒則屬表淺感染,僅侵犯皮膚上層,邊界較為清楚。"},
+    "pdf_pages": [590],
+    "tags": ["recognize cues", "wound infection"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse manager is assigning staff to care for a hospitalized client with disseminated herpes zoster who requires airborne and contact precautions. Which staff members should NOT be assigned to this client's care? Select all that apply.", "zh": "護理長正在分配人員照護一位住院的廣泛性帶狀疱疹病人,該病人需要空氣隔離與接觸隔離。下列哪些工作人員不應被分配照護此病人?(多選)"},
+    "options": [
+      {"en": "A nurse who has never had chickenpox and has not received the varicella vaccine", "zh": "從未得過水痘且未接種水痘疫苗的護理師"},
+      {"en": "A nurse who is 10 weeks pregnant with an unknown varicella immunity status", "zh": "懷孕10週、水痘免疫狀態不明的護理師"},
+      {"en": "A nurse who had chickenpox as a child with documented immunity", "zh": "兒童時期得過水痘且已有免疫力文件記錄的護理師"},
+      {"en": "A nurse who received two documented doses of the varicella vaccine as a child", "zh": "兒童時期已接種兩劑水痘疫苗且有文件記錄的護理師"},
+      {"en": "A nurse who had mumps in childhood", "zh": "兒童時期得過腮腺炎的護理師"},
+      {"en": "A nurse who is currently receiving high-dose systemic corticosteroid therapy for an unrelated condition", "zh": "目前因其他疾病正接受高劑量全身性類固醇治療的護理師"}
+    ],
+    "answer": [0, 1, 5],
+    "rationale": {"en": "Herpes zoster is caused by reactivation of the varicella-zoster virus; staff without documented chickenpox history or vaccination, or who are immunocompromised (such as pregnancy with unknown immunity or high-dose corticosteroid therapy), are susceptible or at increased risk and should not be assigned. Documented chickenpox history or vaccination confers immunity. A history of mumps is unrelated to varicella-zoster susceptibility.", "zh": "帶狀疱疹是由水痘-帶狀疱疹病毒再活化所引起;無已記錄水痘病史或疫苗接種史的人員,或處於免疫低下狀態者(例如免疫狀態不明的孕婦或正接受高劑量類固醇治療者),屬易感染或風險增加族群,不應被分配照護此病人。已記錄的水痘病史或疫苗接種可提供免疫力。腮腺炎病史與水痘-帶狀疱疹病毒的易感性無關。"},
+    "pdf_pages": [589],
+    "tags": ["sata", "delegation", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with herpes zoster involving the ear and face develops new onset of drooping on one side of the face with inability to fully close the eye on that side. Which action should the nurse take first?", "zh": "一位帶狀疱疹侵犯耳部與臉部的病人,新出現單側臉部下垂,且該側眼睛無法完全閉合。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Document the finding and reassess in 8 hours", "zh": "記錄此發現,並於8小時後重新評估"},
+      {"en": "Notify the PHCP, because this may indicate seventh cranial nerve involvement (Bell's palsy) with risk for eye injury", "zh": "通知醫療人員,因為這可能代表第七對腦神經受累(貝爾氏麻痺),有眼睛受傷的風險"},
+      {"en": "Apply a warm compress to the affected side of the face", "zh": "對患側臉部敷熱"},
+      {"en": "Encourage the client to perform vigorous facial exercises immediately", "zh": "鼓勵病人立即進行用力的臉部運動"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Bell's palsy, a complication of herpes zoster involving seventh cranial nerve function, can impair the ability to close the eyelid, placing the client at risk for corneal injury; the nurse must notify the PHCP promptly for evaluation and eye protection measures. Delaying assessment, applying heat, or encouraging exercise do not address the urgent risk.", "zh": "貝爾氏麻痺是帶狀疱疹侵犯第七對腦神經功能的併發症,會影響眼瞼閉合能力,使病人有角膜受傷的風險;護理師應立即通知醫療人員以評估並採取眼睛保護措施。延遲評估、敷熱或鼓勵運動皆無法處理此緊急風險。"},
+    "pdf_pages": [589],
+    "tags": ["red flag", "first action", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is reviewing photographs of clients' skin lesions during a dermatology clinic orientation. Which characteristics are consistent with melanoma? Select all that apply.", "zh": "護理師在皮膚科門診訓練中查看病人皮膚病灶的照片。下列哪些特徵符合黑色素瘤?(多選)"},
+    "options": [
+      {"en": "Irregular, circular-bordered lesion with hues of tan, black, or blue", "zh": "邊界不規則、呈圓形,顏色呈棕褐、黑或藍色調的病灶"},
+      {"en": "Waxy nodule with a pearly, rolled border and central crater", "zh": "蠟狀結節,帶有珍珠光澤的捲邊與中央凹陷"},
+      {"en": "Rapid infiltration into surrounding tissue with high metastatic potential", "zh": "快速侵入周邊組織,具高度轉移潛力"},
+      {"en": "Firm, nodular lesion topped with a crust or area of ulceration", "zh": "堅硬、結節狀病灶,表面覆蓋結痂或潰瘍區域"},
+      {"en": "Occurs most often at sites of preexisting moles or birthmarks", "zh": "最常發生於原有的痣或胎記部位"},
+      {"en": "Rarely metastasizes to other organs", "zh": "罕見轉移至其他器官"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {"en": "Melanoma presents as an irregular, circular-bordered lesion with tan, black, or blue hues; it infiltrates rapidly and is highly metastatic, and it occurs most often where birthmarks or moles are apparent. A waxy nodule with a pearly border and crater describes basal cell carcinoma, and a firm, crusted or ulcerated nodular lesion describes squamous cell carcinoma; basal cell carcinoma, not melanoma, rarely metastasizes.", "zh": "黑色素瘤表現為邊界不規則的圓形病灶,顏色呈棕褐、黑或藍色調;會快速侵入組織且高度轉移,最常發生於原有胎記或痣的部位。帶珍珠光澤邊緣與中央凹陷的蠟狀結節描述的是基底細胞癌,堅硬且結痂或潰瘍的結節狀病灶則描述鱗狀細胞癌;罕見轉移的是基底細胞癌,而非黑色素瘤。"},
+    "pdf_pages": [592, 593],
+    "tags": ["sata", "recognize cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client with several atypical moles about skin self-assessment. Which statement by the client indicates the need for further teaching?", "zh": "護理師正在教導一位有多顆不典型痣的病人如何進行皮膚自我檢查。病人的下列哪一句話表示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will perform a skin self-examination once a month.\"", "zh": "「我會每月進行一次皮膚自我檢查。」"},
+      {"en": "\"I should have a mole removed if it is in an area that is subject to chronic irritation.\"", "zh": "「若有痣位於經常受到慢性刺激的部位,我應該將它移除。」"},
+      {"en": "\"Since none of my moles has changed in the past year, I do not need to have them checked by a provider again.\"", "zh": "「因為我的痣過去一年都沒有改變,所以不需要再給醫療人員檢查了。」"},
+      {"en": "\"I will note any change in the color, size, or shape of a mole and report it.\"", "zh": "「我會注意痣的顏色、大小或形狀有無改變,並予以報告。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Clients at increased risk for skin cancer should continue routine provider follow-up and ongoing monthly self-assessment regardless of whether changes have been noted, because new changes can develop at any time; stopping follow-up indicates a need for further teaching. The other statements reflect correct understanding of skin cancer risk reduction.", "zh": "罹患皮膚癌風險較高的病人應持續接受常規的醫療人員追蹤與每月自我檢查,無論先前是否發現變化,因為新的變化可能隨時出現;停止追蹤表示需要進一步指導。其餘陳述皆正確反映降低皮膚癌風險的概念。"},
+    "pdf_pages": [592, 593],
+    "tags": ["teaching", "need further teaching", "health promotion"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client with extensive plaque psoriasis on the arms and scalp tells the nurse, \"I stopped going to the gym because people stare at my skin.\" Which response by the nurse is most therapeutic?", "zh": "一位手臂與頭皮有廣泛乾癬斑塊的病人對護理師說:「我已經不去健身房了,因為大家都盯著我的皮膚看。」護理師的下列哪一句回應最具治療性?"},
+    "options": [
+      {"en": "\"Try wearing long sleeves so others won't notice.\"", "zh": "「試著穿長袖,這樣別人就不會注意到了。」"},
+      {"en": "\"Psoriasis isn't contagious, so there's nothing to worry about.\"", "zh": "「乾癬不會傳染,所以不需要擔心。」"},
+      {"en": "\"It sounds like this has really affected how comfortable you feel around others. Tell me more about that.\"", "zh": "「聽起來這件事確實影響了你和別人相處時的自在感,可以多說一些嗎?」"},
+      {"en": "\"Many people have skin conditions; try not to let it bother you.\"", "zh": "「很多人都有皮膚問題,試著別讓它困擾你。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Reflecting the client's feelings and inviting further expression acknowledges the psychosocial impact of the visible skin condition, such as altered body image and social isolation, and opens therapeutic communication. Suggesting the client simply cover the skin, minimizing the concern, or telling the client not to let it bother them dismisses the client's feelings.", "zh": "反映病人的感受並邀請病人進一步表達,能肯認可見皮膚病灶對身心的衝擊,例如身體心像改變與社交孤立,並開啟治療性溝通。建議病人單純遮掩皮膚、淡化問題或告訴病人別讓它困擾自己,都會忽視病人的感受。"},
+    "pdf_pages": [593, 594],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "Which comfort measures should the nurse include in the plan of care for a hospitalized client with acute herpes zoster pain? Select all that apply.", "zh": "對於急性帶狀疱疹疼痛的住院病人,護理師應將下列哪些舒適措施納入照護計畫?(多選)"},
+    "options": [
+      {"en": "Keep the room environment cool", "zh": "維持病室環境涼爽"},
+      {"en": "Encourage the client to wear lightweight, loose cotton clothing over the affected area", "zh": "鼓勵病人在患部穿著輕薄寬鬆的棉質衣物"},
+      {"en": "Apply firm pressure dressings directly over the vesicles to prevent scratching", "zh": "在水疱上直接施加加壓敷料以防止抓癢"},
+      {"en": "Avoid wool or synthetic fabric against the affected skin", "zh": "避免讓羊毛或人造纖維布料接觸患部皮膚"},
+      {"en": "Use an air mattress and bed cradle if the client is hospitalized", "zh": "若病人住院,使用氣墊床與床架支撐架"},
+      {"en": "Apply direct heat packs to the lesions to promote comfort", "zh": "在病灶上直接敷熱敷包以促進舒適"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "A cool environment, lightweight loose cotton clothing, avoidance of wool or synthetic fabric, and use of an air mattress and bed cradle reduce friction and irritation to painful lesions. Warmth and touch, including firm dressings or direct heat, aggravate herpes zoster pain and should be avoided.", "zh": "涼爽環境、輕薄寬鬆的棉質衣物、避免羊毛或人造纖維布料,以及使用氣墊床與床架支撐架,都能減少對疼痛病灶的摩擦與刺激。溫暖與觸碰(包括加壓敷料或直接熱敷)會加重帶狀疱疹疼痛,應予避免。"},
+    "pdf_pages": [589],
+    "tags": ["sata", "comfort"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who began taking a sulfonamide antibiotic 10 days ago reports flu-like symptoms, and the nurse notes diffuse erythema with early blister formation on the skin and oral mucosa. Which action should the nurse take first?", "zh": "一位10天前開始服用磺胺類抗生素的病人,表示出現類似流感的症狀,護理師發現皮膚與口腔黏膜有廣泛紅斑並開始形成水疱。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Apply a topical corticosteroid cream to the affected areas", "zh": "在患處塗抹外用類固醇藥膏"},
+      {"en": "Encourage increased oral fluid intake and reassess in the morning", "zh": "鼓勵病人增加口服水分攝取,並於明早重新評估"},
+      {"en": "Hold the next dose of the antibiotic and notify the PHCP immediately", "zh": "暫停下一劑抗生素,並立即通知醫療人員"},
+      {"en": "Obtain a wound culture before taking any other action", "zh": "先取得傷口培養樣本,再採取其他行動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "These findings are consistent with early Stevens-Johnson syndrome, a medication-induced skin reaction commonly triggered by sulfonamide antibiotics; the priority action is to discontinue the suspected medication and notify the PHCP immediately, because the condition can progress to a severe, potentially fatal systemic reaction. Applying a topical treatment, waiting, or obtaining a culture first delays essential intervention.", "zh": "這些發現符合早期史蒂文斯-強生症候群,這是一種常由磺胺類抗生素引發的藥物誘發皮膚反應;優先行動是停用可疑藥物並立即通知醫療人員,因為此病況可能進展為嚴重、甚至致命的全身性反應。先塗抹外用藥、等待觀察或取得培養都會延誤必要的處置。"},
+    "pdf_pages": [593, 594],
+    "tags": ["red flag", "first action", "requires immediate action", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client arrives at the emergency department after prolonged cold exposure. The nurse notes small hemorrhagic blisters on the fingers that are beginning to form a dry, blackened eschar extending into the subcutaneous tissue. Which degree of frostbite is consistent with these findings?", "zh": "一位病人因長時間暴露於寒冷環境後到急診就醫。護理師發現其手指出現小型出血性水疱,並開始形成乾燥、發黑的焦痕,深入皮下組織。這些發現符合下列哪一等級的凍傷?"},
+    "options": [
+      {"en": "First-degree", "zh": "第一度"},
+      {"en": "Second-degree", "zh": "第二度"},
+      {"en": "Third-degree", "zh": "第三度"},
+      {"en": "Fourth-degree", "zh": "第四度"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Third-degree frostbite involves small hemorrhagic blisters usually followed by eschar formation involving the hypodermis, requiring debridement. First-degree involves white plaque with hyperemia and edema; second-degree involves large, clear fluid-filled blisters; fourth-degree involves full-thickness necrosis with visible tissue loss extending into muscle and bone without blisters or edema.", "zh": "第三度凍傷表現為小型出血性水疱,通常接著形成深入皮下組織的焦痕,需要清創處理。第一度為白色斑塊合併充血與水腫;第二度為大型透明液體水疱;第四度則無水疱或水腫,表現為全層壞死合併可見組織流失,深達肌肉與骨骼。"},
+    "pdf_pages": [591],
+    "tags": ["recognize cues", "cold injury"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A community health nurse is teaching camp counselors how to respond if a camper known to be allergic to bee stings is stung. Which instructions should the nurse include? Select all that apply.", "zh": "一位社區衛生護理師正在教導營隊輔導員,如何應對已知對蜂螫過敏的營員遭到蜂螫的情況。護理師應包含下列哪些指導內容?(多選)"},
+    "options": [
+      {"en": "Have the camper carry an epinephrine autoinjector for self-administration", "zh": "讓營員隨身攜帶腎上腺素自動注射器以供自行使用"},
+      {"en": "Seek emergency medical care after using the autoinjector, even if symptoms improve", "zh": "使用自動注射器後仍應尋求緊急醫療照護,即使症狀已改善"},
+      {"en": "Remove the stinger by grasping it directly with tweezers", "zh": "用鑷子直接夾住螫針將其移除"},
+      {"en": "Keep a second epinephrine autoinjector available and obtain a replacement as soon as one is used", "zh": "備有第二支腎上腺素自動注射器,並在使用後儘快補充替換"},
+      {"en": "Reassure the camper that once symptoms improve after the injection, no further monitoring is needed", "zh": "向營員保證注射後症狀改善即不需再監測"},
+      {"en": "Explain that symptoms of anaphylaxis can return hours after the first epinephrine injection (rebound reaction)", "zh": "說明過敏性休克症狀可能在第一次注射腎上腺素後數小時再度出現(反彈反應)"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Individuals allergic to bee stings should carry an epinephrine autoinjector, seek emergency care after use even if symptoms improve, keep a second injector available with prompt replacement, and be monitored for rebound anaphylaxis, which can occur hours or days later. The stinger should be removed by scraping or brushing it off, not by grasping with tweezers, to avoid pinching the venom sac, and monitoring should continue even after improvement.", "zh": "對蜂螫過敏者應隨身攜帶腎上腺素自動注射器,使用後即使症狀改善仍應尋求緊急醫療照護,備有第二支注射器並儘快補充替換,並監測可能於數小時或數天後出現的反彈性過敏性休克。螫針應以輕刮或輕撥方式移除,而非用鑷子夾取,以避免壓擠毒囊;即使症狀改善,監測仍應持續。"},
+    "pdf_pages": [591, 592],
+    "tags": ["sata", "generate solutions", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client reports a spider bite that occurred several hours ago. The nurse notes a small red papule at the site, and the client reports muscle cramping and abdominal rigidity but no wound necrosis. Which spider is the most likely source of this bite?", "zh": "一位病人表示幾小時前被蜘蛛咬傷。護理師發現咬傷部位有一個小型紅色丘疹,病人表示有肌肉抽筋與腹部僵硬,但無傷口壞死現象。此咬傷最可能來自下列哪一種蜘蛛?"},
+    "options": [
+      {"en": "Brown recluse spider, because of the necrotic wound it produces", "zh": "棕色隱士蜘蛛,因其會造成壞死性傷口"},
+      {"en": "Black widow spider, because of its neurotoxic venom", "zh": "黑寡婦蜘蛛,因其毒液具神經毒性"},
+      {"en": "Tarantula, because of barbed hair penetration", "zh": "狼蛛,因其倒刺毛穿刺皮膚"},
+      {"en": "Scorpion, because of its stinging apparatus", "zh": "蠍子,因其尾部具螫刺器官"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A black widow spider bite causes a small red papule with venom-induced neurotoxicity that can produce muscle cramping, abdominal rigidity, and systemic toxicity requiring supportive hospital care. A brown recluse spider bite typically causes a necrotic wound, which is absent here; tarantula and scorpion exposures present with different local findings (barbed hair penetration or a stinging apparatus injury).", "zh": "黑寡婦蜘蛛咬傷會造成小型紅色丘疹,其毒液具神經毒性,可導致肌肉抽筋、腹部僵硬及需要住院支持治療的全身性毒性反應。棕色隱士蜘蛛咬傷通常會造成壞死性傷口,而此病人並無此現象;狼蛛與蠍子的暴露則會呈現不同的局部發現(倒刺毛穿刺或螫刺器官造成的傷害)。"},
+    "pdf_pages": [591],
+    "tags": ["recognize cues", "bites and stings"]
+  }
+]

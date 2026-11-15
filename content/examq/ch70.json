@@ -1,0 +1,380 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A provider prescribes 1000 mL of normal saline to infuse over 8 hours using tubing with a drop factor of 15 gtt/mL. How many drops per minute should the nurse set the infusion? (Round to the nearest whole number.)", "zh": "醫師開立 1000 mL 生理食鹽水於 8 小時內輸完，使用滴數係數 15 gtt/mL 的管路。護理師應將輸液速率設為每分鐘幾滴？（四捨五入至整數）"},
+    "options": [
+      {"en": "16 gtt/min", "zh": "16 gtt/min"},
+      {"en": "21 gtt/min", "zh": "21 gtt/min"},
+      {"en": "31 gtt/min", "zh": "31 gtt/min"},
+      {"en": "125 gtt/min", "zh": "125 gtt/min"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rate = 1000 mL / 8 hr = 125 mL/hr. gtt/min = (125 mL/hr x 15 gtt/mL) / 60 min = 1875/60 = 31.25, which rounds to 31. (Recheck: 1000x15/480min = 31.25). The correct setting is 31 gtt/min.", "zh": "速率＝1000 mL／8 小時＝125 mL/hr。gtt/min＝（125 mL/hr × 15 gtt/mL）／60 分＝1875／60＝31.25，四捨五入為 31。正確設定為 31 gtt/min。"},
+    "pdf_pages": [1125, 1126],
+    "tags": ["dosage calc", "iv therapy"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving an IV infusion through a peripheral line suddenly reports dyspnea and chest tightness, becomes anxious, and has a drop in oxygen saturation with a new churning heart murmur. What is the nurse's first action?", "zh": "接受周邊靜脈輸液的個案突然出現呼吸困難、胸悶、焦慮、血氧飽和度下降並出現新的攪拌樣心雜音。護理師的首要行動為何？"},
+    "options": [
+      {"en": "Place the client in high Fowler's position", "zh": "讓個案採高坐臥位"},
+      {"en": "Clamp the IV tubing and turn the client onto the left side with the head down", "zh": "夾閉靜脈管路並將個案翻向左側、頭部放低"},
+      {"en": "Increase the IV flow rate to flush the line", "zh": "加快靜脈輸液速率以沖洗管路"},
+      {"en": "Disconnect the IV tubing from the catheter hub", "zh": "將靜脈管路從導管接頭分離"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These findings suggest air embolism. The nurse should clamp the tubing to stop further air entry, position the client on the left side with the head down (Trendelenburg) to trap air in the right ventricular apex away from the pulmonary outflow tract, give oxygen, and notify the provider immediately.", "zh": "此為空氣栓塞表現。護理師應夾閉管路以阻止空氣繼續進入，將個案置於左側臥頭低位（Trendelenburg）使空氣滯留於右心室尖端而遠離肺動脈出口，給氧並立即通知醫師。"},
+    "pdf_pages": [1129, 1132],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is to receive a unit of fresh frozen plasma. Which nursing action is appropriate?", "zh": "個案將接受一袋新鮮冷凍血漿輸注。下列哪項護理行動適當？"},
+    "options": [
+      {"en": "Infuse it within 2 hours after thawing", "zh": "解凍後 2 小時內輸完"},
+      {"en": "Add it to the same bag as the client's lactated Ringer's solution", "zh": "與個案的乳酸林格氏液混入同一袋輸注"},
+      {"en": "Administer it over 6-8 hours to prevent fluid overload", "zh": "以 6–8 小時輸注以預防容積過多"},
+      {"en": "Withhold vital signs during infusion unless the client complains of symptoms", "zh": "輸注期間不需測生命徵象，除非個案有症狀才測"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Fresh frozen plasma loses clotting factor activity over time once thawed, so it should be infused within about 2 hours of thawing. Only normal saline is used with blood products, and vital signs are monitored per protocol (baseline, 15 minutes, then periodically) throughout any blood component transfusion.", "zh": "新鮮冷凍血漿解凍後凝血因子活性會隨時間下降，應於解凍後約 2 小時內輸完。血液製品僅可與生理食鹽水共用，且任何血液成分輸注皆須依規範監測生命徵象（基礎值、15 分鐘、之後定期）。"},
+    "pdf_pages": [1137, 1138],
+    "tags": ["blood products"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse begins a transfusion of one unit of packed red blood cells. At what time point is the client at greatest risk for a severe hemolytic or anaphylactic reaction?", "zh": "護理師開始輸注一袋濃縮紅血球。個案在哪個時間點發生嚴重溶血或過敏性反應的風險最高？"},
+    "options": [
+      {"en": "During the first 15 minutes or first 50 mL infused", "zh": "輸注的前 15 分鐘或前 50 mL"},
+      {"en": "Between 1 and 2 hours into the infusion", "zh": "輸注開始後 1 至 2 小時之間"},
+      {"en": "Only after the entire unit has infused", "zh": "僅在整袋輸完之後"},
+      {"en": "The risk is equal throughout the infusion", "zh": "整個輸注過程中風險相同"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "ABO incompatibility and severe allergic reactions most often become apparent within the first 15 minutes or first 50 mL, so the nurse infuses slowly and stays with the client during this period before increasing to the prescribed rate.", "zh": "ABO 不合與嚴重過敏反應通常在前 15 分鐘或前 50 mL 內出現，因此護理師應緩慢輸注並於此期間陪伴個案，之後才調整至醫囑速率。"},
+    "pdf_pages": [1140, 1141],
+    "tags": ["priority", "blood products"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving total parenteral nutrition through a central line has an order for a lipid emulsion to infuse separately. Before starting the infusion, which assessment is most important?", "zh": "接受全靜脈營養（經中心靜脈）的個案另開立脂肪乳劑分開輸注的醫囑。開始輸注前最重要的評估為何？"},
+    "options": [
+      {"en": "History of egg allergy", "zh": "蛋過敏病史"},
+      {"en": "History of lactose intolerance", "zh": "乳糖不耐病史"},
+      {"en": "Last bowel movement", "zh": "上次排便時間"},
+      {"en": "Shellfish allergy", "zh": "海鮮過敏"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Lipid emulsions contain egg yolk phospholipid, so a history of egg allergy must be assessed before starting the infusion. The infusion is also started slowly (1 mL/min) with vital signs every 10 minutes for the first 30 minutes, watching for chest/back pain, dyspnea, or fever.", "zh": "脂肪乳劑含蛋黃磷脂，開始輸注前須評估蛋過敏病史。輸注應緩慢開始（1 mL/min），前 30 分鐘每 10 分鐘測生命徵象，留意胸背痛、呼吸困難或發燒。"},
+    "pdf_pages": [1134, 1135],
+    "tags": ["allergy", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Before administering a bolus tube feeding through a newly placed nasogastric tube, the nurse aspirates gastric contents and checks the pH. Which pH result best confirms gastric placement?", "zh": "經新置入之鼻胃管灌食前，護理師抽吸胃內容物並檢測 pH 值。下列哪項 pH 結果最能確認鼻胃管位於胃部？"},
+    "options": [
+      {"en": "pH 3.0", "zh": "pH 3.0"},
+      {"en": "pH 6.5", "zh": "pH 6.5"},
+      {"en": "pH 7.5", "zh": "pH 7.5"},
+      {"en": "pH 8.0", "zh": "pH 8.0"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A gastric aspirate pH of 3.5 or lower supports gastric placement; higher, more alkaline readings suggest intestinal or respiratory placement. An x-ray is still used to confirm initial placement before the first use.", "zh": "抽吸液 pH 3.5 以下支持鼻胃管位於胃內；較高、偏鹼性的數值提示管路可能位於腸道或呼吸道。首次使用前仍須以 X 光確認位置。"},
+    "pdf_pages": [1144, 1145],
+    "tags": ["labs", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with a Sengstaken-Blakemore tube for bleeding esophageal varices suddenly develops severe respiratory distress. What should the nurse do first?", "zh": "因食道靜脈曲張出血置入 Sengstaken-Blakemore 管的個案突然出現嚴重呼吸窘迫。護理師應首先採取下列哪項行動？"},
+    "options": [
+      {"en": "Increase suction to the gastric port", "zh": "增加胃腔抽吸力"},
+      {"en": "Cut the tube to rapidly deflate the balloons", "zh": "剪斷管路以快速使氣囊洩氣"},
+      {"en": "Advance the tube further to reposition it", "zh": "將管路再推進以重新定位"},
+      {"en": "Irrigate the tube with iced saline", "zh": "以冰生理食鹽水灌洗管路"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sudden respiratory distress can occur if the balloon migrates and occludes the airway. Scissors should be kept at the bedside at all times so the tube can be cut immediately to deflate the balloons and relieve airway obstruction; this is an emergency and takes priority over other actions.", "zh": "若氣囊移位阻塞呼吸道可能造成突發性呼吸窘迫。床邊應隨時備剪刀，以便立即剪斷管路使氣囊洩氣解除呼吸道阻塞；此為緊急狀況，優先於其他處置。"},
+    "pdf_pages": [1146],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse notes that a client's tracheostomy tube is pulsating in synchrony with the heartbeat and bright red blood begins pooling around the stoma. What is the priority action?", "zh": "護理師發現個案的氣切管隨心跳同步搏動，且造口周圍出現鮮紅血液聚積。首要行動為何？"},
+    "options": [
+      {"en": "Suction the tracheostomy tube", "zh": "抽吸氣切管"},
+      {"en": "Apply firm direct pressure and call for emergency help", "zh": "施加堅實直接加壓並呼叫緊急協助"},
+      {"en": "Deflate the cuff and remove the tube", "zh": "放氣囊並拔除管路"},
+      {"en": "Document the finding and continue routine care", "zh": "記錄發現並持續常規照護"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A pulsating tube with bright red bleeding suggests tracheoinnominate artery fistula, a rare but catastrophic emergency. The nurse applies firm direct pressure to control hemorrhage and calls for immediate emergency assistance; the tube is not removed or suctioned until help arrives because this can worsen bleeding or airway loss.", "zh": "管子搏動並伴鮮紅出血提示氣管無名動脈瘻管，為罕見但災難性的急症。護理師須施加堅實直接加壓以控制出血並立即呼叫緊急協助；在救援到達前不拔管或抽吸，以免加重出血或喪失呼吸道。"},
+    "pdf_pages": [1148, 1150],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has a chest tube connected to a water-seal drainage system. Which finding requires the nurse to notify the provider immediately?", "zh": "個案置有胸管並連接水封式引流系統。下列哪項發現須立即通知醫師？"},
+    "options": [
+      {"en": "Gentle, continuous bubbling in the suction control chamber", "zh": "抽吸控制腔出現輕柔持續的氣泡"},
+      {"en": "Fluctuation of fluid in the water-seal chamber with respiration", "zh": "水封腔的液面隨呼吸擺動"},
+      {"en": "A sudden increase in bright red drainage to 150 mL in 1 hour", "zh": "引流液突然增加為鮮紅色且 1 小時內達 150 mL"},
+      {"en": "30 mL of serosanguineous drainage over the past 8-hour shift", "zh": "過去 8 小時內引流出 30 mL 血清樣血性液"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Drainage exceeding about 70-100 mL/hr, or a sudden increase in bright red output, suggests active bleeding and must be reported immediately. Gentle continuous bubbling in the suction control chamber is expected in a wet system, tidaling in the water seal is normal, and 30 mL over 8 hours is unremarkable.", "zh": "引流量超過約 70–100 mL/hr 或突然增加的鮮紅色引流提示活動性出血，須立即通報。濕式系統抽吸控制腔的輕柔持續氣泡為正常；水封腔隨呼吸擺動屬正常；8 小時 30 mL 並無異常。"},
+    "pdf_pages": [1151, 1152, 1153],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has a chest tube in place for a pneumothorax. The nurse notes that fluid in the water-seal chamber has stopped fluctuating with respiration. What should the nurse do first?", "zh": "個案因氣胸置有胸管，護理師發現水封腔液面不再隨呼吸擺動。護理師應先採取下列哪項行動？"},
+    "options": [
+      {"en": "Clamp the tube and notify the provider", "zh": "夾閉管路並通知醫師"},
+      {"en": "Assess the tubing for kinks or dependent loops and assess the client's respiratory status", "zh": "檢查管路是否扭曲或有下垂圈，並評估個案呼吸狀態"},
+      {"en": "Milk the tubing vigorously to clear any obstruction", "zh": "用力擠壓管路以清除阻塞"},
+      {"en": "Disconnect the tube from the drainage unit to check patency", "zh": "將管路從引流裝置斷開以檢查通暢度"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Absent fluctuation (tidaling) can mean the tubing is kinked or obstructed, or that the lung has fully re-expanded; the nurse must first assess the tubing and the client's respiratory status to distinguish these before taking further action. Clamping without an order, milking without a prescription, and disconnecting the system are not appropriate first steps.", "zh": "水封腔不再擺動可能表示管路扭曲／阻塞，或肺已完全復張；護理師應先檢查管路並評估個案呼吸狀態以區分原因，再採取後續行動。未經醫囑夾管、未經處方擠壓管路，以及斷開系統皆非適當的第一步。"},
+    "pdf_pages": [1151, 1152],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A 70-kg client sustains partial-thickness burns to 40% of total body surface area. Using the Parkland formula, how much IV fluid should the client receive in the first 8 hours after injury?", "zh": "70 公斤個案遭受 40% 體表面積的部分層燒傷。依 Parkland 公式，受傷後前 8 小時應輸注多少靜脈輸液？"},
+    "options": [
+      {"en": "2,800 mL", "zh": "2,800 mL"},
+      {"en": "5,600 mL", "zh": "5,600 mL"},
+      {"en": "11,200 mL", "zh": "11,200 mL"},
+      {"en": "16,800 mL", "zh": "16,800 mL"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Parkland formula: 4 mL x weight (kg) x %TBSA burned = 4 x 70 x 40 = 11,200 mL total for the first 24 hours. Half of this total (5,600 mL) is given in the first 8 hours from the time of injury, and the remaining half over the next 16 hours.", "zh": "Parkland 公式：4 mL × 體重（kg）× 燒傷 %TBSA＝4 × 70 × 40＝11,200 mL，為前 24 小時總量。其中一半（5,600 mL）須於受傷時間起算之前 8 小時內給予，另一半於後續 16 小時給予。"},
+    "pdf_pages": [1157, 1158],
+    "tags": ["dosage calc", "burns"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with major burns covering 35% of total body surface area is receiving fluid resuscitation. Which finding best indicates that fluid resuscitation is adequate?", "zh": "重度燒傷達 35% 體表面積的個案正接受輸液復甦。下列哪項發現最能顯示輸液復甦充足？"},
+    "options": [
+      {"en": "Urine output of 20 mL/hr", "zh": "尿量 20 mL/hr"},
+      {"en": "Urine output of 40 mL/hr", "zh": "尿量 40 mL/hr"},
+      {"en": "Heart rate of 128/min", "zh": "心率 128/min"},
+      {"en": "Serum sodium of 128 mEq/L", "zh": "血鈉 128 mEq/L"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Urine output of 30-50 mL/hr is the best indicator of adequate perfusion and fluid resuscitation in burn clients. A urine output of 20 mL/hr is below target, tachycardia suggests continued hypovolemia, and a sodium of 128 mEq/L reflects the expected fluid-shift hyponatremia of the emergent phase rather than resuscitation adequacy.", "zh": "尿量 30–50 mL/hr 為燒傷個案灌流與輸液復甦充足的最佳指標。尿量 20 mL/hr 低於目標；心搏過速提示持續低血容；血鈉 128 mEq/L 反映急性期液體移位造成的預期低鈉，而非輸液是否充足。"},
+    "pdf_pages": [1157, 1158],
+    "tags": ["priority", "evaluation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with diabetic ketoacidosis is receiving IV regular insulin and normal saline. Four hours into treatment, the blood glucose has fallen from 480 mg/dL to 265 mg/dL (26.6 to 14.7 mmol/L), and the serum potassium is now 3.1 mEq/L. What should the nurse anticipate?", "zh": "DKA 個案接受靜脈速效胰島素與生理食鹽水治療 4 小時後，血糖由 480 mg/dL 降至 265 mg/dL（26.6 降至 14.7 mmol/L），血鉀現為 3.1 mEq/L。護理師應預期下列何項處置？"},
+    "options": [
+      {"en": "Stop the insulin infusion immediately because glucose is improving", "zh": "因血糖已改善立即停止胰島素輸注"},
+      {"en": "Add dextrose to the IV fluids and prepare for potassium replacement", "zh": "於輸液中加入葡萄糖並準備補鉀"},
+      {"en": "Administer NPH insulin subcutaneously now", "zh": "立即皮下注射 NPH 胰島素"},
+      {"en": "Restrict all potassium intake until the glucose normalizes", "zh": "限制所有鉀攝取直到血糖恢復正常"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "As acidosis corrects and insulin drives potassium into cells, serum potassium falls and must be replaced; once glucose reaches the 250-300 mg/dL range, dextrose is added to the IV fluids to prevent hypoglycemia and cerebral edema while the insulin infusion continues to resolve ketosis.", "zh": "隨酸血症矯正，胰島素使鉀進入細胞內，血鉀下降須補充；血糖降至 250–300 mg/dL 範圍時，於輸液中加入葡萄糖以預防低血糖與腦水腫，同時持續胰島素輸注以清除酮症。"},
+    "pdf_pages": [1162, 1163],
+    "tags": ["priority", "labs"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is comparing two clients in the emergency department. One has blood glucose 820 mg/dL (45.5 mmol/L), serum osmolality 365 mOsm/L, and negative serum ketones. The other has glucose 410 mg/dL (22.8 mmol/L), arterial pH 7.22, and positive serum ketones. Which statement is correct?", "zh": "護理師比較急診的兩位個案：一位血糖 820 mg/dL（45.5 mmol/L）、血清滲透壓 365 mOsm/L、血清酮體陰性；另一位血糖 410 mg/dL（22.8 mmol/L）、動脈血 pH 7.22、血清酮體陽性。下列陳述何者正確？"},
+    "options": [
+      {"en": "The first client has DKA; the second has HHS", "zh": "第一位個案為 DKA；第二位為 HHS"},
+      {"en": "The first client has HHS; the second has DKA", "zh": "第一位個案為 HHS；第二位為 DKA"},
+      {"en": "Both clients have DKA because the glucose is elevated in both", "zh": "兩位個案皆為 DKA，因兩者血糖皆升高"},
+      {"en": "Both clients have HHS because neither has Kussmaul respirations documented", "zh": "兩位個案皆為 HHS，因皆未記錄 Kussmaul 呼吸"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "HHS typically presents with glucose over 800 mg/dL, osmolality over 350 mOsm/L, and no ketosis, with pH greater than 7.4. DKA presents with glucose typically over 300 mg/dL, a pH under 7.35, and positive ketones. The first client's profile matches HHS; the second matches DKA.", "zh": "HHS 典型表現為血糖超過 800 mg/dL、滲透壓超過 350 mOsm/L、無酮症、pH 大於 7.4。DKA 典型血糖通常超過 300 mg/dL、pH 低於 7.35、酮體陽性。第一位個案符合 HHS，第二位符合 DKA。"},
+    "pdf_pages": [1162, 1163],
+    "tags": ["labs", "comparison"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigning care for four clients on a medical unit. Which client should the nurse assess first?", "zh": "護理師為內科病房四位個案分配照護順序。護理師應優先評估下列哪位個案？"},
+    "options": [
+      {"en": "A client with a tracheostomy who has thick secretions and a patent airway", "zh": "氣切個案，有濃稠分泌物但呼吸道通暢"},
+      {"en": "A client receiving a blood transfusion who is now 20 minutes into the infusion with stable vital signs", "zh": "正輸血的個案，輸注已進行 20 分鐘且生命徵象穩定"},
+      {"en": "A client with facial and neck burns who now has a hoarse voice and audible stridor", "zh": "臉頸燒傷個案，現出現聲音沙啞並可聽到喘鳴"},
+      {"en": "A client with a chest tube whose water-seal chamber shows normal tidaling", "zh": "胸管個案，水封腔呈正常擺動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "New hoarseness and stridor in a client with facial/neck burns signal impending airway obstruction from an inhalation injury and require immediate intervention, including preparation for intubation. The other clients show stable or expected findings.", "zh": "臉頸燒傷個案出現新發聲音沙啞與喘鳴，提示吸入性損傷即將導致呼吸道阻塞，須立即處置並準備插管。其餘個案皆為穩定或預期發現。"},
+    "pdf_pages": [1155, 1157],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client in the intensive care unit becomes unresponsive and pulseless. The monitor shows a chaotic, irregular waveform with no identifiable P waves, QRS complexes, or T waves. What is the priority nursing action?", "zh": "加護病房個案突然失去反應且無脈搏，監視器顯示混亂不規則波形，無法辨識 P 波、QRS 複合波或 T 波。護理師的首要行動為何？"},
+    "options": [
+      {"en": "Begin chest compressions and prepare for defibrillation", "zh": "開始胸外按壓並準備電擊除顫"},
+      {"en": "Administer amiodarone 300 mg IV push and reassess in 5 minutes", "zh": "靜脈推注 amiodarone 300 mg 並 5 分鐘後重新評估"},
+      {"en": "Perform a 12-lead ECG before initiating any treatment", "zh": "在開始任何治療前先做 12 導程心電圖"},
+      {"en": "Prepare for synchronized cardioversion", "zh": "準備進行同步電擊復律"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "This rhythm describes ventricular fibrillation, a shockable pulseless rhythm. CPR is begun immediately and a defibrillator is attached; the client is shocked as soon as possible, followed by continued CPR, IV/IO access, and epinephrine every 3-5 minutes. Amiodarone is given after shocks and CPR have started, not as the first action, and synchronized cardioversion is used for a client with a pulse.", "zh": "此心律為心室顫動，屬可電擊的無脈搏心律。應立即開始 CPR 並連接除顫器，盡快電擊，之後持續 CPR、建立靜脈／骨內通路並每 3–5 分鐘給 epinephrine。amiodarone 應於電擊與 CPR 開始後給予，非首要行動；同步電擊復律用於有脈搏的個案。"},
+    "pdf_pages": [1173, 1174],
+    "tags": ["priority", "ekg", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "During a code, the cardiac monitor shows an organized rhythm, but the client has no palpable pulse and CPR is ongoing. How should the nurse classify and manage this rhythm?", "zh": "急救過程中心臟監視器顯示有組織性的心律，但個案無可觸及脈搏且持續進行 CPR。護理師應如何分類及處置此心律？"},
+    "options": [
+      {"en": "This is pulseless electrical activity, a nonshockable rhythm; continue CPR, give epinephrine, and search for a reversible cause", "zh": "此為無脈搏電性活動，屬不可電擊心律；持續 CPR、給予 epinephrine，並尋找可逆病因"},
+      {"en": "This is ventricular fibrillation; defibrillate immediately", "zh": "此為心室顫動；立即電擊除顫"},
+      {"en": "This is a normal sinus rhythm; stop CPR and reassess in 10 minutes", "zh": "此為正常竇性心律；停止 CPR 並 10 分鐘後重新評估"},
+      {"en": "This is asystole; prepare for synchronized cardioversion", "zh": "此為心搏停止；準備同步電擊復律"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "An organized electrical rhythm without a detectable pulse is pulseless electrical activity (PEA), a nonshockable rhythm managed like asystole: continue CPR, obtain IV/IO access, give epinephrine every 3-5 minutes, and search for and treat reversible causes (the 5 Hs and 5 Ts). A pulse should never be assumed present just because the monitor shows organized activity.", "zh": "有組織性電性活動但無可觸及脈搏即為無脈搏電性活動（PEA），屬不可電擊心律，處置如同心搏停止：持續 CPR、建立靜脈／骨內通路、每 3–5 分鐘給 epinephrine，並尋找及治療可逆病因（5H、5T）。不可僅因監視器顯示有組織性波形就假設個案有脈搏。"},
+    "pdf_pages": [1173, 1174],
+    "tags": ["ekg", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who had coronary artery bypass graft surgery 2 hours ago has chest tube drainage that abruptly decreases from 80 mL/hr to 5 mL/hr. The client now has jugular venous distention, muffled heart sounds, and a blood pressure of 86/60 mm Hg. What should the nurse suspect?", "zh": "個案 2 小時前接受冠狀動脈繞道手術，胸管引流量突然由 80 mL/hr 降至 5 mL/hr。個案現出現頸靜脈怒張、心音遙遠及血壓 86/60 mm Hg。護理師應懷疑為何？"},
+    "options": [
+      {"en": "The chest tube has simply stopped draining because the lung has re-expanded", "zh": "胸管只是因肺已復張而停止引流"},
+      {"en": "Cardiac tamponade from clotted blood obstructing the chest tube", "zh": "因血塊阻塞胸管所致的心包填塞"},
+      {"en": "Hypervolemia from excessive IV fluid administration", "zh": "因靜脈輸液過多造成的容積過多"},
+      {"en": "A normal postoperative finding requiring no action", "zh": "屬術後正常發現，不需處置"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "After cardiac surgery, a sudden cessation or marked decrease in chest tube drainage combined with jugular venous distention, muffled heart sounds, and hypotension (Beck's triad) suggests cardiac tamponade from blood accumulating in the pericardial space, often due to a clotted or kinked tube. This requires immediate provider notification and emergency intervention, not reassurance that it is a normal finding.", "zh": "心臟手術後，胸管引流量突然停止或明顯減少，合併頸靜脈怒張、心音遙遠及低血壓（Beck 三徵），提示心包內血液積聚造成心包填塞，常因管路血塊阻塞或扭曲所致。須立即通知醫師並緊急處置，不可視為正常發現而安心觀察。"},
+    "pdf_pages": [1174, 1175, 1176],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is diagnosed with acute respiratory distress syndrome (ARDS) following sepsis. Which finding was most likely the earliest sign the nurse observed?", "zh": "個案因敗血症導致急性呼吸窘迫症候群（ARDS）。下列哪項發現最可能是護理師最早觀察到的徵象？"},
+    "options": [
+      {"en": "Bilateral crackles on auscultation", "zh": "聽診雙側爆裂音"},
+      {"en": "Increased respiratory rate", "zh": "呼吸速率增加"},
+      {"en": "Refractory hypoxemia despite 100% oxygen", "zh": "即使給予 100% 氧仍為難治性低氧血症"},
+      {"en": "Bilateral infiltrates on chest x-ray", "zh": "胸部 X 光雙側浸潤"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Tachypnea is the earliest sign of ARDS and can begin anywhere from 1 to 96 hours after the initial insult. Hypoxemia that does not respond to increasing oxygen and bilateral infiltrates develop as the syndrome progresses.", "zh": "呼吸速率加快（呼吸過速）為 ARDS 最早徵象，可於初始損傷後 1 至 96 小時內出現。隨病程進展才出現氧療無效之低氧血症與雙側浸潤。"},
+    "pdf_pages": [1172],
+    "tags": ["recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client on a mechanical ventilator set to assist-control mode. The high-pressure alarm begins sounding. What should the nurse do first?", "zh": "護理師照護使用輔助控制模式呼吸器的個案，呼吸器高壓警報響起。護理師應先採取下列哪項行動？"},
+    "options": [
+      {"en": "Silence the alarm and check the ventilator settings", "zh": "關閉警報並檢查呼吸器設定"},
+      {"en": "Assess the client for causes such as biting the tube, secretions, or coughing", "zh": "評估個案是否咬管、分泌物增加或咳嗽等原因"},
+      {"en": "Immediately disconnect the client from the ventilator", "zh": "立即將個案與呼吸器分離"},
+      {"en": "Increase the FiO2 setting before assessing the client", "zh": "在評估個案前先提高 FiO2 設定"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The nurse always assesses the client first, then the ventilator. A high-pressure alarm commonly results from secretions, kinked tubing, biting on the tube, or coughing; the client should be assessed for these causes. Alarms should never be silenced/disabled, and if the cause cannot be quickly identified, the client is bagged manually with a bag-valve mask while help is obtained.", "zh": "護理師應先評估個案，再評估呼吸器。高壓警報常見原因為分泌物、管路扭曲、咬管或咳嗽，應評估個案是否有這些情況。警報絕不可關閉／停用，若無法迅速找出原因，應以人工袋瓣罩手動通氣並尋求協助。"},
+    "pdf_pages": [1168, 1169],
+    "tags": ["priority", "ventilator"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with chronic obstructive pulmonary disease and chronic hypercapnia is receiving supplemental oxygen. The nurse notes the client has become increasingly lethargic and difficult to arouse after the oxygen flow rate was increased from 2 L/min to 6 L/min by nasal cannula. What should the nurse do?", "zh": "慢性阻塞性肺病合併慢性高碳酸血症的個案接受氧療，護理師發現鼻導管氧流量由 2 L/min 提高至 6 L/min 後，個案日漸嗜睡且難以喚醒。護理師應如何處置？"},
+    "options": [
+      {"en": "Increase the oxygen flow further to improve oxygenation", "zh": "進一步提高氧流量以改善氧合"},
+      {"en": "Recognize this may be CO2 narcosis and notify the provider; prepare to reduce the flow rate as prescribed", "zh": "認知此可能為 CO2 麻醉並通知醫師；準備依醫囑降低氧流量"},
+      {"en": "Switch to a nonrebreather mask at 100% oxygen", "zh": "改用非再吸入面罩給予 100% 氧"},
+      {"en": "Assume this is unrelated to the oxygen change and continue to monitor", "zh": "假設與氧氣調整無關並持續觀察"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Clients with chronic hypercapnia rely on a hypoxic drive to breathe; administering high-flow oxygen can blunt this drive, causing hypoventilation, rising CO2, and CO2 narcosis (lethargy, confusion, decreased responsiveness). The nurse should recognize this complication and notify the provider rather than increasing oxygen further.", "zh": "慢性高碳酸血症個案依賴低氧驅動維持呼吸；給予高流量氧氣可能抑制此驅動，造成通氣不足、CO2 上升及 CO2 麻醉（嗜睡、意識混亂、反應下降）。護理師應辨識此併發症並通知醫師，而非進一步提高氧流量。"},
+    "pdf_pages": [1166],
+    "tags": ["red flag", "oxygen therapy"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with a traumatic brain injury has a Glasgow Coma Scale score that has decreased from 13 to 10 over the past hour. Vital signs are BP 128/82 mm Hg, HR 88/min, RR 16/min, and pupils are equal and reactive. What is the nurse's priority interpretation?", "zh": "創傷性腦損傷個案的 Glasgow 昏迷量表分數在過去 1 小時內由 13 降至 10。生命徵象為血壓 128/82 mm Hg、心率 88/min、呼吸 16/min，雙側瞳孔等大且對光反應正常。護理師最優先的判讀為何？"},
+    "options": [
+      {"en": "Vital signs are normal, so no intervention is needed yet", "zh": "生命徵象正常，暫不需處置"},
+      {"en": "This is Cushing's triad and indicates very late, severe increased intracranial pressure", "zh": "此為 Cushing 三徵，表示已達非常晚期、嚴重的顱內壓升高"},
+      {"en": "A decreasing level of consciousness is the earliest sign of increased intracranial pressure and must be reported now", "zh": "意識水準下降為顱內壓升高最早徵象，必須立即通報"},
+      {"en": "The change is expected after brain injury and only needs documentation", "zh": "此變化為腦損傷後的預期現象，只需記錄即可"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A decreasing level of consciousness is the earliest and most sensitive indicator of rising intracranial pressure, occurring well before vital sign changes such as Cushing's triad (rising systolic BP, widening pulse pressure, bradycardia), which are late signs. A 3-point drop in GCS in an hour must be reported immediately, not simply documented.", "zh": "意識水準下降為顱內壓升高最早且最敏感的指標，通常早於 Cushing 三徵（收縮壓上升、脈壓變寬、心搏過緩）等生命徵象變化出現，後者屬晚期徵象。GCS 於 1 小時內下降 3 分須立即通報，而非僅予記錄。"},
+    "pdf_pages": [1178, 1179],
+    "tags": ["priority", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with a C7 spinal cord injury reports a sudden severe throbbing headache. The nurse finds BP 198/112 mm Hg (baseline 118/76 mm Hg), HR 50/min, and profuse sweating and flushing above the level of injury. What should the nurse do first?", "zh": "C7 脊髓損傷個案突然出現劇烈搏動性頭痛。護理師測得血壓 198/112 mm Hg（基礎值 118/76 mm Hg）、心率 50/min，損傷平面以上大量冒汗並潮紅。護理師應先採取下列哪項行動？"},
+    "options": [
+      {"en": "Lower the head of the bed and administer an opioid for the headache", "zh": "放低床頭並給予鴉片類藥物止頭痛"},
+      {"en": "Raise the head of the bed to a sitting position and check for a distended bladder or impacted bowel", "zh": "將床頭抬高至坐姿並檢查是否有膀胱脹大或糞便嵌塞"},
+      {"en": "Apply a warming blanket and recheck blood pressure in 1 hour", "zh": "蓋上保暖毯並於 1 小時後重新測量血壓"},
+      {"en": "Restrict oral and IV fluids until the headache resolves", "zh": "限制口服與靜脈輸液直到頭痛緩解"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "This presentation (severe headache, marked hypertension, bradycardia, flushing/sweating above the lesion) in a client with injury at or above T6 is autonomic dysreflexia, a neurological emergency. The nurse should immediately sit the client upright to help lower blood pressure, loosen constrictive clothing, and search for and remove the triggering stimulus, most often a distended bladder or impacted bowel, then notify the provider.", "zh": "T6 或以上損傷個案出現劇烈頭痛、顯著高血壓、心搏過緩及損傷平面以上潮紅冒汗，為自律神經反射異常，屬神經急症。護理師應立即讓個案坐起以助降低血壓、鬆開束縛衣物，並找出並移除誘發刺激（最常見為膀胱脹大或糞便嵌塞），再通知醫師。"},
+    "pdf_pages": [1181, 1183],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Which client is in the compensatory stage of shock?", "zh": "下列哪位個案處於休克的代償期？"},
+    "options": [
+      {"en": "A client who is restless with cool, pale skin, and vital signs within normal limits", "zh": "個案躁動、皮膚冷白，生命徵象在正常範圍內"},
+      {"en": "A client with a systolic BP of 88 mm Hg, urine output of 18 mL/hr, and new confusion", "zh": "個案收縮壓 88 mm Hg、尿量 18 mL/hr，並出現新發混亂"},
+      {"en": "A client with peripheral edema, dysrhythmias, and a thready, weak pulse", "zh": "個案周邊水腫、心律不整、脈搏細弱無力"},
+      {"en": "A client who remains hypotensive despite maximum vasopressor doses", "zh": "個案即使使用最大劑量升壓劑仍持續低血壓"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The compensatory stage of shock is marked by a drop in cardiac output, systolic BP below 100 mm Hg, oliguria, and confusion as the body's compensatory mechanisms begin to fail. Restlessness with normal vital signs describes the initial stage; edema, dysrhythmias, and thready pulse describe the progressive stage; unresponsiveness to pressors describes the refractory stage.", "zh": "休克代償期特徵為心輸出量下降、收縮壓低於 100 mm Hg、少尿及意識混亂，此時身體代償機轉開始失效。躁動但生命徵象正常屬初期；水腫、心律不整、脈搏細弱屬進展期；對升壓劑無反應屬難治期。"},
+    "pdf_pages": [1187],
+    "tags": ["recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client in hypovolemic shock has a central venous pressure of 2 mm Hg and a mean arterial pressure of 58 mm Hg. A client in cardiogenic shock has a central venous pressure of 18 mm Hg and crackles throughout both lung fields. Which intervention is appropriate for each client, respectively?", "zh": "一位低血容性休克個案中心靜脈壓為 2 mm Hg、平均動脈壓 58 mm Hg；另一位心因性休克個案中心靜脈壓為 18 mm Hg，雙肺布滿爆裂音。下列哪項處置分別適用於這兩位個案？"},
+    "options": [
+      {"en": "Give a rapid IV fluid bolus to both clients", "zh": "兩位個案皆給予快速靜脈輸液"},
+      {"en": "Increase IV fluids for the hypovolemic client; avoid fluid boluses and support the heart with inotropes/vasopressors for the cardiogenic client", "zh": "為低血容性個案增加輸液；避免為心因性個案快速輸液並以強心劑／升壓劑支持心臟"},
+      {"en": "Give diuretics to both clients to reduce preload", "zh": "兩位個案皆給予利尿劑以降低前負荷"},
+      {"en": "Restrict fluids for the hypovolemic client and give fluid boluses to the cardiogenic client", "zh": "限制低血容性個案輸液並為心因性個案快速輸液"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A low CVP and low MAP in hypovolemic shock reflect inadequate circulating volume, so fluids should be increased. A high CVP with pulmonary crackles in cardiogenic shock reflects fluid overload and failing pump function; giving more fluid would worsen pulmonary edema, so volume expanders are avoided and inotropes/vasopressors are used instead to support cardiac output.", "zh": "低血容性休克出現低 CVP 與低 MAP 反映循環容積不足，應增加輸液。心因性休克出現高 CVP 合併雙肺爆裂音反映容積過多及心臟幫浦功能衰竭，再給輸液會加重肺水腫，故應避免擴容而改以強心劑／升壓劑支持心輸出量。"},
+    "pdf_pages": [1187, 1191],
+    "tags": ["priority", "comparison"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client develops hives, facial swelling, wheezing, and a blood pressure of 78/48 mm Hg within minutes of receiving an IV antibiotic. What is the nurse's first action?", "zh": "個案於靜脈注射抗生素後幾分鐘內出現蕁麻疹、臉部腫脹、喘鳴及血壓 78/48 mm Hg。護理師的首要行動為何？"},
+    "options": [
+      {"en": "Stop the antibiotic infusion and stay with the client while assessing the airway and breathing", "zh": "停止抗生素輸注並留在個案身邊評估呼吸道與呼吸"},
+      {"en": "Leave the room to retrieve the emergency cart before doing anything else", "zh": "在採取任何行動前先離開房間取急救車"},
+      {"en": "Administer an oral antihistamine and reassess in 15 minutes", "zh": "給予口服抗組織胺並 15 分鐘後重新評估"},
+      {"en": "Slow the antibiotic infusion rate and monitor for improvement", "zh": "減慢抗生素輸注速率並觀察是否改善"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "This is anaphylaxis. The nurse stops the causative infusion, stays with the client, and assesses airway and breathing first while calling for help (rather than leaving to get the cart alone); IV epinephrine, oxygen, IV normal saline, and diphenhydramine follow per protocol. Oral medication and simply slowing the infusion are inadequate for this emergency.", "zh": "此為過敏性休克。護理師應停止致病輸液，留在個案身邊，先評估呼吸道與呼吸並呼叫協助（而非獨自離開去取急救車）；隨後依規範給予靜脈 epinephrine、給氧、靜脈生理食鹽水及 diphenhydramine。口服藥物或僅減慢輸注速率對此急症而言皆不足夠。"},
+    "pdf_pages": [1186, 1188],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client admitted with pneumonia now has a temperature of 101.6°F (38.7°C), heart rate 104/min, respiratory rate 26/min, blood pressure 92/58 mm Hg, and a lactate of 2.8 mmol/L. Which set of orders should the nurse anticipate implementing first?", "zh": "因肺炎入院的個案現體溫 101.6°F（38.7°C）、心率 104/min、呼吸速率 26/min、血壓 92/58 mm Hg、乳酸 2.8 mmol/L。護理師應預期優先執行下列哪組醫囑？"},
+    "options": [
+      {"en": "Obtain blood cultures, then begin antibiotics within 1 hour and give 30 mL/kg isotonic crystalloid fluid bolus", "zh": "先採血液培養，再於 1 小時內開始抗生素並給予 30 mL/kg 等張晶體液快速輸注"},
+      {"en": "Begin broad-spectrum antibiotics immediately, then obtain cultures afterward", "zh": "立即開始廣效抗生素，之後再採集培養"},
+      {"en": "Restrict fluids and begin a loop diuretic", "zh": "限制輸液並開始使用環利尿劑"},
+      {"en": "Administer an antipyretic and recheck vital signs in 4 hours", "zh": "給予退燒藥並於 4 小時後重新測量生命徵象"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "These findings meet criteria suggestive of sepsis/septic shock. Blood cultures should be obtained before antibiotics are started, but antibiotics should begin within 1 hour, along with 30-50 mL/kg of isotonic crystalloid fluid resuscitation. Giving antibiotics before cultures can obscure the causative organism; fluid restriction and diuretics would worsen hypoperfusion; simply treating the fever and waiting delays essential sepsis management.", "zh": "此發現符合敗血症／敗血性休克之標準。應於開始抗生素前先採血液培養，但抗生素須於 1 小時內開始給予，並給予 30–50 mL/kg 等張晶體液輸注復甦。若先給抗生素才採培養，可能影響致病菌鑑定；限水與利尿劑會加重灌流不足；僅退燒並等待會延誤必要的敗血症處置。"},
+    "pdf_pages": [1188, 1189],
+    "tags": ["priority", "labs"]
+  }
+]

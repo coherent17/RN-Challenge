@@ -1,0 +1,229 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who sustained a femur fracture is in balanced suspension traction. The client suddenly becomes restless and confused, develops a cough, and complains of chest pain and difficulty breathing. On auscultation the nurse hears bilateral crackles. Which complication should the nurse suspect?", "zh": "一位股骨骨折患者正接受平衡懸吊牽引。患者突然變得躁動不安及意識混亂,出現咳嗽,並訴胸痛及呼吸困難。聽診時護理師聽到雙側爆裂音。護理師應懷疑哪種併發症?"},
+    "options": [
+      {"en": "Fat embolism", "zh": "脂肪栓塞"},
+      {"en": "Acute compartment syndrome", "zh": "急性筋膜室症候群"},
+      {"en": "Osteomyelitis", "zh": "骨髓炎"},
+      {"en": "Avascular necrosis", "zh": "缺血性骨壞死"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Restlessness, apprehension, confusion, sudden dyspnea, chest pain, cough, and crackles after a long bone fracture are classic signs of fat embolism, caused by fat globules entering the pulmonary circulation. This is an emergency requiring immediate notification of the PHCP and oxygen administration.", "zh": "長骨骨折後出現躁動不安、焦慮、意識混亂、突發呼吸困難、胸痛、咳嗽及爆裂音,是脂肪栓塞的典型徵象,因脂肪球進入肺循環所致。此為急症,須立即通知主要照護提供者並給予氧氣。"},
+    "pdf_pages": [989],
+    "tags": ["red flag", "requires immediate action", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client has a new cast applied to the lower leg after a tibial fracture. Which finding requires the nurse to notify the primary health care provider immediately?", "zh": "一位脛骨骨折患者剛接受下肢石膏固定。護理師發現以下哪項情況時須立即通知主要照護提供者?"},
+    "options": [
+      {"en": "Pain that is unrelieved by elevation, ice, and the prescribed analgesic and is worsened with passive movement of the toes", "zh": "疼痛在抬高、冰敷及醫囑止痛藥後未緩解,且在被動活動腳趾時加重"},
+      {"en": "Mild itching reported under the edge of the cast", "zh": "石膏邊緣處輕微搔癢感"},
+      {"en": "A request for pain medication 2 hours after cast application", "zh": "石膏固定後2小時要求止痛藥"},
+      {"en": "Slight swelling of the toes noted on the day the cast was applied", "zh": "石膏固定當天發現腳趾輕微腫脹"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Unrelieved or increasing pain despite interventions, along with pain on passive movement, are early signs of acute compartment syndrome, a medical emergency that can cause irreversible neurovascular damage within 4 to 6 hours if untreated.", "zh": "即使採取措施疼痛仍未緩解或持續加重,加上被動活動時疼痛,是急性筋膜室症候群的早期徵象,屬醫療急症,若未治療可能在4至6小時內造成不可逆的神經血管損傷。"},
+    "pdf_pages": [989],
+    "tags": ["red flag", "requires immediate action", "compartment syndrome"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client in skeletal traction for a tibial fracture. Which assessment findings at the pin insertion sites would require the nurse to notify the primary health care provider? Select all that apply.", "zh": "護理師照護一位脛骨骨折接受骨骼牽引的患者。釘入部位出現以下哪些評估發現時須通知主要照護提供者?(多選)"},
+    "options": [
+      {"en": "Increasing redness around the pin sites", "zh": "釘入部位周圍紅腫加劇"},
+      {"en": "Thick, yellow drainage from the pin sites", "zh": "釘入部位出現黃色濃稠分泌物"},
+      {"en": "A small amount of clear, watery drainage noted in the first 48 hours", "zh": "前48小時內出現少量清澈水樣分泌物"},
+      {"en": "Increased pain at the pin sites", "zh": "釘入部位疼痛加劇"},
+      {"en": "Weights hanging freely without touching the floor", "zh": "重物自由懸掛且未觸及地面"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "The nurse monitors pin insertion sites for redness, swelling, drainage, or increased pain, which are signs of infection and should be reported. Thick, yellow drainage indicates infection. Minimal clear, watery (serous) drainage can be normal in the early postinsertion period, and weights hanging freely is a correct, expected finding.", "zh": "護理師應監測釘入部位是否有紅腫、分泌物增加或疼痛加劇,這些是感染徵象應予報告。黃色濃稠分泌物表示感染。置入初期少量清澈水樣(漏出性)分泌物可能屬正常現象,而重物自由懸掛是正確且預期的發現。"},
+    "pdf_pages": [988],
+    "tags": ["sata", "red flag", "skeletal traction"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client who just had a wet plaster cast applied to the forearm. Which instructions should the nurse provide? Select all that apply.", "zh": "護理師照護一位剛在前臂接受濕石膏固定的患者。護理師應提供以下哪些指導?(多選)"},
+    "options": [
+      {"en": "Handle the wet cast with the palms of the hands, not the fingertips", "zh": "以手掌而非指尖處理濕石膏"},
+      {"en": "Keep the extremity and cast elevated", "zh": "保持肢體及石膏抬高"},
+      {"en": "Use a hair dryer on a warm or hot setting to speed drying", "zh": "使用溫熱或高溫設定的吹風機加速乾燥"},
+      {"en": "Turn the extremity every 1 to 2 hours to promote even drying", "zh": "每1至2小時翻轉肢體以促進均勻乾燥"},
+      {"en": "Insert a padded object under the cast to scratch an itch", "zh": "在石膏下插入有軟墊的物品以止癢"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "A wet plaster cast should be handled with the palms (not fingertips), the extremity kept elevated, and turned every 1 to 2 hours to promote air circulation and even drying. A hair dryer may be used only on a cool setting, since heat can cause the cast to burn the skin. Clients should never insert objects inside the cast, even a padded one, because of the risk of skin breakdown.", "zh": "濕石膏應以手掌(非指尖)處理,肢體應抬高,並每1至2小時翻轉一次以促進空氣流通及均勻乾燥。吹風機只能使用冷風設定,因高溫會使石膏發熱而灼傷皮膚。患者絕不應在石膏內插入任何物品,即使有軟墊,因有皮膚破損的風險。"},
+    "pdf_pages": [988, 989],
+    "tags": ["sata", "cast care", "patient education"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is applying Buck's (extension) skin traction to a client's leg as prescribed before hip surgery. Which action is appropriate?", "zh": "護理師依醫囑為一位患者在髖部手術前施行巴克氏(延伸)皮膚牽引。以下哪項措施是適當的?"},
+    "options": [
+      {"en": "Apply no more than 8 to 10 lb (3.5 to 4.5 kg) of weight as prescribed", "zh": "依醫囑施加不超過8至10磅(3.5至4.5公斤)的重量"},
+      {"en": "Apply 25 to 40 lb (11 to 18 kg) of weight for adequate traction force", "zh": "施加25至40磅(11至18公斤)的重量以達到足夠的牽引力"},
+      {"en": "Allow the weights to rest gently on the floor to prevent falling", "zh": "讓重物輕輕放置於地面以防止掉落"},
+      {"en": "Remove the weights every 4 hours to assess skin integrity", "zh": "每4小時移除重物以評估皮膚完整性"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Buck's (extension) skin traction uses a boot appliance with no more than 8 to 10 lb (3.5 to 4.5 kg) of weight as prescribed. Weights must hang freely and never touch the floor, and weights are not removed or lifted without a PHCP's prescription. Skeletal traction, not skin traction, uses the heavier 25 to 40 lb range.", "zh": "巴克氏(延伸)皮膚牽引使用靴型裝置,依醫囑施加不超過8至10磅(3.5至4.5公斤)的重量。重物必須自由懸掛,絕不可觸及地面,且未經醫囑不可移除或抬起重物。骨骼牽引(非皮膚牽引)才使用25至40磅的較重範圍。"},
+    "pdf_pages": [987, 988],
+    "tags": ["traction care", "dosage calc"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is planning care for a client in skin traction. Which task would be appropriate to delegate to the unlicensed assistive personnel (UAP)?", "zh": "護理師正在規劃一位接受皮膚牽引患者的照護計畫。以下哪項任務適合委派給無照輔助人員(UAP)?"},
+    "options": [
+      {"en": "Reporting that the client's heel is resting against the footboard", "zh": "回報患者的腳跟正靠在床尾板上"},
+      {"en": "Assessing the color and sensation of the affected extremity", "zh": "評估患肢的顏色及感覺"},
+      {"en": "Adjusting the amount of weight on the traction as needed", "zh": "依需要調整牽引的重量"},
+      {"en": "Determining whether the ropes in the pulley system are frayed", "zh": "判斷滑輪系統中的繩索是否磨損"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The UAP can be delegated to observe and report basic positioning concerns, such as a heel resting against a surface, to the nurse. Neurovascular assessment, evaluating equipment integrity, and adjusting traction weight require nursing or PHCP judgment and should not be delegated.", "zh": "UAP可被委派觀察並回報基本的擺位問題,例如腳跟靠在物體上,交由護理師處理。神經血管評估、評估設備完整性及調整牽引重量需護理判斷或醫囑,不應委派。"},
+    "pdf_pages": [987],
+    "tags": ["delegation", "traction care"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse witnesses a pedestrian struck by a car. The victim is conscious, confused, and attempting to stand, and the leg appears deformed. What is the nurse's priority action?", "zh": "護理師目擊一名行人被車撞擊。傷者意識清醒但意識混亂,企圖站起來,腿部外觀變形。護理師的首要措施是什麼?"},
+    "options": [
+      {"en": "Stay with the victim, keep them still, and have someone else call for emergency assistance", "zh": "留在傷者身旁,使其保持不動,並請他人呼叫緊急救援"},
+      {"en": "Manually attempt to realign the deformed leg", "zh": "手動嘗試重新對齊變形的腿部"},
+      {"en": "Assist the victim to stand and move to a safer location", "zh": "協助傷者站立並移動到更安全的地方"},
+      {"en": "Leave the victim briefly to call for an ambulance personally", "zh": "暫時離開傷者親自呼叫救護車"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "With a suspected fracture, the victim should not be moved unless remaining in place is dangerous. The nurse stays with the victim, keeps them still to prevent further injury, and has someone else summon emergency help. The fracture is never reduced at the scene.", "zh": "疑似骨折時,除非留在原地有危險,否則不應移動傷者。護理師應留在傷者身旁,使其保持不動以避免進一步傷害,並請他人呼叫緊急救援。絕不可在現場復位骨折。"},
+    "pdf_pages": [998],
+    "tags": ["priority", "first action", "emergency"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client is being fitted for crutches. Which measurement finding indicates a risk for injury to the brachial plexus?", "zh": "一位患者正在測量拐杖尺寸。以下哪項測量結果顯示有臂神經叢損傷的風險?"},
+    "options": [
+      {"en": "The axillary bar rests directly against the axilla", "zh": "腋下橫桿直接貼靠在腋窩上"},
+      {"en": "There are 2 to 3 finger widths of space between the axilla and the arm piece", "zh": "腋窩與支臂之間留有2至3指寬的空間"},
+      {"en": "The elbows are flexed 20 to 30 degrees while ambulating", "zh": "行走時手肘彎曲20至30度"},
+      {"en": "The client is instructed to place the crutches 6 to 10 inches diagonally in front of the foot", "zh": "指導患者將拐杖斜放於腳前6至10吋處"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "An incorrect crutch measurement that allows the axillary bar to rest against the axilla, rather than leaving 2 to 3 finger widths of space, can damage the brachial plexus. The client should never rest the axillae on the axillary bars.", "zh": "若拐杖測量錯誤,使腋下橫桿貼靠在腋窩上而未留出2至3指寬的空間,可能損傷臂神經叢。患者絕不應將腋窩靠在腋下橫桿上。"},
+    "pdf_pages": [990],
+    "tags": ["red flag", "assistive devices"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse evaluates a client's understanding of crutch-walking safety. Which statement by the client indicates a need for further teaching?", "zh": "護理師評估患者對拐杖行走安全的理解。患者的以下哪項陳述顯示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will remove any scatter rugs at home.\"", "zh": "「我會移除家中的小地毯。」"},
+      {"en": "\"I will keep spare crutches and tips available.\"", "zh": "「我會準備備用拐杖及拐杖頭。」"},
+      {"en": "\"It is fine to use the crutch tips even when they are wet.\"", "zh": "「即使拐杖頭是濕的也可以使用。」"},
+      {"en": "\"I will stop ambulating if I feel numbness or tingling in my hands.\"", "zh": "「如果手部感到麻木或刺痛,我會停止行走。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Wet crutch tips increase the risk of slipping and falling; the client should dry the tips or avoid using them when wet. The client should inspect rubber tips for wear and stop ambulation if numbness or tingling occurs, which could indicate brachial plexus compression.", "zh": "拐杖頭濕時會增加滑倒風險;患者應將拐杖頭擦乾或避免在濕滑時使用。患者應檢查橡膠頭是否磨損,並在出現麻木或刺痛時停止行走,此可能表示臂神經叢受壓。"},
+    "pdf_pages": [990],
+    "tags": ["patient education", "safety", "assistive devices"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client 48 hours after an above-knee amputation. The client's residual limb compression wrap has come loose and partially fallen off. What is the nurse's immediate action?", "zh": "護理師照護一位接受大腿截肢術後48小時的患者。患者殘肢的加壓包紮已鬆脫並部分掉落。護理師的立即措施是什麼?"},
+    "options": [
+      {"en": "Rewrap the residual limb with an elastic compression bandage", "zh": "以彈性加壓繃帶重新包紮殘肢"},
+      {"en": "Apply ice directly to the incision site", "zh": "直接在傷口處敷冰"},
+      {"en": "Leave the limb unwrapped until the surgeon arrives to assess it", "zh": "讓肢體保持未包紮狀態,直到外科醫師抵達評估"},
+      {"en": "Place the residual limb flat on the bed without support", "zh": "讓殘肢平放在床上不加支撐"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "If the elastic compression bandage or shrinker comes off, the nurse should promptly rewrap the residual limb to control edema, minimize pain, and mold the limb in preparation for a prosthesis, preventing complications from unsupported swelling.", "zh": "若彈性加壓繃帶或殘肢套鬆脫,護理師應立即重新包紮殘肢,以控制水腫、減輕疼痛並塑形殘肢以準備義肢,避免因未支撐的腫脹而造成併發症。"},
+    "pdf_pages": [993, 994],
+    "tags": ["priority", "amputation care"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with diabetes mellitus had a right below-knee amputation 2 days ago. Given the client's history of diabetes, which postoperative complication is the client at greatest risk for?", "zh": "一位糖尿病患者於2天前接受右下肢膝下截肢。鑑於此患者的糖尿病病史,其術後最可能面臨以下哪項併發症的風險?"},
+    "options": [
+      {"en": "Delayed wound healing and infection", "zh": "傷口癒合延遲及感染"},
+      {"en": "Phantom limb sensation", "zh": "幻肢感"},
+      {"en": "Flexion contracture of the hip", "zh": "髖關節屈曲性攣縮"},
+      {"en": "Disturbed body image", "zh": "身體心像紊亂"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Clients with diabetes mellitus have impaired circulation and wound healing, placing them at greater risk for delayed healing and infection of the residual limb. While the other options are general complications of amputation, infection risk is specifically heightened by diabetes.", "zh": "糖尿病患者循環及傷口癒合能力受損,使殘肢傷口癒合延遲及感染風險增加。雖然其他選項是截肢後的一般併發症,但感染風險因糖尿病而特別增加。"},
+    "pdf_pages": [993],
+    "tags": ["priority", "amputation care", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is caring for a client with gout. Which laboratory value would the nurse expect to find elevated?", "zh": "護理師照護一位痛風患者。護理師預期以下哪項檢驗值會升高?"},
+    "options": [
+      {"en": "Serum uric acid level", "zh": "血清尿酸濃度"},
+      {"en": "Serum calcium level", "zh": "血清鈣濃度"},
+      {"en": "Serum potassium level", "zh": "血清鉀濃度"},
+      {"en": "Serum phosphorus level", "zh": "血清磷濃度"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Gout results from abnormal amounts of uric acid in the body, with urate crystals depositing in joints and tissues. Serum uric acid levels are elevated even during the asymptomatic phase of the disease.", "zh": "痛風源於體內尿酸異常增加,尿酸鹽結晶沉積於關節及組織中。即使在疾病無症狀期,血清尿酸濃度也會升高。"},
+    "pdf_pages": [997],
+    "tags": ["labs", "gout"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is conducting health screening for osteoporosis risk. Which client is at greatest risk for developing this condition?", "zh": "護理師正在進行骨質疏鬆症風險篩檢。以下哪位患者罹患此病的風險最高?"},
+    "options": [
+      {"en": "A sedentary 68-year-old postmenopausal client who smokes cigarettes", "zh": "一位久坐少動、68歲的絕經後吸菸患者"},
+      {"en": "A 30-year-old client who jogs regularly", "zh": "一位30歲、經常跑步的患者"},
+      {"en": "A 40-year-old client with mild asthma", "zh": "一位40歲、患有輕度氣喘的患者"},
+      {"en": "A 55-year-old client who drinks one cup of coffee daily", "zh": "一位55歲、每天喝一杯咖啡的患者"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Risk factors for osteoporosis include female gender, being postmenopausal, advancing age, a sedentary lifestyle, and cigarette smoking. The client who combines multiple risk factors (age, postmenopausal status, sedentary lifestyle, smoking) is at greatest risk compared to clients with few or no risk factors.", "zh": "骨質疏鬆症的危險因子包括女性、絕經後、年齡增長、久坐少動的生活方式及吸菸。同時具有多項危險因子(年齡、絕經後狀態、久坐少動、吸菸)的患者,其風險遠高於僅有少數或無危險因子的患者。"},
+    "pdf_pages": [996, 997],
+    "tags": ["health promotion", "risk factors", "osteoporosis"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is caring for a client with rheumatoid arthritis who has acute inflammation of the hands and wrists. Which intervention is most appropriate to help preserve joint function during this acute period?", "zh": "護理師照護一位類風濕性關節炎患者,其手部及手腕出現急性發炎。以下哪項措施最適合在此急性期協助維持關節功能?"},
+    "options": [
+      {"en": "Apply splints to the affected joints to prevent deformity", "zh": "對患部關節施以護木以預防變形"},
+      {"en": "Encourage vigorous passive range-of-motion exercises on the inflamed joints", "zh": "鼓勵對發炎關節進行劇烈的被動關節活動"},
+      {"en": "Encourage weight bearing on the inflamed joints to maintain strength", "zh": "鼓勵在發炎關節上負重以維持肌力"},
+      {"en": "Apply heat only, avoiding cold therapy entirely", "zh": "只能使用熱療,完全避免冷療"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Splints may be used during acute inflammation to prevent deformity and support the joint. Weight bearing on inflamed joints should be avoided, and both heat and cold therapy may be used as prescribed. Exercise should be active, not vigorous passive movement, and limited when inflammation is severe.", "zh": "急性發炎期可使用護木以預防變形並支撐關節。應避免在發炎關節上負重,熱療及冷療皆可依醫囑使用。運動應為主動式而非劇烈被動活動,且在發炎嚴重時應限制運動。"},
+    "pdf_pages": [995],
+    "tags": ["mobility", "rheumatoid arthritis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client has just had an arthrocentesis with a corticosteroid instilled into the knee joint. Which instruction should the nurse provide regarding the client's blood glucose, given the client also has type 2 diabetes mellitus?", "zh": "一位患者剛接受膝關節穿刺術並注入皮質類固醇。鑑於該患者也患有第2型糖尿病,護理師應提供以下哪項關於血糖的指導?"},
+    "options": [
+      {"en": "Blood glucose levels may rise for a day or more after the injection", "zh": "注射後血糖濃度可能升高一天以上"},
+      {"en": "Blood glucose levels will drop sharply and require immediate treatment", "zh": "血糖濃度會急遽下降並需立即治療"},
+      {"en": "The corticosteroid injection has no effect on blood glucose", "zh": "皮質類固醇注射對血糖沒有影響"},
+      {"en": "The client should stop all diabetes medications for 24 hours", "zh": "患者應停用所有糖尿病藥物24小時"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Clients with diabetes mellitus should be advised that corticosteroid injections into a joint may cause an increase in blood glucose levels for a day or more, so glucose monitoring should be continued as usual.", "zh": "糖尿病患者應被告知關節內皮質類固醇注射可能使血糖濃度升高一天以上,因此應持續照常監測血糖。"},
+    "pdf_pages": [984],
+    "tags": ["patient education", "diagnostic procedure"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with suspected osteomyelitis of the tibia. Which assessment finding is most consistent with this diagnosis?", "zh": "護理師照護一位疑似脛骨骨髓炎的患者。以下哪項評估發現最符合此診斷?"},
+    "options": [
+      {"en": "Temperature of 102° F (38.9° C), erythema, and localized pain over the tibia with an elevated erythrocyte sedimentation rate", "zh": "體溫102°F(38.9°C)、紅斑及脛骨處局部疼痛,並伴有紅血球沉降率升高"},
+      {"en": "Afebrile with cool, pale skin distal to the tibia", "zh": "無發熱,脛骨遠端皮膚蒼白冰冷"},
+      {"en": "Painless swelling that resolves with elevation alone", "zh": "無痛性腫脹,僅抬高即可緩解"},
+      {"en": "Decreased sensation with a normal erythrocyte sedimentation rate", "zh": "感覺減退但紅血球沉降率正常"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Osteomyelitis typically presents with tachycardia and fever (usually above 101°F [38.3°C]), erythema and pain surrounding the infected area, and leukocytosis with an elevated erythrocyte sedimentation rate (ESR).", "zh": "骨髓炎通常表現為心搏過速及發熱(通常高於101°F[38.3°C])、感染部位周圍紅斑及疼痛,並伴有白血球增多及紅血球沉降率(ESR)升高。"},
+    "pdf_pages": [989],
+    "tags": ["red flag", "infection", "osteomyelitis"]
+  }
+]
+

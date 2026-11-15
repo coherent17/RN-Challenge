@@ -1,0 +1,258 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a client's sacral area and notes intact skin that is red and does not blanch when pressure is applied. The client reports the area feels different in temperature compared with the surrounding skin. How does the nurse classify this finding?", "zh": "護理師評估病人的骶骨部位，發現皮膚完整且呈現紅色，加壓後不會變白（不會褪色）。病人表示此部位與周圍皮膚相比，溫度感覺不同。護理師應如何分類此發現？"},
+    "options": [
+      {"en": "Stage 1 pressure injury", "zh": "第一期壓力性損傷"},
+      {"en": "Stage 2 pressure injury", "zh": "第二期壓力性損傷"},
+      {"en": "Suspected deep tissue injury", "zh": "疑似深層組織損傷"},
+      {"en": "Unstageable pressure injury", "zh": "無法分期的壓力性損傷"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A stage 1 pressure injury presents with intact skin that is red (not purple or maroon) and does not blanch with external pressure; the area may be preceded by changes in sensation, temperature, or firmness. Stage 2 involves a break in skin integrity, and suspected deep tissue injury and unstageable injuries present differently.", "zh": "第一期壓力性損傷表現為皮膚完整且呈紅色（非紫色或栗色），加壓後不會變白；該部位可能先出現感覺、溫度或硬度的改變。第二期則出現皮膚完整性破壞，而疑似深層組織損傷及無法分期的損傷則有不同的表現。"},
+    "pdf_pages": [241],
+    "tags": ["pressure injury", "staging", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "On assessment of a client's heel, the nurse notes partial-thickness skin loss with a viable, red-pink, moist wound bed and an intact serum-filled blister. Which stage of pressure injury does the nurse document?", "zh": "護理師評估病人的腳跟，發現部分皮層缺損，傷口床呈粉紅色、濕潤且有活性，並有一個完整的漿液性水泡。護理師應記錄為哪一期壓力性損傷？"},
+    "options": [
+      {"en": "Stage 1", "zh": "第一期"},
+      {"en": "Stage 2", "zh": "第二期"},
+      {"en": "Stage 3", "zh": "第三期"},
+      {"en": "Stage 4", "zh": "第四期"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A stage 2 pressure injury presents with partial-thickness skin loss with exposed dermis; the wound bed is viable, pink or red, and moist, and the injury may present as an intact or ruptured serum-filled blister.", "zh": "第二期壓力性損傷表現為部分皮層缺損並露出真皮層；傷口床有活性、呈粉紅色或紅色且濕潤，可能表現為完整或已破裂的漿液性水泡。"},
+    "pdf_pages": [241],
+    "tags": ["pressure injury", "staging"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse notes full-thickness skin loss with visible adipose tissue, granulation tissue, and rolled wound edges on a client's ischial area; no muscle, tendon, ligament, or bone is visible. Which stage of pressure injury does the nurse document?", "zh": "護理師在病人的坐骨部位發現全皮層缺損，可見脂肪組織、肉芽組織及捲曲的傷口邊緣，但未見肌肉、肌腱、韌帶或骨骼。護理師應記錄為哪一期壓力性損傷？"},
+    "options": [
+      {"en": "Stage 1", "zh": "第一期"},
+      {"en": "Stage 2", "zh": "第二期"},
+      {"en": "Stage 3", "zh": "第三期"},
+      {"en": "Stage 4", "zh": "第四期"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A stage 3 pressure injury is full-thickness skin loss with adipose tissue visible in the ulcer; granulation tissue and rolled wound edges are often present, and slough or eschar may also be present. Exposed muscle, tendon, ligament, cartilage, or bone indicates stage 4.", "zh": "第三期壓力性損傷為全皮層缺損且潰瘍處可見脂肪組織；常伴有肉芽組織及捲曲的傷口邊緣，也可能出現腐肉或焦痂。若可見肌肉、肌腱、韌帶、軟骨或骨骼，則屬於第四期。"},
+    "pdf_pages": [241],
+    "tags": ["pressure injury", "staging"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a client's coccyx area and notes full-thickness skin and tissue loss with exposed, palpable bone. Which stage of pressure injury does the nurse document?", "zh": "護理師評估病人的尾骶骨部位，發現全皮層及組織缺損，並可見及觸及外露的骨骼。護理師應記錄為哪一期壓力性損傷？"},
+    "options": [
+      {"en": "Stage 2", "zh": "第二期"},
+      {"en": "Stage 3", "zh": "第三期"},
+      {"en": "Stage 4", "zh": "第四期"},
+      {"en": "Unstageable", "zh": "無法分期"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A stage 4 pressure injury involves full-thickness skin and tissue loss with exposed or palpable fascia, muscle, tendon, ligament, cartilage, or bone; rolled wound edges, undermining, or tunneling may also be present.", "zh": "第四期壓力性損傷為全皮層及組織缺損，並可見或觸及筋膜、肌肉、肌腱、韌帶、軟骨或骨骼；也可能出現捲曲的傷口邊緣、潛行或隧道狀組織破壞。"},
+    "pdf_pages": [241],
+    "tags": ["pressure injury", "staging"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a wound that is covered by thick, adherent black eschar. The extent of underlying tissue damage cannot be determined because it is obscured by the eschar. How does the nurse classify this pressure injury?", "zh": "護理師評估一個被厚且附著緊密的黑色焦痂覆蓋的傷口。由於焦痂遮蓋，無法確定底層組織損傷的範圍。護理師應如何分類此壓力性損傷？"},
+    "options": [
+      {"en": "Stage 2", "zh": "第二期"},
+      {"en": "Stage 3", "zh": "第三期"},
+      {"en": "Suspected deep tissue injury", "zh": "疑似深層組織損傷"},
+      {"en": "Unstageable", "zh": "無法分期"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "An unstageable pressure injury involves obscured full-thickness skin and tissue loss in which the extent of the damage cannot be confirmed because it is covered by eschar or slough; the stage cannot be determined until the wound bed is visualized.", "zh": "無法分期的壓力性損傷為全皮層及組織缺損被遮蓋，因焦痂或腐肉覆蓋而無法確認損傷程度；在傷口床可被清楚觀察之前，無法確定其分期。"},
+    "pdf_pages": [242],
+    "tags": ["pressure injury", "staging"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse notes a persistent, nonblanchable, deep purple discoloration of intact skin over a client's heel, with a dark, blood-filled blister. How does the nurse classify this finding?", "zh": "護理師發現病人腳跟皮膚完整，但出現持續性、加壓不褪色的深紫色變色區域，並伴有深色、充血的水泡。護理師應如何分類此發現？"},
+    "options": [
+      {"en": "Stage 1 pressure injury", "zh": "第一期壓力性損傷"},
+      {"en": "Stage 2 pressure injury", "zh": "第二期壓力性損傷"},
+      {"en": "Suspected deep tissue injury", "zh": "疑似深層組織損傷"},
+      {"en": "Stage 4 pressure injury", "zh": "第四期壓力性損傷"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Suspected deep tissue injury presents as persistent nonblanchable deep red, maroon, or purple discoloration, which may appear differently in people with darker skin pigmentation; epidermal separation may reveal a dark wound bed or a blood-filled blister.", "zh": "疑似深層組織損傷表現為持續性、加壓不褪色的深紅色、栗色或紫色變色，在深色皮膚的病人身上可能呈現不同外觀；表皮分離處可見深色傷口床或充血水泡。"},
+    "pdf_pages": [242],
+    "tags": ["pressure injury", "staging"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "Which nursing action best prevents pressure injury development in a client who is immobile?", "zh": "對於活動受限的病人，下列哪項護理措施最能有效預防壓力性損傷的發生？"},
+    "options": [
+      {"en": "Turn and reposition the client at least every 2 hours", "zh": "至少每2小時為病人翻身並改變姿勢"},
+      {"en": "Massage reddened areas over bony prominences vigorously twice daily", "zh": "每日兩次用力按摩骨突處的紅腫區域"},
+      {"en": "Keep the head of the bed elevated 90 degrees continuously", "zh": "持續將床頭抬高90度"},
+      {"en": "Place a donut-shaped cushion under the client's sacrum", "zh": "在病人骶骨下方放置圈狀坐墊"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Turning and repositioning the immobile client at least every 2 hours (more often if necessary) relieves pressure over bony prominences and is a core intervention for preventing pressure injury. Vigorous massage of reddened skin can damage capillary beds, prolonged high head-of-bed elevation increases shear, and donut-shaped cushions concentrate pressure around their rim and are not recommended.", "zh": "至少每2小時（必要時更頻繁）為活動受限的病人翻身並改變姿勢，可緩解骨突處的壓力，是預防壓力性損傷的核心措施。用力按摩泛紅皮膚可能損傷微血管床；持續抬高床頭會增加剪力；圈狀坐墊會使壓力集中於邊緣處，並不建議使用。"},
+    "pdf_pages": [240],
+    "tags": ["positioning", "pressure injury prevention"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse notes a reddened, nonblanchable area over a client's sacrum during a routine skin assessment. Which action should the nurse avoid?", "zh": "護理師在進行常規皮膚評估時，發現病人骶骨部位有紅腫且加壓不褪色的區域。護理師應避免採取下列哪項行動？"},
+    "options": [
+      {"en": "Document the finding and reassess the area within the hour", "zh": "記錄此發現並於一小時內重新評估該部位"},
+      {"en": "Vigorously massage the reddened area to improve local circulation", "zh": "用力按摩紅腫部位以改善局部血液循環"},
+      {"en": "Apply a pressure-redistribution device and keep the area off direct pressure", "zh": "使用壓力重新分布裝置並讓該部位避免直接受壓"},
+      {"en": "Keep the surrounding skin clean and dry", "zh": "保持周圍皮膚清潔乾燥"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Direct massage of a reddened skin area must be avoided because massage can damage the capillary beds and cause further tissue breakdown and necrosis, worsening rather than relieving the problem.", "zh": "必須避免直接按摩泛紅的皮膚部位，因為按摩可能損傷微血管床並造成進一步的組織破壞及壞死，使問題惡化而非改善。"},
+    "pdf_pages": [240],
+    "tags": ["pressure injury prevention", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is developing a fall-prevention plan for an older adult client who ambulates with a standard walker. Select all appropriate interventions.", "zh": "護理師正為一位使用標準助行器行走的年長病人制定跌倒預防計畫。請選出所有適當的措施（多選題）。"},
+    "options": [
+      {"en": "Ensure the walker's rubber tips are intact and free of cracks", "zh": "確保助行器的橡膠腳墊完整且無裂痕"},
+      {"en": "Instruct the client to move the walker forward, then the weaker foot, then the stronger foot", "zh": "指導病人先向前移動助行器，再移動較弱的腳，最後移動較強的腳"},
+      {"en": "Keep the walker 12 inches (30 cm) in front of the client while standing still", "zh": "讓病人靜止站立時，助行器保持在前方12英吋（30公分）處"},
+      {"en": "Remove scatter rugs and clutter from the client's walking path", "zh": "移除病人行走路徑上的散置地毯及雜物"},
+      {"en": "Encourage the client to wear well-fitting, nonskid footwear", "zh": "鼓勵病人穿著合腳且防滑的鞋子"},
+      {"en": "Advise the client to move quickly when walking to minimize time off balance", "zh": "建議病人走路時加快速度，以縮短失去平衡的時間"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Fall prevention with a walker includes checking that the rubber tips are intact, instructing the client to put all four points of the walker flat on the floor before advancing the weaker then the stronger foot, removing environmental hazards such as scatter rugs, and wearing nonskid footwear. The walker is kept close to the client, not held 12 inches away while standing, and the client should move slowly and deliberately, never rushing.", "zh": "使用助行器的跌倒預防措施包括：確認橡膠腳墊完整、指導病人先將助行器四點平放於地面後再移動較弱腳、接著移動較強腳、移除環境中如散置地毯等危險物，並穿著防滑鞋。助行器應靠近病人，而非在靜止站立時保持12英吋的距離；病人應緩慢且謹慎地移動，絕不應加快速度。"},
+    "pdf_pages": [239],
+    "tags": ["sata", "fall prevention", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is assessing fall risk for a hospitalized older adult client. Which findings increase the client's risk for falling? Select all that apply.", "zh": "護理師正在評估一位住院年長病人的跌倒風險。下列哪些發現會增加病人跌倒的風險？請選出所有符合項目（多選題）。"},
+    "options": [
+      {"en": "Orthostatic hypotension noted when the client stands", "zh": "病人站立時出現姿位性低血壓"},
+      {"en": "Muscle weakness from prolonged bed rest", "zh": "因長期臥床導致的肌肉無力"},
+      {"en": "Use of nonskid socks", "zh": "穿著防滑襪"},
+      {"en": "A new prescription for a sedative-hypnotic medication", "zh": "新開立的鎮靜安眠藥處方"},
+      {"en": "Call bell within the client's reach", "zh": "呼叫鈴在病人可及範圍內"},
+      {"en": "Joint contracture affecting the client's gait", "zh": "影響病人步態的關節攣縮"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Orthostatic hypotension, muscle weakness from immobility, sedative-hypnotic medications, and joint contractures that impair gait all increase fall risk. Nonskid socks and a call bell within reach are safety measures that reduce, rather than increase, fall risk.", "zh": "姿位性低血壓、因活動不足導致的肌肉無力、鎮靜安眠藥物，以及影響步態的關節攣縮，皆會增加跌倒風險。穿防滑襪及呼叫鈴在可及範圍內則是降低（而非增加）跌倒風險的安全措施。"},
+    "pdf_pages": [235],
+    "tags": ["sata", "fall prevention", "immobility"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is fitting a client for axillary crutches. Which finding indicates correct measurement?", "zh": "護理師正在為病人測量腋下拐杖。下列哪項發現表示測量正確？"},
+    "options": [
+      {"en": "2 to 3 finger widths of space between the axilla and the crutch pad", "zh": "腋下與拐杖墊之間保留2至3指寬的空間"},
+      {"en": "The elbows are fully extended while the client stands holding the crutches", "zh": "病人站立持拐杖時，手肘完全伸直"},
+      {"en": "The crutch pads rest snugly against the axillae for maximum support", "zh": "拐杖墊緊貼於腋下以獲得最大支撐"},
+      {"en": "The hand grips are positioned level with the client's shoulders", "zh": "握把的位置與病人的肩膀同高"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Crutches must be measured so there are 2 to 3 finger widths of space between the axilla and the top of the crutch, with the elbows slightly flexed 20 to 30 degrees and hand grips level with the greater trochanter area, not the shoulders. Resting the axillae directly on the crutch pads or standing with elbows fully extended can cause brachial plexus nerve injury.", "zh": "拐杖測量時腋下與拐杖頂端之間必須保留2至3指寬的空間，手肘應微彎20至30度，握把位置應與大轉子處同高，而非與肩膀同高。若腋下直接靠在拐杖墊上，或手肘完全伸直，可能造成臂神經叢損傷。"},
+    "pdf_pages": [237],
+    "tags": ["crutches", "nerve injury", "mobility"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is teaching a client with left-sided leg weakness how to use a standard cane. Which instruction is correct?", "zh": "護理師正在教導一位左側下肢無力的病人使用標準拐杖。下列哪項指導是正確的？"},
+    "options": [
+      {"en": "Hold the cane in the left hand, on the affected side", "zh": "將拐杖握在左手，患側那一側"},
+      {"en": "Hold the cane in the right hand, on the unaffected side, and advance the cane together with the left leg", "zh": "將拐杖握在右手，健側那一側，並與左腿同時向前移動"},
+      {"en": "Hold the cane in the right hand and advance it only after both feet have already moved forward", "zh": "將拐杖握在右手，並在雙腳都已向前移動後才移動拐杖"},
+      {"en": "Keep the elbow fully extended while using the cane for maximum support", "zh": "使用拐杖時保持手肘完全伸直以獲得最大支撐"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A cane is held in the hand on the unaffected (stronger) side so the cane and the weaker leg can work together; the client advances the cane and the weaker leg together, then advances the stronger leg, keeping two points of support on the floor at all times. The elbow should be flexed 15 to 30 degrees, not fully extended.", "zh": "拐杖應握在健側（較強側）手中，使拐杖與較弱的腿能協同運作；病人應將拐杖與較弱的腿同時向前移動，再移動較強的腿，並隨時保持兩點支撐於地面。手肘應彎曲15至30度，而非完全伸直。"},
+    "pdf_pages": [238],
+    "tags": ["cane", "mobility", "requires further teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which statement about bathing a hospitalized client is accurate?", "zh": "關於為住院病人進行沐浴照護，下列哪項陳述是正確的？"},
+    "options": [
+      {"en": "Bath basins filled with soap and water are preferred because they are more cost-effective", "zh": "裝有肥皂水的盆浴盆較受偏好，因其成本效益較高"},
+      {"en": "Chlorhexidine gluconate (CHG) bathing has been shown to decrease bacterial growth compared with standard soap and water", "zh": "使用氯己定（CHG）沐浴已被證實比標準肥皂水更能減少細菌生長"},
+      {"en": "A complete bed bath requires less oxygen consumption than a partial bed bath", "zh": "完整床上擦澹所需的氧氣消耗量比部分床上擦澹少"},
+      {"en": "Standard bath basins do not harbor bacteria if rinsed once after use", "zh": "標準沐浴盆使用後沖洗一次即不會滋生細菌"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Bath basins with soap and water are generally no longer preferred because the basin can serve as a reservoir for bacteria and a possible mode of infection transmission. The use of chlorhexidine gluconate (CHG) in place of standard soap and water has been shown to decrease bacterial growth in wash basins. Complete bed baths actually increase oxygen consumption and demand compared with partial baths.", "zh": "裝有肥皂水的沐浴盆一般已不被優先使用，因為盆具可能成為細菌的滋生處，並可能成為感染傳播的途徑。使用氯己定（CHG）取代標準肥皂水，已被證實可減少沐浴盆中的細菌生長。完整床上擦澹實際上比部分擦澹增加氧氣消耗及需求。"},
+    "pdf_pages": [234],
+    "tags": ["hygiene", "infection control"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching foot care to a client with diabetes mellitus and peripheral neuropathy. Which client statement indicates correct understanding of the teaching?", "zh": "護理師正在教導一位患有糖尿病及周邊神經病變的病人足部照護。病人的下列哪項陳述顯示其正確理解該教育內容？"},
+    "options": [
+      {"en": "\"I will soak my feet in warm water for 20 minutes each night.\"", "zh": "「我每晚會將雙腳泡在溫水中20分鐘。」"},
+      {"en": "\"I will trim my own toenails straight across each week.\"", "zh": "「我每週會自行將腳趾甲剪平。」"},
+      {"en": "\"I will see a podiatrist for nail trimming and avoid soaking my feet.\"", "zh": "「我會找足科醫師修剪指甲，並避免泡腳。」"},
+      {"en": "\"I will apply lotion between my toes after bathing.\"", "zh": "「我沐浴後會在腳趾之間擦乳液。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Clients with diabetes mellitus or peripheral vascular disease should not soak their feet because prolonged soaking can cause maceration and increase infection risk, and nail trimming should be done by a podiatrist or primary health care provider because of the increased risk of infection from accidental cuts. Lotion is applied to the feet but avoided between the toes to prevent excess moisture and maceration.", "zh": "患有糖尿病或周邊血管疾病的病人不應泡腳，因長時間泡水可能造成皮膚軟化並增加感染風險；指甲修剪應由足科醫師或主要照護者執行，以降低意外剪傷造成感染的風險。乳液可塗抹於雙足，但應避免塗於腳趾之間，以防止過度潮濕及皮膚軟化。"},
+    "pdf_pages": [236],
+    "tags": ["diabetes", "foot care", "self-care"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigning tasks to assistive personnel (AP). For which client is it most important to instruct the AP to use an electric razor rather than a safety razor for shaving?", "zh": "護理師正在分配任務給照護輔助人員（AP）。對於下列哪位病人，指示AP使用電動刮刀而非安全刮刀進行刮鬍最為重要？"},
+    "options": [
+      {"en": "A client with a white blood cell count of 11,000/mm3", "zh": "白血球計數為11,000/mm3的病人"},
+      {"en": "A client receiving an antiplatelet medication", "zh": "正在接受抗血小板藥物治療的病人"},
+      {"en": "A client with a hemoglobin level of 14 g/dL", "zh": "血紅素濃度為14 g/dL的病人"},
+      {"en": "A client with a platelet count of 400,000/mm3", "zh": "血小板計數為400,000/mm3的病人"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An electric razor or clippers need to be used for clients prone to bleeding, such as those taking anticoagulant or antiplatelet medications, or those with low platelet counts. A slightly elevated white blood cell count, a normal hemoglobin, and a platelet count within or above normal range do not indicate an increased bleeding risk.", "zh": "對於易出血的病人，如服用抗凝血劑或抗血小板藥物者，或血小板偏低的病人，應使用電動刮刀或電動理髮刀。白血球計數輕微升高、正常血紅素濃度，以及正常或偏高的血小板計數，都不代表出血風險增加。"},
+    "pdf_pages": [236],
+    "tags": ["delegation", "bleeding risk", "shaving"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a client's surgical wound and notes drainage that is clear and watery. Which type of wound exudate is this?", "zh": "護理師評估病人的手術傷口，發現引流液呈清澈且水狀。這屬於哪種類型的傷口滲液？"},
+    "options": [
+      {"en": "Serous", "zh": "漿液性"},
+      {"en": "Sanguineous", "zh": "血性"},
+      {"en": "Purulent", "zh": "化膿性"},
+      {"en": "Serosanguineous", "zh": "漿血性"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Serous drainage is clear or straw-colored and watery. Sanguineous drainage is abnormal red drainage indicating active bleeding, serosanguineous drainage is pale pink and watery, and purulent drainage is yellow, gray, tan, brown, or green and indicates infection.", "zh": "漿液性引流液呈清澈或淡黃色且水狀。血性引流液為異常紅色且表示活動性出血；漿血性引流液呈淡粉紅色且水狀；化膿性引流液呈黃色、灰色、棕褐色或綠色，表示感染。"},
+    "pdf_pages": [240],
+    "tags": ["wound drainage", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Which client is at greatest risk for impaired wound healing?", "zh": "下列哪位病人發生傷口癒合障礙的風險最高？"},
+    "options": [
+      {"en": "A client with a serum albumin level of 2.0 g/dL", "zh": "血清白蛋白濃度為2.0 g/dL的病人"},
+      {"en": "A client with a serum albumin level of 4.0 g/dL", "zh": "血清白蛋白濃度為4.0 g/dL的病人"},
+      {"en": "A client who ambulates in the hallway daily", "zh": "每天在走廊上行走的病人"},
+      {"en": "A client eating a high-protein diet", "zh": "食用高蛋白飲食的病人"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Serum albumin is frequently measured as an indicator of nutritional status for clients who need support with wound healing; protein, vitamins, trace minerals, and calories are all required for tissue repair. A low serum albumin level of 2.0 g/dL reflects protein deficiency and places the client at greatest risk for delayed or impaired wound healing.", "zh": "血清白蛋白常用來評估需要傷口癒合支持的病人之營養狀態；蛋白質、維生素、微量元素及熱量皆為組織修復所需。血清白蛋白濃度偏低（2.0 g/dL）反映蛋白質缺乏，使病人發生延遲或受損傷口癒合的風險最高。"},
+    "pdf_pages": [239],
+    "tags": ["nutrition", "wound healing", "risk reduction"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse assists an immobile client who has been on bed rest for several days to a sitting position at the edge of the bed for the first time. Which finding most concerns the nurse?", "zh": "護理師協助一位臥床數天的病人首次坐到床邊。下列哪項發現最令護理師感到擔憂？"},
+    "options": [
+      {"en": "Pulse rate increased from 70 to 86 beats/min", "zh": "脈搏從每分鐘70次增加至86次"},
+      {"en": "The client reports dizziness and appears pale", "zh": "病人主訴頭暈且臉色蒼白"},
+      {"en": "Respiratory rate of 18 breaths/min", "zh": "呼吸速率每分鐘18次"},
+      {"en": "Blood pressure change from 118/76 to 112/72 mm Hg", "zh": "血壓從118/76 mmHg變化為112/72 mmHg"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Dizziness and pallor when an immobile client first changes position are signs of orthostatic hypotension, a cardiovascular complication of prolonged immobility that significantly increases the client's risk for falling. A mild increase in pulse, a normal respiratory rate, and a minor decrease in blood pressure that does not produce symptoms are less concerning findings.", "zh": "活動受限的病人首次改變姿勢時出現頭暈及臉色蒼白，是姿位性低血壓的徵象，這是長期臥床導致的心血管併發症，會顯著增加病人跌倒的風險。脈搏輕微上升、呼吸速率正常，以及未伴隨症狀的輕微血壓下降，相對較不令人擔憂。"},
+    "pdf_pages": [235],
+    "tags": ["fall prevention", "orthostatic hypotension", "red flag"]
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "When performing a physical assessment of most body systems, the nurse should use the four assessment techniques in which order?", "zh": "在對大多數身體系統進行身體評估時,護理師應依下列哪一順序使用四種評估技巧?"},
+    "options": [
+      {"en": "Palpation, inspection, percussion, auscultation", "zh": "觸診、視診、叩診、聽診"},
+      {"en": "Inspection, palpation, percussion, auscultation", "zh": "視診、觸診、叩診、聽診"},
+      {"en": "Auscultation, inspection, palpation, percussion", "zh": "聽診、視診、觸診、叩診"},
+      {"en": "Inspection, auscultation, percussion, palpation", "zh": "視診、聽診、叩診、觸診"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For most body systems, assessment techniques are performed in the order of inspection, palpation, percussion, and auscultation. The abdominal assessment is the exception, in which auscultation is performed before percussion and palpation to avoid altering bowel sounds.", "zh": "對大多數身體系統而言,評估技巧依視診、觸診、叩診、聽診的順序進行。腹部評估為例外,聽診需在叩診與觸診之前進行,以避免改變腸音。"},
+    "pdf_pages": [169],
+    "tags": ["assessment technique", "sequence"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "For which body system does the nurse alter the usual sequence of assessment techniques, and in which order should the techniques be performed?", "zh": "護理師對哪一身體系統會改變一般評估技巧的順序,且應依何種順序進行?"},
+    "options": [
+      {"en": "Lungs: inspection, auscultation, percussion, palpation", "zh": "肺部:視診、聽診、叩診、觸診"},
+      {"en": "Abdomen: inspection, auscultation, percussion, palpation", "zh": "腹部:視診、聽診、叩診、觸診"},
+      {"en": "Heart: auscultation, inspection, palpation, percussion", "zh": "心臟:聽診、視診、觸診、叩診"},
+      {"en": "Abdomen: inspection, palpation, percussion, auscultation", "zh": "腹部:視診、觸診、叩診、聽診"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The abdominal assessment is performed in the order of inspection, auscultation, percussion, and palpation because percussion and palpation can increase peristalsis and alter the character of bowel sounds before they are auscultated.", "zh": "腹部評估依視診、聽診、叩診、觸診的順序進行,因為叩診與觸診可能增加腸蠕動,在聽診前改變腸音的特性。"},
+    "pdf_pages": [182],
+    "tags": ["assessment technique", "abdomen", "sequence"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "While auscultating a client's carotid arteries, the nurse notes a blowing, swishing sound. Which action should the nurse take first?", "zh": "護理師在聽診病人頸動脈時,聽到一種吹氣樣、沙沙聲。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Document the sound as an expected finding and continue the assessment", "zh": "記錄此聲音為預期發現並繼續評估"},
+      {"en": "Notify the primary health care provider and monitor the client's vital signs and neurological status", "zh": "通知主治醫療提供者並監測病人的生命徵象與神經學狀態"},
+      {"en": "Ask the client to turn the head from side to side and reassess the sound", "zh": "請病人將頭部左右轉動後再重新評估此聲音"},
+      {"en": "Apply supplemental oxygen immediately before continuing the assessment", "zh": "立即給予補充氧氣後再繼續評估"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A carotid bruit indicates turbulent blood flow and a possible blockage that could reduce cerebral perfusion; it is not a normal finding. The nurse should notify the PHCP for further evaluation and monitor vital signs and neurological status for signs of altered cerebral blood flow.", "zh": "頸動脈血管雜音表示血流渾亂且可能有阻塞,可能降低腦部灌流;此並非正常發現。護理師應通知主治醫療提供者以做進一步評估,並監測生命徵象與神經學狀態,留意腦血流改變的徵象。"},
+    "pdf_pages": [181],
+    "tags": ["recognizing cues", "red flag", "cardiovascular"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse strokes the sole of an alert 45-year-old client's foot and observes dorsiflexion of the great toe with fanning of the other toes. The nurse should interpret this finding as", "zh": "護理師用鈍物劃過一位清醒45歲病人的足底,觀察到大拇趾背屈並其他腳趾呈扇形散開。護理師應將此發現解讀為:"},
+    "options": [
+      {"en": "a normal plantar reflex response", "zh": "正常的足底反射反應"},
+      {"en": "a finding of no clinical significance in adults", "zh": "成人中無臨床意義的發現"},
+      {"en": "a positive Babinski's sign, which is abnormal in an adult and suggests central nervous system disease", "zh": "陽性巴賓斯基徵象,在成人中屬異常,提示中樞神經系統疾病"},
+      {"en": "an expected response that confirms intact cranial nerve XI function", "zh": "證實第十一對腦神經功能完整的預期反應"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Dorsiflexion of the great toe with fanning of the other toes after stroking the sole of the foot is a positive Babinski's sign. This is abnormal in anyone older than 2 years of age and indicates the presence of central nervous system disease.", "zh": "劃過足底後出現大拇趾背屈合併其他腳趾呈扇形散開,為陽性巴賓斯基徵象。此現象在兩歲以上者屬異常,提示中樞神經系統疾病的存在。"},
+    "pdf_pages": [185],
+    "tags": ["recognizing cues", "neurological", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a client's lower extremities and notes a pit that is noticeably deep, lasts longer than a minute, and leaves the extremity looking fuller and swollen. The nurse should document this finding as which grade of pitting edema?", "zh": "護理師評估病人下肢時,發現壓痕明顯深陷、持續超過一分鐘,且肢體看起來較腫脹飽滿。護理師應記錄此發現為哪一級的凹陷性水腫?"},
+    "options": [
+      {"en": "1+ pitting edema", "zh": "1+凹陷性水腫"},
+      {"en": "2+ pitting edema", "zh": "2+凹陷性水腫"},
+      {"en": "3+ pitting edema", "zh": "3+凹陷性水腫"},
+      {"en": "4+ pitting edema", "zh": "4+凹陷性水腫"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "3+ pitting edema is described as a noticeably deep pit that may last more than a minute, with the dependent extremity looking fuller and swollen. 4+ edema is even more pronounced, with a very deep pit lasting 2 to 5 minutes and gross distortion of the extremity.", "zh": "3+凹陷性水腫的描述為明顯深陷的壓痕,可能持續超過一分鐘,下垂肢體顯得較腫脹飽滿。4+水腫更為明顯,壓痕極深且持續2到5分鐘,肢體明顯變形。"},
+    "pdf_pages": [172],
+    "tags": ["documentation", "edema", "data interpretation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse auscultates fine crackles at the bases of both lungs in a client with a history of heart failure who reports increasing shortness of breath. The nurse should recognize this finding as most consistent with which condition?", "zh": "護理師為一位有心臟衰竭病史且主訴呼吸困難加重的病人聽診,發現雙側肺底有細濕囉音。護理師應判斷此發現與下列哪一項狀況最為相符?"},
+    "options": [
+      {"en": "Normal vesicular breath sounds for this client", "zh": "此病人的正常肺泡呼吸音"},
+      {"en": "Fluid accumulation in the lungs, such as with pulmonary edema", "zh": "肺部液體積聚,如肺水腫"},
+      {"en": "A pleural friction rub from pleuritis", "zh": "胸膜炎引起的胸膜摩擦音"},
+      {"en": "A narrowed airway, such as with an asthma exacerbation", "zh": "呼吸道狹窄,如氣喘發作"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fine crackles are high-pitched, discontinuous popping sounds heard at the end of inspiration that are not cleared by coughing; they may be heard in heart failure and pulmonary edema because of fluid in the alveoli. A pleural friction rub is a grating sound heard throughout inspiration and expiration, and wheezes, not crackles, are associated with narrowed airways such as asthma.", "zh": "細濕囉音是吸氣末聽到的高音調、不連續的爆裂音,咳嗽無法清除;可能在心臟衰竭與肺水腫時因肺泡內積液而聽到。胸膜摩擦音為吸氣與呼氣全程皆可聽到的摩擦音,而氣喘等呼吸道狹窄則伴隨喘鳴音,而非囉音。"},
+    "pdf_pages": [179],
+    "tags": ["recognizing cues", "respiratory", "heart failure"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse auscultates a client's heart and notes a new murmur that is loud and accompanied by a palpable thrill over the precordium. The nurse should grade this murmur as", "zh": "護理師聽診病人心臟時,發現一個新的雜音,聲音大且在心前區可觸及震顫。護理師應將此雜音分級為:"},
+    "options": [
+      {"en": "Grade I: very faint", "zh": "第一級:非常微弱"},
+      {"en": "Grade II: faint but recognizable", "zh": "第二級:微弱但可辨識"},
+      {"en": "Grade IV: loud, accompanied by a palpable thrill", "zh": "第四級:聲音大,伴隨可觸及的震顫"},
+      {"en": "Grade III: loud but moderate in intensity, without a thrill", "zh": "第三級:聲音大但強度中等,無震顫"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A murmur that is loud and accompanied by a palpable thrill is classified as a Grade IV murmur. Grade III murmurs are loud but moderate in intensity without a palpable thrill, and Grades I and II are faint murmurs.", "zh": "聲音大且伴隨可觸及震顫的雜音分類為第四級。第三級雜音聲音大但強度中等,無可觸及的震顫;第一級與第二級則為微弱的雜音。"},
+    "pdf_pages": [180],
+    "tags": ["recognizing cues", "cardiac", "documentation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is assessing a client's capillary refill time. Which technique is correct?", "zh": "護理師正在評估病人的毛細血管再充盈時間。下列哪一項技巧是正確的?"},
+    "options": [
+      {"en": "Depress the nail bed to produce blanching, release, and expect color to return within 3 seconds if arterial perfusion is normal", "zh": "壓迫指甲床使其變白,釋放後,若動脈灌流正常,預期顏色應於3秒內恢復"},
+      {"en": "Palpate the radial pulse continuously for 60 seconds", "zh": "持續觸診橈動脈脈搏60秒"},
+      {"en": "Inflate a blood pressure cuff on the affected limb for 2 minutes before assessing color", "zh": "在評估顏色前,將血壓壓脈帶充氣於受影響的肢體上2分鐘"},
+      {"en": "Press firmly on the sternum for 5 seconds and count respirations", "zh": "用力按壓胸骨5秒並計算呼吸次數"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "To assess capillary filling time, the nurse depresses the nail bed to produce blanching, releases it, and observes the return of color. Color should return within 3 seconds if arterial capillary perfusion is normal.", "zh": "評估毛細血管再充盈時間時,護理師壓迫指甲床使其變白,然後釋放並觀察顏色恢復情形。若動脈毛細血管灌流正常,顏色應於3秒內恢復。"},
+    "pdf_pages": [172],
+    "tags": ["assessment technique", "perfusion"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse pinches a fold of skin on a client's forearm and notes that it remains tented for several seconds before slowly returning to place. The nurse should recognize this finding as most consistent with which condition?", "zh": "護理師捏起病人前臂的皮膚皺褶,發現皮膚維持隆起數秒後才緩慢回復。護理師應判斷此發現與下列哪一項狀況最為相符?"},
+    "options": [
+      {"en": "Normal, elastic skin turgor typical of a well-hydrated adult", "zh": "水分充足成人典型的正常、有彈性皮膚張力"},
+      {"en": "Severe dehydration or extreme fluid volume deficit", "zh": "嚴重脫水或極度體液容積不足"},
+      {"en": "Localized peripheral edema", "zh": "局部周邊水腫"},
+      {"en": "A normal variant with no clinical significance", "zh": "無臨床意義的正常變異"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Poor skin turgor, in which a pinched fold of skin remains tented and returns slowly rather than snapping back into place, occurs with severe dehydration or extreme weight loss and should prompt further fluid status assessment.", "zh": "皮膚張力不良時,捏起的皮膚皺褶會維持隆起並緩慢回復,而非迅速彈回原位,此情形發生於嚴重脫水或極度體重減輕,應促使進一步評估體液狀態。"},
+    "pdf_pages": [172],
+    "tags": ["recognizing cues", "dehydration", "skin assessment"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse asks a client to stick out the tongue as part of a cranial nerve assessment. This maneuver primarily tests the function of which cranial nerve?", "zh": "護理師請病人伸出舌頭,作為腦神經評估的一部分。此動作主要測試下列哪一對腦神經的功能?"},
+    "options": [
+      {"en": "Cranial nerve VII, facial", "zh": "第七對腦神經,顏面神經"},
+      {"en": "Cranial nerve X, vagus", "zh": "第十對腦神經,迷走神經"},
+      {"en": "Cranial nerve XI, spinal accessory", "zh": "第十一對腦神經,副神經"},
+      {"en": "Cranial nerve XII, hypoglossal", "zh": "第十二對腦神經,舌下神經"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Asking the client to protrude the tongue, which should move in the midline without deviation, tests cranial nerve XII, the hypoglossal nerve. Cranial nerve X (vagus) is tested by assessing symmetrical rise of the soft palate and uvula during phonation, and cranial nerve XI is tested through neck and shoulder muscle strength.", "zh": "請病人伸出舌頭(應沿中線伸出不偏斜)是用來測試第十二對腦神經,即舌下神經。第十對腦神經(迷走神經)則是透過發音時軟顎與懸雍垂對稱上升來測試,第十一對腦神經則透過頸部與肩部肌力測試。"},
+    "pdf_pages": [177],
+    "tags": ["cranial nerves", "neurological assessment"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse asks a client to stand with the feet together, arms at the sides, and eyes closed. The client sways significantly and nearly loses balance. Based on this finding, which nursing action is the priority?", "zh": "護理師請病人雙腳併攏站立、雙臂垂於身側並閉眼。病人出現明顯搖晃且幾乎失去平衡。根據此發現,護理師應優先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Document the finding as a normal variant of aging and continue the assessment", "zh": "記錄此發現為老化的正常變異,並繼續評估"},
+      {"en": "Implement fall-precaution measures and notify the primary health care provider of the positive Romberg's sign", "zh": "實施跌倒預防措施並通知主治醫療提供者此陽性羅姆伯格徵象"},
+      {"en": "Ask the client to repeat the test more quickly to confirm the result", "zh": "請病人更快速地重複此測試以確認結果"},
+      {"en": "Encourage the client to ambulate independently without assistance to build confidence", "zh": "鼓勵病人獨立行走、不需協助,以建立信心"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A significant sway or loss of balance during the Romberg test is a positive Romberg's sign, indicating a possible vestibular or cerebellar problem and placing the client at increased risk for falls. The nurse's priority is to implement fall precautions and notify the PHCP, not to encourage unsupervised ambulation.", "zh": "羅姆伯格測試中出現明顯搖晃或失去平衡為陽性羅姆伯格徵象,提示可能有前庭或小腦功能問題,使病人跌倒風險增加。護理師應優先實施跌倒預防措施並通知主治醫療提供者,而非鼓勵病人無人陪同獨自行走。"},
+    "pdf_pages": [183],
+    "tags": ["fall risk", "safety", "first action", "neurological"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse is planning client assessments for the shift. Which assessment-related task is appropriate to delegate to unlicensed assistive personnel (UAP)?", "zh": "護理師正在規劃本班的病人評估工作。下列哪一項與評估相關的任務適合委派給無執照輔助人員(UAP)?"},
+    "options": [
+      {"en": "Interpreting a change in a client's heart murmur grade", "zh": "判讀病人心臟雜音等級的變化"},
+      {"en": "Obtaining a client's height, weight, and radial pulse rate for the admission database", "zh": "為入院資料庫取得病人的身高、體重及橈動脈脈搏率"},
+      {"en": "Performing a focused neurological assessment on a client with new-onset confusion", "zh": "對新發意識混亂的病人執行重點神經學評估"},
+      {"en": "Auscultating adventitious breath sounds in a client with pneumonia", "zh": "為肺炎病人聽診異常呼吸音"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Obtaining routine height, weight, and radial pulse measurements falls within the role of UAP, as these are data-collection tasks that do not require independent nursing judgment. Interpreting findings such as murmurs or adventitious breath sounds and performing a focused assessment on a client with a new neurological change require the knowledge and judgment of a licensed nurse.", "zh": "常規測量身高、體重及橈動脈脈搏屬於UAP的職責範圍,因為這些是資料收集工作,不需要獨立的護理判斷。判讀如心雜音或異常呼吸音等發現,以及對新發神經學變化病人執行重點評估,則需要有執照護理師的知識與判斷。"},
+    "pdf_pages": [169],
+    "tags": ["delegation", "scope of practice"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for four clients and reviews documented assessment findings before beginning rounds. Which finding should the nurse follow up on first?", "zh": "護理師負責照護四位病人,在開始巡房前檢閱已記錄的評估發現。護理師應優先追蹤下列哪一項發現?"},
+    "options": [
+      {"en": "1+ pedal pulses bilaterally in a client with known peripheral vascular disease", "zh": "已知有周邊血管疾病病人雙側足背脈搏1+"},
+      {"en": "A new bruit auscultated over a client's carotid artery", "zh": "病人頸動脈新聽到的血管雜音"},
+      {"en": "Tonsils graded 1+ in a client being treated for a sore throat", "zh": "正接受咽喉痛治療病人的扁桃腺分級為1+"},
+      {"en": "Scattered freckles noted on a client's back during a routine skin assessment", "zh": "常規皮膚評估中發現病人背部散布的雀斑"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A new carotid bruit indicates turbulent blood flow and a possible arterial blockage that could compromise cerebral perfusion, requiring immediate follow-up. The other findings are either expected for the client's known condition (diminished pulses with peripheral vascular disease, small tonsils) or benign (freckles).", "zh": "新出現的頸動脈雜音表示血流渾亂且可能有動脈阻塞,可能危及腦部灌流,需立即追蹤。其他發現則是病人已知病況的預期結果(周邊血管疾病脈搏減弱、扁桃腺較小)或屬良性(雀斑)。"},
+    "pdf_pages": [181],
+    "tags": ["prioritization", "analyzing cues", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is assessing a client's thyroid gland and suspects it may be enlarged. Which actions should the nurse take? Select all that apply.", "zh": "護理師正在評估病人的甲狀腺並懷疑可能腫大。護理師應採取下列哪些行動?(多選)"},
+    "options": [
+      {"en": "Ask the client to take a sip of water and swallow while inspecting the neck", "zh": "請病人喝一口水並吞下,同時視診頸部"},
+      {"en": "Palpate the gland using an anterior approach, with the thumbs on the trachea", "zh": "使用前方觸診法,將拇指置於氣管上觸診甲狀腺"},
+      {"en": "Auscultate the enlarged gland for a bruit", "zh": "聽診腫大的甲狀腺以評估是否有雜音"},
+      {"en": "Percuss directly over the thyroid gland to assess its density", "zh": "直接叩診甲狀腺以評估其密度"},
+      {"en": "Ask the client to hyperextend the neck and hold the breath for a full minute before inspecting", "zh": "請病人將頸部過度伸展並閉氣整整一分鐘後再視診"}
+    ],
+    "answer": [0, 2],
+    "rationale": {"en": "Thyroid tissue moves upward with swallowing, so the nurse inspects the neck as the client takes a sip of water and swallows. If the thyroid is enlarged, the nurse should auscultate for a bruit, which can indicate increased vascularity. Percussion is not part of thyroid assessment, and the gland is palpated with an anterior-posterior approach, not a single anterior approach with breath-holding.", "zh": "甲狀腺組織在吞嚥時會向上移動,因此護理師會在病人喝水吞嚥時視診頸部。若甲狀腺腫大,護理師應聽診以評估是否有血管雜音,可能提示血管增生。叩診並非甲狀腺評估的一部分,觸診則採前後位觸診法,而非單純前方觸診並要求閉氣。"},
+    "pdf_pages": [173],
+    "tags": ["sata", "thyroid", "assessment technique"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Before performing an otoscopic examination on a client, which nursing action is most important for client safety?", "zh": "在為病人執行耳鏡檢查前,下列哪一項護理行動對病人安全最為重要?"},
+    "options": [
+      {"en": "Instruct the client to move the head freely during the examination for comfort", "zh": "指示病人在檢查過程中自由移動頭部以增加舒適度"},
+      {"en": "Check the auditory canal for foreign bodies and instruct the client to keep the head still", "zh": "檢查耳道是否有異物,並指示病人在檢查中保持頭部不動"},
+      {"en": "Irrigate the ear canal with warm water immediately before inserting the speculum", "zh": "在插入耳鏡耳塞前立即用溫水沖洗耳道"},
+      {"en": "Insert the speculum as rapidly as possible to minimize client discomfort", "zh": "盡快插入耳鏡耳塞以減少病人不適"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Before performing an otoscopic examination and inserting the speculum, the nurse checks the auditory canal for foreign bodies and instructs the client not to move the head during the examination to avoid damage to the canal and tympanic membrane. The otoscope should never be introduced blindly or rapidly because of the risk of perforating the tympanic membrane.", "zh": "在執行耳鏡檢查並插入耳塞前,護理師應檢查耳道是否有異物,並指示病人在檢查過程中不要移動頭部,以避免損傷耳道與鼓膜。耳鏡絕不可盲目或快速插入,因有穿孔鼓膜的風險。"},
+    "pdf_pages": [175],
+    "tags": ["safety", "otoscopic exam", "first action"]
+  }
+]

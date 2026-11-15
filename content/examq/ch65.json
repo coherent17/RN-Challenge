@@ -1,0 +1,214 @@
+[
+  {
+    "cat": "PI",
+    "stem": {"en": "A client with major depression tells the nurse, \"Nothing I do ever turns out right. I don't know why I even try anymore.\" Which response by the nurse is most therapeutic?", "zh": "一名重度憂鬱症客戶告訴護理師：「我做什麼事都不會成功。我不知道自己為什麼還要嘗試。」護理師下列哪項回應最具治療性？"},
+    "options": [
+      {"en": "\"That's not true, you have so many things going for you.\"", "zh": "「這不是真的，你有這麼多優點。」"},
+      {"en": "\"It sounds like you've been feeling discouraged about things not working out.\"", "zh": "「聽起來你對事情不順利感到很沮喪。」"},
+      {"en": "\"Why do you feel that nothing you do works out?\"", "zh": "「你為什麼覺得你做的事都不會成功？」"},
+      {"en": "\"Lots of people with depression feel that way at first.\"", "zh": "「很多憂鬱症患者剛開始都會有這種感覺。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Restating/reflecting the client's feelings back acknowledges the emotion and invites further exploration. False reassurance (\"you have so many things going for you\") minimizes the client's experience. \"Why\" questions tend to feel accusatory and put the client on the defensive. Generalizing (\"lots of people feel that way\") minimizes the client's unique feelings rather than exploring them.", "zh": "將客戶的感受反映回去，能肯定其情緒並鼓勵進一步表達。虛假的安慰（「你有這麼多優點」）會輕視客戶的感受。「為什麼」的問句容易讓人覺得被指責而產生防衛心。將感受一般化（「很多人剛開始都這樣」）則輕視了客戶獨特的感受，而非加以探索。"},
+    "pdf_pages": [1042],
+    "tags": ["therapeutic communication", "best response"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client recovering from a stroke states, \"I feel so useless now that I can't dress myself.\" Which nursing response reflects a nontherapeutic communication technique?", "zh": "一名中風後康復中的客戶表示：「我現在連自己穿衣服都做不到，覺得自己好沒用。」護理師下列哪項回應屬於非治療性的溝通技巧？"},
+    "options": [
+      {"en": "\"You're feeling frustrated about needing help with dressing.\"", "zh": "「你對需要別人幫忙穿衣服這件事感到很挫折。」"},
+      {"en": "\"Tell me more about what makes you feel that way.\"", "zh": "「跟我多說一點，是什麼讓你有這種感覺？」"},
+      {"en": "\"You shouldn't feel useless—plenty of stroke survivors regain full independence.\"", "zh": "「你不應該覺得自己沒用——很多中風患者都能完全恢復獨立生活能力。」"},
+      {"en": "\"It sounds like this change has been hard for you to accept.\"", "zh": "「聽起來這個改變對你來說很難接受。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Telling the client they \"shouldn't feel\" a certain way minimizes the client's feelings and offers false reassurance, both nontherapeutic techniques that block communication. Reflecting feelings, using open-ended exploration, and acknowledging difficulty accepting change are therapeutic techniques that encourage the client to continue expressing feelings.", "zh": "告訴客戶「不應該」有某種感覺，會輕視客戶的感受並提供虛假的安慰，兩者皆屬於阻礙溝通的非治療性技巧。反映感受、開放式探索，以及承認接受改變的困難，則是鼓勵客戶持續表達感受的治療性技巧。"},
+    "pdf_pages": [1042],
+    "tags": ["therapeutic communication", "nontherapeutic"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "Before a nurse's first scheduled meeting with a newly admitted client on the psychiatric unit, the nurse reviews the chart, considers potential challenges the client may present, and reflects on personal biases that could interfere with establishing rapport. This activity occurs during which phase of the nurse-client relationship?", "zh": "在護理師與一名新入院的精神科客戶首次會面前，護理師查閱病歷，思考客戶可能出現的挑戰，並反思自身可能影響建立信任關係的偏見。此活動屬於護病關係中的哪個階段？"},
+    "options": [
+      {"en": "Preinteraction phase", "zh": "預互動期"},
+      {"en": "Orientation phase", "zh": "導向期"},
+      {"en": "Working phase", "zh": "工作期"},
+      {"en": "Termination phase", "zh": "結束期"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The preinteraction phase occurs before the nurse's first contact with the client and includes reviewing available information, anticipating potential issues, and identifying the nurse's own preconceived ideas, stereotypes, and biases that may affect the relationship. The orientation phase involves the first actual contact, establishing trust and the treatment contract.", "zh": "預互動期發生在護理師與客戶第一次接觸之前，包括查閱可得的資訊、預判可能出現的問題，並辨識自身可能影響關係的先入為主想法、刻板印象與偏見。導向期則是實際第一次接觸，用以建立信任與治療契約。"},
+    "pdf_pages": [1040],
+    "tags": ["nurse-client relationship"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "During the working phase of the nurse-client relationship with a client who survived a serious car crash, which nursing action is most appropriate?", "zh": "在護病關係的工作期中，面對一名從嚴重車禍中存活下來的客戶，護理師下列哪項行動最適當？"},
+    "options": [
+      {"en": "Introduce self and establish the time frame of the professional relationship", "zh": "自我介紹並確立專業關係的時間架構"},
+      {"en": "Assist the client to identify effective coping strategies for the feelings that have surfaced", "zh": "協助客戶找出能應對已浮現情緒的有效應對策略"},
+      {"en": "Refer the client to community resources in preparation for discharge", "zh": "為出院做準備，將客戶轉介至社區資源"},
+      {"en": "Explore the client's feelings about ending the nurse-client relationship", "zh": "探索客戶對結束護病關係的感受"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The working phase focuses on exploring the client's concerns and actively helping the client identify and use effective coping strategies. Introducing oneself and setting the relationship's time frame occurs in the orientation phase; referrals and discussing termination feelings occur during the termination phase.", "zh": "工作期的重點在於探索客戶的憂慮，並積極協助客戶找出並運用有效的應對策略。自我介紹與確立關係時間架構屬於導向期；轉介與討論結束關係的感受則屬於結束期。"},
+    "pdf_pages": [1040],
+    "tags": ["nurse-client relationship"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A nurse notices that a coworker who denies having romantic feelings toward a colleague repeatedly accuses that same colleague of flirting, with no supporting evidence. This behavior is an example of which defense mechanism?", "zh": "護理師發現一位否認對同事有感情的同事，反覆指控該同事對自己有挑逗行為，卻毫無根據。這種行為屬於哪種防衛機制？"},
+    "options": [
+      {"en": "Projection", "zh": "投射"},
+      {"en": "Displacement", "zh": "轉移"},
+      {"en": "Reaction formation", "zh": "反向作用"},
+      {"en": "Rationalization", "zh": "合理化"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Projection involves transferring one's own unacceptable feelings, thoughts, or impulses onto someone else. Here, the coworker's own denied romantic feelings are being attributed to the colleague. Displacement redirects feelings toward a less-threatening target; reaction formation involves acting the opposite of one's true feelings; rationalization justifies behavior with acceptable-sounding reasons.", "zh": "投射是將自己無法接受的感受、想法或衝動轉移到他人身上。此處同事將自己否認的感情，歸咎於對方。轉移是將感受轉向較不具威脅性的對象；反向作用是表現出與真實感受相反的行為；合理化則是用看似合理的理由為行為辯護。"},
+    "pdf_pages": [1044],
+    "tags": ["defense mechanisms"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 6-year-old child who has been fully toilet trained for 3 years begins wetting the bed again after the family moves to a new city. The nurse recognizes this as an example of which defense mechanism?", "zh": "一名已完全學會上廁所訓練 3 年的 6 歲孩童，在家庭搬到新城市後再次開始尿床。護理師應將此視為哪種防衛機制的例子？"},
+    "options": [
+      {"en": "Regression", "zh": "退化"},
+      {"en": "Denial", "zh": "否認"},
+      {"en": "Dissociation", "zh": "解離"},
+      {"en": "Compensation", "zh": "代償"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Regression is returning to an earlier developmental stage and pattern of behavior in order to deal with anxiety, such as a child who has been toilet trained reverting to bedwetting during a stressful life change. Denial would involve ignoring the stressor's existence; dissociation involves blocking an event from consciousness; compensation involves emphasizing strengths to counterbalance perceived deficiencies.", "zh": "退化是為了應對焦慮而回到較早發展階段的行為模式，例如已完成大小便訓練的孩童，在生活壓力事件（搬家）後又開始尿床。否認是忽略壓力源的存在；解離是將事件從意識中阻斷；代償是強調優勢以彌補自覺的不足。"},
+    "pdf_pages": [1044],
+    "tags": ["defense mechanisms"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client who was admitted voluntarily to a psychiatric unit for treatment of generalized anxiety tells the nurse, \"I want to leave right now. I'm checking myself out.\" What is the nurse's initial action?", "zh": "一名因廣泛性焦慮症而自願入院的客戶告訴護理師：「我現在就要離開，我要自行出院。」護理師應優先採取的行動是什麼？"},
+    "options": [
+      {"en": "Tell the client that leaving now will likely result in involuntary commitment", "zh": "告知客戶若現在離開很可能會被強制住院"},
+      {"en": "Contact the primary health care provider to discuss the client's request", "zh": "聯絡主要照護者討論客戶的要求"},
+      {"en": "Ask family members to come to the unit and talk the client out of leaving", "zh": "請家屬到病房來說服客戶留下"},
+      {"en": "Negotiate with the client to remain for just a few more days", "zh": "與客戶協商，請客戶再留幾天就好"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A voluntarily admitted client has the right to request and obtain release unless the client poses an immediate danger to self or others. The nurse's initial action is to contact the provider, who has the authority to discuss discharge with the client. Threatening the client, involving family without the client's permission, and attempting to \"talk\" the client into staying are inappropriate and violate client rights.", "zh": "自願入院的客戶有權要求並獲准出院，除非客戶對自己或他人構成立即的危險。護理師的優先行動是聯絡照護者，由照護者與客戶討論出院事宜。威脅客戶、未經客戶同意即讓家屬介入，以及企圖「說服」客戶留下，皆不恰當且違反客戶權益。"},
+    "pdf_pages": [1045],
+    "tags": ["legal", "first action", "patient rights"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is admitted involuntarily to the mental health unit after threatening to jump from a bridge. Which nursing intervention is the priority for this client?", "zh": "一名客戶因威脅要從橋上跳下而被強制收治於精神科病房。護理師對此客戶最優先的護理措施是什麼？"},
+    "options": [
+      {"en": "Monitor the client closely for harm to self or others", "zh": "密切監測客戶是否有自我或他人傷害的風險"},
+      {"en": "Supply the client with written educational material about the diagnosis", "zh": "提供客戶有關其診斷的書面衛教資料"},
+      {"en": "Assist the client in completing paperwork for the admission", "zh": "協助客戶完成入院文件"},
+      {"en": "Arrange for family members to explain why the admission was necessary", "zh": "安排家屬解釋為何此次入院是必要的"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Involuntary admission occurs because a person is a danger to self or others and requires treatment regardless of willingness to consent. Using Maslow's hierarchy, safety is the priority, so the nurse's focus must be close monitoring for self-harm. Written material, admission paperwork, and family explanations are not the immediate priority for a client at risk for suicide.", "zh": "強制住院是因為個案對自己或他人構成危險，需接受治療，不論個案是否同意。依據 Maslow 需求層級，安全是優先考量，因此護理師應著重於密切監測是否有自我傷害的風險。書面資料、入院文件與家屬解釋並非有自殺風險客戶的立即優先項目。"},
+    "pdf_pages": [1045],
+    "tags": ["priority", "safety", "suicide risk"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse who works at an outpatient mental health clinic runs into an old friend while shopping. The friend says, \"My cousin Maria sees you every week at the clinic—how is she doing? I'm so worried about her.\" Which response by the nurse is most appropriate?", "zh": "一名在門診精神科診所工作的護理師在購物時遇到老朋友。朋友說：「我表妹瑪麗亞每週都去你那裡看診——她還好嗎？我很擔心她。」護理師下列哪項回應最適當？"},
+    "options": [
+      {"en": "\"I'm not able to discuss information about any client.\"", "zh": "「我無法討論任何客戶的資訊。」"},
+      {"en": "\"Since you're family and clearly worried, I can tell you she's doing better.\"", "zh": "「既然你是家人而且這麼擔心，我可以告訴你她情況有在改善。」"},
+      {"en": "\"You should ask Maria yourself since I really can't say.\"", "zh": "「你應該直接問瑪麗亞，因為我真的不能說。」"},
+      {"en": "\"As her relative, you probably already know she's struggling.\"", "zh": "「身為她的親屬，你大概已經知道她過得不太好。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The nurse must maintain client confidentiality, which is a basic client right protected under HIPAA. Stating the responsibility directly but politely, without confirming or denying any information about the client, is most appropriate. Disclosing any status (even \"doing better\"), redirecting in a curt way, or implying the client's condition both fail to maintain confidentiality appropriately.", "zh": "護理師必須維護客戶的保密性，這是受 HIPAA 保障的基本客戶權益。以直接但有禮的方式說明此責任，且不透露任何關於客戶的資訊，是最適當的做法。透露任何狀況（即使是「情況有改善」）、以生硬方式轉移話題，或暗示客戶的狀況，皆未能妥善維護保密性。"},
+    "pdf_pages": [1045],
+    "tags": ["confidentiality", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client admitted voluntarily becomes verbally abusive and demands discharge. Without an order or legal justification, the nurse directs that the client be physically restrained and prevented from leaving the unit. Which legal ramifications could the nurse face as a result of these actions? Select all that apply.", "zh": "一名自願入院的客戶變得言語上具攻擊性並要求出院。護理師未取得醫令或合法依據，即指示對客戶施以身體約束並阻止其離開病房。護理師可能因此面臨下列哪些法律責任？請選出所有適用項目。"},
+    "options": [
+      {"en": "False imprisonment", "zh": "非法拘禁"},
+      {"en": "Battery", "zh": "強暴罪／身體侵害"},
+      {"en": "Assault", "zh": "恐嚇／傷害未遂"},
+      {"en": "Libel", "zh": "書面誹謗"},
+      {"en": "Slander", "zh": "口頭誹謗"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "A voluntarily admitted client has the right to leave unless there is a legal basis for detention. Preventing the client from leaving without legal justification is false imprisonment. Applying restraints without proper criteria constitutes assault (threat of unwanted contact) and battery (the actual unwanted physical contact). Libel and slander involve making false, damaging statements and do not apply to this scenario.", "zh": "自願入院的客戶有權離開，除非有合法依據予以留置。未有合法依據卻阻止客戶離開，構成非法拘禁。未符合條件即施以約束，構成恐嚇（威脅進行不受歡迎的接觸）與身體侵害（實際的不受歡迎接觸）。書面與口頭誹謗涉及不實且損害名譽的言論，與此情境無關。"},
+    "pdf_pages": [1045],
+    "tags": ["legal", "sata"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "The nurse is planning the termination stage of a therapy group that has met weekly for several months. Which activities are appropriate for this stage? Select all that apply.", "zh": "護理師正為一個每週聚會、已進行數月的治療團體規劃結束階段。下列哪些活動適用於此階段？請選出所有適用項目。"},
+    "options": [
+      {"en": "Evaluate the group's overall experience together", "zh": "共同評估團體整體的經驗"},
+      {"en": "Explore members' feelings about the group ending", "zh": "探索成員對團體結束的感受"},
+      {"en": "Establish group norms, roles, and responsibilities", "zh": "建立團體的規範、角色與責任"},
+      {"en": "Encourage superficial introductions among members", "zh": "鼓勵成員之間進行表面性的自我介紹"},
+      {"en": "Acknowledge members' accomplishments during the group's work", "zh": "肯定成員在團體工作期間的成就"}
+    ],
+    "answer": [0, 1, 4],
+    "rationale": {"en": "The termination stage involves evaluating the group experience, exploring feelings about the impending separation, and acknowledging what members accomplished. Establishing group norms and superficial introductions occur during the initial stage of group development, not termination.", "zh": "結束階段包括評估團體經驗、探索對即將分離的感受，以及肯定成員的成就。建立團體規範與表面性的自我介紹則屬於團體發展的初始階段，而非結束階段。"},
+    "pdf_pages": [1047],
+    "tags": ["sata", "group therapy"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client in group therapy consistently talks over other members and does not allow others an opportunity to speak during the session. What is the most appropriate nursing action?", "zh": "一名參加團體治療的客戶在會談中持續打斷其他成員發言，不讓其他人有機會表達。護理師最適當的行動是什麼？"},
+    "options": [
+      {"en": "Ask the client to leave the group for the remainder of the session", "zh": "請客戶在剩餘的會談時間離開團體"},
+      {"en": "Ignore the behavior so as not to embarrass the client in front of the group", "zh": "忽略此行為以避免讓客戶在團體面前感到難堪"},
+      {"en": "Thank the client for the input and state that it is now time for others to share", "zh": "感謝客戶的發言，並說明現在該讓其他人分享了"},
+      {"en": "Wait until after the session to speak with the client privately about the behavior", "zh": "等到會談結束後再私下與客戶談論此行為"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "When a client monopolizes a group, the nurse must be direct and decisive while remaining respectful. Thanking the client for contributing while clearly redirecting the opportunity to others provides specific direction in the moment. Removing the client, ignoring the behavior, or waiting until later all fail to address the group's needs in real time.", "zh": "當客戶主導整個團體時，護理師必須直接、果斷但保持尊重。感謝客戶的發言，同時明確地將機會轉給其他人，能在當下提供明確的引導。將客戶請離、忽略此行為，或等到稍後才處理，皆無法即時回應團體的需求。"},
+    "pdf_pages": [1048],
+    "tags": ["group therapy", "best response"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "On an inpatient psychiatric unit, the treatment team—including the registered nurse, social worker, occupational therapist, and psychiatrist—works together to create a safe environment with community meetings, structured activities, and social skills groups aimed at empowering clients to meet their own goals. This describes which type of therapy?", "zh": "在精神科住院病房中，由 RN、社工、職能治療師與精神科醫師組成的治療團隊，共同打造一個安全的環境，透過社區會議、結構化活動與社交技能團體，協助客戶達成自己的目標。這描述的是哪種治療方式？"},
+    "options": [
+      {"en": "Milieu therapy", "zh": "環境治療"},
+      {"en": "Cognitive therapy", "zh": "認知治療"},
+      {"en": "Behavior therapy", "zh": "行為治療"},
+      {"en": "Interpersonal psychotherapy", "zh": "人際心理治療"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Milieu therapy refers to the safe physical and social environment of treatment, in which all interprofessional team members contribute to the setting's planning and function, with the goal of empowering clients to set and meet their own goals. Cognitive therapy targets distorted thinking; behavior therapy applies conditioning principles; interpersonal psychotherapy uses the therapist-client relationship as the primary tool.", "zh": "環境治療是指治療所處的安全物理與社會環境，由跨專業團隊所有成員共同參與規劃與運作，目標是協助客戶自行設定並達成目標。認知治療針對扭曲的思維；行為治療運用制約原理；人際心理治療則以治療師與客戶的關係作為主要工具。"},
+    "pdf_pages": [1046],
+    "tags": ["types of therapy"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client with generalized anxiety disorder is enrolled in a treatment program that is active, time-limited, and structured, and that focuses on helping the client identify and correct distorted thoughts such as \"If I'm not perfect, everyone will reject me.\" This approach is best described as which type of therapy?", "zh": "一名廣泛性焦慮症客戶參加一項積極、有時間限制且結構化的治療計畫，重點在於協助客戶識別並修正扭曲的想法，例如「如果我不夠完美，大家都會拒絕我」。此方法最適合描述為哪種治療？"},
+    "options": [
+      {"en": "Cognitive therapy", "zh": "認知治療"},
+      {"en": "Milieu therapy", "zh": "環境治療"},
+      {"en": "Aversion therapy", "zh": "厭惡治療"},
+      {"en": "Supportive psychotherapy", "zh": "支持性心理治療"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cognitive therapy is an active, directive, time-limited, structured approach based on the principle that feelings and behavior are determined by how a person thinks; it identifies, reality-tests, and corrects distorted beliefs. Milieu therapy focuses on the treatment environment; aversion therapy pairs an unpleasant stimulus with a behavior to discourage it; supportive psychotherapy reinforces existing coping mechanisms rather than restructuring thoughts.", "zh": "認知治療是一種積極、指導性、有時間限制且結構化的方法，建立在「感受與行為取決於個人想法」的原則上，用以識別、檢驗現實並修正扭曲的信念。環境治療著重於治療環境；厭惡治療是將不愉快的刺激與某行為配對以抑制該行為；支持性心理治療則強化既有的應對機制，而非重構思維。"},
+    "pdf_pages": [1047],
+    "tags": ["types of therapy"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "The nurse is communicating with a client who has disturbed thought processes and believes the hospital food is contaminated. Which approach would best encourage the client to eat?", "zh": "護理師正與一名思考過程紊亂、認為醫院食物被下毒的客戶溝通。下列哪種方式最能鼓勵客戶進食？"},
+    "options": [
+      {"en": "Use open-ended questions and comfortable silence to allow the client to express concerns", "zh": "使用開放式問句並保持從容的沉默，讓客戶表達其疑慮"},
+      {"en": "Explain in detail why the food could not possibly be contaminated", "zh": "詳細解釋食物絕不可能被下毒的原因"},
+      {"en": "Tell the client which foods the nurse personally prefers to eat", "zh": "告訴客戶護理師自己偏好吃哪些食物"},
+      {"en": "Document the client's refusal and move on to the next task", "zh": "記錄客戶拒絕進食並繼續處理下一項工作"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Open-ended questions and silence allow the client space to express the underlying fear without the nurse arguing against the delusion, which can increase the client's defensiveness. Directly disputing the delusion, sharing personal preferences, or simply documenting and moving on do not help the client express feelings or build trust.", "zh": "開放式問句與沉默能讓客戶有空間表達潛在的恐懼，而不需護理師與其妄想內容爭辯，爭辯反而可能增加客戶的防衛心。直接駁斥妄想、分享個人偏好，或僅記錄後就不再處理，都無法幫助客戶表達感受或建立信任。"},
+    "pdf_pages": [1042],
+    "tags": ["therapeutic communication"]
+  }
+]

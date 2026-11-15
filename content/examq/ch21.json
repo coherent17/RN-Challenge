@@ -1,0 +1,170 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "A nurse auscultates a fetal heart rate of 162 bpm by Doppler at an 11-week prenatal visit. How should the nurse interpret this finding?", "zh": "護理師在懷孕 11 週的產檢用都卜勒聽到胎心率 162 次/分。護理師應如何解讀此發現？"},
+    "options": [
+      {"en": "This is tachycardia and the provider should be notified immediately", "zh": "這是心跳過速，應立即通知醫師"},
+      {"en": "This is within the expected range for the first trimester, which is typically higher than later in pregnancy", "zh": "這在第一孕期屬正常範圍，通常比懷孕後期來得高"},
+      {"en": "This indicates possible fetal distress", "zh": "這提示可能有胎兒窘迫"},
+      {"en": "The reading must be repeated because Doppler cannot detect fetal heart tones this early", "zh": "必須重測，因為都卜勒在這麼早的孕期無法偵測胎心音"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fetal heart rate can be detected by Doppler around 10-12 weeks' gestation, and the normal rate in the first trimester runs higher, about 160-170 bpm, before settling into the 110-160 bpm range later in pregnancy.", "zh": "都卜勒約在懷孕 10-12 週可偵測到胎心音，第一孕期正常心率較高，約 160-170 次/分，之後才會落入 110-160 次/分的範圍。"},
+    "pdf_pages": [315, 319],
+    "tags": ["evaluating outcomes"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A nursing student makes the following statements about fetal heart rate. Which statement requires correction by the instructor?", "zh": "護理學生說出以下關於胎心率的陳述。哪一句需要老師糾正？"},
+    "options": [
+      {"en": "\"The fetal heart rate is normally about twice the maternal heart rate.\"", "zh": "「胎心率通常約為母親心率的兩倍。」"},
+      {"en": "\"The fetal heart rate tends to run higher, around 160-170 bpm, early in the first trimester.\"", "zh": "「胎心率在第一孕期早期通常較高，約 160-170 次/分。」"},
+      {"en": "\"A fetal heart rate between 110 and 160 bpm later in pregnancy is reassuring.\"", "zh": "「懷孕後期胎心率在 110 到 160 次/分之間屬安心範圍。」"},
+      {"en": "\"A fetal heart rate of 100 bpm at 32 weeks is a normal finding that needs no further assessment.\"", "zh": "「懷孕 32 週時胎心率 100 次/分是正常發現，不需進一步評估。」"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "A fetal heart rate of 100 bpm at 32 weeks is below the expected 110-160 bpm range and represents fetal bradycardia, which requires immediate further assessment, not a finding to be dismissed as normal.", "zh": "懷孕 32 週時胎心率 100 次/分低於正常範圍 110-160 次/分，屬於胎兒心搏過緩，需要立即進一步評估，而非視為正常而不予理會。"},
+    "pdf_pages": [315, 317],
+    "tags": ["need for further teaching", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A pelvic examination describes a heart-shaped pelvic inlet with a narrow pubic arch. Which pelvis type does this describe, and what is its significance for labor?", "zh": "骨盆檢查描述骨盆入口呈心形、恥骨弓窄小。這描述的是哪一種骨盆類型？對生產有何意義？"},
+    "options": [
+      {"en": "Gynecoid pelvis; this is the most favorable type for vaginal birth", "zh": "女性型骨盆；是最利於陰道生產的類型"},
+      {"en": "Android pelvis; vaginal birth is often difficult with this type", "zh": "男性型骨盆；此類型常使陰道生產困難"},
+      {"en": "Platypelloid pelvis; the wide transverse diameter favors fetal descent", "zh": "扁平型骨盆；寬的橫徑有利於胎頭下降"},
+      {"en": "Anthropoid pelvis; the oval shape with an adequate outlet usually allows vaginal birth", "zh": "類人猿型骨盆；橢圓形狀與足夠的出口通常允許陰道生產"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The android pelvis is heart-shaped with a narrow pubic arch and narrow anterior segment, which commonly makes vaginal birth difficult, unlike the favorable gynecoid shape.", "zh": "男性型骨盆呈心形，恥骨弓與前段皆窄小，常使陰道生產困難，與利於生產的女性型骨盆不同。"},
+    "pdf_pages": [313, 314],
+    "tags": ["analyzing cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client in active labor is diagnosed with cephalopelvic disproportion (CPD) after the fetal head fails to descend despite adequate contractions. What should the nurse anticipate?", "zh": "一名產程中個案在宮縮足夠但胎頭仍未下降後，被診斷為頭骨盆不對稱（CPD）。護理師應預期什麼？"},
+    "options": [
+      {"en": "Continued observation with no change in the plan of care", "zh": "持續觀察，照護計畫不變"},
+      {"en": "Preparation for a likely cesarean birth", "zh": "準備進行可能的剖腹產"},
+      {"en": "Administration of oxytocin to strengthen contractions", "zh": "給予催產素以加強宮縮"},
+      {"en": "Immediate amniotomy to speed labor", "zh": "立即人工破膜以加速產程"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Cephalopelvic disproportion means the fetal head cannot safely pass through the maternal pelvis, and it usually leads to cesarean birth; increasing contraction strength with oxytocin would not resolve a structural disproportion and could be unsafe.", "zh": "頭骨盆不對稱表示胎頭無法安全通過母親骨盆，通常會需要剖腹產；用催產素增強宮縮無法解決結構性的不對稱，反而可能不安全。"},
+    "pdf_pages": [313, 314],
+    "tags": ["generating solutions", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client at 6 weeks' gestation asks the nurse why she feels so nauseated. Which explanation is most accurate?", "zh": "一名懷孕 6 週的個案問護理師為什麼她這麼噁心。護理師最準確的解釋是什麼？"},
+    "options": [
+      {"en": "\"Rising hCG from the developing trophoblast is associated with early pregnancy nausea.\"", "zh": "「正在發育的滋養層分泌上升的 hCG，與早期孕吐有關。」"},
+      {"en": "\"This is caused by the placenta, which is already fully functioning at this point.\"", "zh": "「這是胎盤造成的，此時胎盤已經完全運作。」"},
+      {"en": "\"This means you are carrying twins.\"", "zh": "「這表示妳懷的是雙胞胎。」"},
+      {"en": "\"This is unrelated to the pregnancy and should be evaluated separately.\"", "zh": "「這跟懷孕無關，應該另外評估。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Human chorionic gonadotropin (hCG) secreted by the blastocyst/trophoblast rises rapidly in early pregnancy and is linked to nausea; the placenta does not take over hormone production until about 12 weeks, so it is not yet fully functioning at 6 weeks.", "zh": "囊胚/滋養層分泌的人類絨毛膜促性腺激素（hCG）在懷孕早期快速上升，與噁心有關；胎盤要到約 12 週才接手荷爾蒙生產，所以 6 週時尚未完全運作。"},
+    "pdf_pages": [314, 315],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A couple who has been trying to conceive for 18 months is discussing options including in vitro fertilization, surrogacy, and adoption, and seem overwhelmed. Which nursing response best supports this couple?", "zh": "一對嘗試懷孕 18 個月的夫妻正在討論試管嬰兒、代理孕母與領養等選項，看起來感到不知所措。護理師哪種回應最能支持這對夫妻？"},
+    "options": [
+      {"en": "\"Adoption is usually the easiest and least expensive option, so I would start there.\"", "zh": "「領養通常是最簡單、最省錢的選項，我建議從那個開始。」"},
+      {"en": "\"Let's talk through your feelings and values about each option so you can decide what is right for you.\"", "zh": "「我們來談談你們對每個選項的感受與價值觀，這樣你們可以決定什麼對你們最合適。」"},
+      {"en": "\"Most couples in your situation choose IVF, so that is probably your best choice.\"", "zh": "「大部分像你們這種情況的夫妻都選擇試管嬰兒，所以那可能是你們最好的選擇。」"},
+      {"en": "\"You should decide quickly since infertility treatments become less effective with more delay.\"", "zh": "「你們應該快點決定，因為不孕治療越拖越沒效。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Infertility treatment decisions are deeply personal; the nurse's role is to provide information and emotional support while helping the couple explore their own feelings and values, not to direct them toward a specific choice or rush the decision.", "zh": "不孕治療的決定非常個人化；護理師的角色是提供資訊與情感支持，協助夫妻探索自身的感受與價值觀，而不是替他們指定某個選擇或催促決定。"},
+    "pdf_pages": [317, 318],
+    "tags": ["therapeutic communication", "coping"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client says to the nurse, \"I must have done something wrong since we had another girl; I really wanted to give my husband a son.\" What is the nurse's best response?", "zh": "一名個案對護理師說：「我們又生了一個女兒，我一定是做錯了什麼；我真的很想幫我先生生個兒子。」護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"The sperm, not anything you did, carries the X or Y chromosome that determines the baby's sex.\"", "zh": "「寶寶的性別是由精子所帶的 X 或 Y 染色體決定的，跟妳做了什麼完全沒有關係。」"},
+      {"en": "\"Maybe your diet during pregnancy influenced this.\"", "zh": "「可能是妳懷孕期間的飲食影響了結果。」"},
+      {"en": "\"You can try again and hope for a boy next time.\"", "zh": "「妳可以再試一次，希望下次是男生。」"},
+      {"en": "\"It's understandable to feel that way; many women blame themselves.\"", "zh": "「會這樣想是可以理解的，很多女性都會自責。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Fetal sex is determined by whether the fertilizing sperm carries an X or a Y chromosome (the egg always contributes an X); the nurse should correct this misconception with accurate information rather than simply validating the self-blame or suggesting a cause unrelated to genetics.", "zh": "胎兒性別取決於使卵子受精的精子帶有 X 或 Y 染色體（卵子一律提供 X）；護理師應以正確知識糾正這個誤解，而不是只是認同自責的情緒或提出與遺傳無關的原因。"},
+    "pdf_pages": [314],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client learning to track basal body temperature (BBT) for family planning asks when her temperature is expected to rise during the cycle. Which response is correct?", "zh": "一名學習用基礎體溫（BBT）做家庭計畫的個案，詢問週期中體溫何時會上升。正確的回應是什麼？"},
+    "options": [
+      {"en": "\"Your temperature rises 0.5 to 1 degree Fahrenheit right before menstruation begins.\"", "zh": "「妳的體溫會在月經開始前上升 0.5 到 1 華氏度。」"},
+      {"en": "\"Your temperature rises 0.5 to 1 degree Fahrenheit after ovulation, due to progesterone from the corpus luteum.\"", "zh": "「妳的體溫會在排卵後上升 0.5 到 1 華氏度，這是因為黃體分泌的黃體素所致。」"},
+      {"en": "\"Your temperature should remain completely flat throughout a normal cycle.\"", "zh": "「正常週期中體溫應該完全保持平坦不變。」"},
+      {"en": "\"Your temperature drops sharply right after ovulation.\"", "zh": "「妳的體溫會在排卵後立刻大幅下降。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "After ovulation, the corpus luteum secretes progesterone, which raises basal body temperature by about 0.5-1°F; this sustained rise helps confirm that ovulation has occurred.", "zh": "排卵後黃體分泌黃體素，使基礎體溫上升約 0.5-1 華氏度；這個持續的體溫上升可幫助確認已排卵。"},
+    "pdf_pages": [313, 314],
+    "tags": ["evaluating outcomes", "family planning"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A couple trying to conceive naturally asks the nurse about timing intercourse relative to ovulation. Which teaching is accurate?", "zh": "一對嘗試自然受孕的夫妻詢問護理師性交時間與排卵的關係。哪項衛教是正確的？"},
+    "options": [
+      {"en": "\"The ovum remains viable for fertilization for only about 72 hours after ovulation, so timing around ovulation improves the chance of conception.\"", "zh": "「卵子在排卵後僅約可存活 72 小時以供受精，因此在排卵前後進行性交可提高受孕機會。」"},
+      {"en": "\"The ovum remains viable for about 2 weeks after ovulation, so timing does not matter much.\"", "zh": "「卵子在排卵後可存活約 2 週，因此時間點不太重要。」"},
+      {"en": "\"Fertilization most often occurs in the uterus rather than the fallopian tube.\"", "zh": "「受精最常發生在子宮而非輸卵管。」"},
+      {"en": "\"Sperm can only survive for about 1 hour in the female reproductive tract.\"", "zh": "「精子在女性生殖道中只能存活約 1 小時。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The ovum is viable for fertilization for roughly 72 hours after ovulation, and fertilization normally occurs in the ampulla (outer third) of the fallopian tube; this timing guides preconception counseling.", "zh": "卵子在排卵後約可存活 72 小時以供受精，受精通常發生在輸卵管壺腹（外三分之一）；此時間資訊可用於孕前諮詢。"},
+    "pdf_pages": [314, 315],
+    "tags": ["health promotion"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client at 8 weeks' gestation with a history of early pregnancy loss is prescribed vaginal progesterone. The nurse explains that this medication is intended to support the pregnancy until which structure is able to take over adequate hormone production?", "zh": "一名有早期流產史、懷孕 8 週的個案被處方陰道黃體素。護理師解釋這個藥物是用來支持妊娠，直到哪個結構能接手足夠的荷爾蒙生產？"},
+    "options": [
+      {"en": "The placenta, which typically takes over hormone production by about week 12", "zh": "胎盤，通常在約第 12 週接手荷爾蒙生產"},
+      {"en": "The anterior pituitary gland", "zh": "腦下垂體前葉"},
+      {"en": "The fetal adrenal cortex", "zh": "胎兒腎上腺皮質"},
+      {"en": "The amnion", "zh": "羊膜"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Early in pregnancy, the corpus luteum (supported by hCG) maintains progesterone production; the placenta forms and takes over hormone production by about 12 weeks, after which exogenous progesterone support may no longer be needed.", "zh": "懷孕早期由黃體（受 hCG 支持）維持黃體素的分泌；胎盤約在第 12 週形成並接手荷爾蒙生產，之後可能就不再需要外加的黃體素支持。"},
+    "pdf_pages": [315],
+    "tags": ["pharmacological therapy"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client had chorionic villus sampling (CVS) performed 2 hours ago at 11 weeks' gestation. Which finding should the nurse instruct the client to report to the provider immediately?", "zh": "一名個案在懷孕 11 週時接受絨毛膜取樣（CVS），2 小時前完成。護理師應指導個案立即通報哪項發現？"},
+    "options": [
+      {"en": "Mild, brief lower abdominal cramping that resolved within an hour", "zh": "輕微、短暫的下腹痙攣，一小時內已緩解"},
+      {"en": "Vaginal bleeding or leakage of fluid from the vagina", "zh": "陰道出血或陰道漏液"},
+      {"en": "Feeling tired and wanting to rest for the remainder of the day", "zh": "感到疲倦並想在今天剩餘時間休息"},
+      {"en": "A small adhesive bandage over the puncture site", "zh": "穿刺部位上有一小片敷料"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Vaginal bleeding or fluid leakage after CVS may signal a complication such as membrane rupture or threatened pregnancy loss and needs prompt provider notification; brief mild cramping and fatigue are commonly expected after the procedure.", "zh": "CVS 後若有陰道出血或漏液，可能代表併發症，例如胎膜破裂或流產徵兆，需立即通報醫師；輕微短暫的痙攣與疲倦則是術後常見的預期反應。"},
+    "pdf_pages": [315, 319],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client reports a regular 28-day menstrual cycle with menstrual flow lasting 5 days. Based on knowledge of the menstrual cycle, around which day would the nurse expect ovulation to most likely occur?", "zh": "一名個案月經週期規則為 28 天、經期持續 5 天。依月經週期知識，護理師預期排卵最可能發生在第幾天左右？"},
+    "options": [
+      {"en": "Day 7", "zh": "第 7 天"},
+      {"en": "Day 14", "zh": "第 14 天"},
+      {"en": "Day 21", "zh": "第 21 天"},
+      {"en": "Day 28", "zh": "第 28 天"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "With a typical 28-day cycle, ovulation occurs around day 12-16, commonly estimated at day 14, roughly 14 days before the next expected menses; the luteal phase following ovulation is fairly constant at about 12-14 days.", "zh": "典型 28 天週期中，排卵約發生在第 12-16 天，常以第 14 天估計，約在下次預期月經前 14 天；排卵後的黃體期長度相對固定，約 12-14 天。"},
+    "pdf_pages": [313, 314],
+    "tags": ["analyzing cues"]
+  }
+]

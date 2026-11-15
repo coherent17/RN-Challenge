@@ -1,0 +1,227 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with cirrhosis and known esophageal varices suddenly vomits a large amount of bright red blood. Which action should the nurse take first?", "zh": "一位肝硬化合併已知食道靜脈曲張的病人，突然嘔出大量鮮紅色血液。護理師應優先採取下列哪項措施？"},
+    "options": [
+      {"en": "Position the client supine and notify the primary health care provider", "zh": "將病人調整為平躺姿勢，並通知醫療照護提供者"},
+      {"en": "Assess the client's airway and prepare to administer oxygen while calling for help", "zh": "評估病人呼吸道並準備給予氧氣，同時呼叫協助"},
+      {"en": "Insert a nasogastric tube and begin iced saline lavage", "zh": "插入鼻胃管並開始冰生理食鹽水灌洗"},
+      {"en": "Obtain a stool sample to test for occult blood", "zh": "採集糞便樣本檢測潛血"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Bleeding esophageal varices are a life-threatening emergency. The nurse's first priority is airway and breathing; the client is at high risk for aspiration and hypovolemic shock, so the nurse assesses the airway, prepares to give oxygen, and calls for help before other interventions such as positioning, NG tube insertion, or stool testing.", "zh": "食道靜脈曲張出血為危及生命的急症。護理師首要優先事項為呼吸道與呼吸，病人有高吸入性及低血容性休克風險，因此應先評估呼吸道、準備給氧並呼叫協助，再進行其他如姿位調整、置入鼻胃管或糞便檢測等措施。"},
+    "pdf_pages": [726],
+    "tags": ["priority", "GI bleed", "airway", "first action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client reports burning epigastric pain that occurs 2 to 3 hours after meals and often awakens the client around 1 a.m., which is relieved by eating a snack. Which type of peptic ulcer is most consistent with this pattern?", "zh": "一位病人報告於用餐後2至3小時出現灼熱性上腹部疼痛，常於凌晨1點左右痛醒，進食點心後可緩解。此型態最符合下列哪種消化性潰瘍？"},
+    "options": [
+      {"en": "Gastric ulcer, because pain is accentuated by food intake", "zh": "胃潰瘍，因疼痛會因進食而加劇"},
+      {"en": "Duodenal ulcer, because pain is relieved by food intake", "zh": "十二指腸潰瘍，因疼痛會因進食而緩解"},
+      {"en": "Esophageal ulcer, because pain worsens with reflux", "zh": "食道潰瘍，因疼痛會因逆流而加劇"},
+      {"en": "Stress ulcer, because pain is unrelated to meal timing", "zh": "壓力性潰瘍，因疼痛與用餐時間無關"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Duodenal ulcer pain is a burning pain in the midepigastric area that occurs 2 to 5 hours after a meal and often awakens the client during the night; it is typically relieved by eating. Gastric ulcer pain, in contrast, occurs 1 to 2 hours after a meal and is accentuated, not relieved, by food intake.", "zh": "十二指腸潰瘍疼痛為中上腹灼熱性疼痛，常於用餐後2至5小時出現，並常於夜間痛醒；進食通常可緩解疼痛。相對地，胃潰瘍疼痛則於用餐後1至2小時出現，且會因進食而加劇而非緩解。"},
+    "pdf_pages": [720],
+    "tags": ["peptic ulcer", "assessment"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client being treated for a duodenal ulcer suddenly reports sudden, severe abdominal pain that spreads across the entire abdomen. On assessment, the nurse notes a rigid, boardlike abdomen with absent bowel sounds. Which complication should the nurse suspect?", "zh": "一位正接受十二指腸潰瘍治療的病人，突然出現劇烈腹痛並擴散至整個腹部。評估時護理師注意到腹部僵硬如板且腸鳴音消失。護理師應懷疑下列哪項併發症？"},
+    "options": [
+      {"en": "Dumping syndrome", "zh": "傾食症候群（dumping syndrome）"},
+      {"en": "Perforation of the ulcer with peritonitis", "zh": "潰瘍穿孔合併腹膜炎"},
+      {"en": "Pyloric obstruction", "zh": "幽門阻塞"},
+      {"en": "Gastritis exacerbation", "zh": "胃炎急性惡化"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sudden, severe, spreading abdominal pain with a rigid, boardlike abdomen and absent bowel sounds are classic signs of perforation of the ulcer, a surgical emergency that leads to peritonitis if not treated immediately. Complications of duodenal ulcers include bleeding, perforation, and gastric outlet obstruction.", "zh": "突發、劇烈且擴散的腹痛，合併腹部僵硬如板及腸鳴音消失，為潰瘍穿孔的典型徵象，若未立即處理將導致腹膜炎，屬外科急症。十二指腸潰瘍的併發症包括出血、穿孔及胃出口阻塞。"},
+    "pdf_pages": [720],
+    "tags": ["perforation", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client who had a Billroth II (gastrojejunostomy) procedure how to reduce the risk of dumping syndrome. Which instruction is correct?", "zh": "護理師教導一位接受畢羅II氏手術（gastrojejunostomy）病人如何降低傾食症候群風險。下列哪項指導正確？"},
+    "options": [
+      {"en": "Drink a full glass of water or juice with each meal", "zh": "每餐飲用一整杯水或果汁"},
+      {"en": "Lie down for 20 to 30 minutes after eating", "zh": "進食後平躺20至30分鐘"},
+      {"en": "Eat three large meals spaced evenly throughout the day", "zh": "每日固定時間吃三餐大份量餐食"},
+      {"en": "Choose high-sugar beverages between meals for quick energy", "zh": "餐間選擇高糖飲料以快速補充能量"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "To prevent dumping syndrome, the client should lie down for 20 to 30 minutes after meals to prevent rapid gastric emptying, avoid consuming fluids with meals (drinking fluids between meals instead), eat five or six small meals a day rather than three large ones, and limit high-sugar foods and beverages.", "zh": "為預防傾食症候群，病人應於餐後平躺20至30分鐘以延緩胃排空、避免隨餐攝取液體（改於餐間飲用）、每日改為五至六次少量進食而非三次大份量進食，並限制高糖食物及飲料。"},
+    "pdf_pages": [722],
+    "tags": ["dumping syndrome", "patient teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Two days after laparoscopic gastric bypass surgery, a client develops increasing restlessness, unexplained tachycardia, and a decreasing urine output. Which complication should the nurse suspect?", "zh": "一位病人於腹腔鏡胃繞道手術後第2天，出現漸增的躁動不安、無法解釋的心搏過速及尿量減少。護理師應懷疑下列哪項併發症？"},
+    "options": [
+      {"en": "Expected postoperative recovery pattern", "zh": "預期的術後恢復型態"},
+      {"en": "Anastomotic leak", "zh": "吻合口滲漏（anastomotic leak）"},
+      {"en": "Dumping syndrome", "zh": "傾食症候群"},
+      {"en": "Wound dehiscence", "zh": "傷口裂開"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Anastomotic leak is the most common serious complication and cause of death after gastric bypass surgery. The nurse should monitor for and immediately report abdominal pain, restlessness, unexplained tachycardia, and oliguria, which are classic signs of this complication.", "zh": "吻合口滲漏是胃繞道手術後最常見的嚴重併發症，也是導致死亡的主要原因。護理師應監測並立即回報腹痛、躁動不安、無法解釋的心搏過速及尿量減少等此併發症的典型徵象。"},
+    "pdf_pages": [722],
+    "tags": ["bariatric surgery", "red flag", "priority"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is comparing assessment findings of two clients. Which finding is specific to acute pancreatitis rather than acute cholecystitis?", "zh": "護理師正在比較兩位病人的評估發現。下列哪項發現是急性胰臟炎特有，而非急性膽囊炎的徵象？"},
+    "options": [
+      {"en": "Murphy's sign", "zh": "墨菲氏徵象（Murphy's sign）"},
+      {"en": "Positive Cullen's sign and Turner's sign", "zh": "卡倫氏徵象（Cullen's sign）及透納氏徵象（Turner's sign）陽性"},
+      {"en": "Pain that radiates to the right shoulder after a fatty meal", "zh": "攝取高脂餐後疼痛放射至右肩"},
+      {"en": "Right upper quadrant guarding", "zh": "右上腹防禦反應"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Cullen's sign (periumbilical discoloration) and Turner's sign (bluish flank discoloration) result from pancreatic enzyme leakage into surrounding tissue and are indicative of pancreatitis. Murphy's sign, right upper quadrant pain radiating to the shoulder after a fatty meal, and right upper quadrant guarding are associated with cholecystitis.", "zh": "卡倫氏徵象（臍周變色）及透納氏徵象（腰側藍色變色）是因胰臟酵素滲漏至周邊組織所致，為胰臟炎的徵象。墨菲氏徵象、攝取高脂餐後右上腹疼痛放射至肩部，以及右上腹防禦反應則與膽囊炎相關。"},
+    "pdf_pages": [723, 730],
+    "tags": ["pancreatitis", "cholecystitis", "assessment"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client returns from a cholecystectomy with choledocholithotomy with a T-tube in place. The nurse notes 600 mL of greenish-brown drainage in the first 24 hours. Which action is appropriate?", "zh": "一位病人接受膽囊切除術合併總膽管切開取石術後，放置T型管返回病房。護理師注意到術後24小時內引流出600毫升綠棕色液體。下列哪項措施適當？"},
+    "options": [
+      {"en": "Clamp the T-tube until the surgeon is available", "zh": "夾閉T型管，直到外科醫師有空時再處理"},
+      {"en": "Document the amount and character of the drainage and continue to monitor", "zh": "記錄引流量及性質，並持續監測"},
+      {"en": "Irrigate the T-tube with 30 mL of normal saline", "zh": "以30毫升生理食鹽水灌洗T型管"},
+      {"en": "Notify the surgeon immediately because this volume is dangerously excessive", "zh": "立即通知外科醫師，因為此引流量過大且危險"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "T-tube drainage is initially bloody and then turns greenish-brown; expected drainage volume ranges from approximately 500 to 1000 mL/day. This finding is within the expected range, so the nurse documents the amount and character of drainage and continues monitoring. The T-tube should never be clamped or irrigated without a specific prescription.", "zh": "T型管引流液初期為血色，之後轉為綠棕色；預期引流量約每日500至1000毫升。此發現屬於預期範圍內，護理師應記錄引流量及性質並持續監測。未經醫囑絕不可夾閉或灌洗T型管。"},
+    "pdf_pages": [724],
+    "tags": ["T-tube", "postoperative care"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with cirrhosis. Which finding is most important to report to the primary health care provider as an early sign of hepatic encephalopathy?", "zh": "護理師照護一位肝硬化病人。下列哪項發現應優先回報醫療照護提供者，視為肝性腦病的早期徵象？"},
+    "options": [
+      {"en": "Asterixis and increasing difficulty performing simple calculations", "zh": "扑翼樣震顫（asterixis）及進行簡單計算的困難度增加"},
+      {"en": "Ascites with a 2-lb (0.9-kg) weight gain overnight", "zh": "腹水合併一夜體重增加2磅（0.9公斤）"},
+      {"en": "Spider angiomas on the chest and trunk", "zh": "胸部及軀幹出現蜘蛛狀血管瘤"},
+      {"en": "Palmar erythema", "zh": "掌部紅斑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Portal systemic encephalopathy is characterized by altered level of consciousness, impaired thinking, and neuromuscular disturbances such as asterixis (a coarse, flapping tremor of the wrist and fingers), caused by the diseased liver's failure to detoxify ammonia. This is an urgent finding requiring prompt evaluation, unlike ascites, spider angiomas, or palmar erythema, which are chronic findings of liver dysfunction.", "zh": "門脈全身性腦病的特徵為意識程度改變、思考能力受損，以及神經肌肉功能障礙，如扑翼樣震顫（手腕及手指粗大的拍動性震顫），此因肝臟病變無法代謝氨所致。此為需緊急評估的發現，不同於腹水、蜘蛛狀血管瘤或掌部紅斑等肝功能障礙的慢性表現。"},
+    "pdf_pages": [725],
+    "tags": ["cirrhosis", "hepatic encephalopathy", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with cirrhosis and an elevated serum ammonia level is prescribed lactulose. The nurse evaluates the medication as effective when which finding is noted?", "zh": "一位肝硬化且血氨濃度升高的病人被開立乳糖醇（lactulose）。護理師評估下列哪項發現代表藥物有效？"},
+    "options": [
+      {"en": "The client has 2 to 3 soft stools per day with improved mental clarity", "zh": "病人每日排出2至3次軟便，且意識清晰度改善"},
+      {"en": "The client reports no bowel movements for 3 days", "zh": "病人報告3天未排便"},
+      {"en": "The client's serum potassium increases significantly", "zh": "病人血清鉀濃度顯著升高"},
+      {"en": "The client develops severe watery diarrhea with lethargy", "zh": "病人出現嚴重水瀉合併嗜睡"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Lactulose decreases the pH of the bowel, decreases ammonia production by bacteria, and facilitates the excretion of ammonia through the stool. The therapeutic goal is 2 to 3 soft stools per day, along with improvement in mental status as ammonia levels decrease. Excessive watery diarrhea indicates overdose and can cause fluid and electrolyte imbalance.", "zh": "乳糖醇可降低腸道pH值、減少細菌產生氨，並促進糞便排出氨。治療目標為每日排出2至3次軟便，並隨血氨濃度下降而意識狀態改善。若出現過度水瀉則代表藥物過量，可能造成水分及電解質失衡。"},
+    "pdf_pages": [726],
+    "tags": ["lactulose", "cirrhosis", "evaluation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is newly diagnosed with hepatitis A after a community outbreak linked to a local restaurant. Which statement by the client's partner, who lives in the same household, indicates a need for further teaching about reducing transmission risk?", "zh": "一位病人因社區疫情（與當地餐廳相關）新診斷為A型肝炎。與其同住的伴侶說出下列哪句話，顯示需要進一步衛教以降低傳染風險？"},
+    "options": [
+      {"en": "\"We should wash our hands frequently, especially after using the bathroom.\"", "zh": "「我們應該經常洗手，尤其是在使用廁所之後。」"},
+      {"en": "\"I can use the same towel and drinking glass as my partner since we live together.\"", "zh": "「因為我們同住，我可以和我的伴侶共用毛巾和水杯。」"},
+      {"en": "\"My partner should avoid preparing food for the rest of the family right now.\"", "zh": "「我的伴侶現在應該避免為家人準備食物。」"},
+      {"en": "\"I should ask the primary health care provider whether I need immune globulin.\"", "zh": "「我應該詢問醫療照護提供者，我是否需要注射免疫球蛋白。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Hepatitis A is transmitted by the fecal-oral route, including via contaminated utensils and personal items. Individual washcloths, towels, drinking and eating utensils, toothbrushes, and razors must be labeled and used only by the infected client to prevent transmission, even among household members.", "zh": "A型肝炎經糞口途徑傳染，包括經受污染的器具及個人物品傳播。個人毛巾、浴巾、飲食器具、牙刷及刮鬍刀皆應標示並僅由患病病人使用，以預防傳染，即使是同住家人也應如此。"},
+    "pdf_pages": [727, 728],
+    "tags": ["hepatitis A", "infection control", "patient teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client admitted with acute pancreatitis. Which prescribed interventions should the nurse expect? Select all that apply.", "zh": "護理師照護一位因急性胰臟炎入院的病人。護理師應預期下列哪些醫囑措施？請選出所有適用項目。"},
+    "options": [
+      {"en": "Maintain NPO (nothing by mouth) status during the acute phase", "zh": "急性期維持禁食（NPO）狀態"},
+      {"en": "Administer IV opioid analgesics as prescribed", "zh": "依醫囑給予靜脈注射鴉片類止痛劑"},
+      {"en": "Encourage a high-fat diet to meet caloric needs", "zh": "鼓勵高脂飲食以達到熱量需求"},
+      {"en": "Administer a proton pump inhibitor as prescribed", "zh": "依醫囑給予氫離子幫浦阻斷劑（proton pump inhibitor）"},
+      {"en": "Position the client supine and flat to reduce pain", "zh": "將病人調整為平躺姿勢以減輕疼痛"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Acute pancreatitis management includes withholding food and fluid during the acute period, administering opioids for pain, and giving H2-receptor antagonists or proton pump inhibitors to decrease hydrochloric acid production and prevent activation of pancreatic enzymes. A high-fat diet would aggravate pancreatic stimulation, and pain is typically relieved by a side-lying position with the knees flexed or by sitting up and leaning forward, not by lying flat.", "zh": "急性胰臟炎的處置包括急性期禁食禁水、給予鴉片類藥物止痛，以及給予H2受體拮抗劑或氫離子幫浦阻斷劑以降低胃酸分泌並預防胰臟酵素活化。高脂飲食會加重胰臟刺激，且疼痛通常以側臥屈膝或坐起前傾姿勢緩解，而非平躺。"},
+    "pdf_pages": [730],
+    "tags": ["pancreatitis", "sata"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nursing student asks how to differentiate ulcerative colitis from Crohn's disease. Which statement by the nurse is accurate?", "zh": "一位護理學生詢問如何區分潰瘍性結腸炎與克隆氏症（Crohn's disease）。下列護理師的說明哪項正確？"},
+    "options": [
+      {"en": "\"Ulcerative colitis typically begins in the rectum and spreads continuously toward the cecum, while Crohn's disease can affect any part of the GI tract with skip lesions.\"", "zh": "「潰瘍性結腸炎通常始於直腸並連續向上蔓延至盲腸，而克隆氏症可影響胃腸道任何部位，呈跳躍性病灶。」"},
+      {"en": "\"Crohn's disease is limited to the rectum and sigmoid colon, while ulcerative colitis affects the entire GI tract.\"", "zh": "「克隆氏症僅侵犯直腸及乙狀結腸，而潰瘍性結腸炎則影響整個胃腸道。」"},
+      {"en": "\"Bloody diarrhea is a hallmark of Crohn's disease but rarely occurs in ulcerative colitis.\"", "zh": "「血性腹瀉是克隆氏症的典型表現，但在潰瘍性結腸炎中少見。」"},
+      {"en": "\"Fistula formation is more common in ulcerative colitis than in Crohn's disease.\"", "zh": "「廔管形成在潰瘍性結腸炎中較克隆氏症更常見。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Ulcerative colitis commonly begins in the rectum and spreads upward in a continuous pattern toward the cecum. Crohn's disease can occur anywhere in the GI tract, most often the terminal ileum, and leads to fistulas, abscesses, and thickening with scarring; bloody, mucus-containing diarrhea is a hallmark of ulcerative colitis.", "zh": "潰瘍性結腸炎通常始於直腸，並以連續方式向上蔓延至盲腸。克隆氏症可發生於胃腸道任何部位，最常侵犯末端迴腸，並導致廔管、膿瘍及增厚結疤；含血及黏液的腹瀉則為潰瘍性結腸炎的典型表現。"},
+    "pdf_pages": [731, 732],
+    "tags": ["ulcerative colitis", "Crohn disease", "assessment"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with suspected appendicitis reports abdominal pain rated 7 of 10. Which intervention should the nurse avoid?", "zh": "一位疑似闌尾炎病人報告腹痛評分為7分（滿分10分）。護理師應避免下列哪項措施？"},
+    "options": [
+      {"en": "Positioning the client in a side-lying position with the knees flexed", "zh": "將病人調整為側臥屈膝姿勢"},
+      {"en": "Applying a heating pad to the client's abdomen", "zh": "於病人腹部使用熱敷墊"},
+      {"en": "Maintaining NPO status", "zh": "維持禁食（NPO）狀態"},
+      {"en": "Monitoring for rebound tenderness", "zh": "監測是否有反彈痛"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Heat should never be applied to the abdomen of a client with suspected appendicitis because it can increase blood flow and pressure within the inflamed appendix, causing it to rupture and leading to peritonitis, a life-threatening complication.", "zh": "疑似闌尾炎病人的腹部絕不可使用熱敷，因為熱敷可能增加發炎闌尾內的血流及壓力，導致闌尾破裂並引發腹膜炎，屬危及生命的併發症。"},
+    "pdf_pages": [733],
+    "tags": ["appendicitis", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with diverticulitis develops a rigid abdomen, a temperature of 102.2°F (39°C), and absent bowel sounds. Which complication should the nurse suspect?", "zh": "一位大腸憩室炎病人出現腹部僵硬、體溫102.2°F（39°C）及腸鳴音消失。護理師應懷疑下列哪項併發症？"},
+    "options": [
+      {"en": "Expected resolution of the inflammation", "zh": "發炎的預期緩解過程"},
+      {"en": "Perforation with peritonitis", "zh": "穿孔合併腹膜炎"},
+      {"en": "A hemorrhoid flare", "zh": "痔瘡急性發作"},
+      {"en": "Dumping syndrome", "zh": "傾食症候群"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A perforated diverticulum can progress to intra-abdominal perforation with generalized peritonitis, signaled by a rigid abdomen, fever, and absent bowel sounds. The nurse should monitor for perforation, hemorrhage, fistulas, and abscesses in a client with diverticulitis and report these findings immediately.", "zh": "穿孔的憩室可能進展為腹內穿孔合併全身性腹膜炎，表現為腹部僵硬、發燒及腸鳴音消失。護理師應監測憩室炎病人是否出現穿孔、出血、廔管及膿瘍，並立即回報此類發現。"},
+    "pdf_pages": [733],
+    "tags": ["diverticulitis", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client returns to the unit after a hemorrhoidectomy. Which position should the nurse avoid to reduce bleeding and pressure on the surgical site?", "zh": "一位病人接受痔瘡切除術後返回病房。護理師應避免下列哪種姿勢，以減少手術部位出血及壓迫？"},
+    "options": [
+      {"en": "Side-lying position", "zh": "側臥姿勢"},
+      {"en": "Prone position", "zh": "俯臥姿勢"},
+      {"en": "High-Fowler's position", "zh": "高坡式臥位"},
+      {"en": "Left lateral position", "zh": "左側臥姿勢"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "After hemorrhoidectomy, the client is assisted to a prone or side-lying position to prevent bleeding. A high-Fowler's (sitting) position increases pressure on the rectal area and should be avoided, along with prolonged sitting, which can increase bleeding and pain.", "zh": "痔瘡切除術後應協助病人採俯臥或側臥姿勢以預防出血。高坡式（坐起）臥位會增加直腸部位壓力，應予避免，長時間坐姿也可能增加出血及疼痛。"},
+    "pdf_pages": [734],
+    "tags": ["hemorrhoidectomy", "positioning", "postoperative care"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client with gastroesophageal reflux disease (GERD) about medications. Which statement indicates the client needs further teaching?", "zh": "護理師教導一位胃食道逆流疾病（GERD）病人有關藥物的知識。下列哪句話顯示病人需要進一步衛教？"},
+    "options": [
+      {"en": "\"Proton pump inhibitors reduce the amount of acid my stomach produces.\"", "zh": "「氫離子幫浦阻斷劑可減少我胃部分泌的胃酸量。」"},
+      {"en": "\"Prokinetic medications help my stomach empty faster.\"", "zh": "「促進腸胃蠕動藥物可幫助我的胃更快排空。」"},
+      {"en": "\"I can take an over-the-counter anticholinergic medication for my seasonal allergies without concern since it won't affect my GERD.\"", "zh": "「我可以放心服用非處方抗膽鹼藥物來治療季節性過敏，因為它不會影響我的GERD。」"},
+      {"en": "\"Antacids neutralize the acid that is already in my stomach.\"", "zh": "「抗酸劑可中和我胃中已存在的胃酸。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Anticholinergic medications delay stomach emptying and should be avoided by clients with GERD because they can worsen reflux. Proton pump inhibitors decrease acid production, prokinetic agents accelerate gastric emptying, and antacids neutralize existing gastric acid, all of which are appropriate therapies for GERD.", "zh": "抗膽鹼藥物會延緩胃排空，GERD病人應避免使用，因其可能加重逆流症狀。氫離子幫浦阻斷劑可減少胃酸分泌、促進腸胃蠕動藥物可加速胃排空、抗酸劑則可中和現有胃酸，皆為GERD適當的治療方式。"},
+    "pdf_pages": [718],
+    "tags": ["GERD", "medication safety", "patient teaching"]
+  }
+]

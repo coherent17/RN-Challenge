@@ -1,0 +1,260 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is recovering on the neurological unit after a traumatic brain injury. At 0800 the client is awake, oriented, and talking with family; vital signs are heart rate 88/min, blood pressure 118/76 mm Hg, and respirations 16/min and regular. At 1100 the nurse finds the client difficult to arouse, the right pupil is sluggish to react, heart rate is 52/min, blood pressure is 168/52 mm Hg, and respirations are 10/min and irregular. What is the nurse's priority action?", "zh": "一名創傷性腦損傷病人在神經科病房恢復中。上午8時病人清醒、意識清楚,能與家人交談,生命徵象為心跳88次/分、血壓118/76 mmHg、呼吸16次/分且規律。上午11時護理師發現病人不易喚醒,右側瞳孔對光反應遲鈍,心跳52次/分、血壓168/52 mmHg、呼吸10次/分且不規則。護理師的優先行動為何?"},
+    "options": [
+      {"en": "Document the findings and reassess in 1 hour.", "zh": "記錄發現並於1小時後再評估。"},
+      {"en": "Notify the primary health care provider (PHCP) immediately.", "zh": "立即通知主治醫師。"},
+      {"en": "Lower the head of the bed to the flat position.", "zh": "將床頭放平。"},
+      {"en": "Encourage the client to cough and deep breathe.", "zh": "鼓勵病人咳嗽及深呼吸。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Decreasing level of consciousness, bradycardia, a widening pulse pressure, and irregular respirations together reflect Cushing's triad, a late and ominous sign of rising intracranial pressure (ICP) from impending brainstem herniation; the PHCP must be notified immediately so emergency treatment can begin. Lowering the head of the bed flat would further raise ICP, and coughing increases intrathoracic pressure and ICP; simply documenting and waiting delays life-saving intervention.", "zh": "意識程度下降、心跳變慢、脈壓變寬及呼吸不規則,合併起來即為庫欣氏三聯徵(Cushing's triad),是顱內壓上升、即將發生腦幹疝脫的晚期危險徵象,必須立即通知醫師以展開緊急處置。將床頭放平會使顱內壓更加升高;咳嗽會增加胸內壓與顱內壓;僅記錄並等待會延誤救命處置。"},
+    "pdf_pages": [948, 949],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse assesses a client using the Glasgow Coma Scale and documents the following: opens eyes only to a painful stimulus, is confused when answering questions, and withdraws the limb normally away from a painful stimulus. What is this client's Glasgow Coma Scale score?", "zh": "護理師使用格拉斯哥昏迷量表(GCS)評估病人,記錄如下:僅在疼痛刺激下睜眼、回答問題時意識混亂、對疼痛刺激能做出正常的肢體退縮反應。此病人的GCS總分為多少?"},
+    "options": [
+      {"en": "8", "zh": "8分"},
+      {"en": "9", "zh": "9分"},
+      {"en": "10", "zh": "10分"},
+      {"en": "11", "zh": "11分"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Eye opening in response to pain = 2 points, confused conversation (verbal response) = 4 points, and normal flexion/withdrawal (motor response) = 4 points; the total score is 10, indicating a moderate head injury. A score lower than 8 indicates that coma is present.", "zh": "對疼痛刺激才睜眼=2分;意識混亂的言語反應=4分;正常屈曲(退縮)的運動反應=4分;總分為10分,屬中度頭部損傷。總分低於8分代表病人處於昏迷狀態。"},
+    "pdf_pages": [948],
+    "tags": ["dosage calc", "glasgow coma scale"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A prescription is written for a lumbar puncture for a client with a known brain tumor who has worsening headache, vomiting, and papilledema. What is the nurse's best action?", "zh": "醫師為一名已知有腦瘤、且頭痛加重、嘔吐及視乳突水腫惡化的病人開立腰椎穿刺的醫囑。護理師最佳的行動為何?"},
+    "options": [
+      {"en": "Prepare the client for the procedure as prescribed.", "zh": "依醫囑為病人準備進行此檢查。"},
+      {"en": "Position the client prone for the procedure.", "zh": "將病人擺位成俯臥姿勢以進行檢查。"},
+      {"en": "Contact the PHCP to clarify the prescription before proceeding.", "zh": "在執行前先聯絡醫師確認此醫囑。"},
+      {"en": "Administer an osmotic diuretic in preparation for the test.", "zh": "在檢查前給予滲透性利尿劑。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Signs of increased ICP (headache, vomiting, papilledema) are a contraindication to lumbar puncture because the rapid drop in CSF pressure around the spinal cord that the procedure causes can precipitate brainstem herniation. The nurse should question/clarify the prescription with the PHCP before proceeding rather than carry it out.", "zh": "顱內壓升高的徵象(頭痛、嘔吐、視乳突水腫)是腰椎穿刺的禁忌,因為此檢查會使脊髓周圍的腦脊髓液壓力快速下降,可能誘發腦幹疝脫。護理師應在執行前與醫師確認/澄清此醫囑,而非直接執行。"},
+    "pdf_pages": [945, 946],
+    "tags": ["safety", "first action", "contraindication"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client who sustained a basilar skull fracture has clear fluid draining from the nose. Which nursing action is most appropriate?", "zh": "一名顱底骨折的病人鼻腔持續滲出清澈液體。護理師最適當的處置為何?"},
+    "options": [
+      {"en": "Insert nasal packing to stop the drainage.", "zh": "放置鼻腔填塞物以止住滲液。"},
+      {"en": "Instruct the client to gently blow the nose to clear the passage.", "zh": "指導病人輕輕擤鼻子以清除鼻腔通道。"},
+      {"en": "Apply a loose sterile dressing, test the fluid for glucose, and notify the PHCP.", "zh": "鬆鬆地覆蓋無菌敷料,檢測該液體的葡萄糖反應,並通知醫師。"},
+      {"en": "Suction the nares to obtain a specimen for culture.", "zh": "抽吸鼻腔以取得培養標本。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Cerebrospinal fluid (CSF) tests positive for glucose and separates into a halo (concentric ring) sign on gauze, distinguishing it from ordinary nasal mucus. Nasal packing, suctioning, or having the client blow the nose are avoided because they can introduce infection into the CNS or raise ICP; the PHCP is notified of any drainage that tests positive for CSF.", "zh": "腦脊髓液(CSF)葡萄糖試驗呈陽性,且滴在紗布上會出現「光環徵象」(同心圓環),可與一般鼻涕區分。應避免鼻腔填塞、抽吸或指導病人擤鼻子,因為這些動作可能將感染帶入中樞神經系統或使顱內壓升高;若滲液CSF檢測呈陽性應通知醫師。"},
+    "pdf_pages": [951],
+    "tags": ["red flag", "csf leak"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with increased intracranial pressure (ICP). Which interventions are appropriate to include in the plan of care? Select all that apply.", "zh": "護理師正在照護一名顱內壓升高的病人。下列哪些措施適合納入照護計畫中?(請選出所有適用的選項)"},
+    "options": [
+      {"en": "Elevate the head of the bed 30 to 40 degrees.", "zh": "將床頭抬高30至40度。"},
+      {"en": "Place the client in the Trendelenburg position for postural drainage.", "zh": "將病人擺位成特倫德倫伯格氏(頭低腳高)姿勢以利姿位引流。"},
+      {"en": "Instruct the client to exhale during repositioning or turning.", "zh": "指導病人在翻身或改變姿勢時呼氣。"},
+      {"en": "Restrict fluid intake as prescribed.", "zh": "依醫囑限制水分攝取。"},
+      {"en": "Encourage vigorous coughing and deep breathing every hour.", "zh": "鼓勵病人每小時用力咳嗽及深呼吸。"},
+      {"en": "Maintain the client's head in a neutral, midline position.", "zh": "維持病人頭部在中線、中立的姿勢。"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "Elevating the head of the bed 30 to 40 degrees promotes venous drainage from the brain; exhaling during repositioning opens the glottis and prevents the Valsalva-type pressure increase; fluid restriction (e.g., to about 1200 mL/day) helps decrease cerebral edema; a neutral, midline head position prevents jugular venous compression. The Trendelenburg position and vigorous coughing both raise ICP and are avoided.", "zh": "床頭抬高30至40度有助於促進腦部靜脈回流;翻身時呼氣可打開聲門,避免類似伐氏操作(Valsalva)造成的壓力上升;限制水分攝取(例如每日約1200 mL)有助於減少腦水腫;頭部維持中線中立姿勢可避免壓迫頸靜脈。特倫德倫伯格姿勢與用力咳嗽都會使顱內壓升高,應避免。"},
+    "pdf_pages": [949, 950],
+    "tags": ["sata", "priority"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "Eight hours after a craniotomy, the nurse measures 65 mL of serosanguineous drainage in the client's surgical drain. What is the nurse's best action?", "zh": "開顱手術後8小時,護理師測得病人手術引流管內有65 mL血清樣滲血引流液。護理師最佳的處置為何?"},
+    "options": [
+      {"en": "Empty the drain and document the amount; this is an expected finding.", "zh": "清空引流袋並記錄此量,此為預期的正常現象。"},
+      {"en": "Clamp the drain to prevent further blood loss.", "zh": "夾住引流管以防止進一步失血。"},
+      {"en": "Notify the PHCP because the amount exceeds the expected range.", "zh": "通知醫師,因為此引流量超出預期範圍。"},
+      {"en": "Irrigate the drain with normal saline to assess patency.", "zh": "用生理食鹽水灌洗引流管以評估其通暢度。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Normal expected drainage following a craniotomy is about 30 to 50 mL per shift; drainage exceeding this amount, or a saturated head dressing, must be reported to the PHCP immediately. Clamping or irrigating a craniotomy drain is not within independent nursing scope and could allow pressure/blood to accumulate, raising ICP.", "zh": "開顱手術後每班預期的正常引流量約為30至50 mL;超過此量或頭部敷料被滲濕,須立即通報醫師。護理師不應自行夾住或灌洗開顱引流管,否則可能造成壓力或血液積聚,使顱內壓升高。"},
+    "pdf_pages": [953],
+    "tags": ["priority", "requires immediate action", "postoperative"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client is admitted with a diagnosis of a cerebral aneurysm and is placed on aneurysm precautions. Which measures should the nurse include in the plan of care? Select all that apply.", "zh": "一名病人因腦動脈瘤入院並開始實施動脈瘤防護措施。護理師應將下列哪些措施納入照護計畫?(請選出所有適用的選項)"},
+    "options": [
+      {"en": "Keep the room darkened and minimize noise and visitors.", "zh": "保持病室光線昏暗,並減少噪音與訪客。"},
+      {"en": "Encourage the use of a stool softener and avoid straining with bowel movements.", "zh": "鼓勵使用軟便劑,並避免排便時用力。"},
+      {"en": "Take the client's temperature rectally every 4 hours to closely monitor for fever.", "zh": "每4小時以肛溫測量體溫,以密切監測發燒狀況。"},
+      {"en": "Maintain the client on bed rest in a semi-Fowler's or side-lying position.", "zh": "讓病人臥床休息,採半坐臥或側臥姿勢。"},
+      {"en": "Allow the client to perform isometric exercises to maintain muscle strength.", "zh": "允許病人進行等長運動以維持肌力。"},
+      {"en": "Administer prophylactic antiseizure medication as prescribed.", "zh": "依醫囑給予預防性抗癲癇藥物。"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Aneurysm precautions aim to reduce stimuli and avoid sudden rises in blood pressure or ICP that could trigger rebleeding: a dim, quiet environment with limited visitors, stool softeners to prevent straining, bed rest in a semi-Fowler's or side-lying position, and prophylactic antiseizure medication. Rectal temperatures are avoided because they can stimulate a vagal/straining response, and isometric exercise raises intrathoracic and intracranial pressure, so it is avoided.", "zh": "動脈瘇防護措施的目的是減少刺激,避免血壓或顱內壓驟然升高而誘發再出血:應保持昏暗安靜的環境並限制訪客、使用軟便劑避免用力排便、採半坐臥或側臥姿勢臥床休息、並依醫囑給予預防性抗癲癇藥物。應避免測量肛溫,因其可能刺激迷走神經反應或造成用力;等長運動會使胸內壓與顱內壓升高,應避免。"},
+    "pdf_pages": [953],
+    "tags": ["sata", "aneurysm precautions"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is comparing the admission notes of three clients who are each suspected of having had a stroke. Which presentation is most consistent with a hemorrhagic stroke?", "zh": "護理師比較三名疑似中風病人的入院紀錄。哪一種表現最符合出血性中風?"},
+    "options": [
+      {"en": "Symptoms that began suddenly and gradually worsened over the following several hours, accompanied by a severe headache.", "zh": "症狀突然發生,並在隨後數小時內逐漸加重,伴隨劇烈頭痛。"},
+      {"en": "Symptoms that have progressively worsened over the past 24 hours as cerebral edema increases, with no loss of consciousness.", "zh": "過去24小時內因腦水腫增加而症狀逐漸惡化,但意識未喪失。"},
+      {"en": "Sudden, severe symptoms with no preceding warning signs; the client remains conscious.", "zh": "突然出現嚴重症狀、事前無任何徵兆,病人意識仍清醒。"},
+      {"en": "Mild symptoms that resolved completely within 45 minutes.", "zh": "輕微症狀於45分鐘內完全緩解。"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A hemorrhagic stroke has a sudden onset, with symptoms (often including severe headache) that progress over minutes to hours as bleeding continues. A thrombotic stroke typically worsens progressively over about 24 hours without early loss of consciousness; an embolic stroke has sudden, severe onset but the client often remains conscious; symptoms that fully resolve quickly suggest a transient ischemic attack, not a completed stroke.", "zh": "出血性中風為突然發作,症狀(常伴有劇烈頭痛)會隨出血持續在數分鐘至數小時內逐漸加重。血栓性中風通常在約24小時內逐漸惡化,早期不會喪失意識;栓塞性中風發作突然且嚴重,但病人多仍保持清醒;若症狀很快完全緩解,則較符合暫時性腦缺血發作(TIA),而非已完成的中風。"},
+    "pdf_pages": [954],
+    "tags": ["recognize cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client on the medical unit suddenly develops slurred speech and left-sided facial drooping. In addition to notifying the rapid response team, which action should the nurse take first?", "zh": "一名住在內科病房的病人突然出現口齒不清及左側臉部下垂。除了通知急救團隊外,護理師應優先採取的行動為何?"},
+    "options": [
+      {"en": "Obtain a capillary blood glucose level.", "zh": "測量微量指尖血糖值。"},
+      {"en": "Offer the client a small sip of water to assess swallowing.", "zh": "給病人一小口水以評估吞嚥功能。"},
+      {"en": "Assist the client to the bathroom to void.", "zh": "協助病人前往廁所解尿。"},
+      {"en": "Administer the client's scheduled oral antihypertensive medication.", "zh": "給予病人預定時間要服用的口服降血壓藥。"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Hypoglycemia can mimic the focal neurological deficits of a stroke, so a fingerstick blood glucose is obtained quickly as part of initial stroke screening to rule it out while preparations are made for emergent CT scanning. Giving oral fluids or medications before a swallow evaluation risks aspiration, and ambulating an acutely symptomatic client risks injury from a fall.", "zh": "低血糖可能表現出與中風相似的局部神經症狀,因此中風初步篩檢時會先快速測量指尖血糖以排除低血糖,同時安排緊急電腦斷層檢查。在吞嚥評估前給予口服液體或藥物有嗆咳(吸入性)風險;讓症狀急性發作的病人下床行走也有跌倒受傷的風險。"},
+    "pdf_pages": [955],
+    "tags": ["priority", "first action", "stroke screening"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse receives report on four clients at the start of the shift. Which client should the nurse assess first?", "zh": "護理師在交班時接獲四名病人的報告。護理師應優先評估哪一位病人?"},
+    "options": [
+      {"en": "A client 2 days post-craniotomy with 40 mL of serosanguineous drainage from the drain over the last 8 hours.", "zh": "開顱手術後第2天,過去8小時引流出40 mL血清樣滲血液的病人。"},
+      {"en": "A client admitted yesterday with Bell's palsy who reports difficulty closing the right eye.", "zh": "昨日因貝爾氏麻痺(顏面神經麻痺)入院、主訴右眼難以閉合的病人。"},
+      {"en": "A client who had a left-sided stroke 3 days ago who suddenly cannot speak and has new right-arm weakness.", "zh": "3天前發生左側中風,突然無法說話且右臂新出現無力的病人。"},
+      {"en": "A client with trigeminal neuralgia who reports facial pain after drinking ice water.", "zh": "三叉神經痛病人主訴喝冰水後臉部疼痛。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A sudden new neurological deficit in a client recovering from a stroke (new aphasia and extremity weakness) suggests extension of the infarct, hemorrhagic conversion, or a new stroke, and requires immediate assessment and provider notification. The craniotomy drainage amount is within the expected range, the eye-closure finding is expected with Bell's palsy, and facial pain triggered by cold is an expected finding with trigeminal neuralgia.", "zh": "中風病人在恢復期間突然出現新的神經功能缺損(新發失語及肢體無力),可能代表梗塞範圍擴大、出血轉化或再次中風,需立即評估並通知醫師。開顱引流量仍在預期範圍內;眼瞼無法閉合是貝爾氏麻痺的預期表現;冰水誘發臉部疼痛也是三叉神經痛的預期表現。"},
+    "pdf_pages": [955],
+    "tags": ["prioritize", "analyze cues"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is preparing to feed a client who has dysphagia following a stroke. Which actions should the nurse take? Select all that apply.", "zh": "護理師準備為一名中風後有吞嚥困難的病人進食。護理師應採取下列哪些措施?(請選出所有適用的選項)"},
+    "options": [
+      {"en": "Position the client sitting upright with the head and neck flexed slightly forward.", "zh": "讓病人採坐直姿勢,頭頸略微向前屈曲。"},
+      {"en": "Offer thin liquids first because they are the easiest to swallow.", "zh": "先提供稀薄液體,因為最容易吞嚥。"},
+      {"en": "Place food in the back of the mouth on the affected (weak) side.", "zh": "將食物放入口腔患側(無力側)的後方。"},
+      {"en": "Offer soft, semisoft foods and thickened liquids.", "zh": "提供軟質、半固體食物及增稠液體。"},
+      {"en": "Place food toward the back of the mouth on the unaffected side.", "zh": "將食物放入口腔健側(未受影響側)的後方。"},
+      {"en": "Check for pocketing of food in the cheek after each bite.", "zh": "每吞下一口後檢查臉頰是否有食物堆積。"}
+    ],
+    "answer": [0, 3, 4, 5],
+    "rationale": {"en": "Upright positioning with the head and neck slightly flexed forward protects the airway during swallowing; soft, semisoft foods and thickened liquids are tolerated better than thin liquids, which increase aspiration risk; food is placed on the unaffected side, not the weak side, to prevent pocketing and aspiration; checking for pocketing after each bite further reduces aspiration risk.", "zh": "坐直且頭頸略向前屈的姿勢有助於吞嚥時保護呼吸道;軟質、半固體食物及增稠液體比稀薄液體更容易耐受,稀薄液體會增加嗆咳風險;食物應放在健側而非無力側,以避免食物堆積及嗆咳;每口後檢查頰部是否有食物堆積可進一步降低嗆咳風險。"},
+    "pdf_pages": [956],
+    "tags": ["sata", "aspiration precautions"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse observes a client who had a right-sided stroke sitting in a wheelchair with the left arm hanging unsupported over the side rail, apparently unnoticed by the client. What is the nurse's best first action?", "zh": "護理師發現一名右側中風的病人坐在輪椅上,左臂懸掛在輪椅扶手外側未受支撐,病人似乎完全沒有察覺。護理師最佳的優先行動為何?"},
+    "options": [
+      {"en": "Document the finding and continue the shift assessment.", "zh": "記錄此發現並繼續進行當班評估。"},
+      {"en": "Reposition the arm, check for injury, and provide a safe environment.", "zh": "重新擺放手臂位置,檢查是否受傷,並提供安全的環境。"},
+      {"en": "Ask the client to describe how the left arm feels.", "zh": "請病人描述左臂目前的感覺。"},
+      {"en": "Apply a sling to immobilize the affected arm.", "zh": "使用吊帶固定患側手臂。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "This presentation is consistent with unilateral neglect syndrome, in which the client is unaware of the paralyzed side, placing the client at risk for injury. The immediate priority is to check for injury and reposition the limb safely; the client is then taught to attend to and protect the affected side. Simply documenting delays addressing an immediate safety risk.", "zh": "此表現符合單側忽略症候群,病人對麻痺側缺乏察覺,因而有受傷的風險。當下最優先的處置是檢查是否受傷並安全地重新擺位該肢體;之後再教導病人留意並保護患側。僅記錄而不處理會延誤對立即安全風險的因應。"},
+    "pdf_pages": [956, 957],
+    "tags": ["unilateral neglect", "safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with myasthenia gravis who is in crisis receives an injection of edrophonium (Tensilon) as part of a diagnostic test. Following the injection, the client's muscle weakness becomes noticeably worse. How should the nurse interpret this finding, and what should the nurse prepare to do?", "zh": "一名正處於危象的重症肌無力病人接受伊可平(edrophonium, Tensilon)注射以進行診斷性檢測。注射後病人的肌肉無力情況明顯加重。護理師應如何判讀此結果,並應準備採取什麼行動?"},
+    "options": [
+      {"en": "The client is in myasthenic crisis; prepare to administer an additional dose of anticholinesterase medication.", "zh": "病人處於重症肌無力危象;準備再給予一劑抗膽鹼酯酶藥物。"},
+      {"en": "The client is in cholinergic crisis; withhold anticholinesterase medication and prepare to administer atropine sulfate.", "zh": "病人處於膽鹼性危象;暫停抗膽鹼酯酶藥物,並準備給予硫酸阿托品(atropine sulfate)。"},
+      {"en": "The test result is inconclusive; prepare to repeat the test in 24 hours.", "zh": "檢測結果無法判定;準備於24小時後重複檢測。"},
+      {"en": "The client is having an allergic reaction; prepare to administer diphenhydramine.", "zh": "病人正發生過敏反應;準備給予diphenhydramine。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Worsening weakness after edrophonium administration indicates cholinergic crisis caused by overmedication with anticholinesterase drugs. The anticholinesterase medication is withheld, and atropine sulfate (the antidote) is prepared and administered as prescribed, with continuous monitoring of respiratory status because intubation may become necessary.", "zh": "給予伊可平後肌肉無力加重,代表病人因抗膽鹼酯酶藥物過量而發生膽鹼性危象。此時應暫停抗膽鹼酯酶藥物,並依醫囑準備給予解毒劑硫酸阿托品,同時持續監測呼吸狀態,因可能需要插管。"},
+    "pdf_pages": [958],
+    "tags": ["myasthenia gravis", "antidote"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client with Parkinson's disease about measures to reduce the risk of falls at home. Which statement by the client indicates a need for further teaching?", "zh": "護理師正在教導一名帕金森氏病病人在家中減少跌倒風險的措施。病人的哪一句話表示仍需要進一步指導?"},
+    "options": [
+      {"en": "\"I will sit down when putting on my shoes and pants.\"", "zh": "「我穿鞋子和褲子時會坐下來穿。」"},
+      {"en": "\"I will remove the throw rugs from my bedroom floor.\"", "zh": "「我會把臥室地板上的小地毯拿掉。」"},
+      {"en": "\"I will try to take large, quick steps to get where I'm going faster.\"", "zh": "「我會盡量邁大步、快步走,好更快到達目的地。」"},
+      {"en": "\"I plan to rock my body gently back and forth before taking my first step.\"", "zh": "「我打算在邁出第一步之前,先輕輕前後搖晃身體。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Clients with Parkinson's disease have bradykinesia and a shuffling, propulsive gait with postural instability; they are taught to take deliberate, controlled steps and lift the feet rather than rush or take large, quick steps, which increase fall risk. Sitting to dress, removing scatter rugs, and rocking the body to initiate movement are correct safety measures.", "zh": "帕金森氏病病人有動作遲緩及拖曳步態、前衝步態與姿勢不穩的問題;應教導其刻意、謹慎地邁步並抬高腳步,而非急促或邁大步快走,否則會增加跌倒風險。坐著穿衣、移除小地毯、以身體前後搖晃來啟動步伐,皆為正確的安全措施。"},
+    "pdf_pages": [958, 959],
+    "tags": ["needs further teaching", "fall prevention"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client with trigeminal neuralgia is being taught strategies to reduce the frequency of facial pain episodes. Which client statement indicates a need for further teaching?", "zh": "護理師教導一名三叉神經痛病人減少臉部疼痛發作頻率的策略。病人的哪一句話表示仍需要進一步指導?"},
+    "options": [
+      {"en": "\"I will use a soft cotton pad to wash my face.\"", "zh": "「我會用柔軟的棉質棒洗臉。」"},
+      {"en": "\"I will chew my food on the unaffected side of my mouth.\"", "zh": "「我會用口腔健側咀嚼食物。」"},
+      {"en": "\"I will drink my coffee and soup very hot because the warmth is soothing.\"", "zh": "「我會把咖啡和湯喝得非常熱,因為熱熱的感覺比較舒服。」"},
+      {"en": "\"I will rinse my mouth with water if toothbrushing triggers my pain.\"", "zh": "「如果刷牙會誘發疼痛,我會改用清水漱口。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Trigeminal neuralgia pain is triggered by thermal and mechanical stimuli such as cold, washing the face, chewing, or extremely hot or cold foods and fluids. The client is taught to take foods and fluids at a moderate (not extreme) temperature, use gentle washing with cotton pads, chew on the unaffected side, and rinse rather than brush when brushing triggers pain.", "zh": "三叉神經痛會因溫度及機械性刺激而誘發,例如寒冷、洗臉、咀嚼或極熱極冷的食物與飲料。應教導病人食物與飲料的溫度維持適中(避免極端溫度)、以棉質棒輕柔洗臉、用健側咀嚼,若刷牙會誘發疼痛則改以清水漱口。"},
+    "pdf_pages": [959],
+    "tags": ["needs further teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with newly diagnosed Bell's palsy is unable to fully close the right eyelid. Which nursing action is the priority?", "zh": "一名新診斷為貝爾氏麻痺的病人右側眼瞼無法完全閉合。護理師最優先的處置為何?"},
+    "options": [
+      {"en": "Apply a firm eye patch to keep the eyelid closed at all times.", "zh": "貼上緊密的眼罩,讓眼瞼全天保持閉合。"},
+      {"en": "Instruct the client to perform facial exercises hourly.", "zh": "指導病人每小時進行臉部運動。"},
+      {"en": "Administer artificial tears and protect the eye from dryness and injury.", "zh": "給予人工淚液,並保護眼睛避免乾燥及受傷。"},
+      {"en": "Teach the client to apply ice packs to the affected side of the face.", "zh": "教導病人在患側臉部敷冰袋。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Inability to close the eyelid places the client at risk for corneal drying and injury from exposure; the priority is to protect the eye with artificial tears and other protective measures (an eye shield or sling may also be used as prescribed, but priority is preventing corneal dryness/injury). Facial exercises help prevent loss of muscle tone, and ice is not indicated, but neither addresses the immediate eye-safety priority.", "zh": "眼瞼無法閉合會使病人角膜因外露而有乾燥及受傷的風險;優先處置是以人工淚液及其他保護措施保護眼睛(亦可依醫囑使用眼罩或面部吊帶),重點在於預防角膜乾燥與受傷。臉部運動有助於預防肌肉張力喪失,敷冰袋則非適用措施,但兩者皆未處理當下最優先的眼睛安全問題。"},
+    "pdf_pages": [959, 960],
+    "tags": ["priority", "eye protection"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client admitted with suspected Guillain-Barré syndrome reports ascending tingling that started in the toes and now involves the thighs, along with increased work of breathing. Which assessment is the priority for the nurse to perform?", "zh": "一名疑似罹患格林-巴利症候群入院的病人,主訴麻刺感從腳趾開始向上蔓延,現已到達大腿,並伴隨呼吸費力增加。護理師最優先應進行的評估為何?"},
+    "options": [
+      {"en": "Deep tendon reflexes in the lower extremities.", "zh": "下肢深部肌腱反射。"},
+      {"en": "Respiratory rate, depth, and effort, and breath sounds.", "zh": "呼吸速率、深度、呼吸費力程度及呼吸音。"},
+      {"en": "Bowel sounds in all four quadrants.", "zh": "四個腹部象限的腸鳴音。"},
+      {"en": "Pain level using a 0-to-10 numeric scale.", "zh": "以0至10分的數字量表評估疼痛程度。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The major life-threatening concern in Guillain-Barré syndrome is ascending paralysis progressing to respiratory failure; respiratory status must be assessed and monitored closely, and equipment for respiratory support must be readily available. Reflex changes, bowel sounds, and pain are assessed as part of ongoing care but are not the priority when ascending symptoms and increased work of breathing suggest respiratory compromise.", "zh": "格林-巴利症候群最危及生命的問題是上行性麻痺進展為呼吸衰竭;必須密切評估並監測呼吸狀態,並確保呼吸支持設備隨時可用。反射變化、腸鳴音及疼痛仍屬於日常照護評估項目,但當上行性症狀合併呼吸費力增加,顯示可能呼吸功能受損時,這些並非優先評估項目。"},
+    "pdf_pages": [960],
+    "tags": ["priority", "respiratory", "recognize cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is admitted with suspected bacterial meningitis. Cerebrospinal fluid (CSF) analysis reveals cloudy fluid, an elevated white blood cell count, elevated protein, and a decreased glucose level. Which nursing action is the priority at this time?", "zh": "一名病人因疑似細菌性腦膜炎入院。腦脊髓液(CSF)分析顯示液體混濁、白血球計數升高、蛋白質升高且葡萄糖降低。此時護理師最優先的處置為何?"},
+    "options": [
+      {"en": "Initiate droplet precautions and administer antibiotics as prescribed.", "zh": "開始飛沫防護措施,並依醫囑給予抗生素。"},
+      {"en": "Wait for culture and sensitivity results before starting any precautions.", "zh": "等待培養及藥敏結果出來後才開始採取防護措施。"},
+      {"en": "Encourage ambulation in the hallway to prevent complications of bed rest.", "zh": "鼓勵病人在走廊走動,以預防臥床併發症。"},
+      {"en": "Elevate the head of the bed to 90 degrees and encourage visitors to provide stimulation.", "zh": "將床頭抬高至90度,並鼓勵訪客前來給予刺激。"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "These CSF findings (cloudy fluid, increased white blood cell count and protein, decreased glucose) are consistent with bacterial meningitis, which is transmitted by direct contact, including droplet spread; droplet precautions and prompt administration of antibiotics are priorities. Waiting for culture results delays treatment and risks transmission; the client needs a quiet, low-stimulation environment with the head of the bed elevated about 30 degrees, not full upright positioning with increased visitor stimulation.", "zh": "這些CSF結果(混濁液體、白血球及蛋白質升高、葡萄糖降低)符合細菌性腦膜炎,其傳染途徑包括直接接觸及飛沫傳播;應優先開始飛沫防護措施並儘快給予抗生素。等待培養結果才採取防護措施會延誤治療並增加傳染風險;病人需要安靜、低刺激的環境,床頭抬高約30度即可,不應完全坐直並增加訪客刺激。"},
+    "pdf_pages": [961, 962],
+    "tags": ["labs", "priority", "isolation precautions"]
+  }
+]

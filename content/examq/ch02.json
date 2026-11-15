@@ -1,0 +1,184 @@
+[
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A nursing student preparing for the NCLEX-RN examination says, \"I've worked hard throughout nursing school, and even though this test is hard, I know I can prepare for it and pass.\" According to Bandura's theory of self-efficacy, this statement reflects which concept?",
+      "zh": "一位準備應考 NCLEX-RN 的護理學生說：「我整個護理學程都很努力，雖然這個考試很難，但我知道我能準備好並通過。」根據 Bandura 的自我效能理論，這句話反映了哪個概念？"
+    },
+    "options": [
+      {"en": "A low self-efficacy expectation", "zh": "低自我效能期望"},
+      {"en": "A high self-efficacy expectation", "zh": "高自我效能期望"},
+      {"en": "An external locus of control", "zh": "外控信念"},
+      {"en": "Test anxiety that requires professional counseling", "zh": "需要專業諮商的考試焦慮"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the concept of self-efficacy expectations as described by Bandura. Self-efficacy expectations are the belief in one's own capacity to carry out a behavior successfully; a high self-efficacy expectation leads an individual to work hard, persevere, and believe in eventual success, as this student's statement demonstrates. A low self-efficacy expectation would instead be reflected by self-doubt about the ability to succeed. The statement does not indicate an external locus of control (attributing outcomes to outside forces) or a level of anxiety requiring professional counseling.",
+      "zh": "此題考核 Bandura 所述自我效能期望的概念。自我效能期望是對自己有能力成功完成某行為的信念；高自我效能期望會使人努力不懈並相信最終能成功，如這位學生的陳述所示。低自我效能期望則會表現為對自身成功能力的自我懷疑。此陳述並未顯示外控信念（將結果歸因於外部因素），也未顯示需要專業諮商的焦慮程度。"
+    },
+    "pdf_pages": [35],
+    "tags": ["self-efficacy", "self-efficacy expectations"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A nursing student tells the nursing instructor, \"I've never been good at test-taking, so I probably won't pass the NCLEX no matter how much I study.\" Which response by the instructor is most appropriate?",
+      "zh": "一位護理學生告訴教師：「我向來不擅長考試，所以不管我怎麼準備，可能都無法通過 NCLEX。」教師哪一項回應最為恰當？"
+    },
+    "options": [
+      {"en": "\"That's understandable; many students feel this way.\"", "zh": "「這可以理解，很多學生都有這種感覺。」"},
+      {"en": "\"Let's look back at the goals you've already achieved and build a structured study plan from there.\"", "zh": "「我們來回顧一下您已經達成的目標，並以此為基礎建立一個結構化的學習計畫。」"},
+      {"en": "\"You will need to retake several nursing courses before you are ready.\"", "zh": "「您需要重修好幾門護理課程才能準備好。」"},
+      {"en": "\"Try not to think about the exam until it gets closer.\"", "zh": "「暫時不要去想這個考試，等日期接近再說。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses low self-efficacy expectations and the pathway of self-reflection described in the chapter. The student's statement reflects self-doubt that could undermine performance. The most therapeutic and productive response guides the student to self-reflect on past accomplishments and begin developing a structured plan for preparation, which is the foundation for building self-efficacy and a pathway to success. Simply validating the feeling without further action, recommending unnecessary remediation, or avoiding the issue does not address the student's self-doubt or help build self-efficacy.",
+      "zh": "此題考核低自我效能期望以及本章所述的自我反思途徑。該學生的陳述反映出可能影響表現的自我懷疑。最具治療性且有建設性的回應，是引導學生回顧過去的成就並開始建立結構化的準備計畫，這正是建立自我效能與通往成功之路的基礎。僅肯定情緒而未採取進一步行動、建議不必要的補救，或迴避問題，都無法處理學生的自我懷疑或協助建立自我效能。"
+    },
+    "pdf_pages": [36],
+    "tags": ["self-efficacy", "coping", "self-reflection"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching a client newly diagnosed with heart failure about daily weight monitoring and fluid restriction. Which client statement best reflects a high self-efficacy expectation for managing this new regimen?",
+      "zh": "護理師正在教導一位新診斷心衰竭的病人每日量體重與限制水分的衛教內容。病人的哪句話最能反映其對於執行新療法具有高度自我效能期望？"
+    },
+    "options": [
+      {"en": "\"I don't think I'll be able to keep track of all of this on my own.\"", "zh": "「我覺得自己沒辦法一個人記住這麼多事情。」"},
+      {"en": "\"I'll set a daily reminder to weigh myself and keep a log, and I'll call my provider if I notice a change.\"", "zh": "「我會設定每天的提醒去量體重並記錄下來，如果發現有變化就會聯絡我的醫療人員。」"},
+      {"en": "\"My spouse will have to remind me to do this every day.\"", "zh": "「我太太/先生每天都要提醒我才會去做這件事。」"},
+      {"en": "\"I'll try it for a week and see if it's worth the effort.\"", "zh": "「我先試一個星期，看看值不值得這麼做。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item applies the concept of self-efficacy expectations, discussed in this chapter, to client teaching in the Health Promotion and Maintenance category. Self-efficacy expectations determine the behaviors a person chooses, the degree of perseverance, and the quality of performance. The client statement that describes a specific, independent, sustained plan with a clear action threshold reflects a strong belief in personal capability to manage the regimen. The other statements reflect dependence on others, self-doubt, or a conditional, short-term commitment, all of which reflect lower self-efficacy for self-management.",
+      "zh": "此題將本章討論的自我效能期望概念應用於「健康促進與維持」類別中的病人衛教。自我效能期望決定一個人選擇的行為、堅持的程度，以及執行的品質。病人陳述若能描述具體、獨立且持續的計畫並訂出明確的因應門檻，即反映出對自我管理能力的高度信心。其他陳述則反映出依賴他人、自我懷疑，或只是有條件的短期承諾，皆顯示較低的自我管理效能。"
+    },
+    "pdf_pages": [36],
+    "tags": ["self-efficacy", "patient education", "heart failure"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A nursing graduate preparing for the NCLEX tells the nurse mentor, \"I'm going to drink several extra cups of coffee each day so I can study longer hours.\" Which response by the mentor is most appropriate?",
+      "zh": "一位準備應考 NCLEX 的護理畢業生告訴護理師學長：「我打算每天多喝幾杯咖啡，這樣就能延長學習時間。」學長哪一項回應最為恰當？"
+    },
+    "options": [
+      {"en": "\"That's a reasonable way to extend your study sessions.\"", "zh": "「這是延長學習時間的合理方法。」"},
+      {"en": "\"Focus on quality study time in shorter sessions, and be careful not to include too much caffeine in your daily diet.\"", "zh": "「重點是安排較短但高品質的學習時段，並要注意不要攝取太多咖啡因。」"},
+      {"en": "\"Caffeine has no effect on your ability to concentrate while studying.\"", "zh": "「咖啡因對你學習時的專注力沒有任何影響。」"},
+      {"en": "\"You should eliminate all caffeine completely starting today.\"", "zh": "「你今天開始應該完全戒掉所有咖啡因。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the positive pampering component of the Pyramid to Success and is a negative event query. The chapter recommends establishing healthy eating habits and being careful not to include too much caffeine in the daily diet, along with scheduling quality study time rather than simply lengthening study sessions. Stating that increased caffeine intake is reasonable or has no effect provides inaccurate information, and recommending complete elimination overstates the guideline given in the chapter.",
+      "zh": "此題考核「成功金字塔」中「正向自我照顧」的要素，屬於負向提問。本章建議建立健康的飲食習慣，並注意避免攝取過多咖啡因，同時安排有品質的學習時段，而非單純延長學習時數。表示增加咖啡因攝取是合理的或沒有影響，屬於不正確的訊息；而建議完全戒除則超出本章所給的指引範圍。"
+    },
+    "pdf_pages": [38],
+    "tags": ["need for further teaching", "self-care", "positive pampering"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A nursing student feels overwhelmed about starting NCLEX preparation. Which self-reflection question, consistent with the approach described in this chapter, would be most useful for the student to ask first?",
+      "zh": "一位護理學生對於開始準備 NCLEX 感到不知所措。根據本章所述的方法，學生最先問自己哪個自我反思問題最有幫助？"
+    },
+    "options": [
+      {"en": "\"What is the minimum amount of studying I can do and still pass?\"", "zh": "「我最少要讀多少書才能剛好及格？」"},
+      {"en": "\"Am I a goal-setter, and how do I feel when I accomplish a goal?\"", "zh": "「我是一個會設定目標的人嗎？達成目標時我有什麼感覺？」"},
+      {"en": "\"Which of my classmates has already passed the exam?\"", "zh": "「我的哪位同學已經通過考試了？」"},
+      {"en": "\"How many total questions are on the examination?\"", "zh": "「這個考試總共有多少題？」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses the self-reflection pathway described in this chapter. Self-reflection enables an individual to assess their own experiences, develop perceptions about their capabilities, and determine the effort needed for performance, building self-efficacy expectations and confidence. Asking about goal-setting tendencies and how accomplishing goals feels is one of the self-reflection questions suggested in the chapter to begin building a personal foundation. Focusing on a minimum passing effort, comparing oneself with classmates, or recalling exam logistics does not build self-reflection or self-efficacy.",
+      "zh": "此題考核本章所述的自我反思途徑。自我反思能讓個人評估自身經驗、發展對自身能力的認知，並判斷執行所需的努力程度，從而建立自我效能期望與信心。詢問自己是否會設定目標，以及達成目標時的感受，是本章建議用於開始建立個人基礎的自我反思問題之一。專注於以最低限度通過考試、與同學比較，或回想考試的行政細節，都無法建立自我反思或自我效能。"
+    },
+    "pdf_pages": [36],
+    "tags": ["self-reflection", "coping"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "A nursing graduate has completed a diagnostic assessment and identified weaker content areas before beginning NCLEX practice questions. Which action, consistent with the approach recommended in this chapter, should the graduate take first?",
+      "zh": "一位護理畢業生完成診斷式測驗，並在開始練習 NCLEX 題目前找出自己較弱的內容領域。依本章建議的做法，畢業生應優先採取哪項行動？"
+    },
+    "options": [
+      {"en": "Begin practicing questions only in the content area that is already a strength.", "zh": "只練習自己已經擅長的內容領域題目。"},
+      {"en": "Begin practicing questions in the weaker content area identified, and read the rationale for every question.", "zh": "先練習已識別出較弱的內容領域題目，並閱讀每一題的解析。"},
+      {"en": "Wait until closer to the test date to begin practicing any questions.", "zh": "等到考試日期更接近時才開始練習題目。"},
+      {"en": "Skip reading rationales for questions that are answered correctly.", "zh": "答對的題目就跳過不讀其解析。"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses organizing and prioritizing one's own preparation plan, consistent with the implementing-the-study-plan guidance in this chapter. The recommended approach is to select, as a starting point, questions in the content area that is the weaker area, and to read the rationale and test-taking strategy for every question, including those answered correctly, because the rationale confirms whether the student's thinking was accurate. Starting only with strengths, delaying practice, and skipping rationales for correct answers are inconsistent with this guidance.",
+      "zh": "此題考核依本章「落實學習計畫」指引來組織與排定自我準備優先順序。建議的做法是以較弱的內容領域作為起點開始練習，並閱讀每一題（包括答對的題目）的解析與作答策略，因為解析可確認學生的思路是否正確。只從擅長領域開始、延後練習，以及跳過答對題目的解析，皆不符合此指引。"
+    },
+    "pdf_pages": [38],
+    "tags": ["study plan", "prioritizing"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A nursing student has a scheduled study session, but a close friend asks the student to go to a movie instead, saying, \"You have plenty of time to study later.\" According to this chapter, which response best supports the student's pathway to success?",
+      "zh": "一位護理學生有安排好的學習時段，但好友邀約去看電影，並說：「你之後還有很多時間可以讀書。」依本章所述，哪一項回應最能支持該學生邁向成功的道路？"
+    },
+    "options": [
+      {"en": "Agree to go, because maintaining the friendship is more important than one study session.", "zh": "同意去看電影，因為維持友誼比一次學習時段更重要。"},
+      {"en": "Weigh the decision carefully, keeping the goal of becoming a registered nurse and the need for positive momentum in mind.", "zh": "仔細權衡這個決定，同時謹記成為註冊護理師的目標與維持正向動力的重要性。"},
+      {"en": "End the friendship because the friend does not support the study plan.", "zh": "結束這段友誼，因為朋友不支持學習計畫。"},
+      {"en": "Go to the movie without telling the friend about the missed study session.", "zh": "去看電影，但不告訴朋友自己錯過了學習時段。"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "This item addresses coping with social pressure while maintaining a structured study plan, as described in this chapter. The chapter acknowledges that dealing with family members and friends who do not participate in the plan for success can be difficult, and advises the student to weigh all factors carefully while keeping goals and the need for positive momentum in mind; the decision will not always be easy. Automatically choosing the friend's request, ending the friendship, or being dishonest about the decision are not the balanced approach described in the chapter.",
+      "zh": "此題考核如何依本章所述，在維持結構化學習計畫的同時應對社會壓力。本章承認處理不支持成功計畫的家人或朋友可能很困難，並建議學生仔細權衡各項因素，同時謹記目標與維持正向動力的重要性；這個決定並不總是容易做出。自動選擇順從朋友的要求、結束友誼，或對此決定不誠實，皆不符合本章所述的平衡做法。"
+    },
+    "pdf_pages": [37],
+    "tags": ["coping", "self-regulation"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A nursing graduate's scheduled NCLEX examination date is tomorrow. Which statement by the graduate indicates a need for further guidance regarding final preparation, as described in this chapter?",
+      "zh": "一位護理畢業生的 NCLEX 考試日期是明天。依本章所述，畢業生的哪一句話顯示需要在最後準備階段獲得進一步指導？"
+    },
+    "options": [
+      {"en": "\"I'm going to spend tonight reviewing every content area one more time.\"", "zh": "「我今晚要把所有內容領域再複習一次。」"},
+      {"en": "\"I'm going to do something relaxing tonight and get a full night's sleep.\"", "zh": "「我今晚要做些放鬆的事，並好好睡一整晚。」"},
+      {"en": "\"I already drove to the testing center once to check the route and parking.\"", "zh": "「我已經先開車去測驗中心一趟，確認路線與停車位置。」"},
+      {"en": "\"I have my identification and Authorization to Test form ready to bring with me.\"", "zh": "「我已經準備好身分證件和應考授權書（ATT）要帶去。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "This item is a negative event query addressing final preparation. The chapter recommends adjusting the study plan to end 2 days before the examination and devoting the day before the examination to rest, relaxing activities, and a restful night's sleep rather than last-minute cramming, because the mind, like a muscle, loses strength and stamina if overworked. Planning a test drive to the facility and having identification and the Authorization to Test form ready are both correctly recommended final preparation steps.",
+      "zh": "此題為負向提問，考核最後準備階段。本章建議將學習計畫調整為考試前 2 天結束，並將考前一天用於休息、放鬆活動與充足睡眠，而非臨考前的臨時抱佛腳，因為心智如同肌肉，過度使用會失去力量與耐力。預先試開路線到測驗中心、準備好身分證件與應考授權書，皆為本章正確建議的最後準備步驟。"
+    },
+    "pdf_pages": [38],
+    "tags": ["need for further teaching", "final preparation"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A nursing graduate is developing a plan for \"positive pampering\" while preparing for the NCLEX, as described in this chapter. Which activities would be appropriate to include? Select all that apply.",
+      "zh": "一位護理畢業生在準備 NCLEX 期間，依本章所述規劃「正向自我照顧」計畫。下列哪些活動適合納入？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Scheduling time for physical activity, such as walking or exercise", "zh": "安排運動時間，例如散步或健身"},
+      {"en": "Eating lighter meals more frequently and drinking plenty of water", "zh": "少量多餐並多喝水"},
+      {"en": "Studying for as many consecutive hours as possible without breaks", "zh": "盡可能連續不間斷地學習長時間"},
+      {"en": "Making time for an enjoyable activity with someone supportive of the goal", "zh": "安排時間與支持自己目標的人一起從事喜歡的活動"},
+      {"en": "Eating fatty foods for quick, long-lasting energy", "zh": "攝取油膩食物以獲得快速、持久的能量"},
+      {"en": "Including complex carbohydrates, such as whole-grain foods, in the diet", "zh": "飲食中納入複合碳水化合物，例如全穀類食物"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "This item addresses positive pampering and self-care, part of the foundation for success described in this chapter. Recommended measures include scheduling physical activity and fun activities, eating lighter and more frequent meals, drinking plenty of water, including complex carbohydrates for energy, and spending quality time on enjoyable activities with supportive people. The chapter specifically advises against fatty foods, which slow a person down, and against replacing quality study sessions with excessively long, uninterrupted study periods.",
+      "zh": "此題考核本章所述「邁向成功基礎」中的正向自我照顧與自我調適。建議措施包括安排運動與娛樂活動、少量多餐、多喝水、攝取複合碳水化合物以獲得能量，以及與支持自己的人一起從事喜歡的活動並享受優質時光。本章特別建議避免攝取會讓人變遲緩的油膩食物，也不建議以過長、不中斷的學習時間取代有品質的學習時段。"
+    },
+    "pdf_pages": [38],
+    "tags": ["sata", "self-care", "positive pampering"]
+  }
+]

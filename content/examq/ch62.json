@@ -1,0 +1,566 @@
+[
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client comes to the clinic for muscle spasms after a home injury. The primary health care provider (PHCP) plans to prescribe cyclobenzaprine. While reviewing the chart, the nurse notes the client has been taking phenelzine for depression for the past week. What is the nurse's priority action?",
+      "zh": "一位病人因在家中搬動家具時受傷而出現肌肉痙攣，前來診所就診。主治醫療人員（PHCP）計畫開立環苯扎林（cyclobenzaprine）。護理師查閱病歷時發現，該病人過去一週一直在服用苯乙肼（phenelzine）治療憂鬱症。護理師的優先行動是什麼？"
+    },
+    "options": [
+      {
+        "en": "Administer the first dose of cyclobenzaprine as prescribed and monitor for sedation.",
+        "zh": "依醫囑給予第一劑環苯扎林，並監測鎮靜反應。"
+      },
+      {
+        "en": "Withhold the cyclobenzaprine and contact the PHCP to report the phenelzine use before any dose is given.",
+        "zh": "暫緩給予環苯扎林，並在給藥前聯絡主治醫療人員告知病人正在服用苯乙肼。"
+      },
+      {
+        "en": "Instruct the client to take the cyclobenzaprine at bedtime only.",
+        "zh": "指導病人只在睡前服用環苯扎林。"
+      },
+      {
+        "en": "Advise the client to stop the phenelzine and begin cyclobenzaprine in 24 hours.",
+        "zh": "建議病人停用苯乙肼，24小時後開始服用環苯扎林。"
+      },
+      {
+        "en": "Give the medication but double the frequency of vital sign monitoring.",
+        "zh": "仍給藥，但加強監測生命徵象的頻率。"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Cyclobenzaprine is contraindicated within 14 days of monoamine oxidase inhibitor (MAOI) therapy, such as phenelzine, because of the risk of a severe, life-threatening reaction. The nurse should withhold the medication and notify the PHCP rather than administer it or independently change the therapy.",
+      "zh": "環苯扎林在使用單胺氧化酶抑制劑（如苯乙肼）後14天內是禁忌的，因為可能引發嚴重、致命的反應。護理師應暫緩給藥並通知主治醫療人員，而不是自行給藥或調整治療。"
+    },
+    "pdf_pages": [
+      1006
+    ],
+    "tags": [
+      "medication safety",
+      "contraindication",
+      "priority"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client with an implantable intrathecal baclofen pump for spasticity misses a scheduled pump refill appointment. Which finding would require the nurse to seek immediate medical attention for the client?",
+      "zh": "一位裝有植入式鞘內巴氯芬（intrathecal baclofen）幫浦以治療痙攣的病人，錯過了預定的幫浦補充藥物門診。哪項發現會讓護理師認為病人需要立即就醫？"
+    },
+    "options": [
+      {
+        "en": "Mild drowsiness and fatigue",
+        "zh": "輕度嗜睡與疲倦"
+      },
+      {
+        "en": "Occasional urinary retention",
+        "zh": "偶發性尿滯留"
+      },
+      {
+        "en": "Sudden onset of high fever, altered mental status, and increased muscle rigidity",
+        "zh": "突然出現高熱、意識改變及肌肉僵硬加劇"
+      },
+      {
+        "en": "Dry mouth and mild nausea",
+        "zh": "口乾與輕微噁心"
+      }
+    ],
+    "answer": [
+      2
+    ],
+    "rationale": {
+      "en": "An empty intrathecal baclofen pump can cause abrupt baclofen withdrawal, which is life-threatening and presents with high fever, altered mental status, and rebound spasticity/rigidity, potentially progressing to multiple organ failure. This requires immediate medical attention, unlike the milder, expected side effects listed in the other options.",
+      "zh": "鞘內巴氯芬幫浦藥液用盡可能導致突發性巴氯芬戒斷反應，屬於危及生命的狀況，表現為高熱、意識改變、反彈性痙攣／僵硬，並可能進展為多重器官衰竭，需立即就醫；其他選項僅為預期中較輕微的副作用。"
+    },
+    "pdf_pages": [
+      1005
+    ],
+    "tags": [
+      "red flag",
+      "requires immediate action"
+    ]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A client begins therapy with dantrolene for severe muscle spasticity. Which laboratory test does the nurse anticipate the PHCP will prescribe before treatment begins and periodically throughout therapy?",
+      "zh": "一位病人開始使用丹特羅林（dantrolene）治療嚴重肌肉痙攣。護理師預期主治醫療人員會在治療前及治療期間定期開立哪項檢驗？"
+    },
+    "options": [
+      {
+        "en": "Serum creatinine",
+        "zh": "血清肌酸酐"
+      },
+      {
+        "en": "Liver function tests",
+        "zh": "肝功能檢查"
+      },
+      {
+        "en": "Platelet count",
+        "zh": "血小板計數"
+      },
+      {
+        "en": "Serum potassium",
+        "zh": "血清鉀"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Dose-related liver damage is the most serious adverse effect of dantrolene; liver function tests should be obtained before starting treatment and monitored periodically throughout therapy to detect hepatotoxicity early.",
+      "zh": "肝損傷是丹特羅林最嚴重且與劑量相關的不良反應；應在開始治療前及治療期間定期監測肝功能檢查，以及早發現肝毒性。"
+    },
+    "pdf_pages": [
+      1006
+    ],
+    "tags": [
+      "labs",
+      "medication safety"
+    ]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is administering intravenous methocarbamol to a client following a musculoskeletal injury. Which adverse effects would the nurse monitor for during and immediately after the infusion?",
+      "zh": "護理師正為一位肌肉骨骼損傷病人靜脈輸注美索巴莫（methocarbamol）。輸注期間及輸注後應監測哪些不良反應？"
+    },
+    "options": [
+      {
+        "en": "Tachycardia and hypertension",
+        "zh": "心搏過速與高血壓"
+      },
+      {
+        "en": "Hypotension and bradycardia",
+        "zh": "低血壓與心搏過緩"
+      },
+      {
+        "en": "Hyperthermia and tremors",
+        "zh": "體溫過高與顫抖"
+      },
+      {
+        "en": "Polyuria and glucosuria",
+        "zh": "多尿與糖尿"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "The parenteral form of methocarbamol can cause hypotension, bradycardia, anaphylaxis, and seizures, particularly if administered too rapidly; the nurse should infuse it slowly and monitor vital signs closely.",
+      "zh": "美索巴莫的注射劑型可能引起低血壓、心搏過緩、過敏反應及癲癇發作，尤其在輸注過快時更容易發生；護理師應緩慢輸注並密切監測生命徵象。"
+    },
+    "pdf_pages": [
+      1006
+    ],
+    "tags": [
+      "IV therapy",
+      "adverse effects"
+    ]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse provides teaching to a client newly prescribed allopurinol for chronic gout. Which statement by the client indicates correct understanding of the teaching?",
+      "zh": "護理師為一位新開立異嘌醇（allopurinol）治療慢性痛風的病人提供衛教。病人的哪項陳述顯示其正確理解衛教內容？"
+    },
+    "options": [
+      {
+        "en": "\"I will drink about 3000 mL of fluids a day unless I'm told otherwise.\"",
+        "zh": "「除非醫囑另有指示，我每天會喝約3000毫升的水分。」"
+      },
+      {
+        "en": "\"I should expect my gout attacks to stop within the first day or two.\"",
+        "zh": "「我預期痛風發作會在一兩天內停止。」"
+      },
+      {
+        "en": "\"I can take extra vitamin C supplements since this medication lowers my immunity.\"",
+        "zh": "「因為這個藥會降低我的免疫力，我可以額外補充維生素C。」"
+      },
+      {
+        "en": "\"Swelling of my lips means the medication dose needs to be increased.\"",
+        "zh": "「嘴唇腫起來表示藥量需要增加。」"
+      }
+    ],
+    "answer": [
+      0
+    ],
+    "rationale": {
+      "en": "Clients taking allopurinol are encouraged to drink about 3000 mL of fluid daily (unless contraindicated) to reduce the risk of uric acid kidney stones. Full therapeutic effect takes longer than a day or two, high-dose vitamin C can increase kidney stone risk, and lip or mouth swelling suggests a hypersensitivity reaction requiring prompt PHCP notification, not a dose increase.",
+      "zh": "服用異嘌醇的病人應被鼓勵每天攝取約3000毫升水分（除非有禁忌），以降低尿酸腎結石的風險。完整療效需要較長時間才會顯現，大量補充維生素C可能增加腎結石風險，而嘴唇／口腔腫脹則提示過敏反應，應立即通知主治醫療人員，而非自行增加劑量。"
+    },
+    "pdf_pages": [
+      1006,
+      1007
+    ],
+    "tags": [
+      "patient education",
+      "gout"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client taking colchicine for an acute gout attack calls the clinic reporting new nausea, vomiting, diarrhea, and abdominal cramping. What is the nurse's best first action?",
+      "zh": "一位服用秋水仙素（colchicine）治療急性痛風發作的病人致電診所，報告新出現噁心、嘔吐、腹瀉及腹部絞痛。護理師最適當的第一步行動是什麼？"
+    },
+    "options": [
+      {
+        "en": "Reassure the client that these are expected effects and to continue the medication.",
+        "zh": "向病人保證這些是預期中的效果，繼續服藥即可。"
+      },
+      {
+        "en": "Instruct the client to take the next dose with a large glass of milk.",
+        "zh": "指導病人下次服藥時搭配大量牛奶。"
+      },
+      {
+        "en": "Instruct the client to withhold the next dose and notify the PHCP of the symptoms.",
+        "zh": "指導病人暫停下一劑藥物，並通知主治醫療人員這些症狀。"
+      },
+      {
+        "en": "Advise the client to double the next dose to clear the gout attack faster.",
+        "zh": "建議病人將下一劑劇量加倍，以更快緩解痛風發作。"
+      }
+    ],
+    "answer": [
+      2
+    ],
+    "rationale": {
+      "en": "Gastrointestinal symptoms such as nausea, vomiting, diarrhea, and abdominal pain in a client taking colchicine indicate a need to withhold the medication and notify the PHCP, since these symptoms often precede more serious toxicity.",
+      "zh": "服用秋水仙素的病人若出現噁心、嘔吐、腹瀉及腹痛等胃腸症狀，表示需要暫停用藥並通知主治醫療人員，因為這些症狀往往是更嚴重毒性反應的前兆。"
+    },
+    "pdf_pages": [
+      1007
+    ],
+    "tags": [
+      "priority",
+      "first action"
+    ]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A client taking probenecid for gout tells the nurse they take a daily low-dose aspirin for cardiac prophylaxis. What is the most appropriate nursing response?",
+      "zh": "一位服用丙磺舒（probenecid）治療痛風的病人告訴護理師，自己每天服用低劑量阿斯匹靈作為心臟保護。護理師最適當的回應是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Continue the aspirin; it has no effect on your gout medication.\"",
+        "zh": "「繼續服用阿斯匹靈即可，它不會影響你的痛風藥物。」"
+      },
+      {
+        "en": "\"Aspirin can interfere with the uricosuric action of probenecid; ask your PHCP about using acetaminophen instead.\"",
+        "zh": "「阿斯匹靈會干擾丙磺舒促進尿酸排泄的作用；請詢問主治醫療人員是否可改用乙醯胺酚。」"
+      },
+      {
+        "en": "\"You should double your probenecid dose when taking aspirin.\"",
+        "zh": "「服用阿斯匹靈時，你應該將丙磺舒劇量加倍。」"
+      },
+      {
+        "en": "\"Aspirin will enhance the effect of probenecid and lower your uric acid faster.\"",
+        "zh": "「阿斯匹靈會增強丙磺舒的作用，使尿酸更快降低。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Aspirin and other salicylates interfere with the uricosuric action of probenecid, potentially raising uric acid levels and triggering a gout attack. Clients should be advised to discuss an alternative such as acetaminophen with the PHCP rather than using aspirin.",
+      "zh": "阿斯匹靈及其他柳酸類藥物會干擾丙磺舒促進尿酸排泄（uricosuric）的作用，可能提高尿酸濃度並誘發痛風發作。應建議病人與主治醫療人員討論改用乙醯胺酚等替代藥物，而非使用阿斯匹靈。"
+    },
+    "pdf_pages": [
+      1007
+    ],
+    "tags": [
+      "drug interaction",
+      "patient education"
+    ]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is caring for a client receiving a nonbiologic disease-modifying antirheumatic drug (DMARD) for rheumatoid arthritis. Which assessment findings would the nurse report to the PHCP as possible adverse effects requiring further evaluation? Select all that apply.",
+      "zh": "護理師正在照護一位接受非生物製劑DMARD治療類風濕性關節炎的病人。下列哪些評估發現應報告給主治醫療人員，視為需進一步評估的可能不良反應？（多選）"
+    },
+    "options": [
+      {
+        "en": "White blood cell count of 2,200/mm3 (normal 5,000-10,000)",
+        "zh": "白血球計數2,200/mm3（正常值5,000-10,000）"
+      },
+      {
+        "en": "Platelet count of 95,000/mm3 (normal 150,000-400,000)",
+        "zh": "血小板計數95,000/mm3（正常值150,000-400,000）"
+      },
+      {
+        "en": "Improved grip strength since starting therapy",
+        "zh": "開始治療後握力改善"
+      },
+      {
+        "en": "New onset fatigue, fever, and sore throat",
+        "zh": "新發疲倦、發燒及喉痛"
+      },
+      {
+        "en": "Decreased joint swelling after 8 weeks of therapy",
+        "zh": "治療8週後關節腫脹減少"
+      },
+      {
+        "en": "Mild nausea relieved by taking the medication with food",
+        "zh": "隨餐服藥後噁心減輕"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "rationale": {
+      "en": "DMARDs such as methotrexate, azathioprine, and sulfasalazine can cause bone marrow suppression (leukopenia, thrombocytopenia) and place the client at risk for infection; leukopenia, thrombocytopenia, and signs of infection (fever, sore throat) must be reported. Improved joint function, decreased swelling, and mild food-related nausea reflect expected therapeutic or minor effects.",
+      "zh": "methotrexate、azathioprine、sulfasalazine等DMARD可能造成骨髓抑制（白血球減少、血小板減少），增加感染風險；白血球減少、血小板減少及感染徵象（發燒、喉痛）皆須報告。關節功能改善、腫脹減少及隨餐服藥後噁心減輕則反映治療效果良好或輕微副作用。"
+    },
+    "pdf_pages": [
+      1007,
+      1008
+    ],
+    "tags": [
+      "sata",
+      "labs",
+      "red flag"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client receiving etanercept for rheumatoid arthritis reports new-onset shortness of breath, ankle swelling, and increasing fatigue over the past week. Which concern should prompt the nurse to notify the PHCP immediately?",
+      "zh": "一位接受益賜普（etanercept）治療類風濕性關節炎的病人，過去一週出現新發呼吸困難、足踝腫脹及疲倦加重。哪項考量應促使護理師立即通知主治醫療人員？"
+    },
+    "options": [
+      {
+        "en": "These are common injection-site reactions that resolve on their own.",
+        "zh": "這些是常見的注射部位反應，會自行緩解。"
+      },
+      {
+        "en": "These findings may indicate new-onset or worsening heart failure, a known risk with etanercept.",
+        "zh": "這些發現可能顯示新發或惡化的心臟衰竭，是益賜普已知的風險。"
+      },
+      {
+        "en": "These findings are an expected sign of improved mobility.",
+        "zh": "這些發現是行動能力改善的預期表現。"
+      },
+      {
+        "en": "These symptoms indicate the dose should be increased.",
+        "zh": "這些症狀表示劇量應該增加。"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Etanercept, a biologic DMARD, carries a risk for new or worsening heart failure as well as CNS demyelinating disorders. Dyspnea, edema, and fatigue in a client on etanercept should be reported promptly rather than assumed to be minor or expected.",
+      "zh": "益賜普（etanercept）作為生物製劑DMARD，具有引發新發或惡化心臟衰竭及中樞神經系統去髓鞘疾病的風險。服用此藥的病人出現呼吸困難、水腫及疲倦，應立即報告，不應視為輕微或預期反應。"
+    },
+    "pdf_pages": [
+      1008
+    ],
+    "tags": [
+      "biologic DMARD",
+      "requires immediate action"
+    ]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A client beginning methotrexate therapy for rheumatoid arthritis asks the nurse what will be monitored during treatment. Which response is most accurate?",
+      "zh": "一位剛開始使用methotrexate治療類風濕性關節炎的病人詢問護理師，治療期間會監測什麼。護理師最準確的回應是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Only your blood pressure needs to be checked regularly.\"",
+        "zh": "「只需要定期檢查你的血壓。」"
+      },
+      {
+        "en": "\"Your liver function, complete blood count, and respiratory status will be monitored because this medication can affect the liver, bone marrow, and lungs.\"",
+        "zh": "「會監測你的肝功能、全血球計數及呼吸狀況，因為這個藥物可能影響肝臟、骨髓及肺部。」"
+      },
+      {
+        "en": "\"Only your vision needs to be checked periodically.\"",
+        "zh": "「只需要定期檢查你的視力。」"
+      },
+      {
+        "en": "\"Your thyroid function is the main concern with this medication.\"",
+        "zh": "「這個藥物主要關注的是甲狀腺功能。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Methotrexate can cause hepatic fibrosis, bone marrow suppression, gastrointestinal ulceration, and pneumonitis, so liver function tests, complete blood count, and respiratory assessment (e.g., new cough or dyspnea) are monitored throughout therapy.",
+      "zh": "methotrexate可能造成肝纖維化、骨髓抑制、胃腸道潰瘍及肺炎，因此治療期間會監測肝功能檢查、全血球計數，並評估呼吸狀況（如新發咳嗽或呼吸困難）。"
+    },
+    "pdf_pages": [
+      1008
+    ],
+    "tags": [
+      "labs",
+      "patient education"
+    ]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse provides discharge teaching to a client newly prescribed oral alendronate for osteoporosis. Which instruction is correct?",
+      "zh": "護理師為一位新開立口服阿崙磷酸鈉（alendronate）治療骨質疏鬆症的病人提供出院衛教。哪項指導是正確的？"
+    },
+    "options": [
+      {
+        "en": "\"Take the tablet at bedtime with a small sip of water.\"",
+        "zh": "「睡前服用藥片，並搭配少量水。」"
+      },
+      {
+        "en": "\"Take the tablet first thing in the morning with a full glass of water, then remain upright and avoid food or drink for at least 30 minutes.\"",
+        "zh": "「早晨起床後立即以一整杯水服用藥片，然後保持站立或坐直姿勢，並於至少30分鐘內避免進食或飲水。」"
+      },
+      {
+        "en": "\"Take the tablet with your morning coffee and lie down for 30 minutes afterward.\"",
+        "zh": "「搭配早晨咖啡服藥，服藥後躺下30分鐘。」"
+      },
+      {
+        "en": "\"Crush the tablet and mix it with applesauce if swallowing is difficult.\"",
+        "zh": "「若吞嚥困難，可將藥片磨碎後混入蘋果泥服用。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Bisphosphonates such as alendronate must be taken in the morning before eating or drinking, with a full glass of water, and the client must remain upright (sitting or standing) and avoid food, drink, or lying down for at least 30 minutes (60 minutes for ibandronate) to reduce the risk of esophagitis.",
+      "zh": "雙磷酸鹽類藥物（如阿崙磷酸鈉）必須在早晨進食或飲水前服用，並以一整杯水吞服；服藥後病人須保持站立或坐直姿勢，並避免進食、飲水或躺下至少30分鐘（使用ibandronate則為60分鐘），以降低食道炎風險。"
+    },
+    "pdf_pages": [
+      1009
+    ],
+    "tags": [
+      "patient education",
+      "medication safety"
+    ]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client taking raloxifene for osteoporosis prevention tells the nurse about an upcoming 10-hour international flight. What is the most important instruction for the nurse to provide?",
+      "zh": "一位服用雷洛昔芬（raloxifene）預防骨質疏鬆症的病人告訴護理師即將搭乘10小時的國際航班。護理師最重要的指導是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Continue the medication as scheduled; it has no effect on long trips.\"",
+        "zh": "「按原計畫繼續服藥即可，長途旅行不會有影響。」"
+      },
+      {
+        "en": "\"Discontinue the medication at least 72 hours before the flight and avoid prolonged immobility.\"",
+        "zh": "「請在飛行前至少72小時停用此藥，並避免長時間不動。」"
+      },
+      {
+        "en": "\"Take an extra dose before boarding to prevent bone loss during the flight.\"",
+        "zh": "「登機前多服一劑，以防止飛行期間骨質流失。」"
+      },
+      {
+        "en": "\"Switch to a bisphosphonate for the duration of travel.\"",
+        "zh": "「旅行期間改用雙磷酸鹽類藥物。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Raloxifene increases the risk of venous thromboembolic events and should be discontinued at least 72 hours before any anticipated period of prolonged immobilization, such as a long flight; clients should also be advised to avoid extended restricted activity.",
+      "zh": "雷洛昔芬會增加靜脈血栓栓塞事件的風險，在預期將有長時間不動（如長途飛行）之前，應至少提前72小時停藥；也應建議病人避免長時間限制活動。"
+    },
+    "pdf_pages": [
+      1009
+    ],
+    "tags": [
+      "safety",
+      "VTE risk"
+    ]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The PHCP is considering teriparatide for a client with severe osteoporosis and multiple risk factors for fracture. Which preexisting condition would be most important for the nurse to bring to the PHCP's attention before therapy begins?",
+      "zh": "主治醫療人員考慮為一位患有嚴重骨質疏鬆症且有多項骨折風險因子的病人使用特立帕肽（teriparatide）。護理師最重要應提醒主治醫療人員注意病人的哪項既有病史？"
+    },
+    "options": [
+      {
+        "en": "Seasonal allergic rhinitis",
+        "zh": "季節性過敏性鼻炎"
+      },
+      {
+        "en": "History of bone cancer",
+        "zh": "骨癌病史"
+      },
+      {
+        "en": "Mild osteoarthritis of the knees",
+        "zh": "輕度膝關節骨關節炎"
+      },
+      {
+        "en": "Controlled hypertension",
+        "zh": "已控制的高血壓"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "Teriparatide stimulates osteoblastic activity and new bone formation and has been associated with the development of bone cancer (osteosarcoma); a client history of bone cancer is an important safety concern to raise with the PHCP before starting therapy.",
+      "zh": "特立帕肽可刺激成骨細胞活性及新骨形成，已被發現與骨癌（骨肉瘤）的發生有關；因此病人若有骨癌病史，是開始治療前需提醒主治醫療人員注意的重要安全考量。"
+    },
+    "pdf_pages": [
+      1010
+    ],
+    "tags": [
+      "medication safety",
+      "oncology risk"
+    ]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A client with chronic low back pain asks the nurse what medications are typically tried first for musculoskeletal pain. What is the nurse's best response?",
+      "zh": "一位慢性下背痛的病人詢問護理師，治療肌肉骨骼疼痛通常會先嘗試哪些藥物。護理師最佳的回應是什麼？"
+    },
+    "options": [
+      {
+        "en": "\"Opioid analgesics are always the first choice for musculoskeletal pain.\"",
+        "zh": "「類鴉片止痛藥永遠是治療肌肉骨骼疼痛的首選。」"
+      },
+      {
+        "en": "\"NSAIDs and acetaminophen are generally considered first-line treatments for musculoskeletal pain.\"",
+        "zh": "「非類固醇消炎止痛藥（NSAIDs）與乙醯胺酚通常被視為治療肌肉骨骼疼痛的第一線藥物。」"
+      },
+      {
+        "en": "\"Skeletal muscle relaxants are the only effective option.\"",
+        "zh": "「骨骼肌肉鬆弛劑是唯一有效的選擇。」"
+      },
+      {
+        "en": "\"Glucocorticoids should be used before any other medication.\"",
+        "zh": "「糖皮質類固醇應該在其他藥物之前使用。」"
+      }
+    ],
+    "answer": [
+      1
+    ],
+    "rationale": {
+      "en": "NSAIDs (e.g., ibuprofen, naproxen) and acetaminophen are commonly used first-line treatments for musculoskeletal pain; other agents such as skeletal muscle relaxants, antidepressants, and opioid analgesics may be added if needed.",
+      "zh": "NSAIDs（如ibuprofen、naproxen）與乙醯胺酚是治療肌肉骨骼疼痛常用的第一線藥物；若需要，可再加上肌肉鬆弛劑、抗憂鬱藥物或類鴉片止痛藥等其他藥物。"
+    },
+    "pdf_pages": [
+      1010
+    ],
+    "tags": [
+      "patient education",
+      "pain management"
+    ]
+  }
+]

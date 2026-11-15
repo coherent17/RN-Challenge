@@ -1,0 +1,304 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for a 4-year-old child admitted with suspected epiglottitis who is sitting in the tripod position, drooling, and has a muffled voice with inspiratory stridor. Which finding noted 30 minutes later should concern the nurse most?",
+      "zh": "護理師照護一名疑似會厭炎的 4 歲孩童，病童採三腳架姿勢坐著、流口水、聲音低沉悶且有吸氣性喘鳴。30 分鐘後出現下列何項發現最令人擔憂？"
+    },
+    "options": [
+      {"en": "Temperature of 39.5°C (103.1°F)", "zh": "體溫 39.5°C（103.1°F）"},
+      {"en": "The child becomes quiet, with softer stridor and decreased responsiveness", "zh": "孩童變得安靜、喘鳴聲變小且反應力下降"},
+      {"en": "Heart rate of 130 beats/min", "zh": "心跳 130 次/分"},
+      {"en": "The child continues to refuse to lie flat and keeps leaning forward", "zh": "孩童持續拒絕平躺並持續向前傾"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Fever, tachycardia, and tripod positioning are expected with epiglottitis. A quiet child with diminishing stridor and decreased responsiveness signals worsening hypoxia, hypercapnia, and respiratory acidosis from near-complete airway obstruction — an ominous sign requiring immediate emergency airway intervention.",
+      "zh": "發燒、心搏過速與三腳架姿勢皆為會厭炎的預期表現。喘鳴聲變小合併反應力下降，顯示因氣道幾近完全阻塞而出現惡化的低血氧、高碳酸血症與呼吸性酸中毒，屬危險徵象，需立即緊急處理呼吸道。"
+    },
+    "pdf_pages": [503, 504],
+    "tags": ["recognize cues", "red flag", "epiglottitis"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a 3-year-old child with suspected epiglottitis. Which actions should the nurse take? Select all that apply.",
+      "zh": "護理師照護一名疑似會厭炎的 3 歲孩童，應採取下列哪些措施？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Use a tongue blade to visualize the posterior pharynx", "zh": "使用壓舌板觀察後咽部"},
+      {"en": "Keep the child NPO and have resuscitation/intubation equipment available", "zh": "讓孩童禁食（NPO）並備妥急救/插管設備"},
+      {"en": "Avoid taking the child's temperature by the oral route", "zh": "避免經口腔測量孩童體溫"},
+      {"en": "Place the child in a supine position to promote rest", "zh": "讓孩童採平躺姿勢以促進休息"},
+      {"en": "Avoid restraining the child or performing procedures that may cause crying or agitation", "zh": "避免約束孩童或執行可能導致哭泣或躁動的處置"}
+    ],
+    "answer": [1, 2, 4],
+    "rationale": {
+      "en": "Visualizing the pharynx with a tongue blade or placing the child supine can precipitate laryngospasm and complete airway occlusion and must be avoided. NPO status with emergency equipment ready, avoiding oral temperatures, and avoiding agitation are appropriate priorities to protect the airway.",
+      "zh": "以壓舌板觀察咽部或讓孩童平躺可能誘發喉痙攣而導致完全阻塞，須避免。維持禁食並備妥急救設備、避免經口測體溫、避免使孩童躁動，皆為保護呼吸道的適當優先措施。"
+    },
+    "pdf_pages": [503, 504],
+    "tags": ["sata", "safety", "epiglottitis"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is monitoring a hospitalized toddler with laryngotracheobronchitis (croup). Which finding requires the most immediate nursing action?",
+      "zh": "護理師正在監測一名住院且罹患急性喉氣管支氣管炎（哮吼）的幼兒，出現下列何項發現需最立即採取護理行動？"
+    },
+    "options": [
+      {"en": "Low-grade fever, hoarseness, and a seal-bark cough", "zh": "輕度發燒、聲音沙啞及海豹吠樣咳嗽"},
+      {"en": "Intermittent periods of cyanosis", "zh": "間歇性發紺"},
+      {"en": "Continuous inspiratory stridor with mild retractions", "zh": "持續性吸氣性喘鳴合併輕度肋間凹陷"},
+      {"en": "Irritability and restlessness with fear of the hospital environment", "zh": "因住院環境而出現躁動不安與害怕"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Progression of croup moves from low-grade fever and a seal-bark cough (Stage I) through continuous stridor and retractions (Stage II) to pallor, diaphoresis, and tachypnea (Stage III), and finally to intermittent cyanosis progressing to apnea (Stage IV) — the most severe and life-threatening stage.",
+      "zh": "哮吼病程由輕度發燒與海豹吠樣咳嗽（第一期）進展為持續喘鳴與肋間凹陷（第二期），再到蒼白、盜汗與呼吸急促（第三期），最終進展為間歇性發紺並可能進展至呼吸暫停（第四期）——此為最嚴重且危及生命的階段。"
+    },
+    "pdf_pages": [504, 505],
+    "tags": ["recognize cues", "priority", "croup"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse teaches the parent of a child with croup about home care measures. Which statement by the parent indicates the need for further teaching?",
+      "zh": "護理師針對哮吼孩童的居家照護向家長進行指導，家長的下列哪項陳述顯示需要再加強教導？"
+    },
+    "options": [
+      {"en": "\"I will use a cool-air vaporizer in his room at night.\"", "zh": "「我會在他夜間房裡使用涼霧器。」"},
+      {"en": "\"If he has trouble breathing, I'll take him into the bathroom and run a hot shower so he can breathe the steam.\"", "zh": "「如果他呼吸困難，我會帶他進浴室開熱水淋浴讓他吸蒸氣。」"},
+      {"en": "\"I will encourage him to drink plenty of fluids.\"", "zh": "「我會鼓勵他多喝液體。」"},
+      {"en": "\"I won't give him cough syrup or other cold medicines.\"", "zh": "「我不會給他止咳糖漿或其他感冒藥。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Croup is managed with cool, not warm/humid, air — cool night air, a cool-air vaporizer, or even the air from an open freezer or a cool basement/garage. Cough syrups and cold medicines are avoided because they dry and thicken secretions. A statement describing hot steam indicates a misunderstanding requiring correction.",
+      "zh": "哮吼應以涼空氣而非溫熱濕氣處理——可用涼夜間空氣、涼霧器，甚至打開冷凍庫或待在涼爽地下室/車庫。止咳糖漿及感冒藥因會使分泌物變乾變稠而須避免使用。提到使用熱蒸氣的說法顯示觀念有誤，需再加強教導。"
+    },
+    "pdf_pages": [504, 505],
+    "tags": ["evaluation", "teaching", "croup"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is planning care for a hospitalized infant with bronchiolitis caused by respiratory syncytial virus (RSV). Which interventions should be included in the plan of care? Select all that apply.",
+      "zh": "護理師為一名因呼吸融合病毒（RSV）引起細支氣管炎而住院的嬰兒規劃照護計畫，應納入下列哪些措施？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Place the infant in a private room", "zh": "安排嬰兒入住單人病室"},
+      {"en": "Use contact and droplet precautions in addition to standard precautions", "zh": "除標準防護外，另採接觸性及飛沫防護措施"},
+      {"en": "Assign the nurse caring for this infant to also care for other high-risk infants to improve efficiency", "zh": "將照護此嬰兒的護理師同時指派照顧其他高風險嬰兒以提升效率"},
+      {"en": "Position the infant with the head of the bed elevated 30-40 degrees and the neck slightly extended", "zh": "將嬰兒床頭抬高 30–40 度、頸部微伸展"},
+      {"en": "Suction nasal secretions with a bulb syringe before feeding", "zh": "於哺餵前使用吸球式吸引器清除鼻腔分泌物"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "RSV is highly communicable; the infant should be placed in a private room with contact, droplet, and standard precautions, and nurses caring for this infant should NOT also care for other high-risk children, to prevent transmission. Positioning at a 30- to 40-degree angle with the neck slightly extended maintains an open airway, and suctioning before feeding promotes comfort and adequate intake.",
+      "zh": "RSV 傳染性高，應安排單人病室並採接觸性、飛沫及標準防護措施，且照護此嬰兒的護理師不應同時照護其他高風險孩童，以防傳播。床頭抬高 30–40 度並使頸部微伸展可維持呼吸道通暢，哺餵前抽吸可促進舒適及足夠的攝取量。"
+    },
+    "pdf_pages": [505, 506],
+    "tags": ["sata", "safety", "infection control", "RSV"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "An infant with bronchiolitis initially has a respiratory rate of 50 breaths/min, mild wheezing, and an intermittent cough. Two hours later, the infant has a respiratory rate of 74 breaths/min, is listless, and has decreased breath sounds. What is the nurse's priority action?",
+      "zh": "一名患細支氣管炎的嬰兒最初呼吸速率為每分鐘 50 次、有輕度喘鳴及間歇性咳嗽。兩小時後，呼吸速率變為每分鐘 74 次、嬰兒呈現昏睡且呼吸音減弱。護理師的優先行動為何？"
+    },
+    "options": [
+      {"en": "Document the findings and reassess in 4 hours per routine schedule", "zh": "記錄發現並依常規時程於 4 小時後再評估"},
+      {"en": "Notify the health care provider immediately", "zh": "立即通知醫療照護提供者"},
+      {"en": "Administer the next scheduled dose of antipyretic", "zh": "給予下一次預定劑量的退熱藥"},
+      {"en": "Encourage increased oral fluid intake to prevent dehydration", "zh": "鼓勵增加口服液體攝取以預防脫水"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A respiratory rate greater than 70 breaths/min, decreased breath sounds with poor air exchange, and listlessness are manifestations of severe RSV illness and can precede apneic episodes. The health care provider must be notified immediately; increasing oral fluids in a child with worsening respiratory distress risks aspiration.",
+      "zh": "呼吸速率超過每分鐘 70 次、呼吸音減弱且換氣不良，以及昏睡，皆為嚴重 RSV 疾病的表現，可能在呼吸暫停發作之前出現，須立即通知醫療照護提供者；在呼吸窘迫加劇時增加口服液體攝取有吸入風險。"
+    },
+    "pdf_pages": [506],
+    "tags": ["priority", "red flag", "RSV", "first action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The home health nurse is teaching the parent of a child with cystic fibrosis about chest physiotherapy (percussion and postural drainage). Which statement by the parent indicates the need for further teaching?",
+      "zh": "居家護理師針對囊性纖維化孩童的胸部物理治療（叩擊及姿位引流）向家長進行指導，家長的下列哪項陳述顯示需要再加強教導？"
+    },
+    "options": [
+      {"en": "\"We do the treatment when she wakes up in the morning and again in the evening.\"", "zh": "「我們在她早上起床時做一次，晚上再做一次。」"},
+      {"en": "\"We will do the treatment right after she eats lunch, since the vibration helps her digest.\"", "zh": "「我們會在她吃完午餐後馬上做治療，因為震動有助消化。」"},
+      {"en": "\"We give her bronchodilator inhaler before the chest physiotherapy if she's wheezing.\"", "zh": "「如果她有喘鳴，我們會在胸部物理治療前先給支氣管擴張劑吸入劑。」"},
+      {"en": "\"We do extra sessions when she has a chest cold.\"", "zh": "「當她感冒咳嗽時，我們會增加治療次數。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Chest physiotherapy should not be performed immediately before or after a meal because it can precipitate vomiting and aspiration; it is scheduled on awakening and in the evening, more often during pulmonary infection. Bronchodilators given before chest physiotherapy help open the airways for more effective secretion clearance.",
+      "zh": "胸部物理治療不應於餐前或餐後立即進行，因可能引發嘔吐及吸入；應安排於起床時及晚間進行，肺部感染期間可增加次數。胸部物理治療前給予支氣管擴張劑有助打開呼吸道，使分泌物清除更有效。"
+    },
+    "pdf_pages": [512],
+    "tags": ["evaluation", "teaching", "cystic fibrosis"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The clinic nurse reviews a tuberculin skin test (Mantoux test) result for a 6-year-old child with no identified risk factors for tuberculosis. The area of induration measures 12 mm. How should the nurse interpret this result?",
+      "zh": "診所護理師為一名無結核病風險因子的 6 歲孩童判讀結核菌素皮膚測試（Mantoux test）結果，硬結範圍測得 12 mm，護理師應如何判讀此結果？"
+    },
+    "options": [
+      {"en": "Positive, requiring immediate evaluation for active disease", "zh": "陽性，需立即評估是否有活動性疾病"},
+      {"en": "Negative, because this child's age/risk category requires an induration of 15 mm or more to be considered positive", "zh": "陰性，因該孩童的年齡/風險類別需硬結達 15 mm 或以上才判定為陽性"},
+      {"en": "Inconclusive, requiring an immediate repeat test", "zh": "無法判定，需立即重新測試"},
+      {"en": "Positive only if accompanied by fever and cough", "zh": "僅在合併發燒與咳嗽時才判定為陽性"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "For children 4 years of age or older with no risk factors, an induration of 15 mm or more is considered positive. A 10-mm threshold applies to children younger than 4 years or those with chronic illness or high exposure risk, and a 5-mm threshold applies to the highest-risk groups (e.g., immunosuppressed or HIV-infected). A 12-mm result in this low-risk 6-year-old does not meet the 15-mm threshold and is interpreted as negative.",
+      "zh": "對 4 歲以上且無風險因子的孩童，硬結達 15 mm 以上才判定為陽性；10 mm 的門檻適用於未滿 4 歲或有慢性病/高暴露風險的孩童；5 mm 的門檻適用於最高風險族群（如免疫抑制或 HIV 感染者）。此低風險 6 歲孩童的 12 mm 結果未達 15 mm 門檻，應判讀為陰性。"
+    },
+    "pdf_pages": [515],
+    "tags": ["labs", "dosage calc", "tuberculosis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for a child during a severe asthma exacerbation. Which assessment finding is most concerning?",
+      "zh": "護理師照護一名嚴重氣喘發作的孩童，下列何項評估發現最令人擔憂？"
+    },
+    "options": [
+      {"en": "Loud expiratory wheezing heard throughout both lung fields", "zh": "雙側肺野皆可聽到明顯的呼氣性喘鳴音"},
+      {"en": "Absence of wheezing and breath sounds with minimal air movement (\"silent chest\")", "zh": "喘鳴音與呼吸音消失、幾乎聽不到氣體流動（「寂靜胸」）"},
+      {"en": "Respiratory rate of 32 breaths/min with mild retractions", "zh": "呼吸速率每分鐘 32 次合併輕度凹陷"},
+      {"en": "Child sitting upright and leaning forward, speaking in short phrases", "zh": "孩童坐直並向前傾，以短句說話"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A \"silent chest\" with absent breath sounds and minimal air movement represents status asthmaticus/severe obstruction and a lack of air exchange; it is an ominous sign that may be misinterpreted as improvement but actually signals impending respiratory failure. Loud wheezing, tachypnea with mild retractions, and tripod-type positioning are expected findings during an attack, not the most severe sign.",
+      "zh": "「寂靜胸」指呼吸音消失且幾乎沒有氣體流動，代表重度氣喘狀態/嚴重阻塞與換氣不足，是危險徵象，可能被誤判為病情改善，實際上預示即將發生呼吸衰竭。明顯喘鳴音、呼吸急促合併輕度凹陷及前傾坐姿屬於發作時的預期表現，並非最嚴重徵象。"
+    },
+    "pdf_pages": [508, 509],
+    "tags": ["recognize cues", "red flag", "asthma", "status asthmaticus"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A 7-year-old child arrives in the emergency department with an acute asthma exacerbation. Assessment reveals an oxygen saturation of 89%, respiratory rate of 38 breaths/min, use of accessory muscles, and the child speaking only one word at a time. What is the nurse's priority action?",
+      "zh": "一名 7 歲孩童因急性氣喘發作至急診就診，評估發現血氧飽和度 89%、呼吸速率每分鐘 38 次、使用呼吸輔助肌，且孩童只能一次說一個字。護理師的優先行動為何？"
+    },
+    "options": [
+      {"en": "Obtain a peak expiratory flow rate measurement before any treatment is given", "zh": "在給予任何治療前先測量尖峰呼氣流速"},
+      {"en": "Administer the prescribed quick-relief bronchodilator and humidified oxygen", "zh": "給予醫囑開立的速效支氣管擴張劑並提供濕潤氧氣"},
+      {"en": "Prepare the child for an immediate chest radiograph", "zh": "準備為孩童立即安排胸部 X 光檢查"},
+      {"en": "Draw a blood sample for arterial blood gas analysis", "zh": "抽血進行動脈血液氣體分析"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "With hypoxemia and significant respiratory distress, the priority is to relieve bronchospasm and correct hypoxemia by administering the prescribed quick-relief (rescue) medication and humidified oxygen. Peak flow measurement is unreliable and potentially unsafe during severe distress, and chest radiograph and arterial blood gas sampling, while useful, are not the first priority.",
+      "zh": "面對低血氧及明顯呼吸窘迫，優先應給予醫囑的速效（急救）藥物及濕潤氧氣，以緩解支氣管痙攣並矯正低血氧。嚴重呼吸窘迫時測量尖峰呼氣流速不可靠且可能不安全，胸部 X 光與動脈血液氣體分析雖有用，但並非第一優先。"
+    },
+    "pdf_pages": [509],
+    "tags": ["priority", "first action", "asthma"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is teaching the parent of a child newly prescribed a long-acting beta-adrenergic agonist (LABA) inhaler for asthma. Which statement by the parent indicates understanding of the teaching?",
+      "zh": "護理師針對新開立長效型乙型腎上腺素受體促進劑（LABA）吸入劑的氣喘孩童向家長進行指導，家長的下列哪項陳述顯示已理解指導內容？"
+    },
+    "options": [
+      {"en": "\"I'll use the LABA alone for quick relief during an asthma attack.\"", "zh": "「氣喘發作時我會單獨使用 LABA 來快速緩解症狀。」"},
+      {"en": "\"The LABA will always be given together with an inhaled corticosteroid.\"", "zh": "「LABA 一定會與吸入性類固醇一起使用。」"},
+      {"en": "\"Once her symptoms improve, we can stop the inhaled corticosteroid but keep giving the LABA.\"", "zh": "「等她症狀改善後，我們可以停用吸入性類固醇，但繼續使用 LABA。」"},
+      {"en": "\"The LABA works right away to stop wheezing during a sudden attack.\"", "zh": "「LABA 可以在突然發作時立刻止住喘鳴。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "LABAs are long-term control (preventer) medications, not rescue medications, and must not be given without a concurrent inhaled corticosteroid because of the risk for rebound bronchoconstriction. A statement showing the LABA will always be paired with an inhaled corticosteroid demonstrates correct understanding.",
+      "zh": "LABA 屬於長期控制（預防性）藥物，而非急救藥物，且不可在未併用吸入性類固醇的情況下單獨使用，因有反彈性支氣管收縮的風險。家長表示 LABA 一定會與吸入性類固醇併用，顯示其理解正確。"
+    },
+    "pdf_pages": [509, 510],
+    "tags": ["evaluation", "teaching", "medications", "asthma"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A sweat chloride test is performed on a 4-month-old infant being evaluated for cystic fibrosis. The result is 68 mEq/L. How should the nurse interpret this finding?",
+      "zh": "為一名疑似患有囊性纖維化的 4 個月大嬰兒進行汗液氯化物測試，結果為 68 mEq/L，護理師應如何判讀此結果？"
+    },
+    "options": [
+      {"en": "A normal result; cystic fibrosis is unlikely", "zh": "正常結果，罹患囊性纖維化的可能性低"},
+      {"en": "A positive result, consistent with a diagnosis of cystic fibrosis", "zh": "陽性結果，與囊性纖維化診斷一致"},
+      {"en": "A borderline result requiring a repeat test in several weeks", "zh": "邊緣值結果，需於數週後重新檢測"},
+      {"en": "A falsely elevated result because the infant is older than 3 months", "zh": "因嬰兒已超過 3 個月大，此為假性升高的結果"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A normal sweat chloride concentration is less than 40 mEq/L. A concentration greater than 60 mEq/L is a positive result (in infants younger than 3 months, a level higher than 40 mEq/L is diagnostic). Values of 40-60 mEq/L are highly suggestive and require a repeat test. Because this infant is older than 3 months and the result of 68 mEq/L exceeds 60 mEq/L, it is a positive result.",
+      "zh": "正常汗液氯化物濃度低於 40 mEq/L；濃度大於 60 mEq/L 為陽性結果（未滿 3 個月的嬰兒，若濃度高於 40 mEq/L 即具診斷意義）；40–60 mEq/L 則高度提示，需重新檢測。由於此嬰兒已超過 3 個月大，且結果 68 mEq/L 超過 60 mEq/L，應判讀為陽性結果。"
+    },
+    "pdf_pages": [510, 511],
+    "tags": ["labs", "dosage calc", "cystic fibrosis"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse teaches the parent of a child with cystic fibrosis about pancreatic enzyme replacement therapy. Which statement by the parent indicates the need for further teaching?",
+      "zh": "護理師針對囊性纖維化孩童的胰臟酵素替代療法向家長進行指導，家長的下列哪項陳述顯示需要再加強教導？"
+    },
+    "options": [
+      {"en": "\"I will give the enzymes within 30 minutes before each meal and snack.\"", "zh": "「我會在每次正餐及點心前 30 分鐘內給予酵素。」"},
+      {"en": "\"If she isn't taking anything by mouth, I'll still give the enzymes on her regular schedule.\"", "zh": "「如果她禁食沒有經口進食，我還是會按平常時間給她酵素。」"},
+      {"en": "\"I can open the capsule and sprinkle the beads on a small amount of soft food, but I won't crush or chew them.\"", "zh": "「我可以打開膠囊，將裡面的顆粒撒在少量軟質食物上，但不會壓碎或咬碎它們。」"},
+      {"en": "\"I may need to give extra enzymes if she eats something high in fat.\"", "zh": "「如果她吃了高脂肪的食物，我可能需要多給一些酵素。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Pancreatic enzymes are given with all meals and snacks but are NOT given when the child is NPO, since there is no food to digest. Enzymes are administered within 30 minutes of eating, enteric-coated beads must not be crushed or chewed (though the capsule may be opened and beads sprinkled on soft food), and additional enzymes may be needed for high-fat foods.",
+      "zh": "胰臟酵素應於所有正餐及點心時給予，但若孩童禁食（NPO）則不應給予，因無食物可供消化。酵素應於進食前 30 分鐘內給予，腸溶衣顆粒不可壓碎或咬碎（可打開膠囊將顆粒撒在軟質食物上），若食用高脂肪食物則可能需增加劑量。"
+    },
+    "pdf_pages": [512],
+    "tags": ["evaluation", "teaching", "medications", "cystic fibrosis"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse teaches new parents about reducing the risk of sudden infant death syndrome (SIDS). Which statement by a parent indicates the need for further teaching?",
+      "zh": "護理師向新手父母進行降低嬰兒猝死症（SIDS）風險的指導，家長的下列哪項陳述顯示需要再加強教導？"
+    },
+    "options": [
+      {"en": "\"I will always place her on her back to sleep.\"", "zh": "「我會一直讓她以仰臥姿勢睡覺。」"},
+      {"en": "\"I'll keep a soft blanket and her favorite stuffed animal in the crib so she feels safe while sleeping.\"", "zh": "「我會在她的嬰兒床裡放一條軟毯和她最喜歡的填充玩偶，讓她睡覺時感到安心。」"},
+      {"en": "\"I won't smoke around her, and I'll ask others not to smoke near her.\"", "zh": "「我不會在她附近吸菸，也會請別人不要在她附近吸菸。」"},
+      {"en": "\"I'll give her some supervised time on her tummy while she's awake.\"", "zh": "「在她清醒時，我會讓她在有人監督下趴著一段時間。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Soft bedding and stuffed toys or other objects should be removed from the crib during sleep because they are a risk factor for SIDS and suffocation. Supine positioning for sleep, avoidance of tobacco smoke exposure, and supervised prone (\"tummy\") time while awake (which also helps prevent positional plagiocephaly) are all correct, appropriate teaching points.",
+      "zh": "睡眠時應將軟質寢具、填充玩偶等物品移出嬰兒床，因為這些是 SIDS 及窒息的風險因子。睡眠時採仰臥姿勢、避免暴露於菸害，以及清醒時在監督下進行俯臥（「趴著」）時間（亦有助於預防姿勢性斜頭畸形），皆為正確且適當的教導重點。"
+    },
+    "pdf_pages": [513],
+    "tags": ["evaluation", "teaching", "SIDS", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is at a playground when a 2-year-old child who was eating grapes suddenly stops making noise, cannot cough or speak, and begins to turn cyanotic. What is the nurse's priority action?",
+      "zh": "護理師在遊樂場目擊一名正在吃葡萄的 2 歲孩童突然停止發出聲音、無法咳嗽或說話，並開始出現發紺。護理師的優先行動為何？"
+    },
+    "options": [
+      {"en": "Encourage the child to cough forcefully to dislodge the object", "zh": "鼓勵孩童用力咳嗽以排出異物"},
+      {"en": "Perform back blows and chest thrusts as used for an infant", "zh": "採用嬰兒適用的背部拍擊及胸部按壓法"},
+      {"en": "Perform abdominal thrusts to attempt to relieve the obstruction", "zh": "施行腹部推擠法以嘗試解除阻塞"},
+      {"en": "Place the child supine and prepare for immediate endoscopy", "zh": "讓孩童平躺並準備立即進行內視鏡檢查"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "A child who cannot cough, speak, or make sound and is becoming cyanotic has a complete airway obstruction and needs immediate relief with abdominal thrust maneuvers, as used for choking in children (back blows/chest thrusts are the technique used for infants younger than 1 year). Encouraging coughing is appropriate only for a partial obstruction with an effective cough; emergency removal, not elective endoscopy, is the priority.",
+      "zh": "孩童若無法咳嗽、無法說話或發出聲音，且出現發紺，即表示呼吸道完全阻塞，須立即採用兒童適用的腹部推擠法解除阻塞（背部拍擊／胸部按壓法僅用於未滿 1 歲的嬰兒）。僅在部分阻塞且仍有有效咳嗽時才鼓勵咳嗽；當下應立即處理解除阻塞，而非安排非緊急的內視鏡檢查。"
+    },
+    "pdf_pages": [513, 514],
+    "tags": ["priority", "first action", "safety", "choking"]
+  }
+]

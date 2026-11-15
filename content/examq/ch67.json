@@ -1,0 +1,244 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client with a long history of heavy daily alcohol use was admitted 10 hours ago for an unrelated surgical procedure and has not had any alcohol since admission. The nurse notes a resting hand tremor, diaphoresis, and reports of anxiety. Which assessment finding would be most important for the nurse to report immediately to the primary health care provider?",
+      "zh": "一名有長期每日大量飲酒史的病人因非相關的外科手術於10小時前入院，入院後未再飲酒。護理師觀察到病人有手部靜止性顫抖、出汗及焦慮感。以下何項評估發現護理師應立即報告給主治醫師？"
+    },
+    "options": [
+      {"en": "Heart rate 118 beats/min and blood pressure 162/96 mm Hg", "zh": "心率118次/分，血壓162/96 mmHg"},
+      {"en": "Client report of mild nausea without vomiting", "zh": "病人主訴輕微噁心，無嘔吐"},
+      {"en": "Fine tremor of the hands when outstretched", "zh": "雙手伸直時出現細微顫抖"},
+      {"en": "Client request for extra blankets because of feeling cold", "zh": "病人要求加蓋毛毯，感覺寒冷"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Tachycardia and hypertension reflect escalating autonomic hyperactivity of alcohol withdrawal and require prompt provider notification because they may herald progression toward withdrawal seizures or delirium tremens. Mild nausea, fine tremor, and feeling cold are expected early withdrawal findings that do not by themselves indicate escalation.",
+      "zh": "心跳過速與高血壓反映酒精戒斷時自主神經過度活化的程度正在升高，需立即通報醫師，因為這可能是戒斷性癲癇發作或震顫性譫妄的前兆。輕微噁心、細微顫抖及畏寒則是早期戒斷常見的表現，本身並不代表病情惡化。"
+    },
+    "pdf_pages": [1080],
+    "tags": ["recognizing cues", "alcohol withdrawal", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client is admitted for treatment of alcohol withdrawal syndrome. Which nursing intervention is the priority for this client?",
+      "zh": "一名病人因酒精戒斷症候群入院治療。對此病人而言，下列何項護理措施為優先？"
+    },
+    "options": [
+      {"en": "Encourage the client to discuss the reasons for drinking", "zh": "鼓勵病人討論飲酒的原因"},
+      {"en": "Initiate seizure precautions and provide a quiet, low-stimulation environment", "zh": "執行癲癇發作防護措施，並提供安靜、低刺激的環境"},
+      {"en": "Teach the client about relapse-prevention support groups", "zh": "教導病人有關預防復發的支持團體資訊"},
+      {"en": "Obtain a thorough family history of alcohol use disorder", "zh": "詳細收集病人的酒精使用障礙家族史"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The priority in alcohol withdrawal is client safety; seizure precautions and a low-stimulation environment reduce the risk of seizures and withdrawal delirium. Education and history-taking are important but are not the immediate safety priority.",
+      "zh": "酒精戒斷的護理優先考量為病人安全；執行癲癇發作防護措施並提供低刺激環境可降低癲癇發作及戒斷性譫妄的風險。衛教與病史收集雖重要，但並非立即的安全優先事項。"
+    },
+    "pdf_pages": [1080, 1081],
+    "tags": ["priority", "safety", "alcohol withdrawal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a client in alcohol withdrawal. Which findings should alert the nurse that the client may be progressing to alcohol withdrawal delirium (delirium tremens)? Select all that apply.",
+      "zh": "護理師正在照顧一名酒精戒斷中的病人。下列哪些發現應提醒護理師病人可能正在進展為酒精戒斷性譫妄（震顫性譫妄）？（多選）"
+    },
+    "options": [
+      {"en": "Temperature 101.2°F (38.4°C)", "zh": "體溫101.2°F（38.4°C）"},
+      {"en": "Visual hallucinations of insects crawling on the skin", "zh": "視幻覺，感覺皮膚上有蟲子爬行"},
+      {"en": "Blood pressure 100/62 mm Hg", "zh": "血壓100/62 mmHg"},
+      {"en": "Fluctuating level of consciousness", "zh": "意識程度起伏不定"},
+      {"en": "Heart rate 128 beats/min", "zh": "心率128次/分"},
+      {"en": "Client sleeping soundly between vital sign checks", "zh": "病人在量測生命徵象之間安穩熟睡"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "Delirium tremens is characterized by fever, hallucinations, tachycardia, hypertension, and fluctuating level of consciousness. Hypotension and sound, undisturbed sleep are not consistent with this life-threatening complication.",
+      "zh": "震顫性譫妄的特徵包括發燒、幻覺、心跳過速、高血壓及意識程度起伏不定。低血壓與安穩不受干擾的睡眠並不符合此危及生命的併發症表現。"
+    },
+    "pdf_pages": [1080],
+    "tags": ["sata", "red flag", "delirium tremens"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client receiving methadone maintenance therapy reports missing the last two scheduled doses. Which findings would the nurse expect to assess as evidence of opioid withdrawal?",
+      "zh": "一名正在接受美沙酮維持治療的病人表示錯過了最近兩次預定劑量。護理師會預期評估到下列哪組發現作為類鴉片戒斷的證據？"
+    },
+    "options": [
+      {"en": "Dilated pupils, rhinorrhea, and piloerection", "zh": "瞳孔放大、流鼻水及豎毛反應"},
+      {"en": "Constricted pupils, bradycardia, and constipation", "zh": "瞳孔縮小、心搏過緩及便秘"},
+      {"en": "Hypotension, bradypnea, and drowsiness", "zh": "低血壓、呼吸過緩及嗜睡"},
+      {"en": "Elevated mood, dilated pupils, and hypertension", "zh": "情緒高漲、瞳孔放大及高血壓"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Opioid withdrawal produces sympathetic rebound: dilated pupils, rhinorrhea/lacrimation, piloerection, diarrhea, tremors, and yawning. Constricted pupils, bradycardia, hypotension, and bradypnea are signs of opioid intoxication/overdose, not withdrawal.",
+      "zh": "類鴉片戒斷會出現交感神經反彈現象：瞳孔放大、流鼻水／流淚、豎毛反應、腹瀉、顫抖及打呵欠。瞳孔縮小、心搏過緩、低血壓及呼吸過緩則是類鴉片中毒／過量的表現，而非戒斷。"
+    },
+    "pdf_pages": [1082],
+    "tags": ["recognizing cues", "opioid withdrawal"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is caring for a client who took an intentional overdose of a benzodiazepine and is minimally responsive with a respiratory rate of 8 breaths/min. The primary health care provider prescribes flumazenil. Which statement best describes the purpose of this medication?",
+      "zh": "護理師正在照顧一名故意服用過量苯二氮平類藥物的病人，病人反應極差，呼吸速率為8次/分。主治醫師開立了氟馬西尼（flumazenil）。下列何項描述最能說明此藥物的用途？"
+    },
+    "options": [
+      {"en": "It reverses the sedative effects of the benzodiazepine", "zh": "逆轉苯二氮平類藥物的鎮靜作用"},
+      {"en": "It prevents withdrawal seizures from abrupt benzodiazepine discontinuation", "zh": "預防因突然停用苯二氮平類藥物所引起的戒斷性癲癇發作"},
+      {"en": "It replaces the benzodiazepine during a tapering withdrawal protocol", "zh": "在減量戒斷方案中取代苯二氮平類藥物"},
+      {"en": "It treats the hypertension associated with CNS depressant withdrawal", "zh": "治療中樞神經抑制劑戒斷相關的高血壓"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Flumazenil is a benzodiazepine antagonist used to reverse sedation and respiratory depression in benzodiazepine overdose. It is not used to prevent withdrawal seizures and may precipitate seizures in a client who is benzodiazepine-dependent.",
+      "zh": "氟馬西尼是苯二氮平類拮抗劑，用於逆轉苯二氮平類藥物過量所引起的鎮靜及呼吸抑制。它並非用於預防戒斷性癲癇發作，對於苯二氮平類依賴的病人甚至可能誘發癲癇發作。"
+    },
+    "pdf_pages": [1081],
+    "tags": ["pharmacology", "overdose", "benzodiazepine"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client who has taken a benzodiazepine daily for several years asks the nurse why the primary health care provider is tapering the dose instead of stopping the medication immediately now that outpatient treatment has begun. Which response by the nurse is accurate?",
+      "zh": "一名已每日服用苯二氮平類藥物數年的病人問護理師，為何現在開始門診治療後，主治醫師是逐漸減量而不是立即停藥。下列護理師的回應何者正確？"
+    },
+    "options": [
+      {"en": "“Abruptly stopping this type of medication can cause life-threatening seizures.”", "zh": "「突然停用這類藥物可能導致危及生命的癲癇發作。」"},
+      {"en": "“Tapering prevents the development of psychological dependence.”", "zh": "「逐漸減量可以預防心理依賴的產生。」"},
+      {"en": "“Stopping suddenly would cause an allergic reaction.”", "zh": "「突然停藥會造成過敏反應。」"},
+      {"en": "“Tapering is only needed if you also drink alcohol.”", "zh": "「只有同時飲酒的情況下才需要逐漸減量。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Abrupt discontinuation of CNS depressants such as benzodiazepines after long-term use can cause life-threatening withdrawal seizures; a carefully titrated taper is required. Psychological dependence and allergy are not the reasons for tapering, and the need to taper is not limited to clients who also drink alcohol.",
+      "zh": "長期使用苯二氮平類等中樞神經抑制劑後突然停藥，可能引發危及生命的戒斷性癲癇發作，因此需要仔細調整劑量逐漸減量。心理依賴與過敏反應並非減量的原因，且逐漸減量的需求並不侵限於同時飲酒者。"
+    },
+    "pdf_pages": [1081],
+    "tags": ["safety", "benzodiazepine withdrawal", "patient teaching"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client is withdrawing from cocaine use. Which assessment finding is the priority for the nurse to address?",
+      "zh": "一名病人正在經歷古柯鹼戒斷。下列哪項評估發現是護理師應優先處理的？"
+    },
+    "options": [
+      {"en": "Increased appetite and fatigue", "zh": "食慾增加與疲倦"},
+      {"en": "Vivid, disturbing dreams", "zh": "鮮明且令人不安的夢境"},
+      {"en": "Statement, “Nothing matters anymore; I’d be better off dead”", "zh": "病人表示：「什麼都不重要了，我死了比較好。」"},
+      {"en": "Mild hand tremors", "zh": "輕微手部顫抖"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Stimulant withdrawal is frequently accompanied by severe depression and suicidal ideation, which is a life-threatening finding requiring immediate intervention such as suicide precautions. Fatigue, vivid dreams, and mild tremors are expected but lower-priority findings.",
+      "zh": "興奮劑戒斷常伴隨嚴重憂鬱與自殺意念，此為危及生命的發現，需立即採取如自殺防護措施等介入。疲倦、鮮明夢境及輕微顫抖雖為預期表現，但優先性較低。"
+    },
+    "pdf_pages": [1083],
+    "tags": ["priority", "stimulant withdrawal", "suicide risk"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client admits to drinking a six-pack of beer daily and becomes defensive when the nurse begins to ask about substance use. Which initial statement by the nurse is most therapeutic?",
+      "zh": "一名病人承認每日飲用六罐裝啤酒，當護理師開始詢問物質使用情形時變得有防衛心。下列護理師的開場陳述何者最具治療性？"
+    },
+    "options": [
+      {"en": "“Why do you think you need that much alcohol every day?”", "zh": "「你覺得為什麼你每天需要喝這麼多酒？」"},
+      {"en": "“I need to ask you some direct questions about your alcohol use so I can plan your care.”", "zh": "「我需要直接問你一些關於飲酒情況的問題，以便規劃你的照護計畫。」"},
+      {"en": "“Drinking that much every day will destroy your liver.”", "zh": "「每天喝這麼多酒會毀掉你的肝臟。」"},
+      {"en": "“Let’s talk about something else until you’re ready to be honest.”", "zh": "「我們先聊別的，等你準備好說實話再談。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A nonjudgmental, direct explanation of purpose builds trust and keeps the focus on care planning. Asking “why” is judgmental and puts the client on the defensive, warning of consequences is nontherapeutic, and avoiding the topic communicates passivity and implies the client is lying.",
+      "zh": "以不帶評判、直接說明目的的方式能建立信任並讓焦點維持在照護規劃上。詢問「為什麼」帶有評判意味，會使病人更具防衛心；警告後果不具治療性；迴避話題則顯示被動態度，且暗示病人在說謊。"
+    },
+    "pdf_pages": [1079],
+    "tags": ["therapeutic communication", "substance use assessment"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse is caring for a client in the early stage of alcohol withdrawal who is stable with only mild hand tremors. Which task can the nurse safely delegate to the unlicensed assistive personnel (UAP)?",
+      "zh": "護理師正在照顧一名處於酒精戒斷早期、僅有輕微手部顫抖且狀況穩定的病人。護理師可以安全委派給無執照輔助人員（UAP）的任務是下列何項？"
+    },
+    "options": [
+      {"en": "Assessing the client for auditory hallucinations", "zh": "評估病人是否有聽幻覺"},
+      {"en": "Measuring and recording vital signs at the directed frequency and reporting changes to the nurse", "zh": "依指示頻率測量並記錄生命徵象，並將變化回報給護理師"},
+      {"en": "Determining whether an as-needed medication is indicated", "zh": "判斷是否需要給予必要時（PRN）藥物"},
+      {"en": "Teaching the client about relapse-prevention resources", "zh": "教導病人有關預防復發的資源"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Measuring and recording vital signs at a directed frequency is within UAP scope of practice when the client is stable. Assessment, clinical judgment about medication administration, and client teaching require the education and scope of a licensed nurse.",
+      "zh": "當病人狀況穩定時，依指示頻率測量並記錄生命徵象屬於UAP的職責範圍。評估、關於用藥的臨床判斷以及病人衛教，則需要具執照護理師的專業訓練與職責範圍。"
+    },
+    "pdf_pages": [1080],
+    "tags": ["delegation", "alcohol withdrawal"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A client with a long history of alcohol use disorder is admitted with confusion, ataxia, and nystagmus. The nurse anticipates that the primary health care provider will prescribe which treatment first, before administering glucose-containing fluids?",
+      "zh": "一名有長期酒精使用障礙病史的病人因意識混亂、步態不穩及眼球震顫入院。在給予含葡萄糖的輸液之前，護理師預期主治醫師會先開立下列何種治療？"
+    },
+    "options": [
+      {"en": "Intravenous thiamine", "zh": "靜脈注射維生素B1（thiamine）"},
+      {"en": "Oral folic acid", "zh": "口服葉酸"},
+      {"en": "Intravenous dextrose alone, without other supplementation", "zh": "單純靜脈注射葡萄糖，不加其他補充"},
+      {"en": "A benzodiazepine taper", "zh": "苯二氮平類藥物逐漸減量"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Confusion, ataxia, and abnormal eye movements suggest Wernicke's encephalopathy from thiamine deficiency. Thiamine is given before or with glucose-containing fluids because glucose alone can precipitate or worsen Wernicke's encephalopathy in a thiamine-deficient client.",
+      "zh": "意識混亂、步態不穩及異常眼球運動提示因維生素B1缺乏所致的威尼克氏腦病（Wernicke's encephalopathy）。應在給予含葡萄糖的輸液之前或同時給予維生素B1，因為單純補充葡萄糖可能誘發或加重維生素B1缺乏病人的威尼克氏腦病。"
+    },
+    "pdf_pages": [1080],
+    "tags": ["potential complications", "alcohol use disorder", "Wernicke"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "A charge nurse notices that a coworker frequently volunteers to carry the unit's opioid access keys, consistently reports wasting opioid doses without a witness, and has clients who report poor pain relief despite documentation of maximum prescribed doses being given. What is the charge nurse's most appropriate initial action?",
+      "zh": "護理長注意到一名同事經常主動要求攜帶單位的類鴉片藥品鑰匙，持續在未經他人見證的情況下報告藥物廢棄，且其照護的病人儘管記錄上已給予最大處方劑量，仍反映止痛效果不佳。護理長最適當的初步行動是下列何項？"
+    },
+    "options": [
+      {"en": "Confront the coworker directly and ask if they are using drugs", "zh": "直接當面質問該同事是否使用藥物"},
+      {"en": "Document the observations and report the concerns through the facility's established reporting process", "zh": "記錄觀察到的情況，並透過機構既定的報告流程通報相關疑慮"},
+      {"en": "Say nothing until there is absolute proof of diversion", "zh": "在沒有絕對證據證明藥物挪用前保持沉默"},
+      {"en": "Reassign the coworker to a unit with less access to controlled substances without explanation", "zh": "未加說明地將該同事調派至管制藥品取得機會較少的單位"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Nurses have a professional and ethical obligation to report suspected impaired or diverting coworkers through established channels; documentation and formal reporting protect the client, the coworker, and the organization, and allow trained personnel to investigate. Direct confrontation, silence, and unexplained reassignment are not appropriate or protective actions.",
+      "zh": "護理人員對疑似受損或有藥物挪用行為的同事，負有專業與倫理義務透過既定管道通報；記錄並正式通報可保護病人、同事及機構，並讓受過訓練的人員進行調查。直接質問、保持沉默或未加說明的調派皆非恰當或具保護性的作法。"
+    },
+    "pdf_pages": [1085],
+    "tags": ["legal/ethical", "impaired nurse", "management of care"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The nurse is meeting with the spouse of a client with alcohol use disorder. Which statement by the spouse best indicates a codependent pattern of behavior?",
+      "zh": "護理師正在與一名酒精使用障礙病人的配偶會談。配偶的下列陳述何者最能顯示出共依附（codependent）行為模式？"
+    },
+    "options": [
+      {"en": "“I stopped calling in sick for him when he’s too hungover to go to work.”", "zh": "「當他宿醉嚴重無法上班時，我已經不再幫他打電話請病假了。」"},
+      {"en": "“I told him I won’t bail him out of jail again if he gets arrested for drinking.”", "zh": "「我告訴他如果再因酗酒被捕，我不會再去把他保出來了。」"},
+      {"en": "“I call his boss and say he has the flu whenever he’s too drunk to go to work.”", "zh": "「每當他醉到無法上班時，我就打電話給他的老闆說他得了流感。」"},
+      {"en": "“I’ve started attending my own support group for families of people with addiction.”", "zh": "「我已經開始參加自己專屬的成癮者家屬支持團體。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Codependency involves enabling behaviors that allow the person with addiction to avoid the consequences of their use, such as covering for missed work. Statements 1, 2, and 4 reflect healthier boundary-setting and self-care, not codependency.",
+      "zh": "共依附行為包含使成癮者得以逃避其使用後果的「助長」行為，例如替其曠工找理由掩飾。陳述1、2與4則反映出較健康的界線設定與自我照顧，而非共依附。"
+    },
+    "pdf_pages": [1079],
+    "tags": ["codependency", "family dynamics"]
+  }
+]

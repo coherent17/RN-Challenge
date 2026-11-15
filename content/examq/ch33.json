@@ -1,0 +1,264 @@
+[
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A mother calls the pediatric clinic and reports that her 3-week-old infant feels warm. The axillary temperature is 38.1°C (100.6°F). Which action should the nurse instruct the mother to take?",
+      "zh": "一位母親打電話到小兒科門診，說她3週大的嬰兒摸起來很燙，腋溫為38.1°C（100.6°F）。護理師應指導母親採取下列哪項行動？"
+    },
+    "options": [
+      {"en": "Give acetaminophen and recheck the temperature in 1 hour.", "zh": "給予乙醯胺酚（acetaminophen）並於1小時後回測體溫。"},
+      {"en": "Apply a cool compress to the forehead and observe for improvement at home.", "zh": "於額頭敷涼毛巾，在家觀察是否改善。"},
+      {"en": "Bring the infant to be evaluated by the primary health care provider immediately.", "zh": "立即將嬰兒送至醫療照護提供者處評估。"},
+      {"en": "Remove extra blankets, offer additional fluids, and call back if the fever persists.", "zh": "移除多餘毯子，補充液體，若發燒持續再回電。"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Fever in an infant younger than 1 month old is considered an emergency because of the risk of serious bacterial infection, so the infant needs to be evaluated by the primary health care provider immediately. Antipyretics and home cooling measures are not substitutes for prompt evaluation in this age group.",
+      "zh": "未滿1個月的嬰兒發燒被視為緊急狀況，因有嚴重細菌感染之風險，須立即由醫療照護提供者評估嬰兒。此年齡層不應以退熱藥或居家降溫措施取代立即就醫評估。"
+    },
+    "pdf_pages": [465],
+    "tags": ["red flag", "priority", "first action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse assesses four toddlers who were admitted with vomiting and diarrhea. Which finding is most concerning and requires the most immediate action?",
+      "zh": "護理師正評估4位因嘔吐與腹瀉入院的幼兒。下列哪項發現最令人擔憂，需要最立即的處置？"
+    },
+    "options": [
+      {"en": "Capillary refill of 3 seconds and dry mucous membranes", "zh": "微血管再充填3秒、黏膜乾燥"},
+      {"en": "Capillary refill greater than 4 seconds with mottled, cool skin and skin tenting", "zh": "微血管再充填超過4秒，皮膚斑駁、冰冷且出現皮膚帳篷徵象"},
+      {"en": "Slightly increased pulse rate with increased thirst", "zh": "脈搏稍微增快、口渴感增加"},
+      {"en": "Urine specific gravity of 1.022", "zh": "尿液比重1.022"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Capillary refill greater than 4 seconds with mottled, cool skin and tenting are signs of severe dehydration and impending shock, requiring the most immediate intervention. The other findings reflect mild to moderate dehydration.",
+      "zh": "微血管再充填超過4秒、皮膚斑駁冰冷並有帳篷徵象是嚴重脫水及即將發生休克的徵象，需要最立即的處置；其他選項反映輕度至中度脫水。"
+    },
+    "pdf_pages": [465, 466],
+    "tags": ["priority", "recognize cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A nurse teaches the parent of a 2-year-old with mild dehydration from vomiting about oral rehydration at home. Which statement by the parent indicates the need for further teaching?",
+      "zh": "護理師指導一位2歲因嘔吐而輕度脫水幼兒的家長在家進行口服補液。家長下列哪項陳述顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will offer small, frequent sips of an oral rehydration solution.\"", "zh": "「我會少量多次地給她喝口服電解質補液。」"},
+      {"en": "\"I will give her apple juice because she likes the taste better.\"", "zh": "「我會給她喝蘋果汁，因為她比較喜歡那個口味。」"},
+      {"en": "\"I will avoid carbonated drinks because they can cause gas.\"", "zh": "「我會避免給她喝碳酸飲料，因為那會讓她脹氣。」"},
+      {"en": "\"I will call the doctor if she is not urinating as often as usual.\"", "zh": "「如果她排尿次數變少，我會打電話通知醫生。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "High-sugar fluids such as apple juice are avoided during rehydration because the high sugar content can worsen diarrhea; carbonated beverages are also avoided because they are gas-producing. Oral rehydration solution in small, frequent amounts and monitoring urine output are appropriate.",
+      "zh": "補液期間應避免蘋果汁等高糖飲料，因高糖會使腹瀉加劇；碳酸飲料也應避免，因會產氣。少量多次給予口服電解質補液並監測尿量才是正確做法。"
+    },
+    "pdf_pages": [466],
+    "tags": ["teaching", "evaluate outcomes"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A newborn had an initial phenylketonuria (PKU) screening performed at 20 hours of age, before hospital discharge. The nurse should plan for the infant to be rescreened by which age?",
+      "zh": "一名新生兒於出生後20小時（出院前）完成了第一次苯酮尿症（PKU）篩檢。護理師應規劃該嬰兒於幾歲前完成複檢？"
+    },
+    "options": [
+      {"en": "48 hours of age", "zh": "出生48小時"},
+      {"en": "7 days of age", "zh": "出生7天"},
+      {"en": "14 days of age", "zh": "出生14天"},
+      {"en": "1 month of age", "zh": "出生1個月"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "If the initial PKU screening was performed before the infant was 24 hours old, the newborn needs to be rescreened by 14 days of age because early feeding and specimen timing can affect accuracy of the initial result.",
+      "zh": "若第一次PKU篩檢是在嬰兒出生24小時內完成，則須在出生14天內完成複檢，因為早期進食及採樣時間可能影響初次結果的準確性。"
+    },
+    "pdf_pages": [467],
+    "tags": ["screening", "timing"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching the parents of an infant newly diagnosed with phenylketonuria (PKU) about dietary management. Which statement by a parent requires further teaching?",
+      "zh": "護理師正在教導一名新診斷為苯酮尿症（PKU）嬰兒的父母飲食管理。家長下列哪項陳述顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"We will use the special low-phenylalanine formula instead of regular infant formula.\"", "zh": "「我們會使用特殊的低苯丙胺酸配方奶，而不是一般嬰兒配方奶。」"},
+      {"en": "\"Once she starts solid foods, meats and dairy products will need to be limited.\"", "zh": "「等她開始吃副食品後，肉類和乳製品需要限制。」"},
+      {"en": "\"Diet soda is fine for her as a treat because sugar is the only thing we need to worry about.\"", "zh": "「我們可以給她喝無糖汽水當獎勵，因為我們只需要擔心糖的問題。」"},
+      {"en": "\"We will keep every follow-up appointment so her phenylalanine level can be checked.\"", "zh": "「我們會按時回診，讓她的苯丙胺酸濃度可以被追蹤檢查。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Foods and drinks containing the artificial sweetener aspartame must also be avoided because aspartame contains phenylalanine; sugar content alone is not the concern for a child with PKU. The other statements reflect correct understanding of PKU dietary management.",
+      "zh": "含人工甜味劑aspartame的食品與飲料也必須避免，因為aspartame含有苯丙胺酸；對PKU孩童而言，糖的含量並非唯一需注意之處。其他陳述皆反映對PKU飲食管理的正確理解。"
+    },
+    "pdf_pages": [466, 467],
+    "tags": ["teaching", "nutrition"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A school nurse calculates body mass index (BMI) percentiles for several students aged 2 to 20 years during yearly screening. Which BMI percentile value would the nurse classify as obese?",
+      "zh": "校護在年度健康檢查中為幾位2至20歲的學生計算身體質量指數（BMI）百分位。護理師應將下列哪個百分位值歸類為肥胖？"
+    },
+    "options": [
+      {"en": "70th percentile", "zh": "第70百分位"},
+      {"en": "82nd percentile", "zh": "第82百分位"},
+      {"en": "90th percentile", "zh": "第90百分位"},
+      {"en": "97th percentile", "zh": "第97百分位"}
+    ],
+    "answer": [3],
+    "rationale": {
+      "en": "Overweight is defined as a BMI at or above the 85th percentile but below the 95th percentile; obesity is defined as a BMI greater than the 95th percentile. A value at the 90th percentile falls in the overweight range, while the 97th percentile meets the definition of obesity.",
+      "zh": "過重定義為BMI介於第85百分位以上但低於第95百分位；肥胖則定義為BMI大於第95百分位。第90百分位屬於過重範圍，而第97百分位則符合肥胖的定義。"
+    },
+    "pdf_pages": [467],
+    "tags": ["screening", "calculation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is reviewing the pathophysiology of diabetes mellitus with a nursing student. Which statement about type 1 diabetes mellitus is accurate?",
+      "zh": "護理師正與護理學生複習糖尿病的病理生理學。下列關於第1型糖尿病的陳述哪項正確？"
+    },
+    "options": [
+      {"en": "\"It results from insulin resistance combined with a relative insulin deficiency.\"", "zh": "「它是由胰島素抗性合併相對性胰島素不足所引起。」"},
+      {"en": "\"It is caused by destruction of the pancreatic beta cells, resulting in an absolute insulin deficiency.\"", "zh": "「它是由胰臟β細胞被破壞所引起，導致絕對性胰島素缺乏。」"},
+      {"en": "\"Being overweight is the number one risk factor for developing this type of diabetes.\"", "zh": "「過重是導致這類糖尿病的首要風險因子。」"},
+      {"en": "\"It can typically be managed with oral antihyperglycemic agents alone.\"", "zh": "「這類糖尿病通常可單獨以口服降血糖藥物治療。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Type 1 diabetes mellitus is characterized by destruction of the pancreatic beta cells that produce insulin, resulting in absolute insulin deficiency and the need for exogenous insulin. Insulin resistance with relative deficiency and an association with overweight describe type 2 diabetes.",
+      "zh": "第1型糖尿病的特徵是分泌胰島素的胰臟β細胞遭到破壞，導致絕對性胰島素缺乏，需要外源性胰島素治療。胰島素抗性合併相對性缺乏及與過重相關則是第2型糖尿病的特徵。"
+    },
+    "pdf_pages": [467],
+    "tags": ["pathophysiology"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is assigned to care for four children with type 1 diabetes mellitus. Which child should the nurse assess first?",
+      "zh": "護理師被分配照護4位第1型糖尿病患童。下列哪位孩童護理師應優先評估？"
+    },
+    "options": [
+      {"en": "A child with a blood glucose level of 150 mg/dL (8.3 mmol/L) before lunch", "zh": "午餐前血糖值為150 mg/dL（8.3 mmol/L）的孩童"},
+      {"en": "A child reporting abdominal pain, deep rapid (Kussmaul) respirations, and a fruity breath odor", "zh": "主訴腹痛、深而快速的呼吸（Kussmaul呼吸）且呼氣帶有水果味的孩童"},
+      {"en": "A child whose most recent glycosylated hemoglobin (HbA1c) is 6.5%", "zh": "最近一次糖化血色素（HbA1c）為6.5%的孩童"},
+      {"en": "A child who ate only half of a lunch tray after receiving the prescribed insulin dose", "zh": "注射完醫囑胰島素後只吃了半份午餐的孩童"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Abdominal pain, Kussmaul respirations, and a fruity (acetone) breath odor are classic manifestations of diabetic ketoacidosis, a life-threatening complication, and this child needs to be assessed first. The other findings are within or close to expected ranges or require only routine follow-up.",
+      "zh": "腹痛、Kussmaul呼吸及呼氣帶有水果（丙酮）味是糖尿病酮酸中毒的典型表現，屬危及生命的併發症，此孩童須優先評估。其他發現皆在預期範圍內或僅需常規追蹤。"
+    },
+    "pdf_pages": [469, 470],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A 10-year-old with type 1 diabetes mellitus has a fingerstick blood glucose level of 58 mg/dL (3.2 mmol/L), is alert, is able to swallow safely, and reports feeling shaky and hungry. Which actions should the nurse take? Select all that apply.",
+      "zh": "一名有第1型糖尿病的10歲孩童，指尖血糖測得58 mg/dL（3.2 mmol/L），意識清楚且可安全吞嚥，主訴感到顫抖與飢餓。護理師應採取下列哪些行動？（多選）"
+    },
+    "options": [
+      {"en": "Give ½ cup of fruit juice or another fast-acting source of carbohydrate immediately.", "zh": "立即給予半杯果汁或其他快速吸收的碳水化合物。"},
+      {"en": "Administer the prescribed glucagon by subcutaneous injection right now.", "zh": "立即以皮下注射方式給予醫囑之升糖素（glucagon）。"},
+      {"en": "Follow the fast-acting carbohydrate with a complex carbohydrate and protein snack once the child's symptoms improve.", "zh": "待孩童症狀改善後，接著給予含複合碳水化合物與蛋白質的點心。"},
+      {"en": "Recheck the blood glucose level after the fast-acting carbohydrate is given to confirm that it is rising.", "zh": "給予快速吸收碳水化合物後，回測血糖值以確認血糖是否上升。"},
+      {"en": "Encourage the child to walk around to help use up the excess glucose.", "zh": "鼓勵孩童走動，以幫助消耗多餘的血糖。"},
+      {"en": "Withhold the child's next scheduled insulin dose for the next 24 hours.", "zh": "暫停孩童接下來24小時的胰島素劑量。"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {
+      "en": "For a conscious, alert child who can swallow safely, treatment of hypoglycemia begins with a rapid-releasing source of glucose, followed by a complex carbohydrate and protein snack, with the blood glucose level rechecked to confirm response. Glucagon is reserved for a child who is unconscious or unable to take anything orally. Activity lowers blood glucose further and should be avoided during a hypoglycemic episode. Insulin is not broadly withheld for 24 hours.",
+      "zh": "對意識清楚、可安全吞嚥的孩童，低血糖的處理應先給予快速吸收的葡萄糖來源，接著給予含複合碳水化合物與蛋白質的點心，並回測血糖以確認反應。升糖素僅用於意識不清或無法經口進食的孩童。活動會使血糖進一步下降，低血糖發作期間應避免；胰島素也不應因此暫停24小時。"
+    },
+    "pdf_pages": [469, 470, 471],
+    "tags": ["sata", "hypoglycemia", "take action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A parent of a child with type 1 diabetes mellitus calls the clinic because the child has a stomach virus, is not eating well, and has moderate ketones in the urine. Which statement by the parent shows correct understanding of sick-day management?",
+      "zh": "一位第1型糖尿病患童的家長打電話至門診，說孩子得了腸胃炎、食慾不佳，且尿液中出現中度酮體。家長下列哪項陳述顯示正確理解病日照護原則？"
+    },
+    "options": [
+      {"en": "\"I will hold today's insulin dose since she isn't eating well.\"", "zh": "「因為她吃得不好，我今天會暫停胰島素。」"},
+      {"en": "\"I will give her the insulin as prescribed and call back if the vomiting continues.\"", "zh": "「我會按醫囑給她胰島素，如果她持續嘔吐會再回電。」"},
+      {"en": "\"Since the ketone test is already positive, I'll wait until tomorrow to test again.\"", "zh": "「因為酮體已經是陽性，我明天再測就好。」"},
+      {"en": "\"I will limit her fluids until the vomiting stops.\"", "zh": "「在她停止嘔吐前，我會限制她喝水。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "During illness, insulin is always given as prescribed even if the child's appetite is poor, because illness increases the need for insulin and withholding it can lead to hyperglycemia and ketoacidosis. Urinary ketones are tested with each voiding during illness, and liquids are encouraged (not restricted) to help clear ketones.",
+      "zh": "生病期間即使食慾不佳，仍應依醫囑給予胰島素，因疾病會增加胰島素需求，若暫停可能導致高血糖及酮酸中毒。生病期間應每次排尿都測試尿酮，並鼓勵（而非限制）攝取液體以幫助清除酮體。"
+    },
+    "pdf_pages": [471],
+    "tags": ["teaching", "sick day rules"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse is caring for a child newly diagnosed with type 1 diabetes mellitus. Which task is appropriate for the nurse to delegate to unlicensed assistive personnel (UAP)?",
+      "zh": "護理師正在照護一名新診斷第1型糖尿病的孩童。下列哪項任務適合護理師委派給無執照輔助人員（UAP）執行？"
+    },
+    "options": [
+      {"en": "Teaching the parents how to draw up and inject insulin", "zh": "教導家長如何抽取及注射胰島素"},
+      {"en": "Interpreting the child's fingerstick blood glucose result and determining the insulin dose", "zh": "判讀孩童的指尖血糖結果並決定胰島素劑量"},
+      {"en": "Obtaining and recording the child's weight and routine vital signs", "zh": "測量並記錄孩童的體重與常規生命徵象"},
+      {"en": "Instructing the family on how to recognize signs of hypoglycemia and hyperglycemia", "zh": "指導家庭如何辨識低血糖與高血糖的徵象"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Obtaining and recording weight and routine vital signs is within the scope of UAP and does not require nursing judgment. Patient/family teaching and interpreting glucose results to determine a dose require the knowledge and clinical judgment of the licensed nurse and cannot be delegated.",
+      "zh": "測量並記錄體重及常規生命徵象屬於UAP的職責範圍，不需要護理判斷。而病人／家屬教學以及判讀血糖結果以決定劑量，皆需要護理人員的專業知識與臨床判斷，不可委派。"
+    },
+    "pdf_pages": [468],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A prescription is written for an IV solution containing 20 mEq of potassium chloride for a 4-year-old being treated for diabetic ketoacidosis. Before administering the potassium chloride, which assessment is the priority?",
+      "zh": "醫囑開立含20 mEq氯化鉀的靜脈輸液，用於治療一名4歲糖尿病酮酸中毒的孩童。在給予氯化鉀之前，下列哪項評估為優先？"
+    },
+    "options": [
+      {"en": "Confirming that the child has voided and has adequate urine output", "zh": "確認孩童已排尿且尿量足夠"},
+      {"en": "Measuring the child's abdominal girth", "zh": "測量孩童的腹圍"},
+      {"en": "Checking the child's pupillary response", "zh": "檢查孩童的瞳孔反應"},
+      {"en": "Reviewing the child's most recent hemoglobin level", "zh": "查閱孩童最近一次的血紅素數值"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Potassium chloride is never administered intravenously in the presence of oliguria or anuria, because impaired renal excretion can lead to dangerous hyperkalemia. The child must be voiding adequately with sufficient renal function confirmed before potassium is infused.",
+      "zh": "氯化鉀絕不可在少尿或無尿的狀況下靜脈給予，因腎臟排泄功能受損可能導致危險的高血鉀。給予鉀之前必須確認孩童已有足夠排尿及腎功能。"
+    },
+    "pdf_pages": [466, 471],
+    "tags": ["priority", "dosage", "electrolytes"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "During a follow-up visit, the nurse reviews a 9-year-old's glycosylated hemoglobin (HbA1c) result of 9.2%. What is the most appropriate interpretation by the nurse?",
+      "zh": "在一次回診中，護理師查看一名9歲孩童的糖化血色素（HbA1c）結果為9.2%。護理師最適當的解讀為下列何者？"
+    },
+    "options": [
+      {"en": "This result is within the expected reference range and reflects excellent long-term glycemic control.", "zh": "此結果在正常參考範圍內，顯示長期血糖控制良好。"},
+      {"en": "This result is above the reference interval and suggests poor glycemic control over the past several months.", "zh": "此結果高於參考範圍，顯示過去數月血糖控制不佳。"},
+      {"en": "This result reflects only the blood glucose level on the day of the test and gives no information about long-term control.", "zh": "此結果僅反映檢測當天的血糖值，無法提供長期控制的資訊。"},
+      {"en": "This result cannot be interpreted without a same-day fasting blood glucose level drawn at the same visit.", "zh": "若無同日空腹血糖值，此結果無法被解讀。"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The reference interval for HbA1c is less than 6%. A result of 9.2% is above this reference interval and reflects poor glycemic control over approximately the preceding 3 months, since HbA1c is monitored every 3 months to evaluate long-term control, not a single day's glucose level.",
+      "zh": "HbA1c的參考範圍為低於6%。9.2%高於此參考範圍，顯示過去約3個月的血糖控制不佳；HbA1c每3個月監測一次，用以評估長期控制狀況，而非單日血糖值。"
+    },
+    "pdf_pages": [469],
+    "tags": ["labs", "interpretation"]
+  }
+]

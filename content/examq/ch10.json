@@ -1,0 +1,230 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is reviewing morning laboratory results for a client receiving maintenance digoxin therapy. Which result requires immediate notification of the primary health care provider (PHCP)?", "zh": "護理師正在檢視一位接受維持性毛地黃（digoxin）治療病人的晨間檢驗結果。下列哪項結果需立即通知主治醫師（PHCP）？"},
+    "options": [
+      {"en": "Potassium 3.1 mEq/L (3.1 mmol/L)", "zh": "鉀 3.1 mEq/L（3.1 mmol/L）"},
+      {"en": "Sodium 138 mEq/L (138 mmol/L)", "zh": "鈉 138 mEq/L（138 mmol/L）"},
+      {"en": "Blood urea nitrogen 18 mg/dL (6.4 mmol/L)", "zh": "血尿素氮 18 mg/dL（6.4 mmol/L）"},
+      {"en": "Platelet count 210,000 mm3 (210 × 10^9/L)", "zh": "血小板計數 210,000 mm3（210 × 10^9/L）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The normal serum potassium level is 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L). A potassium level of 3.1 mEq/L is below normal and places a client receiving digoxin at increased risk for digoxin toxicity and dysrhythmias; this critical value requires immediate notification. The remaining values are within normal limits.", "zh": "正常血清鉀濃度為 3.5 至 5.0 mEq/L（3.5 至 5.0 mmol/L）。鉀濃度 3.1 mEq/L 低於正常值，會使接受毛地黃治療的病人發生毛地黃毒性反應與心律不整的風險增加；此危急值需立即通報。其餘數值均在正常範圍內。"},
+    "pdf_pages": [147, 148],
+    "tags": ["labs", "red flag", "critical value"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is receiving a continuous intravenous heparin infusion for treatment of a pulmonary embolism. The activated partial thromboplastin time (aPTT) result is 110 seconds. Which is the priority nursing action?", "zh": "一位病人因肺栓塞接受持續靜脈輸注肝素治療。活化部分凝血酶時間（aPTT）結果為 110 秒。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Continue the infusion at the current rate as prescribed", "zh": "依醫囑維持目前輸液速率"},
+      {"en": "Increase the rate of the heparin infusion", "zh": "增加肝素輸液速率"},
+      {"en": "Stop the infusion, notify the PHCP, and initiate bleeding precautions", "zh": "停止輸液、通知 PHCP，並啟動出血防護措施"},
+      {"en": "Document the finding and recheck the aPTT in 6 hours", "zh": "記錄發現並於 6 小時後再次檢測 aPTT"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The normal aPTT is 30 to 40 seconds, and a therapeutic heparin dose keeps the aPTT between 1.5 and 2.5 times normal, or approximately 45 to 100 seconds. An aPTT of 110 seconds exceeds this therapeutic range and significantly increases bleeding risk, so the nurse should stop the infusion, notify the PHCP, and initiate bleeding precautions.", "zh": "正常 aPTT 為 30 至 40 秒，治療性肝素劑量應使 aPTT 維持在正常值的 1.5 至 2.5 倍，約 45 至 100 秒。aPTT 達 110 秒已超出治療範圍，大幅增加出血風險，護理師應停止輸液、通知 PHCP，並啟動出血防護措施。"},
+    "pdf_pages": [147],
+    "tags": ["labs", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is 1 hour postoperative in the postanesthesia care unit. Baseline vital signs were temperature 36.8° C, heart rate 82 beats/min, respiratory rate 16 breaths/min, BP 128/76 mm Hg, and SpO2 97%. The current vital signs are temperature 37.1° C, heart rate 124 beats/min, respiratory rate 22 breaths/min, BP 88/54 mm Hg, and SpO2 91%. What should the nurse do first?", "zh": "一位病人術後 1 小時於麻醉後恢復室。基礎生命徵象為體溫 36.8°C、心率 82 次／分、呼吸速率 16 次／分、血壓 128/76 mmHg、血氧飽和度 97%。目前生命徵象為體溫 37.1°C、心率 124 次／分、呼吸速率 22 次／分、血壓 88/54 mmHg、血氧飽和度 91%。護理師應先採取下列哪項行動？"},
+    "options": [
+      {"en": "Recheck the vital signs again in 30 minutes", "zh": "於 30 分鐘後再次測量生命徵象"},
+      {"en": "Notify the PHCP immediately because the findings suggest postoperative hemorrhage or shock", "zh": "立即通知 PHCP，因為這些發現提示術後出血或休克"},
+      {"en": "Increase the IV fluid rate without notifying the PHCP", "zh": "未通知 PHCP 即自行增加靜脈輸液速率"},
+      {"en": "Document the findings and continue routine monitoring", "zh": "記錄這些發現並繼續常規監測"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The significant change in vital signs—tachycardia, hypotension, tachypnea, and decreased oxygen saturation—in a recent postoperative client are cues indicating possible postoperative bleeding or shock. The nurse must analyze these cues and notify the PHCP immediately rather than delaying care, acting independently without a prescription, or simply documenting.", "zh": "術後病人出現生命徵象顯著改變—心跳過快、低血壓、呼吸過快及血氧飽和度下降—是提示可能發生術後出血或休克的徵象。護理師應分析這些徵象並立即通知 PHCP，而非延遲處理、未經醫囑自行行動，或僅記錄了事。"},
+    "pdf_pages": [142, 143],
+    "tags": ["vital signs", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client develops new-onset confusion. The pulse oximetry reading is 87% on room air. What is the nurse's priority action?", "zh": "一位病人出現新發意識混亂，未使用氧氣時血氧飽和度測得 87%。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Reposition the sensor and recheck the reading in 1 hour", "zh": "重新放置感測器並於 1 小時後再次測量"},
+      {"en": "Apply supplemental oxygen and notify the PHCP", "zh": "給予補充氧氣並通知 PHCP"},
+      {"en": "Document the finding as the client's new baseline", "zh": "將此結果記錄為病人的新基礎值"},
+      {"en": "Remove the client's nail polish and take no further action", "zh": "移除病人指甲油並不採取其他行動"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A usual pulse oximetry reading is 95% to 100%; a reading lower than 90% necessitates PHCP notification and alerts the nurse to hypoxemia before other clinical signs occur. New confusion combined with a critically low SpO2 requires immediate oxygen administration and notification, not simply repositioning the sensor or deferring action.", "zh": "正常血氧飽和度為 95% 至 100%；低於 90% 的數值需通知 PHCP，並能在其他臨床徵象出現前提醒護理師注意缺氧狀況。新發意識混亂合併血氧飽和度危急低值，需立即給氧並通報，而非僅重新放置感測器或延後處理。"},
+    "pdf_pages": [144],
+    "tags": ["pulse oximetry", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews a panel of laboratory results for an assigned client. Which results would the nurse report to the PHCP immediately? Select all that apply.", "zh": "護理師檢視某位病人的一組檢驗結果。下列哪些結果需立即通報 PHCP？請選出所有適用的答案。"},
+    "options": [
+      {"en": "Platelet count 28,000 mm3 (28 × 10^9/L)", "zh": "血小板計數 28,000 mm3（28 × 10^9/L）"},
+      {"en": "Sodium 128 mEq/L (128 mmol/L)", "zh": "鈉 128 mEq/L（128 mmol/L）"},
+      {"en": "Potassium 4.6 mEq/L (4.6 mmol/L)", "zh": "鉀 4.6 mEq/L（4.6 mmol/L）"},
+      {"en": "Hemoglobin 9.0 g/dL (90 g/L) in a female client", "zh": "女性病人血紅素 9.0 g/dL（90 g/L）"},
+      {"en": "Serum creatinine 0.9 mg/dL (79.6 mcmol/L) in a female client", "zh": "女性病人血清肌酸酐 0.9 mg/dL（79.6 mcmol/L）"},
+      {"en": "White blood cell count 1800 mm3 (1.8 × 10^9/L)", "zh": "白血球計數 1800 mm3（1.8 × 10^9/L）"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Normal values are platelets 150,000 to 400,000 mm3; sodium 135 to 145 mEq/L; potassium 3.5 to 5.0 mEq/L; hemoglobin (female) 12 to 16 g/dL; creatinine (female) 0.5 to 1.1 mg/dL; and white blood cells 5000 to 10,000 mm3. The platelet count, sodium, hemoglobin, and white blood cell count are all below normal and require reporting; the potassium and creatinine values are within normal limits.", "zh": "正常值為：血小板 150,000 至 400,000 mm3；鈉 135 至 145 mEq/L；鉀 3.5 至 5.0 mEq/L；女性血紅素 12 至 16 g/dL；女性肌酸酐 0.5 至 1.1 mg/dL；白血球 5000 至 10,000 mm3。血小板、鈉、血紅素及白血球數值均低於正常，需通報；鉀與肌酸酐數值則在正常範圍內。"},
+    "pdf_pages": [146, 147, 148, 149],
+    "tags": ["labs", "sata", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client at an outpatient clinic reports a headache and blurred vision. The BP is 198/126 mm Hg. What is the nurse's priority action?", "zh": "一位於門診的病人表示頭痛及視力模糊，血壓為 198/126 mmHg。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Recheck the BP at the client's next visit in 1 week", "zh": "於 1 週後下次回診時再次測量血壓"},
+      {"en": "Instruct the client to reduce sodium intake and follow up in 1 month", "zh": "指導病人減少鈉攝取並於 1 個月後追蹤"},
+      {"en": "Notify the PHCP immediately and prepare the client for possible urgent treatment", "zh": "立即通知 PHCP 並準備病人接受可能的緊急治療"},
+      {"en": "Have the client rest for 30 minutes, remeasure the BP, and allow the client to leave if unchanged", "zh": "讓病人休息 30 分鐘後再測一次血壓，若無變化即可讓其離開"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A BP of 198/126 mm Hg with symptoms of headache and blurred vision meets the criteria for a hypertensive crisis (systolic over 180 mm Hg and/or diastolic over 120 mm Hg), which requires prompt medical attention and possibly immediate hospitalization if there are signs of organ involvement. Delaying care or sending the client home is unsafe.", "zh": "血壓 198/126 mmHg 合併頭痛及視力模糊症狀，符合高血壓危象標準（收縮壓超過 180 mmHg 及／或舒張壓超過 120 mmHg），需要立即醫療處置，若有器官受累徵象甚至可能需立即住院。延遲處理或讓病人離開並不安全。"},
+    "pdf_pages": [142],
+    "tags": ["vital signs", "red flag", "hypertensive crisis"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse observes an AP preparing to take an oral temperature on a client who has significant nasal congestion and is breathing through the mouth. Which instruction should the nurse give to the AP?", "zh": "護理師觀察到一位 AP 準備為一位鼻塞嚴重且以口呼吸的病人測量口溫。護理師應給予 AP 下列哪項指示？"},
+    "options": [
+      {"en": "\"The oral method is fine to use for this client.\"", "zh": "「這位病人用口溫測量方式是可以的。」"},
+      {"en": "\"Use the temporal artery or tympanic method instead of the oral method.\"", "zh": "「請改用顳動脈或耳溫法，而非口溫法。」"},
+      {"en": "\"Take the oral temperature, but repeat it every hour to confirm accuracy.\"", "zh": "「可以測口溫，但每小時重複測量一次以確認準確性。」"},
+      {"en": "\"Ask the client to breathe through the nose during the oral measurement.\"", "zh": "「請病人在測口溫時用鼻子呼吸即可。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An oral temperature should be avoided when a client cannot keep the mouth closed or has nasal congestion affecting breathing, because this interferes with an accurate reading and client comfort. A method such as the temporal artery or tympanic route should be used instead when oral measurement is not appropriate. The nurse is responsible for interpreting and correcting the AP's technique.", "zh": "當病人無法閉口或有鼻塞影響呼吸時，應避免測量口溫，因為這會影響測量準確性及病人舒適度。此時應改用如顳動脈或耳溫等其他方式。護理師有責任指導並糾正 AP 的測量技巧。"},
+    "pdf_pages": [140, 141],
+    "tags": ["delegation", "vital signs"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client with advanced dementia is unable to verbally describe pain. Which nonverbal finding should the nurse recognize as a possible indicator of pain?", "zh": "一位重度失智症病人無法以言語描述疼痛。護理師應將下列哪項非語言表現視為可能的疼痛指標？"},
+    "options": [
+      {"en": "Increased appetite at mealtime", "zh": "用餐時食慾增加"},
+      {"en": "Grimacing, restlessness, and a rigid posture", "zh": "表情扭曲、躁動不安及姿勢僵硬"},
+      {"en": "An improved, uninterrupted sleep pattern", "zh": "睡眠模式改善且未中斷"},
+      {"en": "A decrease in blood pressure and heart rate from baseline", "zh": "血壓及心率較基礎值下降"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Nonverbal indicators of pain include moaning, crying, irritability, restlessness, grimacing or frowning, inability to sleep, rigid posture, and increased blood pressure, heart rate, or respiratory rate. Clients with cognitive disorders such as dementia may be unable to describe their pain experience, so the nurse must rely on these behavioral and physiological cues.", "zh": "疼痛的非語言指標包括呻吟、哭泣、躁動、不安、表情扭曲或皺眉、無法入睡、姿勢僵硬，以及血壓、心率或呼吸速率上升。失智症等認知障礙病人可能無法描述其疼痛經驗，因此護理師須依賴這些行為與生理徵象判斷。"},
+    "pdf_pages": [144, 145],
+    "tags": ["pain assessment", "nonverbal cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse enters the room of a postoperative client receiving demand-dose hydromorphone via a patient-controlled analgesia (PCA) pump and finds the client drowsy, with a respiratory rate of 9 breaths/min and SpO2 of 90% on room air. Which action should the nurse take first?", "zh": "護理師進入一位術後病人的病房，該病人正使用病人自控式止痛幫浦（PCA）接受 hydromorphone 需求劑量治療。護理師發現病人嗜睡，呼吸速率 9 次／分，未使用氧氣時血氧飽和度 90%。護理師應先採取下列哪項行動？"},
+    "options": [
+      {"en": "Document the findings in the medical record", "zh": "將這些發現記錄於病歷中"},
+      {"en": "Attempt to arouse the client and immediately reassess respiratory status", "zh": "嘗試喚醒病人並立即重新評估呼吸狀況"},
+      {"en": "Administer the next demand dose when the client requests it", "zh": "於病人要求時給予下一次需求劑量"},
+      {"en": "Wait 30 minutes and then recheck the client's vital signs", "zh": "等待 30 分鐘後再次檢查病人生命徵象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Opioid analgesics suppress the respiratory and cough centers in the medulla. A respiratory rate slower than 12 breaths/min and decreased oxygen saturation in a drowsy client receiving opioids are signs of opioid-induced respiratory depression requiring immediate action—attempting to arouse the client and reassessing airway, breathing, and level of consciousness—before other steps such as notifying the PHCP or withholding further doses.", "zh": "類鴉片止痛藥會抑制延腦的呼吸與咳嗽中樞。接受類鴉片藥物治療的嗜睡病人若呼吸速率低於 12 次／分且血氧飽和度下降，屬類鴉片引起呼吸抑制的徵象，需立即採取行動——嘗試喚醒病人並重新評估呼吸道、呼吸與意識狀態——之後才採取通知 PHCP 或暫停給藥等後續步驟。"},
+    "pdf_pages": [144, 145],
+    "tags": ["opioid", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving maintenance warfarin sodium therapy has an international normalized ratio (INR) result of 4.8. Which is the nurse's priority action?", "zh": "一位接受維持性華法林鈉治療的病人，國際標準化比值（INR）結果為 4.8。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Administer the scheduled warfarin dose as prescribed", "zh": "依醫囑給予預定的華法林劑量"},
+      {"en": "Hold the warfarin dose, notify the PHCP, and assess the client for signs of bleeding", "zh": "暫停華法林劑量，通知 PHCP，並評估病人是否有出血徵象"},
+      {"en": "Administer an increased dose of warfarin at the next scheduled time", "zh": "於下次預定時間給予增加劑量的華法林"},
+      {"en": "Document the result and recheck the INR in 1 week", "zh": "記錄結果並於 1 週後再次檢測 INR"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The normal INR is 0.81 to 1.20, and the therapeutic range on warfarin is usually 1.5 to 2 times the control value. An INR of 4.8 is markedly elevated and places the client at significant risk for bleeding; the nurse should hold the dose, notify the PHCP, and assess for bleeding rather than continue or increase the dose.", "zh": "正常 INR 為 0.81 至 1.20，服用華法林的治療範圍通常為對照值的 1.5 至 2 倍。INR 達 4.8 明顯升高，使病人出血風險顯著增加；護理師應暫停給藥、通知 PHCP 並評估出血徵象，而非繼續或增加劑量。"},
+    "pdf_pages": [148],
+    "tags": ["labs", "anticoagulant", "red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client with diabetes mellitus has a glycosylated hemoglobin (HbA1c) level of 7.8%. The nurse understands that this result reflects which of the following?", "zh": "一位糖尿病病人的糖化血紅素（HbA1c）為 7.8%。護理師理解此結果反映下列何者？"},
+    "options": [
+      {"en": "Average blood glucose level over the past 24 hours", "zh": "過去 24 小時的平均血糖水平"},
+      {"en": "Average blood glucose control over the past 2 to 3 weeks", "zh": "過去 2 至 3 週的平均血糖控制情形"},
+      {"en": "Average blood glucose control over the past 2 to 3 months, indicating poorly controlled diabetes", "zh": "過去 2 至 3 個月的平均血糖控制情形，顯示糖尿病控制不佳"},
+      {"en": "A normal, well-controlled blood glucose level", "zh": "正常且控制良好的血糖水平"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "HbA1c reflects how well blood glucose levels have been controlled over the past 3 to 4 months. A level of 6.5% or higher indicates diabetes, and a level of 7.8% indicates that the client's diabetes has not been well controlled during this period, requiring further teaching and management adjustment.", "zh": "HbA1c 反映過去 3 至 4 個月血糖控制的情形。數值達 6.5% 以上即顯示糖尿病，而 7.8% 表示該病人在此期間糖尿病控制不佳，需進一步指導並調整治療。"},
+    "pdf_pages": [150, 151],
+    "tags": ["labs", "diabetes"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is admitted with severe vomiting and dehydration, with a baseline blood urea nitrogen (BUN) level of 32 mg/dL (11.4 mmol/L). After intravenous fluid resuscitation, which BUN result indicates that the client has achieved adequate volume replacement?", "zh": "一位病人因嚴重嘔吐及脫水入院，基礎血尿素氮（BUN）為 32 mg/dL（11.4 mmol/L）。靜脈輸液補充後，下列哪項 BUN 結果顯示病人已達到充分的體液補充？"},
+    "options": [
+      {"en": "14 mg/dL (5.0 mmol/L)", "zh": "14 mg/dL（5.0 mmol/L）"},
+      {"en": "30 mg/dL (10.7 mmol/L)", "zh": "30 mg/dL（10.7 mmol/L）"},
+      {"en": "38 mg/dL (13.6 mmol/L)", "zh": "38 mg/dL（13.6 mmol/L）"},
+      {"en": "45 mg/dL (16.1 mmol/L)", "zh": "45 mg/dL（16.1 mmol/L）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The normal BUN reference interval is 10 to 20 mg/dL (3.6 to 7.1 mmol/L). A value of 14 mg/dL falls within this normal range, indicating resolution of dehydration. The remaining options reflect continued elevation consistent with ongoing fluid volume deficit.", "zh": "正常 BUN 參考範圍為 10 至 20 mg/dL（3.6 至 7.1 mmol/L）。14 mg/dL 落在此正常範圍內，顯示脫水已改善。其餘選項數值仍偏高，顯示體液容積不足持續存在。"},
+    "pdf_pages": [149, 150],
+    "tags": ["labs", "evaluation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client receiving chemotherapy. For which white blood cell (WBC) count should the nurse institute neutropenic precautions?", "zh": "護理師照護一位接受化學治療的病人。下列哪項白血球（WBC）計數應啟動嗜中性白血球低下防護措施？"},
+    "options": [
+      {"en": "1500 mm3 (1.5 × 10^9/L)", "zh": "1500 mm3（1.5 × 10^9/L）"},
+      {"en": "6200 mm3 (6.2 × 10^9/L)", "zh": "6200 mm3（6.2 × 10^9/L）"},
+      {"en": "9800 mm3 (9.8 × 10^9/L)", "zh": "9800 mm3（9.8 × 10^9/L）"},
+      {"en": "11,200 mm3 (11.2 × 10^9/L)", "zh": "11,200 mm3（11.2 × 10^9/L）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The normal WBC reference interval is 5000 to 10,000 mm3 (5.0 to 10.0 × 10^9/L). A count of 1500 mm3 is critically low, placing the client receiving chemotherapy at significant risk for infection because of neutropenia, and neutropenic precautions should be instituted. The remaining values are within or above the normal range.", "zh": "正常白血球參考範圍為 5000 至 10,000 mm3（5.0 至 10.0 × 10^9/L）。1500 mm3 屬於危急低值，使接受化療的病人因嗜中性白血球低下而面臨顯著感染風險，應啟動嗜中性白血球低下防護措施。其餘數值皆在正常範圍內或偏高。"},
+    "pdf_pages": [150, 151],
+    "tags": ["labs", "infection control", "chemotherapy"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which platelet count would prompt the nurse to institute bleeding precautions for an assigned client?", "zh": "下列哪項血小板計數會促使護理師為病人啟動出血防護措施？"},
+    "options": [
+      {"en": "45,000 mm3 (45 × 10^9/L)", "zh": "45,000 mm3（45 × 10^9/L）"},
+      {"en": "180,000 mm3 (180 × 10^9/L)", "zh": "180,000 mm3（180 × 10^9/L）"},
+      {"en": "250,000 mm3 (250 × 10^9/L)", "zh": "250,000 mm3（250 × 10^9/L）"},
+      {"en": "390,000 mm3 (390 × 10^9/L)", "zh": "390,000 mm3（390 × 10^9/L）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The normal platelet reference interval is 150,000 to 400,000 mm3 (150 to 400 × 10^9/L). A count of 45,000 mm3 is well below normal and places the client at high risk for bleeding, so bleeding precautions should be instituted; the remaining values fall within the normal range.", "zh": "正常血小板參考範圍為 150,000 至 400,000 mm3（150 至 400 × 10^9/L）。45,000 mm3 遠低於正常值，使病人處於高出血風險，應啟動出血防護措施；其餘數值均在正常範圍內。"},
+    "pdf_pages": [148, 149],
+    "tags": ["labs", "red flag", "bleeding precautions"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A male client's laboratory results show a hemoglobin of 9.2 g/dL (92 g/L) and a hematocrit of 28% (0.28). The nurse recognizes that these results are most consistent with which condition?", "zh": "一位男性病人的檢驗結果顯示血紅素為 9.2 g/dL（92 g/L）、血球容積比（Hct）為 28%（0.28）。護理師應判斷此結果最符合下列哪種情況？"},
+    "options": [
+      {"en": "Dehydration", "zh": "脫水"},
+      {"en": "Polycythemia", "zh": "紅血球增多症"},
+      {"en": "Anemia or active blood loss", "zh": "貧血或活動性失血"},
+      {"en": "A normal finding expected at high altitude", "zh": "高海拔地區的正常發現"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The normal hemoglobin for a male adult is 14 to 18 g/dL and the normal hematocrit is 42% to 52%. Both values are markedly below normal, which is consistent with anemia or hemorrhage. Dehydration, polycythemia, and high altitude are associated with elevated, not decreased, hemoglobin and hematocrit values.", "zh": "成年男性正常血紅素為 14 至 18 g/dL，正常血球容積比為 42% 至 52%。此兩項數值皆明顯低於正常，與貧血或出血相符。脫水、紅血球增多症及高海拔皆會使血紅素與血球容積比升高，而非降低。"},
+    "pdf_pages": [148, 149],
+    "tags": ["labs", "anemia"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is 2 hours postoperative from abdominal surgery. Which vital sign findings would require the nurse to notify the PHCP immediately? Select all that apply.", "zh": "一位病人腹部手術後 2 小時。下列哪些生命徵象發現需要護理師立即通知 PHCP？請選出所有適用的答案。"},
+    "options": [
+      {"en": "Heart rate 134 beats/min, a new finding", "zh": "心率 134 次／分，為新發現"},
+      {"en": "Temperature 37.4° C (99.3° F) orally", "zh": "口溫 37.4°C（99.3°F）"},
+      {"en": "BP 82/50 mm Hg", "zh": "血壓 82/50 mmHg"},
+      {"en": "Respiratory rate 10 breaths/min", "zh": "呼吸速率 10 次／分"},
+      {"en": "SpO2 96% on room air", "zh": "未使用氧氣時血氧飽和度 96%"},
+      {"en": "Pain rated 4 of 10, relieved with the prescribed analgesic", "zh": "疼痛評分 4/10，使用醫囑止痛藥後緩解"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "A new heart rate of 134 beats/min, a BP of 82/50 mm Hg, and a respiratory rate of 10 breaths/min are significant deviations from normal that may indicate hemorrhage, shock, or respiratory depression and require immediate notification. A mildly elevated temperature, a normal SpO2, and pain that is relieved with medication are not immediate concerns.", "zh": "新發生的心率 134 次／分、血壓 82/50 mmHg 及呼吸速率 10 次／分，皆明顯偏離正常值，可能提示出血、休克或呼吸抑制，需立即通報。輕度體溫升高、正常血氧飽和度，以及用藥後已緩解的疼痛則非立即需關注的問題。"},
+    "pdf_pages": [142, 143],
+    "tags": ["vital signs", "sata", "red flag", "postoperative"]
+  }
+]

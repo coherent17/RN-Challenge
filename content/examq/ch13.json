@@ -1,0 +1,307 @@
+[
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is orienting new staff to fire safety. During a unit in-service, the nurse smells smoke and discovers a small fire smoldering in a wastebasket inside an empty supply closet; no client or staff member is near the closet. Using the RACE mnemonic, what is the nurse's first action?",
+      "zh": "護理師正在為新進人員進行消防安全在職教育。途中聞到煙味，發現一間無人使用的庫房垃圾桶內有小火悶燒，附近沒有個案或人員。依RACE原則，護理師的第一個行動為何？"
+    },
+    "options": [
+      {"en": "Pull the fire alarm.", "zh": "拉動火警警報器"},
+      {"en": "Attempt to extinguish the fire with a fire extinguisher.", "zh": "嘗試使用滅火器滅火"},
+      {"en": "Close the door to the supply closet.", "zh": "關閉庫房的門"},
+      {"en": "Evacuate clients from nearby rooms.", "zh": "將附近病室的個案撤離"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "RACE sequence: Rescue only applies if someone is in immediate danger; since the closet is unoccupied, the next step is to Activate the alarm, then Confine (close the door) and Extinguish only if the fire is small and controllable.",
+      "zh": "依RACE原則，「救援」僅適用於有人處於立即危險中；因庫房無人，故下一步應為「警報」（啟動火警警報器），其後才是「侵入」（關門侵入火勢）及「滅火」（若火勢小且可控制）。"
+    },
+    "pdf_pages": [192],
+    "tags": ["priority", "RACE", "fire safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client's family brings in a personal electric massage cushion from home for the client's lower back pain while hospitalized. Which statement by the unlicensed assistive personnel (UAP) indicates a need for further instruction?",
+      "zh": "個案家屬帶來自家的電動按摩椅墊，供住院個案緩解下背痛使用。無照佐理人員（UAP）的下列哪句話顯示需要再指導？"
+    },
+    "options": [
+      {"en": "\"I'll plug it into an outlet away from the sink.\"", "zh": "「我會將插頭插在遠離水槽的插座上」"},
+      {"en": "\"I'll check the cord for any fraying before use.\"", "zh": "「使用前我會先檢查電線是否磨損」"},
+      {"en": "\"Since it looks new, it's fine to plug in without having it checked first.\"", "zh": "「因為它看起來很新，不用先送檢就可以直接插電使用」"},
+      {"en": "\"I'll let the nurse know the family brought this in.\"", "zh": "「我會告知護理師家屬帶了這個東西來」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Any electrical equipment clients bring from home must be inspected by appropriate staff (e.g., biomedical engineering) for safety before use, regardless of how new it appears.",
+      "zh": "個案從家中帶來的任何電器，使用前都必須先經過適當人員（如生物醫學工程部門）檢查安全性，無論外觀看起來多新都一樣。"
+    },
+    "pdf_pages": [193],
+    "tags": ["delegation", "electrical safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is assessing an 82-year-old client for fall risk. Which age-related physiological changes increase this client's risk for falls? Select all that apply.",
+      "zh": "護理師正為一位82歲個案評估跌倒風險。下列哪些與年齡相關的生理變化會增加此個案跌倒的風險？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Delayed transmission of hot and cold sensory impulses", "zh": "冷熱感覺傳導延遲"},
+      {"en": "Decreased lens accommodation and visual acuity", "zh": "水晶體調節力與視力下降"},
+      {"en": "Increased muscle strength and joint flexibility", "zh": "肌力與關節柔軟度增加"},
+      {"en": "Slower voluntary and autonomic reflexes", "zh": "自主與不自主反射變慢"},
+      {"en": "Increased sensitivity to touch", "zh": "觸覺敏感度增加"},
+      {"en": "Increased nocturia", "zh": "夜尿增加"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "Aging decreases sensory transmission speed, vision, and reflex speed, and increases nocturia (a risk factor from nighttime ambulation); muscle strength and touch sensitivity actually decrease with age, so options C and E are incorrect.",
+      "zh": "老化會使感覺傳導速度、視力及反射速度下降，並增加夜尿（夜間下床活動的風險因子）；而肌力與觸覺敏感度實際上隨年齡增長而下降，故C與E為錯誤選項。"
+    },
+    "pdf_pages": [193],
+    "tags": ["sata", "older adult", "fall risk"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is caring for a client who has bilateral wrist restraints applied after repeatedly pulling at a central venous catheter. Which assessment finding requires the most immediate nursing action?",
+      "zh": "護理師照護一位因反覆拉扯中央靜脈導管而被雙側手腕約束的個案。下列哪項評估發現最需要立即處理？"
+    },
+    "options": [
+      {"en": "The restraint straps are secured with a quick-release knot to the bed frame.", "zh": "約束帶以快速解開結固定於床架上"},
+      {"en": "Two fingers fit easily between the restraint and the client's wrist.", "zh": "約束帶與個案手腕之間可輕易伸入兩指"},
+      {"en": "The client's fingers are cool, pale, and the capillary refill is 4 seconds.", "zh": "個案手指冰冷、蒼白，微血管再充盈時間為4秒"},
+      {"en": "The client is noted to be awake and oriented to person only.", "zh": "個案清醒，僅對人有定向感"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Cool, pale fingers with delayed capillary refill (normal under 3 seconds) indicate impaired neurovascular/circulatory status from the restraint, requiring immediate loosening or removal and reassessment; this takes priority over the other expected or lower-urgency findings.",
+      "zh": "手指冰冷、蒼白且微血管再充盈時間延長（正常應小於3秒），顯示約束帶已造成神經血管/循環功能受損，須立即放鬆或移除約束帶並重新評估；此發現的優先性高於其他正常或較不緊急的發現。"
+    },
+    "pdf_pages": [195],
+    "tags": ["priority", "red flag", "restraints"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "An older client who is confused and unsteady continually attempts to climb over the side rails to get out of bed. The client has no safety device prescription. What is the nurse's best initial action?",
+      "zh": "一位意識混亂且步態不穩的老年個案，不斷試圖越過床欄下床。此個案目前並無約束帶（安全裝置）的醫囑。護理師最適當的初始行動為何？"
+    },
+    "options": [
+      {"en": "Contact the PHCP to obtain a prescription for a wrist restraint.", "zh": "聯絡primary health care provider取得手腕約束帶醫囑"},
+      {"en": "Move the client to a room near the nurses' station and activate a bed alarm.", "zh": "將個案移至護理站附近的病室並啟動床鋪警報器"},
+      {"en": "Ask the family to stay with the client around the clock.", "zh": "請家屬24小時全程陪伴個案"},
+      {"en": "Apply a vest safety device until the client is reoriented.", "zh": "先使用背心式約束帶直到個案恢復定向感"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Restraints are a last resort and require a PHCP prescription; least-restrictive alternatives such as room placement near the nurses' station and bed/chair alarms are tried first, before contacting the PHCP for a restraint prescription or relying solely on family presence.",
+      "zh": "約束帶屬最後手段，且須有PHCP的醫囑；應先嘗試限制性較低的替代措施，如安排個案至護理站附近病室並使用床鋪/座椅警報器，而非直接聯絡PHCP取得約束醫囑或僅依賴家屬陪伴。"
+    },
+    "pdf_pages": [195],
+    "tags": ["priority", "restraint alternatives", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is teaching the family of a client with an internal cervical radiation implant about safety measures. Which statement by a family member indicates the need for further teaching?",
+      "zh": "護理師正教導一位子宮頸內放射植入個案的家屬有關安全措施。家屬的下列哪句話顯示需要再指導？"
+    },
+    "options": [
+      {"en": "\"I will limit my visits to short periods and stand as far from the bed as possible.\"", "zh": "「我會縮短探視時間，並盡量站在離床較遠的地方」"},
+      {"en": "\"My sister is 10 weeks pregnant, so she should not visit while the implant is in place.\"", "zh": "「我妹妹懷孕10週，所以植入物還在的時候她不應該來探視」"},
+      {"en": "\"I can bring the linens from my mother's bed home to wash them myself.\"", "zh": "「我可以把媽媽床上的床單帶回家自己洗」"},
+      {"en": "\"The nurses wear a badge to measure how much radiation they are exposed to.\"", "zh": "「護理師會佩戴劑量計，用來測量她們暴露的輻射量」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "All linens must remain in the client's room until the implant is removed, to avoid accidentally dislodging or losing a radioactive source; limiting time near the source, maintaining distance, restricting pregnant visitors, and monitoring staff exposure with a dosimeter badge are all correct safety measures.",
+      "zh": "所有床單在植入物移除前都必須留在個案房內，以避免不慎遺失或移位放射性物質；縮短接觸時間、保持距離、限制孕婦探視，以及以劑量計監測人員暴露量，皆為正確的安全措施。"
+    },
+    "pdf_pages": [193],
+    "tags": ["radiation safety", "need further teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is preparing to enter the room of a client on contact precautions to change a heavily draining wound dressing. Which is the correct order for donning personal protective equipment (PPE) before entering the room?",
+      "zh": "護理師準備進入接觸傳染防護個案的病室更換大量滲液的傷口敷料。進入病室前，穿戴個人防護裝備（PPE）的正確順序為何？"
+    },
+    "options": [
+      {"en": "Gown, mask, goggles, gloves", "zh": "隔離衣、口罩、護目鏡、手套"},
+      {"en": "Gloves, gown, mask, goggles", "zh": "手套、隔離衣、口罩、護目鏡"},
+      {"en": "Mask, gloves, gown, goggles", "zh": "口罩、手套、隔離衣、護目鏡"},
+      {"en": "Goggles, gown, gloves, mask", "zh": "護目鏡、隔離衣、手套、口罩"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The recommended sequence for donning PPE is gown first, then mask or respirator, then goggles/face shield, and gloves last, so that the gloves cover and seal the gown's wrist cuffs.",
+      "zh": "建議的PPE穿戴順序為先穿隔離衣，再戴口罩或呼吸防護具，接著戴護目鏡/面罩，最後戴手套，以使手套能覆蓋並密封隔離衣的袖口。"
+    },
+    "pdf_pages": [197],
+    "tags": ["PPE", "sequence"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is assigning precautions for four clients admitted to the unit. For which clients would airborne precautions be appropriate? Select all that apply.",
+      "zh": "護理師正為病房內四位入院個案安排傳染防護措施。下列哪些個案適用空氣傳播防護措施？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "A client with suspected pulmonary tuberculosis", "zh": "疑似肺結核的個案"},
+      {"en": "A client with varicella (chicken pox)", "zh": "水痘個案"},
+      {"en": "A client with bacterial meningitis", "zh": "細菌性腦膜炎個案"},
+      {"en": "A client with disseminated herpes zoster", "zh": "泛發性帶狀皰疹病毒感染個案"},
+      {"en": "A client with pertussis", "zh": "百日咳個案"},
+      {"en": "A client with measles", "zh": "麻疹個案"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "Airborne precautions are used for measles, varicella, disseminated varicella zoster, and pulmonary/laryngeal tuberculosis (as well as COVID-19); bacterial meningitis and pertussis are spread by droplet transmission and require droplet precautions instead.",
+      "zh": "空氣傳播防護措施適用於麻疹、水痘、泛發性帶狀皰疹病毒感染，以及肺部/喉部結核（COVID-19亦同）；細菌性腦膜炎與百日咳則是飛沫傳染，應採飛沫傳播防護措施。"
+    },
+    "pdf_pages": [197],
+    "tags": ["sata", "transmission-based precautions"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is providing care for a client with Clostridium difficile infection who is on contact precautions. Which action by the nurse is most important to prevent transmission?",
+      "zh": "護理師正照護一位採接觸傳播防護措施的困難腸梭菌（C. difficile）感染個案。下列護理師的哪項行動對預防傳播最為重要？"
+    },
+    "options": [
+      {"en": "Using an alcohol-based hand sanitizer immediately after removing gloves", "zh": "脫下手套後立即使用酒精性乾洗手液"},
+      {"en": "Washing hands with soap and water before leaving the client's room", "zh": "離開個案病室前以肥皂和水洗手"},
+      {"en": "Wearing a surgical mask when within 3 feet of the client", "zh": "與個案距離3英尺內時戴外科口罩"},
+      {"en": "Placing the client in a negative-pressure room", "zh": "將個案安置於負壓隔離病室"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Alcohol-based hand sanitizers are not effective against C. difficile spores, so soap-and-water handwashing is required when exiting the room. A mask and negative-pressure room are not indicated for C. difficile, which is spread by contact and requires gloves and a gown.",
+      "zh": "酒精性乾洗手液對困難腸梭菌的芽孢無效，因此離開病室時須以肥皂和水洗手。口罩與負壓病室並非困難腸梭菌所需，該菌屬接觸傳染，應使用手套與隔離衣。"
+    },
+    "pdf_pages": [198],
+    "tags": ["infection control", "hand hygiene"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client comes to the emergency department 18 hours after eating home-canned green beans, reporting double vision, drooping eyelids, and difficulty swallowing. The nurse suspects botulism. Which assessment is the priority?",
+      "zh": "一位個案在食用自家罐裝青豆18小時後至急診就醫，主訴複視、眼皮下垂及吞嚥困難。護理師懷疑為肉毒桿菌中毒。下列哪項評估為優先？"
+    },
+    "options": [
+      {"en": "Bowel sounds", "zh": "腸鳴音"},
+      {"en": "Respiratory rate and effort", "zh": "呼吸速率與呼吸用力情形"},
+      {"en": "Pupillary response", "zh": "瞳孔反應"},
+      {"en": "Deep tendon reflexes", "zh": "深部肌腱反射"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Botulinum toxin causes a descending paralysis that can progress to paralysis of the respiratory muscles, requiring mechanical ventilation; assessing respiratory rate and effort is the priority to detect early respiratory compromise.",
+      "zh": "肉毒桿菌毒素會造成下行性麻痺，可能進展至呼吸肌麻痺而需要機械通氣；評估呼吸速率與呼吸用力情形為優先，以早期偵測呼吸功能受損。"
+    },
+    "pdf_pages": [199],
+    "tags": ["priority", "bioterrorism", "botulism"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for a client with a skin lesion that began as a small itchy papule, progressed to a fluid-filled vesicle, and is now a painless ulcer with a black necrotic center on the forearm. The client works at a facility that processes animal hides. Which infection does the nurse suspect?",
+      "zh": "護理師照護一位前臂皮膚病灶的個案，病灶最初為小而癢的丘疹，進展為充滿液體的水泡，目前已變成中央有黑色壞死組織的無痛性潰瘍。此個案在處理動物皮革的工廠工作。護理師懷疑為下列哪種感染？"
+    },
+    "options": [
+      {"en": "Cutaneous anthrax", "zh": "皮膚型炭疽病"},
+      {"en": "Smallpox", "zh": "天花"},
+      {"en": "Tularemia", "zh": "土拉熱病（兔熱病）"},
+      {"en": "Cutaneous diphtheria", "zh": "皮膚型白喉"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Cutaneous anthrax classically presents as a painless ulcer with a black eschar (an area of central necrosis) after contact with contaminated animal hides or products; it progresses from a pruritic papule to a vesicle before ulcerating.",
+      "zh": "皮膚型炭疽病的典型表現，是在接觸受污染的動物皮革或產品後，出現中央有黑色焦痂（壞死區）的無痛性潰瘍；病灶會由搔癢的丘疹進展為水泡，最後形成潰瘍。"
+    },
+    "pdf_pages": [198],
+    "tags": ["bioterrorism", "anthrax", "recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A nurse sustains an accidental needlestick injury after drawing blood from a client with unknown hepatitis and HIV status. What is the nurse's first action?",
+      "zh": "一位護理師為某個案抽血時不慎被針扎傷，該個案的B型/C型肝炎及HIV感染狀態未知。護理師的第一個行動為何？"
+    },
+    "options": [
+      {"en": "Report the incident to the nursing supervisor.", "zh": "向護理主管報告此事件"},
+      {"en": "Wash the area immediately with soap and water.", "zh": "立即以肥皂和水清洗該部位"},
+      {"en": "Complete an incident/occurrence report.", "zh": "填寫事件/異常事件報告"},
+      {"en": "Request baseline laboratory testing for the client.", "zh": "要求為個案進行基礎抽血檢驗"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Immediate first aid, washing the exposed site with soap and water, takes priority to reduce the risk of transmission; reporting to the supervisor, completing documentation, and arranging testing follow immediately after.",
+      "zh": "立即以肥皂和水清洗暴露部位的急救處置為首要，以降低感染傳播風險；向主管報告、完成文件記錄及安排檢驗則應緊接著進行。"
+    },
+    "pdf_pages": [193],
+    "tags": ["needlestick", "priority", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A parent calls the pediatric clinic nurse and reports that their toddler just swallowed a small amount of liquid drain cleaner. Which instruction should the nurse give the parent first?",
+      "zh": "一位家長打電話給小兒科診所護理師，表示幼兒剛剛吞下少量液體水管清潔劑。護理師應先給家長哪項指示？"
+    },
+    "options": [
+      {"en": "\"Give the child a glass of milk to dilute the chemical.\"", "zh": "「給孩子喝一杯牛奶以稀釋化學藥劑」"},
+      {"en": "\"Induce vomiting by placing your fingers in the back of the child's throat.\"", "zh": "「用手指伸入孩子喉部誘發嘔吐」"},
+      {"en": "\"Call the Poison Control Center right away.\"", "zh": "「立即聯絡毒物控制中心」"},
+      {"en": "\"Bring the child to the emergency department immediately.\"", "zh": "「立即將孩子送往急診」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "The Poison Control Center should be contacted first in any suspected poisoning before any intervention is attempted; vomiting is never induced after ingestion of a caustic substance such as drain cleaner because of the risk of further esophageal and airway injury.",
+      "zh": "任何疑似中毒事件都應先聯絡毒物控制中心，之後才採取任何處置；絕不可在吞入腐蝕性物質（如水管清潔劑）後誘發嘔吐，因可能造成食道與呼吸道進一步損傷。"
+    },
+    "pdf_pages": [196],
+    "tags": ["poisoning", "pediatric", "first action"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse has a client with a prescribed vest safety device (restraint). Which tasks related to the client's care can the nurse safely delegate to the unlicensed assistive personnel (UAP)? Select all that apply.",
+      "zh": "護理師照護一位有背心式約束帶醫囑的個案。下列哪些與該個案照護相關的任務，可安全授權給無照佐理人員（UAP）執行？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Offering the bedpan and fluids every 2 hours", "zh": "每2小時提供便盆及水分"},
+      {"en": "Removing the device every 2 hours for range of motion", "zh": "每2小時移除約束帶以進行關節活動"},
+      {"en": "Determining whether the restraint prescription needs to be renewed", "zh": "判斷約束醫囑是否需要更新"},
+      {"en": "Reporting any skin redness noted under the straps", "zh": "回報約束帶下任何皮膚發紅情形"},
+      {"en": "Assessing and documenting the continued need for the safety device", "zh": "評估並記錄是否仍需持續使用約束裝置"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {
+      "en": "UAP can perform routine comfort, hygiene, and range-of-motion tasks and report observations to the nurse, but determining whether a restraint prescription requires renewal and assessing the continued need for the device are nursing judgments that cannot be delegated.",
+      "zh": "UAP可執行常規舒適照護、衛生及關節活動等任務，並向護理師回報觀察結果；但判斷約束醫囑是否需要更新，以及評估是否仍需持續使用約束裝置，屬於護理判斷範疇，不可授權。"
+    },
+    "pdf_pages": [195],
+    "tags": ["delegation", "sata", "restraints"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The emergency department charge nurse is notified that a multivehicle highway crash has occurred and that 15 victims are being transported to the facility. What is the charge nurse's first action?",
+      "zh": "急診護理長接獲通知，高速公路發生多車連環車禍，15名傷患即將送往本院。護理長的第一個行動為何？"
+    },
+    "options": [
+      {"en": "Call additional nursing staff in from home.", "zh": "從家中召回額外的護理人員"},
+      {"en": "Activate the facility's emergency (disaster) response plan.", "zh": "啟動院內緊急（災難）應變計畫"},
+      {"en": "Request additional supplies from central supply.", "zh": "向中央供應室申請額外物資"},
+      {"en": "Set up triage areas in the ambulance bay.", "zh": "在救護車卸載區設置檢傷分類區"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Activating the facility's emergency response plan is the first action in an external disaster; the plan coordinates staffing call-ins, supply allocation, and triage setup, each of which follows activation of the plan.",
+      "zh": "啟動院內緊急應變計畫是外部災難發生時的第一個行動；該計畫會協調人員召回、物資調度及檢傷區設置，這些都在計畫啟動後接續進行。"
+    },
+    "pdf_pages": [200],
+    "tags": ["disaster", "priority", "first action"]
+  }
+]

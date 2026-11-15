@@ -1,0 +1,265 @@
+[
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse teaches a parent how to bathe an infant with atopic dermatitis (eczema). Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師教導家長如何為患有異位性皮膚炎（濕疹）的嬰兒洗澡。家長的哪句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will keep the bath water tepid and limit baths to about 5 to 10 minutes.\"", "zh": "「我會讓洗澡水維持溫熱，並將洗澡時間限制在 5 到 10 分鐘左右。」"},
+      {"en": "\"I will let my baby's skin air-dry completely before applying any moisturizer.\"", "zh": "「我會讓寶寶的皮膚完全自然風乾後才塗抹乳液。」"},
+      {"en": "\"I will apply a thick moisturizing cream to the body right after the bath.\"", "zh": "「我會在洗澡後立即在身體上塗抹厚層保濕乳霜。」"},
+      {"en": "\"I will apply the prescribed topical medication within a few minutes after the bath, before the moisturizer.\"", "zh": "「我會在洗澡後幾分鐘內先塗抹醫師開立的外用藥，再塗乳液。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Skin needs to be moisturized immediately after bathing, not air-dried first, to seal in hydration. Tepid baths limited to 5-10 minutes, applying topical medication within about 3 minutes after the bath (before creams/ointments), and following with a thick moisturizer are all correct eczema care measures.",
+      "zh": "皮膚應在洗澡後立即保濕，而非先讓皮膚完全風乾，以留住水分。使用溫熱水洗澡並限制在 5-10 分鐘內、洗澡後約 3 分鐘內先塗外用藥（於乳霜或油膏之前），再接著塗抹厚層保濕乳霜，皆為正確的濕疹照護措施。"
+    },
+    "pdf_pages": [438],
+    "tags": ["evaluate teaching", "requires further teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A topical corticosteroid is prescribed for a toddler with contact dermatitis. Which technique should the nurse teach the parent for applying the medication?",
+      "zh": "一名幼兒接觸性皮膚炎，醫師開立外用類固醇藥膏。護理師應教導家長採用哪種塗抹技巧？"
+    },
+    "options": [
+      {"en": "Apply a thick layer over the entire body to cover any areas that might flare", "zh": "於全身塗抹厚厚一層，以涵蓋可能發作的部位"},
+      {"en": "Apply a thin layer to the affected areas only and rub it in thoroughly", "zh": "僅於患部塗抹薄薄一層，並徹底揉抹進去"},
+      {"en": "Apply the cream to unwashed skin to preserve the natural skin barrier", "zh": "直接塗抹在未清潔的皮膚上，以保留天然皮膚屏障"},
+      {"en": "Apply the cream only at bedtime regardless of how many times the rash appears during the day", "zh": "不論皮疹白天出現幾次，僅於睡前塗抹藥膏"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Topical corticosteroids are applied in a thin layer to affected areas only and rubbed into the area thoroughly; thick or widespread application increases the risk of systemic absorption, and the skin should be clean before application.",
+      "zh": "外用類固醇應僅於患部塗抹薄薄一層，並徹底揉抹進去；塗抹過厚或範圍過大會增加全身吸收的風險，且塗抹前皮膚應先清潔。"
+    },
+    "pdf_pages": [438],
+    "tags": ["medication teaching"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching the parent of a child with eczema about measures to reduce flare-ups. Which instructions should the nurse include? Select all that apply.",
+      "zh": "護理師教導患有濕疹兒童的家長如何減少復發。護理師應納入哪些指導？請選出所有適用者。"
+    },
+    "options": [
+      {"en": "Keep the child's fingernails short and consider cotton gloves or socks over the hands at night", "zh": "維持孩童指甲短，夜間可考慮讓孩童雙手戴上棉質手套或襪子"},
+      {"en": "Dress the child in wool sweaters and blankets to keep the skin warm", "zh": "讓孩童穿羊毛毛衣並使用羊毛毯保暖皮膚"},
+      {"en": "Wash clothing in a mild detergent and run it through a second rinse cycle without detergent", "zh": "用溫和清潔劑洗衣物，並以不加清潔劑的方式再過水一次"},
+      {"en": "Change wet diapers promptly and avoid prolonged exposure to ambient heat", "zh": "及時更換濕尿布，並避免長時間處於高溫環境"},
+      {"en": "Give the child frequent long, hot baths to keep the skin clean", "zh": "讓孩童經常洗溫度高且時間長的熱水澡以保持皮膚清潔"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {
+      "en": "Keeping nails short, preventing scratching, using mild detergent with a second rinse, and eliminating triggers such as wet diapers and ambient heat reduce flare-ups. Wool clothing/blankets and excessive or hot bathing are irritants that should be avoided.",
+      "zh": "維持指甲短以預防抓傷、使用溫和清潔劑並多過水一次，以及避免濕尿布與高溫環境等誘發因子，都能減少復發。羊毛衣物／毛毯與過度或過熱的洗澡則屬於應避免的刺激因子。"
+    },
+    "pdf_pages": [438],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A child is admitted to the pediatric unit with impetigo. Which nursing action is the priority on admission?",
+      "zh": "一名兒童因膿皰瘡住進小兒科病房。入院時護理師最優先應採取哪項措施？"
+    },
+    "options": [
+      {"en": "Institute contact precautions in addition to standard precautions", "zh": "除標準防護措施外，再採取接觸性隔離防護"},
+      {"en": "Restrict the child's oral fluid intake", "zh": "限制孩童的口服液體攝取"},
+      {"en": "Apply warm compresses to the lesions every hour", "zh": "每小時對病灶施以溫敷"},
+      {"en": "Obtain a blood transfusion consent from the parents", "zh": "向家長取得輸血同意書"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Impetigo is highly contagious; contact isolation precautions, in addition to standard precautions and strict hygiene, are instituted for the hospitalized child to prevent spread. Fluid restriction, transfusion, and hourly compresses are not indicated.",
+      "zh": "膿皰瘡具高度傳染性；住院兒童除標準防護措施外，應採取接觸性隔離防護並落實嚴格衛生措施以防止傳播。限制輸液、輸血或每小時溫敷並無指徵。"
+    },
+    "pdf_pages": [439],
+    "tags": ["priority", "infection control"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The school nurse teaches parents about impetigo at a school health fair. Which statement by a parent indicates a need for further teaching?",
+      "zh": "學校護理師於校園健康園遊會向家長教導膿皰瘡相關知識。家長的哪句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"My child can safely return to school 24 hours after starting the prescribed antibiotic.\"", "zh": "「我的孩子在開始服用醫師開立的抗生素 24 小時後就能安全返校。」"},
+      {"en": "\"I need to keep a separate towel and washcloth for my child while the infection is active.\"", "zh": "「在感染活動期間，我需要讓孩子使用專屬的毛巾和洗臉布。」"},
+      {"en": "\"Impetigo can develop at a site of a mosquito bite or a patch of eczema.\"", "zh": "「膿皰瘡可能出現在蚊蟲咬傷處或濕疹的皮膚上。」"},
+      {"en": "\"I should make sure my child finishes the entire course of antibiotics even if the lesions look better.\"", "zh": "「即使病灶看起來好轉，我也要確保孩子完成整個療程的抗生素。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Impetigo remains communicable for 24 hours beyond initiation of antibiotic treatment, meaning the child is not yet safe to return until that time has passed; this statement reflects a misunderstanding. Completing the full antibiotic course is essential because untreated streptococcal impetigo can progress to glomerulonephritis.",
+      "zh": "膿皰瘡在開始抗生素治療後仍具傳染性長達 24 小時，意即此時間尚未過去前孩子還不能安全返校；此陳述顯示誤解。完整完成抗生素療程非常重要，因未治療的鏈球菌性膿皰瘡可能進展為腎小球腎炎。"
+    },
+    "pdf_pages": [439],
+    "tags": ["requires further teaching", "evaluate teaching"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A child is being treated for impetigo caused by group A streptococcus. Which finding noted 2 weeks later should prompt the nurse to notify the provider immediately?",
+      "zh": "一名兒童因 A 群鏈球菌造成的膿皰瘡接受治療。兩週後出現哪項發現，護理師應立即通知醫師？"
+    },
+    "options": [
+      {"en": "Tea-colored urine and periorbital edema", "zh": "茶色尿與眼眶周圍水腫"},
+      {"en": "A few faint scars at the site of the healed lesions", "zh": "癒合病灶處出現幾處淡疤痕"},
+      {"en": "Mild residual itching at the previously affected sites", "zh": "先前患部仍有輕微殘餘搔癢"},
+      {"en": "Slightly dry skin at the healed lesion sites", "zh": "癒合病灶處皮膚略為乾燥"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Streptococcal impetigo can be complicated by acute post-streptococcal glomerulonephritis; tea-colored (cola-colored) urine and periorbital edema are red-flag findings of renal involvement that require immediate provider notification. Scarring, mild itching, and dry skin are expected during healing.",
+      "zh": "鏈球菌性膿皰瘡可能併發急性鏈球菌感染後腎小球腎炎；茶色（可樂色）尿與眼眶周圍水腫是提示腎臟受累的警訊，需立即通知醫師。疤痕、輕微搔癢與皮膚乾燥則是癒合過程中的預期現象。"
+    },
+    "pdf_pages": [439],
+    "tags": ["red flag", "potential complication"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The provider prescribes lindane shampoo for a child diagnosed with pediculosis capitis. For which child should the nurse question this prescription?",
+      "zh": "醫師為一名診斷頭蝨的兒童開立 lindane 洗髮液。護理師應針對哪位兒童對此醫囑提出質疑？"
+    },
+    "options": [
+      {"en": "An 18-month-old child", "zh": "一名 18 個月大的兒童"},
+      {"en": "A 9-year-old child", "zh": "一名 9 歲兒童"},
+      {"en": "A child whose sibling is also being treated with a different pediculicide", "zh": "一名其手足正在使用另一種除蝨劑治療的兒童"},
+      {"en": "A child with a history of seasonal allergic rhinitis", "zh": "一名有季節性過敏性鼻炎病史的兒童"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Lindane shampoo is contraindicated in children younger than 2 years because of increased systemic absorption through more permeable skin, which raises the risk of central nervous system toxicity and seizures. The other findings are not contraindications to lindane use.",
+      "zh": "Lindane 洗髮液禁用於 2 歲以下兒童，因其皮膚通透性較高，全身吸收增加，會提高中樞神經系統毒性及癲癇發作的風險。其他選項皆非 lindane 使用禁忌。"
+    },
+    "pdf_pages": [440],
+    "tags": ["medication safety", "question the order"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A child has been diagnosed with head lice. Which measures should the nurse include in the home care teaching plan? Select all that apply.",
+      "zh": "一名兒童被診斷患有頭蝨。護理師應將哪些措施納入居家照護教學計畫？請選出所有適用者。"
+    },
+    "options": [
+      {"en": "Wash combs and brushes in boiling water or discard them", "zh": "將梳子與刷子以沸水清洗或直接丟棄"},
+      {"en": "Seal nonwashable stuffed toys in a plastic bag for about 2 weeks", "zh": "將無法清洗的填充玩具密封於塑膠袋中約 2 週"},
+      {"en": "Allow siblings to continue sharing hats and hair accessories as usual", "zh": "讓手足照常共用帽子與髮飾"},
+      {"en": "Wash bedding and clothing used in the past 2 days in hot water and dry in a hot dryer", "zh": "將過去 2 天使用的床單與衣物以熱水洗淨，並以高溫烘乾"},
+      {"en": "Examine other household members and siblings for infestation", "zh": "檢查其他家庭成員與手足是否也有感染"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "Discarding or boiling combs/brushes, sealing nonwashable toys for about 2 weeks, hot-water washing and hot-drying recently used bedding and clothing, and examining other household contacts are all appropriate control measures. Sharing grooming items, hats, or hair accessories should be avoided because lice spread by direct and indirect contact.",
+      "zh": "丟棄或以沸水清洗梳刷、將無法清洗的玩具密封約 2 週、以熱水清洗並高溫烘乾近期使用的床單衣物，以及檢查其他家庭接觸者，皆屬適當的防治措施。應避免共用梳理用品、帽子或髮飾，因頭蝨會經直接與間接接觸傳播。"
+    },
+    "pdf_pages": [440],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is teaching a parent how to apply permethrin cream for a child diagnosed with scabies. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師教導家長如何為診斷疥瘡的兒童塗抹 permethrin 乳膏。家長的哪句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will apply the cream only to the areas where I see the rash.\"", "zh": "「我只會把乳膏塗在看得到皮疹的地方。」"},
+      {"en": "\"I will wait at least 30 minutes after bathing before applying the cream to cool, dry skin.\"", "zh": "「我會在洗澡後至少等 30 分鐘，等皮膚涼且乾了才塗乳膏。」"},
+      {"en": "\"I will leave the cream on for 8 to 14 hours before bathing it off.\"", "zh": "「我會讓乳膏停留 8 到 14 小時後再洗掉。」"},
+      {"en": "\"I will keep the cream away from my child's eyes.\"", "zh": "「我會避免讓乳膏接觸孩子的眼睛。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Permethrin must be massaged into all skin surfaces from the head to the soles of the feet, not just the rash areas, to kill mites that have spread beyond visible lesions. Applying to cool, dry skin 30 minutes after bathing, leaving on 8-14 hours, and avoiding the eyes are correct.",
+      "zh": "Permethrin 必須從頭部到腳底揉抹於全身所有皮膚表面，而非僅塗抹於可見皮疹處，以殺死已擴散至可見病灶以外的疥蟲。洗澡後等 30 分鐘待皮膚涼且乾再塗抹、停留 8-14 小時，以及避開眼睛均為正確做法。"
+    },
+    "pdf_pages": [440],
+    "tags": ["requires further teaching", "medication teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A toddler climbs onto a chair and pulls a bowl of hot soup onto the chest, sustaining a burn. After calling for emergency help, which action should the nurse take first?",
+      "zh": "一名幼兒爬上椅子，將一碗熱湯拉倒在胸口而灼傷。呼叫緊急救護後，護理師應先採取哪項措施？"
+    },
+    "options": [
+      {"en": "Apply ice directly to the burned area to numb the pain", "zh": "直接在灼傷處敷冰以減輕疼痛"},
+      {"en": "Cool the burned area under cool, not cold, running water or a clean cool compress", "zh": "以涼而非冰冷的流動水，或乾淨涼濕敷布為灼傷處降溫"},
+      {"en": "Apply a sterile dressing and antibiotic ointment immediately", "zh": "立即塗抹抗生素藥膏並包覆無菌敷料"},
+      {"en": "Give the child something to drink to prevent dehydration", "zh": "給孩子喝東西以預防脱水"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "After ensuring airway and stopping the burning process, the burned area should be cooled under cool (not cold or iced) running water or a clean, cool, wet compress until pain eases; ice can cause further tissue damage. Sterile dressings are applied on arrival at the health care facility, and oral intake is not prioritized in an acute burn before transport.",
+      "zh": "確保呼吸道暢通並止住燒傷過程後，應以涼（非冰冷或冰塊）流動水或乾淨涼濕敷布為灼傷處降溫，直到疼痛緩解；冰塊可能造成進一步組織損傷。無菌敷料應於抵達醫療機構後才使用，急性灼傷轉送前也不應優先給予口服液體。"
+    },
+    "pdf_pages": [441],
+    "tags": ["priority", "best next action", "emergency"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is monitoring a child during fluid resuscitation for a severe burn injury. Which finding best indicates that fluid resuscitation is adequate?",
+      "zh": "護理師監測一名嚴重灼傷兒童的液體復甦狀況。哪項發現最能顯示液體復甦是足夠的？"
+    },
+    "options": [
+      {"en": "The level of edema at the burn site has decreased", "zh": "灼傷部位的水腫已減輕"},
+      {"en": "The child tolerates oral fluids well", "zh": "孩童可良好耐受口服液體"},
+      {"en": "Heart rate, urine output, capillary refill, and sensorium are within normal parameters for age", "zh": "心跳、尿量、微血管再充填與意識狀態皆在該年齡正常範圍內"},
+      {"en": "The child's skin turgor has improved at sites distant from the burn", "zh": "遠離灼傷部位的皮膚張力已改善"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Adequacy of fluid resuscitation after a burn is determined by vital signs (especially heart rate), urine output, adequacy of capillary filling, and sensorium status. Edema at the burn site, oral fluid tolerance, and distant skin turgor are not the primary parameters used.",
+      "zh": "灼傷後液體復甦是否足夠，是以生命徵象（尤其是心跳）、尿量、微血管再充填狀況與意識狀態來判斷。灼傷部位水腫、口服液體耐受度及遠端皮膚張力並非主要判斷依據。"
+    },
+    "pdf_pages": [441],
+    "tags": ["evaluate outcomes", "labs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is planning care for a child who sustained a severe burn injury. Which pediatric considerations should guide this plan? Select all that apply.",
+      "zh": "護理師為一名嚴重灼傷兒童規劃照護計畫。哪些小兒特有的考量應納入此計畫？請選出所有適用者。"
+    },
+    "options": [
+      {"en": "An immature immune system increases the risk of infection", "zh": "免疫系統尚未成熟，增加感染風險"},
+      {"en": "Scarring tends to be less severe in children than in adults", "zh": "兒童的疤痕傾向比成人輕微"},
+      {"en": "Children have a higher proportion of body fluid to body mass, increasing cardiovascular risk", "zh": "兒童體液佔體重比例較高，增加心血管風險"},
+      {"en": "A delay in growth may occur after a severe burn injury", "zh": "嚴重灼傷後可能出現生長遲緩"},
+      {"en": "Children have greater muscle mass and body fat reserves than adults, lowering the risk of protein-calorie deficiency", "zh": "兒童肌肉量與體脂肪儲存量較成人多，降低蛋白質與熱量不足的風險"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {
+      "en": "An immature immune system, a higher proportion of body fluid to body mass, and the possibility of a growth delay are accurate pediatric considerations after a burn. Scarring is actually more severe in children, and children have smaller muscle mass and less body fat than adults, increasing (not decreasing) the risk of protein-calorie deficiency.",
+      "zh": "免疫系統未成熟、體液佔體重比例較高，以及灼傷後可能出現生長遲緩，皆為正確的小兒特有考量。事實上兒童的疤痕反而較嚴重，且兒童肌肉量與體脂肪儲存量較成人少，因此蛋白質與熱量不足的風險是增加而非降低。"
+    },
+    "pdf_pages": [441],
+    "tags": ["sata", "pediatric considerations"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The emergency department nurse is assigned to four children. Which child should the nurse assess first?",
+      "zh": "急診護理師被分配照護四名兒童。護理師應優先評估哪一位？"
+    },
+    "options": [
+      {"en": "A 4-year-old with scabies and a pruritic papular rash on the trunk", "zh": "一名患有疥瘡的 4 歲兒童，軀幹有搔癢性丘疹性皮疹"},
+      {"en": "A toddler with a scald burn covering 15% of total body surface area who is becoming increasingly lethargic", "zh": "一名幼兒燙傷面積佔體表面積 15%，意識逐漸變得遲鈍"},
+      {"en": "A school-age child with impetigo lesions and honey-colored crusts around the mouth", "zh": "一名學齡兒童患有膿皰瘡，口周有蜂蜜色痂皮"},
+      {"en": "An infant with mild eczema and scattered weeping lesions on the cheeks", "zh": "一名嬰兒患有輕度濕疹，臉頰散布滲液病灶"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A burn covering more than 10% of total body surface area requires fluid resuscitation, and increasing lethargy in a burned child is a red-flag sign of inadequate perfusion, hypovolemia, or shock, requiring immediate assessment. The other children have findings expected for their diagnoses and are not acutely unstable.",
+      "zh": "灼傷面積超過體表面積 10% 即需要液體復甦，灼傷兒童出現逐漸嗜睡是灌流不足、血容量不足或休克的警訊，需立即評估。其他兒童的表現皆為其診斷之預期狀況，並非急性不穩定。"
+    },
+    "pdf_pages": [441],
+    "tags": ["priority", "who to see first", "red flag"]
+  }
+]

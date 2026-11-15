@@ -24,6 +24,12 @@ def pg(p):
 def pagerefs(lst):
     return [pg(p) for p in lst or []]
 
+examq = {}
+for c in chapters:
+    f = root / f"content/examq/ch{c['number']:02d}.json"
+    if f.exists():
+        examq[c["number"]] = json.load(open(f, encoding="utf-8"))
+
 content = {}
 for c in chapters:
     f = root / f"content/ch{c['number']:02d}.json"
@@ -46,34 +52,48 @@ def render(name, **kw):
     return env.get_template(name).render(chapters=chapters, v=ASSET_V, **kw)
 
 def resolve_refs(d):
+    def refs_for(pages, *texts):
+        refs = pagerefs(pages)
+        a = anchor_terms(" ".join(t for t in texts if t))
+        for r in refs: r["q"] = a
+        return refs
     for key in ("sections", "critical_points", "mnemonics", "questions"):
         for x in d.get(key, []):
-            x["refs"] = pagerefs(x.get("pdf_pages"))
+            texts = [x.get("en"), (x.get("heading") or {}).get("en"), (x.get("stem") or {}).get("en"),
+                     (x.get("rationale") or {}).get("en"), " ".join(p.get("en", "") for p in x.get("points", []))]
+            x["refs"] = refs_for(x.get("pdf_pages"), *texts)
     for g in d.get("figures", []):
-        g["refs"] = pagerefs([g["pdf_page"]])
+        g["refs"] = refs_for([g["pdf_page"]], (g.get("caption") or {}).get("en"))
 
 # ---- local-only: map free external questions to the best-matching chapter ----
 STOP = set("the and for with that this from have has are was were will would should which following client clients nurse nursing care when what after before about their there they them been into than then also most more other such only some each does not".split())
 tok = lambda t: [w for w in re.findall(r"[a-z]{4,}", t.lower()) if w not in STOP]
+def anchor_terms(text, n=2):
+    """Pick the n longest distinct non-stopword words in `text`, for the book
+    viewer to search for and highlight on the cited page (best effort; not
+    guaranteed to match, since our text is a paraphrase, not a verbatim quote)."""
+    words = sorted(set(w for w in re.findall(r"[A-Za-z][A-Za-z'-]{4,}", text or "") if w.lower() not in STOP),
+                    key=len, reverse=True)
+    return " ".join(w.lower() for w in words[:n])
 ext_by_ch = {}
+TOPIC_CH = {"cardiology": {37, 53, 54}, "endocrine": {33, 47, 48}, "fluid-electrolytes": {8, 9}, "pediatrics": set(range(30, 43)),
+            "mental-health": set(range(65, 70)), "prioritization-delegation-management": {5, 6, 7}, "respiratory": {36, 51, 52},
+            "med-surg-critical-care": set(range(43, 65)), "pharmacology": {14, 29, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 69},
+            "fundamentals-of-nursing": set(range(10, 18))}
+docs_tok = {n: Counter(tok(json.dumps(d["sections"] + d["critical_points"], ensure_ascii=False))) for n, d in content.items()}
+df = Counter(w for c in docs_tok.values() for w in c)
+idf = lambda w: math.log(1 + len(docs_tok) / df[w]) if df[w] else 0
+ext = []
+for f in sorted((root / "content/external").glob("*.json")): ext += json.load(open(f, encoding="utf-8"))
+for q in ext:
+    words = set(tok(q["stem"] + " " + " ".join(q["options"])))
+    def score(n):
+        c = docs_tok[n]; sc = sum(idf(w) * math.log(1 + c[w]) for w in words if w in c)
+        return sc * (1.5 if n in TOPIC_CH.get(q["topic"], set()) else 1.0)
+    q["letters"] = ", ".join("ABCDEFGH"[i] for i in q["answer"])
+    best = max(docs_tok, key=score)
+    if score(best) > 0: ext_by_ch.setdefault(best, []).append(q)
 if LOCAL:
-    TOPIC_CH = {"cardiology": {37, 53, 54}, "endocrine": {33, 47, 48}, "fluid-electrolytes": {8, 9}, "pediatrics": set(range(30, 43)),
-                "mental-health": set(range(65, 70)), "prioritization-delegation-management": {5, 6, 7}, "respiratory": {36, 51, 52},
-                "med-surg-critical-care": set(range(43, 65)), "pharmacology": {14, 29, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 69},
-                "fundamentals-of-nursing": set(range(10, 18))}
-    docs_tok = {n: Counter(tok(json.dumps(d["sections"] + d["critical_points"], ensure_ascii=False))) for n, d in content.items()}
-    df = Counter(w for c in docs_tok.values() for w in c)
-    idf = lambda w: math.log(1 + len(docs_tok) / df[w]) if df[w] else 0
-    ext = []
-    for f in sorted((root / "build/external").glob("*.json")): ext += json.load(open(f, encoding="utf-8"))
-    for q in ext:
-        words = set(tok(q["stem"] + " " + " ".join(q["options"])))
-        def score(n):
-            c = docs_tok[n]; sc = sum(idf(w) * math.log(1 + c[w]) for w in words if w in c)
-            return sc * (1.5 if n in TOPIC_CH.get(q["topic"], set()) else 1.0)
-        q["letters"] = ", ".join("ABCDEFGH"[i] for i in q["answer"])
-        best = max(docs_tok, key=score)
-        if score(best) > 0: ext_by_ch.setdefault(best, []).append(q)
     shutil.copytree(root / "docs/assets", docs / "assets", dirs_exist_ok=True)
     if (root / "docs/book.pdf").exists() and not (docs / "book.pdf").exists(): (docs / "book.pdf").symlink_to(root / "docs/book.pdf")
 
@@ -99,6 +119,9 @@ for n, d in sorted(content.items()):
         bi = lambda t: {"en": t, "zh": t}
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": bi(q["stem"]), "options": [bi(o) for o in q["options"]], "answer": q["answer"],
                       "why": {"en": "Correct answer: " + q["letters"], "zh": "正確答案：" + q["letters"]}, "refs": [], "src": q["source"]})
+    for q in examq.get(n, []):
+        qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": q["stem"], "options": q["options"], "answer": q["answer"],
+                      "why": q["rationale"], "refs": q.get("pdf_pages", [])[:3], "src": "Original NCLEX-style item, written for this site", "cat0": q.get("cat")})
 
 # ---- mock-exam metadata: NCLEX client-needs category (approximate chapter mapping) and a heuristic difficulty ----
 CAT = {}
@@ -121,7 +144,7 @@ def difficulty(q):
     return round(max(-1.5, min(1.5, b)), 2)
 
 for q in qdata:
-    q["cat"] = CAT.get(q["ch"]); q["b"] = difficulty(q)
+    q["cat"] = q.pop("cat0", None) or CAT.get(q["ch"]); q["b"] = difficulty(q)
 (docs / "assets").mkdir(exist_ok=True)
 (docs / "assets/questions.json").write_text(json.dumps(qdata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 sidx = {"ch": {}, "items": []}
@@ -146,4 +169,4 @@ for i, c in enumerate(chapters):
                   prev=chapters[i - 1] if i else None, next=chapters[i + 1] if i + 1 < len(chapters) else None)
     (docs / f"ch{c['number']:02d}.html").write_text(page, encoding="utf-8")
 (docs / ".nojekyll").write_text("")
-print(f"{'LOCAL ' if LOCAL else ''}built {len(chapters)} pages ({len(content)} with content), {len(qdata)} quiz questions")
+print(f"{'LOCAL ' if LOCAL else ''}built {len(chapters)} pages ({len(content)} with content), {len(qdata)} quiz questions ({sum(len(v) for v in examq.values())} from examq, {sum(len(v) for v in ext_by_ch.values())} from free UWorld samples)")

@@ -1,0 +1,290 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving induction chemotherapy for acute lymphocytic leukemia with a very high white blood cell count develops tumor lysis syndrome. Which findings should the nurse expect related to this complication? Select all that apply.", "zh": "一名因白血球計數極高的急性淋巴性白血病而接受誘導化療的病人，發生腫瘤溶解症候群。護理師預期會出現下列哪些與此併發症相關的徵象？（複選）"},
+    "options": [
+      {"en": "Serum potassium of 6.2 mEq/L (6.2 mmol/L)", "zh": "血清鉀6.2 mEq/L（6.2 mmol/L）"},
+      {"en": "Muscle twitching and tetany", "zh": "肌肉抽動與低鈣性抽搦（tetany）"},
+      {"en": "Serum uric acid of 12 mg/dL (714 micromol/L)", "zh": "血清尿酸12 mg/dL（714 micromol/L）"},
+      {"en": "Decreased urine output", "zh": "尿量減少"},
+      {"en": "Serum glucose of 70 mg/dL (3.9 mmol/L)", "zh": "血糖70 mg/dL（3.9 mmol/L）"},
+      {"en": "Serum phosphorus of 2.5 mg/dL (0.81 mmol/L)", "zh": "血磷2.5 mg/dL（0.81 mmol/L）"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Tumor lysis syndrome releases intracellular potassium, phosphorus, and uric acid faster than the body can eliminate them, producing hyperkalemia, hyperphosphatemia with resultant hypocalcemia (muscle twitching/tetany), and hyperuricemia, which can cause acute kidney injury and decreased urine output. A normal glucose level and a normal-to-low phosphorus level are not expected because hyperphosphatemia, not hypophosphatemia, occurs.", "zh": "腫瘤溶解症候群使細胞內的鉀、磷與尿酸釋放速度超過身體排除的速度，造成高血鉀、高血磷（導致低血鈣而肌肉抽動/抽搦），以及高尿酸血症（可導致急性腎損傷與尿量減少）。血糖正常與血磷正常或偏低並非預期表現，因為實際上會出現高血磷而非低血磷。"},
+    "pdf_pages": [638],
+    "tags": ["sata", "red flag", "recognize cues", "oncologic emergency"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for four clients with chemotherapy-induced neutropenia. Which assessment finding requires the MOST immediate action?", "zh": "護理師正在照護四位因化療而出現嗜中性白血球低下的病人。下列哪項評估發現最需要立即處置？"},
+    "options": [
+      {"en": "A temperature of 100.9°F (38.3°C) in a client whose absolute neutrophil count is critically low", "zh": "一名嗜中性白血球絕對值極低的病人，體溫100.9°F（38.3°C）"},
+      {"en": "A capillary refill of 3 seconds in a client with hypoalbuminemia", "zh": "一名低白蛋白血症病人，毛細血管再填充時間3秒"},
+      {"en": "Dry oral mucosa in a client who reports decreased oral fluid intake", "zh": "一名自述水分攝取減少的病人，口腔黏膜乾燥"},
+      {"en": "Scattered ecchymoses on the forearms of a client whose platelet count is 90,000/mm3", "zh": "一名血小板90,000/mm3的病人，前臂散布淤斑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "In a profoundly neutropenic client, the body cannot mount a normal inflammatory response, so even a low-grade fever (greater than 100.4°F/38°C) may be the only sign of life-threatening sepsis and requires immediate notification of the PHCP, blood cultures, and prompt IV antibiotics. The other findings are abnormal but less acutely life-threatening.", "zh": "在嗜中性白血球嚴重低下的病人，身體無法產生正常發炎反應，因此即使是輕度發燒（超過100.4°F/38°C）也可能是致命性敗血症唯一的徵象，需立即通知醫療人員、採血液培養並儘速給予靜脈抗生素。其餘發現雖異常，但急性致命風險較低。"},
+    "pdf_pages": [617],
+    "tags": ["priority", "red flag", "requires immediate action", "neutropenic sepsis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with septic shock secondary to febrile neutropenia develops disseminated intravascular coagulation (DIC). The nurse notes oozing of blood from old venipuncture sites, epistaxis, and a platelet count of 18,000/mm3. The nurse anticipates which prescribed treatment?", "zh": "一名因發熱性嗜中性白血球低下導致敗血性休克的病人出現瀰漫性血管內凝血（DIC）。護理師注意到舊靜脈穿刺部位滲血、鼻出血，血小板為18,000/mm3。護理師預期會執行下列哪項醫囑治療？"},
+    "options": [
+      {"en": "Administration of cryoprecipitate and fresh frozen plasma", "zh": "給予冷凍沉澱物（cryoprecipitate）與新鮮冷凍血漿"},
+      {"en": "Administration of an oral anticoagulant such as warfarin", "zh": "給予口服抗凝劑，如warfarin"},
+      {"en": "Administration of vitamin K only, with no blood products", "zh": "僅給予維生素K，不給予血液製劑"},
+      {"en": "Withholding all blood products until the fibrinogen level normalizes", "zh": "暫停所有血液製劑，直到纖維蛋白原恢復正常值"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Anticoagulants may be used early in DIC, but once DIC progresses to the hemorrhagic phase with active bleeding and severe thrombocytopenia, cryoprecipitated clotting factors (and fresh frozen plasma/platelets) are administered to replace consumed clotting factors and control hemorrhage.", "zh": "DIC早期可能使用抗凝劑，但一旦進展至出血期，出現活動性出血與嚴重血小板低下時，需給予冷凍沉澱凝血因子（及新鮮冷凍血漿/血小板）以補充被消耗的凝血因子並控制出血。"},
+    "pdf_pages": [636],
+    "tags": ["oncologic emergency", "red flag", "generate solutions"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with metastatic breast cancer calls the clinic reporting new onset of severe back pain, bilateral leg weakness, and numbness in both legs. Which nursing action is the PRIORITY?", "zh": "一名轉移性乳癌病人致電診所，報告新發生嚴重背痛、雙腿無力與雙腳麻木。護理師的優先處置為下列何者？"},
+    "options": [
+      {"en": "Instruct the client to apply heat to the back and call back if the pain persists", "zh": "指導病人在背部熱敷，若疼痛持續再回電"},
+      {"en": "Advise the client to take the prescribed opioid and recheck symptoms in the morning", "zh": "建議病人服用醫師開立的鴉片類藥物，隔天早上再追蹤症狀"},
+      {"en": "Instruct the client to go to the emergency department immediately for evaluation", "zh": "指導病人立即前往急診就醫評估"},
+      {"en": "Schedule an outpatient MRI for later in the week", "zh": "安排本週稍晚進行門診MRI檢查"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Back pain that precedes neurological deficits is an early warning sign of spinal cord compression, an oncological emergency. New bilateral leg weakness and numbness indicate the deficits have begun, so the client needs immediate medical evaluation (high-dose corticosteroids and emergency radiation or surgery) to prevent permanent paralysis.", "zh": "背痛常先於神經學缺損出現，是脊髓壓迫（腫瘤學急症）的早期警訊。雙腿無力與麻木代表神經缺損已開始，病人需立即就醫評估（高劑量皮質類固醇、緊急放療或手術），以避免永久性癱瘓。"},
+    "pdf_pages": [637],
+    "tags": ["priority", "red flag", "requires immediate action", "oncologic emergency", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with lung cancer and known bone metastasis. Which finding is MOST concerning for life-threatening hypercalcemia?", "zh": "護理師照護一名肺癌併已知骨轉移的病人。下列哪項發現最令人擔憂為危及生命的高血鈣？"},
+    "options": [
+      {"en": "Mild fatigue and anorexia", "zh": "輕度疲倦與食慾不振"},
+      {"en": "Constipation and polyuria", "zh": "便秘與多尿"},
+      {"en": "Severe muscle weakness, diminished deep tendon reflexes, and paralytic ileus", "zh": "嚴重肌肉無力、深腱反射減弱與麻痺性腸阻塞"},
+      {"en": "Mild nausea that resolves after an antiemetic", "zh": "服用止吐藥後緩解的輕度噁心"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Fatigue, anorexia, nausea, constipation, and polyuria are early, milder signs of hypercalcemia. Severe muscle weakness, diminished deep tendon reflexes, paralytic ileus, dehydration, and ECG changes are more serious manifestations that signal worsening, life-threatening hypercalcemia requiring urgent treatment.", "zh": "疲倦、食慾不振、噁心、便秘與多尿屬於高血鈣較輕微的早期徵象。嚴重肌肉無力、深腱反射減弱、麻痺性腸阻塞、脫水與心電圖改變則屬於較嚴重的表現，提示高血鈣惡化、危及生命，需緊急治療。"},
+    "pdf_pages": [637],
+    "tags": ["red flag", "recognize cues", "oncologic emergency"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Which assessment finding would the nurse recognize as an EARLY sign of superior vena cava syndrome in a client with lung cancer?", "zh": "護理師在一名肺癌病人身上，應將下列哪項評估發現視為上腔靜脈症候群的「早期」徵象？"},
+    "options": [
+      {"en": "Cyanosis and hypotension", "zh": "發紺與低血壓"},
+      {"en": "Facial edema most noticeable in the morning, with tightness of the shirt collar", "zh": "清晨最明顯的臉部水腫，合併襯衫領口變緊"},
+      {"en": "Massive epistaxis", "zh": "大量鼻出血"},
+      {"en": "Decreased level of consciousness", "zh": "意識水準下降"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Early signs of superior vena cava syndrome generally occur in the morning and include facial edema (especially around the eyes) and tightness of the shirt collar (Stokes' sign). Airway obstruction, hemorrhage, cyanosis, altered mental status, and hypotension are life-threatening, late signs.", "zh": "上腔靜脈症候群的早期徵象通常於晨間出現，包括臉部水腫（尤其眼周）與襯衫領口變緊（Stokes徵象）。呼吸道阻塞、出血、發紺、意識改變與低血壓則屬於危及生命的晚期徵象。"},
+    "pdf_pages": [637],
+    "tags": ["recognize cues", "oncologic emergency", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse turns a client who has a sealed cervical radiation implant and discovers the implant lying on the bed linens. What is the nurse's FIRST action?", "zh": "護理師為一名裝有密封性子宮頸放射植入物的病人翻身時，發現植入物掉落在床單上。護理師的第一個行動應為下列何者？"},
+    "options": [
+      {"en": "Reinsert the implant into the vagina using clean gloves", "zh": "戴上清潔手套，將植入物重新放入陰道"},
+      {"en": "Pick up the implant with gloved hands and place it in a biohazard bag", "zh": "戴手套將植入物拾起，放入生物危害袋"},
+      {"en": "Instruct the client to lie still, retrieve the source with long-handled forceps, and place it in the lead-lined container", "zh": "指導病人保持不動，使用長柄鉗取出放射源，放入鉛製容器中"},
+      {"en": "Call environmental services to remove the linens immediately", "zh": "立即通知清潔人員移除床單"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A dislodged sealed radioactive source should never be touched with bare or gloved hands. The nurse keeps the client still, uses long-handled forceps to place the source in the shielded lead container, restricts others from entering the room, notifies the radiation oncologist, and documents the event.", "zh": "脫落的密封放射源絕不可用赤手或戴手套直接觸碰。護理師應讓病人保持不動，使用長柄鉗將放射源放入鉛製屏蔽容器，限制他人進入房間，通知放射腫瘤科醫師，並記錄此事件。"},
+    "pdf_pages": [614, 615],
+    "tags": ["first action", "safety", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client with a sealed radiation implant for cervical cancer. Which precautions are appropriate? Select all that apply.", "zh": "護理師照護一名裝有密封性放射植入物以治療子宮頸癌的病人。下列哪些防護措施是適當的？（複選）"},
+    "options": [
+      {"en": "Limit time in the room to 30 minutes per care provider per shift", "zh": "每班每位照護人員在房間內的時間限制為30分鐘"},
+      {"en": "Wear a dosimeter film badge while providing care", "zh": "提供照護時佩戴劑量計膜章"},
+      {"en": "Allow a nurse who is trying to conceive to be assigned to the client", "zh": "可指派正試圖懷孕的護理師照護此病人"},
+      {"en": "Rotate nursing staff assignments to the client", "zh": "輪替負責照護此病人的護理人員"},
+      {"en": "Place a radiation precaution sign on the client's door", "zh": "在病人房門上張貼放射防護標示"},
+      {"en": "Allow visitors to stay as long as they wish at the bedside", "zh": "允許訪客在床邊停留任意時間"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Precautions include limiting time to 30 minutes per care provider per shift, wearing a dosimeter badge, rotating staff assignments, and posting a radiation precaution sign. A person trying to conceive (or a pregnant staff member) should not be assigned to the client, and visitors are limited to 30 minutes per day at least 6 feet from the source.", "zh": "防護措施包括每班每位照護人員時間限制30分鐘、佩戴劑量計膜章、輪替照護人員、張貼放射防護標示。正試圖懷孕者（或孕婦）不應被指派照護此病人，訪客每日應限制30分鐘並與放射源保持至少6英尺距離。"},
+    "pdf_pages": [614],
+    "tags": ["sata", "safety", "radiation precautions"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A new graduate nurse asks why a combination chemotherapy regimen is planned so that the medications have different nadir times. What is the PHCP's/experienced nurse's BEST explanation?", "zh": "一位新進護理師詢問，為何多藥聯合化療方案要特意安排不同藥物的最低點（nadir）時間不同。資深護理師最適當的解釋為下列何者？"},
+    "options": [
+      {"en": "\"It allows the medications to be given at a lower total dose.\"", "zh": "「這樣可以讓藥物以較低總劇量給予。」"},
+      {"en": "\"It reduces the overall cost of treatment by spacing out the drugs.\"", "zh": "「這樣能透過拉開給藥間隔來降低治療成本。」"},
+      {"en": "\"It prevents the bone marrow and white blood cell counts from being at their lowest point from multiple drugs at the same time, which minimizes immunosuppression.\"", "zh": "「這樣可避免多種藥物同時使骨髓與白血球計數降到最低點，從而降低免疫抑制的程度。」"},
+      {"en": "\"It ensures the client develops immunity to the cancer more quickly after treatment.\"", "zh": "「這樣可確保病人治療後更快對癌症產生免疫力。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Combination chemotherapy is planned so that medications with overlapping toxicities and nadirs (when bone marrow activity and WBC counts are lowest) are not given at or near the same time, which minimizes the degree of immunosuppression.", "zh": "多藥聯合化療的規劃會避免讓具重疊毒性與最低點（骨髓活性及白血球計數最低的時期）的藥物在同一時間或相近時間給予，以降低免疫抑制的程度。"},
+    "pdf_pages": [613],
+    "tags": ["chemotherapy", "dosage calc", "evaluate outcomes"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews platelet counts for four clients receiving chemotherapy. Which client is at risk for SPONTANEOUS bleeding and most likely requires a platelet transfusion?", "zh": "護理師查看四位接受化療病人的血小板計數。下列哪位病人有「自發性」出血風險，最可能需要輸注血小板？"},
+    "options": [
+      {"en": "Platelet count of 140,000/mm3", "zh": "血小板140,000/mm3"},
+      {"en": "Platelet count of 85,000/mm3", "zh": "血小板85,000/mm3"},
+      {"en": "Platelet count of 55,000/mm3", "zh": "血小板55,000/mm3"},
+      {"en": "Platelet count of 18,000/mm3", "zh": "血小板18,000/mm3"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "The client is at risk for bleeding when the platelet count falls below 50,000/mm3, and spontaneous bleeding frequently occurs when the count is lower than 20,000/mm3; clients with counts below 20,000/mm3 may need a platelet transfusion.", "zh": "血小板低於50,000/mm3時病人即有出血風險，低於20,000/mm3時常發生自發性出血；血小板低於20,000/mm3的病人可能需要輸注血小板。"},
+    "pdf_pages": [617],
+    "tags": ["labs", "red flag", "dosage calc"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is caring for a client with severe neutropenia following chemotherapy. Which task is appropriate to delegate to the unlicensed assistive personnel (UAP)?", "zh": "RN照護一名化療後出現嚴重嗜中性白血球低下的病人。下列哪項任務適合委派給無照護理佐理人員（UAP）？"},
+    "options": [
+      {"en": "Assessing the client's oral mucosa for early signs of infection", "zh": "評估病人口腔黏膜，判斷是否有早期感染徵象"},
+      {"en": "Teaching the client about the rationale for a neutropenic diet", "zh": "教導病人嗜中性白血球低下飲食的原理"},
+      {"en": "Assisting the client with daily bathing using antimicrobial soap", "zh": "協助病人每日使用抗菌皂沐浴"},
+      {"en": "Determining whether the client needs a prescribed antipyretic for a new fever", "zh": "判斷病人新發燒是否需要給予醫師開立的退熱藥"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Assisting with hygiene (bathing with antimicrobial soap) is within the UAP's scope of practice. Assessment, client teaching, and clinical judgment about medication administration for a new finding require RN-level judgment and cannot be delegated.", "zh": "協助衛生照護（以抗菌皂沐浴）屬於UAP職責範圍。評估、病人教育，以及針對新發現所需的用藥臨床判斷，皆屬RN層級判斷，不得委派。"},
+    "pdf_pages": [617],
+    "tags": ["delegation", "infection control"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client with chemotherapy-induced mucositis has oral ulcerations. Which instruction should the nurse include in the client's mouth care plan?", "zh": "一名化療導致黏膜炎的病人有口腔潰瘍。護理師應將下列哪項指導納入其口腔照護計畫？"},
+    "options": [
+      {"en": "Use a mouthwash containing alcohol to disinfect the oral mucosa", "zh": "使用含酒精的漱口水消毒口腔黏膜"},
+      {"en": "Rinse the mouth every 12 hours with the prescribed solution and use a soft-bristled toothbrush", "zh": "每12小時以醫師開立的溶液漱口，並使用軟毛牙刷"},
+      {"en": "Use dental floss vigorously after each meal to prevent plaque buildup", "zh": "每餐後用力使用牙線以預防牙菌斑堆積"},
+      {"en": "Offer hot soups and spicy foods to stimulate appetite", "zh": "提供熱湯與辛辣食物以刺激食慾"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mouth care for mucositis includes rinses every 12 hours with the prescribed solution and brushing with a soft-bristled toothbrush or sponge. Alcohol- or glycerin-based mouthwashes irritate the mucosa, vigorous flossing can traumatize ulcerated tissue, and hot, spicy, hard, or cold foods should be avoided in favor of soft, cool-to-warm foods.", "zh": "黏膜炎的口腔照護包括每12小時以醫師開立溶液漱口，並使用軟毛牙刷或海綿刷牙。含酒精或甘油的漱口水會刺激黏膜，用力使用牙線可能造成潰瘍組織創傷，應避免熱、辣、硬或冷的食物，改以軟質、溫涼食物為宜。"},
+    "pdf_pages": [617, 618],
+    "tags": ["comfort", "mucositis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is planning care for a client newly diagnosed with multiple myeloma who has hypercalcemia and lytic bone lesions. Which intervention is the PRIORITY?", "zh": "護理師為一名新診斷多發性骨髓瘤、合併高血鈣與溶骨性病灶的病人規劃照護。下列哪項介入措施為優先？"},
+    "options": [
+      {"en": "Maintain strict bedrest to prevent pathological fractures", "zh": "維持絕對臥床以預防病理性骨折"},
+      {"en": "Encourage fluid intake of at least 2 L/day and ambulation as tolerated", "zh": "鼓勵每日至少攝取2公升液體，並依耐受程度下床活動"},
+      {"en": "Restrict dietary calcium and protein intake", "zh": "限制飲食中鈣質與蛋白質攝取"},
+      {"en": "Insert an indwelling urinary catheter to continuously monitor urine output", "zh": "插入留置導尿管以持續監測尿量"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fluid intake of at least 2 L/day is encouraged to offset hypercalcemia, hyperuricemia, and proteinuria, and ambulation is encouraged because it helps prevent renal problems and slows bone resorption; decreased physical mobility actually contributes to or worsens hypercalcemia, so strict bedrest is avoided. Skeletal support, not immobility, is used to prevent fractures.", "zh": "鼓勵每日攝取至少2公升液體以緩解高血鈣、高尿酸血症與蛋白尿，並鼓勵下床活動，因活動有助於預防腎臟問題並減緩骨質再吸收；活動量減少反而會加重高血鈣，因此應避免絕對臥床。預防骨折應以骨骼支持取代臥床不動。"},
+    "pdf_pages": [619],
+    "tags": ["priority", "generate solutions"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Which findings would the nurse expect to assess in a client with Hodgkin's disease? Select all that apply.", "zh": "護理師在一名何杰金氏病（Hodgkin's disease）病人身上，預期會評估到下列哪些發現？（複選）"},
+    "options": [
+      {"en": "Painless enlarged cervical lymph node", "zh": "無痛性頸部淋巴結腫大"},
+      {"en": "Night sweats", "zh": "夜間盜汗"},
+      {"en": "Significant unexplained weight gain", "zh": "明顯且無法解釋的體重增加"},
+      {"en": "Fever and chills", "zh": "發燒與寒顫"},
+      {"en": "Presence of Reed-Sternberg cells on lymph node biopsy", "zh": "淋巴結活體組織切片發現Reed-Sternberg細胞"},
+      {"en": "Hypertension", "zh": "高血壓"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Hodgkin's disease classically presents with painless enlarged lymph nodes (cervical nodes most often affected first), fever, chills, night sweats, malaise, and significant weight loss (not gain). Reed-Sternberg cells are the diagnostic hallmark found on lymph node biopsy. Hypertension is not a characteristic finding.", "zh": "何杰金氏病典型表現為無痛性淋巴結腫大（頸部淋巴結最常先受影響）、發燒、寒顫、夜間盜汗、倦怠及明顯的體重「減輕」（非增加）。Reed-Sternberg細胞是診斷的標誌，可於淋巴結切片中發現。高血壓並非此疾病的特徵性表現。"},
+    "pdf_pages": [618],
+    "tags": ["sata", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews laboratory results for a client with aplastic anemia: hemoglobin 7.8 g/dL, white blood cell count 1,800/mm3, platelet count 15,000/mm3. Which finding is the MOST concerning and requires immediate nursing attention?", "zh": "護理師查看一名再生不良性貧血病人的檢驗結果：血紅素7.8 g/dL、白血球1,800/mm3、血小板15,000/mm3。下列哪項發現最令人擔憂，需要立即護理處置？"},
+    "options": [
+      {"en": "The hemoglobin level alone", "zh": "單獨看血紅素數值"},
+      {"en": "New petechiae and active gum bleeding", "zh": "新出現的瘀點與活動性牙齦出血"},
+      {"en": "Reports of mild fatigue", "zh": "病人自述輕度疲倦"},
+      {"en": "Pale skin color", "zh": "皮膚蒼白"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Aplastic anemia causes pancytopenia, placing the client at risk for anemia, infection, and bleeding. With a platelet count of 15,000/mm3 (below the 20,000/mm3 threshold for spontaneous bleeding), new active bleeding such as petechiae and gum bleeding is an acute finding requiring immediate intervention, whereas fatigue and pallor are more chronic manifestations of the anemia.", "zh": "再生不良性貧血造成全血球低下（pancytopenia），使病人有貧血、感染與出血風險。血小板15,000/mm3已低於20,000/mm3自發性出血的門檻，新出現的活動性出血（瘀點、牙齦出血）屬於需立即處置的急性發現，而疲倦與蒼白則屬於貧血較慢性的表現。"},
+    "pdf_pages": [639, 640],
+    "tags": ["labs", "red flag", "recognize cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with pernicious anemia caused by a lack of intrinsic factor asks why taking oral iron tablets will not correct the anemia. What is the nurse's BEST explanation?", "zh": "一名因缺乏內因子（intrinsic factor）而導致惡性貧血的病人詢問，為何服用口服鐵劑無法改善貧血。護理師最適當的解釋為下列何者？"},
+    "options": [
+      {"en": "\"Your anemia is caused by inadequate absorption of vitamin B12, not a lack of iron, so you will need vitamin B12 injections, usually weekly at first and then monthly for life.\"", "zh": "「您的貧血是因為維生素B12吸收不良所致，而非缺鐵，因此您需要注射維生素B12，起初每週一次，之後改為每月一次並需終身注射。」"},
+      {"en": "\"Oral iron is never absorbed, so intramuscular iron injections are required instead.\"", "zh": "「口服鐵劑永遠無法被吸收，因此必須改用肌肉注射鐵劑。」"},
+      {"en": "\"You will only need one injection of vitamin B12 to cure the anemia permanently.\"", "zh": "「您只需要注射一次維生素B12，就能永久治癒此貧血。」"},
+      {"en": "\"Taking iron with orange juice will correct the intrinsic factor deficiency.\"", "zh": "「把鐵劑和柳橙汁一起服用，就能改善內因子缺乏的問題。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Pernicious anemia results from a deficiency of intrinsic factor, which is necessary for intestinal absorption of vitamin B12, not from an iron deficiency. Vitamin B12 injections are given weekly initially and then monthly for lifelong maintenance when the cause is a deficiency of intrinsic factor or disease/surgery of the ileum.", "zh": "惡性貧血是因缺乏內因子（腸道吸收維生素B12所必需）而導致，並非缺鐵所造成。當病因為內因子缺乏或迴腸疾病/手術時，需起初每週注射維生素B12，之後改為每月注射以終身維持。"},
+    "pdf_pages": [639],
+    "tags": ["medication safety", "patient teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client with iron-deficiency anemia about oral iron supplements. Which instructions should be included? Select all that apply.", "zh": "護理師對一名缺鐵性貧血病人進行口服鐵劑的衛教。應納入下列哪些指導內容？（複選）"},
+    "options": [
+      {"en": "Take the iron supplement between meals for maximum absorption", "zh": "應於兩餐之間服用鐵劑，以達最大吸收效果"},
+      {"en": "Take the iron supplement with milk to reduce stomach upset", "zh": "應與牛奶一起服用鐵劑，以減少胃部不適"},
+      {"en": "Take the iron supplement with a source of vitamin C, such as orange or tomato juice", "zh": "應搭配維生素C來源（如柳橙汁或番茄汁）服用鐵劑"},
+      {"en": "Expect the stools to turn black", "zh": "服藥後糞便預期會變成黑色"},
+      {"en": "Drink liquid iron preparations through a straw", "zh": "液態鐵劑應使用吸管飲用"},
+      {"en": "Take the iron supplement with an antacid if heartburn occurs", "zh": "若出現燒心感，可與制酸劑一起服用鐵劑"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Iron should be taken between meals with a vitamin C source (such as orange or tomato juice) to enhance absorption; black stools are an expected side effect; liquid iron should be taken through a straw and the teeth brushed afterward to prevent staining. Milk and antacids decrease iron absorption and should be avoided.", "zh": "鐵劑應於兩餐之間服用，並搭配維生素C來源（如柳橙汁或番茄汁）以促進吸收；黑便為預期的副作用；液態鐵劑應以吸管飲用，服用後刷牙以避免染色。牛奶與制酸劑會降低鐵的吸收，應避免同時服用。"},
+    "pdf_pages": [638, 639],
+    "tags": ["sata", "medication safety", "patient teaching"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client is 2 days post unilateral orchiectomy for testicular cancer. Which finding should the nurse report to the PHCP?", "zh": "一名病人於單側睪丸切除術（因睪丸癌）後第2天。護理師應將下列哪項發現向醫療人員報告？"},
+    "options": [
+      {"en": "Mild scrotal swelling that improves with an ice pack", "zh": "輕度陰囊腫脹，冰敷後有改善"},
+      {"en": "Incisional pain rated 3/10 after the prescribed analgesic", "zh": "服用醫囑止痛藥後，傷口疼痛評分為3/10"},
+      {"en": "Temperature of 101.4°F (38.6°C) with increasing redness at the incision site", "zh": "體溫101.4°F（38.6°C），傷口處紅腫加劇"},
+      {"en": "Serosanguineous drainage on the dressing the morning after surgery", "zh": "術後第一天早晨，敷料上有淡血性滲液"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The client should be instructed to notify the PHCP if chills, fever, increasing pain or tenderness at the incision site, or drainage from the incision occurs. Fever with increasing redness suggests a developing wound infection and requires prompt reporting; the other findings are expected early postoperative findings.", "zh": "應指導病人若出現寒顫、發燒、傷口疼痛或壓痛加劇、或傷口有分泌物時，需通知醫療人員。發燒合併紅腫加劇提示傷口感染可能，需立即報告；其餘選項則屬術後早期的預期表現。"},
+    "pdf_pages": [620],
+    "tags": ["red flag", "postoperative", "requires immediate action"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 28-year-old client newly diagnosed with testicular cancer is scheduled to begin chemotherapy and states, \"I don't even want to think about having kids right now, just get rid of the cancer.\" What is the nurse's MOST appropriate response?", "zh": "一名28歲剛確診睪丸癌、即將開始化療的病人表示：「我現在根本不想考慮生小孩的事，先把癌症治好就好。」護理師最適當的回應為下列何者？"},
+    "options": [
+      {"en": "\"You should prioritize sperm banking before treatment starts, I'll arrange it today.\"", "zh": "「您應該優先在治療開始前進行精子冷凍保存，我今天就幫您安排。」"},
+      {"en": "\"That's understandable. I want you to know that chemotherapy can affect fertility, and sperm banking is an option if you change your mind before treatment begins.\"", "zh": "「這是可以理解的。我想讓您知道化療可能影響生育能力，若您在治療開始前改變想法，精子冷凍保存是一個選項。」"},
+      {"en": "\"Don't worry about that now, you can always adopt children later if needed.\"", "zh": "「現在先別擔心這個，之後如果需要，您還是可以領養小孩。」"},
+      {"en": "Say nothing further about fertility, since the client has already made a decision", "zh": "不再提及生育議題，因為病人已經做出決定"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The chapter emphasizes discussing the possibility of sterility and informing the client of fertility options such as sperm banking. The best therapeutic response acknowledges and validates the client's feelings while still providing essential information, leaving the decision in the client's control rather than pressuring or dismissing the concern.", "zh": "教材強調應與病人討論不孕的可能性，並告知病人如精子冷凍保存等生育選項。最佳治療性溝通應先同理並肯認病人的感受，同時仍提供必要資訊，將決定權留給病人，而非施加壓力或忽視此議題。"},
+    "pdf_pages": [619, 620],
+    "tags": ["therapeutic communication", "psychosocial"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client how to perform a testicular self-examination. Which statement by the client indicates correct understanding?", "zh": "護理師教導病人如何進行睪丸自我檢查。病人下列哪項說法顯示其正確理解？"},
+    "options": [
+      {"en": "\"I should examine my testicles once a year during my annual physical.\"", "zh": "「我應該在每年的健康檢查時檢查一次睪丸就好。」"},
+      {"en": "\"The best time to perform the exam is right after a warm shower, when the scrotal skin is relaxed.\"", "zh": "「進行檢查最佳的時間是溫水沖澡後，此時陰囊皮膚較放鬆。」"},
+      {"en": "\"I should use my thumb and one finger to squeeze the testicle firmly to check for lumps.\"", "zh": "「我應該用拇指和一根手指用力擠壓睪丸，以檢查是否有腫塊。」"},
+      {"en": "\"A normal testicle should feel very hard, like a knuckle.\"", "zh": "「正常的睪丸應該觸感非常堅硬，像指關節一樣。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Testicular self-examination should be performed monthly, on the same day each month, right after a shower when the scrotal skin is moist and relaxed, making the testicles easier to feel. The testicle is gently rolled between the thumb and fingers, not squeezed firmly, and should feel firm but not hard, smooth, and without lumps.", "zh": "睪丸自我檢查應每月於固定日期進行一次，最佳時機為沖澡後，此時陰囊皮膚濕潤放鬆，較易觸診。應以拇指與手指輕輕滾動睪丸，而非用力擠壓；正常睪丸應觸感結實但不堅硬、表面平滑、無腫塊。"},
+    "pdf_pages": [619],
+    "tags": ["screening", "patient teaching", "health promotion"]
+  }
+]

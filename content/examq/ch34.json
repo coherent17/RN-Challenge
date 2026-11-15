@@ -1,0 +1,308 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A 4-week-old infant has a 1-week history of nonbloody, nonbilious vomiting that has progressively become projectile after feedings, along with hunger and irritability between episodes. On palpation the nurse notes a small olive-shaped mass in the right upper epigastrium. Today the parent reports the vomitus now looks greenish. Which finding is most concerning and requires immediate notification of the primary health care provider (PHCP)?",
+      "zh": "一名4週大的嬰兒，過去一週出現不含血、不含膽汁的嘔吐，餵食後逐漸變為噴射性嘔吐，兩次嘔吐之間則表現出飢餓與躁動不安。護理師觸診時於右上腹觸及一顆橄欖狀腫塊。今日家長表示嘔吐物呈現綠色。下列哪項發現最令人擔憂，需立即通知醫療照護提供者(PHCP)？"
+    },
+    "options": [
+      {"en": "Projectile vomiting that occurs immediately after feeding", "zh": "餵食後立即出現噴射性嘔吐"},
+      {"en": "Vomitus that is now bile-stained (greenish)", "zh": "嘔吐物目前呈現膽汁染色（綠色）"},
+      {"en": "A palpable olive-shaped mass in the epigastrium", "zh": "上腹部可觸及橄欖狀腫塊"},
+      {"en": "Visible peristaltic waves moving left to right across the abdomen", "zh": "腹部可見從左向右移動的蠕動波"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Vomiting in hypertrophic pyloric stenosis is classically nonbilious because the obstruction is proximal to the duodenum, where bile enters the GI tract; vomitus does not usually contain bile. Bile-stained emesis suggests obstruction distal to the ampulla of Vater (e.g., malrotation/volvulus) and signals a different, potentially more acute surgical emergency, so it warrants urgent evaluation. Projectile vomiting after feeds, an olive-shaped mass, and visible peristaltic waves are expected findings of pyloric stenosis itself.",
+      "zh": "肥厚性幽門狹窄的嘔吐物典型為不含膽汁，因為阻塞部位位於十二指腸（膽汁進入消化道的位置）之前；嘔吐物通常不含膽汁。若出現膽汁染色的嘔吐物，則提示阻塞位置在十二指腸乏特氏乳頭之後（例如腸扭轉/中腸旋轉不良），屬於不同且可能更緊急的外科急症，需立即評估。餵食後噴射性嘔吐、橄欖狀腫塊及可見的蠕動波都是幽門狹窄本身的預期表現。"
+    },
+    "pdf_pages": [480, 481],
+    "tags": ["most concerning finding", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "An 8-month-old is brought to the emergency department. The parent reports episodes in which the infant suddenly screams and draws the knees up to the abdomen, followed by periods when the infant appears lethargic but comfortable. Select all findings that are consistent with intussusception.",
+      "zh": "一名8個月大嬰兒被送至急診。家長表示嬰兒會突然尖叫並將雙膝蜷縮至腹部，之後出現嗜睡、看起來舒適的間歇期。請選出所有符合腸套疊（intussusception）表現的項目。"
+    },
+    "options": [
+      {"en": "Currant jelly-like stools containing blood and mucus", "zh": "含血與黏液的果醬狀（currant jelly-like）大便"},
+      {"en": "A sausage-shaped mass palpable in the upper right quadrant", "zh": "右上腹可觸及香腸狀腫塊"},
+      {"en": "An olive-shaped mass palpable just right of the umbilicus", "zh": "臍部右側可觸及橄欖狀腫塊"},
+      {"en": "Bile-stained, fecal-appearing emesis", "zh": "膽汁染色、類似糞便的嘔吐物"},
+      {"en": "Ribbon-like, foul-smelling stools", "zh": "帶狀且有惡臭的大便"},
+      {"en": "Episodes of colicky pain alternating with periods in which the infant appears well", "zh": "絞痛發作與看似無恙的間歇期交替出現"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "Intussusception classically presents with colicky abdominal pain causing the infant to draw the knees up, currant jelly-like stools (blood and mucus), a palpable sausage-shaped mass in the upper right quadrant, and vomiting of gastric contents or bile-stained fecal emesis, with pain episodes alternating with symptom-free intervals. An olive-shaped mass is characteristic of hypertrophic pyloric stenosis, and ribbon-like foul-smelling stools are characteristic of Hirschsprung's disease, not intussusception.",
+      "zh": "腸套疊的典型表現包括絞痛性腹痛合併雙膝蜷縮、果醬狀大便（血液與黏液）、右上腹可觸及香腸狀腫塊，以及膽汁染色或類似糞便的嘔吐物，疼痛發作常與無症狀間歇期交替出現。橄欖狀腫塊是肥厚性幽門狹窄的表現；帶狀惡臭大便則是先天性巨結腸症的表現，兩者皆非腸套疊特徵。"
+    },
+    "pdf_pages": [483, 484],
+    "tags": ["sata", "recognizing cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A child hospitalized with suspected appendicitis has had worsening periumbilical pain that localized to the right lower quadrant with rebound tenderness. Over the past hour the child suddenly reports that the pain is completely gone and appears to be resting comfortably. Thirty minutes later the child becomes restless, the abdomen appears more distended, and the temperature rises from 37.2°C to 38.6°C (99°F to 101.5°F). What should the nurse do first?",
+      "zh": "一名因疑似闌尾炎住院的兒童，臍周疼痛逐漸惡化並局限於右下腹，伴隨反彈痛。過去一小時，病童突然表示疼痛完全消失，看起來休息得很舒適。三十分鐘後，病童開始躁動不安，腹部看起來更脹，體溫由37.2°C（99°F）升至38.6°C（101.5°F）。護理師應優先採取下列哪項行動？"
+    },
+    "options": [
+      {"en": "Document the resolution of pain as an improvement and continue routine monitoring", "zh": "將疼痛緩解記錄為病情改善，並依常規持續監測"},
+      {"en": "Notify the PHCP immediately, because this pattern suggests perforation with peritonitis", "zh": "立即通知醫療照護提供者，因為此型態提示闌尾穿孔與腹膜炎"},
+      {"en": "Offer the child clear liquids now that the pain has resolved", "zh": "既然疼痛已緩解，現在可提供病童清流質飲食"},
+      {"en": "Apply a warm compress to the abdomen to promote comfort", "zh": "於腹部敷熱以促進舒適"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A sudden relief of appendicitis pain followed by a subsequent increase in pain, along with distention, restlessness, and rising fever, is a classic sign of a perforated appendix progressing to peritonitis and requires immediate notification of the PHCP. The child should remain NPO, and heat application to the abdomen is contraindicated because it can worsen the process.",
+      "zh": "疼痛突然緩解後又再度加劇，合併腹脹、躁動與發燒上升，是闌尾穿孔進展為腹膜炎的典型徵象，需立即通知醫療照護提供者。病童應維持禁食（NPO）；腹部熱敷為禁忌，可能使病情惡化。"
+    },
+    "pdf_pages": [481, 482],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "An infant returns to the unit after surgical repair of a left-sided cleft lip. Which position should the nurse use for this infant?",
+      "zh": "一名嬰兒接受左側唇裂修補手術後返回病房。護理師應將嬰兒安置於下列哪種姿勢？"
+    },
+    "options": [
+      {"en": "Prone, to facilitate drainage of oral secretions", "zh": "採俯臥姿勢，以利口腔分泌物引流"},
+      {"en": "Side-lying directly on the left (repaired) side", "zh": "直接側臥於左側（手術側）"},
+      {"en": "Supine, with the head slightly elevated and the airway kept clear", "zh": "採仰臥姿勢，頭部略微抬高，並確保呼吸道通暢"},
+      {"en": "Semi-sitting in an infant seat for the first 24 hours", "zh": "於嬰兒座椅內採半坐臥姿勢，於術後最初24小時使用"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "After cleft lip repair, the infant should avoid the prone position and avoid lying on the side of the repair, because either position can cause the suture line to rub against the mattress. The infant is positioned on the back, upright, to protect the suture line and to prevent airway obstruction by secretions, blood, or the tongue; elbow restraints may also be used to prevent the infant from touching the repair site.",
+      "zh": "應避免讓嬰兒俯臥或直接側臥於手術側，以免傷口縫合處在床墊上摩擦；應採仰臥、上半身略為抬高的姿勢，以保護縫合處並維持呼吸道通暢，必要時可使用肘部約束以防止嬰兒碰觸傷口。"
+    },
+    "pdf_pages": [477],
+    "tags": ["postoperative", "best action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A toddler had surgical repair of a cleft palate yesterday. Which actions should the nurse include in the plan of care to protect the surgical site? Select all that apply.",
+      "zh": "一名學步兒於昨日接受顎裂修補手術。為保護手術部位，護理師應將下列哪些措施納入照護計畫？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Offer feedings by bottle, breast/chest, or a soft-tipped cup or Asepto syringe per the surgeon's preference", "zh": "依外科醫師偏好，以奶瓶、親餵或軟質吸管杯／Asepto灌食注射器餵食"},
+      {"en": "Avoid placing a tongue depressor, oral thermometer, straw, or spoon in the child's mouth", "zh": "避免將壓舌板、口腔溫度計、吸管或湯匙放入口中"},
+      {"en": "Apply soft elbow or jacket restraints, removing them every 1 to 2 hours to assess skin and allow range of motion", "zh": "使用軟式肘部或背心式約束，並每1至2小時移除一次以評估皮膚與活動度"},
+      {"en": "Perform routine oral suctioning every 2 hours to clear secretions", "zh": "每2小時進行常規口腔抽吸以清除分泌物"},
+      {"en": "Offer a pacifier for nonnutritive sucking if the child can safely manage secretions", "zh": "若幼兒能安全處理分泌物，可提供奶嘴以滿足非營養性吸吮需求"},
+      {"en": "Give the toddler a hard pretzel to self-soothe once awake from anesthesia", "zh": "待麻醉清醒後給予硬脆餅乾讓幼兒自行安撫情緒"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {
+      "en": "After cleft palate repair, anything that could traumatize the palate, including tongue depressors, oral thermometers, straws, spoons, forks, or routine oral suctioning, is avoided. Feeding is by bottle, breast/chest, or soft cup/syringe per surgeon preference, elbow or jacket restraints are used but removed periodically to assess skin and allow exercise, and a pacifier may be offered for nonnutritive sucking only if the child can handle secretions safely. Hard or crunchy foods such as pretzels could injure the surgical site.",
+      "zh": "顎裂修補後應避免任何可能傷及手術部位的口腔器械或物品（如口腔溫度計、吸管、湯匙、常規抽吸）；餵食方式依外科醫師偏好（奶瓶、親餵或軟質杯/注射器）；肘部或背心約束需定時移除以評估皮膚與肢體活動；若幼兒能安全處理分泌物，可提供奶嘴。硬質或脆硬食物（如硬脆餅乾）可能傷及修補部位，應避免。"
+    },
+    "pdf_pages": [477],
+    "tags": ["sata", "safety"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse on a newborn nursery is preparing to assess four infants at the start of the shift. Which infant should the nurse assess first?",
+      "zh": "新生兒病房護理師於交班後準備評估四名嬰兒。護理師應優先評估下列哪一位？"
+    },
+    "options": [
+      {"en": "A 2-day-old who has not yet passed a meconium stool and now has a distended abdomen and bile-stained vomitus", "zh": "一名出生2天、尚未排出胎便、目前腹部膨脹且出現膽汁染色嘔吐物的嬰兒"},
+      {"en": "A 1-day-old who passed a meconium stool 6 hours after birth and is feeding well", "zh": "一名出生1天、出生後6小時已排出胎便且餵食良好的嬰兒"},
+      {"en": "A 3-day-old with mild jaundice and normal yellow stool", "zh": "一名出生3天、有輕微黃疸且大便呈正常黃色的嬰兒"},
+      {"en": "A 2-day-old who is sleeping and due for a routine weight check", "zh": "一名出生2天、目前正在睡覺、等待常規體重測量的嬰兒"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Failure to pass meconium stool, abdominal distention, and bile-stained vomitus are newborn findings associated with Hirschsprung's disease and possible bowel obstruction, which require urgent assessment and PHCP notification. The other infants have normal or lower-priority findings and can be assessed afterward.",
+      "zh": "新生兒未能排出胎便，合併腹部膨脹與膽汁染色嘔吐物，為先天性巨結腸症（Hirschsprung's disease）或腸阻塞的警示徵象，需立即評估並通報；其餘嬰兒之表現屬正常或優先性較低，可稍後評估。"
+    },
+    "pdf_pages": [483],
+    "tags": ["prioritization", "first assessment"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse teaches the parent of a 2-month-old with gastroesophageal reflux about measures to reduce episodes of regurgitation. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師向一名2個月大、患有胃食道逆流的嬰兒之家長說明減少吐奶發生的措施。家長的下列哪項陳述顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will thicken the formula with a small amount of rice cereal as instructed.\"", "zh": "「我會依指示在配方奶中加入少量米精增稠。」"},
+      {"en": "\"I will burp her frequently during feedings and handle her gently afterward.\"", "zh": "「我會在餵食過程中經常為她拍背排氣，並在餵食後輕柔地抱她。」"},
+      {"en": "\"I will place her upright in her infant seat right after she eats to help the feeding stay down.\"", "zh": "「我會在她吃完後立即讓她坐在嬰兒座椅上保持直立，幫助奶水留在胃裡。」"},
+      {"en": "\"I will hold her upright against my shoulder for 20 to 30 minutes after each feeding.\"", "zh": "「我會在每次餵食後將她直立抱在肩上20到30分鐘。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "The semisupine position, such as in an infant seat, is not recommended because it increases reflux. Keeping the infant upright against a caregiver's shoulder or lap for 20 to 30 minutes after feeding is the correct measure. Thickening feeds with rice cereal and frequent burping with minimal handling afterward are also appropriate.",
+      "zh": "半直立姿勢（如嬰兒座椅）會增加胃食道逆流，並不建議使用；餵食後將嬰兒直立抱於照顧者肩上或大腿上20到30分鐘才是正確作法。以米精增稠配方奶及經常拍背排氣並於餵食後輕柔抱持皆為正確措施。"
+    },
+    "pdf_pages": [479, 480],
+    "tags": ["needs further teaching", "evaluation"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse provides dietary teaching to the parent of a child with lactose intolerance. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師針對一名乳糖不耐症兒童的家長提供飲食指導。家長的下列哪項陳述顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will give her yogurt and hard cheeses because they are usually well tolerated.\"", "zh": "「我會讓她吃優格和硬質乾酪，因為這些通常可以耐受。」"},
+      {"en": "\"I will have her drink milk along with other foods rather than by itself.\"", "zh": "「我會讓她和其他食物一起喝牛奶，而不是單獨喝。」"},
+      {"en": "\"I will eliminate all dairy products completely, including yogurt and small daily servings of milk.\"", "zh": "「我會完全停止所有乳製品，包括優格和每天少量的牛奶。」"},
+      {"en": "\"I will ask the PHCP about a calcium and vitamin D supplement for her.\"", "zh": "「我會詢問醫療照護提供者是否需要補充鈣和維生素D。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Hard cheese, cottage cheese, and yogurt contain the inactive lactase enzyme and are usually tolerated; small daily amounts of dairy help colonic bacteria adapt to ingested lactose, and milk consumed with other foods is better tolerated than milk alone. Complete elimination of all dairy, including items that are usually tolerated and small daily amounts, is unnecessary and increases the risk of calcium and vitamin D deficiency.",
+      "zh": "硬質乾酪、茅屋乾酪與優格因含非活性乳糖酶，通常可被耐受；每日少量乳製品有助腸道細菌適應乳糖；牛奶搭配其他食物食用也比單獨飲用更容易耐受。完全停止所有乳製品（包括通常可耐受的品項與每日少量攝取）並非必要，且會增加鈣與維生素D缺乏的風險。"
+    },
+    "pdf_pages": [480, 481],
+    "tags": ["needs further teaching", "nutrition"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The parent of an infant with a known reducible inguinal hernia calls the clinic to report that the infant has been crying inconsolably for 2 hours, the bulge in the groin is now tender and will not go back in, and the infant has vomited twice. What should the nurse advise?",
+      "zh": "一名已知患有可復位腹股溝疝氣的嬰兒之家長致電診所，表示嬰兒已哭鬧不止兩小時，鼠蹊部的腫塊目前觸痛且無法推回，嬰兒已嘔吐兩次。護理師應給予下列哪項建議？"
+    },
+    "options": [
+      {"en": "\"Apply gentle, continuous pressure to try to reduce the bulge yourself at home.\"", "zh": "「自行以持續輕柔的壓力嘗試將腫塊推回。」"},
+      {"en": "\"This can wait until the infant's regularly scheduled follow-up appointment next week.\"", "zh": "「這種情況可以等到下週的常規回診再處理。」"},
+      {"en": "\"Bring the infant to the emergency department right away; this may be an incarcerated hernia.\"", "zh": "「請立即將嬰兒送往急診，這可能是嵌閉性疝氣。」"},
+      {"en": "\"Give the infant a dose of acetaminophen and a warm compress, then call back if it worsens.\"", "zh": "「給嬰兒服用一次乙醯胺酚並以溫毛巾熱敷，之後若惡化再回電。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "An incarcerated hernia, in which the descended bowel becomes tightly caught in the hernial sac and blood supply is compromised, is a medical emergency requiring urgent surgical evaluation. Irritability, tenderness at the site, vomiting, and an inability to reduce the protrusion are hallmark findings. Attempting reduction at home or delaying care risks complete obstruction and bowel gangrene.",
+      "zh": "嵌閉性疝氣（腸道卡在疝氣囊內，血液供應受阻）為醫療急症，需緊急外科評估；躁動不安、觸痛、嘔吐及無法推回腫塊皆為典型表現。在家嘗試推回或延遲處理可能導致腸壞死或完全阻塞。"
+    },
+    "pdf_pages": [484],
+    "tags": ["emergency", "priority"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A nurse is caring for a newborn being evaluated for imperforate anus. The nurse notes meconium-stained fluid in the newborn's urine. What is the most appropriate next action?",
+      "zh": "護理師正照護一名正在評估是否為肛門閉鎖（imperforate anus）的新生兒，於尿液中發現含有胎便的液體。下列哪項為最適當的下一步行動？"
+    },
+    "options": [
+      {"en": "Document the finding as an expected result of bowel decompression and continue routine care", "zh": "將此發現記錄為腸道減壓後的預期結果，並持續常規照護"},
+      {"en": "Notify the PHCP immediately, because this suggests a rectourinary fistula", "zh": "立即通知醫療照護提供者，因為這提示可能存在直腸泌尿道瘻管"},
+      {"en": "Encourage breastfeeding/chest-feeding to promote passage of stool", "zh": "鼓勵母乳/親餵以促進大便排出"},
+      {"en": "Apply a warm compress to the perineum", "zh": "於會陰部敷溫毛巾"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The presence of stool in the urine, or in the vagina, indicates a fistula connecting the rectum to the urinary tract (or genital tract) and must be reported immediately; this finding is not an expected or benign result.",
+      "zh": "尿液（或陰道分泌物）中出現糞便，提示直腸與泌尿道（或生殖道）之間存在瘻管，需立即通報，並非預期或良性的發現。"
+    },
+    "pdf_pages": [486],
+    "tags": ["red flag", "first action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A 15 kg toddler is found with an empty bottle of children's acetaminophen tablets and is brought to the emergency department 30 minutes later, alert and asymptomatic. The parent reports the bottle contained 2500 mg of acetaminophen. The toxic ingestion threshold is 150 mg/kg. Based on this calculation, what should the nurse prepare to do?",
+      "zh": "一名體重15公斤的學步兒被發現時手邊有一空瓶兒童用乙醯胺酚藥片，30分鐘後被送至急診，當時意識清醒且無症狀。家長表示藥瓶原本裝有2500毫克乙醯胺酚。中毒劑量閾值為150毫克/公斤。根據此計算，護理師應準備採取下列哪項措施？"
+    },
+    "options": [
+      {"en": "Administer activated charcoal as prescribed, because the ingestion exceeds the toxic threshold and occurred within 4 hours", "zh": "依醫囑給予活性碳，因為此攝入量已超過中毒閾值，且發生於4小時內"},
+      {"en": "Withhold any treatment because the child is currently asymptomatic", "zh": "因病童目前無症狀而暫不處理"},
+      {"en": "Administer intravenous N-acetylcysteine immediately without activated charcoal, because symptoms always appear within the first hour", "zh": "立即給予靜脈N-乙醯半胱胺酸(N-acetylcysteine)，不使用活性碳，因為症狀必定於第一小時內出現"},
+      {"en": "Induce vomiting at home before transport", "zh": "於送醫前先在家中催吐"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "150 mg/kg x 15 kg = 2250 mg; the reported ingestion of 2500 mg exceeds this threshold, indicating a toxic ingestion. With a known amount ingested within the 4-hour window and an alert child, activated charcoal (as prescribed) is appropriate to decrease absorption. Children are often asymptomatic in the first 2 to 4 hours before a latent period, so the absence of symptoms does not rule out toxicity. N-acetylcysteine is the antidote, but activated charcoal and N-acetylcysteine are not given together because the charcoal can inactivate the antidote.",
+      "zh": "150毫克/公斤 × 15公斤 = 2250毫克為閾值；攝入2500毫克已超過此閾值，屬於中毒性攝入。在已知攝入量且於4小時窗口內、病童意識清醒的情況下，應依醫囑給予活性碳以減少吸收；中毒初期（2到4小時內）常無明顯症狀，隨後才進入潛伏期，因此目前無症狀並不能排除中毒。N-乙醯半胱胺酸為解毒劑，但活性碳與N-乙醯半胱胺酸不應同時給予，因活性碳可能使解毒劑失效。"
+    },
+    "pdf_pages": [489],
+    "tags": ["dosage calc", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A child is being treated for acute salicylate (aspirin) poisoning. Select all findings that are consistent with this condition.",
+      "zh": "一名兒童正因急性水楊酸（阿斯匹靈）中毒接受治療。請選出所有與此病況相符的表現。"
+    },
+    "options": [
+      {"en": "Hyperpnea", "zh": "換氣過度（hyperpnea）"},
+      {"en": "Tinnitus", "zh": "耳鳴"},
+      {"en": "Hypoglycemia", "zh": "低血糖"},
+      {"en": "Bleeding tendencies (e.g., bruising, bleeding gums)", "zh": "出血傾向（如瘀傷、牙齦出血）"},
+      {"en": "Bradycardia", "zh": "心搏過緩"},
+      {"en": "Polyuria", "zh": "多尿"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {
+      "en": "Central nervous system effects of salicylate poisoning include hyperpnea, confusion, tinnitus, seizures, and coma. Metabolic effects include hypoglycemia, hyponatremia, hypokalemia, and metabolic acidosis. Hematopoietic effects include bleeding tendencies. The renal effect described is oliguria, not polyuria, and bradycardia is not a described finding of salicylate toxicity.",
+      "zh": "水楊酸中毒的中樞神經系統影響包括換氣過度、意識混亂、耳鳴、癲癇發作與昏迷；代謝方面影響包括低血糖、低血鈉、低血鉀與代謝性酸中毒；血液方面影響包括出血傾向。腎臟方面影響為少尿（並非多尿），心搏過緩並非水楊酸中毒所描述之表現。"
+    },
+    "pdf_pages": [489],
+    "tags": ["sata", "recognizing cues"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse reviews laboratory results for a 2-year-old during a well-child visit: venous blood lead level 55 mcg/dL. Based on this result, which action has the highest priority?",
+      "zh": "護理師於一名2歲兒童的健兒門診中查閱檢驗結果：靜脈血鉛濃度為55 mcg/dL。根據此結果，下列哪項行動具有最高優先性？"
+    },
+    "options": [
+      {"en": "Reassess the blood lead level in about 1 year", "zh": "於1年後重新評估血鉛濃度"},
+      {"en": "Provide family education about lead sources and schedule follow-up testing only", "zh": "僅提供家庭鉛暴露相關教育並安排追蹤檢測"},
+      {"en": "Coordinate care and clinical management, including treatment and an environmental investigation, within 48 hours", "zh": "於48小時內協調照護與臨床處置，包括治療與環境調查"},
+      {"en": "No action is needed because the level is within the expected range for this age", "zh": "此濃度屬該年齡正常範圍，不需任何處置"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "A blood lead level of 45-69 mcg/dL requires coordination of care and clinical management within 48 hours, including treatment (such as chelation therapy), an environmental investigation, and lead-hazard control; the child must not remain in a lead-hazardous environment. Levels less than 5 mcg/dL warrant reassessment in about a year, and levels of 5-19 mcg/dL warrant education, follow-up testing, and referral if necessary, but not the urgent 48-hour coordination required at this level.",
+      "zh": "血鉛濃度45-69 mcg/dL需於48小時內協調照護與臨床處置，包括治療（如螯合治療）、環境調查與鉛危害控制，且兒童不應繼續留在含鉛危害的環境中；濃度<5 mcg/dL僅需約1年後重新評估，5-19 mcg/dL則提供教育、追蹤檢測及必要時轉介，尚不需此濃度所要求的48小時緊急協調處置。"
+    },
+    "pdf_pages": [488],
+    "tags": ["lab interpretation", "priority", "case management"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The parent of a 2-year-old newly diagnosed with celiac disease tells the nurse, \"I don't know how we will ever manage a gluten-free diet for the rest of her life. I feel like we have failed her.\" Which response by the nurse is most therapeutic?",
+      "zh": "一名2歲兒童剛被診斷為乳糜瀉，其家長向護理師表示：『我不知道這一輩子要怎麼維持無麩質飲食，我覺得我們讓她失望了。』護理師下列哪項回應最具治療性？"
+    },
+    "options": [
+      {"en": "\"You shouldn't feel that way; many families manage this diet just fine.\"", "zh": "「你不應該有這種感覺，很多家庭都能處理得很好。」"},
+      {"en": "\"It sounds like this diagnosis feels overwhelming right now. Let's talk about some resources, like a dietitian and the Celiac Sprue Association, that can help.\"", "zh": "「聽起來這個診斷現在讓您感到很有壓力。我們可以談談一些資源，例如營養師和乳糜瀉協會，或許能提供幫助。」"},
+      {"en": "\"Try not to worry; she probably will outgrow this by school age.\"", "zh": "「別太擔心，她上學後可能就會自然好轉。」"},
+      {"en": "\"As long as you read every label carefully, there is nothing to feel bad about.\"", "zh": "「只要您仔細閱讀每個食品標籤，就沒什麼好難過的。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Therapeutic communication acknowledges the parent's feelings first and then offers concrete support and resources, rather than dismissing the feelings, minimizing them, or giving false reassurance. Celiac disease requires lifelong avoidance of gluten; it is not typically outgrown.",
+      "zh": "治療性溝通應先認同家長的感受，再提供具體的支持與資源，而非否定、淡化感受或給予不實的安慰（乳糜瀉需終身避免麩質，並非隨成長而改善）。"
+    },
+    "pdf_pages": [481],
+    "tags": ["therapeutic communication", "coping"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse teaches the parent of a 6-year-old recently diagnosed with hepatitis A about home care and school return. Which statement by the parent indicates correct understanding?",
+      "zh": "護理師向一名6歲、新近診斷A型肝炎兒童的家長說明居家照護與返校事宜。家長的下列哪項陳述顯示理解正確？"
+    },
+    "options": [
+      {"en": "\"She needs to stay in an isolated room away from her siblings for the entire illness.\"", "zh": "「她整段病程都需要與兄弟姊妹隔離，獨自待在房間裡。」"},
+      {"en": "\"She can return to school once it has been about a week since her jaundice began, if she feels well enough.\"", "zh": "「從黃疸出現起算約一週後，只要她覺得身體狀況允許，就可以返回學校。」"},
+      {"en": "\"I can give her the usual dose of her acetaminophen whenever she says she is uncomfortable.\"", "zh": "「只要她說不舒服，我就可以給她平常劑量的乙醯胺酚。」"},
+      {"en": "\"She can go back to daycare as soon as her fever goes away, even if she still looks yellow.\"", "zh": "「只要她退燒了，即使看起來仍然發黃，也可以回去托兒所。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A child with hepatitis A is no longer considered infectious about 1 week after the onset of jaundice and may return to school at that time if feeling well enough; jaundice may appear worse before it resolves. The hospitalized or ill child is usually not isolated in a separate room unless fecally incontinent. Parents should be cautioned about giving any medications, because the liver's capacity for detoxification is impaired. Fever resolving does not equal resolution of infectivity.",
+      "zh": "A型肝炎患童在黃疸出現後約一週，通常視為不具傳染性，若身體狀況允許即可返校；黃疸在消退前可能看起來更嚴重。除非有大便失禁情形，通常不需將病童隔離於獨立房間；應提醒家長謹慎使用任何藥物，因肝臟解毒能力受影響；退燒並不代表傳染性已消除。"
+    },
+    "pdf_pages": [486],
+    "tags": ["evaluation", "teaching"]
+  }
+]

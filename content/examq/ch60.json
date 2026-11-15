@@ -1,0 +1,199 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with Parkinson's disease has just started carbidopa-levodopa. The nurse should instruct the client to avoid which dietary practice because it will reduce the medication's effectiveness?", "zh": "一位帕金森氏病患者剛開始服用卡比多巴-左旋多巴。護理師應指導患者避免以下哪種飲食習慣,因為它會降低藥物的療效?"},
+    "options": [
+      {"en": "Eating a high-protein meal at the same time as the dose", "zh": "服藥時同時食用高蛋白餐"},
+      {"en": "Dividing the daily protein allowance evenly among all meals", "zh": "將每日蛋白質攝取量平均分配於各餐"},
+      {"en": "Drinking a full glass of water with the dose", "zh": "服藥時喝一整杯水"},
+      {"en": "Taking the dose with a small snack", "zh": "服藥時搭配少量點心"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "High-protein meals interfere with the transport of levodopa across the blood-brain barrier, decreasing its availability to the CNS. The client should instead divide the total daily protein intake evenly throughout the day rather than eating a large protein load with the dose.", "zh": "高蛋白餐會干擾左旋多巴通過血腦屏障的運送,降低其在中樞神經系統的可用性。患者應將每日總蛋白質攝取量平均分配於全天,而非在服藥時大量攝取蛋白質。"},
+    "pdf_pages": [971],
+    "tags": ["medication safety", "patient education", "levodopa"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving phenytoin for seizure control has a serum phenytoin level of 32 mcg/mL. Which finding would the nurse expect to assess?", "zh": "一位接受苯妥英治療以控制癲癇發作的患者,其血清苯妥英濃度為32 mcg/mL。護理師預期會評估到以下哪項發現?"},
+    "options": [
+      {"en": "Ataxia and slurred speech", "zh": "步態不穩與言語不清"},
+      {"en": "Gingival hyperplasia only", "zh": "僅有牙齦增生"},
+      {"en": "Hypertension", "zh": "高血壓"},
+      {"en": "No abnormal findings because the level is therapeutic", "zh": "沒有異常發現,因為濃度屬於治療範圍"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The therapeutic phenytoin range is 10 to 20 mcg/mL. At levels higher than 30 mcg/mL, ataxia and slurred speech occur; at levels higher than 20 mcg/mL, nystagmus occurs. A level of 32 mcg/mL indicates toxicity, not a therapeutic level.", "zh": "苯妥英的治療濃度範圍為10至20 mcg/mL。當濃度高於30 mcg/mL時會出現步態不穩與言語不清;高於20 mcg/mL時會出現眼球震顫。32 mcg/mL的濃度表示中毒,而非治療濃度。"},
+    "pdf_pages": [972, 978],
+    "tags": ["toxicity", "dosage", "anticonvulsant"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client who received an intravenous dose of a benzodiazepine for status epilepticus and now requires reversal of oversedation. Which action is most important for the nurse to take before administering flumazenil?", "zh": "護理師照護一位因癲癇持續狀態接受靜脈注射苯二氮平類藥物、現需逆轉過度鎮靜的患者。在給予氟馬西尼之前,護理師最重要的措施是什麼?"},
+    "options": [
+      {"en": "Confirm the client does not have a history of increased intracranial pressure or status epilepticus treated with the benzodiazepine", "zh": "確認患者沒有顱內壓升高或以該苯二氮平類藥物治療之癲癇持續狀態的病史"},
+      {"en": "Administer an antacid to prevent gastrointestinal upset", "zh": "給予抗酸劑以預防胃腸不適"},
+      {"en": "Ensure the client has eaten within the last hour", "zh": "確認患者於過去一小時內已進食"},
+      {"en": "Obtain a baseline serum phenytoin level", "zh": "取得基礎血清苯妥英濃度"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Flumazenil should not be given to clients with increased intracranial pressure or status epilepticus who were treated with benzodiazepines, because reversing the sedation can allow the seizures or increased ICP to recur.", "zh": "氟馬西尼不應用於顱內壓升高或以苯二氮平類藥物治療之癲癇持續狀態的患者,因為逆轉鎮靜作用可能導致癲癇發作或顱內壓升高復發。"},
+    "pdf_pages": [973],
+    "tags": ["antidote", "red flag", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "Which statement by a client taking an anticholinergic medication for Parkinson's disease indicates a need for further teaching?", "zh": "一位帕金森氏病患者正服用抗膽鹼藥物,其下列哪項陳述顯示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will have my eyes checked regularly to monitor the pressure in them.\"", "zh": "「我會定期檢查眼睛以監測眼壓。」"},
+      {"en": "\"I will increase fluids and fiber to prevent constipation.\"", "zh": "「我會增加水分和纖維攝取以預防便秘。」"},
+      {"en": "\"I can stop the medication suddenly if my mouth gets too dry.\"", "zh": "「如果我的口腔太乾,我可以突然停藥。」"},
+      {"en": "\"I will wear sunglasses outdoors because of possible photophobia.\"", "zh": "「我會在戶外戴太陽眼鏡,因為可能有畏光現象。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Anticholinergic medications must not be discontinued abruptly, because signs and symptoms of parkinsonism, such as rigidity, tremors, and shuffling gait, may become intensified. Anticholinergics are also contraindicated in glaucoma, so intraocular pressure should be monitored.", "zh": "抗膽鹼藥物不可突然停藥,因為帕金森氏症的徵象與症狀(如僵直、顫抖、拖步步態)可能會加劇。抗膽鹼藥物在青光眼患者中亦屬禁忌,因此應監測眼內壓。"},
+    "pdf_pages": [971],
+    "tags": ["medication safety", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with myasthenia gravis is becoming progressively weaker, and the primary health care provider administers edrophonium to distinguish cholinergic crisis from myasthenic crisis. Which finding after the injection indicates that the client is in myasthenic crisis rather than cholinergic crisis?", "zh": "一位重症肌無力患者逐漸變得更虛弱,主要照護提供者給予愛酚寧(edrophonium)以區分膽鹼性危象與肌無力危象。注射後出現以下哪項發現表示患者處於肌無力危象而非膽鹼性危象?"},
+    "options": [
+      {"en": "Temporary worsening of muscle weakness", "zh": "肌肉無力暫時加重"},
+      {"en": "Improvement in muscle strength", "zh": "肌力改善"},
+      {"en": "Onset of muscle spasms", "zh": "出現肌肉痙攣"},
+      {"en": "No change in the client's condition", "zh": "患者狀況無變化"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An edrophonium injection temporarily worsens the condition of a client in cholinergic crisis (medication overdose), while it improves the weakness of a client in myasthenic crisis (underdose), confirming that more medication is needed.", "zh": "愛酚寧注射會使膽鹼性危象(藥物過量)患者的狀況暫時惡化,而對肌無力危象(藥物不足)患者則會改善其無力症狀,證實需要增加藥物劑量。"},
+    "pdf_pages": [969],
+    "tags": ["diagnostic test", "myasthenia gravis"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse prepares to administer intravenous phenytoin. Which actions should the nurse take to administer this medication safely? Select all that apply.", "zh": "護理師準備靜脈注射苯妥英。護理師應採取以下哪些措施以安全給藥?(多選)"},
+    "options": [
+      {"en": "Dilute the medication in normal saline", "zh": "以生理食鹽水稀釋藥物"},
+      {"en": "Dilute the medication in dextrose 5% in water", "zh": "以5%葡萄糖溶液稀釋藥物"},
+      {"en": "Infuse no faster than 25 to 50 mg/minute", "zh": "輸注速度不超過每分鐘25至50 mg"},
+      {"en": "Administer through an inline filter", "zh": "經由內嵌過濾器給藥"},
+      {"en": "Infuse as a rapid bolus to achieve therapeutic levels quickly", "zh": "快速靜脈推注以迅速達到治療濃度"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Intravenous phenytoin must be diluted in normal saline (dextrose causes precipitation), infused through an inline filter, and administered no faster than 25 to 50 mg/minute to prevent hypotension and cardiac dysrhythmias. It should never be given as a rapid bolus.", "zh": "靜脈注射苯妥英必須以生理食鹽水稀釋(葡萄糖會導致沉澱),經內嵌過濾器輸注,且給藥速度不得超過每分鐘25至50 mg,以避免低血壓及心律不整。絕不可快速靜脈推注。"},
+    "pdf_pages": [972],
+    "tags": ["sata", "dosage calc", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is prescribed carbamazepine for trigeminal neuralgia. Which laboratory finding would the nurse report to the primary health care provider as a possible adverse effect of this medication?", "zh": "一位三叉神經痛患者接受卡馬西平治療。護理師應將以下哪項檢驗結果報告給主要照護提供者,視為此藥物可能的不良反應?"},
+    "options": [
+      {"en": "White blood cell count of 3000 mm3 (3.0 × 10^9/L)", "zh": "白血球計數3000 mm3(3.0 × 10^9/L)"},
+      {"en": "Sodium level of 140 mEq/L (140 mmol/L)", "zh": "鈉濃度140 mEq/L(140 mmol/L)"},
+      {"en": "Blood urea nitrogen of 10 mg/dL (3.6 mmol/L)", "zh": "血中尿素氮10 mg/dL(3.6 mmol/L)"},
+      {"en": "Uric acid level of 4.0 mg/dL (240 mcmol/L)", "zh": "尿酸濃度4.0 mg/dL(240 mcmol/L)"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Carbamazepine can cause blood dyscrasias, including agranulocytosis and leukopenia. A white blood cell count of 3000 mm3 is below the normal range and reflects this adverse effect; the other values are within normal limits.", "zh": "卡馬西平可引起血液疾病,包括顆粒性白血球缺乏症及白血球減少症。白血球計數3000 mm3低於正常範圍,反映此不良反應;其餘數值皆在正常範圍內。"},
+    "pdf_pages": [972, 973],
+    "tags": ["labs", "toxicity", "anticonvulsant"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is brought to the emergency department after ingesting an unknown quantity of acetaminophen tablets 3 hours ago. Which laboratory value is most important for the nurse to monitor to assess for medication toxicity?", "zh": "一位患者在3小時前服用不明數量的乙醯胺酚藥片後被送至急診室。護理師應監測以下哪項檢驗值以評估藥物中毒?"},
+    "options": [
+      {"en": "Liver enzyme levels", "zh": "肝酵素濃度"},
+      {"en": "Serum amylase level", "zh": "血清澼粉酶濃度"},
+      {"en": "Serum calcium level", "zh": "血清鈣濃度"},
+      {"en": "Platelet count", "zh": "血小板計數"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Acetaminophen overdose causes hepatotoxicity, with risk for liver injury at doses exceeding 4000 mg/day. Liver enzyme levels are monitored for hepatic damage, and acetylcysteine is the antidote administered to prevent or limit liver injury.", "zh": "乙醯胺酚過量會造成肝毒性,每日劑量超過4000 mg時有肝損傷風險。應監測肝酵素濃度以評估肝損傷,並給予解毒劑乙醯半胱胺酸以預防或減輕肝損傷。"},
+    "pdf_pages": [975],
+    "tags": ["toxicity", "antidote", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving long-term opioid analgesic therapy for chronic pain asks the nurse what can be done to prevent constipation. What is the nurse's best response?", "zh": "一位接受長期類鴉片止痛藥治療慢性疼痛的患者詢問護理師如何預防便秘。護理師的最佳回應是什麼?"},
+    "options": [
+      {"en": "\"Constipation is rare with opioid analgesics, so no action is needed.\"", "zh": "「類鴉片止痛藥引起便秘很罕見,所以不需要任何措施。」"},
+      {"en": "\"Increase fluid and fiber intake and use a stool softener as prescribed.\"", "zh": "「增加水分及纖維攝取,並依醫囑使用軟便劑。」"},
+      {"en": "\"Avoid fluids until bowel movements become regular.\"", "zh": "「在排便恢復規律之前避免攝取水分。」"},
+      {"en": "\"Take an antidiarrheal medication daily to balance bowel function.\"", "zh": "「每天服用止瀉藥以平衡腸道功能。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Opioid analgesics commonly cause constipation. The nurse should assess bowel function and encourage increased fluid and fiber intake along with a prescribed stool softener to prevent this adverse effect.", "zh": "類鴉片止痛藥常引起便秘。護理師應評估腸道功能,並鼓勵增加水分及纖維攝取,同時依醫囑使用軟便劑以預防此不良反應。"},
+    "pdf_pages": [975, 976],
+    "tags": ["patient education", "opioid"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse assesses a client who received morphine sulfate 15 minutes ago for severe postoperative pain and finds the respiratory rate to be 9 breaths/min with a decreased level of consciousness. What is the nurse's first action?", "zh": "護理師在給予患者嗎啡以緩解嚴重術後疼痛15分鐘後進行評估,發現呼吸速率為每分鐘9次,意識水平下降。護理師的首要措施是什麼?"},
+    "options": [
+      {"en": "Document the findings and reassess in 1 hour", "zh": "記錄發現並於1小時後重新評估"},
+      {"en": "Stay with the client, apply oxygen, and prepare to administer naloxone per protocol", "zh": "留在患者身旁,給予氧氣,並依協定準備給予納洛酮"},
+      {"en": "Encourage the client to cough and deep breathe", "zh": "鼓勵患者咳嗽及深呼吸"},
+      {"en": "Administer the next scheduled dose of morphine sulfate to assess tolerance", "zh": "給予下一次預定劑量的嗎啡以評估耐受性"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A respiratory rate less than 12 breaths/min with decreased level of consciousness indicates opioid-induced respiratory depression, a medical emergency. The nurse withholds further opioid, stays with the client, administers oxygen, monitors vital signs frequently, and prepares to give naloxone per protocol while notifying the PHCP.", "zh": "呼吸速率低於每分鐘12次且意識水平下降,表示類鴉片引起的呼吸抑制,屬於醫療急症。護理師應暫停類鴉片用藥,留在患者身旁,給予氧氣,頻繁監測生命徵象,並依協定準備給予納洛酮,同時通知主要照護提供者。"},
+    "pdf_pages": [976],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with increased intracranial pressure is prescribed intravenous mannitol. Before administering the medication, the nurse notes crystals in the solution within the vial. What should the nurse do?", "zh": "一位顱內壓升高的患者接受靜脈注射甘露醇。給藥前,護理師注意到藥瓶內溶液中有結晶。護理師應如何處理?"},
+    "options": [
+      {"en": "Warm the vial slightly and administer if the crystals dissolve", "zh": "稍微加溫藥瓶,若結晶溶解則給藥"},
+      {"en": "Shake the vial vigorously to dissolve the crystals before administering", "zh": "劇烈搖晃藥瓶以溶解結晶後再給藥"},
+      {"en": "Do not administer the medication from that vial", "zh": "不要使用該藥瓶給藥"},
+      {"en": "Filter the solution through a coffee filter and administer", "zh": "用咖啡濾紙過濾溶液後給藥"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The nurse should monitor for crystallization in a vial of mannitol before administering the medication; if crystallization is noted, the medication should not be administered from that vial.", "zh": "護理師在給藥前應監測甘露醇藥瓶內是否有結晶;若發現結晶,則不應使用該藥瓶給藥。"},
+    "pdf_pages": [977],
+    "tags": ["medication safety", "osmotic diuretic"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking valproic acid for seizure control reports abdominal pain radiating to the back along with nausea and vomiting. Which complication should the nurse suspect?", "zh": "一位服用丙戊酸控制癲癇發作的患者回報腹痛放射至背部並伴隨噁心嘔吐。護理師應懷疑哪種併發症?"},
+    "options": [
+      {"en": "Pancreatitis", "zh": "胰臟炎"},
+      {"en": "Gingival hyperplasia", "zh": "牙齦增生"},
+      {"en": "Cholinergic crisis", "zh": "膽鹼性危象"},
+      {"en": "Orthostatic hypotension", "zh": "姿勢性低血壓"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Valproates such as valproic acid can cause pancreatitis as an adverse effect. Abdominal pain radiating to the back with nausea and vomiting is a classic presentation that should be reported immediately.", "zh": "丙戊酸等丙戊酸類藥物可引起胰臟炎之不良反應。腹痛放射至背部並伴隨噁心嘔吐是典型表現,應立即報告。"},
+    "pdf_pages": [973],
+    "tags": ["red flag", "anticonvulsant", "toxicity"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client with a new seizure disorder about general precautions while taking antiseizure medications. Which instruction should be included?", "zh": "護理師正在指導一位新診斷癲癇疾患的患者關於服用抗癲癇藥物期間的一般注意事項。應包含以下哪項指導?"},
+    "options": [
+      {"en": "Discontinue the medication once seizures stop for 6 months", "zh": "癲癇發作停止6個月後即可停藥"},
+      {"en": "Wear a MedicAlert bracelet and maintain regular follow-up visits with periodic blood studies", "zh": "佩戴醫療警示手環並維持定期追蹤檢查及血液檢驗"},
+      {"en": "Take the medication with milk or antacids to improve absorption", "zh": "服藥時搭配牛奶或抗酸劑以改善吸收"},
+      {"en": "Avoid routine dental checkups until medication is discontinued", "zh": "停藥前避免定期牙科檢查"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Clients taking antiseizure medications should wear a MedicAlert bracelet, maintain follow-up visits with periodic blood studies to detect toxicity, practice good oral hygiene with regular dental checkups, and never discontinue the medication abruptly or on their own. Milk and antacids impair absorption of these medications.", "zh": "服用抗癲癇藥物的患者應佩戴醫療警示手環,維持定期追蹤檢查及血液檢驗以偵測中毒,保持良好口腔衛生並定期牙科檢查,且絕不可自行突然停藥。牛奶及抗酸劑會影響這些藥物的吸收。"},
+    "pdf_pages": [972],
+    "tags": ["patient education", "anticonvulsant"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who takes a high dose of acetylsalicylic acid daily for arthritis reports tinnitus and a headache. The nurse recognizes these findings as signs of which condition?", "zh": "一位每日服用高劑量乙醯柳酸治療關節炎的患者回報耳鳴及頭痛。護理師認為這些發現是以下哪種情況的徵象?"},
+    "options": [
+      {"en": "Salicylism (salicylate toxicity)", "zh": "柳酸中毒(salicylism)"},
+      {"en": "Cholinergic crisis", "zh": "膽鹼性危象"},
+      {"en": "Hepatotoxicity from acetaminophen", "zh": "乙醯胺酚引起的肝毒性"},
+      {"en": "Opioid withdrawal", "zh": "類鴉片戒斷症候群"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Mild intoxication with acetylsalicylic acid (salicylism) commonly occurs with daily dosages higher than 4 g. Tinnitus is the most frequent finding of intoxication, along with headache, dizziness, and hyperventilation.", "zh": "乙醯柳酸輕度中毒(salicylism)常發生於每日劑量超過4公克時。耳鳴是中毒最常見的發現,並伴隨頭痛、頭暈及換氣過度。"},
+    "pdf_pages": [975],
+    "tags": ["toxicity", "red flag"]
+  }
+]

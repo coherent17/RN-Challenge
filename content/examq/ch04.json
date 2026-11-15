@@ -1,0 +1,201 @@
+[
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is assigned to four clients after receiving the change-of-shift report. Using the ABCs to prioritize, which client should the nurse assess first?", "zh": "護理師接完交班報告後,被分配照護四位病人。依照ABC原則(呼吸道、呼吸、循環)排定優先順序,護理師應先評估哪一位病人?"},
+    "options": [
+      {"en": "A client 1 day post-hip replacement who rates incisional pain as 7 out of 10", "zh": "髖關節置換術後第1天,傷口疼痛評分為10分中7分的病人"},
+      {"en": "A client with chronic obstructive pulmonary disease whose oxygen saturation has dropped from 94% to 88% with increased work of breathing", "zh": "慢性阻塞性肺病病人,血氧飽和度由94%降至88%,且呼吸用力情形增加"},
+      {"en": "A client awaiting discharge teaching who appears anxious about going home", "zh": "正等待出院教育、對回家感到焦慮的病人"},
+      {"en": "A client who is requesting a glass of water", "zh": "要求喝一杯水的病人"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Using the ABCs, breathing takes priority. A falling oxygen saturation with increased work of breathing signals an airway/breathing problem that could rapidly deteriorate and must be assessed first. Pain management, psychosocial anxiety about discharge, and a request for water are important but not immediately life-threatening in comparison.", "zh": "依照ABC原則,呼吸應優先處理。血氧飽和度下降合併呼吸用力增加,代表呼吸道/呼吸功能問題,可能迅速惡化,必須優先評估。相較之下,疼痛處理、對出院的心理焦慮,以及要求喝水,雖然重要但並非立即危及生命。"},
+    "pdf_pages": [47],
+    "tags": ["ABCs", "priority", "first action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client suddenly develops facial droop, slurred speech, and right-arm weakness while a visitor is in the room. What is the nurse's first action?", "zh": "訪客在場時,病人突然出現臉部下垂、口齒不清及右臂無力。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Document the neurological findings in the medical record", "zh": "將神經學發現記錄於病歷中"},
+      {"en": "Immediately activate the facility's rapid response/stroke protocol", "zh": "立即啟動機構的緊急應變/中風協定"},
+      {"en": "Continue with the scheduled morning medication pass before returning to assess the client", "zh": "先完成原訂的早班給藥工作,之後再回來評估病人"},
+      {"en": "Ask the visitor to leave the room before performing a full neurological assessment", "zh": "先請訪客離開房間,之後再進行完整的神經學評估"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An emergency situation is an exception to the general rule of completing assessment before taking action; new stroke symptoms require an immediate action, such as activating the stroke protocol, rather than first documenting, delaying for other tasks, or taking the extra time to clear the room before responding.", "zh": "緊急狀況是「先完整評估、再採取行動」這一通則的例外;出現新發生的中風症狀時,需要立即採取行動,例如啟動中風協定,而不是先記錄、先延後處理其他事務,或先花時間請訪客離開後才回應。"},
+    "pdf_pages": [48],
+    "tags": ["emergency", "first action", "recognize cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client eating lunch in the day room suddenly stands, clutches the throat, and is unable to speak or cough. What is the nurse's immediate action?", "zh": "病人在活動室用餐時,突然站起、雙手抓住喉部,且無法說話或咳嗽。護理師應立即採取的行動是什麼?"},
+    "options": [
+      {"en": "Call for the rapid response team and wait at the bedside for assistance to arrive", "zh": "呼叫緊急應變團隊,並在床旁等待支援抵達"},
+      {"en": "Perform abdominal thrusts (the Heimlich maneuver)", "zh": "施行腹部擠壓法(哈姆立克急救法)"},
+      {"en": "Encourage the client to cough forcefully to clear the obstruction", "zh": "鼓勵病人用力咳嗽以清除異物"},
+      {"en": "Begin chest compressions", "zh": "開始胸部按壓"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Inability to speak or cough indicates complete airway obstruction, which requires immediate abdominal thrusts rather than waiting for additional help, encouraging a cough the client cannot produce, or beginning chest compressions, which are indicated for an unresponsive, pulseless client rather than a conscious, choking client.", "zh": "無法說話或咳嗽代表呼吸道完全阻塞,需要立即施行腹部擠壓法,而不是等待其他支援、鼓勵病人做出其已做不到的咳嗽動作,或進行胸部按壓(胸部按壓適用於無反應、無脈搏的病人,而非意識清醒但噎住的病人)。"},
+    "pdf_pages": [47],
+    "tags": ["ABCs", "airway", "emergency", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse finds a client in the hallway who is unresponsive, not breathing, and without a palpable pulse. Using current resuscitation guidelines, what is the first action?", "zh": "護理師在走廊發現一位病人無反應、無呼吸且無法觸及脈搏。依照現行復甦術指引,應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Open the airway using the head-tilt/chin-lift maneuver", "zh": "使用頭部後仰、下巴上抬法打開呼吸道"},
+      {"en": "Begin chest compressions", "zh": "開始胸部按壓"},
+      {"en": "Check for a pulse for a full 60 seconds before taking any action", "zh": "先花整整60秒確認脈搏,之後才採取行動"},
+      {"en": "Deliver two rescue breaths", "zh": "給予兩次人工呼吸"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For an unresponsive client without breathing or a pulse, current guidelines follow the CAB sequence (compressions, airway, breathing) rather than ABC, so chest compressions are started first. Taking a full 60 seconds to check a pulse delays lifesaving compressions, and opening the airway or giving breaths occurs after compressions have begun.", "zh": "對於無反應、無呼吸且無脈搏的病人,現行指引採用CAB順序(按壓、呼吸道、呼吸)而非ABC,因此應先開始胸部按壓。花整整60秒確認脈搏會延誤急救性的按壓,打開呼吸道或給予人工呼吸則是在開始按壓之後才進行。"},
+    "pdf_pages": [47],
+    "tags": ["CAB", "CPR", "emergency", "first action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is planning care for four clients. Using Maslow's Hierarchy of Needs, which client's need should be addressed first?", "zh": "護理師正為四位病人安排照護計畫。依照馬斯洛需求層次理論,應優先處理哪一位病人的需求?"},
+    "options": [
+      {"en": "A client who has not voided in 10 hours and reports a distended, painful bladder", "zh": "10小時未解尿、且主訴膀胱脹痛的病人"},
+      {"en": "A client who expresses fear about an upcoming colonoscopy", "zh": "對即將進行的大腸鏡檢查表示害怕的病人"},
+      {"en": "A client who asks to have a family member stay overnight", "zh": "要求讓家人留下來過夜陪伴的病人"},
+      {"en": "A client who wants reassurance about returning to a favorite hobby after recovery", "zh": "想獲得保證,確認康復後能恢復從事喜愛的愛好活動的病人"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "According to Maslow's Hierarchy of Needs, physiological needs, such as elimination, are addressed first. A distended, painful bladder reflects an unmet physiological need and a risk for injury, which takes priority over safety/security fears about a procedure, love/belonging needs related to family presence, and self-esteem or self-actualization concerns about resuming a hobby.", "zh": "依馬斯洛需求層次理論,生理需求(如排尿)應優先被處理。膀胱脹痛代表生理需求未被滿足,且有潛在傷害風險,其優先順序高於對檢查的安全/安全感恐懼、與家人陪伴相關的愛與歸屬需求,以及關於恢復愛好活動的自尊或自我實現方面的擔憂。"},
+    "pdf_pages": [48],
+    "tags": ["Maslow", "prioritization"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is making client care assignments for the shift. Which tasks are appropriate to delegate to assistive personnel (AP)? Select all that apply.", "zh": "責任護理師正在安排本班次的照護分工。以下哪些任務適合指派給護理佐理人員(AP)?請選出所有適用項目。"},
+    "options": [
+      {"en": "Ambulating a stable client who is 2 days postoperative", "zh": "協助一位術後第2天、生命徵象穩定的病人下床行走"},
+      {"en": "Feeding a client with newly diagnosed dysphagia who was just started on a modified diet", "zh": "協助一位新診斷吞嚥困難、剛開始調整飲食質地的病人進食"},
+      {"en": "Obtaining routine vital signs on a client who has been stable for 3 days", "zh": "為一位已穩定3天的病人測量常規生命徵象"},
+      {"en": "Assisting a stable client with hygiene and grooming", "zh": "協助一位穩定病人進行個人衛生與梳洗"},
+      {"en": "Performing a sterile dressing change on a surgical wound", "zh": "為手術傷口進行無菌更換敷料"},
+      {"en": "Providing initial teaching on how to use an incentive spirometer", "zh": "進行誘發性肺量計使用方法的初次教學"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Noninvasive tasks for stable clients, such as ambulation, routine vital signs, and hygiene/grooming, are within the scope of assistive personnel. Feeding a client with newly diagnosed dysphagia requires clinical judgment to reduce aspiration risk, a sterile dressing change is an invasive procedure, and initial client teaching requires the knowledge base of a licensed nurse; these three tasks should not be delegated to AP.", "zh": "對穩定病人而言,非侵入性的任務(如協助下床行走、常規生命徵象測量、個人衛生與梳洗)屬於護理佐理人員的職責範圍。但協助新診斷吞嚥困難病人進食,需要臨床判斷以降低嗆咳/吸入性風險;無菌更換敷料屬侵入性處置;而初次病人教學則需要具證照護理人員的專業知識——這三項任務不應指派給護理佐理人員。"},
+    "pdf_pages": [53, 54],
+    "tags": ["delegation", "sata", "scope of practice"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client newly diagnosed with cancer tells the nurse, \"I don't know how I'm going to tell my children.\" Which response by the nurse is most therapeutic?", "zh": "一位剛被診斷出癌症的病人對護理師說:「我不知道該怎麼告訴我的孩子。」護理師最具治療性的回應是哪一項?"},
+    "options": [
+      {"en": "\"I'm sure they will understand and be very supportive.\"", "zh": "「我相信他們一定會理解,也會全力支持你的。」"},
+      {"en": "\"Tell me more about what concerns you the most about telling your children.\"", "zh": "「可以跟我多說一些,你最擔心告訴孩子的是什麼嗎?」"},
+      {"en": "\"It's probably best to wait until you have a full treatment plan before telling them.\"", "zh": "「也許最好等到有完整的治療計畫之後才告訴他們。」"},
+      {"en": "\"Would you like me to tell them for you?\"", "zh": "「你希望由我來替你告訴他們嗎?」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "This response uses an open-ended, client-centered therapeutic communication technique that focuses on the client's own feelings and concerns. Option 1 offers false reassurance, option 3 imposes the nurse's own timeline rather than exploring the client's concern, and option 4 takes over a decision that belongs to the client rather than supporting the client through it.", "zh": "此回應運用了開放式、以病人為中心的治療性溝通技巧,聚焦於病人本身的感受與擔憂。選項1屬於不實的安慰;選項3是以護理師自己的時間安排取代探討病人的真正擔憂;選項4則是替病人做出本應由病人自行決定的事,而非陪伴病人一起面對。"},
+    "pdf_pages": [53],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "Losartan is prescribed for a client with heart failure. After administering the first dose, which assessment is the priority?", "zh": "心臟衰竭病人被開立Losartan(Losartan)。給予第一劑之後,護理師應優先評估的項目是什麼?"},
+    "options": [
+      {"en": "Daily weight", "zh": "每日體重"},
+      {"en": "Blood pressure", "zh": "血壓"},
+      {"en": "Serum creatinine", "zh": "血清肌酸酐"},
+      {"en": "Urine output", "zh": "尿量"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Angiotensin receptor blockers such as losartan carry a risk of significant hypotension with the first dose, particularly in clients who are volume-depleted, as can occur in heart failure. Blood pressure is the priority assessment immediately after the first dose, while weight, creatinine, and urine output are important but are monitored over a longer trend rather than as the immediate priority.", "zh": "像Losartan這類血管張力素受體阻斷劑,在首劑給藥後有造成明顯低血壓的風險,尤其對體液不足的病人(如心臟衰竭病人)更為顯著。因此給予第一劑之後,血壓是優先評估項目;而體重、肌酸酐與尿量雖然重要,但屬於長期追蹤的指標,並非立即的優先項目。"},
+    "pdf_pages": [55],
+    "tags": ["pharmacology", "priority", "first dose"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews trending data for a client admitted 24 hours ago with sepsis.\nCurrent: heart rate 118 bpm, blood pressure 88/52 mm Hg, oral temperature 37.1°C (98.8°F), urine output 15 mL/hr, lactate 4.2 mmol/L.\n12 hours ago: heart rate 104 bpm, blood pressure 96/58 mm Hg, oral temperature 37.0°C (98.6°F), urine output 25 mL/hr, lactate 3.0 mmol/L.\n24 hours ago (admission): heart rate 96 bpm, blood pressure 102/64 mm Hg, oral temperature 36.9°C (98.4°F), urine output 35 mL/hr, lactate 2.4 mmol/L.\nWhich findings require immediate follow-up? Select all that apply.", "zh": "護理師檢視一位24小時前因敗血症入院病人的趨勢數據。\n目前:心跳118次/分、血壓88/52 mmHg、口溫37.1°C(98.8°F)、尿量15 mL/hr、乳酸4.2 mmol/L。\n12小時前:心跳104次/分、血壓96/58 mmHg、口溫37.0°C(98.6°F)、尿量25 mL/hr、乳酸3.0 mmol/L。\n24小時前(入院時):心跳96次/分、血壓102/64 mmHg、口溫36.9°C(98.4°F)、尿量35 mL/hr、乳酸2.4 mmol/L。\n以下哪些發現需要立即追蹤處理?請選出所有適用項目。"},
+    "options": [
+      {"en": "Heart rate", "zh": "心跳"},
+      {"en": "Blood pressure", "zh": "血壓"},
+      {"en": "Oral temperature", "zh": "口溫"},
+      {"en": "Urine output", "zh": "尿量"},
+      {"en": "Lactate level", "zh": "乳酸值"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "The heart rate is rising, the blood pressure is falling, the urine output is declining, and the lactate level is rising — all abnormal and worsening trends consistent with progressing septic shock and impaired tissue perfusion, requiring immediate follow-up. The oral temperature has remained within the normal range and essentially unchanged across all three time points, so it is not an immediate concern.", "zh": "心跳持續上升、血壓持續下降、尿量持續減少、乳酸值持續上升,這些都是異常且持續惡化的趨勢,符合敗血性休克進展及組織灌流不良的表現,需要立即追蹤處理。口溫在三個時間點皆維持在正常範圍且基本沒有變化,因此並非立即需要關注的項目。"},
+    "pdf_pages": [44, 45],
+    "tags": ["trend analysis", "sata", "sepsis", "recognize cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse teaches a client with diabetes mellitus about foot care. Which statement by the client indicates a need for further teaching?", "zh": "護理師對糖尿病病人進行足部照護教育。病人的哪一句話顯示仍需要進一步教導?"},
+    "options": [
+      {"en": "\"I will inspect my feet every day, using a mirror if needed.\"", "zh": "「我每天都會檢查我的腳,需要時會用鏡子輔助。」"},
+      {"en": "\"I will trim my toenails straight across and file the edges smooth.\"", "zh": "「我會把腳趾甲剪平,並把邊緣磨平滑。」"},
+      {"en": "\"I will soak my feet in hot water each night to improve circulation.\"", "zh": "「我會每晚用熱水泡腳,以改善血液循環。」"},
+      {"en": "\"I will wear well-fitting, closed-toe shoes with clean socks.\"", "zh": "「我會穿合腳、包頭的鞋子,並搭配乾淨的襪子。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Soaking the feet in hot water is unsafe for a client with diabetes because peripheral neuropathy may prevent the client from accurately sensing water temperature, creating a risk for burns; this statement indicates a need for further teaching. Daily inspection, proper nail trimming, and wearing protective, well-fitting footwear all reflect correct diabetic foot care.", "zh": "對糖尿病病人而言,用熱水泡腳並不安全,因為周邊神經病變可能使病人無法正確感受水溫,造成燙傷風險;此說法顯示仍需進一步教導。每日檢查足部、正確修剪指甲,以及穿著合腳且具保護性的鞋襪,皆屬正確的糖尿病足部照護方式。"},
+    "pdf_pages": [53],
+    "tags": ["negative event query", "client teaching", "diabetes"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with a traumatic brain injury is being monitored for increased intracranial pressure (ICP). Two hours after the head of the bed is elevated to 30 degrees and pain medication is administered, which finding indicates that the interventions have been effective?", "zh": "一位腦外傷病人正接受顱內壓升高的監測。將床頭抬高至30度並給予止痛藥後2小時,哪一項發現顯示此護理措施有效?"},
+    "options": [
+      {"en": "The pupils remain equal and reactive to light, and the client opens the eyes to voice", "zh": "瞳孔仍等圓且對光反應正常,病人對呼喚可睜眼"},
+      {"en": "The blood pressure increases from 118/72 to 150/90 mm Hg", "zh": "血壓從118/72 mmHg上升至150/90 mmHg"},
+      {"en": "The respiratory pattern becomes irregular with periods of apnea", "zh": "呼吸型態變得不規則,並出現呼吸暫停"},
+      {"en": "The client becomes increasingly difficult to arouse", "zh": "病人變得越來越難以喚醒"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Evaluation involves comparing the observed outcome with the expected outcome. Stable pupillary response and level of consciousness indicate the interventions to manage ICP have been effective. Rising blood pressure, an irregular respiratory pattern with apnea, and a decreasing level of consciousness are signs of worsening ICP and would indicate the interventions have not been effective.", "zh": "評估階段是將觀察到的結果與預期結果進行比較。瞳孔反應穩定、意識程度維持,代表降顱內壓的護理措施有效。血壓上升、呼吸型態不規則合併呼吸暫停,以及意識程度下降,則是顱內壓持續惡化的徵象,代表措施並未產生預期效果。"},
+    "pdf_pages": [50, 51],
+    "tags": ["evaluate outcomes", "neuro", "nursing process"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A home care nurse is planning care for a client who recently became blind due to diabetic retinopathy. Using Maslow's Hierarchy of Needs, which client concern is the priority?", "zh": "居家護理師正為一位近期因糖尿病視網膜病變而失明的病人規劃照護。依馬斯洛需求層次理論,應優先處理哪一項病人的擔憂?"},
+    "options": [
+      {"en": "Fear of falling while moving around the home", "zh": "對於在家中走動時跌倒的恐懼"},
+      {"en": "Interest in learning to read Braille", "zh": "想學習閱讀盲文"},
+      {"en": "Concern about returning to a part-time job", "zh": "對於是否能回去從事兼職工作的擔憂"},
+      {"en": "Sadness about no longer being able to drive", "zh": "因無法再開車而感到難過"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "When no physiological need is identified among the options, Maslow's Hierarchy of Needs directs the nurse to look for the option addressing safety. Fear of falling reflects a safety and security need, which is the priority over self-esteem or self-actualization concerns such as learning Braille or returning to work, and over the grief associated with the loss of driving.", "zh": "當選項中沒有生理需求時,馬斯洛需求層次理論指引護理師應優先處理與安全相關的選項。對跌倒的恐懼屬於安全與安全感需求,其優先順序高於自尊或自我實現方面的考量(如學習盲文或重返工作),也高於因無法開車而產生的失落感。"},
+    "pdf_pages": [48],
+    "tags": ["Maslow", "priority", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with a chest tube for a hemothorax has had 80 mL/hr of sanguineous drainage for the past 3 hours. The nurse now notes that drainage has stopped completely and the fluid in the water-seal chamber is no longer fluctuating. What should the nurse do first?", "zh": "一位因血胸置放胸管的病人,過去3小時引流出80 mL/hr的血性液體。護理師現在發現引流液完全停止,且水封瓶內的液面不再波動。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Document that the client's condition has improved", "zh": "記錄病人情況已改善"},
+      {"en": "Check the tubing for kinks or dependent loops and reposition the client", "zh": "檢查管路是否打折或形成垂墜彎曲,並協助病人調整姿勢"},
+      {"en": "Increase the suction setting on the drainage system", "zh": "提高引流系統的抽吸負壓設定"},
+      {"en": "Clamp the chest tube immediately", "zh": "立即夾住胸管"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A sudden stop in previously heavy drainage along with loss of fluctuation in the water-seal chamber suggests the tubing is obstructed by a kink or clot rather than that the condition has truly improved. The nurse should first assess and troubleshoot the system. Increasing suction will not resolve an obstruction, and clamping a chest tube is generally avoided because it can cause a tension pneumothorax if an air leak is present.", "zh": "原本引流量大的病人突然完全停止引流,且水封瓶液面不再波動,較可能是管路因打折或血塊造成阻塞,而非病情真正改善。護理師應先評估並排除系統問題。提高抽吸負壓並不能解決阻塞;而夾住胸管通常應避免,因為若存在漏氣情況,夾管可能導致張力性氣胸。"},
+    "pdf_pages": [51],
+    "tags": ["first action", "chest tube", "assessment"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking lithium for bipolar disorder reports nausea, vomiting, diarrhea, and a hand tremor that has changed from fine to coarse. What is the nurse's priority action?", "zh": "一位因雙相情緒障礙服用鋰鹽的病人主訴噁心、嘔吐、腹瀉,且手部顫抖由細微變為明顯粗大。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Administer an antiemetic as needed", "zh": "依需要給予止吐藥"},
+      {"en": "Hold the next dose of lithium and notify the prescriber", "zh": "暫停下一劑鋰鹽,並通知開立醫囑的醫療人員"},
+      {"en": "Encourage increased oral fluid intake with an electrolyte-containing beverage", "zh": "鼓勵病人增加口服含電解質飲品的攝取"},
+      {"en": "Document the findings and reassess the client again in 4 hours", "zh": "記錄發現,並於4小時後再重新評估"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Gastrointestinal symptoms together with a tremor that has progressed from fine to coarse suggest lithium toxicity, since lithium has a narrow therapeutic range. The priority action is to hold the medication and notify the prescriber rather than treating the symptoms alone, encouraging fluids without addressing the suspected toxicity, or delaying reassessment for several hours.", "zh": "胃腸道症狀合併顫抖由細微轉為粗大,提示可能發生鋰鹽中毒,因鋰鹽的治療範圍極窄。優先處置應是暫停給藥並通知開立醫囑的醫療人員,而不是僅針對症狀治療、在未處理疑似中毒的情況下鼓勵補充水分,或延遲數小時後才重新評估。"},
+    "pdf_pages": [55],
+    "tags": ["pharmacology", "toxicity", "priority"]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "cat": "HP",
+    "stem": {"en": "The pediatric clinic nurse reviews a fasting lipid panel for an 11-year-old: total cholesterol 215 mg/dL, LDL 142 mg/dL, HDL 38 mg/dL. How should the nurse interpret these results?", "zh": "兒科門診護理師查看一名11歲兒童的空腹血脂報告：總膽固醇215 mg/dL，LDL 142 mg/dL，HDL 38 mg/dL。護理師應如何解讀此結果？"},
+    "options": [
+      {"en": "All three values are within the acceptable range for this age.", "zh": "三項數值皆在此年齡可接受範圍內。"},
+      {"en": "The total cholesterol and LDL are high, and the HDL is low; referral to a cardiology specialist is indicated.", "zh": "總膽固醇與LDL偏高、HDL偏低；應轉介心臟科專科評估。"},
+      {"en": "The values are borderline and require no further action.", "zh": "數值屬臨界值，暫不需進一步處置。"},
+      {"en": "Only the HDL value is abnormal; the child needs more dietary fiber.", "zh": "僅HDL異常，孩子需要攝取更多纖維即可。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A total cholesterol of 200 mg/dL or greater and an LDL of 130 mg/dL or greater are considered high, while an HDL below 40 mg/dL is low. Any elevation in pediatric lipid values warrants referral to a cardiology specialist.", "zh": "總膽固醇≥200 mg/dL為偏高，LDL≥130 mg/dL為偏高，HDL<40 mg/dL為偏低；教材指出任何血脂數值異常升高皆應轉介心臟科專科。"},
+    "pdf_pages": [520],
+    "tags": ["screening", "labs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A 3-month-old with a large ventricular septal defect is being monitored for heart failure. Which assessment findings are consistent with EARLY heart failure in this infant? Select all that apply.", "zh": "一名3個月大、患有大型VSD的嬰兒正接受心衰竭監測。下列哪些評估發現符合此嬰兒「早期」心衰竭的表現？（複選）"},
+    "options": [
+      {"en": "Heart rate of 170 beats/min while resting quietly", "zh": "安靜休息時心跳170次/分"},
+      {"en": "Profuse sweating on the scalp during feeding", "zh": "餵食時頭皮大量出汗"},
+      {"en": "Weight gain of 0.6 kg since yesterday", "zh": "體重較前一天增加0.6 kg"},
+      {"en": "Bilateral ankle edema that pits with pressure", "zh": "雙側腳踝出現可凹陷性水腫"},
+      {"en": "Irritability and difficulty settling after feeds", "zh": "易怒且餵食後不易安撫"},
+      {"en": "Hepatomegaly palpable 4 cm below the costal margin", "zh": "肝臟腫大，於肋緣下可觸及4公分"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Early signs of heart failure include tachycardia at rest, profuse scalp diaphoresis (especially in infants), sudden weight gain from fluid retention, and fatigue/irritability. Peripheral edema and hepatomegaly reflect more established right-sided failure rather than the early signs described in the chapter.", "zh": "心衰竭早期徵象包括休息時心跳過速、頭皮大量出汗（尤其嬰兒）、體重驟增（液體滯留）與疲倦易怒；周邊水腫與肝腫大屬於右心衰竭的典型表現，但非教材所列之「早期」徵象。"},
+    "pdf_pages": [520],
+    "tags": ["sata", "red flag", "recognize cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse prepares to administer digoxin to an 8-year-old with heart failure. Before giving the dose, the nurse counts an apical pulse of 68 beats/min for one full minute. What should the nurse do?", "zh": "護理師準備給予一名8歲心衰竭兒童毛地黃前，測得心尖脈為68次/分（測滿1分鐘）。護理師應如何處置？"},
+    "options": [
+      {"en": "Administer the dose because 68 beats/min is normal for this age", "zh": "給藥，因68次/分對此年齡屬正常"},
+      {"en": "Withhold the dose and notify the health care provider", "zh": "暫停給藥並通知醫療人員"},
+      {"en": "Administer only half of the prescribed dose", "zh": "僅給予處方劑量的一半"},
+      {"en": "Recheck the pulse in 4 hours and give the dose if it has improved", "zh": "4小時後再測脈搏，若有改善再給藥"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Digoxin should be withheld and the provider notified if the apical pulse is below 90-110 beats/min in infants/young children or below 70 beats/min in older children, as this may indicate toxicity-related bradycardia. The dose is never independently adjusted.", "zh": "嬰幼兒心尖脈低於90-110次/分、較大兒童低於70次/分時應暫停毛地黃並通知醫師，因過低心率可能提示中毒相關之心搏過緩；劑量絕不可自行調整。"},
+    "pdf_pages": [521],
+    "tags": ["dosage calc", "medication safety", "digoxin"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A child receiving both furosemide and digoxin for heart failure is being monitored for electrolyte complications. Which findings should alert the nurse to possible hypokalemia in this child? Select all that apply.", "zh": "一名同時使用furosemide與毛地黃治療心衰竭的兒童正接受電解質併發症監測。下列哪些發現應提醒護理師注意可能的低血鉀？（複選）"},
+    "options": [
+      {"en": "Serum potassium of 3.1 mEq/L (3.1 mmol/L)", "zh": "血清鉀3.1 mEq/L（3.1 mmol/L）"},
+      {"en": "Muscle weakness and leg cramping", "zh": "肌肉無力與小腿抽筋"},
+      {"en": "Increased restlessness and confusion", "zh": "躁動不安與意識混亂加重"},
+      {"en": "Flattened T waves with prominent U waves on the ECG", "zh": "心電圖上T波平坦合併明顯U波"},
+      {"en": "Bounding peripheral pulses", "zh": "周邊脈搏洪大"},
+      {"en": "Serum potassium of 4.6 mEq/L (4.6 mmol/L)", "zh": "血清鉀4.6 mEq/L（4.6 mmol/L）"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Hypokalemia (potassium below 3.5 mEq/L) presents with muscle weakness/cramping, confusion, irritability/restlessness, and flattened T waves or prominent U waves on the ECG. Because hypokalemia potentiates digoxin toxicity, these findings must be reported promptly. A potassium of 4.6 mEq/L is within the normal range (3.5-5.0), and bounding pulses are unrelated to hypokalemia.", "zh": "低血鉀（K+ <3.5 mEq/L）表現為肌肉無力/抽筋、意識混亂、躁動不安，以及心電圖T波平坦/U波明顯；因低血鉀會加重毛地黃中毒風險，須及時通報。血鉀4.6 mEq/L屬正常範圍（3.5-5.0），脈搏洪大與低血鉀無關。"},
+    "pdf_pages": [521],
+    "tags": ["sata", "medication safety", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "An infant with heart failure is prescribed an ACE inhibitor (captopril). Which parameters should the nurse monitor while this medication is administered? Select all that apply.", "zh": "一名心衰竭嬰兒使用ACE抑制劑（captopril）。使用此藥期間，護理師應監測下列哪些項目？（複選）"},
+    "options": [
+      {"en": "Blood pressure, for hypotension", "zh": "血壓，以偵測低血壓"},
+      {"en": "BUN and creatinine, for renal dysfunction", "zh": "BUN與肌酸酐，以偵測腎功能異常"},
+      {"en": "Presence of a persistent dry cough", "zh": "是否出現持續性乾咳"},
+      {"en": "Urine output and urinary specific gravity", "zh": "尿量與尿液比重"},
+      {"en": "Fasting blood glucose level", "zh": "空腹血糖值"},
+      {"en": "Serum calcium level", "zh": "血清鈣離子濃度"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "The chapter directs the nurse to monitor blood pressure, renal function (BUN, creatinine, serum protein/albumin), WBC count, urine output/specific gravity/protein, and cough when ACE inhibitors are given, because of the risks of hypotension, renal dysfunction, and cough. Glucose and calcium are not specific monitoring parameters for this medication.", "zh": "教材指出使用ACE抑制劑時應監測血壓、腎功能（BUN、肌酸酐、血清蛋白/白蛋白）、白血球數、尿量/尿比重/尿蛋白，以及咳嗽，因可能造成低血壓、腎功能異常與咳嗽；血糖與血鈣並非此藥特定監測項目。"},
+    "pdf_pages": [521],
+    "tags": ["sata", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is reviewing congenital heart defects that increase pulmonary blood flow. Which statements are accurate? Select all that apply.", "zh": "護理師複習會增加肺血流量的先天性心臟缺損。下列哪些敘述正確？（複選）"},
+    "options": [
+      {"en": "\"An atrial septal defect allows oxygenated blood to shunt into the right side of the heart and may be closed during cardiac catheterization.\"", "zh": "「心房中隔缺損（ASD）使含氧血分流至右心，可於心導管檢查時關閉缺損。」"},
+      {"en": "\"A small-to-moderate ventricular septal defect commonly closes spontaneously during the first year of life.\"", "zh": "「小至中型心室中隔缺損（VSD）常於出生後第一年內自行閉合。」"},
+      {"en": "\"Patent ductus arteriosus produces a characteristic machinery-like murmur with bounding pulses and a widened pulse pressure.\"", "zh": "「開放性動脈導管（PDA）會產生機械樣雜音，並伴隨脈搏洪大與脈壓增寬。」"},
+      {"en": "\"An atrioventricular canal defect is the cardiac defect most commonly associated with Down syndrome.\"", "zh": "「房室管缺損是唐氏症最常合併的心臟缺損。」"},
+      {"en": "\"Tetralogy of Fallot is classified as a defect with increased pulmonary blood flow.\"", "zh": "「法洛氏四重症屬於肺血流增加的缺損。」"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "ASD, VSD, PDA, and AV canal defect are left-to-right shunt lesions that increase pulmonary blood flow, so each of those statements is accurate. Tetralogy of Fallot is a defect with DECREASED pulmonary blood flow (right-to-left shunt), not increased.", "zh": "ASD、VSD、PDA與房室管缺損皆屬左向右分流，會增加肺血流量，各敘述皆正確；法洛氏四重症則是肺血流「減少」（右向左分流）的缺損，而非增加。"},
+    "pdf_pages": [522, 523],
+    "tags": ["congenital heart defects"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigned to four children on a pediatric cardiology unit. Which child should the nurse assess first?", "zh": "護理師被分配照顧心臟科病房四名兒童。護理師應優先評估哪一位？"},
+    "options": [
+      {"en": "A child 2 days post-cardiac catheterization who reports mild itching under the adhesive bandage", "zh": "心導管檢查後第2天，主訴黏貼敷料下方輕微搔癢的兒童"},
+      {"en": "An infant with known coarctation of the aorta whose blood pressure is 150/90 mm Hg in the right arm and 96/58 mm Hg in the right leg, with absent femoral pulses", "zh": "已知主動脈縮窄的嬰兒，右手臂血壓150/90 mmHg、右下肢血壓96/58 mmHg，且股動脈脈搏消失"},
+      {"en": "A child with Kawasaki disease in the convalescent stage who has a normal appearance", "zh": "川崎病恢復期、外觀正常的兒童"},
+      {"en": "A child recovering from cardiac surgery 5 days ago who is asking when they can return to school", "zh": "心臟手術後第5天、詢問何時可返校的兒童"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A markedly higher blood pressure in the arms than the legs with absent femoral pulses signals significant aortic obstruction and risk of inadequate lower-body perfusion in coarctation of the aorta, requiring prompt assessment and provider notification; the other findings are expected or low acuity.", "zh": "上肢血壓明顯高於下肢且股動脈脈搏消失，提示主動脈縮窄造成嚴重阻塞，可能影響下半身灌流，須立即評估並通報；其他選項屬預期或低急迫性發現。"},
+    "pdf_pages": [523],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The parent of a 3-year-old with unrepaired tetralogy of Fallot reports that the child frequently stops playing to squat down for a minute before continuing. What should the nurse teach the parent about this behavior?", "zh": "一名3歲未修補法洛氏四重症兒童的家長表示，孩子玩耍時常會停下來蹲踞一會兒再繼續活動。護理師應如何教導家長理解此行為？"},
+    "options": [
+      {"en": "Squatting is a dangerous sign that requires an emergency department visit every time it occurs", "zh": "蹲踞是危險徵象，每次發生都須立即送急診"},
+      {"en": "Squatting is a compensatory position that increases venous return and systemic vascular resistance to improve oxygenation", "zh": "蹲踞是一種代償姿勢，可增加靜脈回流與全身血管阻力以改善血氧"},
+      {"en": "Squatting means the child is having a seizure and needs to be physically restrained", "zh": "蹲踞代表孩子正在癲癇發作，需要約束肢體"},
+      {"en": "Squatting means the ventricular septal defect has closed and surgery is no longer needed", "zh": "蹲踞代表心室中隔缺損已經自行閉合，不再需要手術"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "In tetralogy of Fallot, squatting is a compensatory mechanism that increases systemic vascular resistance and venous return to the heart, improving blood oxygenation; it is a hallmark finding rather than an emergency in itself, although hypercyanotic (tet) spells triggered by crying or feeding still require prompt intervention.", "zh": "在法洛氏四重症中，蹲踞是一種代償機轉，可增加全身血管阻力與靜脈回流，改善血液氧合，是此疾病的典型表現，本身並非急症；但哭鬧、餵食等誘發的缺氧發作（tet spell）仍需立即處理。"},
+    "pdf_pages": [524],
+    "tags": ["patient education", "growth and development"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A newborn is diagnosed with hypoplastic left heart syndrome and is awaiting surgical palliation. Which nursing actions does the nurse anticipate in the preoperative period? Select all that apply.", "zh": "一名新生兒診斷為左心發育不全症候群，正等待手術姑息治療。護理師預期術前會採取下列哪些護理措施？（複選）"},
+    "options": [
+      {"en": "Administering a continuous intravenous infusion of prostaglandin E1 to maintain ductal patency", "zh": "持續靜脈輸注前列腺素E1以維持動脈導管開放"},
+      {"en": "Providing mechanical ventilatory support", "zh": "提供機械通氣支持"},
+      {"en": "Monitoring closely for progressive cyanosis and decreased cardiac output as the ductus arteriosus closes", "zh": "密切監測動脈導管關閉時逐漸惡化的發紺與心輸出量下降徵象"},
+      {"en": "Discontinuing the prostaglandin infusion as soon as oxygen saturation improves", "zh": "一旦血氧飽和度改善即停止前列腺素輸注"},
+      {"en": "Encouraging large-volume oral feedings before surgery to promote weight gain", "zh": "鼓勵術前大量經口餵食以促進體重增加"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "In hypoplastic left heart syndrome, systemic blood flow depends on a patent ductus arteriosus, so the newborn requires a continuous PGE1 infusion and mechanical ventilation preoperatively, and the nurse monitors for deterioration as ductal closure approaches. Stopping the infusion or giving large-volume feedings would be inappropriate given the infant's critical, ductal-dependent status.", "zh": "左心發育不全的全身血流仰賴動脈導管保持開放，因此新生兒術前需持續輸注前列腺素E1並接受機械通氣，護理師需監測導管逐漸關閉時的惡化徵象；在此危急、導管依賴的狀態下，不應停止輸注或給予大量經口餵食。"},
+    "pdf_pages": [525],
+    "tags": ["sata", "ductal-dependent", "PGE1"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A child is scheduled for a diagnostic cardiac catheterization in the morning. Which information should the nurse obtain and document before the procedure? Select all that apply.", "zh": "一名兒童預定於明早接受診斷性心導管檢查。護理師應於術前取得並記錄下列哪些資訊？（複選）"},
+    "options": [
+      {"en": "History of allergic reaction to iodine", "zh": "碘過敏史"},
+      {"en": "Presence of a diaper rash or other signs of infection", "zh": "尿布疹或其他感染徵象"},
+      {"en": "Accurate current height and weight", "zh": "準確的目前身高與體重"},
+      {"en": "Baseline bilateral pulses, including dorsalis pedis and posterior tibial", "zh": "基礎雙側脈搏，包括足背動脈與後脛動脈"},
+      {"en": "The child's favorite stuffed animal brought from home", "zh": "孩子從家裡帶來的最愛玩偶"},
+      {"en": "Baseline oxygen saturation", "zh": "基礎血氧飽和度"}
+    ],
+    "answer": [0, 1, 2, 3, 5],
+    "rationale": {"en": "Before cardiac catheterization, the nurse assesses for iodine allergy (contrast exposure), signs of infection such as diaper rash, accurate height/weight (for catheter sizing and medication dosing), baseline bilateral distal pulses for postprocedure comparison, and baseline oxygen saturation. A comfort item from home can help with coping but is not a safety-related preprocedure assessment.", "zh": "心導管檢查前，護理師需評估碘過敏史（顯影劑暴露）、感染徵象如尿布疹、準確身高體重（用於選擇導管大小與藥物劑量計算）、基礎雙側遠端脈搏（供術後比較），以及基礎血氧飽和度；安撫玩具有助於應對但非安全相關之術前評估項目。"},
+    "pdf_pages": [525],
+    "tags": ["sata", "safety", "pre-procedure"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Four hours after a cardiac catheterization via the right femoral artery, the nurse notes the right foot is cool, pale, and the pedal pulse is difficult to palpate compared with the left foot. What should the nurse do first?", "zh": "右股動脈心導管檢查後4小時，護理師發現右足冰冷、蒼白，足背脈搏較左足難以觸及。護理師首先應採取何種行動？"},
+    "options": [
+      {"en": "Document the finding and reassess in 2 hours", "zh": "記錄此發現，2小時後再評估"},
+      {"en": "Elevate the right leg above heart level and apply a warm blanket", "zh": "將右腿抬高於心臟水平以上並覆蓋溫毯"},
+      {"en": "Notify the health care provider immediately because this suggests arterial obstruction", "zh": "立即通知醫療人員，因這提示動脈阻塞"},
+      {"en": "Remove the pressure dressing to inspect the insertion site", "zh": "移除加壓敷料以檢查穿刺部位"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Coolness, pallor, and a diminished or absent pulse distal to a femoral arterial catheterization site are signs of arterial obstruction and must be reported immediately; routine rewarming measures or removing the dressing would delay treatment of a potential limb-threatening complication.", "zh": "股動脈穿刺部位遠端出現冰冷、蒼白及脈搏減弱或消失，提示動脈阻塞，須立即通報；常規保暖措施或移除敷料會延誤處理此可能危及肢體的併發症。"},
+    "pdf_pages": [526],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse provides discharge teaching to parents of a 7-year-old following open-heart surgery. Which statements by the parents indicate correct understanding? Select all that apply.", "zh": "護理師為一名7歲開心手術後兒童的家長提供出院衛教。下列哪些家長說法顯示正確理解？（複選）"},
+    "options": [
+      {"en": "\"Our child can return to school about the third week after discharge, starting with half-days.\"", "zh": "「孩子出院後約第三週可返校，先從半天開始。」"},
+      {"en": "\"Our child will need to avoid physical education class for about 2 months.\"", "zh": "「孩子約需避免上體育課2個月。」"},
+      {"en": "\"We should schedule dental visits every 6 months once our child turns 3, and tell the dentist about the heart surgery.\"", "zh": "「孩子滿3歲後應每6個月看一次牙醫，並告知牙醫心臟手術史。」"},
+      {"en": "\"We will have our child catch up on all missed immunizations within the first week home.\"", "zh": "「我們會在回家第一週內補齊所有錯過的疫苗。」"},
+      {"en": "\"We can discipline our child the same way we did before the surgery.\"", "zh": "「我們可以用跟手術前一樣的方式管教孩子。」"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Children typically return to school about the third week after discharge, starting with half-days, and avoid physical education for about 2 months; dental visits every 6 months after age 3 with disclosure of the cardiac history (for possible antibiotic prophylaxis) are recommended, and normal discipline is encouraged. Immunizations, invasive procedures, and dental visits are avoided for about 2 months after surgery, not resumed immediately.", "zh": "兒童通常於出院後第三週返校並從半天開始；約2個月內避免體育課；滿3歲後每6個月看牙醫並告知心臟病史（可能需預防性抗生素）；可維持正常管教方式。手術後約2個月內應避免接種疫苗、侵入性處置與牙科治療，而非立即補齊疫苗。"},
+    "pdf_pages": [527],
+    "tags": ["sata", "evaluate outcomes", "discharge teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A child's workup reveals polyarthralgia, a temperature of 38.4°C (101.1°F) that spikes in the late afternoon, an elevated erythrocyte sedimentation rate, and a prolonged PR interval on ECG, along with a positive throat culture for group A Streptococcus and a rising anti-streptolysin O titer. The nurse recognizes that confirming a diagnosis of rheumatic fever using the Jones criteria would also require which additional finding?", "zh": "一名兒童的檢查顯示多發性關節痛、體溫38.4°C（101.1°F）且於午後升高、紅血球沉降速率（ESR）升高、心電圖PR間期延長，並有A群鏈球菌喉部培養陽性與上升的ASO抗體價。護理師了解依Jones準則確診風濕熱還需要下列哪項額外發現？"},
+    "options": [
+      {"en": "A second elevated inflammatory marker such as C-reactive protein", "zh": "另一項發炎指標升高，如C反應蛋白"},
+      {"en": "At least one major criterion, such as carditis, migratory polyarthritis, chorea, erythema marginatum, or subcutaneous nodules", "zh": "至少一項主要準則，如心臟炎、游走性多發性關節炎、舞蹈症、環形紅斑或皮下結節"},
+      {"en": "A repeat throat culture in 2 weeks", "zh": "2週後重複喉部培養"},
+      {"en": "Evidence of a urinary tract infection", "zh": "尿路感染的證據"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The findings described (polyarthralgia, fever, elevated ESR, prolonged PR interval) are all MINOR Jones criteria. Diagnosis requires either two major criteria or one major plus two minor criteria, together with evidence of a preceding streptococcal infection; because only minor criteria are present here, at least one major criterion is still needed.", "zh": "題述之多發性關節痛、發燒、ESR升高、PR間期延長皆屬Jones「次要」準則。確診需2項主要準則，或1項主要加2項次要準則，並合併先前鏈球菌感染證據；由於目前僅具備次要準則，仍需至少一項主要準則才能確診。"},
+    "pdf_pages": [527],
+    "tags": ["analyze cues", "jones criteria"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A child with suspected rheumatic fever has painful, swollen joints, but the diagnosis has not yet been confirmed. Which nursing action is most appropriate for managing the child's joint discomfort at this time?", "zh": "一名疑似風濕熱兒童出現關節疼痛腫脹，但尚未確診。此時處理其關節不適最適當的護理措施為何？"},
+    "options": [
+      {"en": "Administer the prescribed aspirin dose immediately to reduce inflammation", "zh": "立即給予已開立的阿斯匹靈劑量以消炎"},
+      {"en": "Apply alternating hot and cold applications and gentle massage as prescribed, and maintain bed rest", "zh": "依醫囑採交替冷熱敷與輕柔按摩，並維持臥床休息"},
+      {"en": "Encourage the child to ambulate frequently to prevent joint stiffness", "zh": "鼓勵孩子多下床走動以預防關節僵硬"},
+      {"en": "Withhold all comfort measures until the diagnosis is confirmed", "zh": "在確診前，暫停所有舒適照護措施"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Salicylates and anti-inflammatory agents are not given before the diagnosis is confirmed because they can mask polyarthritis and interfere with diagnostic accuracy. Nonpharmacologic comfort measures such as alternating hot/cold applications and gentle massage as prescribed, along with bed rest during the acute febrile phase, are appropriate in the meantime.", "zh": "確診前不給予水楊酸類與抗發炎藥物，因其可能掩蓋多發性關節炎而影響診斷準確性。此時可依醫囑採行交替冷熱敷、輕柔按摩等非藥物舒適措施，並於急性發熱期維持臥床休息。"},
+    "pdf_pages": [527],
+    "tags": ["comfort care", "nonpharmacologic"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A child with Kawasaki disease is prescribed intravenous immunoglobulin (IVIG). Which nursing consideration is most important because IVIG is classified as a blood product?", "zh": "一名川崎病兒童開立靜脈注射免疫球蛋白（IVIG）。由於IVIG屬於血液製品，下列哪項護理考量最為重要？"},
+    "options": [
+      {"en": "It must be administered through a central line only", "zh": "必須僅經中央靜脈導管給藥"},
+      {"en": "It requires blood product administration precautions and monitoring, the same as other blood products", "zh": "須依血液製品給藥規範執行相關防護與監測"},
+      {"en": "It can be mixed with the child's next dose of aspirin in the same syringe", "zh": "可與下一劑阿斯匹靈混合於同一針筒給予"},
+      {"en": "It eliminates the need for further temperature monitoring", "zh": "給予後即可不再監測體溫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "IVIG is a blood product, so the nurse follows blood product administration and monitoring precautions when giving it. It is infused intravenously but does not necessarily require a central line, must never be mixed with other medications in the same syringe, and temperature monitoring continues because fever response is tracked to evaluate treatment effectiveness.", "zh": "IVIG屬於血液製品，給藥時須依血液製品相關防護與監測規範執行；給藥途徑為靜脈輸注但非一定需中央靜脈導管，絕不可與其他藥物混合於同一針筒，且仍需持續監測體溫以評估治療效果。"},
+    "pdf_pages": [528],
+    "tags": ["blood product", "safety"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "Six weeks after hospital discharge for Kawasaki disease, a parent tells the nurse, \"My child is still so irritable and clingy. I feel like we are doing something wrong.\" What is the nurse's best response?", "zh": "川崎病出院後6週，家長向護理師表示：「我的孩子還是很躁動、很黏人，我覺得我們是不是哪裡做錯了。」護理師最適當的回應為何？"},
+    "options": [
+      {"en": "\"Irritability can last up to about 2 months after this illness begins; this is expected, and maintaining consistent routines can help.\"", "zh": "「躁動易怒可能持續到發病後約2個月，這是預期中的恢復過程，維持穩定的生活作息會有幫助。」"},
+      {"en": "\"This is unusual and suggests the medication regimen needs to be changed immediately.\"", "zh": "「這很不尋常，代表用藥方案必須立即更改。」"},
+      {"en": "\"You should seek a psychiatric evaluation for your child as soon as possible.\"", "zh": "「您應該盡快帶孩子去做精神科評估。」"},
+      {"en": "\"This means the disease has returned and the child needs to be hospitalized again.\"", "zh": "「這代表疾病復發了，孩子需要再次住院。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Parent education for Kawasaki disease notes that irritability may last up to about 2 months after symptom onset. The nurse should reassure the parent that this is an expected part of recovery and encourage supportive, consistent routines, rather than implying treatment failure or disease recurrence.", "zh": "川崎病家長衛教提到躁動易怒可能持續至發病後約2個月，屬於預期的恢復過程；護理師應給予安心保證並鼓勵維持穩定作息，而非暗示治療失敗或疾病復發。"},
+    "pdf_pages": [528],
+    "tags": ["therapeutic communication", "coping"]
+  }
+]

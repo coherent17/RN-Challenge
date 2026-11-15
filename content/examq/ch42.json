@@ -1,0 +1,172 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "An infant weighing 19.8 lb is prescribed cefdinir 14 mg/kg/day PO, divided every 12 hours, for acute otitis media. First convert the infant's weight to kilograms, then calculate the total daily dose and the dose to give per administration. How many milligrams should the nurse administer per dose?", "zh": "一名體重 19.8 磅的嬰兒因急性中耳炎被開立口服 cefdinir 14 mg/kg/day，分 2 次（每 12 小時一次）給予。請先將嬰兒體重換算為公斤，再計算每日總劑量及每次應給予的劑量。護理師每次應給予多少毫克？"},
+    "options": [
+      {"en": "63 mg", "zh": "63 毫克"},
+      {"en": "126 mg", "zh": "126 毫克"},
+      {"en": "31.5 mg", "zh": "31.5 毫克"},
+      {"en": "189 mg", "zh": "189 毫克"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Convert weight: 19.8 lb ÷ 2.2 = 9.0 kg. Daily dose: 9.0 kg × 14 mg/kg/day = 126 mg/day. Divided every 12 hours = 2 doses/day, so 126 mg ÷ 2 = 63 mg per dose.", "zh": "換算體重：19.8 磅 ÷ 2.2 = 9.0 公斤。每日總劑量：9.0 公斤 × 14 mg/kg/day = 126 mg/day。每 12 小時給藥一次，即每日 2 次，126 mg ÷ 2 = 每次 63 mg。"},
+    "pdf_pages": [580, 581],
+    "tags": ["dosage calc", "weight conversion"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A child weighing 31 lb has a prescription for vancomycin 240 mg IV every 6 hours. The pharmacy reference states the safe dose range is 10-15 mg/kg/dose. After converting the child's weight to kilograms (rounded to the nearest tenth) and calculating the safe dose range, what should the nurse do?", "zh": "一名體重 31 磅的兒童被開立萬古黴素 240 mg IV，每 6 小時一次。藥局用藥資訊顯示安全劑量範圍為 10-15 mg/kg/dose。將兒童體重換算為公斤（四捨五入至小數點後一位）並計算出安全劑量範圍後，護理師應採取什麼行動？"},
+    "options": [
+      {"en": "Administer the dose as prescribed; it calculates to 211.5 mg/dose, within range", "zh": "依醫囑給藥；換算後為 211.5 mg/dose，在安全範圍內"},
+      {"en": "Withhold the dose and contact the prescriber; 240 mg exceeds the calculated safe range of 141-211.5 mg/dose", "zh": "暫停給藥並聯絡醫師；240 mg 超出計算出的安全範圍 141-211.5 mg/dose"},
+      {"en": "Administer only half of the prescribed dose on her own judgment", "zh": "憑自己的判斷僅給予醫囑劑量的一半"},
+      {"en": "Administer the dose as prescribed because vancomycin has a wide margin of safety in children", "zh": "依醫囑給藥，因為萬古黴素在兒童身上的安全範圍很寬"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "31 lb ÷ 2.2 = 14.1 kg (nearest tenth). Low end: 14.1 × 10 = 141 mg/dose. High end: 14.1 × 15 = 211.5 mg/dose. The safe range is 141-211.5 mg/dose; the prescribed 240 mg/dose exceeds this range, so the nurse must withhold the dose and clarify with the prescriber rather than administer it or adjust it independently.", "zh": "31 磅 ÷ 2.2 = 14.1 公斤（至小數點後一位）。下限：14.1 × 10 = 141 mg/dose。上限：14.1 × 15 = 211.5 mg/dose。安全範圍為 141-211.5 mg/dose；醫囑的 240 mg/dose 超出此範圍，因此護理師應暫停給藥並與醫師確認，而非自行給藥或自行調整劑量。"},
+    "pdf_pages": [581],
+    "tags": ["dosage calc", "safe dose range", "med safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A dosage recommendation for a medication is 50 mg/m2/dose. The child's body surface area (BSA), obtained from a nomogram, is 0.62 m2. Using the simple multiplication method recommended for BSA-based dosing, what is the correct dose for this child?", "zh": "某藥物的建議劑量為 50 mg/m2/dose。經身體表面積（BSA）圖表查得此兒童的 BSA 為 0.62 m2。使用 BSA 計算建議的簡單乘法方法，此兒童的正確劑量為多少？"},
+    "options": [
+      {"en": "31 mg", "zh": "31 毫克"},
+      {"en": "50 mg", "zh": "50 毫克"},
+      {"en": "12.4 mg", "zh": "12.4 毫克"},
+      {"en": "62 mg", "zh": "62 毫克"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "When a dosage recommendation is given per square meter of BSA, the calculation is simple multiplication: 0.62 m2 × 50 mg/m2 = 31 mg/dose.", "zh": "當劑量建議以每平方公尺體表面積為單位時，計算方式為簡單相乘：0.62 m2 × 50 mg/m2 = 31 mg/dose。"},
+    "pdf_pages": [580, 581],
+    "tags": ["BSA calc", "dosage calc"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "An average adult dose of a medication is 150 mg, based on the standardized adult BSA of 1.73 m2. A child's BSA is 0.58 m2. Using the formula for calculating a child's dose from the adult dose, what is the child's dose, rounded to the nearest tenth?", "zh": "某藥物的平均成人劑量為 150 mg，依據成人標準 BSA 1.73 m2 計算而得。某兒童的 BSA 為 0.58 m2。使用由成人劑量推算兒童劑量的公式，此兒童的劑量為多少（四捨五入至小數點後一位）？"},
+    "options": [
+      {"en": "50.3 mg", "zh": "50.3 毫克"},
+      {"en": "43.5 mg", "zh": "43.5 毫克"},
+      {"en": "58.0 mg", "zh": "58.0 毫克"},
+      {"en": "150 mg", "zh": "150 毫克"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Child's dose = (child's BSA ÷ 1.73 m2) × adult dose = (0.58 ÷ 1.73) × 150 mg = 0.3353 × 150 mg = 50.29 mg, rounded to 50.3 mg.", "zh": "兒童劑量 =（兒童 BSA ÷ 1.73 m2）× 成人劑量 = (0.58 ÷ 1.73) × 150 mg = 0.3353 × 150 mg = 50.29 mg，四捨五入後為 50.3 mg。"},
+    "pdf_pages": [581],
+    "tags": ["BSA calc", "dosage calc"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse prepares to administer a 0.5-mL intramuscular immunization to a 10-month-old infant who is not yet walking. Which injection site is the preferred, best choice?", "zh": "護理師準備為一名尚未學會走路的 10 個月大嬰兒肌肉注射 0.5 mL 疫苗。最佳的注射部位應選擇哪一處？"},
+    "options": [
+      {"en": "Vastus lateralis", "zh": "股外側肌"},
+      {"en": "Ventrogluteal", "zh": "臀中肌（腹臀肌）"},
+      {"en": "Deltoid", "zh": "三角肌"},
+      {"en": "Dorsogluteal", "zh": "臀大肌（背臀肌）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The vastus lateralis is the preferred site for intramuscular injections in infants, based on normal muscle development and size. The deltoid is not recommended in infants, and sites near the gluteal region are avoided in infants who are not yet walking because of the proximity of the sciatic nerve and underdeveloped muscle mass.", "zh": "股外側肌是嬰兒肌肉注射的首選部位，依據正常肌肉發育狀況及體型大小而定。三角肌不建議用於嬰兒；尚未學會走路的嬰兒應避免使用臀部附近部位，因為靠近坐骨神經且肌肉量尚未發育完全。"},
+    "pdf_pages": [579],
+    "tags": ["IM injection", "site selection", "med safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A prescriber orders an intramuscular antibiotic dose that calculates to 2.2 mL for a 2-year-old child, to be given in the vastus lateralis. According to the recommended maximum volume for a single pediatric IM site, what should the nurse do?", "zh": "醫師為一名 2 歲兒童開立肌肉注射抗生素，計算後劑量為 2.2 mL，預計注射於股外側肌。依據單一小兒肌肉注射部位的建議最大容量，護理師應採取什麼行動？"},
+    "options": [
+      {"en": "Administer the entire 2.2 mL into the vastus lateralis as prescribed", "zh": "依醫囑將全部 2.2 mL 注入股外側肌"},
+      {"en": "Question the volume with the prescriber or pharmacist, because the recommended maximum for a single site in a child is 2 mL, and prepare to divide the dose if directed", "zh": "向醫師或藥師確認劑量，因為兒童單一部位建議最大容量為 2 mL，並依指示準備分次注射"},
+      {"en": "Discard 0.2 mL from the syringe and administer only 2 mL", "zh": "從針筒中丟棄 0.2 mL，僅注射 2 mL"},
+      {"en": "Administer the full volume into the deltoid muscle instead", "zh": "改為將全部劑量注入三角肌"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The recommended volume for IM injection into the vastus lateralis or ventrogluteal muscle in a child is 0.5-2 mL; 2.2 mL exceeds the maximum for a single site. The nurse should clarify with the prescriber or pharmacist rather than discard part of the dose (which would give an incomplete dose) or redirect the full volume into a different muscle without an order.", "zh": "兒童股外側肌或臀中肌肌肉注射的建議容量為 0.5-2 mL；2.2 mL 已超出單一部位的最大容量。護理師應向醫師或藥師確認，而非自行丟棄部分劑量（會造成劑量不足）或未經醫囑即改將全量注入其他肌肉。"},
+    "pdf_pages": [579],
+    "tags": ["IM injection", "med safety", "dosage calc"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "An infant weighing 13.2 lb is prescribed amoxicillin oral suspension 25 mg/kg/day, divided every 8 hours, for acute otitis media. The suspension is labeled 125 mg/5 mL. How many milliliters should the nurse administer per dose?", "zh": "一名體重 13.2 磅的嬰兒因急性中耳炎被開立口服 amoxicillin 懸浮液 25 mg/kg/day，分次每 8 小時給予一次。該懸浮液標示濃度為 125 mg/5 mL。護理師每次應給予多少毫升？"},
+    "options": [
+      {"en": "2 mL", "zh": "2 毫升"},
+      {"en": "6 mL", "zh": "6 毫升"},
+      {"en": "1 mL", "zh": "1 毫升"},
+      {"en": "3 mL", "zh": "3 毫升"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Convert weight: 13.2 lb ÷ 2.2 = 6.0 kg. Daily dose: 6.0 kg × 25 mg/kg/day = 150 mg/day. Divided every 8 hours = 3 doses/day, so 150 mg ÷ 3 = 50 mg/dose. Convert to volume at the labeled concentration: 50 mg ÷ 125 mg × 5 mL = 2 mL/dose. Suspensions must be mixed thoroughly before each dose because the medication settles between uses.", "zh": "換算體重：13.2 磅 ÷ 2.2 = 6.0 公斤。每日總劑量：6.0 公斤 × 25 mg/kg/day = 150 mg/day。每 8 小時給藥一次，即每日 3 次，150 mg ÷ 3 = 每次 50 mg。依標示濃度換算容量：50 mg ÷ 125 mg × 5 mL = 每次 2 毫升。懸浮液於每次使用前須徹底搖勻，因藥物會在兩次使用間沉澱。"},
+    "pdf_pages": [578, 580, 581],
+    "tags": ["dosage calc", "weight conversion"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is teaching a parent how to safely give oral medication to a toddler at home. Which statements by the parent indicate correct understanding? Select all that apply.", "zh": "護理師正在教導家長如何在家中安全地為學步兒給予口服藥物。家長的哪些陳述表示理解正確？（請選出所有適用項目）"},
+    "options": [
+      {"en": "\"I will check two identifiers, such as my child's name and birth date, before each dose.\"", "zh": "「每次給藥前，我會核對兩項辨識資料，例如孩子的姓名及出生日期。」"},
+      {"en": "\"I will ask the pharmacist or provider about any known allergies before starting a new medicine.\"", "zh": "「開始使用新藥物前，我會向藥師或醫療人員詢問是否有已知過敏史。」"},
+      {"en": "\"If the medicine tastes bad, I can mix the whole dose into a full bottle of formula so my child doesn't notice.\"", "zh": "「如果藥的味道不好，我可以把整劑藥混進一整瓶配方奶裡，讓孩子不會察覺。」"},
+      {"en": "\"I can offer a frozen juice bar after my child swallows the medicine.\"", "zh": "「孩子吞下藥物後，我可以給他吃冰凍果汁棒。」"},
+      {"en": "\"I will have my child pinch their nose and drink unpleasant-tasting medicine through a straw.\"", "zh": "「如果藥味道不好，我會讓孩子捏住鼻子，用吸管喝下藥物。」"},
+      {"en": "\"I will crush the enteric-coated tablet and mix it into applesauce.\"", "zh": "「我會把腸溶錠磨碎，混進蘋果醬裡給孩子吃。」"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Correct practice includes checking two identifiers, asking about allergies, offering a treat after the medication is swallowed, and having the child pinch the nose and drink unpleasant medicine through a straw. Medication should not be mixed into a full bottle of formula or an essential food, because an unpleasant taste may cause future food refusal and an incomplete dose if not all of it is consumed; enteric-coated and timed-release tablets must never be crushed.", "zh": "正確做法包括核對兩項辨識資料、詢問過敏史、藥物吞下後給予獎勵小點心，以及味道不佳時讓孩子捏鼻並用吸管喝下藥物。藥物不應混入一整瓶配方奶或主要食物中，因不良味道可能導致日後拒食，且若未全部食用將造成劑量不足；腸溶錠及長效錠絕不可磨碎。"},
+    "pdf_pages": [579],
+    "tags": ["sata", "med safety", "patient education"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A home-care nurse documents an infant's weight as 8.2 kg during a visit. The parent asks how much that is in pounds, to compare with the scale at the pediatrician's office. Using the chapter's conversion method, what is the infant's weight in pounds, rounded to the nearest tenth?", "zh": "居家照護護理師在訪視時記錄嬰兒體重為 8.2 公斤。家長詢問這相當於多少磅，以便與小兒科診所的體重計比較。使用本章的換算方法，此嬰兒的體重換算為磅後是多少（四捨五入至小數點後一位）？"},
+    "options": [
+      {"en": "18.0 lb", "zh": "18.0 磅"},
+      {"en": "16.4 lb", "zh": "16.4 磅"},
+      {"en": "8.2 lb", "zh": "8.2 磅"},
+      {"en": "3.7 lb", "zh": "3.7 磅"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "To convert kilograms to pounds, multiply by 2.2: 8.2 kg × 2.2 = 18.04 lb, rounded to the nearest tenth, 18.0 lb.", "zh": "公斤換算為磅時需乘以 2.2：8.2 公斤 × 2.2 = 18.04 磅，四捨五入至小數點後一位為 18.0 磅。"},
+    "pdf_pages": [581],
+    "tags": ["weight conversion", "patient education"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A pediatric client weighs 6.4 kg and has a maintenance prescription for a cardiac glycoside at 10 mcg/kg/day PO, divided into 2 doses. How many micrograms should the nurse administer per dose?", "zh": "一名小兒病人體重為 6.4 公斤，開立口服強心藥（cardiac glycoside）維持劑量 10 mcg/kg/day，分 2 次給予。護理師每次應給予多少微克？"},
+    "options": [
+      {"en": "32 mcg", "zh": "32 微克"},
+      {"en": "64 mcg", "zh": "64 微克"},
+      {"en": "16 mcg", "zh": "16 微克"},
+      {"en": "128 mcg", "zh": "128 微克"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Calculate the total daily dose first: 6.4 kg × 10 mcg/kg/day = 64 mcg/day. Divide by the number of doses prescribed (2 doses/day): 64 mcg ÷ 2 = 32 mcg per dose.", "zh": "先計算每日總劑量：6.4 公斤 × 10 mcg/kg/day = 64 mcg/day。再除以每日給藥次數（2 次）：64 mcg ÷ 2 = 每次 32 微克。"},
+    "pdf_pages": [580],
+    "tags": ["dosage calc"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is selecting a needle to administer an intramuscular injection to a toddler. Which needle best reflects the usual pediatric standard for length and gauge?", "zh": "護理師正在為一名學步兒選擇肌肉注射用針頭。下列哪一種針頭最符合小兒常用的長度與針規標準？"},
+    "options": [
+      {"en": "1-inch length, 24-gauge", "zh": "長度 1 英吋、24 號針規"},
+      {"en": "1.5-inch length, 23-gauge", "zh": "長度 1.5 英吋、23 號針規"},
+      {"en": "5/8-inch length, 18-gauge", "zh": "長度 5/8 英吋、18 號針規"},
+      {"en": "2-inch length, 25-gauge", "zh": "長度 2 英吋、25 號針規"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The usual needle length for pediatric IM injection is 5/8 to 1 inch (depending on age and site) with a gauge of 22-25. A 1-inch, 24-gauge needle falls within this standard. A 1.5-inch or 2-inch needle is too long for most pediatric sites, and an 18-gauge needle is too large (thick) for the recommended 22-25 gauge range.", "zh": "小兒肌肉注射常用針頭長度為 5/8 至 1 英吋（依年齡及部位而異），針規為 22 至 25 號。長度 1 英吋、24 號針規符合此標準。1.5 英吋或 2 英吋對多數小兒注射部位而言過長，18 號針規則過粗，超出建議的 22-25 號範圍。"},
+    "pdf_pages": [579],
+    "tags": ["med safety", "IM injection"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "An infant is receiving an intermittent IV antibiotic via a burette-type administration set, with a 15-mL normal saline flush given before and after the medication. Which nursing action is most important to prevent a complication related to total fluid volume?", "zh": "一名嬰兒正透過點滴計量器（burette）給予間歇性靜脈抗生素，用藥前後各以 15 mL 生理食鹽水沖洗。為預防與總體液量相關的併發症，護理師最重要的行動是什麼？"},
+    "options": [
+      {"en": "Include all flush volumes in the infant's documented 24-hour intake and monitor the total against the prescribed maximum daily fluid allowance", "zh": "將所有沖洗液量納入嬰兒 24 小時攝入量的記錄中，並監測總量是否超過醫囑規定的每日最大輸液量"},
+      {"en": "Omit the flush volumes from the intake total because they are not nutritive fluids", "zh": "因沖洗液不具營養價值，故不將其計入攝入量總量"},
+      {"en": "Increase the primary IV infusion rate to compensate for the additional flush volume", "zh": "提高主要輸液的滴速以補償額外的沖洗液量"},
+      {"en": "Administer the flush only after the medication is given, never before", "zh": "僅在給藥後執行沖洗，絕不在給藥前沖洗"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The flush volume (3-20 mL) must be included in the child's intake, and the 24-hour fluid intake needs to be monitored closely against the prescribed maximum, which is usually based on body weight, to prevent overhydration. Omitting the flush, increasing the rate without an order, or skipping the pre-medication flush are unsafe practices.", "zh": "沖洗液量（3-20 mL）必須計入兒童的攝入量，且須密切監測 24 小時總輸液量是否超過醫囑規定的最大量（通常依體重而定），以預防體液過多。未計入沖洗液量、未經醫囑自行提高滴速，或省略給藥前的沖洗，皆屬不安全的做法。"},
+    "pdf_pages": [580],
+    "tags": ["IV therapy", "med safety", "recognizing cues"]
+  }
+]
