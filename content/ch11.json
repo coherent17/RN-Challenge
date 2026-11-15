@@ -56,7 +56,7 @@
         {"en": "Weight change of 1 kg equals about 1 L of fluid gained or lost; monitor I&O and weight on liquid diets.", "zh": "體重變化 1 公斤約等於 1 公升水分增減;流質飲食期間須監測輸出入量與體重。"},
         {"en": "Full liquid adds milk, ice cream, pudding, custard, strained soups and cereals; use supplements if used more than 3 days.", "zh": "全流質加入牛奶、冰淇淋、布丁、卡士達、過濾湯品與精製穀粥;使用超過 3 天需營養補充品。"},
         {"en": "Mechanical soft: pureed, ground or chopped foods for chewing difficulty or dysphagia; avoid nuts, dried and raw fruits/vegetables, fried and tough meats.", "zh": "機械軟質:將食物打泥、絞碎或切碎,適用咀嚼困難或吞嚥困難;避免堅果、乾果、生蔬果、油炸與粗硬肉類。"},
-        {"en": "Soft diet: for mouth sores, oral surgery, jaw fracture, stroke; serve cooler foods for mouth sores; avoid nuts/seeds, raw produce, fried foods; no straw for dysphagia.", "zh": "軟質飲食:適用口腔潰瘍、口腔手術、下顎骨折、中風;口腔潰瘍給較涼的食物;避免堅果/種子、生蔬果、油炸;吞嚥困難者不可使用吸管。"}
+        {"en": "Soft diet: for mouth sores, oral surgery, jaw fracture, stroke; serve cooler foods for mouth sores; avoid nuts/seeds, raw produce, fried foods and whole grains; no straw for dysphagia.", "zh": "軟質飲食:適用口腔潰瘍、口腔手術、下顎骨折、中風;口腔潰瘍給較涼的食物;避免堅果/種子、生蔬果、油炸與全穀類;吞嚥困難者不可使用吸管。"}
       ],
       "pdf_pages": [157, 158, 159, 160]
     },
@@ -108,7 +108,7 @@
   "critical_points": [
     {"en": "Calories per gram: carbohydrate 4, protein 4, fat 9.", "zh": "每公克熱量:醣類 4、蛋白質 4、脂肪 9 大卡。", "pdf_pages": [156]},
     {"en": "Short-term protein status = prealbumin/transferrin; long-term = albumin.", "zh": "短期蛋白質狀態看前白蛋白/運鐵蛋白;長期看白蛋白。", "pdf_pages": [157]},
-    {"en": "Vegans most often lack vitamin B12 (found only in animal products).", "zh": "純素者最常缺乏維生素 B12(僅存在於動物性食品)。", "pdf_pages": [164, 165]},
+    {"en": "Vegans most often lack vitamin B12 (naturally found almost exclusively in animal products).", "zh": "純素者最常缺乏維生素 B12(天然來源幾乎僅存在於動物性食品)。", "pdf_pages": [164, 165]},
     {"en": "Iron-deficiency anemia: iron foods plus vitamin C (oranges, leafy greens); avoid coffee and tea with iron foods.", "zh": "缺鐵性貧血:鐵質食物搭配維生素 C(柳橙、綠葉蔬菜);避免與咖啡、茶同時攝取。", "pdf_pages": [163, 164]},
     {"en": "Clear liquids are transparent; dairy, pudding, custard and pureed foods are not.", "zh": "清流質為透明液體;乳製品、布丁、卡士達與泥狀食物不屬於清流質。", "pdf_pages": [158, 159, 165]},
     {"en": "Sodium limit under 2,300 mg/day (ideal 1,500); smoked, cured, canned and processed foods are high in sodium.", "zh": "鈉攝取每日低於 2,300 mg(理想 1,500);燻製、醃製、罐頭與加工食品含鈉高。", "pdf_pages": [162, 166]},

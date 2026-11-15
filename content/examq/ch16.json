@@ -140,7 +140,7 @@
     ],
     "answer": [0, 1, 3, 5],
     "rationale": {"en": "Orthostatic hypotension, muscle weakness from immobility, sedative-hypnotic medications, and joint contractures that impair gait all increase fall risk. Nonskid socks and a call bell within reach are safety measures that reduce, rather than increase, fall risk.", "zh": "姿位性低血壓、因活動不足導致的肌肉無力、鎮靜安眠藥物，以及影響步態的關節攣縮，皆會增加跌倒風險。穿防滑襪及呼叫鈴在可及範圍內則是降低（而非增加）跌倒風險的安全措施。"},
-    "pdf_pages": [235],
+    "pdf_pages": [237],
     "tags": ["sata", "fall prevention", "immobility"]
   },
   {
@@ -196,7 +196,7 @@
     ],
     "answer": [2],
     "rationale": {"en": "Clients with diabetes mellitus or peripheral vascular disease should not soak their feet because prolonged soaking can cause maceration and increase infection risk, and nail trimming should be done by a podiatrist or primary health care provider because of the increased risk of infection from accidental cuts. Lotion is applied to the feet but avoided between the toes to prevent excess moisture and maceration.", "zh": "患有糖尿病或周邊血管疾病的病人不應泡腳，因長時間泡水可能造成皮膚軟化並增加感染風險；指甲修剪應由足科醫師或主要照護者執行，以降低意外剪傷造成感染的風險。乳液可塗抹於雙足，但應避免塗於腳趾之間，以防止過度潮濕及皮膚軟化。"},
-    "pdf_pages": [236],
+    "pdf_pages": [235],
     "tags": ["diabetes", "foot care", "self-care"]
   },
   {
@@ -252,7 +252,7 @@
     ],
     "answer": [1],
     "rationale": {"en": "Dizziness and pallor when an immobile client first changes position are signs of orthostatic hypotension, a cardiovascular complication of prolonged immobility that significantly increases the client's risk for falling. A mild increase in pulse, a normal respiratory rate, and a minor decrease in blood pressure that does not produce symptoms are less concerning findings.", "zh": "活動受限的病人首次改變姿勢時出現頭暈及臉色蒼白，是姿位性低血壓的徵象，這是長期臥床導致的心血管併發症，會顯著增加病人跌倒的風險。脈搏輕微上升、呼吸速率正常，以及未伴隨症狀的輕微血壓下降，相對較不令人擔憂。"},
-    "pdf_pages": [235],
+    "pdf_pages": [237],
     "tags": ["fall prevention", "orthostatic hypotension", "red flag"]
   }
 ]
