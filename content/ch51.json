@@ -92,7 +92,7 @@
     {"en": "After bronchoscopy keep NPO until gag reflex returns; watch for bronchospasm, hemorrhage, pneumothorax, crepitus.", "zh": "支氣管鏡後嘔吐反射恢復前禁食；監測支氣管痙攣、出血、氣胸、皮下氣腫。", "pdf_pages": [757]},
     {"en": "Thoracentesis: monitor for pneumothorax, air embolism, pulmonary edema; check coagulation first.", "zh": "胸腔穿刺：監測氣胸、空氣栓塞、肺水腫；事先檢查凝血。", "pdf_pages": [757, 758]},
     {"en": "Do not suction before an ABG draw.", "zh": "抽動脈血氣前不可抽吸。", "pdf_pages": [759]},
-    {"en": "TB skin test: read 48-72 hours; positive result means exposure; BCG causes positive; needs chest x-ray.", "zh": "結核菌素試驗：48-72 小時判讀；陽性代表曾暴露；BCG 可致陽性；需做胸部 X 光。", "pdf_pages": [770, 764]},
+    {"en": "TB skin test: read 48-72 hours; positive result means exposure; BCG causes positive; needs chest x-ray.", "zh": "結核菌素試驗：48-72 小時判讀；陽性代表曾暴露；BCG 可致陽性；需做胸部 X 光。", "pdf_pages": [769, 770]},
     {"en": "Active TB: airborne precautions, negative-pressure room, N95 for staff, mask on client in transit.", "zh": "活動性結核：空氣隔離、負壓病室、工作人員戴 N95、病人外出戴口罩。", "pdf_pages": [770]},
     {"en": "TB medication continues up to 12 months; noncompliance causes MDR-TB; three negative sputum cultures end infectiousness.", "zh": "結核藥物最長持續 12 個月；不遵從導致多重抗藥；三次痰培養陰性代表無傳染力。", "pdf_pages": [769, 771]},
     {"en": "Legionnaire's disease is not spread person-to-person; COVID-19 and influenza use droplet precautions.", "zh": "退伍軍人症不會人傳人；COVID-19 與流感採飛沫隔離。", "pdf_pages": [765, 766]},
