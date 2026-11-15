@@ -23,7 +23,7 @@
       {"en": "Disconnect the IV tubing from the catheter hub", "zh": "將靜脈管路從導管接頭分離"}
     ],
     "answer": [1],
-    "rationale": {"en": "These findings suggest air embolism. The nurse should clamp the tubing to stop further air entry, position the client on the left side with the head down (Trendelenburg) to trap air in the right ventricular apex away from the pulmonary outflow tract, give oxygen, and notify the provider immediately.", "zh": "此為空氣栓塞表現。護理師應夾閉管路以阻止空氣繼續進入，將個案置於左側臥頭低位（Trendelenburg）使空氣滯留於右心室尖端而遠離肺動脈出口，給氧並立即通知醫師。"},
+    "rationale": {"en": "These findings suggest air embolism. The nurse should clamp the tubing to stop further air entry, position the client on the left side with the head down (Trendelenburg) to trap the air in the right atrium away from the pulmonary artery, give oxygen, and notify the provider immediately.", "zh": "此為空氣栓塞表現。護理師應夾閉管路以阻止空氣繼續進入，將個案置於左側臥頭低位（Trendelenburg）使空氣滯留於右心房而遠離肺動脈，給氧並立即通知醫師。"},
     "pdf_pages": [1129, 1132],
     "tags": ["priority", "red flag"]
   },
@@ -107,7 +107,7 @@
       {"en": "Document the finding and continue routine care", "zh": "記錄發現並持續常規照護"}
     ],
     "answer": [1],
-    "rationale": {"en": "A pulsating tube with bright red bleeding suggests tracheoinnominate artery fistula, a rare but catastrophic emergency. The nurse applies firm direct pressure to control hemorrhage and calls for immediate emergency assistance; the tube is not removed or suctioned until help arrives because this can worsen bleeding or airway loss.", "zh": "管子搏動並伴鮮紅出血提示氣管無名動脈瘻管，為罕見但災難性的急症。護理師須施加堅實直接加壓以控制出血並立即呼叫緊急協助；在救援到達前不拔管或抽吸，以免加重出血或喪失呼吸道。"},
+    "rationale": {"en": "A pulsating tube with bright red bleeding suggests tracheoinnominate artery fistula, a rare but catastrophic emergency. The nurse immediately applies firm direct pressure over the innominate artery at the stoma site and calls for emergency help; per emergency protocol the tracheostomy tube is then removed right away and the client is prepared for emergency repair surgery.", "zh": "管子搏動並伴鮮紅出血提示氣管無名動脈瘻管，為罕見但災難性的急症。護理師應立即於造口處對無名動脈施加堅實直接加壓並呼叫緊急協助；依急救流程隨即拔除氣切管，並為個案準備緊急修補手術。"},
     "pdf_pages": [1148, 1150],
     "tags": ["priority", "red flag"]
   },

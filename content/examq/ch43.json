@@ -9,7 +9,7 @@
       {"en": "Cellulitis", "zh": "蜂窩組織炎"}
     ],
     "answer": [1],
-    "rationale": {"en": "A furuncle is caused by Staphylococcus and occurs deep in the follicle, presenting as a very painful, large, raised bump that may or may not have a pustule. Folliculitis is a superficial infection of the follicle presenting as a raised red rash with pustules. Erysipelas is a superficial infection of the upper skin layers caused by group A Streptococcus, and cellulitis involves the dermis and hypodermis.", "zh": "癰是由金黃色葡萄球菌引起,發生於毛囊深處,表現為非常疼痛、腫大隆起的腫塊,可能有或沒有膿頭。毛囊炎則是毛囊表淺感染,表現為隆起的紅疹合併膿疱。丹毒是A群鏈球菌引起的皮膚上層表淺感染,而蜂窩組織炎則侵犯真皮與皮下組織。"},
+    "rationale": {"en": "A furuncle develops when Staphylococcus infects a hair follicle at a deeper level, producing a large, tender, raised lump that sometimes has no visible pustule at all. Folliculitis, in contrast, stays within the superficial follicle and looks like a red, bumpy rash studded with pustules. Erysipelas and cellulitis are not follicle-based infections: erysipelas (caused by group A Streptococcus) stays confined to the outer skin layers, while cellulitis extends into the dermis and hypodermis.", "zh": "癰是金黃色葡萄球菌侵犯毛囊較深層所造成,形成腫大、觸痛的隆起腫塊,有時表面完全看不到膿頭。相對地,毛囊炎只侵犯毛囊表淺部位,外觀為紅色凹凸不平的疹子並夾雜膿疱。丹毒與蜂窩組織炎都不是毛囊的感染:丹毒(由A群鏈球菌引起)侵犯範圍侵限於皮膚外層,蜂窩組織炎則深入真皮與皮下組織。"},
     "pdf_pages": [589, 590],
     "tags": ["recognize cues", "wound infection"]
   },
@@ -25,7 +25,7 @@
       {"en": "Notify the PHCP of the positive culture so appropriate antibiotic therapy can be started or continued", "zh": "通知醫療人員培養結果為陽性,以便開始或持續適當的抗生素治療"}
     ],
     "answer": [0, 2, 3, 5],
-    "rationale": {"en": "MRSA is spread by direct contact with infected skin or articles, so standard and contact precautions (not droplet) are required. Dedicating equipment and performing hand hygiene even with gloves reduce transmission. A culture and sensitivity test guides antibiotic selection. Precautions are not discontinued based on temperature alone; they continue until the infection resolves or per facility policy.", "zh": "MRSA是透過直接接觸感染的皮膚或物品傳播,因此需要標準防護措施與接觸隔離(而非飛沫隔離)。專用設備與戴手套前後仍執行手部衛生可降低傳播風險。培養與藥敏試驗可指引抗生素選擇。防護措施不應僅因體溫恢復正常就停止,應持續至感染解除或依機構政策執行。"},
+    "rationale": {"en": "Because MRSA transmits through touching contaminated skin or shared items rather than through the air, contact precautions paired with standard precautions are what is indicated, not a droplet-based approach. Keeping equipment such as a blood pressure cuff dedicated to the room, along with hand hygiene performed before and after glove use, limits the chance of carrying the organism to another client. The antibiotic chosen should be guided by the culture's sensitivity results. A normal temperature alone is not a reason to lift precautions; they stay in place until the infection has cleared or facility policy says otherwise.", "zh": "由於MRSA是透過接觸受污染的皮膚或共用物品傳播,而非經由空氣傳播,因此應採取接觸隔離併同標準防護措施,而非以飛沫隔離為主。將血壓計等設備專用於該病室,並於戴手套前後仍執行手部衛生,可降低將病原帶給其他病人的機會。抗生素的選擇應依培養藥敏結果而定。體溫恢復正常本身並非解除防護措施的理由,應持續至感染消退或依機構政策處理。"},
     "pdf_pages": [589, 590],
     "tags": ["sata", "safety", "wound infection"]
   },
@@ -39,7 +39,7 @@
       {"en": "Herpes zoster, a viral infection of the dorsal nerve root ganglia", "zh": "帶狀疱疹,一種侵犯背根神經節的病毒感染"}
     ],
     "answer": [1],
-    "rationale": {"en": "Cellulitis is an infection of the dermis and underlying hypodermis caused by group A Streptococcus or Staphylococcus aureus, presenting with deep erythema without sharp borders. Erysipelas is superficial and affects only the upper skin layers with more sharply demarcated borders.", "zh": "蜂窩組織炎是由A群鏈球菌或金黃色葡萄球菌引起的真皮及皮下組織感染,表現為邊界不清的深紅斑。丹毒則屬表淺感染,僅侵犯皮膚上層,邊界較為清楚。"},
+    "rationale": {"en": "These findings point to cellulitis, in which group A Streptococcus or Staphylococcus aureus has spread into the dermis and the hypodermis beneath it, producing poorly demarcated, deep erythema. Erysipelas, by contrast, stays limited to the outermost skin layers and tends to have a more clearly defined edge.", "zh": "這些發現指向蜂窩組織炎,也就是A群鏈球菌或金黃色葡萄球菌已擴散至真皮及其下方的皮下組織,造成邊界不清的深層紅斑。相對地,丹毒僅侵犯最外層皮膚,邊緣通常較為清楚。"},
     "pdf_pages": [590],
     "tags": ["recognize cues", "wound infection"]
   },
@@ -77,15 +77,15 @@
     "cat": "RR",
     "stem": {"en": "The nurse is reviewing photographs of clients' skin lesions during a dermatology clinic orientation. Which characteristics are consistent with melanoma? Select all that apply.", "zh": "護理師在皮膚科門診訓練中查看病人皮膚病灶的照片。下列哪些特徵符合黑色素瘤?(多選)"},
     "options": [
-      {"en": "Irregular, circular-bordered lesion with hues of tan, black, or blue", "zh": "邊界不規則、呈圓形,顏色呈棕褐、黑或藍色調的病灶"},
-      {"en": "Waxy nodule with a pearly, rolled border and central crater", "zh": "蠟狀結節,帶有珍珠光澤的捲邊與中央凹陷"},
+      {"en": "An asymmetric, unevenly bordered spot that mixes tan, black, and blue coloring", "zh": "不對稱、邊緣不規則的斑塊,夾雜棕褐、黑與藍等不均勻顏色"},
+      {"en": "A shiny, translucent bump with a raised, pearl-like rim surrounding a central indentation", "zh": "具光澤、半透明的隆起病灶,邊緣呈珍珠狀隆起,中央凹陷"},
       {"en": "Rapid infiltration into surrounding tissue with high metastatic potential", "zh": "快速侵入周邊組織,具高度轉移潛力"},
-      {"en": "Firm, nodular lesion topped with a crust or area of ulceration", "zh": "堅硬、結節狀病灶,表面覆蓋結痂或潰瘍區域"},
+      {"en": "A hard, bumpy growth capped by a scab or an open ulcerated surface", "zh": "堅硬、凸起的增生物,表面覆蓋痂皮或呈潰瘍開放狀態"},
       {"en": "Occurs most often at sites of preexisting moles or birthmarks", "zh": "最常發生於原有的痣或胎記部位"},
       {"en": "Rarely metastasizes to other organs", "zh": "罕見轉移至其他器官"}
     ],
     "answer": [0, 2, 4],
-    "rationale": {"en": "Melanoma presents as an irregular, circular-bordered lesion with tan, black, or blue hues; it infiltrates rapidly and is highly metastatic, and it occurs most often where birthmarks or moles are apparent. A waxy nodule with a pearly border and crater describes basal cell carcinoma, and a firm, crusted or ulcerated nodular lesion describes squamous cell carcinoma; basal cell carcinoma, not melanoma, rarely metastasizes.", "zh": "黑色素瘤表現為邊界不規則的圓形病灶,顏色呈棕褐、黑或藍色調;會快速侵入組織且高度轉移,最常發生於原有胎記或痣的部位。帶珍珠光澤邊緣與中央凹陷的蠟狀結節描述的是基底細胞癌,堅硬且結痂或潰瘍的結節狀病灶則描述鱗狀細胞癌;罕見轉移的是基底細胞癌,而非黑色素瘤。"},
+    "rationale": {"en": "Melanoma typically shows up as an asymmetric spot with an uneven edge and a mix of tan, black, and blue tones; it spreads into tissue quickly and metastasizes readily, and it tends to arise where a mole or birthmark already exists. A shiny bump with a pearled rim and central dent instead describes basal cell carcinoma, and a hard, crusted or ulcerated growth describes squamous cell carcinoma. It is basal cell carcinoma — not melanoma — that rarely spreads to distant organs.", "zh": "黑色素瘤通常表現為不對稱、邊緣不規則,並夾雜棕褐、黑與藍色調的斑塊;它會迅速侵入組織且容易轉移,且好發於原本已有痣或胎記的部位。具光澤、邊緣呈珍珠狀隆起且中央凹陷的病灶描述的是基底細胞癌,而堅硬、結痂或潰瘍的增生物描述的是鱗狀細胞癌。罕見轉移至遠端器官的是基底細胞癌,而非黑色素瘤。"},
     "pdf_pages": [592, 593],
     "tags": ["sata", "recognize cues"]
   },
@@ -157,7 +157,7 @@
       {"en": "Fourth-degree", "zh": "第四度"}
     ],
     "answer": [2],
-    "rationale": {"en": "Third-degree frostbite involves small hemorrhagic blisters usually followed by eschar formation involving the hypodermis, requiring debridement. First-degree involves white plaque with hyperemia and edema; second-degree involves large, clear fluid-filled blisters; fourth-degree involves full-thickness necrosis with visible tissue loss extending into muscle and bone without blisters or edema.", "zh": "第三度凍傷表現為小型出血性水疱,通常接著形成深入皮下組織的焦痕,需要清創處理。第一度為白色斑塊合併充血與水腫;第二度為大型透明液體水疱;第四度則無水疱或水腫,表現為全層壞死合併可見組織流失,深達肌肉與骨骼。"},
+    "rationale": {"en": "Small blood-tinged blisters that progress to a blackened scab reaching down into the fat layer are the hallmark of third-degree frostbite, which typically needs debridement. A pale patch surrounded by redness and swelling points instead to first-degree injury; large, clear-fluid blisters mark second-degree injury; and full-thickness tissue death reaching muscle and bone, with no blistering or swelling at all, marks fourth-degree injury.", "zh": "出現帶血色的小水疱,之後進展為深達皮下脂肪層的發黑焦痕,是第三度凍傷的典型表現,通常需要清創處理。若是周圍泛紅合併腫脹的白色斑塊,則屬第一度;大型透明液體水疱屬第二度;完全沒有水疱或腫脹,卻出現深達肌肉與骨骼的全層組織壞死,則屬第四度。"},
     "pdf_pages": [591],
     "tags": ["recognize cues", "cold injury"]
   },
@@ -173,7 +173,7 @@
       {"en": "Explain that symptoms of anaphylaxis can return hours after the first epinephrine injection (rebound reaction)", "zh": "說明過敏性休克症狀可能在第一次注射腎上腺素後數小時再度出現(反彈反應)"}
     ],
     "answer": [0, 1, 3, 5],
-    "rationale": {"en": "Individuals allergic to bee stings should carry an epinephrine autoinjector, seek emergency care after use even if symptoms improve, keep a second injector available with prompt replacement, and be monitored for rebound anaphylaxis, which can occur hours or days later. The stinger should be removed by scraping or brushing it off, not by grasping with tweezers, to avoid pinching the venom sac, and monitoring should continue even after improvement.", "zh": "對蜂螫過敏者應隨身攜帶腎上腺素自動注射器,使用後即使症狀改善仍應尋求緊急醫療照護,備有第二支注射器並儘快補充替換,並監測可能於數小時或數天後出現的反彈性過敏性休克。螫針應以輕刮或輕撥方式移除,而非用鑷子夾取,以避免壓擠毒囊;即使症狀改善,監測仍應持續。"},
+    "rationale": {"en": "Someone with a known bee-sting allergy needs an epinephrine autoinjector on hand at all times and should still go to the emergency department after using it, even if the reaction appears to settle down — a second wave of symptoms can resurface hours or even days afterward, so a backup injector should be kept ready and replaced right away once one is used. Pulling the stinger out with tweezers risks squeezing more venom from the sac into the skin, so it should instead be flicked or scraped away, and the person should keep being watched rather than assuming the danger has passed once symptoms calm.", "zh": "已知對蜂螫過敏者應隨時備有腎上腺素自動注射器,且即使注射後反應看似緩解,仍應前往急診就醫——因為反應可能在數小時甚至數天後再度出現,因此應備妥備用注射器,並於使用後儘快補充。用鑷子拔出螫針有擠壓毒囊、釋出更多毒液的風險,因此應改以輕撥或輕刮方式移除,且即使症狀暫時緩解,仍應持續觀察,不可認為危險已經解除。"},
     "pdf_pages": [591, 592],
     "tags": ["sata", "generate solutions", "requires immediate action"]
   },
