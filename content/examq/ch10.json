@@ -147,7 +147,7 @@
     "options": [
       {"en": "Average blood glucose level over the past 24 hours", "zh": "過去 24 小時的平均血糖水平"},
       {"en": "Average blood glucose control over the past 2 to 3 weeks", "zh": "過去 2 至 3 週的平均血糖控制情形"},
-      {"en": "Average blood glucose control over the past 2 to 3 months, indicating poorly controlled diabetes", "zh": "過去 2 至 3 個月的平均血糖控制情形，顯示糖尿病控制不佳"},
+      {"en": "Average blood glucose control over the past 3 to 4 months, indicating poorly controlled diabetes", "zh": "過去 3 至 4 個月的平均血糖控制情形，顯示糖尿病控制不佳"},
       {"en": "A normal, well-controlled blood glucose level", "zh": "正常且控制良好的血糖水平"}
     ],
     "answer": [2],
