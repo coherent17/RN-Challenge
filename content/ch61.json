@@ -258,8 +258,8 @@
      "zh": "併發症：出血、感染、幻肢痛、屈曲攣縮；糖尿病人易傷口裂開與感染。"
     },
     {
-     "en": "Do not elevate the residual limb on pillows after the first 24 h (contracture); prone positioning as prescribed; wrap with elastic bandage or shrinker; rewrap immediately if it slips.",
-     "zh": "最初24小時後勿以枕頭抬高殘肢（防攣縮）；依醫囑俯臥；彈性繃帶或殘肢套包紮；鬆脫時立即重新包紮。"
+     "en": "Never place a pillow under the residual limb (risk of hip flexion contracture); for the first 24 h elevate the foot of the bed, not a pillow, to reduce edema, then keep the bed flat; prone positioning as prescribed after 24-48 h; wrap with elastic bandage or shrinker, and rewrap immediately if it slips.",
+     "zh": "殘肢下勿墊枕頭（避免髖屈曲攣縮）；最初24小時應抬高床尾而非用枕頭以減少腫脹，之後維持床平；24-48小時後依醫囑採俯臥；以彈性繃帶或殘肢套包紮，鬆脫時立即重新包紮。"
     },
     {
      "en": "Above-knee: prevent external rotation with trochanter roll; below-knee: do not let limb hang, avoid long sitting.",
@@ -369,8 +369,8 @@
    ]
   },
   {
-   "en": "Amputation: rewrap residual limb immediately with elastic bandage if it slips; no pillow under limb after 24 h; prone positioning prevents hip contracture.",
-   "zh": "截肢：殘肢彈性繃帶鬆脫須立即重新包紮；24小時後肢下勿墊枕；俯臥防髖攣縮。",
+   "en": "Amputation: never place a pillow under the residual limb (hip flexion contracture risk) - elevate the foot of the bed instead for the first 24 h; rewrap immediately with elastic bandage if it slips; prone positioning after 24-48 h also helps prevent hip contracture.",
+   "zh": "截肢：殘肢下勿墊枕頭（避免髖屈曲攣縮）－最初24小時應改以抬高床尾；彈性繃帶鬆脫須立即重新包紮；24-48小時後俯臥亦有助預防髖攣縮。",
    "pdf_pages": [
     993,
     994
@@ -417,7 +417,8 @@
    "en": "Open fracture: cover with sterile dressing and splint before moving; at the scene keep victim still and do not reduce.",
    "zh": "開放性骨折：移動前以無菌敷料覆蓋並夾板固定；現場讓傷者保持不動且勿自行復位。",
    "pdf_pages": [
-    986
+    986,
+    998
    ]
   },
   {

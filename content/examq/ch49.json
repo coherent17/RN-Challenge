@@ -221,7 +221,7 @@
     ],
     "answer": [2],
     "rationale": {"en": "Anticholinergic medications delay stomach emptying and should be avoided by clients with GERD because they can worsen reflux. Proton pump inhibitors decrease acid production, prokinetic agents accelerate gastric emptying, and antacids neutralize existing gastric acid, all of which are appropriate therapies for GERD.", "zh": "抗膽鹼藥物會延緩胃排空，GERD病人應避免使用，因其可能加重逆流症狀。氫離子幫浦阻斷劑可減少胃酸分泌、促進腸胃蠕動藥物可加速胃排空、抗酸劑則可中和現有胃酸，皆為GERD適當的治療方式。"},
-    "pdf_pages": [718],
+    "pdf_pages": [719],
     "tags": ["GERD", "medication safety", "patient teaching"]
   }
 ]

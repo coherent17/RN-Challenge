@@ -159,7 +159,7 @@
   },
   {
     "cat": "RR",
-    "stem": {"en": "A client with no known HIV infection and no other risk factors for tuberculosis undergoes a tuberculin skin test. At 48 hours, the nurse measures 13 mm of induration at the injection site. How should the nurse interpret this result?", "zh": "一位無已知HIV感染且無其他結核病風險因子的病人接受結核菌素皮膚試驗，48小時後護理師測量注射部位的硬結（induration）為13 mm。護理師應如何解讀此結果？"},
+    "stem": {"en": "A client with no known HIV infection and no other risk factors for tuberculosis undergoes a tuberculin skin test. At 48 hours, the nurse measures 16 mm of induration at the injection site. How should the nurse interpret this result?", "zh": "一位無已知HIV感染且無其他結核病風險因子的病人接受結核菌素皮膚試驗，48小時後護理師測量注射部位的硬結（induration）為16 mm。護理師應如何解讀此結果？"},
     "options": [
       {"en": "Negative", "zh": "陰性"},
       {"en": "Positive", "zh": "陽性"},
@@ -167,7 +167,7 @@
       {"en": "Indicates active, contagious disease", "zh": "表示病人患有具傳染性的活動性疾病"}
     ],
     "answer": [1],
-    "rationale": {"en": "A client without HIV infection is considered to have a positive tuberculin skin test result when the area of induration is larger than 10 mm. A positive skin test indicates previous exposure to tuberculosis or inactive (dormant) disease; it does not by itself confirm active disease, which requires further evaluation such as a chest x-ray and sputum culture.", "zh": "無HIV感染的病人若硬結面積大於10 mm，則視為結核菌素皮膚試驗陽性。陽性皮膚試驗表示曾暴露於結核菌或存在非活動性（潛伏性）疾病，本身並不能確診活動性疾病，仍需進一步評估，如胸部X光及痰液培養。"},
+    "rationale": {"en": "Interpretation of the tuberculin skin test depends on the client's individual risk level, not a single universal cutoff: induration of 5 mm or more is positive for the highest-risk groups (e.g., HIV infection, recent close contact with active TB, immunosuppression), 10 mm or more is positive for moderate-risk groups (e.g., recent immigrants from high-prevalence countries, injection drug users), and for a person with no known risk factors for tuberculosis, 15 mm or more is required to be considered positive. A positive skin test indicates previous exposure to tuberculosis or inactive (dormant) disease; it does not by itself confirm active disease, which requires further evaluation such as a chest x-ray and sputum culture.", "zh": "結核菌素皮膚試驗的判讀取決於個人的風險等級，而非單一的統一切點：對最高風險族群（例如HIV感染、近期與活動性結核病患密切接觸、免疫抑制），硬結 5 mm 以上即為陽性；對中度風險族群（例如來自高流行國家的近期移民、靜脈藥癮者），硬結 10 mm 以上為陽性；而對於無任何已知結核病風險因子的人，需達 15 mm 以上才視為陽性。陽性皮膚試驗表示曾暴露於結核菌或存在非活動性（潛伏性）疾病，本身並不能確診活動性疾病，仍需進一步評估，如胸部X光及痰液培養。"},
     "pdf_pages": [770],
     "tags": ["diagnostic test", "labs"]
   },
