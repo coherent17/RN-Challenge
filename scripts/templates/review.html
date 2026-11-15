@@ -1,0 +1,10 @@
+{% extends "base.html" %}{% block body %}
+<section class="hero quiz"><div class="blobs"><i></i><i></i><i></i></div><div class="wrap">
+<p class="eyebrow"><span class="en">Review</span><span class="zh">複習</span></p>
+<h1><span class="en">Every question you've missed, <em>in one place</em></span><span class="zh">把答錯的題目<em>集中在這裡</em></span></h1>
+<p class="lead"><span class="en">Pulled from your Practice Questions on each chapter page. Answer again — a question drops off this list once you get it right.</span><span class="zh">來自各章節頁面的練習題。重新作答，答對後該題就會從清單中移除。</span></p></div></section>
+<main class="wrap qz" id="rv"><div id="rv-empty" class="card setup rv" hidden><h3><span class="en">Nothing to review 🎉</span><span class="zh">沒有要複習的題目 🎉</span></h3>
+<p class="note"><span class="en">Missed questions from chapter Practice Questions will show up here.</span><span class="zh">章節練習題答錯時會出現在這裡。</span></p>
+<div class="cta"><a class="btn pri big" href="index.html#chapters"><span class="en">Browse chapters</span><span class="zh">瀏覽章節</span></a></div></div>
+<div id="rv-list"></div></main>
+{% endblock %}

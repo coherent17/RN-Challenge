@@ -56,6 +56,7 @@ function intro(){var M=run.M;nxEl.innerHTML=frame('<div class="nx-tool"></div><d
 '<div class="nx-bot"><span></span><button type="button" class="nx-next" id="nx-go"><span><u>N</u>ext</span><span class="ar">➔</span></button><button type="button" class="nx-quit" id="nx-quit">'+L('Cancel','取消')+'</button></div>');
 $('#nx-go').onclick=begin;$('#nx-quit').onclick=function(){run=null;closeFrame();setup.hidden=false}}
 function begin(){run.t0=Date.now();run.deadline=run.t0+run.M.mins*60000;clearInterval(timerId);timerId=setInterval(tick,1000);next()}
+addEventListener('beforeunload',function(e){if(run&&!run.done){e.preventDefault();e.returnValue=''}});
 function tick(){if(!run||run.done)return;var left=run.deadline-Date.now(),t=$('#ex-t');if(t){t.textContent=clock(left);t.classList.toggle('low',left<600000)}if(left<=0)finish('time')}
 function next(){var q=nextItem();if(!q){finish(run.M.adaptive?'max':'complete');return}run.cur=q;run.qStart=Date.now();render(q)}
 function splitPrompt(t){var m=t.match(/^([\s\S]*?[.。!！]["”)]?\s*)([^.。!！]*[?？]["”)]?\s*)$/);return m&&m[1].trim()?[m[1].trim(),m[2].trim()]:['',t]}
