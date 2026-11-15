@@ -2,8 +2,8 @@
   {
     "cat": "PA",
     "stem": {
-      "en": "A client 3 hours postpartum is restless and difficult to rouse. The skin is cool, clammy, and ashen, and the peripad and underpad are saturated with bright red blood. Which assessment findings would the nurse expect to accompany early hypovolemic shock? Select all that apply.",
-      "zh": "一名產後3小時的產婦意識模糊、不易喚醒，皮膚濕冷且呈灰白色，產墊與看護墊已被鮮紅血液浸濕。下列哪些評估發現符合早期低血容性休克的表現？請選出所有適用項目。"
+      "en": "A client 3 hours postpartum is restless and difficult to rouse. The skin is cool, clammy, and ashen, and the peripad and underpad are saturated with bright red blood. Which assessment findings would the nurse expect to accompany this client's hypovolemic shock? Select all that apply.",
+      "zh": "一名產後3小時的產婦意識模糊、不易喚醒，皮膚濕冷且呈灰白色，產墊與看護墊已被鮮紅血液浸濕。下列哪些評估發現符合此產婦的低血容性休克表現？請選出所有適用項目。"
     },
     "options": [
       {"en": "Pulse increased from a baseline of 84 to 128 beats/minute", "zh": "脈搏由基準值每分鐘84次上升至128次"},
@@ -14,8 +14,8 @@
     ],
     "answer": [0, 2, 4],
     "rationale": {
-      "en": "Early signs of postpartum hemorrhage and shock include a rising pulse rate (an early compensatory sign), falling blood pressure, and cool, clammy, ashen skin from peripheral vasoconstriction. Respirations become rapid and shallow, not slow and deep, and urine output decreases rather than increases as renal perfusion falls.",
-      "zh": "產後出血與休克的早期徵象包括脈搏上升（早期代償反應）、血壓下降，以及因週邊血管收縮造成的皮膚濕冷與灰白色。呼吸會變得快而淺，而非緩慢深沉；尿量會因腎臟灌流下降而減少，而非增加。"
+      "en": "A rising pulse rate is the earliest compensatory sign of postpartum hemorrhage and shock. As blood loss continues, blood pressure falls and the skin becomes cool, clammy, and ashen or grayish from peripheral vasoconstriction as the body shunts blood to core organs. Respirations become rapid and shallow, not slow and deep, and urine output decreases rather than increases as renal perfusion falls.",
+      "zh": "脈搏上升是產後出血與休克最早出現的代償徵象。隨著失血持續，血壓會下降，皮膚因週邊血管收縮（將血液導向核心器官）而變得濕冷、灰白或蒼灰。呼吸會變得快而淺，而非緩慢深沉；尿量會因腎臟灌流下降而減少，而非增加。"
     },
     "pdf_pages": [394, 395],
     "tags": ["sata", "red flag", "hemorrhage", "shock"]

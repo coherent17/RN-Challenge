@@ -50,10 +50,10 @@
     {"en": "Shock bundle: airway, O2 8-10 L/min, legs up 30 degrees (avoid Trendelenburg), call OB, fluids, uterotonics, 2 large IVs, Foley, blood.", "zh": "休克處置：呼吸道、給氧8至10 L/分、抬腿30度（避免頭低腳高）、呼叫醫師、輸液、子宮收縮劑、兩條大管徑靜脈、導尿、輸血。", "pdf_pages": [395, 399]},
     {"en": "Temperature 100.4 F or higher after 24 hours is infection.", "zh": "24小時後體溫達100.4°F以上為感染。", "pdf_pages": [394]},
     {"en": "Mastitis: keep emptying the breast, finish antibiotics, fluids, supportive bra.", "zh": "乳腺炎：持續排空乳房、完成抗生素療程、多喝水、穿支撐胸罩。", "pdf_pages": [395, 399]},
-    {"en": "Endometritis: tender boggy uterus, foul lochia, fever; Fowler's position; do not isolate baby.", "zh": "子宮內膜炎：子宮壓痛、惡露惡臭、發燒；半坐臥；不隔離嬰兒。", "pdf_pages": [396]},
+    {"en": "Endometritis: tender, enlarged uterus, foul lochia, fever; Fowler's position; do not isolate baby.", "zh": "子宮內膜炎：子宮壓痛腫大、惡露惡臭、發燒；半坐臥；不隔離嬰兒。", "pdf_pages": [396]},
     {"en": "Suspected PE: oxygen first, then IV, vitals, anticoagulant.", "zh": "疑似肺栓塞：先給氧，再建立靜脈、監測生命徵象、抗凝血劑。", "pdf_pages": [396, 399]},
     {"en": "Never massage a leg with thrombophlebitis; avoid aspirin with anticoagulants; monitor for PE.", "zh": "血栓靜脈炎的腿不可按摩；抗凝血劑期間避免阿斯匹靈；監測肺栓塞。", "pdf_pages": [396, 397]},
-    {"en": "Vulvar hematoma: severe perineal pain/pressure; ice in first 24 hours; with epidural, vital-sign changes are the clue.", "zh": "外陰血腫：會陰劇痛與壓迫；初期冰敷；硬膜外麻醉者以生命徵象改變為線索。", "pdf_pages": [393, 400]},
+    {"en": "Vulvar hematoma: severe perineal pain/pressure; ice during the first 12 hours after delivery; with epidural, vital-sign changes are the clue.", "zh": "外陰血腫：會陰劇痛與壓迫；產後12小時內冰敷；硬膜外麻醉者以生命徵象改變為線索。", "pdf_pages": [393, 400]},
     {"en": "Subinvolution: prolonged lochia rubra, large tender uterus; methylergonovine.", "zh": "子宮復舊不全：紅惡露延長、子宮大而壓痛；methylergonovine。", "pdf_pages": [396]},
     {"en": "Obtain urine culture before starting antibiotics for cystitis; push fluids.", "zh": "膀胱炎於抗生素前先留尿培養；多補充水分。", "pdf_pages": [393, 399]},
     {"en": "Perinatal loss: individualize to culture and religion; offer memories and time with infant.", "zh": "周產期喪失：依文化與宗教個別化照護；提供紀念與與嬰兒相處的時間。", "pdf_pages": [397]}

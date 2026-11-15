@@ -57,7 +57,7 @@
   },
   {
     "cat": "PH",
-    "stem": {"en": "A client with preeclampsia with severe features is receiving intravenous magnesium sulfate. Which assessment finding indicates magnesium toxicity and requires the nurse to stop the infusion immediately?", "zh": "一名有嚴重特徵的子癲前症個案正接受靜脈輸注硫酸鎂。下列哪一項評估發現提示鎂中毒，護理師應立即停止輸注？"},
+    "stem": {"en": "A client with preeclampsia with severe features is receiving intravenous magnesium sulfate. Which assessment finding indicates magnesium toxicity and requires the nurse to stop the infusion immediately?", "zh": "一名有嚴重特徵的子癇前症個案正接受靜脈輸注硫酸鎂。下列哪一項評估發現提示鎂中毒，護理師應立即停止輸注？"},
     "options": [
       {"en": "Deep tendon reflexes rated 2+ with no clonus", "zh": "深部肌腱反射 2+、無陣攣"},
       {"en": "Respiratory rate of 10 breaths/min and absent patellar reflex", "zh": "呼吸速率 10 次/分且膝反射消失"},
@@ -71,7 +71,7 @@
   },
   {
     "cat": "SI",
-    "stem": {"en": "A client with preeclampsia begins having a generalized tonic-clonic seizure. What should the nurse do first?", "zh": "一名子癲前症個案開始出現全身性強直陣攣性發作。護理師應先採取下列何項行動？"},
+    "stem": {"en": "A client with preeclampsia begins having a generalized tonic-clonic seizure. What should the nurse do first?", "zh": "一名子癇前症個案開始出現全身性強直陣攣性發作。護理師應先採取下列何項行動？"},
     "options": [
       {"en": "Insert an oral airway immediately while the client is actively seizing", "zh": "在個案仍處於發作中立即放入口咽式氣道"},
       {"en": "Remain with the client, call for help, and turn the client onto her side", "zh": "留在個案身旁呼叫協助，並將個案轉為側臥"},
@@ -79,13 +79,13 @@
       {"en": "Begin chest compressions", "zh": "開始進行胸部按壓"}
     ],
     "answer": [1],
-    "rationale": {"en": "During an eclamptic seizure, the nurse's first actions are to remain with the client and call for help, turn the client to the side to protect the airway and prevent aspiration, and ensure an open airway with oxygen by face mask. An oral airway and suctioning are performed after the seizure ends, not during active tonic-clonic movements, which could injure the client's mouth or teeth.", "zh": "子癲發作時，護理師應先留在個案身旁並呼叫協助，將個案轉為側臥以保護呼吸道並預防吸入，並以面罩給氧確保呼吸道通暢。口咽式氣道與抽吸應在發作結束後才進行，而非在強直陣攣發作期間進行，以免傷及個案口腔或牙齒。"},
+    "rationale": {"en": "During an eclamptic seizure, the nurse's first actions are to remain with the client and call for help, turn the client to the side to protect the airway and prevent aspiration, and ensure an open airway with oxygen by face mask. An oral airway and suctioning are performed after the seizure ends, not during active tonic-clonic movements, which could injure the client's mouth or teeth.", "zh": "子癇發作時，護理師應先留在個案身旁並呼叫協助，將個案轉為側臥以保護呼吸道並預防吸入，並以面罩給氧確保呼吸道通暢。口咽式氣道與抽吸應在發作結束後才進行，而非在強直陣攣發作期間進行，以免傷及個案口腔或牙齒。"},
     "pdf_pages": [347],
     "tags": ["priority", "first action", "requires immediate action"]
   },
   {
     "cat": "PA",
-    "stem": {"en": "A client at 35 weeks' gestation with preeclampsia reports persistent right upper quadrant and epigastric pain along with nausea. Laboratory results show a platelet count of 85,000/mm3 and elevated liver enzymes. Which complication should the nurse suspect?", "zh": "一名懷孕 35 週、有子癲前症的個案出現持續性右上腹及上腹部疼痛並伴隨噁心。檢驗結果顯示血小板 85,000/mm3，肝功能酶升高。護理師應懷疑下列何種併發症？"},
+    "stem": {"en": "A client at 35 weeks' gestation with preeclampsia reports persistent right upper quadrant and epigastric pain along with nausea. Laboratory results show a platelet count of 85,000/mm3 and elevated liver enzymes. Which complication should the nurse suspect?", "zh": "一名懷孕 35 週、有子癇前症的個案出現持續性右上腹及上腹部疼痛並伴隨噁心。檢驗結果顯示血小板 85,000/mm3，肝功能酶升高。護理師應懷疑下列何種併發症？"},
     "options": [
       {"en": "HELLP syndrome", "zh": "HELLP 症候群"},
       {"en": "Gestational diabetes mellitus", "zh": "妊娠糖尿病"},
@@ -93,7 +93,7 @@
       {"en": "Hydatidiform mole", "zh": "葡萄胎"}
     ],
     "answer": [0],
-    "rationale": {"en": "HELLP syndrome (hemolysis, elevated liver enzymes, low platelet count) is a life-threatening complication of severe preeclampsia. Persistent right upper quadrant or epigastric pain, nausea, elevated liver enzymes, and a low platelet count (less than 100,000/mm3) are characteristic findings and often precede seizure.", "zh": "HELLP 症候群（溶血、肝功能酶升高、血小板低下）是嚴重子癲前症可能危及生命的併發症。持續性右上腹或上腹部疼痛、噁心、肝功能酶升高及血小板低下（低於 100,000/mm3）為其特徵性表現，且常為癲發前兆。"},
+    "rationale": {"en": "HELLP syndrome (hemolysis, elevated liver enzymes, low platelet count) is a life-threatening complication of severe preeclampsia. Persistent right upper quadrant or epigastric pain, nausea, elevated liver enzymes, and a low platelet count (less than 100,000/mm3) are characteristic findings and often precede seizure.", "zh": "HELLP 症候群（溶血、肝功能酶升高、血小板低下）是嚴重子癇前症可能危及生命的併發症。持續性右上腹或上腹部疼痛、噁心、肝功能酶升高及血小板低下（低於 100,000/mm3）為其特徵性表現，且常為癲發前兆。"},
     "pdf_pages": [345, 347],
     "tags": ["recognizing cues", "red flag"]
   },
@@ -144,22 +144,22 @@
   },
   {
     "cat": "HP",
-    "stem": {"en": "Which clients would the nurse identify as being at increased risk for developing preeclampsia? Select all that apply.", "zh": "護理師應將下列哪些個案判定為較易發生子癲前症的高風險族群？（請選出所有正確答案）"},
+    "stem": {"en": "Which clients would the nurse identify as being at increased risk for developing preeclampsia? Select all that apply.", "zh": "護理師應將下列哪些個案判定為較易發生子癇前症的高風險族群？（請選出所有正確答案）"},
     "options": [
       {"en": "A primigravida who is 42 years old", "zh": "42 歲的初孕婦"},
       {"en": "A client pregnant with twins", "zh": "懷有雙胞胎的個案"},
       {"en": "A multigravida with no history of hypertension who had two prior uncomplicated pregnancies", "zh": "無高血壓病史、曾有兩次無併發症懷孕史的多孕婦"},
       {"en": "A client with chronic hypertension and type 1 diabetes mellitus", "zh": "有慢性高血壓及第一型糖尿病的個案"},
-      {"en": "A client whose mother had preeclampsia", "zh": "母親曾患有子癲前症的個案"}
+      {"en": "A client whose mother had preeclampsia", "zh": "母親曾患有子癇前症的個案"}
     ],
     "answer": [0, 1, 3, 4],
-    "rationale": {"en": "Risk factors for preeclampsia include primigravida status, age 40 years or older, multifetal pregnancy, chronic hypertension, diabetes mellitus, renal disease, and a family history of preeclampsia in a first-degree relative. A client with a history of two prior uncomplicated pregnancies and no predisposing conditions is not at increased risk.", "zh": "子癲前症的風險因子包括初孕、年齡 40 歲以上、多胎妊娠、慢性高血壓、糖尿病、腎臟疾病，以及一級親屬有子癲前症家族史。曾有兩次無併發症懷孕史且無其他誘發因子的多孕婦並非高風險族群。"},
+    "rationale": {"en": "Risk factors for preeclampsia include primigravida status, age 40 years or older, multifetal pregnancy, chronic hypertension, diabetes mellitus, renal disease, and a family history of preeclampsia in a first-degree relative. A client with a history of two prior uncomplicated pregnancies and no predisposing conditions is not at increased risk.", "zh": "子癇前症的風險因子包括初孕、年齡 40 歲以上、多胎妊娠、慢性高血壓、糖尿病、腎臟疾病，以及一級親屬有子癇前症家族史。曾有兩次無併發症懷孕史且無其他誘發因子的多孕婦並非高風險族群。"},
     "pdf_pages": [345, 346],
     "tags": ["sata", "risk factors"]
   },
   {
     "cat": "RR",
-    "stem": {"en": "The nurse is comparing assessment findings between a client with preeclampsia without severe features and a client with preeclampsia with severe features. Which finding is associated with severe features?", "zh": "護理師正在比較「無嚴重特徵」與「有嚴重特徵」子癲前症個案的評估發現。下列哪一項發現與嚴重特徵有關？"},
+    "stem": {"en": "The nurse is comparing assessment findings between a client with preeclampsia without severe features and a client with preeclampsia with severe features. Which finding is associated with severe features?", "zh": "護理師正在比較「無嚴重特徵」與「有嚴重特徵」子癇前症個案的評估發現。下列哪一項發現與嚴重特徵有關？"},
     "options": [
       {"en": "Blood pressure 142/92 mmHg on one occasion", "zh": "單次血壓 142/92 mmHg"},
       {"en": "Platelet count of 90,000/mm3", "zh": "血小板 90,000/mm3"},
@@ -167,13 +167,13 @@
       {"en": "Deep tendon reflexes rated 2+", "zh": "深部肌腱反射 2+"}
     ],
     "answer": [1],
-    "rationale": {"en": "Preeclampsia with severe features is characterized by findings such as a platelet count less than 100,000/mm3, blood pressure persistently 160/110 mmHg or greater, elevated liver enzymes, oliguria (often less than 500 mL/day), hyperreflexia, and severe headache or visual disturbances. A single blood pressure reading of 142/92, a normal urine output, and normal reflexes (2+) do not indicate severe features.", "zh": "有嚴重特徵的子癲前症特徵包括血小板低於 100,000/mm3、血壓持續達 160/110 mmHg 以上、肝功能酶升高、尿量減少（常低於 500 mL/天）、反射亢進，以及嚴重頭痛或視覺障礙。單次血壓 142/92、正常尿量及正常反射（2+）並不代表有嚴重特徵。"},
+    "rationale": {"en": "Preeclampsia with severe features is characterized by findings such as a platelet count less than 100,000/mm3, blood pressure persistently 160/110 mmHg or greater, elevated liver enzymes, oliguria (often less than 500 mL/day), hyperreflexia, and severe headache or visual disturbances. A single blood pressure reading of 142/92, a normal urine output, and normal reflexes (2+) do not indicate severe features.", "zh": "有嚴重特徵的子癇前症特徵包括血小板低於 100,000/mm3、血壓持續達 160/110 mmHg 以上、肝功能酶升高、尿量減少（常低於 500 mL/天）、反射亢進，以及嚴重頭痛或視覺障礙。單次血壓 142/92、正常尿量及正常反射（2+）並不代表有嚴重特徵。"},
     "pdf_pages": [344, 345],
     "tags": ["analyzing cues", "labs"]
   },
   {
     "cat": "BC",
-    "stem": {"en": "The nurse is assessing deep tendon reflexes in a client with preeclampsia. Which technique is correct for eliciting the patellar reflex?", "zh": "護理師正在為一名子癲前症個案評估深部肌腱反射。下列哪一項技巧是正確引出膝反射的方式？"},
+    "stem": {"en": "The nurse is assessing deep tendon reflexes in a client with preeclampsia. Which technique is correct for eliciting the patellar reflex?", "zh": "護理師正在為一名子癇前症個案評估深部肌腱反射。下列哪一項技巧是正確引出膝反射的方式？"},
     "options": [
       {"en": "Position the client with the legs dangling over the edge of the examining table and strike the patellar tendon just below the kneecap", "zh": "讓個案雙腿懸垂於檢查台邊緣，於膝蓋骨下方輕擊髕骨韌帶"},
       {"en": "Have the client stand and strike the Achilles tendon while bearing weight", "zh": "讓個案站立並於承重狀態下輕擊跟腱"},
@@ -247,12 +247,12 @@
     "options": [
       {"en": "Increased risk for venous thromboembolism", "zh": "靜脈血栓栓塞風險增加"},
       {"en": "Decreased risk for cesarean birth", "zh": "剖腹產風險降低"},
-      {"en": "Increased risk for gestational hypertension and preeclampsia", "zh": "妊娠高血壓及子癲前症風險增加"},
+      {"en": "Increased risk for gestational hypertension and preeclampsia", "zh": "妊娠高血壓及子癇前症風險增加"},
       {"en": "Easier IV and epidural access", "zh": "靜脈及脊髓外麻醉置管較容易"},
       {"en": "Increased risk for wound infection or dehiscence after cesarean birth", "zh": "剖腹產後傷口感染或裂開風險增加"}
     ],
     "answer": [0, 2, 4],
-    "rationale": {"en": "Obesity in pregnancy increases the risk for gestational diabetes, gestational hypertension, preeclampsia, venous thromboembolism, and the need for cesarean birth (not a decreased risk). Obesity is also associated with difficulty obtaining IV access, epidural access, or intubation, and an increased (not decreased) risk of wound infection or dehiscence from excess abdominal fat.", "zh": "懷孕期肥胖會增加妊娠糖尿病、妊娠高血壓、子癲前症、靜脈血栓栓塞及剖腹產需求（而非降低）的風險。肥胖也會造成靜脈及脊髓外麻醉置管或插管困難，且因腹部脂肪過多而使傷口感染或裂開風險增加（而非降低）。"},
+    "rationale": {"en": "Obesity in pregnancy increases the risk for gestational diabetes, gestational hypertension, preeclampsia, venous thromboembolism, and the need for cesarean birth (not a decreased risk). Obesity is also associated with difficulty obtaining IV access, epidural access, or intubation, and an increased (not decreased) risk of wound infection or dehiscence from excess abdominal fat.", "zh": "懷孕期肥胖會增加妊娠糖尿病、妊娠高血壓、子癇前症、靜脈血栓栓塞及剖腹產需求（而非降低）的風險。肥胖也會造成靜脈及脊髓外麻醉置管或插管困難，且因腹部脂肪過多而使傷口感染或裂開風險增加（而非降低）。"},
     "pdf_pages": [353, 354],
     "tags": ["sata", "risk factors"]
   },
