@@ -1,0 +1,257 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking nitrofurantoin for a urinary tract infection calls the clinic reporting a new cough, chills, fever, and difficulty breathing. How should the nurse interpret these findings?", "zh": "一位正服用硝基呋喃妥因（nitrofurantoin）治療泌尿道感染的病人致電診所，主訴新發咳嗽、寒顫、發燒及呼吸困難。護理師應如何解讀此情況？"},
+    "options": [
+      {"en": "The client most likely has a seasonal viral illness unrelated to the medication", "zh": "病人很可能只是患了與藥物無關的季節性病毒感染"},
+      {"en": "The client is experiencing an expected, harmless side effect of the medication", "zh": "病人出現的是該藥物預期且無害的副作用"},
+      {"en": "The client is having an acute pulmonary reaction to the medication and should stop taking it and be evaluated", "zh": "病人正發生對藥物的急性肺部反應，應停藥並接受評估"},
+      {"en": "The client should double the next dose to clear the infection faster", "zh": "病人應將下一劑藥量加倍以更快清除感染"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Nitrofurantoin can cause an acute pulmonary hypersensitivity reaction manifesting as dyspnea, chest pain, chills, fever, and cough with alveolar infiltrates; this requires discontinuing the medication and prompt evaluation. These symptoms typically resolve within 2 to 4 days after the medication is stopped. The brown urine color caused by nitrofurantoin is the harmless effect, not respiratory symptoms.", "zh": "硝基呋喃妥因可引發急性肺部過敏反應，表現為呼吸困難、胸痛、寒顫、發燒、咳嗽併肺泡浸潤，須停藥並儘速評估。此症狀通常於停藥後2-4天內緩解。該藥造成的尿液棕色才是無害的副作用，呼吸道症狀並非無害。"},
+    "pdf_pages": [896],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking methenamine for a chronic urinary tract infection tells the nurse, \"I take an antacid with sodium bicarbonate whenever I get heartburn.\" Which response by the nurse is most appropriate?", "zh": "一位因慢性泌尿道感染服用美仙胺（methenamine）的病人告訴護理師：「我胃灼熱時會服用含碳酸氫鈉的抗酸劑。」護理師最適當的回應為？"},
+    "options": [
+      {"en": "\"That's fine, antacids do not interact with this medication.\"", "zh": "「沒關係，抗酸劑不會與這個藥物產生交互作用。」"},
+      {"en": "\"You should avoid alkalinizing antacids because they reduce how well this medication works.\"", "zh": "「你應避免使用含鹼性成分的抗酸劑，因為它會降低這個藥物的效果。」"},
+      {"en": "\"You should take the antacid at the same time as your methenamine for best results.\"", "zh": "「你應該把抗酸劑和美仙胺同時服用，效果最好。」"},
+      {"en": "\"Increase your fluid intake whenever you take the antacid to boost the medication's effect.\"", "zh": "「每次服用抗酸劑時都增加水分攝取，可以增強藥效。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Methenamine requires acidic urine (pH 5.5 or lower) to be effective and breaks down to formaldehyde, which is antibacterial, only in an acidic environment. Alkalinizing agents, including antacids containing sodium bicarbonate or sodium carbonate, raise urine pH and reduce the medication's antibacterial effect, so the client needs further teaching and should avoid them. Increasing fluid intake also dilutes the medication and raises urine pH, further reducing effectiveness.", "zh": "美仙胺需在酸性尿液（pH 5.5以下）環境中才能分解為具抗菌作用的甲醛，才能發揮效果。含碳酸氫鈉或碳酸鈉的鹼化劑會使尿液pH上升，降低藥效，故病人需要進一步指導，並應避免使用。增加液體攝取也會稀釋藥物並提高尿液pH，進一步降低療效。"},
+    "pdf_pages": [896],
+    "tags": ["patient education", "drug interaction"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse reviews the records of several clients who are prescribed ciprofloxacin. Which clients are at increased risk for fluoroquinolone-associated tendinitis or tendon rupture and need closer monitoring? Select all that apply.", "zh": "護理師查閱數位開立環丙沙星（ciprofloxacin）病人的病歷。下列哪些病人因氟喹諾酮類藥物相關肌腱炎或肌腱斷裂風險較高，需更密切監測？請選出所有適用者。"},
+    "options": [
+      {"en": "A 68-year-old client", "zh": "68歲病人"},
+      {"en": "A client receiving long-term prednisone therapy", "zh": "長期接受普賽松（prednisone）治療的病人"},
+      {"en": "A client who had a heart transplant 2 years ago", "zh": "兩年前接受心臟移植的病人"},
+      {"en": "A client with well-controlled type 2 diabetes and no other risk factors", "zh": "控制良好的第二型糖尿病病人，無其他風險因子"},
+      {"en": "A healthy 25-year-old recreational runner", "zh": "健康的25歲業餘跑者"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "Fluoroquinolones carry an increased risk of tendinitis and tendon rupture, most often involving the Achilles tendon; clients at increased risk include those older than 60 years, those taking corticosteroids, and those who have undergone organ transplantation. Diabetes alone and a healthy young adult without these specific risk factors are not identified as high-risk groups for this particular adverse effect.", "zh": "氟喹諾酮類藥物會增加肌腱炎及肌腱斷裂風險，最常影響跟腱；風險較高者包括年齡超過60歲、使用類固醇及曾接受器官移植者。單純糖尿病或無上述特定風險因子的健康年輕成人並非此特定副作用的高風險族群。"},
+    "pdf_pages": [897],
+    "tags": ["sata", "risk factors"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking ciprofloxacin for acute cystitis calls the clinic reporting dizziness, light-headedness, blurred vision, increased sensitivity to light, and new feelings of depression. What should the nurse instruct the client to do?", "zh": "一位因急性膀胱炎服用環丙沙星的病人致電診所，主訴頭暈、輕微暈眩、視力模糊、對光線敏感增加，以及新出現的憂鬱感。護理師應指示病人如何處理？"},
+    "options": [
+      {"en": "Continue the medication and apply a cool compress to the eyes for the light sensitivity", "zh": "繼續服藥，並以冷敷緩解畏光症狀"},
+      {"en": "Take the next dose with food to reduce the dizziness", "zh": "下次服藥時搭配食物以減輕頭暈"},
+      {"en": "Withhold the medication and contact the primary health care provider (PHCP)", "zh": "暫停服藥並聯絡主治醫師"},
+      {"en": "Wait 24 hours to see if the symptoms resolve on their own before taking any action", "zh": "先觀察24小時，看症狀是否自行緩解，再決定是否採取行動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Dizziness, light-headedness, visual disturbances, increased light sensitivity, and depressed mood in a client taking a fluoroquinolone suggest central nervous system toxicity. The client should be instructed to withhold the medication and contact the PHCP promptly rather than continuing the drug, modifying how it is taken, or waiting to see if symptoms resolve.", "zh": "服用氟喹諾酮類藥物的病人出現頭暈、輕微暈眩、視力障礙、對光敏感增加及情緒低落，提示中樞神經系統毒性。應指示病人暫停服藥並立即聯絡主治醫師，而非繼續服藥、改變服藥方式或等待症狀自行緩解。"},
+    "pdf_pages": [897],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has been taking trimethoprim-sulfamethoxazole for 5 days for a urinary tract infection. Which new finding should the client be instructed to report to the PHCP immediately?", "zh": "一位病人因泌尿道感染已服用磺胺甲噁唑-甲氧苄啶（trimethoprim-sulfamethoxazole）5天。病人若出現下列哪項新發現，應立即通報主治醫師？"},
+    "options": [
+      {"en": "Mild nausea after taking the medication", "zh": "服藥後輕微噁心"},
+      {"en": "Sore throat and a fever of 101°F (38.3°C)", "zh": "喉嚨痛並發燒至101°F（38.3°C）"},
+      {"en": "Urine that has become dark brown in color", "zh": "尿液轉為深棕色"},
+      {"en": "Mild headache that resolves with rest", "zh": "輕微頭痛，休息後緩解"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sulfonamides can cause blood dyscrasias such as hemolytic anemia, agranulocytosis, leukopenia, and thrombocytopenia; sore throat and fever are early warning signs of these blood disorders and must be reported immediately. Mild nausea and headache are common, less concerning side effects, and darkened urine from some sulfonamide combinations is an expected, non-urgent effect.", "zh": "磺胺類藥物可能造成血液疾病，如溶血性貧血、顆粒性白血球缺乏症、白血球減少症及血小板減少症；喉嚨痛與發燒是這些血液疾病的早期警訊，須立即通報。輕微噁心與頭痛屬常見、較不需擔心的副作用，某些磺胺複方藥物造成尿液變深色則屬預期、非緊急的現象。"},
+    "pdf_pages": [897, 898],
+    "tags": ["red flag", "labs"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving a sulfonamide antibiotic develops widespread blistering skin lesions involving the mouth and eyes, along with fever and malaise. What is the nurse's priority action?", "zh": "一位服用磺胺類抗生素的病人出現全身廣泛水疱性皮膚病灶，波及口腔及眼睛，並伴隨發燒與全身倦怠。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Apply a topical corticosteroid cream to the lesions and reassess in 4 hours", "zh": "在病灶處塗抹外用類固醇藥膏，並於4小時後重新評估"},
+      {"en": "Administer an oral antihistamine and continue the medication as scheduled", "zh": "給予口服抗組織胺並依原計畫繼續用藥"},
+      {"en": "Withhold the next dose, notify the PHCP immediately, and prepare for emergency supportive care", "zh": "暫停下一劑藥物，立即通知主治醫師，並準備緊急支持性照護"},
+      {"en": "Document the findings and monitor the lesions over the next 24 hours before taking further action", "zh": "記錄此發現並於未來24小時內觀察病灶，再決定後續處置"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "These findings describe Stevens-Johnson syndrome, the most severe hypersensitivity reaction to sulfonamides, which is life-threatening and involves widespread skin and mucous membrane lesions, fever, malaise, and toxemia. The sulfonamide must be stopped immediately, the PHCP notified without delay, and the client prepared for emergency, often burn-unit-level, supportive care. Continuing the medication or delaying action risks rapid deterioration.", "zh": "此表現屬於史帝文生氏-強生症候群，是磺胺類藥物最嚴重的過敏反應，具生命威脅性，表現為廣泛皮膚及黏膜病灶、發燒、倦怠與毒血症。須立即停用磺胺類藥物並馬上通知主治醫師，並為病人準備緊急（常需燒傷單位層級）支持性照護。繼續用藥或延遲處置皆可能導致病情迅速惡化。"},
+    "pdf_pages": [897],
+    "tags": ["red flag", "emergency"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "Phenazopyridine was prescribed for a client with a urinary tract infection in addition to an antibiotic. Which finding would best indicate that the phenazopyridine is having its intended effect?", "zh": "一位泌尿道感染病人除抗生素外，另開立菲那吡啉（phenazopyridine）。下列哪一項發現最能顯示此藥物已發揮預期效果？"},
+    "options": [
+      {"en": "The client's urine has become amber and clear", "zh": "病人的尿液變為清澈的琥珀色"},
+      {"en": "The client no longer reports burning and pain with urination", "zh": "病人不再主訴排尿時灼熱與疼痛"},
+      {"en": "The client no longer has episodes of urge incontinence", "zh": "病人不再出現急迫性尿失禁"},
+      {"en": "The client's urine has turned reddish-orange in color", "zh": "病人的尿液轉為紅橙色"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Phenazopyridine is a urinary tract analgesic that relieves the pain and burning of dysuria; it does not treat the underlying infection or urge incontinence. The reddish-orange urine discoloration is an expected side effect of the medication, not an indicator of therapeutic effectiveness.", "zh": "菲那吡啉是泌尿道止痛劑，用於緩解排尿疼痛與灼熱感，並不治療潛在感染或急迫性尿失禁。尿液轉為紅橙色是該藥物的預期副作用，並非療效指標。"},
+    "pdf_pages": [898],
+    "tags": ["evaluation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is reviewing medical histories before administering oxybutynin chloride for urge incontinence. Which conditions in a client's history are contraindications to this medication? Select all that apply.", "zh": "護理師在給予奧昔布寧（oxybutynin chloride）治療急迫性尿失禁前，正查閱病人病史。下列哪些病史是此藥物的禁忌症？請選出所有適用者。"},
+    "options": [
+      {"en": "Myasthenia gravis", "zh": "重症肌無力"},
+      {"en": "Urinary tract obstruction", "zh": "泌尿道阻塞"},
+      {"en": "Narrow-angle glaucoma", "zh": "隅角閉鎖型青光眼"},
+      {"en": "Well-controlled type 2 diabetes mellitus", "zh": "控制良好的第二型糖尿病"},
+      {"en": "Severe ulcerative colitis", "zh": "嚴重潰瘍性大腸炎"},
+      {"en": "Mild osteoarthritis", "zh": "輕度骨關節炎"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Oxybutynin should not be given to clients with known hypersensitivity, gastrointestinal or genitourinary obstruction, glaucoma, severe colitis, or myasthenia gravis, because its anticholinergic effects can worsen these conditions. Well-controlled diabetes and mild osteoarthritis are not contraindications to this medication.", "zh": "奧昔布寧不可用於已知過敏、胃腸道或泌尿生殖道阻塞、青光眼、嚴重大腸炎或重症肌無力病人，因其抗膽鹼作用可能使這些疾病惡化。控制良好的糖尿病與輕度骨關節炎並非此藥的禁忌症。"},
+    "pdf_pages": [898, 899],
+    "tags": ["contraindication"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking oxybutynin chloride for overactive bladder develops nervousness, restlessness, a flushed face, and tachycardia. How should the nurse interpret these findings compared to the client's usual report of dry mouth and mild drowsiness?", "zh": "一位因膀胱過動症服用奧昔布寧的病人出現緊張、躁動不安、臉部潮紅及心搏過速，與平常主訴的口乾與輕微嗜睡不同。護理師應如何解讀這些發現？"},
+    "options": [
+      {"en": "These are simply a worsening of the expected anticholinergic side effects and do not need to be reported", "zh": "這只是抗膽鹼預期副作用加重，不需報告"},
+      {"en": "These findings suggest anticholinergic toxicity and should be reported to the PHCP", "zh": "這些發現提示抗膽鹼藥物中毒，應報告主治醫師"},
+      {"en": "The client is likely dehydrated and simply needs more oral fluids", "zh": "病人可能是脫水，只需增加口服液體"},
+      {"en": "The client is experiencing an expected improvement in bladder control", "zh": "病人正經歷膀胱控制能力的預期改善"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Dry mouth and mild drowsiness are common side effects of oxybutynin, but central nervous system stimulation signs such as nervousness, restlessness, a flushed or red face, confusion, tachycardia, hypotension or hypertension, hallucinations, and irritability indicate toxicity (overdose) and need to be reported promptly.", "zh": "口乾與輕微嗜睡是奧昔布寧常見的副作用，但出現中樞神經興奮徵象，如緊張、躁動不安、臉部潮紅或發紅、意識混亂、心搏過速、低血壓或高血壓、幻覺及易怒，則提示藥物中毒（過量），須立即報告。"},
+    "pdf_pages": [899],
+    "tags": ["toxicity", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is reviewing a new prescription for bethanechol chloride for a client with nonobstructive urinary retention. Which finding in the client's history should prompt the nurse to contact the prescriber before administering the medication?", "zh": "護理師正查閱一份為非阻塞性尿滯留病人新開立的貝沙內可（bethanechol chloride）醫囑。病史中出現下列哪一項發現，應促使護理師在給藥前聯絡醫師？"},
+    "options": [
+      {"en": "Neurogenic bladder atony", "zh": "神經性膀胱張力不全"},
+      {"en": "A known urinary tract stricture", "zh": "已知的泌尿道狹窄"},
+      {"en": "Nonobstructive urinary retention after surgery", "zh": "術後非阻塞性尿滯留"},
+      {"en": "A history of seasonal allergic rhinitis", "zh": "季節性過敏性鼻炎病史"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Bethanechol increases bladder tone and contraction, which can be dangerous for a client with a urinary tract stricture or obstruction, because the increased pressure can damage or rupture the bladder. Neurogenic bladder atony and nonobstructive urinary retention are indications for the medication, and allergic rhinitis is unrelated.", "zh": "貝沙內可會增加膀胱張力與收縮力，對有泌尿道狹窄或阻塞的病人具危險性，因增加的壓力可能損傷或導致膀胱破裂。神經性膀胱張力不全與非阻塞性尿滯留屬此藥的適應症，過敏性鼻炎則與此無關。"},
+    "pdf_pages": [899],
+    "tags": ["contraindication", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving bethanechol chloride develops excessive salivation, profuse sweating, bradycardia, and a blood pressure of 76/44 mm Hg. What should the nurse anticipate doing?", "zh": "一位接受貝沙內可治療的病人出現過度流涎、大量出汗、心搏過緩，血壓為76/44 mmHg。護理師應預期採取何種處置？"},
+    "options": [
+      {"en": "Administer an additional dose of bethanechol to counteract the symptoms", "zh": "再給一次貝沙內可以抵消這些症狀"},
+      {"en": "Withhold the next dose and prepare to administer atropine sulfate as prescribed", "zh": "暫停下一劑藥物，並準備依醫囑給予硫酸阿托品"},
+      {"en": "Encourage the client to ambulate to improve circulation", "zh": "鼓勵病人下床活動以改善循環"},
+      {"en": "Apply a warming blanket and recheck vital signs in 2 hours", "zh": "使用保溫毯並於2小時後重新測量生命徵象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These findings represent cholinergic overdose (excessive muscarinic stimulation), which can also include involuntary urination and defecation. The medication should be withheld, and atropine sulfate, the antidote for cholinergic overdose, should be readily available for IV or subcutaneous administration. An additional dose would worsen the overdose, and the client's hypotension and bradycardia make ambulation unsafe.", "zh": "這些表現屬於膽鹼性藥物過量（過度肌蕈鹼刺激），也可能伴隨不自主排尿及排便。應暫停用藥，並準備好硫酸阿托品（膽鹼性藥物過量之解毒劑）供靜脈或皮下注射。再給一劑會使過量情形加重，且病人因低血壓與心搏過緩不宜下床活動。"},
+    "pdf_pages": [899],
+    "tags": ["red flag", "antidote", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who received a kidney transplant 3 weeks ago is taking cyclosporine. Which laboratory trend over the past week would most concern the nurse?", "zh": "一位3週前接受腎臟移植的病人正服用環孢素（cyclosporine）。下列哪一項過去一週的檢驗趨勢最令護理師擔憂？"},
+    "options": [
+      {"en": "Blood urea nitrogen rising from 18 to 36 mg/dL (6.4 to 12.9 mmol/L) and serum creatinine rising from 1.0 to 2.3 mg/dL (88 to 203 mcmol/L)", "zh": "血中尿素氮自18上升至36 mg/dL（6.4升至12.9 mmol/L），血清肌酸酐自1.0上升至2.3 mg/dL（88升至203 mcmol/L）"},
+      {"en": "Hemoglobin stable at 13.5 g/dL (135 mmol/L)", "zh": "血紅素穩定維持在13.5 g/dL（135 mmol/L）"},
+      {"en": "Fasting blood glucose stable at 92 mg/dL (5.1 mmol/L)", "zh": "空腹血糖穩定維持在92 mg/dL（5.1 mmol/L）"},
+      {"en": "Platelet count stable at 260,000/mm3 (260 x 10^9/L)", "zh": "血小板計數穩定維持在260,000/mm3（260 x 10^9/L）"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cyclosporine is nephrotoxic, and nephrotoxicity is detected by rising BUN and serum creatinine levels; the normal BUN is 10-20 mg/dL and normal creatinine is about 0.5-1.2 mg/dL, so a trend of a doubling creatinine and rising BUN is a significant concern requiring prompt evaluation. Stable hemoglobin, glucose, and platelet counts within normal limits are reassuring findings, not adverse effects.", "zh": "環孢素具腎毒性，腎毒性可藉BUN與血清肌酸酐上升來發現；正常BUN為10-20 mg/dL，正常肌酸酐約0.5-1.2 mg/dL，肌酸酐倍增且BUN上升的趨勢屬重大疑慮，須儘速評估。穩定且正常範圍內的血紅素、血糖及血小板數值則屬安心的表現，並非不良反應。"},
+    "pdf_pages": [899, 900],
+    "tags": ["labs", "nephrotoxicity"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client who has started cyclosporine after a kidney transplant about diet. Which instruction is most important to include?", "zh": "護理師正指導一位腎臟移植後開始服用環孢素的病人進行飲食教育。下列哪一項指導最為重要？"},
+    "options": [
+      {"en": "\"Avoid drinking grapefruit juice because it can raise your medication level and increase the risk of toxicity.\"", "zh": "「避免飲用葡萄柚汁，因為它會提高你的藥物濃度並增加中毒風險。」"},
+      {"en": "\"Avoid eating red meat because it can lower your medication level.\"", "zh": "「避免吃紅肉，因為它會降低你的藥物濃度。」"},
+      {"en": "\"Increase your intake of green, leafy vegetables to counteract the medication's effects.\"", "zh": "「增加深綠色葉菜攝取，以抵消藥物作用。」"},
+      {"en": "\"Drink orange juice with every dose to improve absorption.\"", "zh": "「每次服藥都搭配柳橙汁，以提升吸收。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A compound in grapefruit juice inhibits the cytochrome P450 system responsible for metabolizing cyclosporine, which can raise cyclosporine blood levels by 50% to 100% and significantly increase the risk of toxicity. Red meat, leafy green vegetables, and orange juice do not have this interaction with cyclosporine.", "zh": "葡萄柚汁中的成分會抑制負責代謝環孢素的細胞色素P450系統，可使環孢素血中濃度升高50%至100%，大幅增加中毒風險。紅肉、深綠色葉菜及柳橙汁並不會與環孢素產生此類交互作用。"},
+    "pdf_pages": [900],
+    "tags": ["patient education", "drug interaction"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who had a kidney transplant is being taught about tacrolimus. Which instruction should the nurse include?", "zh": "一位接受腎臟移植的病人正接受他克莫司（tacrolimus）相關教育。護理師應提供下列哪一項指導？"},
+    "options": [
+      {"en": "\"Eat small, frequent meals throughout the day to prevent hypoglycemia.\"", "zh": "「全天少量多餐，以預防低血糖。」"},
+      {"en": "\"Take the medication with a full glass of grapefruit juice for best absorption.\"", "zh": "「服藥時搭配一大杯葡萄柚汁，以獲得最佳吸收效果。」"},
+      {"en": "\"Change positions slowly because of a risk for orthostatic hypotension.\"", "zh": "「改變姿勢時要慢慢來，因有姿勢性低血壓的風險。」"},
+      {"en": "\"Take the oral medication every 12 hours at the same times each day.\"", "zh": "「每12小時在固定時間口服這個藥物。」"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Tacrolimus must be taken at consistent 12-hour intervals to maintain a stable blood level and prevent organ rejection. Because tacrolimus can cause hyperglycemia rather than hypoglycemia, frequent eating is not indicated; grapefruit juice raises medication levels through the cytochrome P450 system and must be avoided; and hypertension, not orthostatic hypotension, is an expected adverse effect.", "zh": "他克莫司必須以固定的12小時間隔服用，以維持穩定的血中濃度並預防器官排斥。由於他克莫司會造成高血糖而非低血糖，因此不需少量多餐；葡萄柚汁會透過細胞色素P450系統提高藥物濃度，須避免；且高血壓（而非姿勢性低血壓）才是其預期的不良反應。"},
+    "pdf_pages": [901],
+    "tags": ["patient education", "dosing"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews laboratory results for a client receiving tacrolimus after a kidney transplant. Which result indicates an adverse effect of the medication?", "zh": "護理師查閱一位腎臟移植後接受他克莫司治療病人的檢驗結果。下列哪一項結果提示該藥物的不良反應？"},
+    "options": [
+      {"en": "Potassium level of 3.8 mEq/L (3.8 mmol/L)", "zh": "血鉀3.8 mEq/L（3.8 mmol/L）"},
+      {"en": "Platelet count of 300,000/mm3 (300 x 10^9/L)", "zh": "血小板300,000/mm3（300 x 10^9/L）"},
+      {"en": "Fasting blood glucose of 198 mg/dL (11.0 mmol/L)", "zh": "空腹血糖198 mg/dL（11.0 mmol/L）"},
+      {"en": "White blood cell count of 6500/mm3 (6.5 x 10^9/L)", "zh": "白血球6500/mm3（6.5 x 10^9/L）"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Tacrolimus can cause hyperglycemia; a fasting blood glucose of 198 mg/dL is well above the normal range of about 70-99 mg/dL and indicates an adverse effect requiring monitoring and possibly insulin or oral hypoglycemic therapy. The potassium, platelet, and white blood cell values given are within normal limits.", "zh": "他克莫司可造成高血糖；空腹血糖198 mg/dL遠高於正常範圍（約70-99 mg/dL），顯示不良反應，須監測並可能需給予胰島素或口服降血糖藥物。所列之血鉀、血小板及白血球數值均在正常範圍內。"},
+    "pdf_pages": [901],
+    "tags": ["labs", "toxicity"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking mycophenolate mofetil after a kidney transplant calls the clinic to report new mouth sores, unusual bruising, and a low-grade fever. What should the nurse do?", "zh": "一位腎臟移植後服用黴酚酸莫酯（mycophenolate mofetil）的病人致電診所，主訴新出現口腔潰瘍、不尋常瘀傷及低度發燒。護理師應如何處置？"},
+    "options": [
+      {"en": "Reassure the client that these are expected, self-limiting effects of the medication", "zh": "安慰病人這是該藥物預期且會自行緩解的效果"},
+      {"en": "Instruct the client to take an over-the-counter antacid for mouth discomfort", "zh": "指示病人服用成藥抗酸劑以緩解口腔不適"},
+      {"en": "Advise the client to come in for a complete blood count and notify the PHCP of the findings", "zh": "建議病人前來進行全血球計數檢查，並將此發現通報主治醫師"},
+      {"en": "Tell the client to double the next dose because the current dose is not working", "zh": "告知病人下一劑加倍，因目前劑量似乎無效"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Mycophenolate mofetil can cause severe neutropenia and other bone marrow suppression, and mouth sores, unusual bleeding or bruising, sore throat, and fever are warning signs that require prompt evaluation, typically including a complete blood count, and notification of the PHCP. These symptoms should never be dismissed as expected or managed by adjusting the dose on the client's own initiative; antacids also reduce absorption of this medication.", "zh": "黴酚酸莫酯可造成嚴重的顆粒性白血球缺乏及其他骨髓抑制，口腔潰瘍、不尋常出血或瘀傷、喉嚨痛及發燒皆為警訊，需儘速評估（通常包括全血球計數）並通報主治醫師。此類症狀絕不可被視為預期現象而忽略，也不應由病人自行調整劑量；抗酸劑也會降低此藥物的吸收。"},
+    "pdf_pages": [901],
+    "tags": ["red flag", "bone marrow suppression"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with chronic kidney disease begins epoetin alfa for anemia. Which assessment finding should the nurse monitor most closely during therapy because it reflects a major adverse effect of this medication?", "zh": "一位慢性腎臟病病人因貧血開始使用紅血球生成素（epoetin alfa）。治療期間護理師應密切監測下列哪一項評估發現，因其反映此藥物的主要不良反應？"},
+    "options": [
+      {"en": "Blood pressure", "zh": "血壓"},
+      {"en": "Bowel sounds", "zh": "腸鳴音"},
+      {"en": "Pupillary response", "zh": "瞳孔反應"},
+      {"en": "Skin turgor", "zh": "皮膚彈性"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The major adverse effect of erythropoietic growth factors such as epoetin alfa is hypertension; other serious adverse effects include heart failure and thrombotic events such as stroke or myocardial infarction. Blood pressure should be monitored closely throughout therapy. Bowel sounds, pupillary response, and skin turgor are not specifically associated with this medication's known adverse effects.", "zh": "紅血球生成因子（如epoetin alfa）主要的不良反應為高血壓；其他嚴重不良反應包括心衰竭及血栓事件（如中風或心肌梗塞）。治療期間應密切監測血壓。腸鳴音、瞳孔反應及皮膚彈性與此藥物已知不良反應並無特別關聯。"},
+    "pdf_pages": [901],
+    "tags": ["monitoring", "adverse effect"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client with benign prostatic hyperplasia is prescribed finasteride and asks the nurse when he can expect to notice improvement in his urinary symptoms. Which response is most accurate?", "zh": "一位良性攝護腺肥大病人開立芬那斯特萊（finasteride），詢問護理師何時能期待泌尿症狀改善。下列哪一項回應最準確？"},
+    "options": [
+      {"en": "\"You should notice improvement within the first 24 to 48 hours.\"", "zh": "「你應該在24到48小時內就會感覺到改善。」"},
+      {"en": "\"It may take up to 6 months of consistent use to see the full effect on prostate size and symptoms.\"", "zh": "「可能需要持續使用到6個月，才能看到對攝護腺大小與症狀的完整效果。」"},
+      {"en": "\"This medication works immediately to relax the muscles around the urethra.\"", "zh": "「這個藥物能立刻放鬆尿道周圍的肌肉。」"},
+      {"en": "\"You will not need to continue this medication once your symptoms improve.\"", "zh": "「症狀改善後就不需要再繼續服用這個藥物了。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Finasteride is a 5-alpha reductase inhibitor that shrinks the prostate by preventing hormonal changes that cause prostate growth, and it may take up to 6 months of consistent use to achieve its full effect. Alpha blockers (such as tamsulosin), not 5-alpha reductase inhibitors, act more quickly by relaxing bladder neck and prostate smooth muscle. Benign prostatic hyperplasia is typically a long-term condition requiring ongoing therapy, not one that is discontinued once symptoms improve.", "zh": "芬那斯特萊是一種5-α還原酶抑制劑，透過阻止造成攝護腺生長的激素變化使攝護腺縮小，可能需持續使用長達6個月才能達到完整效果。α阻斷劑（如坦索羅辛）而非5-α還原酶抑制劑，能較快地放鬆膀胱頸及攝護腺平滑肌。良性攝護腺肥大通常屬長期疾病，需持續治療，並非症狀改善後即可停藥。"},
+    "pdf_pages": [901, 902],
+    "tags": ["patient education", "onset of action"]
+  }
+]

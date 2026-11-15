@@ -1,0 +1,228 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking oral theophylline for chronic asthma has a new trough serum theophylline level of 24 mcg/mL (133 mcmol/L). Which finding would require the nurse to notify the primary health care provider immediately?", "zh": "一名長期口服茶鹼(theophylline)治療慢性氣喘的病人,新測得的血中谷濃度為24 mcg/mL(133 mcmol/L)。護理師發現下列何種情況時,須立即通知醫療人員?"},
+    "options": [
+      {"en": "Mild heartburn after the morning dose", "zh": "服用早上劑量後輕微胃灼熱"},
+      {"en": "New-onset tremors with sustained tachycardia", "zh": "新出現的顫抖合併持續性心搏過速"},
+      {"en": "Thirst and dry mouth", "zh": "口渴與口乾"},
+      {"en": "A single loose stool", "zh": "一次軟便"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The therapeutic range for theophylline is 10 to 20 mcg/mL (55.5 to 111 mcmol/L); toxicity occurs at levels above 20 mcg/mL. Early signs of toxicity include restlessness, nervousness, tremors, palpitations, and tachycardia, which require prompt provider notification. The other findings are not specific signs of theophylline toxicity.", "zh": "茶鹼的治療範圍為10至20 mcg/mL(55.5至111 mcmol/L);超過20 mcg/mL即可能發生中毒。早期中毒徵象包括躁動不安、緊張、顫抖、心悸與心搏過速,須立即通知醫療人員。其餘選項並非茶鹼中毒的特定徵象。"},
+    "pdf_pages": [779, 780],
+    "tags": ["red flag", "labs", "theophylline toxicity", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is administering a nebulized albuterol/ipratropium treatment. Which client report represents an expected side effect of this combination medication and would not require the treatment to be stopped?", "zh": "護理師正在為病人執行albuterol/ipratropium混合噴霧治療。病人出現下列何種主訴屬於此複方藥物的預期副作用,不需要停止治療?"},
+    "options": [
+      {"en": "\"My heart feels like it's racing a little.\"", "zh": "「我感覺心跳有點快。」"},
+      {"en": "\"My tongue and lips feel swollen.\"", "zh": "「我的舌頭和嘴唇覺得腫腫的。」"},
+      {"en": "\"I haven't been able to urinate all shift.\"", "zh": "「我整班都解不出小便。」"},
+      {"en": "\"I'm having much more trouble breathing than before.\"", "zh": "「我現在呼吸比之前更困難。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Albuterol (a sympathomimetic bronchodilator) and ipratropium (an anticholinergic) commonly cause tachycardia/palpitations, tremor, and dry mouth as expected side effects. Tongue/lip swelling suggests anaphylaxis, inability to void suggests urinary retention, and worsening dyspnea suggests paradoxical bronchoconstriction or treatment failure; all require further assessment and intervention, not reassurance.", "zh": "albuterol(擬交感神經支氣管擴張劑)與ipratropium(抗膽鹼藥)併用常見的預期副作用包括心悸/心搏過速、顫抖與口乾。舌唇腫脹提示過敏性反應,無法解尿提示尿滯留,呼吸困難加重則提示矛盾性支氣管收縮或治療失敗,皆需進一步評估與處置,而非安慰病人。"},
+    "pdf_pages": [779, 781],
+    "tags": ["expected effect", "combination inhaler"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Before administering a newly prescribed ipratropium metered-dose inhaler, which assessment finding would most concern the nurse?", "zh": "在給予新開立的ipratropium定量噴霧吸入劑之前,下列哪項評估結果最值得護理師關注?"},
+    "options": [
+      {"en": "The client has a known peanut allergy", "zh": "病人已知對花生過敏"},
+      {"en": "The client has occasional heartburn", "zh": "病人偶爾有胃灼熱"},
+      {"en": "The client has mild seasonal allergic rhinitis", "zh": "病人有輕微季節性過敏性鼻炎"},
+      {"en": "The client reports dry mouth with previous inhalers", "zh": "病人過去使用吸入劑時曾有口乾"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Certain ipratropium products contain soy lecithin, which is in the same plant family as peanuts; clients with a peanut allergy should not use these products because of the risk of cross-reaction.", "zh": "某些ipratropium製劑含有大豆卵磷脂,與花生屬同一植物科;對花生過敏的病人應避免使用這類產品,以免發生交叉過敏反應。"},
+    "pdf_pages": [780],
+    "tags": ["allergy", "safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client has prescriptions for inhaled salmeterol and inhaled fluticasone propionate, both twice daily by metered-dose inhaler. In what order would the nurse administer these medications, and why?", "zh": "病人有口服定量噴霧吸入劑salmeterol與fluticasone propionate,兩者皆每日兩次使用。護理師應以何種順序給藥,原因為何?"},
+    "options": [
+      {"en": "Fluticasone first, then salmeterol, to reduce inflammation before bronchodilation", "zh": "先給fluticasone再給salmeterol,以便在支氣管擴張前先減少發炎"},
+      {"en": "Salmeterol first, then fluticasone, so the airways widen before the corticosteroid is given", "zh": "先給salmeterol再給fluticasone,使氣道先擴張再給予類固醇"},
+      {"en": "Either medication may be given first; the order does not matter", "zh": "兩種藥物先後給予皆可,順序並不重要"},
+      {"en": "Alternate single puffs of each medication, beginning with fluticasone", "zh": "兩種藥物交替給予單次噴霧,從fluticasone開始"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "When a bronchodilator and an inhaled corticosteroid are prescribed together, the bronchodilator is always administered first to widen the airways, allowing the corticosteroid to be delivered more effectively and deeply into the lungs; the client should wait about 5 minutes between the two inhaled medications.", "zh": "當支氣管擴張劑與吸入性類固醇同時開立時,應先給支氣管擴張劑以擴張氣道,使類固醇能更有效、更深入地到達肺部;兩種吸入藥物之間應間隔約5分鐘。"},
+    "pdf_pages": [778],
+    "tags": ["administration", "inhaler sequence"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who takes montelukast daily for long-term asthma control calls the clinic reporting an acute asthma attack with audible wheezing and shortness of breath. What is the nurse's best response?", "zh": "一名每日服用montelukast以長期控制氣喘的病人打電話到門診,表示有急性氣喘發作、呼吸有喘鳴聲且呼吸困難。護理師最適當的回應是什麼?"},
+    "options": [
+      {"en": "\"Take an extra dose of your montelukast right now.\"", "zh": "「現在立刻多吃一劑montelukast。」"},
+      {"en": "\"Montelukast will not relieve an acute attack; use your rescue inhaler and seek care if it does not help.\"", "zh": "「montelukast無法緩解急性發作,請使用您的急救吸入劑,如無效請就醫。」"},
+      {"en": "\"Double your evening dose of montelukast tonight.\"", "zh": "「今晚把montelukast的晚間劑量加倍服用。」"},
+      {"en": "\"This is expected; montelukast takes 48 to 72 hours to start working.\"", "zh": "「這是正常的,montelukast需要48至72小時才會開始起作用。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Leukotriene modifiers such as montelukast are used for prophylaxis and long-term treatment of chronic bronchial asthma and are not used for acute asthma episodes. An acute attack requires a rescue bronchodilator, and the client should seek emergency care if it is not effective.", "zh": "白三烯調節劑如montelukast用於慢性支氣管氣喘的預防與長期治療,不適用於急性氣喘發作。急性發作需使用急救型支氣管擴張劑,若無效應立即就醫。"},
+    "pdf_pages": [780],
+    "tags": ["teaching", "leukotriene modifier"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Thirty minutes after the first dose of omalizumab, a client reports tongue and lip swelling and a feeling of throat tightness. What is the nurse's priority action?", "zh": "病人第一次注射omalizumab後30分鐘,出現舌頭與嘴唇腫脹及喉部緊繃感。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Reassure the client that this is an expected injection site reaction", "zh": "安慰病人這是預期的注射部位反應"},
+      {"en": "Administer the client's next scheduled dose of inhaled corticosteroid", "zh": "給予病人下一次預定的吸入性類固醇劑量"},
+      {"en": "Activate the emergency response system and prepare to treat anaphylaxis", "zh": "啟動緊急應變系統並準備處置過敏性反應"},
+      {"en": "Document the finding and reassess in one hour", "zh": "記錄此發現並於一小時後再評估"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Anaphylaxis is a known life-threatening adverse effect of omalizumab. Swelling of the lips and tongue with throat tightness indicates anaphylaxis, and medications and equipment to treat severe hypersensitivity reactions should already be available; the nurse must activate the emergency response and treat immediately.", "zh": "過敏性反應是omalizumab已知且可能致命的不良反應。嘴唇與舌頭腫脹合併喉部緊繃提示過敏性反應,應立即啟動緊急應變並治療,相關急救藥品與設備應事先備妥。"},
+    "pdf_pages": [781],
+    "tags": ["anaphylaxis", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking isoniazid for 3 months reports new tingling and burning sensations in both feet. The nurse understands that this finding is best prevented or minimized by administering which medication?", "zh": "病人服用isoniazid三個月後,主訴雙腳出現新的刺痛與灼熱感。護理師了解此現象最適合透過給予哪種藥物來預防或減輕?"},
+    "options": [
+      {"en": "Folic acid", "zh": "葉酸"},
+      {"en": "Pyridoxine (vitamin B6)", "zh": "維生素B6(pyridoxine)"},
+      {"en": "Cyanocobalamin (vitamin B12)", "zh": "維生素B12(cyanocobalamin)"},
+      {"en": "Thiamine", "zh": "維生素B1(thiamine)"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Isoniazid can cause peripheral neuritis manifested by numbness, tingling, and burning in the extremities. Pyridoxine (vitamin B6) is administered as prescribed to reduce the risk of this neurotoxic effect.", "zh": "isoniazid可能造成周邊神經炎,表現為肢體麻木、刺痛與灼熱感。依醫囑給予維生素B6(pyridoxine)可降低此神經毒性發生的風險。"},
+    "pdf_pages": [784],
+    "tags": ["antidote", "supplement"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client has been taking isoniazid for 4 months to treat tuberculosis. Which findings would indicate to the nurse that the client may be developing isoniazid-induced hepatitis? Select all that apply.", "zh": "病人服用isoniazid治療肺結核已四個月。下列哪些發現提示護理師病人可能出現isoniazid引起的肝炎?(多選)"},
+    "options": [
+      {"en": "Anorexia", "zh": "食欲不振"},
+      {"en": "Dark-colored urine", "zh": "尿液顏色變深"},
+      {"en": "Tingling of the toes", "zh": "腳趾刺痛感"},
+      {"en": "Jaundice", "zh": "黃疸"},
+      {"en": "Fatigue", "zh": "疲倦"},
+      {"en": "Red-orange tears", "zh": "淚液呈橘紅色"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Signs of nonviral hepatitis from isoniazid include anorexia, nausea, vomiting, weakness, fatigue, dark urine, and jaundice; if these occur, the medication is withheld and the PHCP is notified. Tingling of the toes reflects peripheral neuritis (a separate adverse effect), and red-orange body secretions are associated with rifampin, not isoniazid.", "zh": "isoniazid引起的非病毒性肝炎徵象包括食欲不振、噁心、嘔吐、虛弱、疲倦、尿液變深與黃疸;出現這些情況時應暫停給藥並通知醫療人員。腳趾刺痛屬於周邊神經炎(另一種不良反應),橘紅色體液分泌物則與rifampin相關,非isoniazid。"},
+    "pdf_pages": [784, 785],
+    "tags": ["sata", "hepatotoxicity"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client beginning long-term rifampin therapy also takes an oral contraceptive. Which instruction is most important for the nurse to include?", "zh": "病人開始長期使用rifampin治療,同時正在服用口服避孕藥。護理師最重要的衛教內容是什麼?"},
+    "options": [
+      {"en": "\"Rifampin can decrease the effectiveness of your oral contraceptive; use an additional nonhormonal method.\"", "zh": "「rifampin會降低口服避孕藥的效果,請額外使用非荷爾蒙避孕方式。」"},
+      {"en": "\"Your urine, sweat, and tears may turn blue-green.\"", "zh": "「您的尿液、汗液和淚液可能會變成藍綠色。」"},
+      {"en": "\"You should double your rifampin dose if you miss one.\"", "zh": "「如果漏服一次rifampin,下次應服用兩倍劑量。」"},
+      {"en": "\"You may stop rifampin once your cough resolves.\"", "zh": "「咳嗽改善後就可以停止服用rifampin。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Rifampin decreases the effects of oral contraceptives, so a nonhormonal method of birth control should be used. Rifampin causes orange-red (not blue-green) discoloration of secretions, doses are never doubled, and the full course must be completed even after symptoms resolve.", "zh": "rifampin會降低口服避孕藥的效果,應改用非荷爾蒙的避孕方式。rifampin造成的體液變色為橘紅色(非藍綠色),劇量絕不可加倍,即使症狀改善仍須完成完整療程。"},
+    "pdf_pages": [785, 786],
+    "tags": ["drug interaction", "teaching"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse teaches a client starting ethambutol to report which finding to the primary health care provider immediately?", "zh": "護理師教導開始服用ethambutol的病人,出現下列哪種情形應立即通報醫療人員?"},
+    "options": [
+      {"en": "Mild nausea after doses", "zh": "服藥後輕微噁心"},
+      {"en": "Difficulty distinguishing the color red from green", "zh": "難以分辨紅色與綠色"},
+      {"en": "Orange discoloration of urine", "zh": "尿液呈橘色"},
+      {"en": "Occasional joint stiffness", "zh": "偶爾關節僵硬"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Ethambutol causes optic neuritis, which decreases visual acuity and impairs the ability to distinguish red from green, posing a safety hazard (for example, while driving). This finding must be reported immediately. Orange discoloration of secretions is associated with rifampin, not ethambutol.", "zh": "ethambutol可造成視神經炎,降低視力並影響紅綠色辨識能力,造成安全風險(例如駕駛時)。此情況須立即報告。橘色體液分泌物與rifampin相關,非ethambutol。"},
+    "pdf_pages": [785, 786],
+    "tags": ["optic neuritis", "teaching", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client receiving streptomycin for multidrug-resistant tuberculosis reports a \"full feeling\" in the ears and ringing. What is the nurse's first action?", "zh": "病人因多重抗藥性肺結核接受streptomycin治療,主訴耳朵有「悶脹感」及耳鳴。護理師第一個應採取的行動為何?"},
+    "options": [
+      {"en": "Document the finding as expected and continue the medication", "zh": "記錄為預期現象並繼續給藥"},
+      {"en": "Obtain an audiometric assessment and notify the PHCP", "zh": "安排聽力評估並通知醫療人員"},
+      {"en": "Increase the client's oral fluid intake", "zh": "增加病人的口服液體攝取"},
+      {"en": "Administer the next dose as scheduled", "zh": "依排定時間給予下一劑藥物"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Streptomycin is an aminoglycoside that can cause ototoxicity, including tinnitus and a full feeling in the ears, which may progress to permanent hearing loss. The nurse should obtain audiometric testing and notify the PHCP so the medication can be reevaluated before further damage occurs.", "zh": "streptomycin屬於氨基糖苷類抗生素,可造成耳毒性,包括耳鳴與耳部悶脹感,嚴重時可導致永久性聽力喪失。護理師應安排聽力檢查並通知醫療人員,在進一步損害發生前重新評估用藥。"},
+    "pdf_pages": [789],
+    "tags": ["ototoxicity", "aminoglycoside", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client taking pyrazinamide for tuberculosis develops a swollen, painful great toe. Which laboratory result would the nurse expect to be elevated?", "zh": "病人因肺結核服用pyrazinamide,出現大拇趾腫痛。護理師預期下列哪項檢驗值會升高?"},
+    "options": [
+      {"en": "Serum uric acid", "zh": "血清尿酸"},
+      {"en": "Serum potassium", "zh": "血清鉀"},
+      {"en": "Serum sodium", "zh": "血清鈉"},
+      {"en": "Serum phosphate", "zh": "血清磷"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Pyrazinamide can increase uric acid levels, which may precipitate gout-like symptoms such as a painful, swollen joint. The nurse should assess for painful or swollen joints and evaluate uric acid levels.", "zh": "pyrazinamide可提高血中尿酸濃度,可能誘發類似痛風的症狀,如關節腫痛。護理師應評估關節腫痛情形並監測尿酸濃度。"},
+    "pdf_pages": [786, 787],
+    "tags": ["labs", "gout"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with a history of asthma is prescribed nebulized acetylcysteine for thick pulmonary secretions. Which nursing action is most important?", "zh": "有氣喘病史的病人因痰液黏稠被開立nebulized acetylcysteine治療。護理師最重要的處置是什麼?"},
+    "options": [
+      {"en": "Administer the bronchodilator 5 minutes after the acetylcysteine", "zh": "在acetylcysteine後5分鐘再給支氣管擴張劑"},
+      {"en": "Mix the acetylcysteine with the bronchodilator in the same nebulizer", "zh": "將acetylcysteine與支氣管擴張劑混合於同一噴霧器中給予"},
+      {"en": "Administer the prescribed bronchodilator before the acetylcysteine and monitor for increased airway resistance or bronchospasm", "zh": "先給予醫囑支氣管擴張劑再給acetylcysteine,並監測是否出現呼吸道阻力增加或支氣管痙攣"},
+      {"en": "Withhold supplemental oxygen during the treatment", "zh": "治療期間停止給予補充氧氣"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Acetylcysteine can increase airway resistance and should not be used in clients with asthma without caution; if a bronchodilator is also prescribed, it is given 5 minutes before the acetylcysteine, and the nurse monitors closely for bronchospasm. Acetylcysteine should not be mixed with other medications in the nebulizer.", "zh": "acetylcysteine可能增加呼吸道阻力,氣喘病人使用時須謹慎;若同時開立支氣管擴張劑,應在使用acetylcysteine前5分鐘給予,並密切監測是否發生支氣管痙攣。acetylcysteine不應與其他藥物混合於同一噴霧器中給予。"},
+    "pdf_pages": [782],
+    "tags": ["mucolytic", "bronchospasm risk"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse reviews a new prescription for an opioid antitussive for a client. Which condition in the client's history would cause the nurse to clarify the prescription with the primary health care provider?", "zh": "護理師審閱一份新開立的鴉片類止咳藥處方。病史中出現下列哪種情況時,護理師應與醫療人員確認此處方?"},
+    "options": [
+      {"en": "A recent craniotomy", "zh": "近期曾接受開顱手術"},
+      {"en": "Seasonal allergies", "zh": "季節性過敏"},
+      {"en": "Hypertension controlled with medication", "zh": "藥物控制良好的高血壓"},
+      {"en": "Mild osteoarthritis", "zh": "輕度退化性關節炎"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Opioid antitussives are avoided in clients with a head injury or a recent cranial surgery because they can mask changes in level of consciousness and worsen respiratory depression. The nurse should clarify this prescription with the PHCP.", "zh": "鴉片類止咳藥應避免用於頭部外傷或近期接受過顱內手術的病人,因可能掩蓋意識狀態的變化並加重呼吸抑制。護理師應與醫療人員確認此處方。"},
+    "pdf_pages": [782, 783],
+    "tags": ["contraindication", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is found unresponsive with slow, shallow respirations after receiving opioid analgesics. After administering naloxone intravenously, the nurse would prepare for which possibility?", "zh": "病人接受鴉片類止痛藥後被發現無反應,呼吸緩慢淺表。靜脈給予naloxone後,護理師應預期並準備應對下列何種情況?"},
+    "options": [
+      {"en": "Respiratory depression may recur before the opioid has been fully metabolized", "zh": "在鴉片類藥物尚未完全代謝前,呼吸抑制可能再度發生"},
+      {"en": "The naloxone's effects will outlast the opioid, so no further monitoring is required", "zh": "naloxone的作用時間會超過鴉片類藥物,因此不需再進一步監測"},
+      {"en": "The client will require no further intervention once alert", "zh": "病人一旦清醒就不需要任何進一步處置"},
+      {"en": "A second dose of naloxone is never indicated", "zh": "絕不需要再給第二劑naloxone"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Naloxone's duration of action may be shorter than that of the opioid, so recurrence of respiratory depression can occur if the duration of the opioid exceeds the duration of the opioid antagonist. The nurse keeps resuscitation equipment and oxygen available and continues to monitor vital signs, especially respirations.", "zh": "naloxone的作用時間可能比鴉片類藥物短,若鴉片類藥物的作用持續時間超過naloxone,呼吸抑制可能再度發生。護理師應備妥急救設備與氧氣,並持續監測生命徵象,尤其是呼吸。"},
+    "pdf_pages": [783],
+    "tags": ["opioid overdose", "priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client asks why the primary health care provider recommended using an over-the-counter nasal decongestant spray for no more than 48 hours. What is the nurse's best explanation?", "zh": "病人詢問為何醫療人員建議非處方鼻充血緩解噴劑使用不超過48小時。護理師最適當的解釋是什麼?"},
+    "options": [
+      {"en": "\"Longer use increases the risk of rebound nasal congestion from overuse of the spray.\"", "zh": "「使用時間過長會增加因噴劑過度使用而產生反彈性鼻充血的風險。」"},
+      {"en": "\"The medication loses its scent after 48 hours.\"", "zh": "「這個藥物在48小時後會失去氣味。」"},
+      {"en": "\"Longer use will cause a permanent loss of smell.\"", "zh": "「使用時間過長會造成永久失去嗅覺。」"},
+      {"en": "\"It is only approved for pediatric use after 48 hours.\"", "zh": "「這個藥物在48小時後僅核准用於兒童。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Nasal decongestants can cause tolerance and rebound nasal congestion caused by irritation and vasodilation of the nasal mucosa; clients are instructed not to use these medications for longer than 48 hours and to wean off one naris at a time if needed.", "zh": "鼻充血緩解劑可能引發耐受性以及因鼻黏膜受刺激與血管擴張所造成的反彈性鼻充血;應教導病人不要使用超過48小時,如需停藥可採取一側鼻孔逐步減量的方式。"},
+    "pdf_pages": [782],
+    "tags": ["teaching", "rebound congestion"]
+  }
+]

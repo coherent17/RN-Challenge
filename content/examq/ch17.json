@@ -1,0 +1,229 @@
+[
+  {
+    "cat": "SI",
+    "stem": {"en": "A client has a new indwelling urethral catheter for continuous bladder drainage. Which action by the nurse is most important to prevent catheter-associated urinary tract infection (CAUTI)?", "zh": "一位病人新置入留置型尿道導尿管以持續引流膀胱。為預防導尿管相關尿路感染(CAUTI),護理師最重要的措施是什麼?"},
+    "options": [
+      {"en": "Keep the drainage bag below the level of the bladder at all times", "zh": "隨時將引流袋維持在低於膀胱的位置"},
+      {"en": "Disconnect the catheter from the tubing daily to inspect for crusting", "zh": "每天將導尿管與引流管分開以檢查是否有結晶堆積"},
+      {"en": "Apply antibiotic ointment to the meatus every shift", "zh": "每班於尿道口塗抹抗生素藥膏"},
+      {"en": "Change the drainage bag every 4 hours regardless of volume", "zh": "不論容量多少,每4小時更換一次引流袋"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Maintaining the drainage bag below the level of the bladder ensures gravity-dependent downhill flow of urine and prevents reflux of contaminated urine back into the bladder, a key CAUTI-prevention measure. The closed drainage system should not be disconnected unnecessarily, antibiotic ointment is not routinely applied, and the bag is emptied based on fullness and agency protocol, not a fixed time interval alone.", "zh": "將引流袋維持在低於膀胱的位置可確保尿液因重力向下流動,避免受污染的尿液回流至膀胱,是預防CAUTI的重要措施。密閉引流系統不應不必要地分開,也不應常規塗抹抗生素藥膏,排空引流袋應依滿量程度與機構規範,而非僅依固定時間。"},
+    "pdf_pages": [251],
+    "tags": ["CAUTI", "catheter care", "infection prevention"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has a nephrostomy tube in place following a urinary diversion. For the past 20 minutes there has been no urine output from the tube. What is the nurse's priority action?", "zh": "病人因尿路分流手術置有腎盂造瘘管。過去20分鐘該管路無尿液流出。護理師最優先的措施是什麼?"},
+    "options": [
+      {"en": "Notify the primary health care provider immediately", "zh": "立即通知醫療照護提供者"},
+      {"en": "Clamp the tube and recheck output in 1 hour", "zh": "夾閉導管並於1小時後重新檢查流量"},
+      {"en": "Irrigate the tube with 30 mL of sterile normal saline", "zh": "用30 mL無菌生理食鹽水灌洗導管"},
+      {"en": "Document the finding and reassess at the end of the shift", "zh": "記錄此發現並於班末重新評估"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A nephrostomy or ureteral tube should never be clamped, and lack of output for more than 15 minutes or output less than 30 mL/hr should be reported to the primary health care provider immediately because it may indicate obstruction and risk for hydronephrosis. Irrigation of these tubes is performed only if specifically prescribed by the surgeon, using strict aseptic technique and no more than 5 mL of sterile saline.", "zh": "腎盂造瘘管或輸尿管導管絕不可夾閉,若超過15分鐘無尿液流出或尿量低於30 mL/hr,應立即通報醫療照護提供者,因可能代表阻塞並有腎水腫風險。此類導管僅在醫師明確開立處方時才可灌洗,且須採嚴格無菌技術,灌洗量不超過5 mL無菌生理食鹽水。"},
+    "pdf_pages": [251, 252],
+    "tags": ["red flag", "requires immediate action", "nephrostomy"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "On postoperative day 1 following creation of a transverse colostomy, the nurse assesses the stoma and finds it dark blue-purple with a dusky appearance. What is the nurse's priority action?", "zh": "橫結腸造口術後第1天,護理師評估造口時發現顏色呈深藍紫色且暗沉。護理師最優先的措施是什麼?"},
+    "options": [
+      {"en": "Notify the surgeon immediately", "zh": "立即通知外科醫師"},
+      {"en": "Apply a warm compress to improve circulation to the stoma", "zh": "對造口敷用溫熱敷料以改善血液循環"},
+      {"en": "Document the finding as an expected postoperative change", "zh": "記錄此發現為術後預期的正常變化"},
+      {"en": "Increase the client's oral fluid intake and recheck in 4 hours", "zh": "增加病人口服液體攝取並於4小時後重新檢查"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A healthy stoma should be red or pink, indicating good vascularity. A dark, dusky, or purple-blue stoma indicates compromised circulation and possible necrosis, requiring immediate surgeon notification. Waiting, applying heat, or documenting as normal would delay recognition of a potentially limb- or life-threatening complication of the bowel itself.", "zh": "健康的造口應呈紅色或粉紅色,顯示血流良好。造口呈暗沉、深藍紫色代表血液循環受損,可能已發生壞死,須立即通知外科醫師。延遲處理、敷溫熱或記錄為正常變化,都會延誤辨識此可能危及腸道組織的嚴重併發症。"},
+    "pdf_pages": [258, 259],
+    "tags": ["red flag", "requires immediate action", "ostomy", "stoma assessment"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who underwent creation of an ileostomy 2 days ago has a stoma output that is pale pink in color. Which laboratory finding would the nurse expect to correlate with this stoma appearance?", "zh": "一位病人於2天前接受迴腸造口術,造口顏色呈淡粉紅色。護理師會預期哪一項檢驗結果與此造口外觀相符?"},
+    "options": [
+      {"en": "Low hemoglobin and hematocrit", "zh": "血紅素與血球比容偏低"},
+      {"en": "Elevated white blood cell count", "zh": "白血球數偏高"},
+      {"en": "Elevated serum creatinine", "zh": "血清肌酸酐偏高"},
+      {"en": "Low serum potassium", "zh": "血清鉀離子偏低"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A pale pink stoma indicates low hemoglobin and hematocrit levels, whereas a healthy stoma is red or pink with good vascularity and a dark, dusky stoma indicates necrosis. The other laboratory values are not specifically associated with stoma color.", "zh": "造口呈淡粉紅色代表血紅素與血球比容偏低,健康的造口應為紅色或粉紅色且血流良好,而暗沉深色的造口則代表壞死。其他檢驗值與造口顏色並無特定關聯。"},
+    "pdf_pages": [258],
+    "tags": ["stoma assessment", "labs"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is providing discharge teaching to a client with a new sigmoid colostomy about stoma care at home. Which instructions should the nurse include? Select all that apply.", "zh": "護理師正在為一位新接受乙狀結腸造口術的病人提供出院前有關居家造口照護的指導。護理師應包含哪些指導內容?請選出所有適用項目。"},
+    "options": [
+      {"en": "Empty the pouch when it is about one-third full", "zh": "當引流袋約三分之一滿時即予排空"},
+      {"en": "Cut the skin barrier opening no more than 3 mm larger than the stoma", "zh": "皮膚保護片的開口裁剪時,不應比造口大超過3 mm"},
+      {"en": "Avoid foods known to cause excessive gas or odor", "zh": "避免攝取已知會造成過多排氣或異味的食物"},
+      {"en": "Report any persistent skin irritation around the stoma", "zh": "若造口周圍皮膚持續出現刺激應立即報告"},
+      {"en": "Restrict all fluid intake to prevent pouch overfilling", "zh": "限制所有液體攝取以避免引流袋過滿"},
+      {"en": "Change the entire pouching system every 2 to 3 hours", "zh": "每2至3小時更換整套引流系統"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Emptying the pouch when one-third full prevents leakage from pulling on the appliance; cutting the skin barrier only slightly larger than the stoma protects surrounding skin; avoiding gas-forming or odor-causing foods is appropriate; and skin irritation should always be reported. Fluid intake should not be restricted (adequate hydration is encouraged), and an intact pouching system is typically left in place for 5 to 7 days, not changed every few hours.", "zh": "當引流袋三分之一滿時排空可避免因過重而拉脫造口袋;裁剪皮膚保護片開口時僅略大於造口可保護周圍皮膚;避免產氣或產生異味的食物是恰當的;皮膚刺激應隨時報告。液體攝取不應限制(應鼓勵適當補水),完整的造口系統通常可維持5至7天才更換,而非每幾小時更換一次。"},
+    "pdf_pages": [259, 260],
+    "tags": ["sata", "patient teaching", "ostomy"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client has a continent internal ileal reservoir (Kock pouch) and has been taught self-catheterization to drain it. Which statement by the client indicates a need for further teaching?", "zh": "一位病人接受了可控式迴腸貯尿囊(Kock pouch)手術,並已接受自我導尿引流的教學。病人的哪句話顯示需要進一步指導?"},
+    "options": [
+      {"en": "\"If I feel resistance, I will force the catheter in a bit further.\"", "zh": "「如果感覺到阻力,我會用力把導尿管再推進去一些。」"},
+      {"en": "\"I will lubricate the catheter well before inserting it.\"", "zh": "「插入前我會充分潤滑導尿管。」"},
+      {"en": "\"I will eventually catheterize the pouch every 4 to 6 hours.\"", "zh": "「最終我會每4到6小時為貯尿囊導尿一次。」"},
+      {"en": "\"I will pinch the catheter closed as I withdraw it so it doesn't leak.\"", "zh": "「拔出導尿管時我會將其夾緊,避免滲漏。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "If resistance is met during self-catheterization of a continent reservoir, the client should be taught to pause, rotate the catheter, and apply gentle pressure, never to force the catheter, which risks trauma and perforation of the reservoir. The other statements reflect correct technique: adequate lubrication, eventually extending to a 4- to 6-hour catheterization interval, and pinching the catheter during withdrawal to prevent leakage.", "zh": "若在為可控式貯尿囊自我導尿時遇到阻力,應教導病人暫停、旋轉導尿管並施以輕微壓力,絕不可用力推入,否則有造成貯尿囊創傷或穿孔的風險。其他陳述皆為正確技巧:充分潤滑、最終延長至每4至6小時導尿一次,以及拔出時夾緊導尿管以防滲漏。"},
+    "pdf_pages": [255, 256],
+    "tags": ["patient teaching", "urinary diversion", "self-catheterization"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is inserting an indwelling urinary catheter. After the catheter is advanced and urine begins to flow, the nurse advances the catheter an additional 2.5 to 5 cm (1 to 2 inches) before inflating the balloon. What is the primary reason for this action?", "zh": "護理師正在置入留置型尿道導尿管。導管推進且尿液開始流出後,護理師在灌注氣球前再將導管推進2.5至5公分(1至2吋)。此動作的主要目的是什麼?"},
+    "options": [
+      {"en": "To ensure the balloon inflates fully within the bladder, not the urethra", "zh": "確保氣球完全在膀胱內膨脹,而非在尿道內"},
+      {"en": "To reduce the client's sensation of urgency after insertion", "zh": "減少病人置入後的急迫感"},
+      {"en": "To allow more time for the sterile field to be assessed", "zh": "讓無菌區域有更多時間接受評估"},
+      {"en": "To confirm that the catheter is the correct size for the client", "zh": "確認導尿管尺寸適合病人"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Advancing the catheter a further 2.5 to 5 cm after urine appears ensures that the balloon, once inflated, sits within the bladder rather than in the urethra, which would cause urethral trauma, pain, and bleeding. This is a critical safety step in catheter insertion technique.", "zh": "尿液流出後再將導尿管推進2.5至5公分,可確保氣球灌注時位於膀胱內而非尿道內,否則會造成尿道創傷、疼痛與出血。這是導尿管置入技術中一項重要的安全步驟。"},
+    "pdf_pages": [251, 252],
+    "tags": ["catheter insertion", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "An older adult client who has had an indwelling urinary catheter in place for 5 days develops new-onset confusion and lethargy but no fever. Which interpretation by the nurse is most appropriate?", "zh": "一位帶留置型尿管已5天的老年病人出現新發混亂與嗜睡,但沒有發燒。護理師最適當的解讀是什麼?"},
+    "options": [
+      {"en": "The client may have a urinary tract infection presenting with nonspecific symptoms", "zh": "病人可能發生尿路感染,並以非特定症狀呈現"},
+      {"en": "The client is experiencing normal age-related sleep changes", "zh": "病人正經歷正常的老化相關睡眠變化"},
+      {"en": "The absence of fever rules out infection in this client", "zh": "沒有發燒即可排除此病人有感染"},
+      {"en": "The client requires no further assessment at this time", "zh": "此病人目前不需要進一步評估"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Older adults with a UTI may present with nonspecific symptoms such as confusion, lethargy, delirium, decreased function, or incontinence rather than classic signs, and may not mount a fever response to infection. A catheter is a major risk factor for UTI, so new confusion in this client warrants prompt assessment for infection rather than being dismissed as normal aging.", "zh": "老年人尿路感染可能表現為非特定症狀,如混亂、嗜睡、譁妄、功能下降或尿失禁,而非典型徵象,且可能不會出現發燒反應。導尿管是尿路感染的重要危險因子,因此此病人新發混亂應立即評估是否感染,而不應視為正常老化而忽略。"},
+    "pdf_pages": [250],
+    "tags": ["red flag", "UTI", "older adult"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client about measures to prevent recurrent urinary tract infections. Which statement by the client indicates correct understanding of the teaching?", "zh": "護理師正在教導病人預防復發性尿路感染的措施。病人的哪句話顯示其理解正確?"},
+    "options": [
+      {"en": "\"I will wipe from front to back after using the bathroom.\"", "zh": "「上完廁所後我會從前往後擦拭。」"},
+      {"en": "\"I will wear tight-fitting synthetic underwear to stay dry.\"", "zh": "「我會穿緊身合成材質的內褲以保持乾燥。」"},
+      {"en": "\"I will delay voiding as long as possible during the workday.\"", "zh": "「上班時我會盡量延後排尿時間。」"},
+      {"en": "\"I will drink less water so I don't need to use public restrooms.\"", "zh": "「我會減少喝水,這樣就不需要使用公共廁所。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Wiping from front to back helps prevent introduction of fecal organisms into the urethra and is a key UTI-prevention measure. Cotton (not tight synthetic) underwear is recommended, habitual delay in voiding (\"teacher's bladder\") is a risk factor for UTI, and reducing fluid intake increases risk by promoting urinary stasis and concentrated urine.", "zh": "由前往後擦拭可避免將糞便中的病原帶入尿道,是預防尿路感染的重要措施。建議穿著棉質(非緊身合成材質)內褲,習慣性延遲排尿(「教師膀胱」)是尿路感染的危險因子,而減少液體攝取會促使尿液滯留、濃縮,反而增加感染風險。"},
+    "pdf_pages": [256],
+    "tags": ["patient teaching", "UTI prevention"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is caring for a client with a long history of chronic constipation who is being taught bowel training measures. Which instructions should the nurse include? Select all that apply.", "zh": "護理師正在照護一位有慢性便秘病史的病人,並教導其腸道訓練措施。護理師應包含哪些指導內容?請選出所有適用項目。"},
+    "options": [
+      {"en": "Attempt defecation at the same time each day", "zh": "每天固定時間嘗試排便"},
+      {"en": "Drink a hot beverage or prune juice if allowed", "zh": "若允許,可飲用熱飲或蜂李汁"},
+      {"en": "Lean forward while sitting on the toilet", "zh": "坐在馬桶上時身體向前傾"},
+      {"en": "Use laxatives on a long-term daily basis to ensure regularity", "zh": "長期每日使用軟便劑以維持規律排便"},
+      {"en": "Ensure privacy and avoid rushing during toileting", "zh": "確保隱私並避免排便時匆忙"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Bowel training measures include maintaining a consistent time for defecation, consuming a hot drink or prune juice if allowed, leaning forward on the toilet (or using a footstool) to increase intraabdominal pressure, and ensuring privacy with unhurried toileting. Laxatives should not be used long-term because they can decrease motility and sensory perception needed for normal elimination.", "zh": "腸道訓練措施包括維持固定的排便時間、若允許可飲用熱飲或蜂李汁、坐在馬桶上身體前傾(或使用腳墊)以增加腹內壓,以及確保隱私並不匆忙排便。軟便劑不應長期使用,因其會降低腸道蠕動力與排便所需的感覺感受。"},
+    "pdf_pages": [260, 261],
+    "tags": ["sata", "bowel training", "constipation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with a fecal impaction. The client reports repeated urges to defecate without successful passage of stool, and the nurse notes continuous oozing of liquid stool. What is the nurse's priority action?", "zh": "護理師正在照護一位有糞便嵌塞的病人。病人表示反覆有排便衝動但無法成功排出,護理師並注意到持續有液態糞便滲出。護理師最優先的措施是什�么?"},
+    "options": [
+      {"en": "Notify the primary health care provider of possible intestinal obstruction", "zh": "通知醫療照護提供者有腸阻塞的可能"},
+      {"en": "Administer a hypertonic saline enema immediately without a prescription", "zh": "在未取得醫囑的情況下立即給予高張性生理食鹽水灌腸"},
+      {"en": "Encourage the client to increase ambulation to relieve the impaction", "zh": "鼓勵病人增加走動以緩解嵌塞"},
+      {"en": "Document the finding as expected with diarrhea and reassess in 24 hours", "zh": "記錄此發現為腹瀉之預期表現,並於24小時後重新評估"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Continuous oozing of liquid stool around a fecal impaction can be indicative of intestinal obstruction, and the primary health care provider should be notified when obstruction is suspected. Administering an enema without a prescription is outside the nurse's independent scope for a suspected obstruction, and encouraging ambulation or waiting 24 hours would delay recognition of a potentially serious complication.", "zh": "糞便嵌塞合併持續液態糞便滲出,可能代表腸阻塞,懷疑腸阻塞時應通知醫療照護提供者。在未取得醫囑的情況下給予灌腸,超出護理師在懷疑腸阻塞情況下的獨立執業範圍;鼓勵走動或等待24小時則會延誤辨識潛在的嚴重併發症。"},
+    "pdf_pages": [256],
+    "tags": ["red flag", "requires immediate action", "impaction"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is preparing to administer an enema to a client who reports a history of chronic dehydration. Which type of enema solution would the nurse question administering?", "zh": "護理師準備為一位有慢性脫水病史的病人進行灌腸。護理師應對哪一種灌腸溶液的使用提出疑慮?"},
+    "options": [
+      {"en": "Hypertonic saline enema", "zh": "高張性生理食鹽水灌腸"},
+      {"en": "Normal saline enema", "zh": "等張生理食鹽水灌腸"},
+      {"en": "Tap water enema, limited to one administration", "zh": "僅施行一次的清水灌腸"},
+      {"en": "Oil retention enema", "zh": "油性保留灌腸"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Hypertonic saline enemas are contraindicated in clients who are dehydrated and in young infants because they draw fluid into the bowel and can worsen fluid and electrolyte imbalance. Normal saline enemas are isotonic and preferred because they cause less fluid shift; a single tap water enema or an oil retention enema are generally safer alternatives for this client.", "zh": "高張性生理食鹽水灌腸在脫水病人與幼嬰兒屬禁忌,因其會將水分吸入腸道,可能加重體液與電解質失衡。等張生理食鹽水灌腸因造成的體液轉移較少而為優先選擇;單次清水灌腸或油性保留灌腸對此病人而言通常是較安全的替代方案。"},
+    "pdf_pages": [260, 261],
+    "tags": ["enema", "contraindication", "dehydration"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is performing digital removal of a fecal impaction for a client. During the procedure, the nurse notes the client's heart rate drop from 82 to 54 beats/min. What is the most appropriate nursing action?", "zh": "護理師正為病人執行手指挖除糞便嵌塞。過程中護理師注意到病人心率由82降至54次/分。最恰當的護理措施是什麼?"},
+    "options": [
+      {"en": "Stop the procedure and assess the client further", "zh": "停止操作並進一步評估病人"},
+      {"en": "Continue the procedure quickly to finish before symptoms worsen", "zh": "加快速度完成操作,避免症狀惡化"},
+      {"en": "Reposition the client supine and continue the procedure", "zh": "將病人改為平躺姿勢並繼續操作"},
+      {"en": "Administer an oral laxative to complete the evacuation", "zh": "給予口服軟便劑以完成排便"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Digital removal of stool may stimulate the vagus nerve and cause a decrease in heart rate (vasovagal response), which can progress to significant bradycardia or dysrhythmia. The nurse should stop the procedure immediately and further assess the client, including vital signs and cardiac status, rather than continuing or repositioning without stopping.", "zh": "手指挖除糞便可能刺激迷走神經,導致心率下降(迷走神經反應),嚴重時可能進展為顯著心搏過緩或心律不整。護理師應立即停止操作並進一步評估病人,包括生命徵象與心臟狀況,而非繼續操作或僅改變姿勢而不停止。"},
+    "pdf_pages": [261, 262],
+    "tags": ["red flag", "requires immediate action", "vagal response"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is delegating care tasks to an unlicensed assistive personnel (UAP) for a client with a new colostomy on postoperative day 2. Which task is appropriate for the nurse to delegate to the UAP?", "zh": "護理師正將術後第2天新造口病人的照護任務委派給無照護理輔助人員(UAP)。護理師委派給UAP哪項任務是合適的?"},
+    "options": [
+      {"en": "Emptying the ostomy pouch when it becomes one-third full", "zh": "當造口袋約三分之一滿時予以排空"},
+      {"en": "Assessing the stoma color and reporting any dusky appearance", "zh": "評估造口顏色並報告任何暗沉外觀"},
+      {"en": "Teaching the client how to apply the skin barrier and pouch", "zh": "教導病人如何貼上皮膚保護片與造口袋"},
+      {"en": "Determining whether the client is ready to resume a regular diet", "zh": "判斷病人是否已可恢復一般飲食"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Emptying a full ostomy pouch is a routine hygiene task within the UAP scope of practice. Assessment of the stoma (including recognizing concerning color changes), client teaching, and clinical decisions about diet readiness require nursing judgment and cannot be delegated to a UAP.", "zh": "排空已滿的造口袋屬於常規衛生照護工作,在UAP的職責範圍內。造口評估(包括辨識令人擔憂的顏色變化)、病人教學,以及是否可恢復飲食等臨床判斷,皆需要護理專業判斷,不可委派給UAP。"},
+    "pdf_pages": [258, 259],
+    "tags": ["delegation", "UAP"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client who had a sigmoid colostomy created 1 week ago tells the nurse, \"I don't think my spouse will ever want to be close to me again now that I have this bag.\" What is the nurse's most therapeutic response?", "zh": "一位1週前接受乙狀結腸造口術的病人告訴護理師:「我有了這個袋子之後,我覺得我的配偶再也不會想親近我了。」護理師最具治療性的回應是什麼?"},
+    "options": [
+      {"en": "\"Tell me more about your concerns regarding your relationship with your spouse.\"", "zh": "「可以多告訴我一些你對和配偶關係的擔憂嗎?」"},
+      {"en": "\"Most spouses adjust quickly, so you shouldn't worry about this.\"", "zh": "「大部分配偶都能很快適應,所以你不用擔心這個。」"},
+      {"en": "\"You will need to discuss this concern with your surgeon.\"", "zh": "「你需要和你的外科醫師討論這個擔憂。」"},
+      {"en": "\"Let's focus on your ostomy care skills instead of this issue right now.\"", "zh": "「我們現在先專注於造口照護技巧,先不談這個問題。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Encouraging the client to verbalize feelings about body image changes, including concerns about sexual activity and intimacy, acknowledges the emotional impact of a new ostomy and helps the client begin to adapt. Dismissing the concern, deflecting to the surgeon, or avoiding the topic blocks therapeutic communication and the grieving/adaptation process.", "zh": "鼓勵病人表達對身體意象改變的感受,包括對性生活與親密關係的擔憂,能肯定新造口帶來的情緒衝擊,並協助病人開始調適。若輕忽此擔憂、轉介給外科醫師或迴避此話題,都會阻斷治療性溝通及悲傷/調適過程。"},
+    "pdf_pages": [258],
+    "tags": ["therapeutic communication", "body image", "ostomy"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is teaching a client with urge incontinence about bladder training. Which statement by the client indicates correct understanding of the teaching?", "zh": "護理師正教導一位急迫性尿失禁病人有關膀胱訓練的知識。病人哪句話顯示理解正確?"},
+    "options": [
+      {"en": "\"When I feel the urge, I will try slow, deep breathing and pelvic floor contractions until the urge passes.\"", "zh": "「當我感覺到尿意時,我會嘗試緩慢深呼吸及骨盆底肌收縮,直到尿意消退。」"},
+      {"en": "\"I should go to the bathroom immediately at the very first sign of urgency.\"", "zh": "「我應該在一感覺到急迫感時就馬上去廁所。」"},
+      {"en": "\"I will restrict all fluids during the day to reduce the number of voids.\"", "zh": "「我會限制白天所有的液體攝取以減少排尿次數。」"},
+      {"en": "\"Bladder training will not work because my cognition is impaired.\"", "zh": "「因為我的認知功能受損,膀胱訓練對我不會有效。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Bladder training encourages inhibition of the urge to void using slow, deep breathing and quick pelvic floor contractions until the urge subsides before going to the bathroom. It requires intact cognition to be effective. Restricting fluids is not an appropriate bladder-training strategy and increases risk for concentrated urine and UTI.", "zh": "膀胱訓練鼓勵以緩慢深呼吸與快速的骨盆底肌收縮來抑制尿意,待尿意消退後再前往廁所。此方法需要認知功能完整才有效。限制液體攝取並非恰當的膀胱訓練策略,且會增加尿液濃縮與尿路感染的風險。"},
+    "pdf_pages": [256, 257],
+    "tags": ["patient teaching", "bladder training"]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with emphysema is hospitalized for increasing dyspnea. Arterial blood gas results are pH 7.21, PaCO2 70 mm Hg, and HCO3 23 mEq/L (23 mmol/L); the client is lethargic, disoriented, and reports headache and dizziness. The PHCP prescribes a mild sedative for the client's restlessness. What is the nurse's best action?", "zh": "一位肺氣腫病人因呼吸困難加劇住院。動脈血氣結果為pH 7.21、PaCO2 70 mmHg、HCO3 23 mEq/L(23 mmol/L);病人嗜睡、意識混亂,並抱怨頭痛與頭暈。醫療人員開立輕度鎮靜劑以緩解病人的躁動。護理師最好的做法是?"},
+    "options": [
+      {"en": "Administer the sedative as prescribed to help calm the client", "zh": "依醫囑給予鎮靜劑以安撫病人"},
+      {"en": "Question the prescription and discuss reducing restlessness by improving ventilation instead", "zh": "對醫囑提出疑問,並討論改以改善通氣來緩解躁動"},
+      {"en": "Apply soft wrist restraints to prevent the client from pulling at lines", "zh": "使用軟式手腕約束帶以防止病人拉扯管路"},
+      {"en": "Administer the sedative and reassess respiratory status in 2 hours", "zh": "給予鎮靜劑並於2小時後再評估呼吸狀況"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "This client has uncompensated respiratory acidosis from hypoventilation related to emphysema. Restlessness in this situation should be addressed by improving ventilation, not by administering sedatives, tranquilizers, or opioids, which further depress respirations and worsen the acidosis. The nurse should question the prescription and collaborate on a safer plan.", "zh": "此病人因肺氣腫造成通氣不足,出現未代償性呼吸性酸中毒。此情況下的躁動應透過改善通氣來處理,而非給予鎮靜劑、鎮定劑或鴉片類藥物,因為這些藥物會進一步抑制呼吸、使酸中毒惡化。護理師應對醫囑提出疑問,並共同討論較安全的做法。"},
+    "pdf_pages": [130, 131],
+    "tags": ["first action", "red flag", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client having an acute anxiety attack is hyperventilating. Arterial blood gas results show pH 7.50 and PaCO2 30 mm Hg. Which manifestations would the nurse expect to find in this client? Select all that apply.", "zh": "一位病人因急性焦慮發作而過度換氣。動脈血氣結果顯示pH 7.50、PaCO2 30 mmHg。護理師預期會在此病人身上發現下列哪些表現?(多選)"},
+    "options": [
+      {"en": "Tachycardia", "zh": "心跳過速"},
+      {"en": "Numbness and tingling of the fingers", "zh": "手指麻木與刺痛感"},
+      {"en": "Hyperkalemia", "zh": "高血鉀"},
+      {"en": "Bradypnea", "zh": "呼吸過慢"},
+      {"en": "Light-headedness", "zh": "頭暈目眩"},
+      {"en": "Hypokalemia", "zh": "低血鉀"}
+    ],
+    "answer": [0, 1, 4, 5],
+    "rationale": {"en": "Respiratory alkalosis from hyperventilation produces tachycardia, numbness and tingling of the extremities, light-headedness, and hypokalemia (potassium shifts into cells as hydrogen ions move out). Hyperkalemia is associated with acidosis, not alkalosis, and the client is hyperventilating (increased, not decreased, rate and depth), so bradypnea is incorrect.", "zh": "過度換氣造成的呼吸性鹼中毒會出現心跳過速、肢體麻木與刺痛、頭暈目眩,以及低血鉀(氫離子外移時鉀離子移入細胞內)。高血鉀與酸中毒相關,而非鹼中毒;病人是過度換氣(呼吸速率與深度增加,而非減少),因此呼吸過慢並不正確。"},
+    "pdf_pages": [131, 132],
+    "tags": ["sata", "labs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving an IV opioid analgesic via a patient-controlled analgesia (PCA) pump has a respiratory rate of 8 breaths/min and is difficult to arouse. Arterial blood gases reveal pH 7.28, PaCO2 54 mm Hg, and HCO3 25 mEq/L (25 mmol/L). Which is the nurse's priority action?", "zh": "一位病人透過病人自控式止痛(PCA)幫浦接受靜脈鴉片類止痛藥,呼吸速率為每分鐘8次且難以喚醒。動脈血氣顯示pH 7.28、PaCO2 54 mmHg、HCO3 25 mEq/L(25 mmol/L)。護理師應優先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Document the findings and continue routine monitoring", "zh": "記錄發現並持續常規監測"},
+      {"en": "Stop the PCA infusion, attempt to arouse the client, and prepare to administer an opioid antagonist", "zh": "停止PCA輸注,嘗試喚醒病人,並準備給予鴉片類拮抗劑"},
+      {"en": "Encourage the client to cough and deep breathe", "zh": "鼓勵病人咳嗽與深呼吸"},
+      {"en": "Increase the maintenance IV fluid rate", "zh": "提高靜脈輸液的維持速率"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A respiratory rate of 8 breaths/min, difficulty arousing the client, and ABG results showing uncompensated respiratory acidosis indicate opioid-induced respiratory depression, a medical emergency. The nurse must stop the infusion, attempt to arouse the client, and have an opioid antagonist (naloxone) and resuscitation equipment ready.", "zh": "呼吸速率每分鐘8次、難以喚醒病人,加上動脈血氣顯示未代償性呼吸性酸中毒,代表鴉片類藥物引起的呼吸抑制,屬於醫療緊急狀況。護理師須停止輸注、嘗試喚醒病人,並備妥鴉片類拮抗劑(naloxone)與急救設備。"},
+    "pdf_pages": [131],
+    "tags": ["first action", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client is hyperventilating because of acute anxiety, and ABG results show pH 7.52 and PaCO2 28 mm Hg. Which nonpharmacological interventions should the nurse use to help correct this acid-base imbalance? Select all that apply.", "zh": "一位病人因急性焦慮而過度換氣,動脈血氣結果顯示pH 7.52、PaCO2 28 mmHg。護理師應使用下列哪些非藥物措施來協助矯正此酸鹼失衡?(多選)"},
+    "options": [
+      {"en": "Coach the client in slow, controlled breathing", "zh": "引導病人進行緩慢、控制的呼吸"},
+      {"en": "Have the client breathe into a paper bag, as prescribed", "zh": "依醫囑讓病人對著紙袋呼吸"},
+      {"en": "Apply a prescribed rebreathing mask", "zh": "依醫囑使用再呼吸面罩"},
+      {"en": "Encourage the client to breathe as deeply and rapidly as possible", "zh": "鼓勵病人盡可能深而快地呼吸"},
+      {"en": "Provide calm reassurance and emotional support", "zh": "提供冷靜的安撫與情緒支持"},
+      {"en": "Administer supplemental oxygen at a high flow rate", "zh": "給予高流量的補充氧氣"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Respiratory alkalosis from hyperventilation is managed by encouraging appropriate (slower, controlled) breathing patterns, using prescribed breathing aids such as a paper bag or rebreathing mask to retain CO2, and providing emotional support and reassurance. Encouraging deeper, faster breathing or giving high-flow oxygen would worsen the alkalosis.", "zh": "過度換氣造成的呼吸性鹼中毒,應以引導病人採取適當(較緩慢、可控制)的呼吸型態來處理,並依醫囑使用紙袋或再呼吸面罩以保留CO2,同時提供情緒支持與安撫。鼓勵更深更快的呼吸或給予高流量氧氣都會使鹼中毒惡化。"},
+    "pdf_pages": [131],
+    "tags": ["sata", "generate solutions"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A PHCP prescribes an arterial blood gas (ABG) test for a client before a radial artery puncture. Which action demonstrates safe practice?", "zh": "醫療人員為病人開立動脈血氣(ABG)檢驗,將於橈動脈採血前執行。下列哪一項行動代表安全的執業方式?"},
+    "options": [
+      {"en": "The nurse delegates performing the Allen's test to a UAP to save time", "zh": "護理師將Allen氏測試委派給UAP執行以節省時間"},
+      {"en": "The respiratory therapist verifies collateral ulnar circulation with the Allen's test before the radial puncture", "zh": "呼吸治療師在橈動脈穿刺前,以Allen氏測試確認尺動脈側枝循環是否充足"},
+      {"en": "The sample is drawn immediately after the client finishes a session of airway suctioning", "zh": "在病人剛完成呼吸道抽痰後立即採血"},
+      {"en": "The oxygen therapy the client is receiving is not recorded on the laboratory requisition", "zh": "病人正在接受的氧氣治療未記錄在檢驗申請單上"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "In most facilities an ABG is drawn by a respiratory therapist, and the Allen's test (confirming adequate collateral circulation through the ulnar artery) is a clinical assessment that should be performed before radial puncture, not delegated to a UAP. Suctioning within the past 20 minutes can alter ABG results, and the client's temperature and type of oxygen therapy must always be recorded on the laboratory form.", "zh": "在大多數機構中,ABG由呼吸治療師採血,而Allen氏測試(確認尺動脈側枝循環是否充足)屬於臨床評估,須在橈動脈穿刺前完成,不應委派給UAP執行。過去20分鐘內抽痰會影響ABG結果,病人的體溫與氧氣治療方式也必須永遠記錄在檢驗單上。"},
+    "pdf_pages": [133],
+    "tags": ["delegation", "safe practice"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with diabetic ketoacidosis has deep, rapid respirations; a fruity breath odor; and ABG results of pH 7.22, PaCO2 30 mm Hg, and HCO3 14 mEq/L (14 mmol/L). The nurse recognizes the deep, rapid respirations as which compensatory mechanism?", "zh": "一位糖尿病酮酸血症病人出現深而快的呼吸、水果味呼吸氣味,動脈血氣結果為pH 7.22、PaCO2 30 mmHg、HCO3 14 mEq/L(14 mmol/L)。護理師應將此深而快的呼吸辨識為下列哪一種代償機制?"},
+    "options": [
+      {"en": "Kussmaul's respirations, the lungs' attempt to exhale excess acid and compensate for metabolic acidosis", "zh": "Kussmaul氏呼吸,是肺部嘗試呼出過多酸性物質以代償代謝性酸中毒"},
+      {"en": "Cheyne-Stokes respirations, indicating brainstem dysfunction", "zh": "Cheyne-Stokes呼吸,代表腦幹功能異常"},
+      {"en": "Biot's respirations, indicating increased intracranial pressure", "zh": "Biot氏呼吸,代表顱內壓升高"},
+      {"en": "A normal respiratory pattern unrelated to the client's acid-base status", "zh": "與病人酸鹼狀態無關的正常呼吸型態"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Kussmaul's respirations are abnormally deep and rapid respirations that occur as a compensatory response in metabolic acidosis, such as diabetic ketoacidosis, as the lungs attempt to blow off carbon dioxide to raise the pH.", "zh": "Kussmaul氏呼吸是異常深而快的呼吸,是代謝性酸中毒(如糖尿病酮酸血症)時的代償反應,肺部藉由排出二氧化碳來提升pH值。"},
+    "pdf_pages": [132, 136],
+    "tags": ["recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who is found unresponsive has arterial blood gases drawn, with results of pH 7.15, PaCO2 92 mm Hg, and HCO3 24 mEq/L (24 mmol/L). The nurse interprets these results as indicating which condition?", "zh": "一位被發現失去反應的病人接受動脈血氣檢查,結果為pH 7.15、PaCO2 92 mmHg、HCO3 24 mEq/L(24 mmol/L)。護理師應將此結果判讀為下列哪一種狀況?"},
+    "options": [
+      {"en": "Metabolic acidosis with compensation", "zh": "代謝性酸中毒併代償"},
+      {"en": "Respiratory acidosis with compensation", "zh": "呼吸性酸中毒併代償"},
+      {"en": "Metabolic acidosis without compensation", "zh": "代謝性酸中毒未代償"},
+      {"en": "Respiratory acidosis without compensation", "zh": "呼吸性酸中毒未代償"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "The decreased pH with an elevated PaCO2 reflects an opposite relationship, indicating a respiratory problem (acidosis). Because the HCO3 is still within the normal range (21-28 mEq/L), the kidneys have not yet had time to compensate, so this is respiratory acidosis without compensation.", "zh": "pH下降合併PaCO2升高,呈現相反關係,代表為呼吸性問題(酸中毒)。由於HCO3仍在正常範圍內(21-28 mEq/L),腎臟尚未有時間進行代償,因此判讀為呼吸性酸中毒未代償。"},
+    "pdf_pages": [133, 134],
+    "tags": ["labs", "acid-base interpretation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with chronic kidney disease has ABG results of pH 7.26, PaCO2 38 mm Hg, and HCO3 16 mEq/L (16 mmol/L), consistent with metabolic acidosis. Which additional laboratory value is the nurse's priority to monitor closely?", "zh": "一位慢性腎病病人的動脈血氣結果為pH 7.26、PaCO2 38 mmHg、HCO3 16 mEq/L(16 mmol/L),符合代謝性酸中毒。護理師應優先密切監測下列哪一項額外的檢驗值?"},
+    "options": [
+      {"en": "Serum potassium", "zh": "血清鉀"},
+      {"en": "Serum calcium", "zh": "血清鈣"},
+      {"en": "Serum magnesium", "zh": "血清鎂"},
+      {"en": "Serum phosphorus", "zh": "血清磷"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "During acidosis, hydrogen ions move into the cells and potassium moves out to maintain electrical neutrality, creating a relative hyperkalemia that can cause life-threatening dysrhythmias or cardiac arrest. Potassium is the priority value to monitor closely in any acid-base imbalance.", "zh": "酸中毒時氫離子移入細胞內,鉀離子則移出細胞以維持電中性,形成相對性高血鉀,可能導致致命性心律不整甚至心臟停止。因此鉀是任何酸鹼失衡時優先密切監測的數值。"},
+    "pdf_pages": [129, 130],
+    "tags": ["priority", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with severe respiratory alkalosis develops numbness, tingling, and a carpal spasm when a blood pressure cuff is inflated on the arm (positive Trousseau's sign). Which medication should the nurse anticipate administering?", "zh": "一位嚴重呼吸性鹼中毒的病人出現手足麻木、刺痛,且在手臂上充氣血壓計袖帶時出現腕部痙攣(Trousseau氏徵象陽性)。護理師應預期需給予下列哪一種藥物?"},
+    "options": [
+      {"en": "Calcium gluconate", "zh": "葡萄糖酸鈣(calcium gluconate)"},
+      {"en": "Potassium chloride", "zh": "氯化鉀"},
+      {"en": "Sodium bicarbonate", "zh": "碳酸氫鈉"},
+      {"en": "Furosemide", "zh": "furosemide(利尿劑)"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Respiratory alkalosis can cause a decrease in ionized calcium, producing tetany with a positive Trousseau's sign. The nurse should anticipate administering calcium gluconate, as prescribed, to relieve tetany.", "zh": "呼吸性鹼中毒可導致離子鈣下降,出現抽搦與Trousseau氏徵象陽性。護理師應預期依醫囑給予葡萄糖酸鈣以緩解抽搦。"},
+    "pdf_pages": [131],
+    "tags": ["dosage calc", "intervention"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A postoperative client reports incisional pain and is breathing rapidly at 28 breaths/min. The client also has a nasogastric tube to suction that has drained 600 mL of gastric contents in 6 hours. The nurse recognizes that this client is at risk for which acid-base disturbance?", "zh": "一位術後病人抱怨傷口疼痛,呼吸速率快,每分鐘28次。此病人同時接有鼻胃管抽吸,6小時內已引流出600 mL胃液。護理師應辨識此病人有發生下列哪一種酸鹼失衡的風險?"},
+    "options": [
+      {"en": "A mixed respiratory and metabolic alkalosis from hyperventilation and gastric acid loss", "zh": "因過度換氣與胃酸流失導致的混合性呼吸性與代謝性鹼中毒"},
+      {"en": "A mixed respiratory and metabolic acidosis", "zh": "混合性呼吸性與代謝性酸中毒"},
+      {"en": "An isolated respiratory acidosis from hypoventilation", "zh": "單純因通氣不足造成的呼吸性酸中毒"},
+      {"en": "An isolated metabolic acidosis from gastric losses", "zh": "單純因胃液流失造成的代謝性酸中毒"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Hyperventilation from postoperative pain causes respiratory alkalosis, and loss of hydrochloric acid through nasogastric suction causes metabolic alkalosis. When both occur together, the client has a mixed acid-base disorder, and the pH will reflect the combined effect of both processes.", "zh": "術後疼痛造成過度換氣,導致呼吸性鹼中毒;鼻胃管抽吸流失鹽酸則導致代謝性鹼中毒。兩者同時發生時,病人即出現混合性酸鹼失衡,其pH值會反映兩種機制的加成效應。"},
+    "pdf_pages": [134],
+    "tags": ["mixed disorder", "analyze cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews a client's arterial blood gas results: pH 7.48, PaCO2 44 mm Hg, and HCO3 32 mEq/L (32 mmol/L). Using the relationship between the pH and each value, how should the nurse classify this result?", "zh": "護理師查看病人的動脈血氣結果:pH 7.48、PaCO2 44 mmHg、HCO3 32 mEq/L(32 mmol/L)。依據pH與各數值之間的關係,護理師應將此結果判讀為何?"},
+    "options": [
+      {"en": "Respiratory alkalosis", "zh": "呼吸性鹼中毒"},
+      {"en": "Metabolic alkalosis", "zh": "代謝性鹼中毒"},
+      {"en": "Respiratory acidosis", "zh": "呼吸性酸中毒"},
+      {"en": "Metabolic acidosis", "zh": "代謝性酸中毒"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The pH is elevated, indicating alkalosis. The PaCO2 is within the normal range (35-45 mm Hg), so there is no opposite relationship to suggest a respiratory problem. The HCO3 is elevated, which corresponds with the elevated pH, indicating a metabolic alkalosis.", "zh": "pH升高代表鹼中毒。PaCO2仍在正常範圍內(35-45 mmHg),未呈現與pH相反的關係,因此不是呼吸性問題。HCO3升高則與升高的pH呈對應關係,代表代謝性鹼中毒。"},
+    "pdf_pages": [133, 134],
+    "tags": ["labs", "acid-base interpretation"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is teaching a client with chronic obstructive pulmonary disease about measures to reduce the risk of worsening respiratory acidosis at home. Which statement by the client indicates a need for further teaching?", "zh": "護理師正在教導一位慢性阻塞性肺病病人,學習如何在家中降低呼吸性酸中毒惡化的風險。病人的下列哪一句話表示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will use pursed-lip breathing when I feel short of breath.\"", "zh": "「當我感到呼吸困難時,我會使用吸管式(pursed-lip)呼吸法。」"},
+      {"en": "\"I will take my prescribed bronchodilator inhaler on schedule.\"", "zh": "「我會按時使用醫囑開立的支氣管擴張劑吸入器。」"},
+      {"en": "\"If I feel anxious or can't sleep, I can take my neighbor's leftover sleeping pills.\"", "zh": "「如果我感到焦慮或睡不著,我可以吃鄰居剩下的安眠藥。」"},
+      {"en": "\"I will contact my provider if I notice increased confusion or excessive sleepiness.\"", "zh": "「如果我發現意識混亂加重或異常嗜睡,我會聯絡我的醫療人員。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Sedative and hypnotic medications depress the respiratory center and can worsen hypoventilation and respiratory acidosis in a client with COPD; taking an unprescribed medication borrowed from someone else is also unsafe. Increased confusion or excessive sleepiness can be an early sign of worsening respiratory acidosis and should be reported promptly.", "zh": "鎮靜安眠藥會抑制呼吸中樞,可能使慢性阻塞性肺病病人的通氣不足與呼吸性酸中毒惡化;服用他人未經醫囑開立的藥物也不安全。意識混亂加重或異常嗜睡可能是呼吸性酸中毒惡化的早期徵象,應及時報告。"},
+    "pdf_pages": [130, 131],
+    "tags": ["teaching", "need further teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse reviews arterial blood gas results for four clients. Which result requires the most immediate nursing attention?", "zh": "護理師查看四位病人的動脈血氣結果。下列哪一項結果需要護理師最立即的關注?"},
+    "options": [
+      {"en": "pH 7.33, PaCO2 48 mm Hg, HCO3 25 mEq/L (25 mmol/L)", "zh": "pH 7.33、PaCO2 48 mmHg、HCO3 25 mEq/L(25 mmol/L)"},
+      {"en": "pH 7.11, PaCO2 68 mm Hg, HCO3 22 mEq/L (22 mmol/L)", "zh": "pH 7.11、PaCO2 68 mmHg、HCO3 22 mEq/L(22 mmol/L)"},
+      {"en": "pH 7.36, PaCO2 42 mm Hg, HCO3 23 mEq/L (23 mmol/L)", "zh": "pH 7.36、PaCO2 42 mmHg、HCO3 23 mEq/L(23 mmol/L)"},
+      {"en": "pH 7.44, PaCO2 38 mm Hg, HCO3 26 mEq/L (26 mmol/L)", "zh": "pH 7.44、PaCO2 38 mmHg、HCO3 26 mEq/L(26 mmol/L)"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A pH of 7.11 with a markedly elevated PaCO2 represents severe, uncompensated respiratory acidosis approaching a life-threatening range (the normal pH range for survival is roughly 6.8 to 7.8, with death occurring at the extremes). The other results are only mildly abnormal or within normal limits.", "zh": "pH 7.11合併明顯升高的PaCO2,代表嚴重且未代償的呼吸性酸中毒,已接近危及生命的範圍(可存活的pH大約在6.8至7.8之間,超出此範圍可能致命)。其餘結果僅輕度異常或仍在正常範圍內。"},
+    "pdf_pages": [129],
+    "tags": ["priority", "labs"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "After drawing an arterial blood gas specimen, which action should the nurse take to help ensure accurate results?", "zh": "抽取動脈血氣檢體後,護理師應採取下列哪一項行動以確保結果準確?"},
+    "options": [
+      {"en": "Expel any air bubbles from the syringe, label the specimen, and transport it on ice to the laboratory immediately", "zh": "排除注射器內的空氣,標示檢體,並立即以冰浴運送至檢驗室"},
+      {"en": "Allow the specimen to sit at room temperature for 15 minutes before transport", "zh": "讓檢體在室溫下放置15分鐘後再運送"},
+      {"en": "Apply pressure to the puncture site for only 30 seconds", "zh": "在穿刺部位僅加壓30秒"},
+      {"en": "Leave air in the syringe to prevent the specimen from clotting", "zh": "在注射器內留一些空氣以防止檢體凝固"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Air entering the syringe can alter arterial blood gas analysis, so any air must be expelled; the specimen should be properly labeled and transported on ice to the laboratory right away. Pressure is held at the puncture site for 5 minutes (10 minutes if the client takes an anticoagulant) to prevent a hematoma, not just 30 seconds.", "zh": "空氣進入注射器會改變動脈血氣分析結果,因此須排除空氣;檢體須正確標示並立即以冰浴運送至檢驗室。穿刺部位應加壓5分鐘(服用抗凝血劑者為10分鐘)以預防血腫,而非僅30秒。"},
+    "pdf_pages": [133],
+    "tags": ["lab collection", "procedure"]
+  }
+]

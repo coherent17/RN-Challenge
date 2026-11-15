@@ -1,0 +1,200 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who began fluoxetine 3 weeks ago now takes an over-the-counter cold remedy for a cough and reports agitation, tremor, diaphoresis, and diarrhea, and is found to have hyperreflexia and a temperature of 101.8°F (38.8°C). What should the nurse suspect?", "zh": "個案 3 週前開始服用 fluoxetine，近日自行服用非處方感冒藥緩解咳嗽，出現躁動、顫抖、冒汗、腹瀉，並有反射亢進及體溫 101.8°F（38.8°C）。護理師應懷疑為何？"},
+    "options": [
+      {"en": "Serotonin syndrome", "zh": "血清素症候群"},
+      {"en": "Neuroleptic malignant syndrome", "zh": "抗精神病藥惡性症候群"},
+      {"en": "Hypertensive crisis", "zh": "高血壓危象"},
+      {"en": "Discontinuation syndrome", "zh": "停藥症候群"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Serotonin syndrome occurs when an SSRI is combined with another serotonergic agent, including many OTC cold preparations. Agitation, tremor, hyperreflexia, diaphoresis, fever, and GI upset are classic findings; the drug should be stopped and the provider notified immediately. NMS occurs with antipsychotics and features lead-pipe rigidity rather than hyperreflexia; hypertensive crisis is an MAOI-tyramine reaction; discontinuation syndrome follows abrupt stopping, not combining drugs.", "zh": "血清素症候群發生於 SSRI 併用其他含血清素作用之藥物，包括許多非處方感冒藥。躁動、顫抖、反射亢進、冒汗、發燒及腸胃不適為典型表現，須立即停藥並通知醫師。NMS 發生於抗精神病藥，表現為鉛管樣僵硬而非反射亢進；高血壓危象為 MAOI 與酪胺反應；停藥症候群則是驟停藥物所致，非併用藥物引起。"},
+    "pdf_pages": [1106, 1107],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking lithium carbonate has a serum lithium level of 2.3 mEq/L. Which finding would the nurse expect?", "zh": "服用碳酸鋰的個案血中鋰濃度為 2.3 mEq/L。護理師預期會出現下列哪項發現？"},
+    "options": [
+      {"en": "Fine hand tremor and polyuria", "zh": "手部細微顫抖與多尿"},
+      {"en": "Mild nausea and soft stools", "zh": "輕微噁心與軟便"},
+      {"en": "Nystagmus, hyperreflexia, and seizures", "zh": "眼球震顫、反射亢進及抽搐"},
+      {"en": "Weight gain and goiter", "zh": "體重增加與甲狀腺腫"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A level above 2.0 mEq/L reflects severe lithium toxicity, which presents with nystagmus, fasciculations, hyperreflexia, oliguria, seizures, and coma. The other options describe expected adverse effects at therapeutic levels (0.6-1.2 mEq/L) or early/moderate toxicity (1.5-2.0 mEq/L).", "zh": "濃度超過 2.0 mEq/L 屬嚴重鋰中毒，表現為眼球震顫、肌束顫動、反射亢進、少尿、抽搐及昏迷。其他選項為治療濃度（0.6–1.2 mEq/L）之預期副作用或輕中度中毒（1.5–2.0 mEq/L）表現。"},
+    "pdf_pages": [1109, 1110],
+    "tags": ["red flag", "labs"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which statements by a client newly prescribed phenelzine indicate a need for further teaching? Select all that apply.", "zh": "新開始服用 phenelzine 的個案下列哪些陳述顯示需要進一步衛教？（複選）"},
+    "options": [
+      {"en": "\"I will avoid aged cheese and red wine.\"", "zh": "「我會避免陳年乳酪與紅酒。」"},
+      {"en": "\"I can take a decongestant if I get a cold.\"", "zh": "「如果感冒我可以服用鼻充血劑。」"},
+      {"en": "\"I should rise slowly from sitting to standing.\"", "zh": "「我應該緩慢從坐姿站起。」"},
+      {"en": "\"If I get a severe headache and stiff neck, I should call my provider right away.\"", "zh": "「如果我出現劇烈頭痛及頸部僵硬，應立即聯絡醫師。」"},
+      {"en": "\"It's fine to stop the medication on my own once I feel better.\"", "zh": "「一旦感覺好轉，我可以自行停藥。」"}
+    ],
+    "answer": [1, 4],
+    "rationale": {"en": "MAOIs combined with decongestants/sympathomimetics can precipitate a hypertensive crisis, and abrupt discontinuation is unsafe (requires gradual tapering); both statements require further teaching. Avoiding tyramine foods, rising slowly for orthostatic hypotension, and reporting severe headache/neck stiffness (hypertensive crisis warning signs) are correct understandings.", "zh": "MAOI 併用鼻充血劑／擬交感藥可誘發高血壓危象，且不可自行驟停（須逐步減藥），這兩項陳述皆需進一步衛教。避免高酪胺食物、因姿勢性低血壓緩慢改變姿勢、及通報劇烈頭痛與頸部僵硬（高血壓危象警訊）皆為正確認知。"},
+    "pdf_pages": [1108, 1109],
+    "tags": ["sata", "teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking haloperidol develops a temperature of 103.2°F (39.6°C), generalized muscle rigidity, blood pressure that fluctuates between 90/58 and 168/100 mm Hg, and a heart rate of 128/min. What is the nurse's priority action?", "zh": "服用 haloperidol 的個案出現體溫 103.2°F（39.6°C）、全身肌肉僵硬、血壓在 90/58 至 168/100 mm Hg 間波動、心率 128/min。護理師的首要行動為何？"},
+    "options": [
+      {"en": "Administer acetaminophen and reassess in 1 hour", "zh": "給予 acetaminophen 並於 1 小時後重新評估"},
+      {"en": "Withhold the next dose of haloperidol and notify the provider immediately", "zh": "暫停下一劑 haloperidol 並立即通知醫師"},
+      {"en": "Apply warm blankets and encourage oral fluids", "zh": "蓋上保暖毯並鼓勵口服補充水分"},
+      {"en": "Document the findings and continue to monitor every 4 hours", "zh": "記錄發現並每 4 小時持續監測"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These are classic findings of neuroleptic malignant syndrome, a rare but life-threatening reaction: hyperpyrexia, severe muscle rigidity, and autonomic instability (labile BP, tachycardia). The antipsychotic must be stopped and the provider notified immediately; cooling measures and IV fluids follow, not warming or oral intake, and this cannot wait for routine reassessment.", "zh": "此為抗精神病藥惡性症候群（NMS）之典型表現：高熱、嚴重肌肉僵硬、自律神經不穩（血壓波動、心搏過速），屬罕見但危及生命之反應。須立即停藥並通知醫師；隨後採降溫與靜脈輸液，而非保暖或口服補充，不可延後至常規評估。"},
+    "pdf_pages": [1113, 1114],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is started on clozapine for treatment-resistant schizophrenia. Which laboratory value is most important for the nurse to monitor throughout therapy?", "zh": "個案因難治型思覺失調症開始服用 clozapine。治療期間護理師最重要須監測哪項檢驗值？"},
+    "options": [
+      {"en": "Serum sodium", "zh": "血鈉"},
+      {"en": "White blood cell count", "zh": "白血球計數"},
+      {"en": "Serum creatinine", "zh": "血清肌酸酐"},
+      {"en": "Platelet count", "zh": "血小板計數"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Clozapine carries a risk of agranulocytosis; the WBC count must be monitored regularly throughout treatment, and therapy is interrupted if the count falls below about 3000/mm3. Clients are taught to report sore throat, fever, or malaise immediately.", "zh": "clozapine 有引起顆粒性白血球缺乏之風險，治療期間須定期監測白血球計數，若低於約 3000/mm3 須中斷治療。衛教個案立即通報喉嚨痛、發燒或不適。"},
+    "pdf_pages": [1113],
+    "tags": ["labs", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client has taken alprazolam 0.5 mg three times a day for 4 months and now reports it is \"not helping with sleep anymore\" and asks to double the dose on her own. What is the best response by the nurse?", "zh": "個案 4 個月來每日三次服用 0.5 mg alprazolam，現訴說「已經沒辦法幫助睡眠」並要求自行將劑量加倍。護理師最佳回應為何？"},
+    "options": [
+      {"en": "\"That's a reasonable plan since you have tolerated the medication well.\"", "zh": "「這是合理的做法，因為你一直耐受良好。」"},
+      {"en": "\"Benzodiazepines should not be increased on your own; this needs to be discussed with your provider, who may taper rather than increase the dose.\"", "zh": "「苯二氮平類不可自行增量，需與醫師討論，醫師可能會減量而非加量。」"},
+      {"en": "\"You can safely double it for a few nights and then go back to the regular dose.\"", "zh": "「你可以安全地加倍服用幾晚，再回到原劑量。」"},
+      {"en": "\"Stop the medication tonight and restart tomorrow at a lower dose.\"", "zh": "「今晚先停藥，明天再以較低劑量重新開始。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Benzodiazepines are intended for short-term use; tolerance and dependence can develop with prolonged use, and dose changes must be prescriber-directed. Self-adjusting the dose risks oversedation, falls, and dependence; abrupt stopping after months of use risks seizures, so the client should not stop on her own either.", "zh": "苯二氮平類應短期使用，長期使用可能產生耐受性與依賴，劑量調整須由醫師決定。自行加量有過度鎮靜、跌倒及依賴風險；長期使用後驟停亦可能致抽搐，故不應自行停藥。"},
+    "pdf_pages": [1110, 1111],
+    "tags": ["therapeutic communication", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client who overdosed on diazepam is given flumazenil IV. Which assessment finding requires the nurse's immediate attention after administration?", "zh": "個案因 diazepam 過量接受靜脈注射 flumazenil。給藥後哪項評估發現需要護理師立即處理？"},
+    "options": [
+      {"en": "Mild drowsiness that resolves within 5 minutes", "zh": "5 分鐘內緩解的輕微嗜睡"},
+      {"en": "New-onset seizure activity", "zh": "新發生的抽搐"},
+      {"en": "Blood pressure of 118/76 mm Hg", "zh": "血壓 118/76 mm Hg"},
+      {"en": "Respiratory rate of 16/min", "zh": "呼吸速率 16/min"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Flumazenil can precipitate seizures, especially in clients who are benzodiazepine-dependent or who ingested a mixed overdose, and this requires immediate intervention. The other findings are within normal or expected limits.", "zh": "flumazenil 可能誘發抽搐，尤其在苯二氮平依賴者或混合藥物過量個案，須立即處理。其餘發現屬正常或預期範圍。"},
+    "pdf_pages": [1111],
+    "tags": ["antidote", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nurse is preparing to administer a dose of lithium carbonate. Which finding would be most important to report to the provider before giving the dose?", "zh": "護理師準備給予一劑碳酸鋰前，發現下列何項最需要通報醫師？"},
+    "options": [
+      {"en": "The client reports three episodes of vomiting and watery diarrhea overnight", "zh": "個案報告整晚嘔吐 3 次並有水樣腹瀉"},
+      {"en": "The client's hands show a fine tremor at rest", "zh": "個案雙手出現靜止性細微顫抖"},
+      {"en": "The client reports increased thirst and voiding every 2 hours", "zh": "個案訴口渴增加且每 2 小時解尿"},
+      {"en": "The client gained 1.5 kg over the past month", "zh": "個案過去一個月增重 1.5 公斤"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Vomiting and diarrhea cause fluid and sodium loss, which raises the serum lithium level and increases toxicity risk; this should be reported before the next dose is given. Fine tremor, polyuria/polydipsia, and modest weight gain are expected adverse effects at therapeutic levels.", "zh": "嘔吐與腹瀉造成體液與鈉流失，使血中鋰濃度上升並增加中毒風險，應於下一劑給藥前通報。細微顫抖、多尿多渴及輕度體重增加為治療濃度下的預期副作用。"},
+    "pdf_pages": [1109, 1110],
+    "tags": ["priority", "labs"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client started on sertraline 10 days ago for major depressive disorder appears brighter, is cleaning her room, and tells the nurse she \"finally has the energy to get things done.\" What is the nurse's priority concern?", "zh": "10 天前因重度憂鬱症開始服用 sertraline 的個案，表情較開朗、開始整理房間，並告訴護理師「終於有精力把事情做完了」。護理師的首要關切為何？"},
+    "options": [
+      {"en": "The medication is not yet effective, so the mood change is likely unrelated", "zh": "藥物尚未見效，情緒改變應與藥物無關"},
+      {"en": "Increased energy before mood fully improves may indicate increased risk for acting on suicidal thoughts", "zh": "精力先於情緒改善可能提示自殺意念付諸行動的風險增加"},
+      {"en": "This indicates the dose should be increased immediately", "zh": "這表示應立即增加劑量"},
+      {"en": "This is an adverse reaction that requires stopping the drug", "zh": "這是不良反應，需要停藥"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Antidepressants often restore energy and motivation before mood and hopelessness fully improve, which can give a previously low-energy, suicidal client the means to act on a plan. Suicide risk should be closely assessed during this window, not dismissed as unrelated or treated as a reason to change the dose or stop the drug.", "zh": "抗憂鬱劑常先恢復精力與動力，情緒與無望感才隨後改善，這可能使原本缺乏精力的自殺個案獲得執行計畫的能力。此期間應密切評估自殺風險，而非視為無關或作為調整劑量、停藥的理由。"},
+    "pdf_pages": [1107, 1116],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking amitriptyline is brought to the emergency department after an intentional overdose 30 minutes ago. Which assessment is the nurse's priority?", "zh": "服用 amitriptyline 的個案於 30 分鐘前故意過量服藥，被送至急診。護理師的首要評估為何？"},
+    "options": [
+      {"en": "Serum drug level", "zh": "血中藥物濃度"},
+      {"en": "Cardiac rhythm and rate", "zh": "心律與心率"},
+      {"en": "Deep tendon reflexes", "zh": "深部肌腱反射"},
+      {"en": "Pupil size and reactivity", "zh": "瞳孔大小與反應"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "TCA overdose is cardiotoxic and can cause life-threatening dysrhythmias; continuous cardiac monitoring and ECG are priorities, along with airway and oxygenation. Activated charcoal/lavage may still be useful within 2 hours of ingestion.", "zh": "TCA 過量具心臟毒性，可致危及生命的心律不整；持續心電監視與心電圖為首要，並同時維持呼吸道與給氧。服藥 2 小時內仍可考慮活性碳／洗胃。"},
+    "pdf_pages": [1107],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in a medically supervised alcohol withdrawal program is receiving chlordiazepoxide on a symptom-triggered schedule. Which finding would most support the need for the next scheduled dose?", "zh": "個案於醫療監督下接受酒精戒斷治療，依症狀給予 chlordiazepoxide。下列哪項發現最支持需要給予下一劑？"},
+    "options": [
+      {"en": "Blood pressure 118/74 mm Hg, pulse 76/min, mild hand tremor", "zh": "血壓 118/74 mm Hg、脈搏 76/min、輕微手抖"},
+      {"en": "Blood pressure 162/98 mm Hg, pulse 112/min, visual hallucinations, and agitation", "zh": "血壓 162/98 mm Hg、脈搏 112/min、視幻覺及躁動"},
+      {"en": "Blood pressure 110/70 mm Hg, pulse 68/min, client resting quietly", "zh": "血壓 110/70 mm Hg、脈搏 68/min、個案安靜休息"},
+      {"en": "Client reports mild nausea without vomiting", "zh": "個案訴輕微噁心但無嘔吐"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rising blood pressure and pulse, hallucinations, and agitation signal worsening autonomic hyperactivity and risk for seizures or delirium tremens; a benzodiazepine dose is indicated. The other findings reflect stable or minimal symptoms.", "zh": "血壓與脈搏上升、幻覺及躁動提示自律神經過度活躍惡化，有抽搐或震顫性譫妄風險，應給予苯二氮平類藥物。其餘發現屬穩定或輕微症狀。"},
+    "pdf_pages": [1114],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving disulfiram therapy for alcohol use disorder asks the nurse which product is safe to use. Which should the nurse advise the client to avoid? Select all that apply.", "zh": "接受 disulfiram 治療酒精使用障礙的個案詢問護理師哪些產品可安全使用。護理師應提醒個案避免下列哪些產品？（複選）"},
+    "options": [
+      {"en": "Alcohol-based mouthwash", "zh": "含酒精之漱口水"},
+      {"en": "Cough syrup containing alcohol", "zh": "含酒精之咳嗽糖漿"},
+      {"en": "Distilled water", "zh": "蒸餾水"},
+      {"en": "Vinegar-based salad dressing", "zh": "含醋之沙拉醬"},
+      {"en": "Plain cooked rice", "zh": "白米飯"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Disulfiram causes a severe reaction (flushing, throbbing headache, nausea, vomiting, hypotension, tachycardia) with even small amounts of alcohol, including hidden sources such as mouthwash, cough syrup, vinegar, and aftershave. Plain water and plain rice contain no alcohol.", "zh": "disulfiram 即使接觸少量酒精（包括漱口水、咳嗽糖漿、醋、刮鬍水等隱藏來源）亦會引起嚴重反應（臉潮紅、搏動性頭痛、噁心嘔吐、低血壓、心搏過速）。白開水與白米飯不含酒精。"},
+    "pdf_pages": [1114],
+    "tags": ["sata", "teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A nurse is teaching a parent about giving methylphenidate to a 9-year-old with ADHD. Which instruction is correct?", "zh": "護理師衛教家長為 9 歲 ADHD 兒童服用 methylphenidate。下列哪項指導正確？"},
+    "options": [
+      {"en": "\"Give the last dose right before bedtime to help him settle down.\"", "zh": "「睡前給最後一劑以幫助他安定下來。」"},
+      {"en": "\"Give the last dose of an immediate-release tablet at least 6 hours before bedtime.\"", "zh": "「即釋劑型最後一劑應於睡前至少 6 小時給予。」"},
+      {"en": "\"Double the dose if he seems hyperactive in the afternoon.\"", "zh": "「如果他下午顯得過動，可以把劑量加倍。」"},
+      {"en": "\"This medication typically causes drowsiness, so monitor for oversedation.\"", "zh": "「這個藥通常會引起嗜睡，請留意過度鎮靜。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "CNS stimulants should be given at least 6 hours before bedtime (14 hours for extended-release) to prevent insomnia; they are stimulants, not sedatives, and the dose should never be adjusted by a parent without provider guidance.", "zh": "中樞刺激劑應於睡前至少 6 小時給藥（長效劑型 14 小時）以避免失眠；此類藥物為刺激劑而非鎮靜劑，劑量不可由家長自行調整。"},
+    "pdf_pages": [1115],
+    "tags": ["teaching", "dosage"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with mild Alzheimer disease is prescribed rivastigmine. Which instruction should the nurse include?", "zh": "輕度阿茲海默症個案開始服用 rivastigmine。護理師應給予下列哪項指導？"},
+    "options": [
+      {"en": "Take the medication on an empty stomach each morning", "zh": "每天早晨空腹服用"},
+      {"en": "Take the medication with food to reduce nausea and vomiting", "zh": "隨餐服用以減少噁心嘔吐"},
+      {"en": "Expect significant weight gain during therapy", "zh": "預期治療期間會明顯增重"},
+      {"en": "This medication will reverse the underlying disease process", "zh": "此藥能逆轉潛在的疾病進程"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rivastigmine should be given with food to minimize nausea, vomiting, diarrhea, and anorexia, which commonly cause weight loss rather than weight gain. Cholinesterase inhibitors slow symptom progression but do not reverse or cure the disease.", "zh": "rivastigmine 應隨餐服用以減輕噁心、嘔吐、腹瀉與食慾不振，這些副作用常造成體重下降而非增加。膽鹼酯酶抑制劑可延緩症狀進展，但無法逆轉或治癒疾病。"},
+    "pdf_pages": [1115, 1116],
+    "tags": ["teaching"]
+  }
+]

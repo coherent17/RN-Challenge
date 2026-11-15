@@ -1,0 +1,241 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with a gastric ulcer is prescribed sucralfate 1 gram orally 4 times daily. The nurse should schedule the doses for which times?", "zh": "一位胃潰瘍病人開立 sucralfate 每次1公克，每日4次口服。護理師應將給藥時間排在何時？"},
+    "options": [
+      {"en": "With each meal and at bedtime", "zh": "隨三餐與睡前服用"},
+      {"en": "Every 6 hours around the clock", "zh": "每6小時給藥一次，全日不間斷"},
+      {"en": "One hour after meals and at bedtime", "zh": "三餐後1小時與睡前服用"},
+      {"en": "One hour before meals and at bedtime", "zh": "三餐前1小時與睡前服用"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Sucralfate must be given on an empty stomach, about 1 hour before meals and at bedtime, so it can form a protective coating over the ulcer before food stimulates acid production and mechanical irritation.", "zh": "sucralfate須於空腹時服用，約在三餐前1小時與睡前，使其能在食物刺激胃酸分泌與機械性刺激之前於潰瘍表面形成保護膜。"},
+    "pdf_pages": [744],
+    "tags": ["medication safety", "dosage calc"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "An older client has been taking cimetidine for 2 weeks for peptic ulcer disease. The spouse reports the client has become increasingly confused and agitated over the past 2 days. Which action should the nurse take first?", "zh": "一位老年病人已服用 cimetidine 治療消化性潰瘍2週。配偶表示病人過去2天意識逐漸混亂且躁動。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Reassure the spouse that confusion is unrelated to the medication", "zh": "向配偶保證意識混亂與藥物無關"},
+      {"en": "Document the finding and reassess in 24 hours", "zh": "記錄此發現並於24小時後再評估"},
+      {"en": "Notify the primary health care provider of the change in mental status", "zh": "通知醫師此意識狀態的改變"},
+      {"en": "Administer an as-needed sedative to calm the client", "zh": "給予 PRN 鎮靜劑讓病人平靜"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Cimetidine crosses the blood-brain barrier and older adults are especially susceptible to CNS effects such as confusion and agitation; a new change in mental status should be reported promptly rather than masked with sedation.", "zh": "cimetidine會通過血腦屏障，老年病人特別容易出現中樞神經系統不良反應，如意識混亂與躁動；新出現的意識狀態改變應盡快報告，而非以鎮靜劑掩蓋。"},
+    "pdf_pages": [745],
+    "tags": ["red flag", "priority"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who takes warfarin for atrial fibrillation is newly prescribed cimetidine for heartburn. Which action is most important for the nurse to take?", "zh": "一位因心房顫動服用 warfarin 的病人新開立 cimetidine 治療燒心。護理師最重要應採取哪項行動？"},
+    "options": [
+      {"en": "Monitor the international normalized ratio (INR) more closely because cimetidine can increase warfarin levels", "zh": "更密切監測國際標準化比值（INR），因 cimetidine 可能提高 warfarin 濃度"},
+      {"en": "Tell the client no interaction occurs between these medications", "zh": "告知病人這兩種藥物之間沒有交互作用"},
+      {"en": "Advise the client to take both medications at the exact same time each day", "zh": "建議病人每天在完全相同的時間一起服用兩種藥物"},
+      {"en": "Discontinue the warfarin while cimetidine therapy continues", "zh": "在使用 cimetidine 期間停用 warfarin"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cimetidine inhibits hepatic drug-metabolizing enzymes and can raise levels of warfarin, phenytoin, theophylline, and lidocaine; closer monitoring and possible dose reduction of these medications is needed.", "zh": "cimetidine會抑制肝臟藥物代謝酵素，可能提高 warfarin、phenytoin、theophylline 與 lidocaine 的血中濃度，須更密切監測並可能需調降這些藥物劑量。"},
+    "pdf_pages": [745],
+    "tags": ["medication safety", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with gastroesophageal reflux disease has a new prescription for metoclopramide. Which finding in the client's history would be most important for the nurse to clarify with the prescriber before the first dose?", "zh": "一位胃食道逆流病人新開立 metoclopramide 處方。護理師在首次給藥前，哪項病史最重要須與開方者確認？"},
+    "options": [
+      {"en": "A history of seasonal allergic rhinitis", "zh": "季節性過敏性鼻炎病史"},
+      {"en": "A recent bowel perforation with suspected mechanical obstruction", "zh": "近期發生腸道穿孔並疑有機械性腸阻塞"},
+      {"en": "Mild intermittent constipation", "zh": "輕微間歇性便秘"},
+      {"en": "A history of seasickness", "zh": "暈船病史"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Metoclopramide is a GI stimulant and is contraindicated in clients with mechanical obstruction, perforation, or GI hemorrhage because increasing motility in these conditions can worsen the injury.", "zh": "metoclopramide為腸胃蠕動刺激劑，於機械性阻塞、穿孔或消化道出血時屬禁忌，因增加蠕動可能使損傷惡化。"},
+    "pdf_pages": [745, 746],
+    "tags": ["medication safety", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving metoclopramide develops involuntary facial grimacing, tongue protrusion, and rigid, slow movements. Which action should the nurse take first?", "zh": "一位接受 metoclopramide 治療的病人出現不自主的臉部扭曲、舌頭外伸與僵直緩慢的動作。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Administer the next scheduled dose as prescribed", "zh": "依排定時間給予下一劑"},
+      {"en": "Document the findings and reassess at the end of the shift", "zh": "記錄此發現並於班次結束時再評估"},
+      {"en": "Withhold the next dose and notify the primary health care provider", "zh": "暫停下一劑並通知醫師"},
+      {"en": "Encourage the client to perform range-of-motion exercises", "zh": "鼓勵病人進行關節活動範圍運動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "These findings are consistent with extrapyramidal/parkinsonian reactions, a known adverse effect of metoclopramide; the medication should be withheld and the provider notified because it is typically discontinued when this occurs.", "zh": "這些發現符合錐體外症候群/類帕金森反應，為 metoclopramide 已知的不良反應；應暫停給藥並通知醫師，此藥通常於出現此情形時須停用。"},
+    "pdf_pages": [746],
+    "tags": ["red flag", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is prescribed misoprostol while taking long-term NSAID therapy for rheumatoid arthritis. Which statement by the client indicates understanding of this medication?", "zh": "一位長期因類風濕性關節炎使用NSAID的病人新增 misoprostol。病人的下列哪句話顯示其了解此藥物？"},
+    "options": [
+      {"en": "\"This medication will cure my arthritis.\"", "zh": "「這個藥能治癒我的關節炎。」"},
+      {"en": "\"This medication helps protect my stomach lining from the NSAID I take.\"", "zh": "「這個藥能幫助保護我的胃黏膜，不受我服用的NSAID影響。」"},
+      {"en": "\"I can stop my NSAID now that I am taking this medication.\"", "zh": "「現在吃這個藥，我就可以停用NSAID了。」"},
+      {"en": "\"I should take this medication only when my stomach hurts.\"", "zh": "「我只需要在胃痛的時候才吃這個藥。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Misoprostol is a gastric protectant given with meals specifically to prevent NSAID-induced gastric mucosal injury in clients who require ongoing NSAID therapy; it is taken regularly, not only for symptoms, and does not treat the arthritis itself.", "zh": "misoprostol為胃黏膜保護劑，隨餐服用，目的是預防需持續使用NSAID病人發生胃黏膜損傷；須規律服用，不只在有症狀時服用，也不治療關節炎本身。"},
+    "pdf_pages": [744],
+    "tags": ["medication safety", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is pregnant and reports chronic NSAID-related gastritis. Which prescribed medication would be most important for the nurse to question?", "zh": "一位懷孕病人表示有慢性NSAID相關胃炎。護理師最重要應質疑哪項處方藥物？"},
+    "options": [
+      {"en": "Misoprostol", "zh": "Misoprostol"},
+      {"en": "Famotidine", "zh": "Famotidine"},
+      {"en": "Sucralfate", "zh": "Sucralfate"},
+      {"en": "Calcium carbonate antacid", "zh": "碳酸鈣制酸劑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Misoprostol is contraindicated in pregnancy because it can stimulate uterine contractions and cause abortion; the nurse should question this prescription and clarify with the provider.", "zh": "Misoprostol於懷孕為禁忌，因其可刺激子宮收縮並導致流產，護理師應質疑此處方並與醫師確認。"},
+    "pdf_pages": [744],
+    "tags": ["medication safety", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client with biliary disease who has just been prescribed cholestyramine. Which statement by the client indicates a need for further instruction?", "zh": "護理師教導一位剛開始服用 cholestyramine 治療膽道疾病的病人。病人的下列哪句話顯示需要再加強教學？"},
+    "options": [
+      {"en": "\"This medication will help lower my cholesterol.\"", "zh": "「這個藥能幫助降低我的膽固醇。」"},
+      {"en": "\"I will continue taking my vitamin supplements as prescribed.\"", "zh": "「我會依處方持續服用維生素補充劑。」"},
+      {"en": "\"I can take this medication at any time along with my other pills.\"", "zh": "「我可以隨時與其他藥物一起服用這個藥。」"},
+      {"en": "\"A high-fiber diet is important while I take this medication.\"", "zh": "「服用此藥期間保持高纖飲食很重要。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Bile acid sequestrants can impair absorption of fat-soluble vitamins and reduce the absorption of many other medications; other drugs should be scheduled apart from cholestyramine, not taken together.", "zh": "膽酸結合劑會影響脂溶性維生素的吸收，並降低許多其他藥物的吸收，其他藥物應與 cholestyramine 分開服用，而非一起服用。"},
+    "pdf_pages": [746],
+    "tags": ["patient education"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client with cirrhosis and hepatic encephalopathy who is receiving lactulose. Which finding indicates the medication is producing the desired therapeutic effect?", "zh": "護理師照顧一位肝硬化合併肝性腦病變、使用 lactulose 的病人。哪一項發現顯示藥物已產生預期的治療效果？"},
+    "options": [
+      {"en": "The client has 2 to 3 soft stools per day and improved alertness", "zh": "病人每日2到3次軟便，且意識清醒度改善"},
+      {"en": "The client has no bowel movements for 3 days", "zh": "病人3天未排便"},
+      {"en": "The client's serum ammonia level rises from 75 to 110 mcg/dL", "zh": "病人血氨值由75升高至110 mcg/dL"},
+      {"en": "The client reports severe abdominal cramping with no stool passed", "zh": "病人表示嚴重腹部絞痛且無排便"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Lactulose promotes peristalsis and bowel evacuation to expel ammonia from the colon, lowering the serum ammonia level; soft, frequent stools with improved mental status indicate effective treatment, while a rising ammonia level or no stool output indicates the regimen is not working.", "zh": "lactulose促進腸蠕動與排便，將氨排出結腸以降低血氨值；排出軟便且意識改善代表治療有效，血氨值上升或無排便則代表療效不佳。"},
+    "pdf_pages": [746, 747],
+    "tags": ["labs", "evaluate outcomes"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is caring for a client with cirrhosis and hepatic encephalopathy receiving lactulose who now has 6 liquid stools in the past 8 hours. Which nursing actions are appropriate at this time? Select all that apply.", "zh": "護理師照顧一位肝硬化合併肝性腦病變、使用 lactulose 的病人，病人過去8小時已排水樣便6次。此時護理師應採取哪些行動？請選出所有適用項目。"},
+    "options": [
+      {"en": "Monitor intake and output and assess for signs of dehydration", "zh": "監測輸出入量並評估脫水徵象"},
+      {"en": "Assist the client to the bathroom or commode as needed", "zh": "依需要協助病人至浴室或便盆"},
+      {"en": "Immediately double the next dose of lactulose", "zh": "立即將下一劑lactulose加倍"},
+      {"en": "Provide perineal care after each bowel movement", "zh": "每次排便後提供會陰護理"},
+      {"en": "Withhold all oral fluids until the diarrhea resolves", "zh": "暫停所有口服水分攝取直到腹瀉緩解"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Diarrhea is the expected, desired response to lactulose because it indicates ammonia is being expelled; the nurse monitors for dehydration, assists with toileting and perineal/skin care, but does not arbitrarily increase the dose or withhold fluids without a prescriber order.", "zh": "腹瀉是lactulose的預期治療反應，代表氨正在排出；護理師應監測脫水徵象、協助如廁並提供會陰/皮膚護理，但不應自行加倍劑量或未經醫囑限制水分。"},
+    "pdf_pages": [746, 747],
+    "tags": ["sata", "basic care"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with chronic pancreatitis has begun therapy with pancrelipase. Which finding would indicate to the nurse that the medication is having its optimal intended effect?", "zh": "一位慢性胰臟炎病人開始使用 pancrelipase。哪一項發現顯示此藥物已達到最佳預期效果？"},
+    "options": [
+      {"en": "Resolution of heartburn", "zh": "燒心症狀消失"},
+      {"en": "Weight loss of 3 lb over 1 week", "zh": "一週內體重減輕3磅"},
+      {"en": "Reduction in the amount of fatty, foul-smelling stools", "zh": "油膩惡臭糞便的量減少"},
+      {"en": "Complete absence of abdominal pain", "zh": "完全無腹痛"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Pancrelipase supplements pancreatic enzymes to improve fat digestion; its intended benefit is reduced steatorrhea and improved nutritional status, not relief of heartburn, weight loss, or complete pain relief.", "zh": "pancrelipase補充胰臟酵素以改善脂肪消化；其預期效果為減少脂肪便（steatorrhea）並改善營養狀況，而非緩解燒心、造成體重減輕或完全止痛。"},
+    "pdf_pages": [747],
+    "tags": ["evaluate outcomes"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is reviewing the medication record of a client taking pancrelipase for chronic pancreatitis. Which other prescribed medication should the nurse recognize as a concern when scheduled at the same time?", "zh": "護理師審閱一位慢性胰臟炎病人使用 pancrelipase 的用藥記錄。若另一藥物與其安排在同一時間服用，護理師應注意哪項為問題？"},
+    "options": [
+      {"en": "A calcium carbonate antacid", "zh": "碳酸鈣制酸劑"},
+      {"en": "Acetaminophen", "zh": "Acetaminophen"},
+      {"en": "A multivitamin", "zh": "綜合維他命"},
+      {"en": "An oral iron supplement", "zh": "口服鐵劑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Products containing calcium carbonate or magnesium hydroxide interfere with the action of pancreatic enzyme replacements and should not be scheduled together.", "zh": "含碳酸鈣或氫氧化鎂成分的製劑會干擾胰臟酵素替代藥物的作用，不應安排於同一時間服用。"},
+    "pdf_pages": [747],
+    "tags": ["medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with gastroenteritis has an as-needed prescription for loperamide. For which finding would the nurse withhold the medication and notify the primary health care provider instead of administering it?", "zh": "一位腸胃炎病人開立 PRN loperamide。護理師在哪種情況下應暫停給藥並通知醫師，而非直接給藥？"},
+    "options": [
+      {"en": "A single episode of watery diarrhea", "zh": "單次水樣腹瀉"},
+      {"en": "Mild abdominal cramping with diarrhea", "zh": "輕微腹部絞痛併腹瀉"},
+      {"en": "Fever of 102°F (38.9°C) with bloody, mucoid diarrhea", "zh": "發燒102°F（38.9°C）併血性黏液便"},
+      {"en": "Diarrhea that began after starting a new antibiotic", "zh": "開始新抗生素後出現腹瀉"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Opioid antidiarrheals decrease intestinal motility; when diarrhea is caused by an infectious process (suggested by fever and bloody, mucoid stool), slowing elimination of the pathogen or toxin can worsen the condition, so the provider should be notified before administering.", "zh": "鴉片類止瀉劑會降低腸道蠕動；當腹瀉可能由感染造成（如發燒併血性黏液便所提示），延緩病原體或毒素排出可能使病情惡化，應先通知醫師再決定是否給藥。"},
+    "pdf_pages": [748],
+    "tags": ["medication safety", "red flag", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with gastroenteritis has an as-needed prescription for ondansetron. For which condition would the nurse administer this medication?", "zh": "一位腸胃炎病人開立 PRN ondansetron。護理師應在哪種情況下給予此藥物？"},
+    "options": [
+      {"en": "Urinary retention", "zh": "尿滯留"},
+      {"en": "Incisional pain", "zh": "傷口疼痛"},
+      {"en": "Nausea and vomiting", "zh": "噁心與嘔吐"},
+      {"en": "Paralytic ileus", "zh": "麻痺性腸阻塞"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Ondansetron is a serotonin antagonist antiemetic used to treat nausea and vomiting; it is not used for pain, urinary retention, or paralytic ileus.", "zh": "ondansetron為血清素拮抗劑類止吐藥，用於治療噁心與嘔吐；不用於疼痛、尿滯留或麻痺性腸阻塞。"},
+    "pdf_pages": [748],
+    "tags": ["medication safety"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is caring for a client who is receiving an antiemetic for severe nausea and vomiting. Which nursing action is the priority?", "zh": "護理師照顧一位因嚴重噁心嘔吐使用止吐藥的病人。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Limit the client's oral intake to clear liquids and protect the client from injury because of possible drowsiness", "zh": "限制病人僅攝取清流質，並因可能嗜睡而保護病人避免受傷"},
+      {"en": "Encourage a regular diet immediately to maintain nutrition", "zh": "立即鼓勵病人恢復正常飲食以維持營養"},
+      {"en": "Apply strong-scented lotion to the client's skin for comfort", "zh": "為病人塗抹氣味濃烈的乳液以增加舒適感"},
+      {"en": "Restrict the client's fluid intake until vomiting has completely resolved", "zh": "限制病人的水分攝取直到嘔吐完全緩解"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Many antiemetics cause drowsiness, so protecting the client from injury (e.g., falls) is a priority intervention; oral intake is limited to clear liquids and strong odors are avoided while nauseated, not strong-scented products.", "zh": "許多止吐藥會引起嗜睡，保護病人避免受傷（如跌倒）是優先措施；噁心期間應限制口服攝取為清流質並避免濃烈氣味，而非使用濃烈氣味產品。"},
+    "pdf_pages": [748],
+    "tags": ["safety", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with irritable bowel syndrome with constipation (IBS-C) is prescribed linaclotide. The nurse should instruct the client to take the medication at which time?", "zh": "一位便秘型腸躁症（IBS-C）病人開立 linaclotide。護理師應指導病人在何時服用此藥物？"},
+    "options": [
+      {"en": "30 minutes before breakfast on an empty stomach", "zh": "早餐前30分鐘，空腹服用"},
+      {"en": "With the largest meal of the day", "zh": "隨當天最大一餐服用"},
+      {"en": "At bedtime with a snack", "zh": "睡前隨點心服用"},
+      {"en": "Only when symptoms of constipation occur", "zh": "僅在便秘症狀出現時服用"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Linaclotide is taken once daily, 30 minutes before breakfast, to stimulate intestinal receptors and promote bowel transit time; it is taken on a regular schedule, not only as symptoms occur.", "zh": "linaclotide每日一次，於早餐前30分鐘服用，以刺激腸道受體並促進腸道蠕動；須規律服用，不只在症狀出現時服用。"},
+    "pdf_pages": [747, 748],
+    "tags": ["medication safety", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with diarrhea-predominant irritable bowel syndrome has just started alosetron. Which finding requires the nurse to withhold the next dose and notify the primary health care provider immediately?", "zh": "一位腹瀉型腸躁症病人剛開始使用 alosetron。哪一項發現須讓護理師暫停下一劑並立即通知醫師？"},
+    "options": [
+      {"en": "Mild drowsiness after the first dose", "zh": "首劑服用後輕微嗜睡"},
+      {"en": "Severe constipation with worsening abdominal pain", "zh": "嚴重便秘併腹痛加重"},
+      {"en": "Occasional dry mouth", "zh": "偶發性口乾"},
+      {"en": "Mild headache", "zh": "輕微頭痛"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Alosetron carries a risk of serious adverse effects including severe constipation, bowel obstruction, perforation, and ischemic colitis; a strict risk management protocol requires monitoring, prompt reporting, and immediate discontinuation if these occur.", "zh": "alosetron有嚴重不良反應風險，包括嚴重便秘、腸阻塞、腸穿孔與缺血性腸炎；需嚴格風險管理，一旦出現須立即通報並停藥。"},
+    "pdf_pages": [747, 748],
+    "tags": ["red flag", "priority"]
+  }
+]

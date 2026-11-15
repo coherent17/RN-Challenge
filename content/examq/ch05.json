@@ -1,0 +1,232 @@
+[
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is providing discharge teaching about a new insulin regimen to a client whose population group has a high rate of limited health literacy. Which teaching strategy best confirms that the client understood the instructions?", "zh": "護理師正在對一位衛生知識水平較低族群的病人進行新胰島素治療方案的出院指導。下列哪一種教學策略最能確認病人已理解指導內容？"},
+    "options": [
+      {"en": "Giving the client written insulin instructions in their preferred language", "zh": "以病人偏好的語言提供書面胰島素注射說明"},
+      {"en": "Having the client restate and demonstrate the insulin injection technique", "zh": "請病人重複說明並示範胰島素注射技巧"},
+      {"en": "Showing the client an educational video about insulin administration", "zh": "讓病人觀看胰島素注射的教學影片"},
+      {"en": "Verbally reviewing the injection steps one time before discharge", "zh": "出院前以口頭方式講解一次注射步驟"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Return explanation and demonstration (teach-back) is the most reliable method of confirming that a client truly understands instructions, because it requires the client to actively show comprehension rather than passively receive information. Written materials, videos, and verbal review are useful supplements but do not confirm understanding as effectively.", "zh": "回覆示教（teach-back）是確認病人真正理解指導內容最可靠的方法，因為它要求病人主動展示理解程度，而非被動接收資訊。書面資料、影片與口頭講解雖有幫助，但確認理解的效果不如回覆示教。"},
+    "pdf_pages": [62],
+    "tags": ["patient education", "teach-back"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse is caring for a transgender client whose admission chart lists a legal name that differs from the name the client uses. Which nursing action best reflects a welcoming, nonjudgmental approach to care?", "zh": "護理師照顧一位跨性別病人，入院病歷上登記的法定姓名與病人慣用的姓名不同。下列哪項護理行動最能展現友善、不帶評判的照護態度？"},
+    "options": [
+      {"en": "Asking the client which name and pronouns they prefer and documenting this in the plan of care", "zh": "詢問病人希望使用的姓名與代名詞，並記錄於照護計畫中"},
+      {"en": "Using only the legal name listed on the chart for consistency", "zh": "一律使用病歷上登記的法定姓名，以保持一致性"},
+      {"en": "Addressing the client with pronouns based on their physical appearance", "zh": "依病人外觀自行判斷並使用相應的代名詞"},
+      {"en": "Avoiding any discussion of gender identity to prevent client discomfort", "zh": "避免討論性別認同議題，以免造成病人不適"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Using a client's identified name and pronouns, and documenting this in the plan of care, demonstrates respect and helps build rapport. Assuming pronouns or avoiding the discussion can feel invalidating and interferes with a trusting nurse-client relationship.", "zh": "使用病人認同的姓名與代名詞，並將其記錄於照護計畫中，能展現尊重並建立信任關係。自行假設代名詞或迴避相關討論，可能讓病人感到不被認可，也不利於建立互信的護病關係。"},
+    "pdf_pages": [62, 63],
+    "tags": ["therapeutic communication", "LGBTQIA"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse volunteering at a community clinic is interviewing a client who speaks limited English. The client's adult son, who is present, offers to interpret. Which response by the nurse is most appropriate?", "zh": "護理師在社區診所為一位英語能力有限的病人進行訪談，陪同在場的成年兒子主動提議擔任翻譯。護理師下列哪項回應最為恰當？"},
+    "options": [
+      {"en": "Accept the son's offer to interpret to save time", "zh": "接受兒子的提議以節省時間"},
+      {"en": "Thank the son, but request a qualified medical interpreter for the encounter", "zh": "感謝兒子的好意，但要求安排合格的醫療口譯人員"},
+      {"en": "Have the son interpret only the questions about vital signs", "zh": "只請兒子協助翻譯關於生命徵象的問題"},
+      {"en": "Proceed using simple English words and hand gestures", "zh": "以簡單英語單字及手勢進行溝通"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Family members should not be used to interpret because of confidentiality concerns, potential conflicts of interest, and the risk of inaccurate translation. Only individuals designated by the health care agency should interpret for a client.", "zh": "不應由家屬擔任口譯，原因包括保密考量、潛在利益衝突，以及翻譯不準確的風險。只有經醫療機構指定的人員才可為病人進行口譯。"},
+    "pdf_pages": [62],
+    "tags": ["communication", "interpreter"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A nurse is performing an outreach health assessment on a client who is homeless. The client reports chronic low back pain, has a random blood glucose of 240 mg/dL (13.32 mmol/L), and states, 'I don't know why I even bother waking up anymore.' Which finding requires the nurse's most immediate follow-up?", "zh": "護理師在為一位無家可歸的病人進行外展健康評估時，病人表示有慢性下背痛、隨機血糖為240 mg/dL（13.32 mmol/L），並說：『我已經不知道自己為什麼還要醒過來了。』下列哪項發現最需要護理師立即追蹤處理？"},
+    "options": [
+      {"en": "The report of chronic low back pain", "zh": "慢性下背痛的主訴"},
+      {"en": "The random blood glucose of 240 mg/dL", "zh": "隨機血糖240 mg/dL"},
+      {"en": "The statement about not wanting to wake up", "zh": "關於不想醒來的陳述"},
+      {"en": "The client's lack of stable housing", "zh": "病人缺乏穩定住所"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A statement suggesting hopelessness or passive suicidal ideation requires immediate follow-up to assess safety, including asking directly about thoughts of self-harm and a plan. While the elevated glucose and pain need attention, client safety takes priority.", "zh": "暗示無望感或被動自殺意念的陳述需要立即追蹤，以評估病人安全，包括直接詢問是否有自傷想法及計畫。雖然血糖偏高與疼痛也需處理，但病人的人身安全為優先。"},
+    "pdf_pages": [59],
+    "tags": ["priority", "suicide risk", "first action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse working with clients who are homeless should recognize which conditions as more prevalent in this population? Select all that apply.", "zh": "照顧無家可歸族群的護理師應認識到下列哪些健康問題在此族群中較為常見？請選出所有適用答案。"},
+    "options": [
+      {"en": "Dental problems", "zh": "牙齒問題"},
+      {"en": "Malnutrition", "zh": "營養不良"},
+      {"en": "Osteoporosis", "zh": "骨質疏鬆症"},
+      {"en": "Sexually transmitted diseases", "zh": "性傳染病"},
+      {"en": "Substance abuse problems", "zh": "物質濫用問題"},
+      {"en": "Seasonal allergic rhinitis", "zh": "季節性過敏性鼻炎"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Common health problems among people who are homeless include dental problems, malnutrition, sexually transmitted diseases (including HIV/AIDS), lung diseases, infectious diseases, mental health problems, substance abuse problems, and wounds or skin infections. Osteoporosis and seasonal allergic rhinitis are not specifically identified as more prevalent in this population.", "zh": "無家可歸族群常見的健康問題包括牙齒問題、營養不良、性傳染病（包括HIV/AIDS）、肺部疾病、感染性疾病、心理健康問題、物質濫用問題，以及傷口或皮膚感染。骨質疏鬆症與季節性過敏性鼻炎並未被列為此族群中較常見的問題。"},
+    "pdf_pages": [64],
+    "tags": ["sata", "population health"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "Which client populations are identified as being at higher risk for severe illness or death from COVID-19? Select all that apply.", "zh": "下列哪些病人族群被認定為罹患嚴重COVID-19疾病或死亡風險較高的族群？請選出所有適用答案。"},
+    "options": [
+      {"en": "Older adults", "zh": "老年人"},
+      {"en": "Healthy school-age children with no comorbidities", "zh": "無共病之健康學齡兒童"},
+      {"en": "Clients with diabetes mellitus", "zh": "罹患糖尿病的病人"},
+      {"en": "Clients who are immunocompromised from chemotherapy", "zh": "因化學治療而免疫功能低下的病人"},
+      {"en": "Minority population groups", "zh": "少數族群"},
+      {"en": "Young, healthy adults with no chronic conditions", "zh": "無慢性疾病的年輕健康成人"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Populations at higher risk for severe COVID-19 illness or death include older adults, those with chronic conditions such as diabetes or cardiac/respiratory disease, those who are immunocompromised, and minority groups. Healthy children and young, healthy adults without chronic conditions are not identified as high-risk groups.", "zh": "COVID-19重症或死亡風險較高的族群包括老年人、患有糖尿病或心肺疾病等慢性病者、免疫功能低下者，以及少數族群。健康的兒童及無慢性疾病的年輕健康成人並未被列為高風險族群。"},
+    "pdf_pages": [61],
+    "tags": ["sata", "COVID-19"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is teaching a community group about preventing the spread of COVID-19. Which measure should the nurse emphasize as a primary prevention strategy?", "zh": "護理師正向社區團體進行COVID-19傳播預防衛教。護理師應強調下列哪項措施為主要預防策略？"},
+    "options": [
+      {"en": "Wearing a mask and eye protection, and maintaining physical distancing", "zh": "佩戴口罩與護目裝備，並保持身體距離"},
+      {"en": "Taking daily vitamin C and zinc supplements", "zh": "每日服用維生素C及鋅補充劑"},
+      {"en": "Avoiding all physical activity until the pandemic ends", "zh": "在疫情結束前避免一切身體活動"},
+      {"en": "Using a cool-mist humidifier at home continuously", "zh": "在家中持續使用冷霧加濕器"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Primary measures to prevent the spread of COVID-19 include handwashing, wearing a mask and eye protection, physical distancing, avoiding crowded situations and close contact with ill individuals, and self-quarantine when exposed or ill. Supplements and humidifiers are not established prevention measures.", "zh": "預防COVID-19傳播的主要措施包括勤洗手、佩戴口罩與護目裝備、保持身體距離、避免人群聚集及與病人密切接觸，以及在暴露或生病時自我隔離。補充劑與加濕器並非已被證實的預防措施。"},
+    "pdf_pages": [61, 62],
+    "tags": ["safety", "infection control"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A nurse is caring for an adolescent who identifies as a member of the LGBTQIA community. The adolescent reports being bullied at school, has withdrawn from friends, and states, 'Sometimes I feel like everyone would be better off without me.' Which finding is most concerning and requires immediate nursing action?", "zh": "護理師照顧一位認同為LGBTQIA族群的青少年。該青少年表示在學校遭受霸凌、已逐漸疏遠朋友，並說：『有時候我覺得沒有我大家會過得更好。』下列哪項發現最令人擔憂，需要立即採取護理行動？"},
+    "options": [
+      {"en": "Withdrawal from friends", "zh": "疏遠朋友"},
+      {"en": "The report of being bullied at school", "zh": "在學校遭受霸凌的陳述"},
+      {"en": "The statement about others being 'better off' without them", "zh": "關於『大家會過得更好』的陳述"},
+      {"en": "A recent change in appetite", "zh": "近期食慾改變"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "LGBTQIA youth are at increased risk for depression and suicide, and a statement implying that others would be better off without the client suggests passive suicidal ideation that requires an immediate, direct safety assessment. The other findings are concerning but do not indicate the same level of immediate risk.", "zh": "LGBTQIA青少年罹患憂鬱症及自殺的風險較高，而暗示『他人沒有自己會更好』的陳述顯示出被動自殺意念，需要立即進行直接的安全評估。其他發現雖值得關注，但未顯示同等程度的立即風險。"},
+    "pdf_pages": [63],
+    "tags": ["recognize cues", "mental health", "LGBTQIA"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A nurse is caring for a transgender male client who has been receiving testosterone therapy for 6 months. Which laboratory value should the nurse monitor closely to detect a known complication of this therapy?", "zh": "護理師照顧一位已接受睪固酮治療6個月的跨性別男性病人。護理師應密切監測下列哪項檢驗數值，以偵測此治療已知的併發症？"},
+    "options": [
+      {"en": "Hemoglobin and hematocrit", "zh": "血紅素與血球容積比"},
+      {"en": "Serum potassium", "zh": "血清鉀"},
+      {"en": "Platelet count", "zh": "血小板數量"},
+      {"en": "Fasting blood glucose", "zh": "空腹血糖"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Exogenous testosterone use can cause polycythemia, so hemoglobin and hematocrit should be monitored at regular intervals to detect this complication early. Potassium, platelets, and glucose are not the specific laboratory values associated with this known complication.", "zh": "外源性睪固酮使用可導致紅血球增多症，因此應定期監測血紅素與血球容積比以早期偵測此併發症。血鉀、血小板及血糖並非與此已知併發症相關的特定檢驗項目。"},
+    "pdf_pages": [63],
+    "tags": ["pharmacology", "LGBTQIA", "lab monitoring"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A military veteran tells the nurse about recurrent nightmares, hypervigilance, and difficulty sleeping since returning from deployment. The veteran also has a history of hypertension that is well controlled with lisinopril. Which should the nurse prioritize when planning this client's care?", "zh": "一位退伍軍人向護理師表示，自部署返鄉後出現反覆惡夢、過度警覺及入睡困難。該病人同時有高血壓病史，目前使用lisinopril控制良好。護理師在規劃此病人的照護時，應優先處理下列哪項？"},
+    "options": [
+      {"en": "Assessment and referral for symptoms of post-traumatic stress disorder (PTSD)", "zh": "評估並轉介創傷後壓力症候群（PTSD）相關症狀"},
+      {"en": "Reinforcement of the current antihypertensive regimen", "zh": "強化目前的降血壓治療方案"},
+      {"en": "Scheduling a routine annual physical examination", "zh": "安排常規年度健康檢查"},
+      {"en": "Updating the client's influenza and pneumonia vaccinations", "zh": "更新流感與肺炎疫苗接種"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "PTSD and related mental health or behavioral adjustment disorders are common among military veterans and are associated with increased risk for suicide and substance use; identifying and treating these problems is a priority. The hypertension is currently well controlled and is not the priority at this time.", "zh": "PTSD及相關的心理健康或適應障礙在退伍軍人族群中相當常見，且與自殺及物質使用風險增加有關；辨識並治療這些問題應為優先事項。病人目前的高血壓控制良好，並非此時的優先事項。"},
+    "pdf_pages": [65, 66],
+    "tags": ["priority", "veterans", "PTSD"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse is coordinating care for a newly arrived refugee family. The mother reports frequent nightmares and flashbacks related to violence experienced before leaving her home country. Which referral should the nurse identify as the priority for this family?", "zh": "護理師正在協調一個剛抵達的難民家庭的照護。母親表示，因在離開原居國前曾經歷暴力事件，現在經常出現惡夢與閃回現象。護理師應將下列哪項轉介視為此家庭的優先事項？"},
+    "options": [
+      {"en": "Referral for mental health services", "zh": "轉介心理健康服務"},
+      {"en": "Referral for English-language classes", "zh": "轉介英語課程"},
+      {"en": "Referral for employment assistance", "zh": "轉介就業協助"},
+      {"en": "Referral for housing assistance", "zh": "轉介住房協助"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "For refugees, mental health problems resulting from war, violence, or trauma experienced during migration are a significant concern and should be prioritized. Although language, employment, and housing needs are important, the mother's symptoms indicate an immediate need for mental health support.", "zh": "對難民而言，因戰爭、暴力或遷徙過程中經歷的創傷所導致的心理健康問題，是一項重大的優先考量。雖然語言、就業及住房需求同樣重要，但母親的症狀顯示此時最需要的是心理健康支持。"},
+    "pdf_pages": [67],
+    "tags": ["priority", "refugee health", "case management"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse working in a community program for children in foster care should anticipate which health conditions as common in this population? Select all that apply.", "zh": "在寄養兒童社區服務計畫中工作的護理師，應預期下列哪些健康問題在此族群中較為常見？請選出所有適用答案。"},
+    "options": [
+      {"en": "Attention-deficit/hyperactivity disorder (ADHD)", "zh": "注意力不足過動症（ADHD）"},
+      {"en": "Sleep problems", "zh": "睡眠問題"},
+      {"en": "Aggressive behavior", "zh": "攻擊行為"},
+      {"en": "Seasonal allergies", "zh": "季節性過敏"},
+      {"en": "Dental health problems", "zh": "牙齒健康問題"},
+      {"en": "Claustrophobia", "zh": "密閉空間恐懼症"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Children in foster care are at increased risk for unmet physical, mental, behavioral, and dental health needs, including ADHD, sleep problems, and aggressive behavior. Seasonal allergies and claustrophobia are not specifically identified as common findings in this population.", "zh": "寄養兒童在生理、心理、行為及牙齒健康等方面未被滿足的需求風險較高，包括ADHD、睡眠問題及攻擊行為。季節性過敏及密閉空間恐懼症並未被特別列為此族群常見的問題。"},
+    "pdf_pages": [65],
+    "tags": ["sata", "foster children"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A client with diabetes mellitus, heart failure, and chronic obstructive pulmonary disease is being discharged home. Which nursing action will best promote the client's adherence to this complex treatment regimen?", "zh": "一位同時患有糖尿病、心臟衰竭及慢性阻塞性肺疾病的病人即將出院返家。下列哪項護理行動最能促進此病人對複雜治療方案的遵從性？"},
+    "options": [
+      {"en": "Arranging for home health care follow-up", "zh": "安排居家照護後續追蹤"},
+      {"en": "Focusing teaching only on the diabetes management plan", "zh": "教學內容僅聚焦於糖尿病管理計畫"},
+      {"en": "Communicating only with the endocrinologist to avoid confusing the client", "zh": "僅與內分泌科醫師溝通，以避免病人感到困惑"},
+      {"en": "Discouraging the client's support person from attending teaching sessions", "zh": "不鼓勵病人的支持者參與衛教課程"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Arranging home health care follow-up supports clients with multiple chronic illnesses by providing ongoing monitoring and reinforcement of the 'big picture' plan of care. Focusing on only one illness, limiting provider communication, and excluding support persons all reduce the likelihood of adherence.", "zh": "安排居家照護後續追蹤能協助罹患多種慢性疾病的病人，提供持續的監測並強化整體照護計畫的『全局觀』。只聚焦單一疾病、限制與醫療團隊的溝通，以及排除支持者參與，都會降低病人遵從治療的可能性。"},
+    "pdf_pages": [69],
+    "tags": ["chronic illness", "interprofessional collaboration"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is caring for a client with an intellectual disability who has a history of eating very quickly during meals. Which nursing action is the priority?", "zh": "護理師照顧一位有進食過快病史的智能障礙病人。下列哪項護理行動為優先考量？"},
+    "options": [
+      {"en": "Closely monitor the client for choking and aspiration during meals", "zh": "於用餐期間密切監測病人有無噎食及吸入的情形"},
+      {"en": "Restrict the client to a liquid diet at all meals", "zh": "所有餐次均限制病人僅能進食流質飲食"},
+      {"en": "Assign unlicensed assistive personnel to feed the client without further assessment", "zh": "指派無執照輔助人員協助餵食，而不進一步評估"},
+      {"en": "Document the behavior without further intervention", "zh": "僅記錄此行為而不採取進一步措施"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Individuals with intellectual disabilities may eat quickly, placing them at increased risk for choking and aspiration; safety is the priority and requires close monitoring during meals. Restricting to a liquid diet or delegating without assessment does not address the underlying safety risk.", "zh": "智能障礙者可能進食過快，使其噎食及吸入的風險增加；安全為首要考量，用餐期間需密切監測。限制為流質飲食或未經評估即委派他人協助，皆無法解決潛在的安全風險。"},
+    "pdf_pages": [64],
+    "tags": ["safety", "aspiration risk", "intellectual disability"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse is caring for a family of low socioeconomic status who reports being unable to afford the client's prescribed medications. Which referral should the nurse make first?", "zh": "護理師照顧一個社經地位較低的家庭，該家庭表示無法負擔病人處方藥物的費用。護理師應優先進行下列哪項轉介？"},
+    "options": [
+      {"en": "Referral to a social worker for assistance with financial resources", "zh": "轉介社工協助申請財務資源"},
+      {"en": "Referral to a home health aide", "zh": "轉介居家照顧服務員"},
+      {"en": "Referral to a physical therapist", "zh": "轉介物理治療師"},
+      {"en": "Referral to a nutritionist only", "zh": "僅轉介營養師"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Social work services help connect socioeconomically disadvantaged clients and families to resources and financial assistance to pay for needed health care, including medications. The other referrals do not directly address the client's inability to afford medications.", "zh": "社工服務能協助社經地位較低的病人及家庭連結資源，獲得財務協助以支付所需的醫療費用，包括藥物費用。其他轉介並未直接解決病人無法負擔藥物費用的問題。"},
+    "pdf_pages": [65, 66],
+    "tags": ["case management", "social determinants of health"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "An older client is brought to the emergency department for a fractured wrist. The nurse notes old and new bruising on the client's upper arms, and the adult child who accompanied the client insists on remaining in the room during the entire interview. Which nursing action is most appropriate?", "zh": "一位老年病人因手腕骨折被送至急診室。護理師注意到病人上臂有新舊不一的瘀傷，而陪同前來的成年子女堅持全程留在診間內接受訪談。下列哪項護理行動最為恰當？"},
+    "options": [
+      {"en": "Find a reason to interview the client privately, without the adult child present", "zh": "設法安排在成年子女不在場的情況下單獨訪談病人"},
+      {"en": "Ask the adult child directly if they caused the bruising", "zh": "直接詢問成年子女是否造成了這些瘀傷"},
+      {"en": "Document the bruising and discharge the client as planned", "zh": "記錄瘀傷情形並依原計畫讓病人出院"},
+      {"en": "Avoid asking about the bruising because the client did not report a concern", "zh": "因病人未主動提出相關擔憂，故避免詢問瘀傷情形"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Nurses are mandated reporters who must assess for suspected abuse; interviewing the client privately, away from a potential abuser, allows the client to speak freely and disclose safety concerns. Confronting the caregiver directly or ignoring the finding could place the client at further risk.", "zh": "護理師是法定報告人，必須評估疑似受虐情形；在可能施虐者不在場的情況下單獨訪談病人，能讓病人自由表達並揭露安全上的擔憂。直接質問照顧者或忽略此發現，皆可能使病人面臨更大風險。"},
+    "pdf_pages": [65],
+    "tags": ["mandatory reporting", "elder abuse", "safety"]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "cat": "PI",
+    "stem": {"en": "A toddler has been hospitalized for 10 days with only brief daily visits from the parents. The nurse now observes the toddler playing cheerfully with staff and other children, no longer crying or protesting when the parents leave. Which interpretation of this behavior is most accurate?", "zh": "一名幼兒住院 10 天，父母只能短暫每日探視。護理師現在觀察到該幼兒與工作人員及其他孩子開心地玩耍，父母離開時也不再哭鬧或抗議。對此行為最準確的解讀是什麼？"},
+    "options": [
+      {"en": "The toddler has successfully adjusted to hospitalization and no longer needs parental visits", "zh": "幼兒已成功適應住院，不再需要父母探視"},
+      {"en": "The toddler has entered the detachment phase, which reflects resignation rather than healthy adjustment", "zh": "幼兒已進入疏離階段，這反映的是放棄而非真正健康的適應"},
+      {"en": "The toddler has formed a secure attachment to the nursing staff that should be encouraged", "zh": "幼兒已對護理人員形成安全依附，應予以鼓勵"},
+      {"en": "The toddler is showing a normal developmental milestone for this age", "zh": "這是此年齡正常的發展里程碑"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Detachment is the most serious phase of separation anxiety; the child appears superficially adjusted, plays with others, and seems to form new relationships, but this is a coping mechanism of resignation after prolonged separation. Once detachment is established, reversal of adverse effects is less likely.", "zh": "疏離是分離焦慮中最嚴重的階段；幼兒表面上看似適應、與他人玩耍、似乎建立新關係，但這其實是長期分離後放棄的因應方式。一旦進入疏離階段，不良影響較難逆轉。"},
+    "pdf_pages": [277],
+    "tags": ["recognizing cues", "separation anxiety"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse educator is reviewing age-related fears of hospitalization with a group of new graduate nurses. Which statement requires correction?", "zh": "護理教育者與一群新進護理師複習各年齡層住院恐懼。哪句話需要糾正？"},
+    "options": [
+      {"en": "\"Toddlers mainly fear loss of control and separation from their parents.\"", "zh": "「幼兒主要害怕失去控制感與和父母分離。」"},
+      {"en": "\"Preschoolers may believe their illness is a punishment for something they did or thought.\"", "zh": "「學齡前兒童可能認為生病是因為自己做了或想了什麼而受到的懲罰。」"},
+      {"en": "\"School-age children typically go through the protest, despair, and detachment stages seen in toddlers.\"", "zh": "「學齡兒童通常會經歷幼兒常見的抗議、絕望與疏離階段。」"},
+      {"en": "\"Adolescents are often more distressed about being excluded by friends than about the hospital itself.\"", "zh": "「青少年常常更擔心被朋友排除在外，而不是住院本身。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "School-age children fear missing school and being forgotten by friends; the protest-despair-detachment pattern seen in toddlers seldom occurs in this age group, so this statement is incorrect and needs correction.", "zh": "學齡兒童擔心缺課與被朋友遺忘；幼兒常見的抗議-絕望-疏離模式在此年齡層很少發生，因此這句話不正確，需要糾正。"},
+    "pdf_pages": [278, 279],
+    "tags": ["need for further teaching"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 5-year-old scheduled for an appendectomy tells the nurse, \"I must have been really bad for this to happen to me.\" What is the nurse's best response?", "zh": "一名即將接受闌尾切除手術的 5 歲兒童告訴護理師：「我一定是做了很壞的事才會這樣。」護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"No one is bad. Your appendix got sick, and that is why the doctor needs to fix it; it has nothing to do with anything you did.\"", "zh": "「沒有人是壞的。你的闌尾生病了，所以醫師需要幫你處理，這跟你做過什麼事完全沒有關係。」"},
+      {"en": "\"You're right, you should try to be more careful from now on.\"", "zh": "「你說得對，以後要更小心一點。」"},
+      {"en": "\"Let's not talk about that, it will only upset you more.\"", "zh": "「我們不要談這個，會讓你更難過。」"},
+      {"en": "\"I will let your parents explain that to you later.\"", "zh": "「這件事我讓你的父母之後再跟你解釋。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Preschoolers use egocentric and magical thinking and often believe illness is punishment for their actions or thoughts; the nurse should give a simple, honest explanation that corrects the misconception rather than ignoring or reinforcing it.", "zh": "學齡前兒童常用自我中心與魔幻思考，容易認為生病是對自己行為或想法的懲罰；護理師應給予簡單、誠實的說明以糾正這個誤解，而非忽略或強化它。"},
+    "pdf_pages": [278],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nurse is assessing a term newborn 2 hours after birth. Which finding requires the most immediate follow-up?", "zh": "護理師在出生後 2 小時評估一名足月新生兒。哪項發現最需要立即追蹤處理？"},
+    "options": [
+      {"en": "Heart rate 148 bpm while sleeping", "zh": "睡眠中心跳 148 次/分"},
+      {"en": "Respiratory rate 68 breaths/min with audible grunting", "zh": "呼吸速率 68 次/分且可聽到呻吟聲"},
+      {"en": "Soft, flat anterior fontanel", "zh": "前囟門軟而平坦"},
+      {"en": "Axillary temperature 97.9°F (36.6°C)", "zh": "腋溫 97.9°F（36.6°C）"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The expected newborn respiratory rate is 30-60 breaths/min without grunting, retractions, or nasal flaring. A rate of 68 with grunting suggests respiratory distress and must be reported immediately; the other findings are within normal limits for a newborn.", "zh": "新生兒正常呼吸速率為每分鐘 30-60 次，且不應有呻吟、凹陷或鼻翼搏動。呼吸速率 68 次且伴有呻吟代表呼吸窘迫，須立即通報；其他項目都在新生兒正常範圍內。"},
+    "pdf_pages": [284, 285],
+    "tags": ["recognizing cues", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A 12-month-old is scheduled to receive the MMR vaccine at a well-child visit. Which information from the parent would most likely cause the nurse to delay the vaccine?", "zh": "一名 12 個月大嬰兒預計在兒童健康檢查時接種 MMR 疫苗。家長提供的哪項資訊最可能使護理師延後接種？"},
+    "options": [
+      {"en": "\"She had a mild runny nose and low-grade cold last week.\"", "zh": "「她上週有輕微流鼻水和低燒的感冒。」"},
+      {"en": "\"She received intravenous immunoglobulin for an illness about 6 weeks ago.\"", "zh": "「她大約 6 週前因病接受過靜脈免疫球蛋白治療。」"},
+      {"en": "\"Her older sibling at home currently has a cold.\"", "zh": "「她在家的哥哥姊姊現在感冒了。」"},
+      {"en": "\"She cried for several minutes after her last injection.\"", "zh": "「她上次打針後哭了好幾分鐘。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Immunoglobulin products can blunt the immune response to live vaccines such as MMR; administration should be delayed about 3-6 months after immunoglobulin. Mild illness, exposure to someone who is ill, and a normal reaction to a previous injection are not contraindications.", "zh": "免疫球蛋白製劑可能減弱對 MMR 等活性疫苗的免疫反應；接種需延後約 3-6 個月。輕微疾病、暴露於生病的人、以及對先前注射的正常反應都不是禁忌。"},
+    "pdf_pages": [282, 283],
+    "tags": ["safety", "vaccine"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is preparing to give a 4-month-old several scheduled vaccines at the same well-child visit. Which actions are correct? Select all that apply.", "zh": "護理師準備在同一次兒童健康檢查時，為一名 4 個月大嬰兒接種多種預定疫苗。下列哪些措施是正確的？（複選）"},
+    "options": [
+      {"en": "Give each vaccine in a separate syringe at a separate injection site", "zh": "每種疫苗使用不同針筒，於不同部位注射"},
+      {"en": "Use the deltoid muscle for the intramuscular injections", "zh": "使用三角肌進行肌肉注射"},
+      {"en": "Use the vastus lateralis muscle for the intramuscular injections", "zh": "使用股外側肌進行肌肉注射"},
+      {"en": "Observe the infant for 15 to 30 minutes after the injections", "zh": "注射後觀察嬰兒 15 到 30 分鐘"},
+      {"en": "Combine two compatible vaccines into one syringe to reduce the number of injections", "zh": "將兩種相容疫苗混合於同一針筒以減少注射次數"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Infant intramuscular vaccines are given in the vastus lateralis muscle (the deltoid is used starting around 36 months); each vaccine requires its own syringe and injection site, and the infant should be observed 15-30 minutes afterward to detect anaphylaxis.", "zh": "嬰兒肌肉注射疫苗應打在股外側肌（三角肌約 36 個月後才使用）；每種疫苗需各自使用針筒與注射部位，注射後應觀察 15-30 分鐘以偵測過敏性休克。"},
+    "pdf_pages": [281],
+    "tags": ["sata", "dosage calc", "vaccine administration"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The parent of a 20-month-old reports, \"She barely eats anything some days and then eats like a horse the next. Is something wrong?\" What is the nurse's best response?", "zh": "一名 20 個月大幼兒的家長表示：「她有些日子幾乎不吃東西，隔天卻又吃得很多，是不是有問題？」護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"This is called physiologic anorexia and is a normal, expected part of the slower growth rate of toddlers.\"", "zh": "「這叫做生理性厭食，是幼兒生長速度減慢時正常且預期的現象。」"},
+      {"en": "\"This pattern suggests a feeding disorder that should be evaluated by a specialist right away.\"", "zh": "「這樣的模式顯示可能有進食障礙，應立即請專科評估。」"},
+      {"en": "\"You should offer a bottle of whole milk between meals to make sure she gets enough calories.\"", "zh": "「兩餐之間可以給她一瓶全脂牛奶，確保攝取足夠熱量。」"},
+      {"en": "\"Toddlers this age should be eating three full meals a day with no snacks allowed.\"", "zh": "「這個年齡的幼兒應該每天吃三頓正餐，不可以吃點心。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Physiologic anorexia from the slowed growth rate of toddlerhood is a normal finding; small, frequent, nutritious meals are appropriate, and extra milk or forcing meals is not recommended.", "zh": "生理性厭食是幼兒生長速度減慢所致的正常現象；適合的方式是少量多餐且營養均衡，不建議額外給奶或強迫進食。"},
+    "pdf_pages": [286],
+    "tags": ["need for further teaching", "nutrition"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The parent of a 6-year-old who is 4 feet 2 inches tall states, \"Now that she turned 6, I let her use only the car's lap-and-shoulder belt without a booster seat.\" What is the nurse's best response?", "zh": "一名 6 歲、身高 4 英尺 2 英寸兒童的家長說：「她滿 6 歲了，現在我只讓她用車上的安全帶，不再用增高墊。」護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"That is correct; age 6 is the appropriate time to stop using a booster seat.\"", "zh": "「這樣是正確的，6 歲正好是停止使用增高墊的適當時機。」"},
+      {"en": "\"She should continue using a booster seat in the back seat until the vehicle seat belt fits her properly, usually around 4 feet 9 inches tall.\"", "zh": "「她應該繼續在後座使用增高墊，直到車上的安全帶能合身為止，通常要身高約 4 英尺 9 英寸才可以。」"},
+      {"en": "\"She no longer needs to ride in the back seat of the car.\"", "zh": "「她不需要再坐在後座了。」"},
+      {"en": "\"She should go back to using a forward-facing harness seat instead.\"", "zh": "「她應該改回使用前向式安全帶座椅。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A child should remain in a booster seat until the vehicle's seat belt fits properly without it, generally when the child is about 4 feet 9 inches tall; height and proper belt fit, not age alone, determine when a booster is no longer needed, and the back seat remains the safest place regardless of age.", "zh": "兒童應持續使用增高墊，直到車上安全帶能合身為止，通常要身高約 4 英尺 9 英寸；決定是否還需要增高墊的是身高與安全帶合身度，而非單純年齡；不論年齡都應坐在後座最安全。"},
+    "pdf_pages": [280],
+    "tags": ["need for further teaching", "car safety"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse caring for a hospice client at home hears loud, wet, gurgling respirations, and the family becomes frightened, believing the client is choking. What is the nurse's best action?", "zh": "居家安寧照護的護理師聽到個案呼吸時發出大聲、潮濕的咯咯聲，家屬非常害怕，以為個案快要噎住。護理師最佳的處置是什麼？"},
+    "options": [
+      {"en": "Aggressively suction the oropharynx to clear the secretions", "zh": "積極抽吸口咽清除分泌物"},
+      {"en": "Reassure the family that this sound, often called a death rattle, is common near the end of life, and reposition the client to help minimize it", "zh": "向家屬說明這種聲音常稱為死前嘎嘎聲，臨終前很常見，並協助重新擺位以減輕聲音"},
+      {"en": "Insert an oral airway to keep the airway patent", "zh": "放入口咽氣道以保持呼吸道通暢"},
+      {"en": "Administer an antianxiety medication to the family members", "zh": "給予家屬抗焦慮藥物"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Noisy respirations from pooled upper airway secretions are an expected near-death sign; aggressive suctioning rarely clears the sound, may distress the client, and is not a priority. Repositioning and educating the family address both comfort and their fear.", "zh": "呼吸道分泌物堆積造成的痰鳴聲是臨終常見徵象；積極抽吸通常無法消除此聲音，反而可能造成個案不適，並非優先措施。重新擺位並教育家屬可同時處理舒適與其恐懼。"},
+    "pdf_pages": [292, 293],
+    "tags": ["therapeutic communication", "end of life"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse is caring for a dying client who has a Kennedy terminal ulcer and other signs of impending death. Which task is most appropriate to delegate to unlicensed assistive personnel (UAP)?", "zh": "護理師照護一名有肯尼迪終末潰瘍及其他臨終徵象的病人。下列哪項任務最適合委派給無照護理輔助人員（UAP）？"},
+    "options": [
+      {"en": "Assessing the client's level of consciousness and respiratory pattern", "zh": "評估個案的意識程度與呼吸型態"},
+      {"en": "Administering the next scheduled dose of opioid pain medication", "zh": "給予下一劑排定的鴉片類止痛藥"},
+      {"en": "Providing oral care and repositioning the client for comfort", "zh": "提供口腔照護並為個案重新擺位以增加舒適"},
+      {"en": "Determining whether the client's family should be called to the bedside", "zh": "決定是否應通知家屬到床邊"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Basic comfort measures such as oral care and repositioning are within the UAP scope of practice. Assessment, medication administration, and clinical decision-making require a licensed nurse.", "zh": "口腔照護與擺位等基本舒適措施屬於 UAP 的職責範圍。評估、給藥及臨床判斷則須由具執照的護理人員執行。"},
+    "pdf_pages": [291, 293],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nursing instructor reviews expected growth and development milestones with students. Which statements are correct? Select all that apply.", "zh": "護理教師與學生複習正常的生長發展里程碑。下列哪些說法是正確的？（複選）"},
+    "options": [
+      {"en": "A 6-month-old typically shows stranger anxiety and can sit with support", "zh": "6 個月大嬰兒通常會怕生並能被扶坐"},
+      {"en": "A 9-month-old typically walks independently without support", "zh": "9 個月大嬰兒通常能獨立走路不需支撐"},
+      {"en": "A 2-year-old typically has a vocabulary of about 300 words and can run", "zh": "2 歲幼兒通常詞彙量約 300 字並會跑"},
+      {"en": "A 5-year-old typically engages mainly in solitary play", "zh": "5 歲兒童通常主要進行獨自遊戲"},
+      {"en": "A 3-year-old typically can hop on one foot", "zh": "3 歲幼兒通常能單腳跳"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {"en": "Independent walking without support typically emerges at 14-15 months, not 9 months. Five-year-olds engage in cooperative and imaginative play with peers, not primarily solitary play.", "zh": "獨立走路通常在 14-15 個月才出現，而非 9 個月。5 歲兒童通常與同儕進行合作性與想像性遊戲，而非主要獨自遊戲。"},
+    "pdf_pages": [284, 286, 287, 288],
+    "tags": ["sata", "milestones"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "The parent of a 14-year-old who recently told the family they are transgender asks the nurse how to best support the teenager. What is the nurse's best guidance?", "zh": "一名 14 歲青少年最近向家人表示自己是跨性別者，家長詢問護理師該如何最好地支持孩子。護理師最佳的建議是什麼？"},
+    "options": [
+      {"en": "\"Insist that she continue to use her birth name and pronouns until she is 18.\"", "zh": "「堅持要她繼續使用出生時的名字與代名詞，直到她 18 歲。」"},
+      {"en": "\"Provide unconditional acceptance, watch for signs of depression, and help her prepare to cope with possible bullying.\"", "zh": "「給予無條件的接納、留意憂鬱的徵象，並幫助她準備好應對可能的霸凌。」"},
+      {"en": "\"This is most likely a phase that will pass, so it is best not to discuss it further.\"", "zh": "「這很可能只是一個階段，過一段時間就會改變，最好不要再多談。」"},
+      {"en": "\"Arrange counseling with the goal of changing her gender identity back.\"", "zh": "「安排諮商，目標是讓她的性別認同改回原樣。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Gender identity is a personal sense of self. Families are advised to offer unconditional acceptance, monitor for depression, and help the adolescent prepare to cope with bullying; attempts to dismiss or change the identity are not supportive and are associated with worse mental health outcomes.", "zh": "性別認同是個人對自身的感受。建議家庭給予無條件的接納、留意憂鬱徵象，並協助青少年準備好面對霸凌；試圖忽視或改變其認同並非支持性做法，也與較差的心理健康結果有關。"},
+    "pdf_pages": [288, 290],
+    "tags": ["therapeutic communication", "gender identity"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A 17-year-old who received a COVID-19 vaccine 3 days ago calls the clinic reporting new chest pain and a racing heartbeat. What should the nurse advise?", "zh": "一名 17 歲青少年 3 天前接種 COVID-19 疫苗，現在打電話到診所表示有新發的胸痛與心跳加速。護理師應如何建議？"},
+    "options": [
+      {"en": "\"This is a normal local reaction; apply a cool compress to the injection site.\"", "zh": "「這是正常的局部反應，在注射部位冷敷即可。」"},
+      {"en": "\"Take an over-the-counter antihistamine and call back if symptoms continue.\"", "zh": "「服用成藥抗組織胺，如果症狀持續再回電。」"},
+      {"en": "\"Come in to be evaluated right away; chest pain and a racing heartbeat after this vaccine should be checked promptly.\"", "zh": "「請立即過來接受評估；接種此疫苗後出現胸痛與心跳加速應儘快檢查。」"},
+      {"en": "\"Wait 48 hours to see if the symptoms go away on their own.\"", "zh": "「再等 48 小時看症狀是否自行緩解。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Rare myocarditis or pericarditis has been reported after COVID-19 vaccination; new chest pain, dyspnea, or palpitations after the vaccine warrant prompt evaluation rather than waiting or self-treating.", "zh": "接種 COVID-19 疫苗後曾有罕見心肌炎或心包炎報告；接種後出現新的胸痛、呼吸困難或心悸應儘快評估，而非等待或自行處理。"},
+    "pdf_pages": [283, 284],
+    "tags": ["red flag", "requires immediate action"]
+  }
+]

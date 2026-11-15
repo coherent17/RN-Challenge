@@ -1,0 +1,206 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A nurse is assigned to four clients at the start of a shift. The most recent data are as follows: Client A, potassium 6.8 mEq/L (6.8 mmol/L) with peaked T waves on the cardiac monitor; Client B, sodium 132 mEq/L (132 mmol/L) with mild lethargy; Client C, calcium 8.2 mg/dL (2.05 mmol/L) with occasional finger tingling; Client D, magnesium 1.6 mEq/L (0.66 mmol/L) with slightly brisk reflexes. Which client should the nurse assess first?", "zh": "護理師在值班開始時被分配照顧四位病人,最新資料如下:病人A,鉀 6.8 mEq/L(6.8 mmol/L),心電監視器顯示T波高尖;病人B,鈉 132 mEq/L(132 mmol/L),輕度嗜睡;病人C,鈣 8.2 mg/dL(2.05 mmol/L),偶有手指刺痛感;病人D,鎂 1.6 mEq/L(0.66 mmol/L),反射略為亢進。護理師應先評估哪一位病人?"},
+    "options": [
+      {"en": "Client A", "zh": "病人A"},
+      {"en": "Client B", "zh": "病人B"},
+      {"en": "Client C", "zh": "病人C"},
+      {"en": "Client D", "zh": "病人D"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A potassium level of 6.8 mEq/L with peaked T waves indicates severe, life-threatening hyperkalemia that can progress rapidly to a fatal dysrhythmia; this client needs immediate assessment and intervention. The sodium, calcium, and magnesium values are only mildly abnormal with minor findings and can be assessed next.", "zh": "鉀 6.8 mEq/L 合併T波高尖代表嚴重且危及生命的高血鉀,可迅速惡化為致命性心律不整,需立即評估與處置。其餘鈉、鈣、鎂數值僅輕度異常、表現輕微,可隨後評估。"},
+    "pdf_pages": [115, 116],
+    "tags": ["priority", "first action", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A PHCP prescribes potassium chloride 20 mEq in 100 mL of 0.9% sodium chloride to infuse intravenously for a client with hypokalemia. Which actions should the nurse take when preparing and administering this infusion? Select all that apply.", "zh": "醫療人員為一位低血鉀的病人開立靜脈輸注氯化鉀 20 mEq 溶於 100 mL 0.9% 生理食鹽水。護理師在準備與給予此輸液時應採取下列哪些行動?(多選)"},
+    "options": [
+      {"en": "Infuse the solution using an electronic infusion pump", "zh": "使用電子輸液幫浦輸注此溶液"},
+      {"en": "Administer the dose as a rapid intravenous push if the client reports leg cramps", "zh": "若病人抱怨小腿抽筋,立即以靜脈推注方式快速給藥"},
+      {"en": "Label the IV bag clearly with the amount of potassium chloride it contains", "zh": "在輸液袋上清楚標示所含氯化鉀的劑量"},
+      {"en": "Assess the IV insertion site frequently for signs of phlebitis or infiltration", "zh": "經常評估靜脈注射部位是否出現靜脈炎或滲漏徵象"},
+      {"en": "Administer the medication by the intramuscular route if the IV site becomes difficult to access", "zh": "若靜脈注射部位不易取得,改以肌肉注射方式給藥"},
+      {"en": "Monitor the client's urine output during the infusion", "zh": "輸注期間監測病人的尿量"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "IV potassium must always be diluted and administered via an infusion device, never by IV push, intramuscular, or subcutaneous route because this can cause cardiac arrest. The bag must be labeled with the amount of potassium it contains, the IV site must be monitored closely because potassium is irritating to veins, and urine output is monitored during administration (the PHCP is notified if output is less than 30 mL/hr).", "zh": "靜脈鉀劑必須稀釋並以輸液裝置給予,絕不可靜脈推注、肌肉或皮下注射,否則可能導致心臟停止。輸液袋須標示所含鉀的劑量,因鉀對靜脈有刺激性須密切觀察注射部位,並於給藥期間監測尿量(尿量低於30 mL/hr須通知醫療人員)。"},
+    "pdf_pages": [115, 116],
+    "tags": ["sata", "dosage calc", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client admitted with severe vomiting and diarrhea has the following laboratory values on admission: hematocrit 52%, BUN 32 mg/dL (11.4 mmol/L), and urine specific gravity 1.032. After 24 hours of isotonic IV fluid replacement, repeat values are hematocrit 41%, BUN 18 mg/dL (6.4 mmol/L), and urine specific gravity 1.015. How should the nurse interpret these findings?", "zh": "一位因嚴重嘔吐與腹瀉入院的病人,入院時檢驗值為:血比容 52%、BUN 32 mg/dL(11.4 mmol/L)、尿比重 1.032。經24小時等張靜脈輸液補充後,複查結果為血比容 41%、BUN 18 mg/dL(6.4 mmol/L)、尿比重 1.015。護理師應如何解讀這些結果?"},
+    "options": [
+      {"en": "The client's fluid volume deficit is resolving appropriately", "zh": "病人的體液容積不足正在適當改善中"},
+      {"en": "The client is now experiencing fluid volume excess", "zh": "病人目前出現體液容積過多"},
+      {"en": "The client is developing acute kidney injury", "zh": "病人正在發生急性腎損傷"},
+      {"en": "These laboratory changes reflect a new, unrelated electrolyte imbalance", "zh": "這些檢驗變化反映出與體液狀態無關的新電解質失衡"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Elevated hematocrit, BUN, and urine specific gravity are expected findings of fluid volume deficit, as they reflect hemoconcentration. The drop toward the normal reference ranges (hematocrit, BUN 10-20 mg/dL, and specific gravity) after fluid replacement indicates the deficit is resolving, not that excess or kidney injury has developed.", "zh": "血比容、BUN與尿比重升高是體液容積不足的常見表現,反映血液濃縮。輸液補充後這些數值逐漸回到正常參考範圍(如BUN 10-20 mg/dL),表示容積不足正在改善,而非出現容積過多或腎損傷。"},
+    "pdf_pages": [112, 113],
+    "tags": ["labs", "evaluate outcomes"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client with chronic kidney disease and hyperkalemia is being taught about dietary potassium restriction. Which statement by the client indicates the need for further teaching?", "zh": "一位慢性腎病合併高血鉀的病人正在接受飲食限鉀的教育。病人的下列哪一句話表示需要進一步指導?"},
+    "options": [
+      {"en": "\"I will use a salt substitute instead of regular table salt to season my food.\"", "zh": "「我會用代鹽來調味食物,取代一般的食鹽。」"},
+      {"en": "\"I should limit foods such as bananas, oranges, and potatoes.\"", "zh": "「我應該限制香蕉、柳丁和馬鈴薯等食物的攝取。」"},
+      {"en": "\"I will check nutrition labels for potassium content.\"", "zh": "「我會檢查食品營養標示上的鉀含量。」"},
+      {"en": "\"I will ask my dietitian before adding any new high-potassium foods.\"", "zh": "「在增加任何高鉀食物之前,我會先詢問營養師。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Salt substitutes are made primarily of potassium chloride and are contraindicated for clients with renal disease or hyperkalemia; using one would worsen the client's potassium level. The other statements reflect correct understanding of a potassium-restricted diet.", "zh": "代鹽主要成分是氯化鉀,腎病或高血鉀病人禁止使用,使用會使鉀離子濃度更加惡化。其餘陳述皆正確反映限鉀飲食的概念。"},
+    "pdf_pages": [116],
+    "tags": ["teaching", "need further teaching"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is receiving a continuous intravenous infusion of magnesium sulfate for severe hypomagnesemia. The nurse notes that the client's deep tendon reflexes are now diminished, the respiratory rate is 10 breaths/min, and the client is increasingly lethargic. Which action should the nurse take first?", "zh": "一位病人因嚴重低血鎂正接受持續靜脈輸注硫酸鎂。護理師發現病人的深腱反射變得微弱、呼吸速率為每分鐘10次,且嗜睡程度加重。護理師應先採取下列哪一項行動?"},
+    "options": [
+      {"en": "Stop the magnesium sulfate infusion and notify the PHCP", "zh": "停止硫酸鎂輸注並通知醫療人員"},
+      {"en": "Independently administer a dose of calcium gluconate without a new prescription", "zh": "未經新的醫令,自行給予鈣劑(gluconate)注射"},
+      {"en": "Increase the IV flow rate to flush the line", "zh": "提高靜脈輸液速度以沖洗管路"},
+      {"en": "Reposition the client and recheck reflexes again in 1 hour", "zh": "為病人換姿勢,並於1小時後再次檢查反射"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Diminished deep tendon reflexes, respiratory depression, and lethargy during a magnesium sulfate infusion are signs of magnesium toxicity (hypermagnesemia). The nurse's first action is to stop the infusion and notify the PHCP immediately; calcium gluconate is the antidote but requires a prescription before it is given. Increasing the rate or waiting an hour would allow the toxicity to worsen.", "zh": "在輸注硫酸鎂期間出現深腱反射減弱、呼吸抑制與嗜睡,代表鎂中毒(高血鎂)。護理師應立即停止輸注並通知醫療人員;鈣劑(gluconate)雖為解毒劑,但須取得醫令後才能給予。提高輸液速度或等待一小時觀察都會讓中毒惡化。"},
+    "pdf_pages": [120, 121],
+    "tags": ["red flag", "first action", "requires immediate action"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is caring for a client with fluid volume excess secondary to heart failure. Which task can the RN safely delegate to a UAP (unlicensed assistive personnel)?", "zh": "RN正在照顧一位因心衰竭導致體液容積過多的病人。下列哪一項任務可以安全地委派給無執照輔助人員(UAP)?"},
+    "options": [
+      {"en": "Weighing the client every morning at the same time, using the same scale", "zh": "每天早上固定時間、使用同一台體重計為病人量體重"},
+      {"en": "Teaching the client about sodium-restricted food choices", "zh": "教導病人限鈉飲食的選擇"},
+      {"en": "Determining whether the client's diuretic therapy has been effective", "zh": "判斷病人的利尿劑治療是否有效"},
+      {"en": "Auscultating the client's lungs for crackles", "zh": "聽診病人肺部是否有囉音"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Obtaining a daily weight using consistent technique is a standardized data-collection task within UAP scope once the UAP is trained. Teaching, evaluating the effectiveness of therapy, and auscultation requiring clinical interpretation must be performed by the licensed nurse.", "zh": "以一致的方法每日測量體重屬於標準化資料收集工作,經訓練後可委派給UAP執行。衛教、評估治療效果及需要臨床判斷的聽診則必須由具執照護理師執行。"},
+    "pdf_pages": [113, 114],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with severe hyponatremia (serum sodium 108 mEq/L [108 mmol/L]) is receiving a slow intravenous infusion of 3% sodium chloride according to the prescribed correction plan. Which finding would require the nurse to stop the infusion and notify the PHCP immediately?", "zh": "一位嚴重低血鈉(血鈉 108 mEq/L〔108 mmol/L〕)的病人,依照醫囑計畫緩慢輸注3%生理食鹽水。出現下列哪一項發現時,護理師應立即停止輸注並通知醫療人員?"},
+    "options": [
+      {"en": "Serum sodium rising by 3 mEq/L over the past 4 hours, as planned", "zh": "血鈉在過去4小時內如計畫上升了3 mEq/L"},
+      {"en": "New onset of confusion that is progressing toward decreased responsiveness", "zh": "新發生的意識混亂,且逐漸惡化為反應力下降"},
+      {"en": "Mild thirst", "zh": "輕微口渴"},
+      {"en": "Urine output of 45 mL/hr", "zh": "尿量每小時45 mL"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rapid correction of severe, chronic hyponatremia places the client at risk for osmotic demyelination syndrome, which can present as a worsening neurological status. A sudden change toward decreased responsiveness during correction requires the nurse to stop the infusion and notify the PHCP immediately. A controlled, planned rise of sodium and a normal urine output are expected and not alarming.", "zh": "快速矯正嚴重、慢性低血鈉會使病人面臨滲透性去髓鞘病變的風險,其表現可能是神經狀態惡化。在矯正過程中若意識反應突然變差,護理師應立即停止輸注並通知醫療人員。依計畫緩慢上升的鈉值與正常尿量則屬預期中的表現,不需驚慌。"},
+    "pdf_pages": [117],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews a client's morning laboratory results: magnesium 1.2 mEq/L (0.49 mmol/L) and calcium 7.8 mg/dL (1.95 mmol/L). Which assessment findings would the nurse expect to find in this client? Select all that apply.", "zh": "護理師查看病人晨間檢驗結果:鎂 1.2 mEq/L(0.49 mmol/L)、鈣 7.8 mg/dL(1.95 mmol/L)。護理師預期會發現下列哪些評估結果?(多選)"},
+    "options": [
+      {"en": "Positive Chvostek's sign", "zh": "Chvostek氏徵象陽性"},
+      {"en": "Diminished deep tendon reflexes", "zh": "深腱反射減弱"},
+      {"en": "Hyperactive deep tendon reflexes", "zh": "深腱反射亢進"},
+      {"en": "Prolonged QT interval on the ECG", "zh": "心電圖QT間期延長"},
+      {"en": "Bradycardia with hypotension", "zh": "心跳過慢合併低血壓"},
+      {"en": "Tetany", "zh": "抽搦(手足搐搦)"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "Both hypomagnesemia and hypocalcemia increase neuromuscular excitability, producing a positive Chvostek's sign, hyperactive deep tendon reflexes, tetany, and (with hypocalcemia) a prolonged QT interval. Diminished reflexes and bradycardia with hypotension are seen with magnesium or calcium excess, not deficit.", "zh": "低血鎂與低血鈣皆會增加神經肌肉的興奮性,導致Chvostek氏徵象陽性、深腱反射亢進、抽搦,以及(低血鈣時)QT間期延長。反射減弱與心跳過慢合併低血壓則見於鎂或鈣過高,而非過低時。"},
+    "pdf_pages": [118, 120, 121],
+    "tags": ["sata", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A PHCP prescribes 40 mEq of potassium chloride in 500 mL of 0.9% sodium chloride to infuse intravenously, not to exceed 10 mEq/hr. Using an infusion pump, at how many mL/hr should the nurse set the pump to deliver the maximum safe rate? (Round to the nearest whole number.)", "zh": "醫療人員開立氯化鉀40 mEq溶於500 mL 0.9%生理食鹽水靜脈輸注,速率不得超過10 mEq/hr。使用輸液幫浦時,護理師應將幫浦設定為每小時多少毫升,才能達到最大安全速率?(四捨五入至整數)"},
+    "options": [
+      {"en": "100 mL/hr", "zh": "100 mL/hr"},
+      {"en": "125 mL/hr", "zh": "125 mL/hr"},
+      {"en": "150 mL/hr", "zh": "150 mL/hr"},
+      {"en": "200 mL/hr", "zh": "200 mL/hr"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The solution contains 40 mEq / 500 mL = 0.08 mEq/mL. To deliver the maximum safe rate of 10 mEq/hr: 10 mEq/hr ÷ 0.08 mEq/mL = 125 mL/hr.", "zh": "此溶液濃度為 40 mEq ÷ 500 mL = 0.08 mEq/mL。欲達到最大安全速率10 mEq/hr,計算為:10 mEq/hr ÷ 0.08 mEq/mL = 125 mL/hr。"},
+    "pdf_pages": [116],
+    "tags": ["dosage calc"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Which assessment findings would the nurse expect in a client admitted with fluid volume deficit from severe diarrhea? Select all that apply.", "zh": "一位因嚴重腹瀉入院、出現體液容積不足的病人,護理師預期會發現下列哪些評估結果?(多選)"},
+    "options": [
+      {"en": "Flat neck veins", "zh": "頸靜脈扁塌"},
+      {"en": "Bounding pulse", "zh": "脈搏洪大"},
+      {"en": "Dry oral mucosa", "zh": "口腔黏膜乾燥"},
+      {"en": "Decreased central venous pressure (CVP)", "zh": "中心靜脈壓(CVP)降低"},
+      {"en": "Crackles in the lung bases", "zh": "肺底部聽到囉音"},
+      {"en": "Poor skin turgor with tenting", "zh": "皮膚彈性差,出現皮膚帳篷現象"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "Fluid volume deficit presents with flat neck veins, dry mucous membranes, decreased CVP, and poor skin turgor with tenting. A bounding pulse and crackles are findings of fluid volume excess, the opposite condition.", "zh": "體液容積不足會出現頸靜脈扁塌、口腔黏膜乾燥、CVP降低及皮膚彈性差(帳篷現象)。脈搏洪大與肺部囉音則是體液容積過多(相反狀況)的表現。"},
+    "pdf_pages": [113, 114],
+    "tags": ["sata", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client sustained a major burn injury 12 hours ago. The client's weight and intake and output totals have remained essentially unchanged, but the nurse notes a heart rate of 128 beats/min, blood pressure of 88/52 mm Hg, and edematous, taut extremities. Which explanation should guide the nurse's interpretation of these findings?", "zh": "一位病人12小時前發生嚴重燒傷。病人的體重與輸出入量總計幾乎沒有改變,但護理師發現心跳每分鐘128次、血壓88/52 mmHg,且四肢水腫緊繃。護理師應以下列哪一項解釋來判讀這些發現?"},
+    "options": [
+      {"en": "The client is fluid volume overloaded from aggressive resuscitation", "zh": "病人因積極輸液復甦而導致體液容積過多"},
+      {"en": "Fluid has shifted into the interstitial space (third-spacing), and intravascular volume is depleted despite stable weight and intake and output records", "zh": "體液已轉移至組織間隙(第三間隙積液),血管內容積已經流失,即使體重與輸出入量記錄維持穩定"},
+      {"en": "The vital sign changes are unrelated to the burn injury", "zh": "這些生命徵象變化與燒傷無關"},
+      {"en": "The intake and output measurements must be inaccurate and should be repeated", "zh": "輸出入量測量一定不準確,應重新測量"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Third-spacing traps extracellular fluid in a body space (such as burned tissue), causing a real intravascular volume loss that may not be reflected in weight or intake and output records. The tachycardia and hypotension reflect this hidden intravascular depletion and require prompt recognition, not an assumption of overload or measurement error.", "zh": "第三間隙積液會將細胞外液困在身體間隙(如燒傷組織)中,造成真正的血管內容積流失,但體重與輸出入量記錄可能無法反映。心跳過速與低血壓正反映這種隱藏性血管內容積流失,需要及時辨識,而非誤認為容積過多或測量錯誤。"},
+    "pdf_pages": [109],
+    "tags": ["recognize cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A home health nurse is teaching the family of an 82-year-old client about why older adults are at increased risk for fluid imbalance. Which statement by a family member best reflects accurate understanding?", "zh": "居家護理師正在教導一位82歲病人的家屬,說明為何老年人較容易發生體液失衡。家屬的下列哪一句話最能反映正確的理解?"},
+    "options": [
+      {"en": "\"Older adults have a higher percentage of body water than younger adults, so they lose fluid faster.\"", "zh": "「老年人的體水佔比比年輕人更高,所以流失體液的速度更快。」"},
+      {"en": "\"Older adults have a lower percentage of total body water, so even small fluid losses have a greater effect.\"", "zh": "「老年人的總體水佔比較低,所以即使流失少量體液,影響也會比較大。」"},
+      {"en": "\"Older adults produce excess antidiuretic hormone, so they retain too much fluid.\"", "zh": "「老年人分泌過多抗利尿激素,所以會留滯過多體液。」"},
+      {"en": "\"Older adults have an increased thirst sensation, which causes them to drink too much fluid.\"", "zh": "「老年人口渴感增強,所以會喝太多水。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Total body water is about 55% of weight in older adults, compared with 60% in younger adults and 80% in infants, leaving a smaller fluid reserve; even modest losses have a proportionally greater effect. Older adults typically have a diminished, not increased, thirst sensation, which further raises their risk.", "zh": "老年人的總體水約佔體重55%,年輕成人約60%,嬰兒則約80%,因此老年人的體液儲備較少,即使小量流失也會造成相對較大的影響。老年人的口渴感通常是降低而非增強,這也進一步提高其風險。"},
+    "pdf_pages": [109, 110],
+    "tags": ["teaching", "health promotion"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client on hemodialysis with a 1000 mL/day fluid restriction tells the nurse, \"I am so thirsty all the time; I don't think I can keep doing this.\" Which nursing suggestions appropriately help the client manage thirst while adhering to the fluid restriction? Select all that apply.", "zh": "一位接受血液透析、每日限水1000 mL的病人對護理師說:「我一直覺得很渴,我覺得我撐不下去了。」下列護理師的建議中,哪些能在維持限水的同時,適當協助病人緩解口渴?(多選)"},
+    "options": [
+      {"en": "Freeze a portion of the client's allotted fluid as ice chips so it takes longer to consume", "zh": "將病人部分允許的液體製成冰塊,延長食用時間"},
+      {"en": "Suggest sucking on hard candy or chewing gum", "zh": "建議含硬糖或嚼口香糖"},
+      {"en": "Encourage rinsing the mouth with refrigerated mouthwash without swallowing", "zh": "鼓勵以冰涼的漱口水漱口但不要吞下"},
+      {"en": "Tell the client that exceeding the fluid restriction occasionally is acceptable", "zh": "告訴病人偶爾超過限水量是可以接受的"},
+      {"en": "Suggest adding a small amount of lemon juice to water to enhance flavor and satisfaction", "zh": "建議在水中加入少量檸檬汁以增加風味與滿足感"},
+      {"en": "Advise drinking an extra glass of water with each meal because dialysis will remove it", "zh": "建議每餐多喝一杯水,因為透析會將水分移除"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Freezing fluids, sucking hard candy or chewing gum, rinsing the mouth without swallowing, and adding lemon juice to water are nonpharmacological measures that relieve thirst while respecting the fluid restriction. Telling the client that exceeding the restriction is acceptable, or advising extra fluid intake, undermines the prescribed therapy and is inappropriate.", "zh": "將液體製成冰塊、含硬糖或嚼口香糖、以漱口水漱口但不吞下,以及在水中加入檸檬汁,都是在遵守限水原則下緩解口渴的非藥物措施。告訴病人偶爾超量可接受或建議額外喝水,則會破壞既定治療,並不適當。"},
+    "pdf_pages": [112],
+    "tags": ["sata", "generate solutions"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client has had a nasogastric tube connected to continuous low suction for 3 days following bowel surgery. Which assessment finding is the nurse's priority to report to the PHCP?", "zh": "一位病人腸道手術後接上鼻胃管並持續低壓抽吸已3天。護理師應優先向醫療人員報告下列哪一項評估發現?"},
+    "options": [
+      {"en": "Hypoactive bowel sounds", "zh": "腸蠕動音減弱"},
+      {"en": "Serum potassium of 3.0 mEq/L (3.0 mmol/L) with new abdominal distention and a weak, irregular pulse", "zh": "血鉀 3.0 mEq/L(3.0 mmol/L),合併新發生的腹脹與脈搏細弱不規則"},
+      {"en": "Mild thirst", "zh": "輕微口渴"},
+      {"en": "NG tube drainage of 150 mL in the last 8 hours", "zh": "過去8小時內鼻胃管引流量150 mL"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Prolonged nasogastric suction predisposes a client to hypokalemia from loss of potassium-rich gastric fluid. A potassium of 3.0 mEq/L with new abdominal distention (suggesting paralytic ileus) and an irregular pulse signals a potentially life-threatening electrolyte imbalance and must be reported immediately. The other findings are expected or minor.", "zh": "長時間鼻胃管抽吸會因流失富含鉀的胃液而容易導致低血鉀。血鉀3.0 mEq/L合併新發生的腹脹(提示麻痺性腸阻塞)與脈搏不規則,代表可能危及生命的電解質失衡,須立即報告。其餘發現屬於預期或輕微表現。"},
+    "pdf_pages": [115],
+    "tags": ["priority", "first action"]
+  }
+]

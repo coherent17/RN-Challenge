@@ -1,0 +1,231 @@
+[
+  {
+    "cat": "MC",
+    "stem": {"en": "The registered nurse (RN) is planning client assignments. Which task is most appropriate to delegate to an assistive personnel (AP)?", "zh": "護理師正在規劃病人分派工作。下列哪項任務最適合委派給助理人員（AP）？"},
+    "options": [
+      {"en": "Ambulating a stable client who is 2 days postoperative from a hip replacement", "zh": "協助一位髖關節置換術後第 2 天、情況穩定的病人下床走動"},
+      {"en": "Performing a dressing change on a stage 2 pressure injury", "zh": "為第二期壓傷進行換藥"},
+      {"en": "Administering an oral medication to a newly admitted client", "zh": "為新入院病人給予口服藥物"},
+      {"en": "Teaching a newly diagnosed client with diabetes mellitus how to self-administer insulin", "zh": "教導新診斷糖尿病病人自行注射胰島素"},
+      {"en": "Performing the initial nursing admission assessment on a new client", "zh": "為新入院病人執行初始護理入院評估"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Noninvasive interventions such as ambulation, hygiene, and range-of-motion exercises for a stable client can be assigned to an AP, who provides basic care that does not require assessment or nursing judgment. Dressing changes and medication administration are invasive tasks within the scope of an LPN or RN, and client teaching and the initial admission assessment require nursing judgment and must be performed by the RN.", "zh": "對穩定病人進行的非侵入性照護，如下床走動、衛生照護與關節活動運動，可委派給助理人員（AP），因為 AP 提供的是不需評估或護理判斷的基本照護。換藥與給藥屬於侵入性任務，屬於 LPN 或 RN 的職責範圍；而病人指導與初始入院評估則需要護理判斷，必須由 RN 執行。"},
+    "pdf_pages": [97, 98],
+    "tags": ["delegation", "assistive personnel"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nursing unit is staffed with an RN, a licensed practical nurse (LPN), and two APs. Which task should the RN assign to the LPN?", "zh": "某護理單位配置有一名 RN、一名執業實用護士（LPN）及兩名助理人員（AP）。RN 應將下列哪項任務分配給 LPN？"},
+    "options": [
+      {"en": "Formulating the initial plan of care for a newly admitted client", "zh": "為新入院病人擬定初始照護計畫"},
+      {"en": "Administering a scheduled subcutaneous heparin injection to a client with stable vital signs", "zh": "為生命徵象穩定的病人給予預定的皮下注射肝素"},
+      {"en": "Admitting a client being transferred from the intensive care unit", "zh": "接收由加護病房轉來的病人並辦理入院"},
+      {"en": "Developing the discharge teaching plan for a client newly started on warfarin", "zh": "為剛開始使用華法林的病人擬定出院指導計畫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An LPN can perform certain invasive tasks, including medication administration such as scheduled subcutaneous injections, for a stable client, according to education and job description. Formulating a plan of care, admitting a client transferred from a critical care area, and developing a teaching plan require nursing judgment and assessment and must be performed by the RN.", "zh": "LPN 依其教育訓練與職務說明，可為穩定病人執行某些侵入性任務，包括給予預定的皮下注射。擬定照護計畫、接收由重症單位轉來的病人入院，以及擬定指導計畫，皆需要護理判斷與評估，必須由 RN 執行。"},
+    "pdf_pages": [97, 98],
+    "tags": ["delegation", "LPN"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "In the emergency department, the triage nurse uses a three-tiered color-coded system. Which client should be classified as Emergent (Red), Priority 1?", "zh": "急診室分類護理師採用三級顏色分類系統。下列哪位病人應歸類為「緊急（紅色）」第一優先？"},
+    "options": [
+      {"en": "A client with a simple closed fracture of the wrist and pain rated 6 of 10", "zh": "手腕單純閉合性骨折、疼痛程度 6/10 的病人"},
+      {"en": "A client with severe respiratory distress and new-onset cyanosis", "zh": "出現嚴重呼吸窘迫及新發生發紺的病人"},
+      {"en": "A client with a minor laceration and controlled bleeding", "zh": "輕微撕裂傷且出血已受控制的病人"},
+      {"en": "A client with a sprained ankle who is ambulatory", "zh": "腳踝扭傷但可自行行走的病人"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Emergent (red) classification is assigned to clients with life-threatening injuries needing immediate attention, such as severe respiratory distress; these clients have a high probability of survival once stabilized. A closed wrist fracture and minor laceration are urgent or nonurgent, and an ambulatory client with a sprain is nonurgent.", "zh": "緊急（紅色）分類適用於有生命威脅、需立即處置的病人，如嚴重呼吸窘迫；這類病人在穩定後有較高的存活機率。單純手腕骨折與輕微撕裂傷屬於次緊急或非緊急；可自行行走的腳踝扭傷病人屬於非緊急。"},
+    "pdf_pages": [101],
+    "tags": ["triage", "priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is the first responder at the scene of a school bus accident and must triage victims using the principles of Simple Triage and Rapid Treatment (START). Which victim should receive the highest priority?", "zh": "護理師為校車事故現場的第一位到達者，必須依簡易分類快速治療法（START）原則對傷者進行分類。下列哪位傷者應列為最高優先？"},
+    "options": [
+      {"en": "A confused child with bright red blood pulsating from a leg wound", "zh": "一位意識混亂的兒童，腿部傷口有鮮紅色血液搏動性噴出"},
+      {"en": "A child with a simple fracture of the forearm who is crying from pain", "zh": "前臂單純骨折且因疼痛哭泣的兒童"},
+      {"en": "A sobbing child with several minor facial lacerations", "zh": "一位因多處輕微臉部撕裂傷而哭泣的兒童"},
+      {"en": "A child who is ambulatory with a minor contusion to the knee", "zh": "可自行行走、膝部有輕微挫傷的兒童"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Think survivability. Pulsating bright red blood indicates arterial bleeding and an immediate threat to circulation and life; this victim can likely be saved with rapid intervention and is tagged as the highest priority. The other victims have injuries that are not immediately life-threatening and can wait.", "zh": "請以「存活可能性」為考量。鮮紅色搏動性出血代表動脈出血，對循環與生命構成立即威脅；此傷者若能迅速處置極可能獲救，因此應列為最高優先。其餘傷者的傷害並非立即威脅生命，可稍後處理。"},
+    "pdf_pages": [100, 101],
+    "tags": ["triage", "disaster", "mass casualty", "first action"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse manager is explaining the difference between a multicasualty event and a mass casualty event to new staff. Which statement by a staff nurse indicates accurate understanding?", "zh": "護理長正向新進人員說明「多重傷患事件」與「大量傷患事件」的差異。下列哪位護理師的陳述顯示其理解正確？"},
+    "options": [
+      {"en": "\"A multicasualty event involves a number of casualties that exceeds the hospital's resource capabilities.\"", "zh": "「多重傷患事件是指傷患數量超出醫院資源承載能力的事件。」"},
+      {"en": "\"A mass casualty event can be managed using the hospital's existing resources without outside assistance.\"", "zh": "「大量傷患事件可僅以醫院現有資源處理，不需外部支援。」"},
+      {"en": "\"A multicasualty event involves a limited number of victims that can be managed with the hospital's available resources.\"", "zh": "「多重傷患事件涉及有限數量的傷患，可用醫院現有資源處理。」"},
+      {"en": "\"Both event types automatically require activation of the federal emergency response plan.\"", "zh": "「這兩種事件類型都會自動觸發聯邦緊急應變計畫。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A multicasualty event involves a limited number of casualties that can be managed by a hospital using its own available resources. A mass casualty event involves casualties that exceed the resource capabilities of the hospital and is also known as a disaster; it typically requires external assistance, not automatically a federal declaration.", "zh": "多重傷患事件是指傷患數量有限，醫院可用自身現有資源加以處理。大量傷患事件則是指傷患數量超出醫院資源承載能力，又稱為「災難」，通常需要外部支援，但並非自動觸發聯邦宣告。"},
+    "pdf_pages": [99, 100],
+    "tags": ["disaster"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is reviewing the \"five rights of delegation\" with a newly hired nurse. Which are included in these five rights? Select all that apply.", "zh": "RN 正與新進護理師複習「委派五大原則」。下列哪些屬於這五大原則？請選出所有適用的答案。"},
+    "options": [
+      {"en": "Right task", "zh": "正確的任務"},
+      {"en": "Right circumstances", "zh": "正確的情境"},
+      {"en": "Right person", "zh": "正確的人員"},
+      {"en": "Right direction/communication", "zh": "正確的指示／溝通"},
+      {"en": "Right supervision/evaluation", "zh": "正確的督導／評值"},
+      {"en": "Right documentation format", "zh": "正確的文件格式"}
+    ],
+    "answer": [0, 1, 2, 3, 4],
+    "rationale": {"en": "The five rights of delegation include the right task, right circumstances, right person, right direction/communication, and right supervision/evaluation. Documentation format is not one of the five rights, although accurate documentation is always expected.", "zh": "委派五大原則包括：正確的任務、正確的情境、正確的人員、正確的指示／溝通，以及正確的督導／評值。文件格式並不屬於這五大原則之一，但正確文件記錄仍是基本要求。"},
+    "pdf_pages": [96, 97],
+    "tags": ["delegation", "sata"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is making client care assignments on a busy medical unit. Which task cannot be delegated to an AP or an LPN and must be performed by the RN?", "zh": "RN 正在繁忙的內科病房分派照護任務。下列哪項任務不能委派給 AP 或 LPN，必須由 RN 執行？"},
+    "options": [
+      {"en": "Performing the initial comprehensive head-to-toe assessment of a newly admitted client", "zh": "為新入院病人執行初始全身性頭到腳評估"},
+      {"en": "Assisting a stable client with bathing and hygiene care", "zh": "協助穩定病人沐浴與衛生照護"},
+      {"en": "Obtaining an oral temperature on a stable client", "zh": "為穩定病人測量口溫"},
+      {"en": "Ambulating a postoperative client who was assisted earlier in the shift", "zh": "協助本班早些時候已協助過一次的術後病人下床走動"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The nurse cannot delegate any activity that involves nursing judgment or critical decision making. The initial comprehensive assessment requires analysis and clinical judgment and must be performed by the RN. Bathing, obtaining a temperature, and ambulation of a stable client are noninvasive tasks that can be delegated to an AP.", "zh": "任何涉及護理判斷或關鍵決策的活動皆不可委派。初始全身性評估需要分析與臨床判斷，必須由 RN 執行。沐浴、測量體溫及協助穩定病人下床走動則屬非侵入性任務，可委派給 AP。"},
+    "pdf_pages": [96],
+    "tags": ["delegation", "nursing judgment"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN receives report on four clients at the start of the shift. Which client should the RN assess first?", "zh": "RN 於換班時接獲四位病人的交班報告。RN 應優先評估哪位病人？"},
+    "options": [
+      {"en": "A client with heart failure who gained 3 lb (1.4 kg) overnight and now reports increased shortness of breath when lying flat", "zh": "一位心臟衰竭病人，整夜體重增加 3 磅（1.4 公斤），現在躺平時呼吸困難加劇"},
+      {"en": "A client who is 1 day postoperative from a lung wedge resection with a stable closed chest tube drainage system", "zh": "一位肺楔形切除術後第 1 天、閉式胸管引流系統穩定的病人"},
+      {"en": "A client admitted for observation whose bowel sounds were noted to be hypoactive on the previous shift", "zh": "一位因觀察入院的病人，上一班記錄其腸鳴音減弱"},
+      {"en": "A client scheduled for an elective hysterectomy tomorrow who has questions about preoperative teaching", "zh": "一位明天即將接受選擇性子宮切除手術的病人，對術前指導有疑問"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Using the ABCs and recognizing cues, a new change in respiratory status with worsening orthopnea in a client with heart failure indicates a possible exacerbation requiring immediate assessment. The other clients have stable or lower-acuity needs that can be addressed afterward.", "zh": "運用 ABC 優先順序及辨識徵象，心臟衰竭病人出現呼吸狀態惡化、端坐呼吸加重，顯示可能病情加劇，需立即評估。其餘病人情況穩定或照護需求較低，可稍後處理。"},
+    "pdf_pages": [97, 98],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is giving a telephone report to the primary health care provider (PHCP) about a client's change in status. Which statement best reflects proper use of the SBAR communication model?", "zh": "護理師以電話方式向主治醫師（PHCP）報告病人狀態改變。下列哪段陳述最能反映 SBAR 溝通模式的正確運用？"},
+    "options": [
+      {"en": "\"The client seems stable overall; nothing specific to report right now.\"", "zh": "「病人整體看起來穩定，目前沒有特別要報告的事項。」"},
+      {"en": "\"Situation: sudden onset of left-sided weakness and slurred speech. Background: admitted 2 days ago for atrial fibrillation. Assessment: BP 168/94 mm Hg, facial drooping noted. Recommendation: requesting an immediate neurological evaluation.\"", "zh": "「情況：突然發生左側無力與言語不清。背景：2 天前因心房顫動入院。評估：血壓 168/94 mmHg，並出現臉部下垂。建議：請求立即進行神經學評估。」"},
+      {"en": "A report that lists only the client's current vital signs", "zh": "僅列出病人目前生命徵象的報告"},
+      {"en": "A report that lists only the client's medication administration record", "zh": "僅列出病人給藥記錄的報告"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "SBAR (Situation, Background, Assessment, Recommendation) is a structured communication technique that organizes up-to-date information about the client's situation, background, assessment findings, and a specific recommendation for care. A vague statement or a report limited to one data type does not meet the SBAR structure.", "zh": "SBAR（情況、背景、評估、建議）是一種結構化溝通技巧，能整理病人目前情況、背景資訊、評估發現，以及具體照護建議。含糊的陳述或僅侵蓋單一類型資料的報告，皆不符合 SBAR 結構。"},
+    "pdf_pages": [96],
+    "tags": ["communication", "SBAR"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse assesses a client on a medical-surgical unit who has new-onset confusion, a respiratory rate of 28 breaths/min, and an oxygen saturation of 88% on room air. The client's condition is deteriorating but does not yet require a code. What is the nurse's best first action?", "zh": "護理師評估內外科病房一位病人，出現新發意識混亂、呼吸速率 28 次／分、未使用氧氣時血氧飽和度 88%。病人狀況正在惡化但尚不需啟動急救。護理師的最佳首要行動為何？"},
+    "options": [
+      {"en": "Document the findings and reassess in 1 hour", "zh": "記錄發現並於 1 小時後再評估"},
+      {"en": "Activate the rapid-response team", "zh": "啟動快速反應團隊"},
+      {"en": "Delegate reassessment of the client to the AP in 30 minutes", "zh": "委派 AP 於 30 分鐘後再評估病人"},
+      {"en": "Wait for the PHCP's scheduled rounds later that morning", "zh": "等待主治醫師當天上午預定的巡房時間"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rapid-response teams are used to assist nursing staff with early detection and resolution of client problems and respond to hospitalized clients with early signs of deterioration on non–intensive care units to prevent respiratory or cardiac arrest. Delaying assessment or action could allow the client's condition to progress to a life-threatening event.", "zh": "快速反應團隊可協助護理人員早期發現並處理病人問題，對於非加護單位出現早期惡化徵象的住院病人做出回應，以預防呼吸或心臟停止。延遲評估或行動可能使病人病情惡化至危及生命的狀態。"},
+    "pdf_pages": [95, 96],
+    "tags": ["rapid response", "requires immediate action"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse manager is introducing a new electronic documentation system. Before implementation, the manager gathers staff input and evidence supporting the need for the change. According to Lewin's theory, which phase of the change process does this represent?", "zh": "護理長正準備導入新的電子紀錄系統。在實施前，護理長蒐集員工意見及支持變革必要性的證據。依據勒溫（Lewin）理論，這屬於變革過程的哪個階段？"},
+    "options": [
+      {"en": "Unfreezing", "zh": "解凍期"},
+      {"en": "Moving and changing", "zh": "變動期"},
+      {"en": "Refreezing", "zh": "再凍結期"},
+      {"en": "Resistance", "zh": "抗拒期"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Unfreezing is the first phase of Lewin's change process, during which the problem is identified and individuals involved gather facts and evidence supporting a basis for change. Moving and changing is when the change is planned and implemented, and refreezing is when the change becomes stabilized. Resistance is not one of Lewin's three phases.", "zh": "解凍期是勒溫變革過程的第一階段，在此階段中問題被確認，相關人員蒐集事實與證據以支持變革的必要性。變動期是計畫並實施變革的階段，再凍結期則是變革趨於穩定的階段。抗拒並非勒溫三階段之一。"},
+    "pdf_pages": [93, 94],
+    "tags": ["change process", "leadership"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "An AP is resistant to a change in the nursing delivery model from functional to team nursing and is not actively participating in the transition. Which is the best approach for the nurse manager to use?", "zh": "一位 AP 對護理照護模式由功能式護理改為團隊護理的變革感到抗拒，且未積極參與轉換過程。護理長最佳的處理方式為何？"},
+    "options": [
+      {"en": "Ignore the resistance and proceed with implementation", "zh": "忽視其抗拒，直接繼續實施變革"},
+      {"en": "Threaten disciplinary action if the AP does not comply", "zh": "警告若不配合將採取懲處行動"},
+      {"en": "Encourage the AP to verbalize feelings and concerns about the change", "zh": "鼓勵該 AP 說出對變革的感受與擔憂"},
+      {"en": "Reassign the AP to a different nursing unit", "zh": "將該 AP 調派至其他護理單位"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Encouraging verbalization of feelings and concerns helps identify the underlying reasons for resistance, such as fear of the unknown or lack of understanding, and allows the manager to address them directly. Ignoring resistance, coercion, and reassignment do not address the underlying cause and can worsen morale.", "zh": "鼓勵表達感受與擔憂有助於找出抗拒的根本原因，如對未知的恐懼或理解不足，讓護理長能直接處理。忽視抗拒、強制手段或調派皆無法處理根本原因，反而可能使士氣更加低落。"},
+    "pdf_pages": [93, 94],
+    "tags": ["change process", "conflict"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which nursing action is an example of the mitigation phase of disaster management?", "zh": "下列哪項護理行動屬於災難管理「減災期」的範例？"},
+    "options": [
+      {"en": "Participating in a mock disaster drill", "zh": "參與模擬災難演習"},
+      {"en": "Identifying community hazards and available resources before a disaster occurs", "zh": "在災難發生前識別社區潛在危害與可用資源"},
+      {"en": "Activating the emergency response plan when a disaster occurs", "zh": "災難發生時啟動緊急應變計畫"},
+      {"en": "Providing crisis counseling to survivors after the event", "zh": "事件發生後為生還者提供危機諮商"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mitigation includes determining community hazards and risks and being aware of available resources before a disaster occurs to minimize chaos and confusion. Mock drills are part of preparedness, activating the plan is part of response, and crisis counseling is part of recovery.", "zh": "減災期包括在災難發生前確定社區危害與風險，並了解可用資源，以減少混亂與失序。模擬演習屬於整備期；啟動應變計畫屬於應變期；危機諮商屬於復原期。"},
+    "pdf_pages": [99, 100],
+    "tags": ["disaster"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which event would be classified by the Federal Emergency Management Agency (FEMA) as a Level I disaster?", "zh": "下列哪項事件會被聯邦緊急事務管理署（FEMA）歸類為第一級災難？"},
+    "options": [
+      {"en": "A massive hurricane resulting in a presidential disaster declaration and full engagement of federal, regional, and national resources", "zh": "一場重大颶風，導致總統宣布災難並全面動用聯邦、區域及全國資源"},
+      {"en": "A small kitchen fire contained to one hospital unit", "zh": "局限於醫院某一單位的小型廚房火災"},
+      {"en": "A localized power outage affecting one wing of a hospital", "zh": "僅影響醫院某一側廳的局部停電"},
+      {"en": "A minor multi-vehicle accident managed with existing local emergency medical services", "zh": "以現有地方緊急醫療服務即可處理的輕微多車事故"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "A Level I disaster is a massive disaster involving significant damage that results in a presidential disaster declaration, with major federal, regional, and national resource involvement. The other options describe minor, localized events manageable with existing facility or local resources.", "zh": "第一級災難是指造成重大損害、導致總統宣布災難，並大規模動用聯邦、區域及全國資源的重大事件。其餘選項描述的則是可用現有機構或地方資源處理的輕微局部事件。"},
+    "pdf_pages": [100, 101],
+    "tags": ["disaster", "FEMA"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is delegating tasks to an AP for a group of stable clients. Which tasks are appropriate to delegate? Select all that apply.", "zh": "RN 正為一組狀況穩定的病人向 AP 委派任務。下列哪些任務適合委派？請選出所有適用的答案。"},
+    "options": [
+      {"en": "Assisting a stable client with ambulation", "zh": "協助穩定病人下床走動"},
+      {"en": "Performing routine hygiene care", "zh": "執行日常衛生照護"},
+      {"en": "Measuring and recording an oral temperature", "zh": "測量並記錄口溫"},
+      {"en": "Initiating a blood transfusion", "zh": "開始輸血"},
+      {"en": "Administering an intramuscular injection", "zh": "給予肌肉注射"},
+      {"en": "Obtaining vital signs on a client with a stable condition", "zh": "為狀況穩定的病人測量生命徵象"}
+    ],
+    "answer": [0, 1, 2, 5],
+    "rationale": {"en": "Noninvasive interventions such as ambulation, hygiene measures, and routine vital sign measurement can be assigned to an AP, who provides basic care not requiring assessment. Initiating a blood transfusion and administering injections are invasive tasks requiring nursing judgment that are outside the scope of an AP.", "zh": "非侵入性照護，如下床走動、衛生照護及日常生命徵象測量，可委派給 AP，因其提供的是不需評估的基本照護。開始輸血與給予注射屬於侵入性任務，需要護理判斷，超出 AP 的職責範圍。"},
+    "pdf_pages": [96, 97],
+    "tags": ["delegation", "sata", "assistive personnel"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Rescue workers arrive at the scene of a building collapse and begin triage. Which victim would most appropriately be assigned a \"black\" tag?", "zh": "救援人員抵達建築物倒塌現場並開始分類。下列哪位傷者最適合被標記為「黑色」標籤？"},
+    "options": [
+      {"en": "A victim with agonal respirations and no palpable pulse after sustaining multiple severe crush injuries", "zh": "承受多處嚴重壓砸傷後，出現臨終呼吸且無可觸及脈搏的傷者"},
+      {"en": "A victim with an open femur fracture and a palpable distal pulse", "zh": "股骨開放性骨折但遠端脈搏可觸及的傷者"},
+      {"en": "A victim with a laceration requiring sutures who is ambulatory", "zh": "需要縫合但可自行行走的撕裂傷傷者"},
+      {"en": "A victim with chest pain and stable vital signs", "zh": "胸痛但生命徵象穩定的傷者"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Some triage systems tag a victim \"black\" if the victim is dead or will soon be deceased because of the severity of injuries and would not benefit from any care. Agonal breathing with no palpable pulse after severe crush injury reflects this situation. The other victims have survivable injuries and would be tagged red, yellow, or green.", "zh": "部分分類系統會將因傷害嚴重而即將死亡或已死亡、無法從任何照護中獲益的傷者標記為「黑色」。嚴重壓砸傷後出現臨終呼吸且無可觸及脈搏即符合此情形。其餘傷者的傷害具存活可能，應標記為紅、黃或綠色。"},
+    "pdf_pages": [101],
+    "tags": ["triage", "disaster", "mass casualty"]
+  }
+]

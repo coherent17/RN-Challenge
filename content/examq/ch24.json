@@ -1,0 +1,283 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client's membranes rupture spontaneously while she is ambulating, and the fetal monitor shows a sudden drop in FHR to 60 beats/minute. A vaginal examination reveals a loop of pulsating umbilical cord in the vagina. What is the nurse's priority action?",
+      "zh": "產婦走動時自然破水，胎心監測突然降至每分鐘60次。陰道檢查發現臍帶脫出並可觸及搏動。護理師的首要處置為何？"
+    },
+    "options": [
+      {"en": "Use a gloved hand to apply upward pressure on the presenting part to relieve cord compression and reposition the client to knee-chest or Trendelenburg", "zh": "戴手套以手指向上頂住胎兒先露部以解除臍帶受壓，並協助產婦採膝胸或頭低腳高姿勢"},
+      {"en": "Attempt to gently push the exposed cord back into the vagina", "zh": "嘗試將脫出的臍帶輕輕推回陰道內"},
+      {"en": "Place the client supine and begin oxytocin augmentation to expedite delivery", "zh": "讓產婦平躺，並開始催產素加速引產以儘速分娩"},
+      {"en": "Document the finding and reassess the fetal heart rate in 15 minutes", "zh": "記錄發現並於15分鐘後重新評估胎心"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Umbilical cord prolapse is an obstetric emergency; the priority is relieving cord compression by manually elevating the presenting part off the cord and repositioning the client (knee-chest or Trendelenburg) while calling for help and preparing for emergent birth, usually cesarean. The cord is never pushed back in, oxytocin is never started, and this finding cannot wait for reassessment.",
+      "zh": "臍帶脫出為產科急症，首要處置是以手頂住先露部解除臍帶壓迫，並協助採膝胸或頭低腳高姿勢，同時呼叫支援並準備緊急生產（通常為剖腹產）。絕不可將臍帶推回，也不可此時開始催產素，更不可延遲15分鐘才處理。"
+    },
+    "pdf_pages": [367, 371],
+    "tags": ["priority", "obstetric emergency", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse reviews an electronic fetal monitor tracing. Which findings require immediate nursing intervention? Select all that apply.",
+      "zh": "護理師檢視胎兒電子監測圖，下列哪些發現需要立即護理處置？（複選）"
+    },
+    "options": [
+      {"en": "Decelerations that begin and end with the contraction and mirror its shape", "zh": "減速與宮縮同時開始、同時結束，形狀與宮縮相似"},
+      {"en": "Minimal FHR variability for the past 40 minutes with absent accelerations", "zh": "過去40分鐘胎心變異性極小且無加速反應"},
+      {"en": "Baseline FHR of 172 beats/minute sustained for 15 minutes", "zh": "基線胎心率持續15分鐘維持在每分鐘172次"},
+      {"en": "FHR accelerations of 20 beats/minute above baseline with fetal movement", "zh": "胎動時胎心加速超過基線20次/分"},
+      {"en": "Decelerations that drop to 65 beats/minute and persist for 75 seconds before returning to baseline", "zh": "減速降至每分鐘65次並持續75秒才回到基線"}
+    ],
+    "answer": [1, 2, 4],
+    "rationale": {
+      "en": "Minimal variability with no accelerations, sustained tachycardia (>160 for >10 minutes), and variable decelerations that fall below 70 beats/minute for 60 seconds or longer are all nonreassuring and require intervention. Uniform decelerations mirroring contractions describe early decelerations (head compression, benign), and accelerations with movement are reassuring.",
+      "zh": "變異性極小且無加速反應、持續性胎兒心搏過速（超過160次/分達10分鐘以上）、以及減速降至每分鐘70次以下且持續60秒以上，皆屬不安心徵象，需要處置。與宮縮同形的均一減速為早期減速（頭部受壓所致，屬良性），胎動伴加速則為安心徵象。"
+    },
+    "pdf_pages": [366, 367, 368],
+    "tags": ["sata", "recognize cues", "fetal monitoring"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A nulliparous client at 40 weeks of gestation has a Bishop score of 4 before a scheduled induction. The nurse interprets this score to mean which of the following?",
+      "zh": "一位足月（40週）初產婦在預定催產前的Bishop評分為4分。護理師應如何解讀此分數？"
+    },
+    "options": [
+      {"en": "The cervix is unfavorable, and the chance of successful induction leading to vaginal birth is lower without cervical ripening", "zh": "子宮頸條件不佳，若未先行子宮頸促熟，成功催產並經陰道分娩的機率較低"},
+      {"en": "The cervix is fully favorable, and oxytocin can be started at the maximum rate immediately", "zh": "子宮頸條件完全成熟，可立即以最大速率開始催產素"},
+      {"en": "The fetus is in a breech presentation and will require cesarean delivery", "zh": "胎兒為臀位，需要剖腹產"},
+      {"en": "The client is not a candidate for induction under any circumstances", "zh": "此產婦在任何情況下都不適合催產"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The Bishop score evaluates cervical dilation, effacement, consistency, position, and fetal station, each scored 0-3. A score of 8 or greater indicates a favorable cervix with a good chance of successful vaginal birth after induction; a low score such as 4 indicates an unfavorable cervix, and a cervical ripening agent is typically used first.",
+      "zh": "Bishop評分評估子宮頸擴張、變薄、軟硬度、位置及胎兒先露部位，每項0至3分。總分8分以上代表子宮頸條件良好，催產後成功經陰道分娩機率高；分數偏低（如4分）代表子宮頸尚未成熟，通常需先使用子宮頸促熟劑。"
+    },
+    "pdf_pages": [370, 371],
+    "tags": ["labs", "induction"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A client receiving an oxytocin infusion for labor augmentation has contractions occurring every 90 seconds and lasting 100 seconds. The FHR baseline is 150 beats/minute with moderate variability. What is the nurse's priority action?",
+      "zh": "一位接受催產素輸注以加強產程的產婦，宮縮每90秒出現一次、每次持續100秒；胎心基線為每分鐘150次，變異性中等。護理師的首要處置為何？"
+    },
+    "options": [
+      {"en": "Stop the oxytocin infusion", "zh": "停止催產素輸注"},
+      {"en": "Decrease the IV fluid rate", "zh": "減慢靜脈輸液速率"},
+      {"en": "Prepare the client for an immediate cesarean delivery", "zh": "為產婦準備立即剖腹產"},
+      {"en": "Document the findings as a normal labor pattern", "zh": "記錄為正常產程型態並繼續觀察"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A desired contraction pattern during oxytocin augmentation is a frequency of every 2 to 3 minutes lasting about 60 seconds. Contractions occurring every 90 seconds (less than 2 minutes apart) and lasting 100 seconds (longer than 90 seconds) indicate tachysystole/hyperstimulation; the oxytocin infusion must be discontinued immediately to prevent uteroplacental insufficiency, even though the FHR is currently reassuring.",
+      "zh": "催產素加強產程時理想的宮縮型態為每2至3分鐘一次、持續約60秒。此產婦宮縮間隔僅90秒（小於2分鐘）且持續100秒（超過90秒），屬子宮過度刺激，即使目前胎心尚屬安心，仍須立即停止催產素以避免子宮胎盤灌流不足。"
+    },
+    "pdf_pages": [371],
+    "tags": ["dosage safety", "priority", "medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The primary health care provider wants to apply a fetal scalp electrode for internal fetal monitoring. Which assessment finding must the nurse confirm before this can be done?",
+      "zh": "醫師欲放置胎兒頭皮電極以進行內部胎兒監測，護理師須先確認下列哪項評估結果？"
+    },
+    "options": [
+      {"en": "Membranes are ruptured and the cervix is dilated at least 2 to 3 cm", "zh": "羊膜已破且子宮頸至少擴張2至3公分"},
+      {"en": "The client has received epidural anesthesia", "zh": "產婦已接受硬脊膜外麻醉"},
+      {"en": "The fetus is at a -2 station", "zh": "胎兒先露部位於-2站"},
+      {"en": "The client is in the latent phase with intact membranes", "zh": "產婦處於產程潛伏期且羊膜完整"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Internal fetal monitoring is invasive and requires rupture of membranes and cervical dilation of 2 to 3 cm so the electrode can be attached to the presenting part. Intact membranes or an undilated cervix make the procedure unsafe or impossible, and station/anesthesia status do not determine eligibility.",
+      "zh": "內部胎兒監測屬侵入性處置，需羊膜已破且子宮頸擴張達2至3公分，才能將電極固定於胎兒先露部。羊膜未破或子宮頸未擴張時無法安全執行，胎先露站次或麻醉狀態並非決定因素。"
+    },
+    "pdf_pages": [366],
+    "tags": ["procedure", "prerequisites"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A multiparous client at 38 weeks of gestation calls the triage line describing uterine tightening. Which statement by the client best indicates true labor?",
+      "zh": "一位妊娠38週的經產婦打電話描述子宮緊縮感。下列哪句話最能顯示其為真性產痛？"
+    },
+    "options": [
+      {"en": "\"The tightening is only in my lower abdomen and groin and is more annoying than painful.\"", "zh": "「緊縮感只在我的下腹部和腹股溝，比較像是惱人而不太痛。」"},
+      {"en": "\"When I walked around the kitchen, the tightening went away.\"", "zh": "「我在廚房走動後，緊縮感就消失了。」"},
+      {"en": "\"The tightening started as cramps but is now coming closer together, lasting longer, and feels much stronger.\"", "zh": "「一開始像月經痛，但現在越來越密集、持續時間變長、也更強烈了。」"},
+      {"en": "\"I can still fall asleep between the episodes of tightening.\"", "zh": "「這些緊縮感之間我還能睡著。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "True labor contractions progressively increase in frequency, duration, and intensity and produce progressive cervical dilation and effacement with fetal descent. False labor contractions are irregular, do not progress, are often relieved by activity such as walking, and are felt mainly in the abdomen and groin.",
+      "zh": "真性產痛的宮縮會逐漸增加頻率、持續時間與強度，並伴隨子宮頸漸進性擴張、變薄與胎兒下降。假性產痛則宮縮不規則、不進展，常因走動等活動而緩解，且主要感覺在腹部與腹股溝。"
+    },
+    "pdf_pages": [364],
+    "tags": ["patient education", "evaluate outcomes"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "Immediately after an amniotomy is performed, which action is the nurse's first priority?",
+      "zh": "進行人工破水後，護理師的首要處置為何？"
+    },
+    "options": [
+      {"en": "Assess the fetal heart rate and pattern", "zh": "評估胎心率與其型態"},
+      {"en": "Assess the client's bladder for distention", "zh": "評估產婦膀胱是否脹滿"},
+      {"en": "Reassess cervical dilation", "zh": "重新評估子宮頸擴張程度"},
+      {"en": "Change the client's perineal pad", "zh": "更換產婦的會陰墊"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Amniotomy increases the risk of umbilical cord prolapse, especially with a high presenting part, so the fetal heart rate must be assessed immediately after the procedure to detect cord compression or prolapse. Fluid color, odor, and amount are also documented, but FHR assessment comes first.",
+      "zh": "人工破水會增加臍帶脫出的風險，尤其當先露部仍高時更為明顯，因此術後須立即評估胎心率以偵測是否有臍帶受壓或脫出。羊水的顏色、氣味與量也須記錄，但胎心評估為優先。"
+    },
+    "pdf_pages": [371],
+    "tags": ["first action", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client in labor with an intrauterine pressure catheter (IUPC) in place has a documented resting tone of 28 mm Hg between contractions, and the uterus does not fully relax for more than 30 seconds between contractions. The nurse should recognize this as a sign of which complication?",
+      "zh": "一位置入宮內壓力導管（IUPC）的產婦，宮縮間期靜止張力記錄為28 mmHg，且子宮在宮縮之間無法完全放鬆超過30秒。護理師應認為這是哪種併發症的徵象？"
+    },
+    "options": [
+      {"en": "Hypertonic uterine activity with reduced uteroplacental blood flow", "zh": "子宮過度緊張性收縮，導致子宮胎盤血流減少"},
+      {"en": "Normal labor progress in the active phase", "zh": "活躍期的正常產程進展"},
+      {"en": "An expected finding during the second stage of labor", "zh": "第二產程的預期發現"},
+      {"en": "A sign that the client is ready to push", "zh": "顯示產婦已可開始用力"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The average resting tone between contractions is 5 to 15 mm Hg, and the uterus should relax for 60 seconds or longer between contractions. A resting tone of 28 mm Hg with inadequate relaxation time indicates hypertonic uterine activity, which reduces uterine blood flow and fetal oxygen supply and requires prompt intervention.",
+      "zh": "宮縮間期正常靜止張力約為5至15 mmHg，且子宮應能放鬆60秒以上。靜止張力達28 mmHg且放鬆時間不足，代表子宮過度緊張性收縮，會降低子宮血流與胎兒氧氣供應，須立即處置。"
+    },
+    "pdf_pages": [368],
+    "tags": ["recognize cues", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "Thirty minutes after a lumbar epidural block is placed, the nurse notes the client's blood pressure has dropped from 118/74 to 84/48 mm Hg. What is the nurse's priority action?",
+      "zh": "施行腰椎硬脊膜外麻醉30分鐘後，護理師發現產婦血壓由118/74降至84/48 mmHg。護理師的首要處置為何？"
+    },
+    "options": [
+      {"en": "Position the client laterally and increase the IV fluid infusion rate as prescribed", "zh": "協助產婦側臥並依醫囑增加靜脈輸液速率"},
+      {"en": "Lower the head of the bed to Trendelenburg position and withhold further IV fluids", "zh": "將床頭放低至頭低腳高姿勢並暫停靜脈輸液"},
+      {"en": "Discontinue the epidural catheter immediately", "zh": "立即移除硬脊膜外導管"},
+      {"en": "Reassure the client that this is an expected finding requiring no action", "zh": "安撫產婦此為預期現象，不需處置"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Hypotension is a known adverse effect of epidural block from sympathetic blockade. The priority is to reposition the client (side-lying, or with a wedge under the hip to avoid vena cava compression) and increase IV fluids as prescribed to restore blood pressure and uteroplacental perfusion; the provider is also notified. Trendelenburg is not used, and this finding is not benign.",
+      "zh": "低血壓是硬脊膜外麻醉因交感神經阻斷造成的已知副作用。首要處置為協助產婦變換姿勢（側臥或髖部墊高以避免下腔靜脈受壓）並依醫囑增加輸液，以恢復血壓與子宮胎盤灌流，同時通知醫師。不應採頭低腳高姿勢，此現象也非無須處置。"
+    },
+    "pdf_pages": [370],
+    "tags": ["medication safety", "take action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client received a subarachnoid (spinal) block just before a cesarean birth. On arrival to the postpartum unit, the client asks to sit up in bed to hold her newborn. What should the nurse do?",
+      "zh": "一位產婦於剖腹產前接受脊髓下腔麻醉（蜘蛛膜下腔阻斷）。抵達產後病房後，她要求坐起抱新生兒。護理師應如何處理？"
+    },
+    "options": [
+      {"en": "Explain that she must remain flat in bed for 8 to 12 hours after the spinal injection to reduce the risk of a spinal headache", "zh": "說明脊髓麻醉後須平躺8至12小時，以降低脊髓性頭痛的風險"},
+      {"en": "Assist her to sit upright immediately, since spinal anesthesia has no positioning restrictions", "zh": "立即協助她坐直，因為脊髓麻醉並無姿勢限制"},
+      {"en": "Tell her sitting up is fine as long as her epidural catheter has been removed", "zh": "告知只要硬脊膜外導管已移除，坐起並無問題"},
+      {"en": "Raise the head of the bed to 90 degrees to promote bonding with the newborn", "zh": "將床頭搖高至90度以促進母嬰依附"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "After a subarachnoid (spinal) block, the client must lie flat for 8 to 12 hours to minimize the risk of a postdural puncture (spinal) headache, which can occur with this type of anesthesia. The nurse should still support bonding using alternative positioning that keeps the client supine/flat.",
+      "zh": "接受脊髓下腔麻醉後，產婦須平躺8至12小時，以降低術後脊髓性（硬脊膜穿刺後）頭痛的風險，此麻醉方式較易發生此副作用。護理師仍可在維持平躺姿勢下協助促進母嬰依附。"
+    },
+    "pdf_pages": [370],
+    "tags": ["patient education", "medication safety"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The RN is caring for a client in the active phase of the first stage of labor. Which task is appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+      "zh": "RN正照護一位處於第一產程活躍期的產婦。下列哪項任務適合委派給無照護理輔助人員（UAP）？"
+    },
+    "options": [
+      {"en": "Offering ice chips and repositioning the client for comfort", "zh": "提供冰塊並協助產婦調整姿勢以增加舒適度"},
+      {"en": "Assessing the fetal heart rate pattern after a contraction", "zh": "評估宮縮後的胎心率型態"},
+      {"en": "Performing Leopold's maneuvers to determine fetal position", "zh": "執行Leopold觸診以判斷胎位"},
+      {"en": "Interpreting the Bishop score to determine readiness for induction", "zh": "判讀Bishop評分以決定是否適合催產"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Comfort measures such as offering ice chips, repositioning, and applying counterpressure do not require assessment or clinical judgment and can be delegated to the UAP. Fetal heart rate interpretation, Leopold's maneuvers, and Bishop score interpretation require nursing assessment and judgment and must be performed by the RN.",
+      "zh": "提供冰塊、協助變換姿勢、施加反壓等舒適措施不需臨床評估或判斷，可委派給UAP執行。胎心率判讀、Leopold觸診及Bishop評分判讀皆需護理評估與臨床判斷，須由RN執行。"
+    },
+    "pdf_pages": [368],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "While performing Leopold's maneuvers, the nurse palpates a hard, round, movable mass in the fundus, with the mass readily ballottable between the examiner's fingers. What should the nurse suspect about fetal presentation based on this finding alone?",
+      "zh": "護理師執行Leopold觸診時，於子宮底觸及一硬、圓、可活動且易於指間浮球感的腫塊。僅就此發現，護理師應懷疑胎兒先露部位為何？"
+    },
+    "options": [
+      {"en": "The fetal head occupies the fundus, consistent with a breech presentation", "zh": "胎頭位於子宮底，與臀位相符"},
+      {"en": "The fetal head occupies the pelvic inlet, consistent with a cephalic presentation", "zh": "胎頭位於骨盆入口，與頭位相符"},
+      {"en": "The fetus is in a transverse lie with the shoulder presenting", "zh": "胎兒呈橫位，肩部為先露部"},
+      {"en": "The placenta is implanted over the fundus", "zh": "胎盤著床於子宮底"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The fetal head feels hard, round, and readily movable (ballottable), while the buttocks feel softer, irregular, and less mobile. A hard, round, ballottable mass palpated in the fundus means the head is up near the fundus, so the presenting part at the pelvic inlet is the buttocks or feet — a breech presentation.",
+      "zh": "胎頭觸感堅硬、圓形、易於浮球活動，而臀部觸感較軟、形狀不規則且活動度較低。若在子宮底觸及硬、圓、可浮球之腫塊，代表胎頭位於子宮底附近，骨盆入口處的先露部則為臀部或足部，即為臀位。"
+    },
+    "pdf_pages": [365],
+    "tags": ["assessment", "leopolds"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A newborn was delivered using vacuum-assisted extraction. Which assessment finding requires the nurse to notify the primary health care provider rather than continue routine monitoring?",
+      "zh": "一名新生兒以真空吸引輔助分娩。下列哪項發現需護理師通知醫師，而非僅持續常規監測？"
+    },
+    "options": [
+      {"en": "A soft, poorly demarcated swelling over the scalp that crosses suture lines and decreases in size over the first 24 hours", "zh": "頭皮上柔軟、邊界不清、跨越顱縫的腫脹，於出生後24小時內逐漸縮小"},
+      {"en": "A firm, well-demarcated swelling that does not cross suture lines and appears to be enlarging several hours after birth", "zh": "堅實、邊界清楚、不跨越顱縫的腫脹，出生後數小時仍持續增大"},
+      {"en": "Molding of the head noted at birth", "zh": "出生時觀察到頭型塑形"},
+      {"en": "Mild scalp redness directly under the area where the vacuum cup was applied", "zh": "真空吸引杯貼附處的頭皮輕微發紅"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Caput succedaneum is a normal, soft swelling that crosses suture lines and resolves within 24 hours. A firm swelling confined within suture lines that enlarges after birth suggests cephalhematoma, which can indicate bleeding and requires provider notification and closer monitoring for complications such as hyperbilirubinemia.",
+      "zh": "產瘤（caput succedaneum）為正常、柔軟、跨越顱縫的腫脹，24小時內會消退。若腫脹堅實、侵犯範圍不跨越顱縫且出生後持續擴大，則提示頭皮血腫（cephalhematoma），可能代表出血，須通知醫師並密切監測如高膽紅素血症等併發症。"
+    },
+    "pdf_pages": [372],
+    "tags": ["newborn assessment", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client is being transferred to the operating room table for a scheduled cesarean delivery. Which position should the nurse assist the client into?",
+      "zh": "產婦被轉送至手術台準備進行預定剖腹產。護理師應協助產婦採取何種姿勢？"
+    },
+    "options": [
+      {"en": "Supine with a wedge placed under the right hip", "zh": "平躺，右髖下墊一楔形墊"},
+      {"en": "Trendelenburg position with the legs placed in stirrups", "zh": "頭低腳高姿勢，雙腿置於腿架上"},
+      {"en": "Prone position with the legs separated and elevated", "zh": "俯臥，雙腿分開並抬高"},
+      {"en": "Flat supine position without any hip support", "zh": "完全平躺，髖部不加任何支撐"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Abdominal surgery requires a supine position, but a wedge under the right hip tilts the gravid uterus off the vena cava and descending aorta to prevent supine hypotensive syndrome and maintain uteroplacental perfusion. Trendelenburg compresses the diaphragm and lungs, and prone or flat supine positioning is impractical or unsafe for cesarean birth.",
+      "zh": "腹部手術需採平躺姿勢，但須於右髖下墊楔形墊，使妊娠子宮傾斜離開下腔靜脈與降主動脈，以預防仰臥性低血壓症候群並維持子宮胎盤灌流。頭低腳高姿勢會壓迫橫膈與肺部，俯臥或完全平躺則不適用或不安全。"
+    },
+    "pdf_pages": [369, 372],
+    "tags": ["take action", "positioning"]
+  }
+]

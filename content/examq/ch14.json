@@ -1,0 +1,302 @@
+[
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A prescription reads: infuse 1500 mL of lactated Ringer's solution over 10 hours. The drop factor on the IV tubing package is 20 gtt/mL. At how many drops per minute should the nurse set the flow rate?",
+      "zh": "醫囑為：輸注1500 mL乳酸林格氏液，超過10小時輸完。靜脈輸液管路包裝上標示的滴數因子為每mL 20滴。護理師應將輸液速率設定為每分鐘多少滴？"
+    },
+    "options": [
+      {"en": "50 gtt/min", "zh": "每分鐘50滴"},
+      {"en": "38 gtt/min", "zh": "每分鐘38滴"},
+      {"en": "63 gtt/min", "zh": "每分鐘63滴"},
+      {"en": "75 gtt/min", "zh": "每分鐘75滴"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Flow rate = (total volume x drop factor) / time in minutes = (1500 mL x 20 gtt) / 600 minutes = 30,000 / 600 = 50 gtt/min.",
+      "zh": "輸液速率 = （總輸液量 × 滴數因子）÷ 時間（分鐘）= （1500 mL × 20滴）÷ 600分鐘 = 30,000 ÷ 600 = 每分鐘50滴。"
+    },
+    "pdf_pages": [209, 210],
+    "tags": ["dosage calc", "iv flow rate"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A prescription reads: digoxin 125 mcg orally daily. The medication label reads digoxin 0.25 mg per tablet. How many tablet(s) should the nurse administer?",
+      "zh": "醫囑為：digoxin 125 mcg口服，每日一次。藥物標籤標示每錠0.25 mg。護理師應給予多少錠？"
+    },
+    "options": [
+      {"en": "0.5 tablet", "zh": "0.5錠"},
+      {"en": "1 tablet", "zh": "1錠"},
+      {"en": "1.5 tablets", "zh": "1.5錠"},
+      {"en": "2 tablets", "zh": "2錠"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "First convert 125 mcg to mg by dividing by 1000 (moving the decimal 3 places left): 125 mcg = 0.125 mg. Then: desired/available x tablet = 0.125 mg / 0.25 mg x 1 tablet = 0.5 tablet.",
+      "zh": "首先將125 mcg除以1000（小數點左移3位）換算為mg：125 mcg = 0.125 mg。再以「所需劑量÷available劑量×1錠」計算：0.125 mg ÷ 0.25 mg × 1錠 = 0.5錠。"
+    },
+    "pdf_pages": [206, 208],
+    "tags": ["dosage calc", "conversion"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A prescription reads: heparin sodium continuous IV infusion at 900 units/hr. The pharmacy delivers an IV bag labeled heparin sodium 25,000 units in 500 mL D5W. An infusion pump is used. At how many mL/hr should the nurse set the pump?",
+      "zh": "醫囑為：heparin sodium靜脈連續輸注，每小時900單位。藥局送來的輸液袋標示為heparin sodium 25,000單位加入500 mL D5W中。使用輸液泵浦給藥。護理師應將泵浦設定為每小時多少mL？"
+    },
+    "options": [
+      {"en": "18 mL/hr", "zh": "每小時18 mL"},
+      {"en": "20 mL/hr", "zh": "每小時20 mL"},
+      {"en": "16 mL/hr", "zh": "每小時16 mL"},
+      {"en": "25 mL/hr", "zh": "每小時25 mL"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Step 1: concentration = 25,000 units / 500 mL = 50 units/mL. Step 2: infusion rate = dose desired / concentration = 900 units/hr / 50 units/mL = 18 mL/hr.",
+      "zh": "步驟一：濃度 = 25,000單位 ÷ 500 mL = 每mL 50單位。步驟二：輸注速率 = 所需劑量 ÷ 濃度 = 每小時900單位 ÷ 每mL 50單位 = 每小時18 mL。"
+    },
+    "pdf_pages": [211],
+    "tags": ["dosage calc", "heparin", "two-step"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A prescription reads: regular insulin continuous IV infusion at 6 units/hr. The pharmacy delivers an IV bag labeled regular insulin 125 units in 250 mL normal saline. An infusion pump is used. At how many mL/hr should the nurse set the pump?",
+      "zh": "醫囑為：regular insulin靜脈連續輸注，每小時6單位。藥局送來的輸液袋標示regular insulin 125單位加入250 mL生理食鹽水中。使用輸液泵浦給藥。護理師應將泵浦設定為每小時多少mL？"
+    },
+    "options": [
+      {"en": "12 mL/hr", "zh": "每小時12 mL"},
+      {"en": "10 mL/hr", "zh": "每小時10 mL"},
+      {"en": "15 mL/hr", "zh": "每小時15 mL"},
+      {"en": "6 mL/hr", "zh": "每小時6 mL"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Step 1: concentration = 125 units / 250 mL = 0.5 units/mL. Step 2: infusion rate = dose desired / concentration = 6 units/hr / 0.5 units/mL = 12 mL/hr.",
+      "zh": "步驟一：濃度 = 125單位 ÷ 250 mL = 每mL 0.5單位。步驟二：輸注速率 = 所需劑量 ÷ 濃度 = 每小時6單位 ÷ 每mL 0.5單位 = 每小時12 mL。"
+    },
+    "pdf_pages": [211],
+    "tags": ["dosage calc", "insulin", "two-step"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A prescription reads: vancomycin 1 g in 250 mL normal saline to infuse over 60 minutes. The drop factor on the tubing is 15 gtt/mL. The infusion is being run by gravity because the pump is in use elsewhere. At how many drops per minute should the nurse set the flow rate?",
+      "zh": "醫囑為：vancomycin 1 g加入250 mL生理食鹽水中，於60分鐘內輸完。輸液管路滴數因子為每mL 15滴。因泵浦正用於他處，此輸液須以重力方式輸注。護理師應將輸液速率設定為每分鐘多少滴？"
+    },
+    "options": [
+      {"en": "63 gtt/min", "zh": "每分鐘63滴"},
+      {"en": "50 gtt/min", "zh": "每分鐘50滴"},
+      {"en": "42 gtt/min", "zh": "每分鐘42滴"},
+      {"en": "75 gtt/min", "zh": "每分鐘75滴"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Flow rate = (total volume x drop factor) / time in minutes = (250 mL x 15 gtt) / 60 minutes = 3750 / 60 = 62.5, rounded to 63 gtt/min.",
+      "zh": "輸液速率 = （總輸液量 × 滴數因子）÷ 時間（分鐘）= （250 mL × 15滴）÷ 60分鐘 = 3750 ÷ 60 = 62.5，四捨五入為每分鐘63滴。"
+    },
+    "pdf_pages": [209, 210],
+    "tags": ["dosage calc", "iv flow rate", "antibiotic"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse receives a prescription to administer 2.5 mL of an intramuscular medication into the deltoid muscle of an average-sized adult client. What is the nurse's best action?",
+      "zh": "護理師接獲醫囑，須為一般體型的成年個案於三角肌部位注射2.5 mL的肌肉注射藥物。護理師最適當的行動為何？"
+    },
+    "options": [
+      {"en": "Administer the full 2.5 mL into the deltoid as prescribed.", "zh": "依醫囑將全部2.5 mL注射於三角肌"},
+      {"en": "Divide the dose into two syringes and inject both into the deltoid.", "zh": "將劑量分裝成兩支針筒，皆注射於三角肌"},
+      {"en": "Contact the prescriber to clarify the volume or request a larger muscle site.", "zh": "聯絡醫師澄清劑量或改以較大肌肉部位給藥"},
+      {"en": "Administer the medication subcutaneously instead.", "zh": "改以皮下注射方式給藥"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "The deltoid muscle safely tolerates only about 2 mL for an adult intramuscular injection; a volume of 2.5 mL is excessive for this site and should prompt the nurse to question the prescription and consider a larger muscle (such as the ventrogluteal) rather than giving it as prescribed, splitting it into the same small site, or changing the route on their own.",
+      "zh": "成人三角肌部位肌肉注射安全耐受量約為2 mL；2.5 mL對此部位而言過多，護理師應對此醫囑提出疑問，並考慮改用較大的肌肉（如腹臀肌），而不是直接依醫囑給藥、將劑量分次注射於同一小肌肉，或自行改變給藥途徑。"
+    },
+    "pdf_pages": [208],
+    "tags": ["injection volume", "question the prescription"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is preparing to administer a subcutaneous injection of enoxaparin to an average-sized adult client. Which needle and angle of insertion are most appropriate?",
+      "zh": "護理師準備為一般體型的成年個案進行enoxaparin皮下注射。下列哪種針頭規格與注射角度最為合適？"
+    },
+    "options": [
+      {"en": "25-gauge, 5/8-inch needle at a 45-degree angle", "zh": "25號針、5/8吋長，以45度角注射"},
+      {"en": "18-gauge, 1.5-inch needle at a 90-degree angle", "zh": "18號針、1.5吋長，以90度角注射"},
+      {"en": "22-gauge, 1-inch needle at a 90-degree angle", "zh": "22號針、1吋長，以90度角注射"},
+      {"en": "27-gauge, 1/2-inch needle at a 15-degree angle", "zh": "27號針、1/2吋長，以15度角注射"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "For an average-sized adult, a 25-gauge, 5/8-inch needle at a 45-degree angle (or a 1/2-inch needle at a 90-degree angle) is appropriate for subcutaneous injections. The larger-gauge, longer needles are used for intramuscular injections, and the shallow 15-degree angle is used for intradermal injections.",
+      "zh": "對一般體型的成年人，皮下注射適合使用25號、5/8吋長的針頭以45度角注射（或1/2吋長針頭以90度角注射）。較粗、較長的針頭用於肌肉注射，而15度的淺角度則用於皮內注射。"
+    },
+    "pdf_pages": [208],
+    "tags": ["injection technique", "needle gauge"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The primary health care provider (PHCP) prescribes regular insulin 6 units and NPH insulin 14 units subcutaneously before breakfast. Which action is correct when the nurse prepares to combine both insulins in one syringe?",
+      "zh": "PHCP開立醫囑：早餐前皮下注射regular insulin 6單位及NPH insulin 14單位。護理師準備將兩種胰島素混合於同一支針筒時，下列哪項做法正確？"
+    },
+    "options": [
+      {"en": "Inject air into both vials, then withdraw the regular insulin first, followed by the NPH insulin.", "zh": "先將空氣分別注入兩個藥瓶，再先抽取regular insulin，接著抽取NPH insulin"},
+      {"en": "Inject air into both vials, then withdraw the NPH insulin first, followed by the regular insulin.", "zh": "先將空氣分別注入兩個藥瓶，再先抽取NPH insulin，接著抽取regular insulin"},
+      {"en": "Withdraw the regular insulin first without injecting air into either vial.", "zh": "不先注入空氣，直接先抽取regular insulin"},
+      {"en": "Prepare the two insulins in separate syringes and give two injections.", "zh": "將兩種胰島素分別裝於不同針筒，給予兩次注射"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Using the mnemonic RN, air is injected into both vials, and the clear Regular insulin is drawn up first, followed by the cloudier NPH insulin, so that no NPH is introduced into the regular insulin vial. This allows both insulins to be given as a single subcutaneous injection.",
+      "zh": "依「RN」口訣，先將空氣分別注入兩個藥瓶，再先抽取清澈的Regular insulin，接著抽取較混濁的NPH insulin，以避免將NPH帶入regular insulin藥瓶中。如此可將兩種胰島素以一次皮下注射給予。"
+    },
+    "pdf_pages": [209],
+    "tags": ["insulin", "mixing insulins"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse brings a scheduled oral medication to the client's bedside. The client states, \"I don't want to take that medication right now.\" The nurse administers the medication anyway because it was already poured. Which client right related to medication administration has the nurse violated?",
+      "zh": "護理師將一劑排定時間的口服藥物帶到個案床邊。個案表示：「我現在不想吃這個藥。」護理師因藥物已事先備好，仍讓個案服下。護理師違反了個案在用藥方面的哪項權利？"
+    },
+    "options": [
+      {"en": "The right to be taught about the medication", "zh": "獲得用藥教育的權利"},
+      {"en": "The right to refuse the medication regardless of the consequences", "zh": "不論結果如何皆有權拒絕用藥的權利"},
+      {"en": "The right to have the medication documented", "zh": "用藥應被記錄的權利"},
+      {"en": "The right to the correct route of administration", "zh": "獲得正確給藥途徑的權利"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Clients have the right to refuse any medication regardless of the consequences; the nurse must honor the refusal, notify the prescriber, and document it, rather than administering the medication against the client's expressed wishes.",
+      "zh": "個案有權拒絕任何藥物，不論可能產生何種後果；護理師應尊重個案的拒絕、通知醫師並記錄，而非違背個案明確表達的意願強行給藥。"
+    },
+    "pdf_pages": [206],
+    "tags": ["client rights", "legal/ethical"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "A nurse receives a handwritten prescription that is difficult to read and could be interpreted as either \"morphine 2 mg IV\" or \"morphine 12 mg IV.\" Without contacting the prescriber, the nurse administers 12 mg, and the client develops severe respiratory depression. Which statement about accountability is accurate?",
+      "zh": "護理師收到一張難以辨識的手寫醫囑，可能解讀為「morphine 2 mg IV」或「morphine 12 mg IV」。護理師未聯絡醫師澄清，即給予12 mg，個案隨後出現嚴重呼吸抑制。下列關於責任歸屬的敘述哪項正確？"
+    },
+    "options": [
+      {"en": "The prescriber is solely responsible because the handwriting was unclear.", "zh": "醫師應獨自負責，因為字跡不清"},
+      {"en": "The pharmacy is responsible because it filled and dispensed the medication.", "zh": "藥局應負責，因為是藥局配發此藥物"},
+      {"en": "The nurse is responsible, because any unclear or inconsistent prescription must be verified with the prescriber before administration.", "zh": "護理師應負責，因為任何不清楚或前後不一致的醫囑，在給藥前都必須向醫師確認"},
+      {"en": "No one is responsible because the error resulted from illegible handwriting.", "zh": "由於是字跡不清造成的錯誤，任何人都不須負責"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "If the nurse has any questions or sees inconsistencies in a written prescription, the nurse must contact the prescriber immediately to verify it. Regardless of the cause of confusion, the nurse who administers an incorrect dose is legally responsible for that action.",
+      "zh": "若護理師對書面醫囑有任何疑問或發現前後不一致，必須立即聯絡開立醫囑者加以確認。不論造成混淆的原因為何，給予錯誤劑量的護理師在法律上須對該行為負責。"
+    },
+    "pdf_pages": [206, 207],
+    "tags": ["legal responsibility", "medication error"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse needs to administer 0.18 mL of a pediatric vaccine. Which syringe should the nurse select to measure this dose most accurately?",
+      "zh": "護理師需給予0.18 mL的小兒疫苗。下列哪種針筒最能精確測量此劑量？"
+    },
+    "options": [
+      {"en": "A 1-mL tuberculin syringe", "zh": "1 mL結核菌素（tuberculin）針筒"},
+      {"en": "A standard 3-mL syringe", "zh": "標準3 mL針筒"},
+      {"en": "A 5-mL syringe", "zh": "5 mL針筒"},
+      {"en": "A 100-unit insulin syringe", "zh": "100單位胰島素針筒"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The tuberculin syringe holds 1 mL and is calibrated in hundredths (0.01 mL), making it the most accurate choice for small or critical-volume doses such as vaccines, allergen extracts, or children's medications. An insulin syringe is calibrated only in units and is used exclusively for insulin.",
+      "zh": "結核菌素針筒容量為1 mL，刻度以百分之一毫升（0.01 mL）劃分，最適合用於疫苗、過敏原萃取液或兒童藥物等小量或關鍵劑量的精確測量。胰島素針筒僅以單位刻度，只能用於胰島素。"
+    },
+    "pdf_pages": [208, 209],
+    "tags": ["syringe selection", "pediatric"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse calculates a critical pediatric intravenous push dose and obtains a volume of 0.638 mL to be measured in a 1-mL tuberculin syringe. Agency policy directs the nurse to round small, critical doses down to the nearest hundredth to avoid giving an excess dose. What volume should the nurse prepare?",
+      "zh": "護理師計算一項兒童重要靜脈推注劑量後得出0.638 mL，需以1 mL結核菌素針筒測量。機構政策規定，小量且關鍵的劑量應以百分之一毫升為單位向下取整，以避免給藥過量。護理師應準備多少劑量？"
+    },
+    "options": [
+      {"en": "0.63 mL", "zh": "0.63 mL"},
+      {"en": "0.64 mL", "zh": "0.64 mL"},
+      {"en": "0.7 mL", "zh": "0.7 mL"},
+      {"en": "0.6 mL", "zh": "0.6 mL"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Per agency policy, small and critical or pediatric doses are rounded down (not up) to the nearest hundredth to avoid administering an excess amount; 0.638 mL rounds down to 0.63 mL.",
+      "zh": "依機構政策，小量且重要的（含兒童）劑量應向下取整至百分之一毫升，而非向上取整，以避免給藥過量；0.638 mL向下取整為0.63 mL。"
+    },
+    "pdf_pages": [208],
+    "tags": ["dosage calc", "rounding", "pediatric safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse reviews a prescription for calcium gluconate 10% solution and prepares to administer a 10-mL ampule. How many milligrams of pure calcium gluconate does this ampule contain?",
+      "zh": "護理師查閱medication醫囑為calcium gluconate 10%溶液，準備給予一支10 mL的安瓿。此安瓿含有多少毫克的純calcium gluconate？"
+    },
+    "options": [
+      {"en": "1000 mg", "zh": "1000 mg"},
+      {"en": "100 mg", "zh": "100 mg"},
+      {"en": "10,000 mg", "zh": "10,000 mg"},
+      {"en": "10 mg", "zh": "10 mg"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A percentage solution expresses grams of medication per 100 mL of solution; a 10% solution contains 10 g per 100 mL, which is equivalent to 1 g (1000 mg) per 10 mL.",
+      "zh": "百分比溶液是以每100 mL溶液中所含藥物的克數來表示；10%溶液表示每100 mL含10 g藥物，相當於每10 mL含1 g（1000 mg）藥物。"
+    },
+    "pdf_pages": [209],
+    "tags": ["percentage solution", "calculation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The PHCP prescribes an increase in the rate of an IV infusion for a client with a history of heart failure. Which finding after the rate increase is most concerning and should be reported immediately?",
+      "zh": "PHCP開立醫囑，為一位有心臟衰竭病史的個案提高靜脈輸液速率。提高速率後，下列哪項發現最令人擔憂，須立即回報？"
+    },
+    "options": [
+      {"en": "Bilateral crackles with an increased respiratory rate", "zh": "雙側肺部爆裂音合併呼吸速率增加"},
+      {"en": "Urine output of 40 mL in the past hour", "zh": "過去一小時尿量40 mL"},
+      {"en": "Flat neck veins when supine", "zh": "平躺時頸靜脈平坦"},
+      {"en": "Warm, dry skin", "zh": "皮膚溫暖、乾燥"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Whenever a prescribed IV rate is increased, the nurse must assess for increased respirations and increased lung congestion (such as crackles), which indicate fluid overload; this is especially concerning for a client with heart failure. The other findings are within normal limits and not signs of fluid overload.",
+      "zh": "每當靜脈輸液速率被提高時，護理師都必須評估是否出現呼吸速率增加及肺部鬱血加重（如爆裂音），此為體液過量的徵象，對有心臟衰竭病史的個案尤其值得關注。其餘選項皆屬正常範圍，並非體液過量的徵象。"
+    },
+    "pdf_pages": [209, 210],
+    "tags": ["red flag", "fluid overload", "heart failure"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "Which task related to a client's scheduled oral antihypertensive medication is appropriate for the nurse to delegate to unlicensed assistive personnel (UAP)?",
+      "zh": "關於個案排定時間服用的口服降血壓藥物，下列哪項任務適合護理師授權給無照佐理人員（UAP）執行？"
+    },
+    "options": [
+      {"en": "Obtaining and reporting the client's blood pressure before the scheduled dose", "zh": "於給藥前測量並回報個案的血壓"},
+      {"en": "Administering the prescribed oral medication to the client", "zh": "為個案投予已開立的口服藥物"},
+      {"en": "Deciding whether to withhold the dose if the blood pressure is low", "zh": "判斷血壓偏低時是否應暫停給藥"},
+      {"en": "Teaching the client about the purpose and side effects of the new medication", "zh": "教導個案此新藥物的用途與副作用"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "UAP can measure and report vital signs within established parameters. Administering medications, deciding whether to withhold a dose based on an assessment finding, and medication teaching all require nursing judgment and cannot be delegated to a UAP.",
+      "zh": "UAP可在既定參數範圍內測量並回報生命徵象。給藥、根據評估結果判斷是否暫停給藥，以及用藥教育，皆需護理判斷，不可授權給UAP執行。"
+    },
+    "pdf_pages": [206],
+    "tags": ["delegation", "vital signs"]
+  }
+]

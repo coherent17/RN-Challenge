@@ -1,0 +1,243 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse performs a fundal assessment on a client 2 hours after a vaginal delivery. Which findings require the nurse to notify the obstetrician immediately? Select all that apply.",
+      "zh": "護理師為陰道分娩後2小時的產婦進行子宮底評估。下列哪些發現需要護理師立即通知產科醫師？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Fundus firm, midline, at the level of the umbilicus", "zh": "子宮底堅實、位於中線、與臍部同高"},
+      {"en": "Fundus soft and difficult to palpate, and it does not become firm with massage", "zh": "子宮底軟且難以觸摸到，按摩後仍無法變堅實"},
+      {"en": "Fundus palpated above the umbilicus and displaced to the right of midline", "zh": "子宮底觸摸在臍部以上並偏移至中線右側"},
+      {"en": "Lochia rubra, moderate amount, with occasional small clots less than 1 cm", "zh": "惡露為紅色、量中等，偶有小於1公分的小血塊"},
+      {"en": "A steady trickle of bright red blood from the vagina despite a firm, well-contracted fundus", "zh": "即使子宮底堅實且收縮良好，陰道仍持續有鮮紅血液滲出"}
+    ],
+    "answer": [1, 2, 4],
+    "rationale": {
+      "en": "A fundus that stays soft and boggy despite massage indicates uterine atony and impending hemorrhage. A fundus displaced above the umbilicus and off midline suggests a full bladder (or retained clots/fragments) preventing contraction, both of which raise hemorrhage risk and warrant notification. A steady trickle of bright red blood despite a firm fundus suggests a cervical or vaginal laceration rather than atony, which also requires prompt notification. A firm, midline fundus at the umbilicus and lochia rubra with occasional small clots under 1 cm are expected early postpartum findings.",
+      "zh": "子宮底按摩後仍持續軟且鬆弛，代表子宮收縮不良（子宮收縮乏力），有大出血風險。子宮底高於臍部且偏離中線，提示膀胱過度膨脹（或有血塊/組織殘留）阻礙子宮收縮，皆需通知醫師。即使子宮底堅實仍持續鮮紅出血，則提示可能為頸部或陰道撕裂傷而非收縮乏力，同樣需立即通知。子宮底堅實、位於中線臍部高度，以及偶有小於1公分血塊的紅色惡露，皆屬產後早期正常表現。"
+    },
+    "pdf_pages": [385, 386],
+    "tags": ["sata", "red flag", "fundal assessment", "priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "Six hours after an uncomplicated vaginal birth, a client's temperature is 100.2°F (37.9°C). The client reports no other symptoms and vital signs are otherwise within normal postpartum limits. What is the nurse's priority action?",
+      "zh": "一名陰道分娩且過程順利的產婦，產後6小時體溫為攝氏37.9度（華氏100.2度），無其他症狀，其餘生命徵象皆在產後正常範圍內。護理師的優先處置為何？"
+    },
+    "options": [
+      {"en": "Encourage oral fluids and continue to monitor the temperature", "zh": "鼓勵攝取口服水分並持續監測體溫"},
+      {"en": "Notify the obstetrician immediately to begin antibiotic therapy", "zh": "立即通知產科醫師以開始使用抗生素治療"},
+      {"en": "Initiate contact precautions for suspected infection", "zh": "因懷疑感染而啟動接觸隔離措施"},
+      {"en": "Obtain a blood culture immediately", "zh": "立即採集血液培養"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A temperature up to 100.4°F (38°C) during the first 24 hours postpartum is often related to the dehydrating effects of labor and is not necessarily a sign of infection. The priority action is to increase hydration with oral fluids, which should help return the temperature to normal; antibiotics, isolation, and blood cultures are not indicated without further evidence of infection.",
+      "zh": "產後24小時內體溫若在攝氏38度（華氏100.4度）以下，常與分娩造成的脫水效應有關，不一定代表感染。優先處置為增加口服水分攝取，以協助體溫恢復正常；在沒有其他感染證據前，不需使用抗生素、隔離措施或採血培養。"
+    },
+    "pdf_pages": [387],
+    "tags": ["priority", "vital signs"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "Which assessment finding in a client who is 2 days postpartum would the nurse report to the primary health care provider?",
+      "zh": "產後第2天的產婦，下列哪項評估發現護理師應報告給主要照護提供者？"
+    },
+    "options": [
+      {"en": "Lochial clots larger than 1 cm", "zh": "惡露中出現大於1公分的血塊"},
+      {"en": "Lochia serosa that is brownish-pink in color", "zh": "惡露呈褐粉色（漸少期惡露serosa）"},
+      {"en": "A scant increase in lochia flow with ambulation", "zh": "下床活動時惡露量略微增加"},
+      {"en": "Mild uterine cramping that occurs while breast-feeding", "zh": "母乳哺餵時出現輕微子宮收縮痛"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Clots larger than 1 cm are abnormal and may indicate uterine atony or retained placental fragments, warranting provider notification. Brownish-pink lochia serosa, a slight increase in flow with activity, and afterpains during breast-feeding (from oxytocin release) are all normal postpartum findings.",
+      "zh": "大於1公分的血塊屬異常，可能代表子宮收縮乏力或胎盤組織殘留，需通知醫師。褐粉色的漸少期惡露、活動時惡露量稍增，以及哺乳時因催產素釋放而出現的產後痛，皆屬正常產後現象。"
+    },
+    "pdf_pages": [385, 386],
+    "tags": ["lochia", "red flag"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client who is 5 days postpartum tells the nurse, \"The baby isn't really mine — someone switched him in the nursery, and I can hear voices telling me what I need to do about it.\" Which is the nurse's priority concern?",
+      "zh": "一名產後第5天的產婦對護理師說：「這個嬰兒不是我的，有人在嬰兒室把他換掉了，而且我能聽到有聲音告訴我該怎麼辦。」護理師最優先關切的是什麼？"
+    },
+    "options": [
+      {"en": "This is an expected symptom of postpartum blues that will resolve within 2 weeks", "zh": "這是產後情緒低落的常見症狀，會在2週內自行緩解"},
+      {"en": "These statements suggest postpartum psychosis and require immediate further evaluation for the safety of the client and infant", "zh": "這些陳述提示產後精神病，需立即進一步評估以確保產婦與嬰兒的安全"},
+      {"en": "The client needs reassurance that these feelings are a normal part of early parenting", "zh": "應安慰產婦，這些感受是育兒初期正常的現象"},
+      {"en": "The client should be encouraged to room-in with the newborn more often to strengthen bonding", "zh": "應鼓勵產婦多與新生兒同室以增進親子依附"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Delusions (believing the baby was switched) and hallucinations (hearing voices) are hallmark signs of postpartum psychosis, a psychiatric emergency distinct from the much more common postpartum blues (tearfulness, mood lability that resolves within about 2 weeks) and postpartum depression. The client needs immediate psychiatric evaluation, and infant safety must be assured; this is not a normal finding and should not be met with reassurance alone or deferred.",
+      "zh": "妄想（認為嬰兒被調換）與幻聽（聽到聲音）是產後精神病的典型表現，屬精神科急症，與較常見且約2週內緩解的產後情緒低落（易哭、情緒不穩）及產後憂鬱不同。產婦需立即接受精神科評估，並須確保嬰兒安全；此現象並非正常反應，不應只給予安慰或延後處理。"
+    },
+    "pdf_pages": [388],
+    "tags": ["psychosis", "red flag", "mental health"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The RN is caring for a group of postpartum clients. Which task is most appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+      "zh": "RN負責照護一組產後產婦。下列哪項任務最適合授權給無照護理輔助人員（UAP）執行？"
+    },
+    "options": [
+      {"en": "Assessing the color, amount, and odor of lochia in a client 4 hours postpartum", "zh": "評估產後4小時產婦惡露的顏色、量與氣味"},
+      {"en": "Taking routine vital signs on a stable client 24 hours postpartum", "zh": "為產後24小時且狀況穩定的產婦量測常規生命徵象"},
+      {"en": "Evaluating the quality of bonding between a client and her newborn", "zh": "評估產婦與新生兒之間依附關係的品質"},
+      {"en": "Massaging a fundus that is palpated as soft and boggy", "zh": "按摩觸診為軟且鬆弛的子宮底"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Routine vital sign measurement on a stable client is within UAP scope and can be delegated, with the RN interpreting the results. Assessing lochia characteristics, evaluating emotional bonding, and intervening for uterine atony all require nursing judgment and must be performed by licensed nursing staff.",
+      "zh": "對狀況穩定的產婦測量常規生命徵象屬UAP職責範圍，可授權執行，再由RN判讀結果。惡露性狀評估、親子依附關係評估，以及子宮收縮乏力的處置，皆需要護理判斷，必須由具執照的護理人員執行。"
+    },
+    "pdf_pages": [386, 387],
+    "tags": ["delegation", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse reviews blood types to determine which postpartum client should receive Rho(D) immune globulin within 72 hours of delivery.",
+      "zh": "護理師查看血型資料，以判斷哪位產婦應於分娩後72小時內接受Rho(D)免疫球蛋白注射。"
+    },
+    "options": [
+      {"en": "Rh-negative client who delivered an Rh-positive newborn", "zh": "Rh陰性產婦，分娩出Rh陽性新生兒"},
+      {"en": "Rh-positive client who delivered an Rh-negative newborn", "zh": "Rh陽性產婦，分娩出Rh陰性新生兒"},
+      {"en": "Rh-negative client who delivered an Rh-negative newborn", "zh": "Rh陰性產婦，分娩出Rh陰性新生兒"},
+      {"en": "Rh-positive client who delivered an Rh-positive newborn", "zh": "Rh陽性產婦，分娩出Rh陽性新生兒"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Rho(D) immune globulin is administered to an Rh-negative client who delivers an Rh-positive newborn to prevent sensitization against future Rh-positive pregnancies; it should be given within 72 hours postpartum if prescribed. It is not needed when the client is Rh-positive or when both client and newborn are Rh-negative.",
+      "zh": "Rho(D)免疫球蛋白用於Rh陰性產婦分娩出Rh陽性新生兒時，以預防其對未來Rh陽性妊娠產生致敏反應，若有醫囑應於產後72小時內給予。若產婦為Rh陽性，或產婦與新生兒皆為Rh陰性，則不需要施打。"
+    },
+    "pdf_pages": [386],
+    "tags": ["medication", "Rh isoimmunization"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A postpartum client whose rubella titer indicates nonimmunity receives the rubella vaccine before discharge. Which instruction is most important for the nurse to include?",
+      "zh": "一名產後產婦的德國麻疹抗體檢測顯示無免疫力，於出院前接種德國麻疹疫苗。護理師最應包含哪項指導內容？"
+    },
+    "options": [
+      {"en": "Avoid becoming pregnant for 1 to 3 months after vaccination, per the provider's recommendation", "zh": "依醫師建議，接種疫苗後1至3個月內應避免懷孕"},
+      {"en": "It is safe to become pregnant again immediately after vaccination", "zh": "接種疫苗後可立即再次懷孕，並無安全上的顧慮"},
+      {"en": "Breast-feeding must be discontinued for 2 weeks after vaccination", "zh": "接種疫苗後必須停止母乳哺餵2週"},
+      {"en": "The vaccine also provides lifelong immunity against varicella", "zh": "此疫苗也能提供對水痘的終身免疫力"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Rubella vaccine is a live attenuated vaccine, so the client should avoid conception for about 1 to 3 months after vaccination based on provider/OB-GYN recommendation because of potential teratogenic effects. Breast-feeding does not need to be stopped, and the vaccine does not confer immunity to varicella.",
+      "zh": "德國麻疹疫苗為活性減毒疫苗，因有致畸胎風險，應依醫師/婦產科醫師建議於接種後1至3個月內避免懷孕。母乳哺餵不需停止，且此疫苗無法提供水痘免疫力。"
+    },
+    "pdf_pages": [387],
+    "tags": ["patient education", "immunization"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "A breast-feeding client develops breast engorgement on postpartum day 4. Which instruction is most appropriate for the nurse to give?",
+      "zh": "一名母乳哺餵的產婦於產後第4天出現乳房腫脹。護理師最適合給予哪項指導？"
+    },
+    "options": [
+      {"en": "Apply ice packs between feedings and limit nursing sessions until the swelling resolves", "zh": "於餵奶間隔敷冰袋，並限制哺餵次數直到腫脹消退"},
+      {"en": "Breast-feed frequently and apply warm soaks or warm packs just before feeding", "zh": "頻繁哺餵母乳，並於餵奶前以溫敷或熱敷處理"},
+      {"en": "Discontinue breast-feeding entirely until engorgement resolves", "zh": "完全停止母乳哺餵，直到腫脹消退"},
+      {"en": "Apply a tight breast binder continuously until the swelling resolves", "zh": "持續使用緊束的束胸帶直到腫脹消退"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Engorgement is relieved by frequent breast-feeding; warm soaks or packs before feeding promote let-down, while ice packs between feedings reduce discomfort without suppressing milk supply. Limiting or stopping breast-feeding worsens engorgement, and continuous tight binding is used only for clients who are not breast-feeding.",
+      "zh": "頻繁哺餵母乳可緩解乳房腫脹；餵奶前溫敷或熱敷可促進噴乳反射，餵奶間隔敷冰袋則可緩解不適而不影響乳汁分泌。限制或停止哺餵會使腫脹加重，持續緊束胸帶僅適用於非母乳哺餵的產婦。"
+    },
+    "pdf_pages": [386, 389],
+    "tags": ["breast-feeding", "comfort"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "Before performing a fundal assessment on a postpartum client, the nurse should first ask the client to do which of the following, and why?",
+      "zh": "護理師為產婦進行子宮底評估前，應先要求產婦做下列哪項，原因為何？"
+    },
+    "options": [
+      {"en": "Empty the bladder, because a full bladder can displace the uterus and prevent it from contracting", "zh": "先排空膀胱，因為膀胱過度膨脹會使子宮移位並妨礙其收縮"},
+      {"en": "Ambulate in the hallway, to stimulate bowel elimination before assessment", "zh": "先在走道上走動，以在評估前刺激腸道排便"},
+      {"en": "Lie supine with both legs fully extended for 10 minutes before assessment", "zh": "先平躺並將雙腿完全伸直10分鐘後再評估"},
+      {"en": "Drink at least 500 mL of fluid immediately before the assessment", "zh": "評估前立即喝下至少500毫升的水分"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A full bladder displaces the uterus upward and off midline and prevents it from contracting firmly, which can be mistaken for or contribute to atony. Having the client void first ensures an accurate fundal assessment; the other actions do not address this risk.",
+      "zh": "膀胱過度膨脹會使子宮向上移位並偏離中線，妨礙其有效收縮，可能被誤判為或實際造成子宮收縮乏力。讓產婦先排空膀胱可確保子宮底評估的準確性，其餘選項皆無法解決此風險。"
+    },
+    "pdf_pages": [386],
+    "tags": ["fundal assessment", "first action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "Which vital sign finding in a client 2 hours postpartum is most concerning and warrants immediate further assessment?",
+      "zh": "產後2小時的產婦，下列哪項生命徵象發現最令人擔憂，需立即進一步評估？"
+    },
+    "options": [
+      {"en": "Pulse rate of 58 beats/minute", "zh": "脈搏每分鐘58次"},
+      {"en": "Temperature of 99.8°F (37.7°C)", "zh": "體溫攝氏37.7度（華氏99.8度）"},
+      {"en": "Respiratory rate that increased from 16 to 28 breaths/minute with no other symptoms reported", "zh": "呼吸速率由每分鐘16次升高至28次，但未出現其他症狀"},
+      {"en": "Blood pressure of 118/76 mm Hg when the baseline was 120/78 mm Hg", "zh": "血壓118/76毫米汞柱，基準值為120/78毫米汞柱"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Respirations rarely change significantly in the normal postpartum period; a marked increase suggests pulmonary embolism, uterine atony, or hemorrhage and requires immediate further assessment. A pulse of 58 reflects normal puerperal bradycardia, a mild temperature elevation and an essentially unchanged blood pressure are expected findings.",
+      "zh": "正常產後期間呼吸速率極少有明顯變化；呼吸速率明顯上升提示可能為肺栓塞、子宮收縮乏力或出血，需立即進一步評估。脈搏58次反映正常的產褥期心搏過緩，體溫輕微升高及血壓幾乎無變化皆屬正常表現。"
+    },
+    "pdf_pages": [387],
+    "tags": ["vital signs", "red flag", "priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "Which postpartum teaching point best reflects a measure to reduce the risk of thromboembolic complications?",
+      "zh": "下列哪項產後教育內容最能反映降低血栓栓塞併發症風險的措施？"
+    },
+    "options": [
+      {"en": "Engage in early and frequent ambulation as tolerated", "zh": "依身體狀況盡早且頻繁地下床活動"},
+      {"en": "Remain in bed for the first 24 hours to protect perineal healing", "zh": "前24小時應臥床休息以保護會陰傷口癒合"},
+      {"en": "Cross the legs while sitting to reduce pelvic pressure", "zh": "坐著時雙腿交叉以減輕骨盆腔壓力"},
+      {"en": "Wear tight knee-high socks to support the calves", "zh": "穿著緊束的膝下襪以支撐小腿"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Early, frequent ambulation promotes venous return and reduces the risk of thrombophlebitis, which the postpartum client is predisposed to because of increased clotting factors. Prolonged bed rest, leg crossing, and constrictive garments impair venous return and increase thromboembolic risk.",
+      "zh": "盡早且頻繁地下床活動能促進靜脈回流，降低產婦因凝血因子增加而易發生靜脈炎的風險。長時間臥床、雙腿交叉與緊束衣物皆會妨礙靜脈回流，增加血栓栓塞風險。"
+    },
+    "pdf_pages": [386, 387],
+    "tags": ["safety", "thrombophlebitis", "prevention"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A breast-feeding client asks the nurse about dietary needs during the postpartum period. Which response is accurate?",
+      "zh": "一名母乳哺餵的產婦詢問護理師產後飲食需求。下列哪項回答正確？"
+    },
+    "options": [
+      {"en": "\"You should increase your caloric intake by about 200 to 500 calories a day and continue your prenatal vitamins.\"", "zh": "「您每天應增加約200到500大卡的熱量攝取，並持續服用產前維生素。」"},
+      {"en": "\"You should decrease your caloric intake now to lose the pregnancy weight as quickly as possible.\"", "zh": "「您現在應減少熱量攝取，以盡快減掉懷孕期間增加的體重。」"},
+      {"en": "\"You will need to avoid all dairy products while breast-feeding.\"", "zh": "「母乳哺餵期間您必須完全避免乳製品。」"},
+      {"en": "\"Fluid intake should be restricted to prevent breast engorgement.\"", "zh": "「應限制水分攝取以預防乳房腫脹。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Breast-feeding clients need an additional 200 to 500 calories a day along with increased fluids and continuation of prenatal vitamins and minerals as prescribed. Caloric restriction, avoiding all dairy, and fluid restriction are not appropriate and can impair milk production and maternal nutrition.",
+      "zh": "母乳哺餵的產婦每天需額外增加200到500大卡熱量，並增加水分攝取，同時依醫囑持續服用產前維生素與礦物質。限制熱量、完全避免乳製品及限制水分攝取皆不適當，可能影響乳汁分泌與產婦營養。"
+    },
+    "pdf_pages": [388],
+    "tags": ["nutrition", "breast-feeding", "patient education"]
+  }
+]

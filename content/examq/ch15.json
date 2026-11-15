@@ -1,0 +1,230 @@
+[
+  {
+    "cat": "MC",
+    "stem": {"en": "A client scheduled for abdominal surgery signs the surgical consent form after the surgeon's explanation of the procedure. Which statement best describes the nurse's role regarding informed consent?", "zh": "一位即將接受腹部手術的病人在外科醫師說明手術過程後簽署了手術同意書。下列哪一項陳述最能描述護理師在知情同意過程中的角色？"},
+    "options": [
+      {"en": "The nurse is responsible for explaining the surgical procedure and its risks to the client.", "zh": "護理師負責向病人說明手術過程及其風險。"},
+      {"en": "The nurse may witness the client's signature but must ensure the client understood the surgeon's explanation.", "zh": "護理師可以在病人簽名時作為見證人，但必須確認病人已理解外科醫師的說明。"},
+      {"en": "The nurse may obtain consent on behalf of the surgeon if the surgeon is too busy.", "zh": "如果外科醫師太忙，護理師可以代替外科醫師取得同意。"},
+      {"en": "The nurse documents that consent was signed but has no responsibility for assessing the client's understanding.", "zh": "護理師只需記錄同意書已簽署，不需負責評估病人的理解程度。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The surgeon is responsible for explaining the procedure and obtaining informed consent. The nurse may witness the client's signature but must be sure the client understood the surgeon's explanation; if the client expresses confusion, the nurse must notify the surgeon for clarification before proceeding.", "zh": "外科醫師負責說明手術過程並取得知情同意；護理師可以在病人簽名時作為見證人，但必須確認病人已理解外科醫師的說明。若病人表示不清楚，護理師須在繼續術前準備前通知外科醫師澄清。"},
+    "pdf_pages": [218],
+    "tags": ["informed consent", "legal"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A 16-year-old client is scheduled for an elective, nonemergency surgical procedure. Who is legally required to sign the operative consent form for this client?", "zh": "一位16歲的病人即將接受一項非緊急的選擇性手術。依法誰必須為這位病人簽署手術同意書？"},
+    "options": [
+      {"en": "The client, since 16-year-olds may legally consent to their own surgery", "zh": "病人本人，因為16歲已可依法為自己的手術同意"},
+      {"en": "A parent or legal guardian", "zh": "父母或法定監護人"},
+      {"en": "The charge nurse on the unit", "zh": "病房的護理長"},
+      {"en": "Two nurses acting as witnesses", "zh": "兩位擔任見證人的護理師"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Minors (clients younger than 18 years) require a parent or legal guardian to sign the consent form for a nonemergency surgical procedure.", "zh": "未成年人（未滿18歲）進行非緊急手術時，需由父母或法定監護人簽署同意書。"},
+    "pdf_pages": [218],
+    "tags": ["informed consent", "legal", "pediatric"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assisting the surgeon in obtaining informed consent. After signing the consent form, the client tells the nurse, \"I'm still not clear on exactly what they are going to remove.\" What is the nurse's most appropriate first action?", "zh": "護理師協助外科醫師取得知情同意。病人在簽署同意書後告訴護理師：「我還是不太清楚他們到底要切除什麼。」護理師最適當的第一步行動是什麼？"},
+    "options": [
+      {"en": "Proceed with preoperative preparation since the consent form has already been signed", "zh": "由於同意書已經簽署，繼續進行術前準備"},
+      {"en": "Explain the details of the surgical procedure to the client in the nurse's own words", "zh": "用護理師自己的話向病人解釋手術的細節"},
+      {"en": "Notify the surgeon of the client's need for clarification before proceeding with preoperative preparation", "zh": "在繼續術前準備之前，通知外科醫師病人需要進一步澄清"},
+      {"en": "Document the client's statement and send the client to the operating room as scheduled", "zh": "記錄病人的陳述，並依排定時間將病人送至手術室"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "It is the nurse's responsibility to ensure the client understood the surgeon's explanation. If the client expresses uncertainty after signing, the nurse notifies the surgeon so the surgeon can clarify the procedure before surgical preparation continues; the nurse does not independently explain procedural details the surgeon has not covered.", "zh": "護理師有責任確保病人理解外科醫師的說明。若病人在簽署後表示仍不清楚，護理師應通知外科醫師以便澄清手術內容，之後才能繼續術前準備；護理師不應自行解釋外科醫師尚未說明的手術細節。"},
+    "pdf_pages": [218],
+    "tags": ["informed consent", "requires immediate action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client is scheduled for surgery with general anesthesia in 2 hours. The client tells the nurse, \"I took a few sips of water with my morning pill.\" Which action should the nurse take first?", "zh": "病人預定2小時後接受全身麻醉手術。病人告訴護理師：「我早上服藥時喝了幾口水。」護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Proceed with preoperative preparation as scheduled", "zh": "依原訂計畫繼續術前準備"},
+      {"en": "Notify the surgeon and anesthesia provider of the oral intake", "zh": "通知外科醫師及麻醉醫護人員病人有經口攝入"},
+      {"en": "Document the intake in the chart and continue routine care with no further action", "zh": "在病歷中記錄此次攝入，並繼續常規照護，無需其他行動"},
+      {"en": "Insert a nasogastric tube to empty the stomach contents", "zh": "插入鼻胃管以排空胃內容物"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "NPO status before anesthesia is maintained to reduce the risk of aspiration. Any oral intake close to surgery, even a small amount of water, must be reported to the surgeon and anesthesia provider so the surgical team can determine whether the procedure needs to be delayed.", "zh": "麻醉前維持禁食是為降低吸入性風險。即使只是少量喝水，任何靠近手術時間的經口攝入都必須報告外科醫師及麻醉醫護人員，以便手術團隊判斷是否需要延遲手術。"},
+    "pdf_pages": [218],
+    "tags": ["safety", "aspiration risk", "NPO"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client scheduled for elective surgery in 3 days tells the nurse about taking clopidogrel daily because of a cardiac stent. Which action by the nurse is most appropriate?", "zh": "一位病人預定3天後接受選擇性手術，告訴護理師自己因心臟支架每天服用氯吡格雷（clopidogrel）。護理師最適當的行動是什麼？"},
+    "options": [
+      {"en": "Instruct the client to continue taking clopidogrel until the morning of surgery", "zh": "指示病人持續服用氯吡格雷直到手術當天早上"},
+      {"en": "Notify the surgeon, because clopidogrel is usually discontinued about 5 days before surgery", "zh": "通知外科醫師，因為氯吡格雷通常需在手術前約5天停用"},
+      {"en": "Tell the client that no action is needed because the medication does not affect surgery", "zh": "告知病人不需任何行動，因為此藥物不會影響手術"},
+      {"en": "Instruct the client to double the next dose to compensate for the upcoming NPO status", "zh": "指示病人將下一劑藥量加倍，以補償即將禁食的時間"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Antiplatelet medications such as clopidogrel alter normal clotting and increase the risk of hemorrhage during surgery. Clopidogrel usually needs to be discontinued about 5 days before surgery, so the nurse notifies the surgeon so the medication plan can be addressed before the scheduled procedure.", "zh": "抗血小板藥物如氯吡格雷會改變正常凝血功能，增加手術中出血的風險。氯吡格雷通常需在手術前約5天停用，因此護理師應通知外科醫師，以便在排定手術前處理用藥計畫。"},
+    "pdf_pages": [221],
+    "tags": ["medications", "bleeding risk"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is reviewing the preoperative medication history of a client who has taken long-term oral corticosteroids for a chronic inflammatory condition. The nurse recognizes that the surgical team may need to temporarily increase the corticosteroid dosage perioperatively because of which physiological effect?", "zh": "護理師正在審查一位長期口服類固醇以治療慢性發炎疾病病人的術前用藥史。護理師了解手術團隊可能需要在圍術期暫時提高類固醇劑量，這是因為下列哪種生理作用？"},
+    "options": [
+      {"en": "Long-term corticosteroid use causes adrenal atrophy, reducing the body's ability to withstand the stress of surgery", "zh": "長期使用類固醇會導致腎上腺萎縮，降低身體承受手術壓力的能力"},
+      {"en": "Corticosteroids increase platelet aggregation, requiring a higher dose to prevent excessive clotting", "zh": "類固醇會增加血小板凝集，需提高劑量以避免過度凝血"},
+      {"en": "Corticosteroids slow the metabolism of anesthetic agents, requiring a higher dose for sedation", "zh": "類固醇會減緩麻醉藥物的代謝，因此需提高劑量以達到鎮靜效果"},
+      {"en": "Corticosteroids enhance wound healing, so a higher dose is given to speed recovery", "zh": "類固醇會促進傷口癒合，因此提高劑量以加速恢復"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Corticosteroids cause adrenal atrophy and reduce the body's ability to withstand stress. Before and during surgery, a client's corticosteroid dosage may need to be increased temporarily, since adequate corticosteroid levels are essential when stress is severe, such as with a surgical procedure.", "zh": "類固醇會造成腎上腺萎縮，降低身體承受壓力的能力。在手術前後，病人的類固醇劑量可能需要暫時提高，因為當壓力嚴重（如手術）時，足夠的類固醇濃度對維持生命功能至關重要。"},
+    "pdf_pages": [221],
+    "tags": ["medications", "corticosteroids"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is completing the preoperative checklist for a client who will be transported to the operating room in 30 minutes. Which finding requires the nurse to notify the surgeon before transporting the client?", "zh": "護理師正在為一位30分鐘後將被送往手術室的病人完成術前檢查清單。下列哪項發現需要護理師在運送病人前通知外科醫師？"},
+    "options": [
+      {"en": "The client voided 20 minutes ago", "zh": "病人20分鐘前已排尿"},
+      {"en": "The client's identification bracelet is missing", "zh": "病人的身分辨識手圈不見了"},
+      {"en": "The client removed nail polish as instructed", "zh": "病人依指示卸除了指甲油"},
+      {"en": "The client's vital signs are at the preoperative baseline", "zh": "病人的生命徵象與術前基準值相符"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An identification bracelet is essential for correctly verifying the client's identity before transport and in the operating room, which is critical for preventing wrong-client or wrong-site surgery. A missing identification bracelet is a safety issue that must be corrected and may require surgeon or charge nurse notification before the client leaves the unit.", "zh": "身分辨識手圈對於運送前及手術室內正確核對病人身分至關重要，有助於避免開錯病人或開錯部位的手術。手圈遺失是安全問題，必須在病人離開病房前更正，並可能需要通知外科醫師或護理長。"},
+    "pdf_pages": [220, 221],
+    "tags": ["safety", "identification", "wrong-site surgery"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Shortly after induction of general anesthesia, the circulating nurse notes that a client's heart rate has risen to 138 beats/min, the end-tidal carbon dioxide level is rising rapidly, and the client's jaw and limb muscles have become rigid. Which complication does the nurse suspect?", "zh": "全身麻醉誘導後不久，巡迴護理師注意到病人的心跳上升至每分鐘138次，呼氣末二氧化碳濃度迅速上升，且病人的下顎及四肢肌肉變得僵硬。護理師應懷疑發生了什麼併發症？"},
+    "options": [
+      {"en": "Malignant hyperthermia", "zh": "惡性高熱"},
+      {"en": "Anaphylaxis", "zh": "過敏性休克"},
+      {"en": "Hypovolemic shock", "zh": "低血容性休克"},
+      {"en": "Laryngospasm", "zh": "喉頭痙攣"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Malignant hyperthermia is a hypermetabolic emergency triggered by certain anesthetic agents, characterized by a rapid rise in heart rate and end-tidal carbon dioxide, muscle rigidity, and a dramatic increase in body temperature. It requires immediate recognition because it can rapidly progress to cardiac arrest and death if untreated.", "zh": "惡性高熱是由某些麻醉藥物誘發的高代謝急症，特徵為心跳及呼氣末二氧化碳濃度迅速上升、肌肉僵硬，以及體溫急劇升高。若未及時發現並處置，可能迅速進展為心臟停止甚至死亡，因此需立即辨識。"},
+    "pdf_pages": [224],
+    "tags": ["emergency", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse suspects that a client under general anesthesia is experiencing malignant hyperthermia. Which action should the nurse anticipate as the priority treatment?", "zh": "護理師懷疑一位接受全身麻醉的病人發生了惡性高熱。護理師應預期下列哪項為優先治療措施？"},
+    "options": [
+      {"en": "Administer dantrolene sodium as prescribed and discontinue the triggering anesthetic agent", "zh": "依醫囑給予丹曲林（dantrolene sodium），並停止使用誘發的麻醉藥物"},
+      {"en": "Administer naloxone to reverse the effects of anesthesia", "zh": "給予naloxone以逆轉麻醉藥物的作用"},
+      {"en": "Apply warm blankets to prevent further drops in body temperature", "zh": "使用溫暖毛毯以避免體溫進一步下降"},
+      {"en": "Increase the depth of anesthesia to suppress the muscle rigidity", "zh": "加深麻醉深度以抑制肌肉僵硬"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Dantrolene sodium is the specific antidote for malignant hyperthermia and is given immediately along with stopping the triggering anesthetic agent and initiating cooling measures. Warming the client would worsen the hyperthermia, naloxone reverses opioids rather than treating this condition, and increasing anesthesia would worsen rather than treat the emergency.", "zh": "丹曲林是惡性高熱的特效解毒劑，須立即給予，同時停止使用誘發的麻醉藥物並開始降溫措施。為病人加溫會使高熱惡化；naloxone用於逆轉類鴉片藥物而非治療此病症；加深麻醉只會使急症惡化而非改善。"},
+    "pdf_pages": [224],
+    "tags": ["emergency", "priority action", "antidote"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Two hours after an abdominal hysterectomy, a client becomes restless. The nurse notes a weak, rapid pulse of 118 beats/min, blood pressure of 86/52 mm Hg, and cool, clammy skin. Which complication does the nurse suspect?", "zh": "一位病人在接受腹部子宮切除術後2小時變得不安。護理師注意到病人脈搏微弱且快速（每分鐘118次）、血壓86/52 mmHg，且皮膚濕冷。護理師應懷疑發生了什麼併發症？"},
+    "options": [
+      {"en": "Hemorrhage", "zh": "出血"},
+      {"en": "Pulmonary embolism", "zh": "肺栓塞"},
+      {"en": "Urinary retention", "zh": "尿滯留"},
+      {"en": "Wound infection", "zh": "傷口感染"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Restlessness, a weak and rapid pulse, hypotension, tachypnea, and cool, clammy skin are classic findings of hemorrhage and impending hypovolemic shock in the postoperative client. These findings require immediate assessment of the surgical site and prompt notification of the surgeon.", "zh": "不安、脈搏微弱且快速、低血壓、呼吸急促以及皮膚濕冷是術後病人出血及即將發生低血容性休克的典型表現。這些發現需要立即評估手術部位並迅速通知外科醫師。"},
+    "pdf_pages": [225],
+    "tags": ["red flag", "recognize cues", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse suspects that a postoperative client is hemorrhaging from the surgical site. Select all actions the nurse should take.", "zh": "護理師懷疑一位術後病人正從手術部位出血。請選出護理師應採取的所有行動（多選題）。"},
+    "options": [
+      {"en": "Apply direct pressure to the site of bleeding", "zh": "對出血部位施加直接加壓"},
+      {"en": "Notify the surgeon", "zh": "通知外科醫師"},
+      {"en": "Administer oxygen as prescribed", "zh": "依醫囑給予氧氣"},
+      {"en": "Encourage the client to ambulate in the hallway", "zh": "鼓勵病人在走廊上行走"},
+      {"en": "Administer IV fluids or blood products as prescribed", "zh": "依醫囑給予靜脈輸液或血液製品"},
+      {"en": "Restrict all oral and IV fluids until the surgeon arrives", "zh": "在外科醫師到達前限制所有經口及靜脈輸液"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Interventions for suspected hemorrhage include applying pressure to the bleeding site, notifying the surgeon immediately, administering oxygen as prescribed, and administering IV fluids or blood as prescribed; the client may also need to be prepared for a return to surgery. Ambulation and withholding fluids are inappropriate, as the client needs volume replacement and rest, not increased activity.", "zh": "懷疑出血時的處置包括對出血部位加壓、立即通知外科醫師、依醫囑給予氧氣，以及依醫囑給予靜脈輸液或血液製品；病人也可能需要準備再次接受手術。讓病人走動或限制輸液都是不適當的，因為病人需要補充血容積及休息，而非增加活動。"},
+    "pdf_pages": [225],
+    "tags": ["sata", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Which postoperative nursing instruction is most effective in preventing atelectasis?", "zh": "下列哪項術後護理指導對於預防肺擴張不全最有效？"},
+    "options": [
+      {"en": "Encourage use of the incentive spirometer every 1 to 2 hours while awake", "zh": "鼓勵病人在清醒時每1至2小時使用誘發性肺量計"},
+      {"en": "Restrict oral fluid intake to reduce pulmonary secretions", "zh": "限制經口攝水以減少肺部分泌物"},
+      {"en": "Keep the client supine for the first 24 hours after surgery", "zh": "手術後前24小時讓病人維持平躺姿勢"},
+      {"en": "Delay ambulation until the second postoperative day", "zh": "延遲下床活動至術後第二天"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Incentive spirometry, deep breathing and coughing, and early ambulation help prevent atelectasis by promoting lung expansion and mobilizing secretions. Restricting fluids, maintaining a supine position, and delaying ambulation all increase the risk of atelectasis and other pulmonary complications.", "zh": "誘發性肺量計、深呼吸咳痛運動及早期下床活動有助於促進肺擴張並鬆動分泌物，從而預防肺擴張不全。限制水分攝取、維持平躺姿勢及延遲下床活動皆會增加肺擴張不全及其他肺部併發症的風險。"},
+    "pdf_pages": [224],
+    "tags": ["atelectasis", "prevention"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "On postoperative day 1, a client reports mild dyspnea. The nurse auscultates fine crackles over the lower lung lobes, and the client's temperature is 37.9°C (100.2°F). The nurse recognizes these findings as most consistent with which early postoperative complication?", "zh": "術後第一天，病人主訴輕微呼吸困難。護理師聽診發現雙側下肺葉有細微爆裂音，體溫為37.9°C（100.2°F）。護理師認為這些發現最符合下列哪種早期術後併發症？"},
+    "options": [
+      {"en": "Atelectasis", "zh": "肺擴張不全"},
+      {"en": "Pulmonary embolism", "zh": "肺栓塞"},
+      {"en": "Wound infection", "zh": "傷口感染"},
+      {"en": "Paralytic ileus", "zh": "麻痺性腸阻塞"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Atelectasis typically occurs 1 to 2 days after surgery and presents with dyspnea, crackles over the involved lung area, and a mild temperature elevation. Pneumonia, in contrast, tends to develop 3 to 5 days postoperatively. Wound infection and paralytic ileus do not present with respiratory crackles.", "zh": "肺擴張不全通常發生於術後1至2天，表現為呼吸困難、受影響肺區有爆裂音及輕微體溫升高。相對地，肺炎通常於術後3至5天才出現。傷口感染及麻痺性腸阻塞皆不會出現肺部爆裂音。"},
+    "pdf_pages": [224],
+    "tags": ["recognize cues", "timing", "atelectasis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client who had a laparoscopic cholecystectomy is transferred from the postanesthesia care unit (PACU) to the surgical nursing unit. Which assessment does the nurse prioritize immediately upon the client's arrival?", "zh": "一位接受腹腔鏡膽囊切除術的病人從麻醉後恢復室（PACU）轉入外科病房。病人到達後，護理師應優先進行哪項評估？"},
+    "options": [
+      {"en": "Assess the patency of the airway", "zh": "評估呼吸道是否通暢"},
+      {"en": "Check the surgical dressing for bleeding", "zh": "檢查手術敷料是否有出血"},
+      {"en": "Compare current vital signs with the preoperative baseline", "zh": "將目前生命徵象與術前基準值比較"},
+      {"en": "Check tubes and drains for patency", "zh": "檢查管路及引流管是否通暢"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Using the ABC (airway, breathing, circulation) priority framework, the nurse's first action on receiving a postoperative client is to assess airway patency and respiratory function, since an obstructed airway is immediately life-threatening. Vital signs, dressings, and tubes/drains are assessed after the airway is confirmed to be patent.", "zh": "依照ABC（呼吸道、呼吸、循環）優先順序，護理師接收術後病人時第一步應評估呼吸道是否通暢及呼吸功能，因為呼吸道阻塞會立即威脅生命。確認呼吸道通暢後，才接著評估生命徵象、敷料及管路/引流管。"},
+    "pdf_pages": [222],
+    "tags": ["priority", "first action", "ABCs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "On postoperative day 6 after a bowel resection, a client reports a sudden popping sensation over the incision. The nurse removes the dressing and sees a loop of bowel protruding through the open wound. Select all appropriate nursing actions.", "zh": "一位接受腸道切除手術的病人在術後第6天，主訴傷口處突然有「啪」一聲的感覺。護理師移除敷料後，發現有一段腸道從裂開的傷口中突出。請選出護理師所有適當的處置（多選題）。"},
+    "options": [
+      {"en": "Call for help and ask that the surgeon be notified immediately", "zh": "呼叫協助並請他人立即通知外科醫師"},
+      {"en": "Place the client in a high-Fowler's position", "zh": "讓病人採取高坐姿（high-Fowler's position）"},
+      {"en": "Place the client in a low-Fowler's position with the knees bent", "zh": "讓病人採取低坐姿（low-Fowler's position）並彎曲膝部"},
+      {"en": "Cover the exposed bowel with a sterile saline-moistened dressing", "zh": "用無菌生理食鹽水濕敷料覆蓋外露的腸道"},
+      {"en": "Apply ice packs directly to the exposed bowel to reduce swelling", "zh": "直接將冰袋敷在外露的腸道上以消腫"},
+      {"en": "Keep the client NPO and anticipate the need for surgical repair", "zh": "讓病人維持禁食並預期可能需要手術修補"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "This presentation is wound evisceration, an emergency. The nurse calls for help, has the surgeon notified, places the client in a low-Fowler's position with knees bent to reduce tension on the incision, covers the exposed bowel with a sterile saline-moistened dressing, keeps the client NPO, monitors for shock, and anticipates immediate surgical repair. A high-Fowler's position increases abdominal pressure, and ice is avoided because its vasoconstrictive effect can compromise perfusion to the exposed tissue.", "zh": "此情況為傷口崩裂內臟外露，屬於急症。護理師應呼叫協助、請人通知外科醫師、讓病人採低坐姿並彎曲膝部以減少傷口張力、用無菌生理食鹽水濕敷料覆蓋外露腸道、讓病人禁食、監測休克徵象，並預期需立即進行手術修補。高坐姿會增加腹內壓力，而冰敷因具血管收縮作用，可能影響外露組織的血流灌注，故應避免。"},
+    "pdf_pages": [227],
+    "tags": ["sata", "emergency", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A postoperative client has patient-controlled analgesia (PCA) prescribed for pain management. Which statement by the client indicates a need for further teaching?", "zh": "一位術後病人經處方使用病人自控式止痛（PCA）進行疼痛管理。病人的下列哪項陳述顯示需要進一步指導？"},
+    "options": [
+      {"en": "\"I should push the button whenever I feel the pain building up.\"", "zh": "「當我感覺疼痛逐漸加劇時，我應該按下按鈕。」"},
+      {"en": "\"My spouse can push the button for me if I'm sleeping and seem uncomfortable.\"", "zh": "「如果我睡著了而看起來不舒服，我的配偶可以幫我按按鈕。」"},
+      {"en": "\"The pump has a lockout interval so I can't give myself too much medication.\"", "zh": "「這個泵有鎖定時間設定，所以我不會給自己過多藥物。」"},
+      {"en": "\"I will tell the nurse if the pain medication isn't working well enough.\"", "zh": "「如果止痛藥效果不夠好，我會告訴護理師。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The client must be the only person who pushes the PCA button, because a sleeping or sedated client who appears uncomfortable may actually be experiencing oversedation; having another person administer a dose (\"PCA by proxy\") can cause dangerous oversedation and respiratory depression.", "zh": "PCA按鈕必須由病人本人按下，因為正在熟睡或已鎮靜而看起來不適的病人，實際上可能已經處於過度鎮靜狀態；若由他人代為給藥（「代理按壓」）可能導致危險的過度鎮靜及呼吸抑制。"},
+    "pdf_pages": [223],
+    "tags": ["medication safety", "PCA", "requires further teaching"]
+  }
+]

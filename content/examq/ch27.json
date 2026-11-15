@@ -1,0 +1,245 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client 3 hours postpartum is restless and difficult to rouse. The skin is cool, clammy, and ashen, and the peripad and underpad are saturated with bright red blood. Which assessment findings would the nurse expect to accompany early hypovolemic shock? Select all that apply.",
+      "zh": "一名產後3小時的產婦意識模糊、不易喚醒，皮膚濕冷且呈灰白色，產墊與看護墊已被鮮紅血液浸濕。下列哪些評估發現符合早期低血容性休克的表現？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Pulse increased from a baseline of 84 to 128 beats/minute", "zh": "脈搏由基準值每分鐘84次上升至128次"},
+      {"en": "Respirations decreased to 10 breaths/minute and deep", "zh": "呼吸減緩至每分鐘10次且深沉"},
+      {"en": "Blood pressure decreased from a baseline of 122/80 to 88/50 mm Hg", "zh": "血壓由基準值122/80下降至88/50毫米汞柱"},
+      {"en": "Urine output increased to 100 mL/hour", "zh": "尿量增加至每小時100毫升"},
+      {"en": "Skin cool, clammy, and ashen or grayish in color", "zh": "皮膚濕冷且呈灰白或蒼灰色"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {
+      "en": "Early signs of postpartum hemorrhage and shock include a rising pulse rate (an early compensatory sign), falling blood pressure, and cool, clammy, ashen skin from peripheral vasoconstriction. Respirations become rapid and shallow, not slow and deep, and urine output decreases rather than increases as renal perfusion falls.",
+      "zh": "產後出血與休克的早期徵象包括脈搏上升（早期代償反應）、血壓下降，以及因週邊血管收縮造成的皮膚濕冷與灰白色。呼吸會變得快而淺，而非緩慢深沉；尿量會因腎臟灌流下降而減少，而非增加。"
+    },
+    "pdf_pages": [394, 395],
+    "tags": ["sata", "red flag", "hemorrhage", "shock"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse assesses a client in the fourth stage of labor and finds the fundus firm and midline, but bleeding from the vagina is excessive. What is the nurse's initial action?",
+      "zh": "護理師評估第四產程產婦，發現子宮底堅實且位於中線，但陰道出血量過多。護理師的最初處置為何？"
+    },
+    "options": [
+      {"en": "Massage the fundus", "zh": "按摩子宮底"},
+      {"en": "Notify the obstetrician", "zh": "通知產科醫師"},
+      {"en": "Place the client in Trendelenburg's position", "zh": "讓產婦採頭低腳高（Trendelenburg）姿勢"},
+      {"en": "Document the findings and reassess in 30 minutes", "zh": "記錄發現並於30分鐘後重新評估"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "When the fundus is already firm but bleeding is excessive, the source of bleeding is likely a cervical or vaginal laceration rather than uterine atony, so massaging a firm fundus will not help. Trendelenburg's position can interfere with cardiac and respiratory function and is avoided. The initial action is to notify the obstetrician so the bleeding source can be identified and treated; documentation alone or delaying reassessment is unsafe.",
+      "zh": "若子宮底已堅實但仍持續大量出血，出血原因較可能為頸部或陰道撕裂傷而非子宮收縮乏力，因此按摩已堅實的子宮底無助於止血。Trendelenburg姿勢可能影響心肺功能，應避免使用。最初處置應通知產科醫師以找出出血來源並處理；僅記錄或延遲重新評估皆不安全。"
+    },
+    "pdf_pages": [393, 394],
+    "tags": ["first action", "hemorrhage", "priority"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is reviewing the histories of four postpartum clients. Which client is at greatest risk for postpartum hemorrhage?",
+      "zh": "護理師查看四位產婦的病史。下列哪位產婦發生產後出血的風險最高？"
+    },
+    "options": [
+      {"en": "A primiparous client who delivered vaginally 4 hours ago with no complications", "zh": "初產婦，4小時前無併發症陰道分娩"},
+      {"en": "A multiparous client who delivered a 6-lb newborn 6 hours ago", "zh": "經產婦，6小時前分娩出體重約2700克的新生兒"},
+      {"en": "A multiparous client who delivered a large-for-gestational-age newborn after labor induction with oxytocin", "zh": "經產婦，使用催產素引產後分娩出巨大兒"},
+      {"en": "A primiparous client who delivered 6 hours ago and received epidural anesthesia", "zh": "初產婦，6小時前分娩並接受硬脊膜外麻醉"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Predisposing factors for postpartum hemorrhage include multiparity, uterine overdistention (a large neonate), and labor induction/augmentation with oxytocin, all of which increase the risk of uterine atony. The client with multiple risk factors combined is at greatest risk; the other clients have no specific risk factors noted beyond routine vaginal delivery.",
+      "zh": "產後出血的危險因子包括經產、子宮過度膨脹（巨大兒）以及催產素引產/催產，這些因子皆會增加子宮收縮乏力的風險。同時具有多項危險因子的產婦風險最高；其餘產婦除常規陰道分娩外並無特定危險因子。"
+    },
+    "pdf_pages": [394],
+    "tags": ["prioritization", "hemorrhage", "risk factors"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "On palpation, a postpartum client's uterus feels soft and boggy. What is the nurse's initial action?",
+      "zh": "護理師觸診產婦子宮時發現子宮軟且鬆弛。護理師的最初處置為何？"
+    },
+    "options": [
+      {"en": "Document the findings", "zh": "記錄此發現"},
+      {"en": "Elevate the client's legs", "zh": "抬高產婦的雙腿"},
+      {"en": "Massage the fundus until it becomes firm", "zh": "按摩子宮底直到變堅實"},
+      {"en": "Push firmly on the uterus to expel any clots", "zh": "用力下壓子宮以排出血塊"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "A soft, boggy uterus indicates uterine atony, and the initial action is to massage the fundus until it becomes firm, expressing clots gently as the uterus contracts. Elevating the legs does not address atony. Pushing forcefully on an uncontracted uterus can cause uterine inversion and massive hemorrhage, and documentation alone delays necessary intervention.",
+      "zh": "子宮軟且鬆弛代表子宮收縮乏力，最初處置為按摩子宮底直到變堅實，並於子宮收縮時輕柔排出血塊。抬高雙腿無法處理收縮乏力問題。用力下壓未收縮的子宮可能導致子宮內翻及大量出血，而僅記錄則會延遲必要的處置。"
+    },
+    "pdf_pages": [393],
+    "tags": ["first action", "uterine atony", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A client received epidural anesthesia for delivery and is now 1 hour postpartum. The nurse suspects a developing vulvar hematoma. Which assessment finding would best indicate the presence of the hematoma in this client?",
+      "zh": "一名產婦分娩時接受硬脊膜外麻醉，目前產後1小時。護理師懷疑其出現外陰血腫。下列哪項評估發現最能提示此產婦發生血腫？"
+    },
+    "options": [
+      {"en": "Changes in vital signs, such as tachycardia and hypotension", "zh": "生命徵象變化，如心跳過速與低血壓"},
+      {"en": "Visible heavy bruising of the perineum", "zh": "會陰部明顯瘀血"},
+      {"en": "The client's complaint of intense, unrelieved pain", "zh": "產婦主訴劇烈且無法緩解的疼痛"},
+      {"en": "The client's complaint of a tearing sensation in the perineum", "zh": "產婦主訴會陰有撕裂感"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Because the client is still anesthetized from the epidural, she may not be able to perceive pain, pressure, or a tearing sensation in the perineal area. Changes in vital signs — tachycardia and hypotension — reflect concealed blood loss into the tissues and are the most reliable indicator of hematoma in this anesthetized client. Bruising may be present but is less reliable than vital sign changes for detecting concealed bleeding.",
+      "zh": "由於產婦仍受硬脊膜外麻醉影響，可能無法感受到會陰部的疼痛、壓迫感或撕裂感。生命徵象的變化（心跳過速與低血壓）反映組織內隱性出血，是此麻醉產婦偵測血腫最可靠的指標。瘀血雖可能出現，但在偵測隱性出血上不如生命徵象變化可靠。"
+    },
+    "pdf_pages": [393],
+    "tags": ["hematoma", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A client in the postpartum unit suddenly complains of sharp chest pain and dyspnea. The nurse notes the client is tachycardic with an elevated respiratory rate and suspects a pulmonary embolism. What is the nurse's initial action?",
+      "zh": "一名產後病房的產婦突然主訴劇烈胸痛與呼吸困難。護理師發現其心跳過速且呼吸速率升高，懷疑為肺栓塞。護理師的最初處置為何？"
+    },
+    "options": [
+      {"en": "Initiate an intravenous line", "zh": "建立靜脈輸液管路"},
+      {"en": "Assess the client's blood pressure", "zh": "評估產婦的血壓"},
+      {"en": "Prepare to administer morphine sulfate", "zh": "準備給予硫酸嗎啡"},
+      {"en": "Administer oxygen at 8 to 10 L/minute by face mask", "zh": "以面罩給予每分鐘8至10公升的氧氣"}
+    ],
+    "answer": [3],
+    "rationale": {
+      "en": "Using the ABCs (airway, breathing, circulation) to prioritize, the initial action for a suspected pulmonary embolism is to administer oxygen at 8 to 10 L/minute by face mask to decrease hypoxia, with the head of the bed elevated. An IV line, vital sign monitoring, and medications such as morphine or anticoagulants will follow but are not the first action.",
+      "zh": "依循ABC（呼吸道、呼吸、循環）優先順序，疑似肺栓塞時的最初處置為以面罩給予每分鐘8至10公升氧氣以減輕低血氧，並抬高床頭。建立靜脈輸液、監測生命徵象，以及給予嗎啡或抗凝劑等藥物皆應於其後進行，而非最初處置。"
+    },
+    "pdf_pages": [396],
+    "tags": ["first action", "pulmonary embolism", "red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is preparing self-care instructions for a postpartum client who has been diagnosed with mastitis. Which instructions should be included? Select all that apply.",
+      "zh": "護理師為一名被診斷為乳腺炎的產婦準備自我照護指導。下列哪些指導內容應包含在內？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Wear a supportive bra", "zh": "穿著具支撐性的胸罩"},
+      {"en": "Rest during the acute phase of the illness", "zh": "急性期應多休息"},
+      {"en": "Stop breast-feeding on the affected side until the infection clears", "zh": "受感染側應停止哺餵，直到感染痊癒為止"},
+      {"en": "Maintain a fluid intake of at least 2500 to 3000 mL/day", "zh": "每日維持至少2500至3000毫升的水分攝取"},
+      {"en": "Discontinue the prescribed antibiotics once soreness subsides", "zh": "一旦痠痛緩解即可停止服用已開立的抗生素"},
+      {"en": "Apply heat to the affected breast as prescribed", "zh": "依醫囑於患側乳房熱敷"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "Management of mastitis includes a supportive bra, rest during the acute phase, fluid intake of 2500 to 3000 mL/day, and applying heat to the site as prescribed. Breast-feeding (or decompression by pump) should continue — not stop — to prevent abscess formation, and the full prescribed course of antibiotics must be completed, not stopped when symptoms improve.",
+      "zh": "乳腺炎的處置包括穿著具支撐性的胸罩、急性期多休息、每日維持2500至3000毫升水分攝取，以及依醫囑於患處熱敷。母乳哺餵（或以泵排空乳房）應持續進行，而非停止，以預防乳房膿腫形成；抗生素應依醫囑完成整個療程，不可因症狀緩解而自行停藥。"
+    },
+    "pdf_pages": [395],
+    "tags": ["sata", "mastitis", "patient education"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "A postpartum client is diagnosed with endometritis, with a tender, enlarged uterus and foul-smelling lochia. Which position would the nurse encourage to promote drainage of lochia?",
+      "zh": "一名產婦被診斷為子宮內膜炎，子宮腫大且觸痛，惡露有惡臭。護理師應鼓勵採取哪種姿勢以促進惡露引流？"
+    },
+    "options": [
+      {"en": "Fowler's position", "zh": "半坐臥式（Fowler's position）"},
+      {"en": "Supine position", "zh": "平躺仰臥"},
+      {"en": "Trendelenburg's position", "zh": "頭低腳高（Trendelenburg's position）"},
+      {"en": "Left lateral position with both legs elevated", "zh": "左側臥並抬高雙腿"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Fowler's position uses gravity to facilitate drainage of lochia from the uterus and vagina, which helps prevent further accumulation of infected material. Supine, Trendelenburg, and leg-elevated positions do not promote dependent drainage and are not appropriate for this purpose.",
+      "zh": "半坐臥式能利用重力促進子宮與陰道內惡露的引流，有助於避免感染物質進一步堆積。平躺、頭低腳高及抬腿姿勢皆無法促進引流，不適用於此目的。"
+    },
+    "pdf_pages": [396],
+    "tags": ["endometritis", "positioning", "comfort"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A postpartum client who delivered by cesarean section develops redness, warmth, and tenderness in the left calf, and deep vein thrombosis is suspected. Which nursing action is contraindicated?",
+      "zh": "一名剖腹產產婦左側小腿出現紅、腫、熱且觸痛，懷疑深層靜脈血栓。下列哪項護理措施屬於禁忌？"
+    },
+    "options": [
+      {"en": "Massaging the affected leg", "zh": "按摩患側小腿"},
+      {"en": "Elevating the affected leg", "zh": "抬高患側小腿"},
+      {"en": "Applying warm, moist packs to the affected area as prescribed", "zh": "依醫囑於患處濕熱敷"},
+      {"en": "Maintaining bed rest with the affected leg elevated", "zh": "維持臥床休息並抬高患側小腿"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The leg should never be massaged when a thrombus is suspected, because massage can dislodge the clot and cause a pulmonary embolism. Elevating the affected leg, applying moist heat as prescribed, and maintaining bed rest with the leg elevated are appropriate measures for thrombophlebitis.",
+      "zh": "懷疑有血栓時絕不可按摩患側小腿，因按摩可能使血塊脫落而造成肺栓塞。抬高患側小腿、依醫囑濕熱敷，以及臥床休息並抬腿皆屬靜脈炎的適當處置。"
+    },
+    "pdf_pages": [396, 397],
+    "tags": ["safety", "thrombophlebitis", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "At a 3-week postpartum visit, a client's uterus is larger than expected for the time since delivery, and lochia rubra has persisted beyond the normal time frame. Which medication would the nurse anticipate being prescribed?",
+      "zh": "一名產婦於產後3週回診，子宮大小較預期更大，且紅色惡露持續時間超過正常範圍。護理師預期會開立哪種藥物？"
+    },
+    "options": [
+      {"en": "Methylergonovine maleate", "zh": "麥角新堿（methylergonovine maleate）"},
+      {"en": "Terbutaline", "zh": "特布他林（terbutaline）"},
+      {"en": "Magnesium sulfate", "zh": "硫酸鎂（magnesium sulfate）"},
+      {"en": "Indomethacin", "zh": "印多美沙辛（indomethacin）"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "An enlarged uterus and prolonged lochia rubra beyond the expected time frame indicate subinvolution. Methylergonovine maleate provides sustained uterine contraction and is used to treat subinvolution. Terbutaline, magnesium sulfate, and indomethacin are tocolytics used to relax the uterus and are contraindicated for this purpose.",
+      "zh": "子宮腫大且紅色惡露持續時間超出預期，提示子宮復舊不全。麥角新堿可提供持續的子宮收縮，用於治療子宮復舊不全。特布他林、硫酸鎂與印多美沙辛皆為安胎劑，作用為使子宮放鬆，不適用於此情況。"
+    },
+    "pdf_pages": [397],
+    "tags": ["medication", "subinvolution"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client experiences a stillbirth. Which nursing action best reflects therapeutic grief support for this client and family?",
+      "zh": "一名產婦經歷死產。下列哪項護理措施最能體現對此產婦與家庭的治療性悲傷支持？"
+    },
+    "options": [
+      {"en": "Offer the parents the option to see, hold, and bathe the infant, and prepare a memory box if desired", "zh": "提供父母選擇見、抱、沐浴嬰兒的機會，並依其意願準備紀念盒"},
+      {"en": "Remove the infant from the room quickly to minimize parental distress", "zh": "迅速將嬰兒移出房間以減少父母的痛苦"},
+      {"en": "Discourage the parents from discussing the loss with other family members", "zh": "勸阻父母與其他家人討論此次失去"},
+      {"en": "Reassure the parents that they should try to conceive again soon", "zh": "安慰父母應盡快再次嘗試懷孕"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Therapeutic support after perinatal loss includes offering (not forcing) options such as seeing, holding, or bathing the infant, allowing visitation, and preparing keepsakes such as a memory box, while respecting the family's religious, spiritual, and cultural preferences. Removing the infant quickly, discouraging communication, or suggesting another pregnancy minimizes the family's grief and is not therapeutic.",
+      "zh": "產後失去胎兒/新生兒的治療性支持包括提供（而非強迫）父母見、抱或沐浴嬰兒的機會，允許家屬探視，並依意願準備紀念盒等紀念物，同時尊重家庭的宗教、靈性與文化偏好。迅速移走嬰兒、勸阻溝通，或建議盡快再次懷孕，皆會淡化家庭的悲傷，並非治療性做法。"
+    },
+    "pdf_pages": [397, 398],
+    "tags": ["therapeutic communication", "grief", "perinatal loss"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "A postpartum client is diagnosed with cystitis. Which action would the nurse plan as the priority in this client's care?",
+      "zh": "一名產婦被診斷為膀胱炎。護理師在照護計畫中應優先採取哪項措施？"
+    },
+    "options": [
+      {"en": "Encouraging increased oral fluid intake", "zh": "鼓勵增加口服水分攝取"},
+      {"en": "Placing ice on the perineum", "zh": "於會陰部敷冰"},
+      {"en": "Providing sitz baths", "zh": "提供坐浴"},
+      {"en": "Monitoring hemoglobin and hematocrit levels", "zh": "監測血紅素與血球容積比"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Cystitis is an infection of the bladder, and the priority action is to encourage adequate fluid intake to help flush the bladder and reduce bacterial concentration. Sitz baths and perineal ice are appropriate for perineal discomfort, not cystitis, and hemoglobin/hematocrit monitoring relates to hemorrhage, not a urinary tract infection.",
+      "zh": "膀胱炎為膀胱感染，優先措施為鼓勵充足的水分攝取，以協助沖洗膀胱並降低細菌濃度。坐浴與會陰敷冰適用於會陰部不適，而非膀胱炎；監測血紅素與血球容積比則與出血有關，而非泌尿道感染。"
+    },
+    "pdf_pages": [393],
+    "tags": ["priority", "cystitis", "patient education"]
+  }
+]

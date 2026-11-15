@@ -1,0 +1,285 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for a 2-year-old admitted with acute otitis media of the left ear who has been afebrile and improving on oral antibiotics for 3 days. Which new finding should the nurse report to the primary health care provider immediately?",
+      "zh": "護理師照護一名因左耳急性中耳炎住院的2歲幼兒，該幼兒已服用口服抗生素3天，目前無發燒且症狀改善中。護理師發現下列哪項新出現的徵象應立即報告醫療人員？"
+    },
+    "options": [
+      {"en": "Mild residual irritability when the ear is touched", "zh": "觸碰耳朵時仍有輕微哭鬧不安"},
+      {"en": "Swelling, redness, and tenderness over the mastoid process behind the left ear", "zh": "左耳後乳突處出現腫脹、發紅與壓痛"},
+      {"en": "A small amount of clear fluid noted in the external ear canal", "zh": "外耳道可見少量清澈分泌物"},
+      {"en": "The child continues to prefer lying with the left ear down", "zh": "幼兒仍偏好側臥，將左耳朝下"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Swelling, redness, and tenderness over the mastoid bone suggest mastoiditis, a serious complication of otitis media that requires prompt evaluation and treatment. The other findings are consistent with resolving otitis media and do not need urgent reporting.",
+      "zh": "乳突處腫脹、發紅與壓痛提示乳突炎，是中耳炎嚴重的併發症，需立即評估與處理；其他徵象符合中耳炎逐漸改善的表現，不需緊急報告。"
+    },
+    "pdf_pages": [496, 497],
+    "tags": ["red flag", "complication", "mastoiditis"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The parent of a healthy 14-month-old just diagnosed with acute otitis media asks the nurse why the primary health care provider wants to wait before prescribing an antibiotic. What is the nurse's best response?",
+      "zh": "一名健康的14個月大幼兒剛被診斷為急性中耳炎，家長詢問護理師為何醫療人員要先觀察而不立即開立抗生素。護理師最適當的回應是什麼？"
+    },
+    "options": [
+      {"en": "\"You should ask the provider to prescribe an antibiotic today; waiting is unsafe for a child this age.\"", "zh": "「您應該要求醫療人員今天就開立抗生素，對這個年齡的孩子來說等待並不安全。」"},
+      {"en": "\"In many healthy infants older than 6 months, the ear infection often clears on its own, so controlling pain and fever while observing for up to about 72 hours is a safe approach.\"", "zh": "「許多6個月以上的健康嬰幼兒，中耳炎常可自行緩解，所以先控制疼痛與發燒，並觀察大約72小時，是安全的做法。」"},
+      {"en": "\"Antibiotics are never used to treat ear infections in children.\"", "zh": "「抗生素絕對不會用來治療孩童的中耳炎。」"},
+      {"en": "\"Watchful waiting is only used when the diagnosis is uncertain.\"", "zh": "「觀察等待只會用在診斷不確定的時候。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Current guidance supports careful antibiotic use in healthy infants older than 6 months and in children because of concerns about antibiotic-resistant organisms; a brief period of observation (up to about 72 hours) with symptomatic treatment is often safe and appropriate. Option 1 contradicts accepted practice, option 3 is false, and option 4 misstates the rationale for observation.",
+      "zh": "目前建議對6個月以上的健康嬰幼兒謹慎使用抗生素，以避免抗藥菌產生；在給予症狀治療的同時觀察約72小時通常是安全且適當的做法。選項1與目前做法相違，選項3錯誤，選項4對觀察等待的理由描述不正確。"
+    },
+    "pdf_pages": [496],
+    "tags": ["parent teaching", "antibiotic stewardship"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse is teaching the parent of a 20-month-old with otitis externa how to instill the prescribed ear drops. Which statement by the parent indicates correct understanding of proper technique for a child this age?",
+      "zh": "護理師指導一名20個月大、患有外耳炎幼兒的家長如何滴入處方耳藥。家長的哪句話顯示其對此年齡孩童正確滴藥技巧的理解？"
+    },
+    "options": [
+      {"en": "\"I will pull her earlobe down and back before instilling the drops.\"", "zh": "「我會先將她的耳垂往下往後拉，再滴入藥液。」"},
+      {"en": "\"I will pull the top of her ear up and outward before instilling the drops.\"", "zh": "「我會先將她耳朵上緣往上往外拉，再滴入藥液。」"},
+      {"en": "\"I will have her sit upright and tilt her head forward right after the drops go in.\"", "zh": "「滴藥後我會立刻讓她坐直並將頭往前傾。」"},
+      {"en": "\"The technique for instilling ear drops is the same no matter how old my child is.\"", "zh": "「幫孩子滴耳藥的技巧不管年紀多大都一樣。」"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "For a child younger than 3 years, the earlobe is pulled down and back to straighten the ear canal for medication instillation; in a child older than 3 years, the pinna is pulled up and back. Tilting the head forward immediately after instillation would cause the medication to run out, and technique does vary by age.",
+      "zh": "3歲以下兒童滴耳藥時，須將耳垂往下往後拉以拉直耳道；3歲以上兒童則需將耳廓往上往後拉。滴藥後立即將頭前傾會使藥液流出，且滴藥技巧確實會依年齡不同而有差異。"
+    },
+    "pdf_pages": [497],
+    "tags": ["medication administration", "pediatric technique"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is caring for a 5-year-old 4 hours after tonsillectomy. Which assessment finding is the earliest and most reliable indicator that the child may be bleeding?",
+      "zh": "護理師照護一名扁桃腺切除術後4小時的5歲兒童。下列哪項評估發現是顯示該兒童可能出血最早且最可靠的指標？"
+    },
+    "options": [
+      {"en": "A sore throat rated 6 out of 10", "zh": "喉部疼痛評分為6分（滿分10分）"},
+      {"en": "A low-grade temperature of 100.1°F (37.8°C)", "zh": "輕度發燒，體溫100.1°F（37.8°C）"},
+      {"en": "Frequent swallowing and repeated clearing of the throat", "zh": "頻繁吞嚥且反覆清喉"},
+      {"en": "Mild bad breath (halitosis)", "zh": "輕微口臭"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Frequent swallowing is a classic early sign of postoperative bleeding after tonsillectomy, often appearing before blood is visibly vomited; it suggests the child is swallowing blood trickling down the posterior pharynx. Mild sore throat, low-grade fever, and mild halitosis are expected after this surgery and are not, by themselves, signs of hemorrhage.",
+      "zh": "頻繁吞嚥是扁桃腺切除術後出血的典型早期徵象，常在可見嘔吐鮮血之前出現，提示血液沿咽後壁流下被孩童吞下。輕度喉痛、輕度發燒與輕微口臭為此手術後常見現象，本身並非出血徵象。"
+    },
+    "pdf_pages": [498],
+    "tags": ["red flag", "post-op", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is assigned to four children who had tonsillectomies earlier that morning. Which child should the nurse assess first?",
+      "zh": "護理師被分配照護四名當天早上剛完成扁桃腺切除術的兒童。護理師應優先評估哪一位？"
+    },
+    "options": [
+      {"en": "A 4-year-old who is crying and refusing to drink clear fluids", "zh": "一名4歲兒童正在哭鬧且拒絕喝清流質"},
+      {"en": "A 7-year-old who is swallowing frequently and whose pulse has increased from 90 to 128 beats/min", "zh": "一名7歲兒童頻繁吞嚥，脈搏從每分鐘90次升高到128次"},
+      {"en": "A 6-year-old reporting mild ear pain rated 2 out of 10", "zh": "一名6歲兒童表示輕微耳痛，評分2分（滿分10分）"},
+      {"en": "A 5-year-old asking for an ice pop", "zh": "一名5歲兒童要求吃冰棒"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Frequent swallowing combined with a significant rise in heart rate are signs of active bleeding and possible early hemorrhagic shock; this child needs immediate assessment. The other children have findings that are expected or low priority after tonsillectomy.",
+      "zh": "頻繁吞嚥合併心跳明顯上升為活動性出血及早期出血性休克的徵象，此兒童需要立即評估。其他兒童的表現為扁桃腺切除術後常見或低優先順序的情況。"
+    },
+    "pdf_pages": [498],
+    "tags": ["priority", "assess first"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is reviewing preoperative laboratory results for a child scheduled for a tonsillectomy. Which laboratory value is most important for the nurse to review before surgery?",
+      "zh": "護理師正在審查一名即將接受扁桃腺切除術兒童的術前檢驗結果。下列哪項檢驗數值在手術前最需要審查？"
+    },
+    "options": [
+      {"en": "Prothrombin time", "zh": "凝血酶原時間（PT）"},
+      {"en": "Serum creatinine", "zh": "血清肌酸酐"},
+      {"en": "Erythrocyte sedimentation rate", "zh": "紅血球沉降速率"},
+      {"en": "Blood urea nitrogen", "zh": "血中尿素氮（BUN）"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Because the tonsillar area is highly vascular, coagulation studies such as prothrombin time are reviewed before surgery to identify a bleeding risk. Creatinine, sedimentation rate, and blood urea nitrogen do not assess clotting ability and are not the priority for this surgery.",
+      "zh": "由於扁桃腺區域血管豐富，術前需審查凝血功能，如凝血酶原時間，以確認出血風險。肌酸酐、沉降速率與血中尿素氮並非評估凝血功能的指標，對此手術而言並非優先項目。"
+    },
+    "pdf_pages": [497, 498],
+    "tags": ["labs", "pre-op"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The parent of a child recovering at home after tonsillectomy describes the diet plan to the nurse. Which statement requires further teaching?",
+      "zh": "一名扁桃腺切除術後在家中恢復的兒童，其家長向護理師描述飲食計畫。家長的哪句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I'll avoid red or purple popsicles so we can tell real bleeding from food coloring if she vomits.\"", "zh": "「我會避免給她紅色或紫色的冰棒，這樣如果她吐了，才能分辨是真的出血還是食用色素。」"},
+      {"en": "\"I'll offer ice chips and clear, cool apple juice.\"", "zh": "「我會給她碎冰和清涼的蘋果汁。」"},
+      {"en": "\"I'll give her a chocolate milkshake since it's soft and should feel soothing on her throat.\"", "zh": "「我會給她巧克力奶昔，因為質地柔軟，應該能舒緩她的喉嚨。」"},
+      {"en": "\"I'll hold off on crunchy foods like chips for now.\"", "zh": "「我目前會先避免給她吃像洋芋片這類脆硬的食物。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Milk and milk products, such as milkshakes, ice cream, and pudding, are avoided in the early postoperative period because they coat the throat and cause the child to clear the throat or cough, which increases the risk of bleeding. Avoiding red/purple/brown liquids, offering clear cool noncitrus fluids, and avoiding sharp or crunchy foods are all correct.",
+      "zh": "術後初期應避免給予乳製品，如奶昔、冰淇淋與布丁，因為這些食物會附著於喉部，使孩童需要清喉或咳嗽，增加出血風險。避免紅色/紫色/棕色液體、提供清涼無刺激性液體，以及避免尖銳或脆硬食物皆為正確做法。"
+    },
+    "pdf_pages": [498],
+    "tags": ["parent teaching", "requires further teaching", "post-op diet"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "A parent whose child had bilateral myringotomy with tympanostomy tube placement earlier today describes home care instructions to the nurse. Which statement indicates the need for further teaching?",
+      "zh": "一名孩童當天早上接受雙側鼓膜切開並置入耳管手術，家長向護理師描述居家照護指導內容。家長的哪句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will have him wear earplugs for baths, showers, and swimming.\"", "zh": "「我會讓他在洗澡、淋浴和游泳時戴耳塞。」"},
+      {"en": "\"I understand that diving under water and submerging his head are still not allowed for now.\"", "zh": "「我了解目前還不能讓他潛水或把頭浸入水中。」"},
+      {"en": "\"If he blows his nose forcefully sometime this week, that should be fine.\"", "zh": "「如果他這週用力擤鼻涕，應該沒關係。」"},
+      {"en": "\"If a tiny white tube falls out of his ear in a few months, I'll let the provider know, but I understand it's usually not an emergency.\"", "zh": "「如果幾個月後有個小小的白色管子從他耳朵掉出來，我會通知醫療人員，但我知道這通常不是緊急狀況。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Parents are instructed that the child should not blow the nose forcefully for 7 to 10 days after tympanostomy tube placement to avoid disrupting healing. Earplugs with bathing/swimming, avoiding diving/submersion, and knowing that tubes usually fall out spontaneously within 6-12 months without being an emergency are all correct statements.",
+      "zh": "置入耳管術後7到10天內，應指導孩童避免用力擤鼻涕，以免影響傷口癒合。沐浴/游泳時戴耳塞、避免潛水或頭部浸入水中，以及了解耳管通常於6到12個月內自行脫落、並非緊急狀況，皆為正確說法。"
+    },
+    "pdf_pages": [497],
+    "tags": ["requires further teaching", "post-op"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse teaches the parents of a toddler with strabismus about occlusion (patching) therapy of the stronger eye. Which statement by a parent best demonstrates understanding of the purpose of this therapy?",
+      "zh": "護理師指導一名患有斜視幼兒的家長關於遮蓋（貼片）優勢眼療法。家長的哪句話最能表明其了解此療法的目的？"
+    },
+    "options": [
+      {"en": "\"Patching will make his eyes point straight right away.\"", "zh": "「貼眼罩會讓他的眼睛馬上就變直。」"},
+      {"en": "\"Covering his stronger eye forces the weaker eye to work, which helps strengthen its vision and prevent permanent vision loss.\"", "zh": "「蓋住他比較強的那隻眼睛，會迫使較弱的那隻眼睛運作，有助於加強其視力並預防永久性視力喪失。」"},
+      {"en": "\"We only need to patch the eye at night while he's sleeping.\"", "zh": "「我們只需要在他晚上睡覺時貼眼罩就好。」"},
+      {"en": "\"Once he reaches school age, patching won't help anymore even if it's still needed.\"", "zh": "「等他上學年紀以後，就算還需要，貼眼罩也不會有幫助了。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Patching the stronger eye forces use of the weaker eye, helping to strengthen it and reduce the risk of amblyopia (permanent vision loss) if strabismus is not treated early. Patching is not done only at night, does not produce immediate straightening, and early treatment (not an arbitrary school-age cutoff) is what preserves effectiveness.",
+      "zh": "遮蓋較強的眼睛會迫使較弱的眼睛使用，有助於加強其視力，並降低斜視未早期治療時導致弱視（永久性視力喪失）的風險。貼眼罩並非只在夜間進行，也不會立即使眼睛恢復正位；關鍵在於早期治療，而非以上學年齡作為武斷的界線。"
+    },
+    "pdf_pages": [495],
+    "tags": ["parent teaching", "growth and development"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A day care nurse notes that a 3-year-old has red, itchy eyes with thick yellow discharge consistent with suspected bacterial conjunctivitis. What should the nurse do first?",
+      "zh": "一名日托護理師發現一名3歲幼兒雙眼發紅、搔癢，並有疑似細菌性結膜炎的黃色濃稠分泌物。護理師應優先採取的行動是什麼？"
+    },
+    "options": [
+      {"en": "Call the child's parent to discuss eye drop teaching for home use.", "zh": "致電家長討論居家滴眼藥的指導方式。"},
+      {"en": "Separate the child from the other children and perform hand hygiene after any contact until the child is evaluated.", "zh": "將該幼兒與其他兒童隔開，並在任何接觸後執行手部衛生，直到該幼兒接受評估。"},
+      {"en": "Document the finding for the end-of-day report.", "zh": "將此發現記錄於當天結束時的報告中。"},
+      {"en": "Apply a warm compress to loosen the drainage.", "zh": "使用溫熱敷來鬆動分泌物。"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Bacterial (and viral) conjunctivitis is extremely contagious. The nurse's first priority is to limit spread to other children through separation/isolation measures and strict hand hygiene while arranging evaluation and parent notification; documentation and comfort measures can follow.",
+      "zh": "細菌性（及病毒性）結膜炎傳染性極強。護理師的首要任務是透過隔離措施與嚴格的手部衛生來限制傳染給其他兒童，同時安排評估與通知家長；記錄與舒適措施可稍後進行。"
+    },
+    "pdf_pages": [495, 496],
+    "tags": ["first action", "infection control"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The nurse reviews laboratory results confirming chlamydial conjunctivitis in a 9-year-old whose parent reports the child is not sexually active. Which nursing actions are appropriate at this time? Select all that apply.",
+      "zh": "護理師審閱檢驗結果，確認一名9歲兒童患有披衣菌性結膜炎，其家長表示孩子沒有性行為。護理師此時應採取哪些適當行動？請選出所有適用選項。"
+    },
+    "options": [
+      {"en": "Document the diagnosis and provide only routine eye drop teaching.", "zh": "記錄診斷並僅提供常規滴眼藥指導。"},
+      {"en": "Notify the primary health care provider of the need to further assess for possible sexual abuse.", "zh": "通知醫療人員需要進一步評估是否有性虐待的可能。"},
+      {"en": "Ask about involving a child abuse specialist or social services per facility protocol.", "zh": "依機構流程詢問是否需要讓兒童虐待專家或社工介入。"},
+      {"en": "Reassure the parents that chlamydial conjunctivitis is a common finding in school-age children from ordinary respiratory spread.", "zh": "向家長保證披衣菌性結膜炎在學齡兒童中是常見的，是由一般呼吸道傳播造成的。"},
+      {"en": "Conduct a calm, private interview with the child and family as part of a comprehensive assessment.", "zh": "以平靜、私密的方式對孩童與家庭進行訪談，作為全面評估的一部分。"}
+    ],
+    "answer": [1, 2, 4],
+    "rationale": {
+      "en": "Chlamydial conjunctivitis is rare in children who are not sexually active and is sexually transmitted; a diagnosis in a child in this age group should prompt assessment for possible sexual abuse, including provider notification, involving appropriate specialists/social services per protocol, and a calm, private, comprehensive interview. It would be incorrect to treat this only as a routine infection or to reassure the family that this is a common finding from respiratory spread, since that is not how this organism is typically transmitted in this age group.",
+      "zh": "披衣菌性結膜炎在未發生性行為的兒童中十分罕見，屬於性傳染疾病；此年齡層出現此診斷時，應評估是否有性虐待的可能，包括通知醫療人員、依流程讓適當的專家或社工介入，以及以平靜、私密且全面的方式進行訪談。僅將其視為常規感染處理，或向家長保證這是學齡兒童常見的呼吸道傳播感染，皆屬不正確做法，因為此病原體在此年齡層通常不是以此方式傳播。"
+    },
+    "pdf_pages": [495],
+    "tags": ["sata", "red flag", "psychosocial"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A school nurse is managing a 9-year-old's nosebleed after the child was struck in the face with a ball during recess. Which actions are appropriate? Select all that apply.",
+      "zh": "一名學校護理師正在處理一名9歲兒童在下課時臉部被球擊中後發生的鼻出血。下列哪些措施是適當的？請選出所有適用選項。"
+    },
+    "options": [
+      {"en": "Have the child sit up and lean slightly forward.", "zh": "讓孩童坐直並稍微前傾。"},
+      {"en": "Tilt the child's head backward to keep blood from dripping out of the nose.", "zh": "將孩童的頭往後仰，避免血液從鼻孔滴出。"},
+      {"en": "Apply firm, continuous pressure to the soft part of the nose for at least 10 minutes.", "zh": "持續對鼻子的軟組織部位施加穩定的壓力，至少10分鐘。"},
+      {"en": "Release the pressure every 1 to 2 minutes to check whether the bleeding has stopped.", "zh": "每1到2分鐘放開壓力一次，檢查出血是否已停止。"},
+      {"en": "Apply ice or a cold cloth to the bridge of the nose if bleeding continues.", "zh": "若出血持續，於鼻樑處冰敷或敷冷毛巾。"},
+      {"en": "Arrange transport to the emergency department if the bleeding cannot be controlled.", "zh": "若出血無法控制，安排轉送至急診室。"}
+    ],
+    "answer": [0, 2, 4, 5],
+    "rationale": {
+      "en": "The child should sit up and lean forward (to avoid swallowing or aspirating blood) while firm, continuous pressure is applied to the soft part of the nose for at least 10 minutes without interruption; releasing pressure too soon prevents clot formation. Ice or a cold cloth to the nasal bridge may help if bleeding continues, and transport to the emergency department is arranged if bleeding cannot be controlled. Tilting the head back is avoided because it can cause the child to swallow or aspirate blood.",
+      "zh": "孩童應坐直並前傾（以避免吞入或吸入血液），同時持續不間斷地對鼻子軟組織部位施加穩定壓力至少10分鐘；過早放開壓力會妨礙血塊形成。若出血持續，可於鼻樑冰敷或敷冷毛巾；若出血無法控制，應安排轉送至急診室。應避免將頭往後仰，因為這可能導致孩童吞入或吸入血液。"
+    },
+    "pdf_pages": [498],
+    "tags": ["sata", "first aid", "epistaxis"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "Which assessment finding would lead the nurse to suspect allergic rhinitis rather than a viral upper respiratory infection in a 6-year-old?",
+      "zh": "下列哪項評估發現會讓護理師懷疑一名6歲兒童患有過敏性鼻炎，而非病毒性上呼吸道感染？"
+    },
+    "options": [
+      {"en": "Thick yellow-green nasal drainage with a fever", "zh": "濃稠黃綠色鼻涕合併發燒"},
+      {"en": "Clear nasal drainage, dark circles under the eyes, and pale, cobblestone-appearing nasal mucosa", "zh": "清澈鼻涕、眼睛下方出現黑眼圈，以及蒼白且呈鵪鶉卵石狀的鼻黏膜"},
+      {"en": "Sore throat with white exudate on the tonsils", "zh": "喉部疼痛，扁桃腺上有白色滲出物"},
+      {"en": "A barky cough with inspiratory stridor", "zh": "犬吠樣咳嗽合併吸氣性喘鳴"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Allergic rhinitis typically presents with clear nasal drainage, dark circles under the eyes ('allergic shiners'), and pale, cobblestone-appearing nasal and pharyngeal mucosa, often with a family history of atopic disease. Purulent drainage with fever, exudative tonsillitis, and a barky cough with stridor suggest infectious processes rather than allergy.",
+      "zh": "過敏性鼻炎的典型表現為清澈鼻涕、眼睛下方出現黑眼圈（過敏性黑眼圈），以及蒼白且呈鵪鶉卵石狀的鼻腔與咽部黏膜，常合併異位性疾病家族史。膿性鼻涕合併發燒、扁桃腺滲出性發炎與犬吠樣咳嗽合併喘鳴則提示感染性病程，而非過敏。"
+    },
+    "pdf_pages": [498],
+    "tags": ["recognize cues", "differentiating diagnoses"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A 10-year-old competitive swimmer presents with ear pain, itching, and a feeling of fullness in the ear that began within the past 2 days. Which assessment finding would best support a diagnosis of otitis externa rather than acute otitis media?",
+      "zh": "一名10歲游泳選手主訴耳痛、搔癢，並有耳部悶塞感，症狀於過去2天內出現。下列哪項評估發現最能支持外耳炎而非急性中耳炎的診斷？"
+    },
+    "options": [
+      {"en": "A temperature of 103°F (39.4°C)", "zh": "體溫103°F（39.4°C）"},
+      {"en": "Pain that increases when the nurse gently pulls or manipulates the pinna and tragus", "zh": "護理師輕拉或觸動耳廓與耳屏時疼痛加劇"},
+      {"en": "A red, bulging, immobile tympanic membrane on otoscopic examination", "zh": "耳鏡檢查顯示鼓膜發紅、膨出且活動度降低"},
+      {"en": "Hearing loss", "zh": "聽力喪失"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Tenderness with manipulation of the pinna and tragus is a hallmark finding of otitis externa (swimmer's ear), which involves the external auditory canal. A red, bulging, immobile tympanic membrane and significant hearing loss are more characteristic of acute otitis media, and high fever can occur with either but is not the distinguishing feature.",
+      "zh": "觸動或牽拉耳廓與耳屏時出現壓痛，是外耳炎（游泳耳）的典型表現，此病變位於外耳道。鼓膜發紅、膨出且活動度降低，以及明顯聽力喪失則較符合急性中耳炎的表現；高熱兩者皆可能出現，並非鑑別重點。"
+    },
+    "pdf_pages": [496, 497],
+    "tags": ["recognize cues", "differentiating diagnoses"]
+  }
+]

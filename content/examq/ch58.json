@@ -1,0 +1,219 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "Betaxolol hydrochloride eye drops are prescribed for a client with glaucoma. Which assessment is most important for the nurse to perform before administering this medication?", "zh": "病人因青光眼被處方betaxolol hydrochloride眼藥水。護理師在給藥前最應執行的評估為何？"},
+    "options": [
+      {"en": "Blood glucose level", "zh": "血糖值"},
+      {"en": "Pulse rate and blood pressure", "zh": "脈搏及血壓"},
+      {"en": "Body temperature", "zh": "體溫"},
+      {"en": "Peripheral edema", "zh": "周邊水腫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Ophthalmic beta blockers such as betaxolol can be systemically absorbed and cause bradycardia and hypotension. The nurse monitors the pulse and blood pressure before administration and withholds the medication and contacts the PHCP if the pulse is 60 beats/min or less or the systolic blood pressure is less than 90 mm Hg, per prescribed parameters.", "zh": "眼用乙型阻斷劑（如betaxolol）可經全身吸收而導致心搏過緩及低血壓。護理師給藥前應監測脈搏及血壓，若脈搏每分鐘60次以下或收縮壓低於90 mmHg（依醫囑設定之參數），應暫停給藥並聯絡PHCP。"},
+    "pdf_pages": [935],
+    "tags": ["priority", "dosage calc"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse reviews the history of a client scheduled for an eye examination that requires pupil dilation with a mydriatic medication. Which finding would require the nurse to clarify the order with the PHCP before administering the medication?", "zh": "護理師查閱一名即將接受需使用散瞳劑擴張瞳孔之眼科檢查病人的病史。下列哪項發現需在給藥前先向PHCP確認醫囑？"},
+    "options": [
+      {"en": "History of myopia", "zh": "近視病史"},
+      {"en": "History of narrow-angle (angle-closure) glaucoma", "zh": "隅角閉鎖型青光眼病史"},
+      {"en": "History of seasonal allergies", "zh": "季節性過敏病史"},
+      {"en": "Use of reading glasses", "zh": "使用閱讀眼鏡"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mydriatics are contraindicated in clients with glaucoma because dilating the pupil can further obstruct the outflow of aqueous humor and precipitate an acute angle-closure crisis and increased intraocular pressure.", "zh": "散瞳劑對青光眼病人屬禁忌，因擴張瞳孔可能進一步阻礙房水排出，誘發急性隅角閉鎖危象並升高眼內壓。"},
+    "pdf_pages": [933],
+    "tags": ["red flag", "contraindication"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client receiving atropine sulfate eye drops develops a dry mouth, flushed skin, fever, tachycardia, and confusion. The nurse recognizes these findings as signs of which condition?", "zh": "一名正在使用atropine sulfate眼藥水的病人出現口乾、皮膚發紅發熱、發燒、心跳過快及意識混亂。護理師應判斷這些症狀為何種情況？"},
+    "options": [
+      {"en": "An expected therapeutic response to the medication", "zh": "藥物的預期治療反應"},
+      {"en": "Atropine toxicity", "zh": "阿托品中毒"},
+      {"en": "Allergic conjunctivitis", "zh": "過敏性結膜炎"},
+      {"en": "Expected local ocular side effects only", "zh": "僅為預期的局部眼部副作用"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Systemic atropine toxicity is manifested by dry mouth, blurred vision, photophobia, tachycardia, fever, urinary retention, constipation, headache, confusion, hallucinations, and, in severe cases, coma. The nurse must notify the PHCP promptly.", "zh": "全身性阿托品中毒表現包括口乾、視力模糊、畏光、心跳過快、發燒、尿滯留、便秘、頭痛、意識混亂、幻覺，嚴重時可致昏迷。護理師應立即通知PHCP。"},
+    "pdf_pages": [933],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client about pilocarpine eye drops prescribed for glaucoma. Which statements should be included in the teaching? Select all that apply.", "zh": "護理師正教導一名因青光眼使用pilocarpine眼藥水的病人。應包含以下哪些指導內容？請選出所有適用項目。"},
+    "options": [
+      {"en": "\"This medication will cause your pupil to constrict.\"", "zh": "「這個藥物會讓您的瞳孔縮小。」"},
+      {"en": "\"Vision in dim light may be decreased while taking this medication.\"", "zh": "「使用此藥物期間，在光線較暗時視力可能會變差。」"},
+      {"en": "\"Stop the medication immediately if your vision is blurred when you first start therapy.\"", "zh": "「一開始使用時若視力模糊，應立即停藥。」"},
+      {"en": "\"Do not discontinue this medication suddenly without consulting your PHCP.\"", "zh": "「未經PHCP同意，不可突然停用此藥物。」"},
+      {"en": "\"This medication increases the outflow of aqueous humor.\"", "zh": "「這個藥物會增加房水的排出。」"},
+      {"en": "\"You should expect improved vision in bright light while using this medication.\"", "zh": "「使用此藥物期間，您在光線明亮時的視力應會改善。」"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Pilocarpine is a miotic that constricts the pupil, widens the trabecular meshwork, and increases the outflow of aqueous humor, lowering intraocular pressure. Decreased vision in poor/dim light is an expected side effect, not improved vision in bright light. The medication should not be stopped abruptly without PHCP guidance; mild blurred vision at the start of therapy is expected and does not require stopping the medication on the client's own initiative.", "zh": "Pilocarpine為縮瞳劑，可使瞳孔縮小、拓寬小樑網並增加房水排出，從而降低眼內壓。光線較暗時視力變差為預期副作用，而非明亮處視力改善。不應在未諮詢PHCP的情況下自行突然停藥；治療初期輕微視力模糊屬預期現象，不需自行停藥。"},
+    "pdf_pages": [934, 935],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with glaucoma is prescribed dorzolamide eye drops, a carbonic anhydrase inhibitor. Which information in the client's history would be most important for the nurse to report to the PHCP before administration?", "zh": "一名青光眼病人被處方碳酸酐酶抑制劑dorzolamide眼藥水。病史中哪項資訊在給藥前最需告知PHCP？"},
+    "options": [
+      {"en": "Allergy to sulfonamides", "zh": "磺胺類藥物過敏"},
+      {"en": "History of seasonal allergies", "zh": "季節性過敏病史"},
+      {"en": "History of myopia", "zh": "近視病史"},
+      {"en": "Use of artificial tears", "zh": "使用人工淚液"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Carbonic anhydrase inhibitors such as dorzolamide and brinzolamide are contraindicated in clients with an allergy to sulfonamides, so this history is a priority to report before administration.", "zh": "碳酸酐酶抑制劑（如dorzolamide、brinzolamide）對磺胺類藥物過敏的病人屬禁忌，因此這項病史在給藥前須優先告知。"},
+    "pdf_pages": [936],
+    "tags": ["contraindication", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is prescribed an eye drop and an eye ointment to be administered to the same eye at the same time. How should the nurse best administer these medications?", "zh": "病人同時被處方一種眼藥水及一種眼藥膏，兩者需在同一時間點用於同一眼。護理師最適當的給藥方式為何？"},
+    "options": [
+      {"en": "Administer the ointment first, then the drop", "zh": "先給予眼藥膏，再給予眼藥水"},
+      {"en": "Administer the drop first, then the ointment, separating the two by 5 to 10 minutes", "zh": "先給予眼藥水，再給予眼藥膏，兩者間隔5至10分鐘"},
+      {"en": "Mix both medications together before instillation", "zh": "將兩種藥物混合後再滴入"},
+      {"en": "Administer both medications simultaneously", "zh": "同時給予兩種藥物"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "If both an eye drop and eye ointment are scheduled at the same time, the eye drop is administered first, and the instillation of the two medications is separated by 5 to 10 minutes to promote absorption of the drop before the ointment is applied.", "zh": "若眼藥水及眼藥膏需於同一時間給予，應先給予眼藥水，兩者之間隔5至10分鐘，以利眼藥水先被吸收後再塗眼藥膏。"},
+    "pdf_pages": [931],
+    "tags": ["dosage calc"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is teaching a client how to self-administer eye drops to minimize systemic absorption of the medication. Which instructions should be included? Select all that apply.", "zh": "護理師教導病人如何自行點眼藥，以降低藥物經全身吸收的風險。應包含以下哪些指導？請選出所有適用項目。"},
+    "options": [
+      {"en": "Apply gentle pressure over the inner canthus (nasolacrimal duct) for 30 to 60 seconds after instillation", "zh": "點藥後在內眼角（鼻淚管處）輕輕按壓30至60秒"},
+      {"en": "Close the eyes gently after instillation", "zh": "點藥後輕輕閉上眼睛"},
+      {"en": "Blink rapidly several times immediately after instillation", "zh": "點藥後立即快速眨眼數次"},
+      {"en": "Tilt the head backward and look up before instilling the drop", "zh": "點藥前將頭向後仰並向上看"},
+      {"en": "Squeeze the eyelids tightly shut after instillation", "zh": "點藥後緊閉雙眼"},
+      {"en": "Place the drop directly onto the cornea", "zh": "將藥水直接滴在角膜上"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "To reduce systemic absorption, the client applies gentle pressure over the inner canthus (punctal occlusion) for 30 to 60 seconds and closes the eyes gently (not tightly) after instillation. The head is tilted backward with the eyes looking up before instillation, and the drop is placed into the lower conjunctival sac, never directly onto the cornea. Rapid blinking or tightly squeezing the eyes can expel the medication.", "zh": "為減少全身吸收，病人應在內眼角輕壓（淚點壓迫）30至60秒，並於點藥後輕輕閉眼（而非緊閉）。點藥前應將頭後仰並向上看，藥水應滴入下結膜囊內，絕不可直接滴在角膜上。快速眨眼或緊閉雙眼會使藥物被擠出流失。"},
+    "pdf_pages": [931, 932],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client receives intravenous mannitol for emergency treatment of acute angle-closure glaucoma. Which finding requires the nurse's immediate follow-up?", "zh": "病人因急性隅角閉鎖型青光眼緊急接受靜脈注射mannitol治療。下列哪項發現需護理師立即追蹤處理？"},
+    "options": [
+      {"en": "Urine output of 300 mL in the past hour", "zh": "過去一小時尿量300毫升"},
+      {"en": "Serum sodium level of 150 mEq/L (150 mmol/L)", "zh": "血清鈉值150 mEq/L（150 mmol/L）"},
+      {"en": "Mild headache", "zh": "輕微頭痛"},
+      {"en": "Client report of thirst", "zh": "病人表示口渴"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Osmotic medications such as mannitol can cause electrolyte imbalances and dehydration. A serum sodium of 150 mEq/L indicates hypernatremia, a significant electrolyte imbalance requiring prompt follow-up, whereas headache, thirst, and increased urine output are expected side effects.", "zh": "滲透性藥物（如mannitol）可能造成電解質失衡及脫水。血清鈉值150 mEq/L表示高血鈉症，屬需立即處理之明顯電解質異常；而頭痛、口渴及尿量增加則屬預期副作用。"},
+    "pdf_pages": [936],
+    "tags": ["lab value", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is reviewing the medication history of a client who reports new-onset tinnitus and dizziness. Which medications could be contributing to these symptoms? Select all that apply.", "zh": "護理師查閱一名新出現耳鳴及眩暈的病人之用藥史。下列哪些藥物可能是造成此症狀的原因？請選出所有適用項目。"},
+    "options": [
+      {"en": "Furosemide", "zh": "Furosemide（袢利尿劑）"},
+      {"en": "Gentamicin", "zh": "Gentamicin（胺基糖苷類抗生素）"},
+      {"en": "Acetaminophen", "zh": "Acetaminophen"},
+      {"en": "Aspirin (acetylsalicylic acid)", "zh": "阿斯匹靈（乙醯柳酸）"},
+      {"en": "Amoxicillin", "zh": "Amoxicillin"},
+      {"en": "Cisplatin", "zh": "Cisplatin"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Medications known to affect hearing (ototoxicity) include loop diuretics such as furosemide, aminoglycosides such as gentamicin, salicylates such as aspirin, and chemotherapeutic agents such as cisplatin. Acetaminophen and amoxicillin are not typically associated with ototoxicity.", "zh": "已知具耳毒性（影響聽力）的藥物包括袢利尿劑（如furosemide）、胺基糖苷類抗生素（如gentamicin）、柳酸類藥物（如阿斯匹靈）及化療藥物（如cisplatin）。Acetaminophen及amoxicillin通常不具耳毒性。"},
+    "pdf_pages": [937],
+    "tags": ["sata", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is instilling ear drops into the right ear of an adult client. Which action would the nurse take to straighten the external ear canal?", "zh": "護理師為一名成年病人右耳點耳藥水。護理師應如何使外耳道變直？"},
+    "options": [
+      {"en": "Pull the pinna down and back", "zh": "將耳廓向下向後拉"},
+      {"en": "Pull the pinna up and back", "zh": "將耳廓向上向後拉"},
+      {"en": "Push the pinna forward", "zh": "將耳廓向前推"},
+      {"en": "Leave the pinna in its natural resting position", "zh": "保持耳廓於自然位置不動"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "In an adult, the nurse pulls the pinna up and back to straighten the external canal before instilling ear drops. For infants and children younger than 3 years, the pinna is pulled down and back; for older children, up and back.", "zh": "對成人，護理師在點耳藥水前應將耳廓向上向後拉以使外耳道變直。對3歲以下嬰幼兒應向下向後拉；年齡較大的兒童則向上向後拉。"},
+    "pdf_pages": [937],
+    "tags": []
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The PHCP prescribes ear irrigation for cerumen removal. Before beginning the procedure, which assessment finding would cause the nurse to withhold the irrigation and notify the PHCP?", "zh": "PHCP開立耳道沖洗醫囑以清除耳垢。在開始執行前，下列哪項評估發現會使護理師暫停沖洗並通知PHCP？"},
+    "options": [
+      {"en": "Irrigation solution warmed to 98.6°F (37.0°C)", "zh": "沖洗液已加溫至98.6°F（37.0°C）"},
+      {"en": "Suspected perforation of the tympanic membrane", "zh": "疑似鼓膜穿孔"},
+      {"en": "Client report of a feeling of fullness in the ear", "zh": "病人表示耳朵有脹滿感"},
+      {"en": "Mild cerumen buildup visible on otoscopic examination", "zh": "耳鏡檢查發現輕微耳垢堆積"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Ear irrigation is contraindicated if a perforation of the eardrum is suspected, because fluid entering the middle ear through a perforation can cause infection and further injury. The nurse should withhold the irrigation and notify the PHCP.", "zh": "若疑似鼓膜穿孔，耳道沖洗屬禁忌，因液體可能經穿孔處進入中耳而造成感染及進一步損傷。護理師應暫停沖洗並通知PHCP。"},
+    "pdf_pages": [937],
+    "tags": ["contraindication", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receives a topical ophthalmic anesthetic (tetracaine) before a diagnostic eye procedure. Which nursing action is most important immediately afterward?", "zh": "病人在接受眼科診斷檢查前使用局部眼用麻醉劑（tetracaine）。檢查後護理師最重要的措施為何？"},
+    "options": [
+      {"en": "Instruct the client to rub the eye gently to distribute the medication", "zh": "指示病人輕輕揉眼以使藥物分布均勻"},
+      {"en": "Apply an eye patch to protect the eye until the corneal reflex returns", "zh": "覆蓋眼罩以保護眼睛，直到角膜反射恢復"},
+      {"en": "Instruct the client to resume wearing contact lenses immediately", "zh": "指示病人立即恢復戴隱形眼鏡"},
+      {"en": "Inform the client that vision will remain blurred for 24 hours", "zh": "告知病人視力將持續模糊24小時"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Topical ophthalmic anesthetics cause a temporary loss of the corneal (blink) reflex, leaving the cornea unprotected and at risk for injury. An eye patch is applied to protect the eye until the corneal reflex returns, and the client is instructed not to rub or touch the eye.", "zh": "局部眼用麻醉劑會造成角膜（眨眼）反射暫時消失，使角膜失去保護而有受傷風險。應以眼罩保護眼睛直到角膜反射恢復，並告知病人不可揉眼或觸碰眼睛。"},
+    "pdf_pages": [934],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client has been using a topical ophthalmic corticosteroid for several weeks to treat uveitis. The nurse should monitor for which adverse effects of prolonged use? Select all that apply.", "zh": "病人因葡萄膜炎已使用局部眼用類固醇數週。護理師應監測長期使用可能出現的哪些不良反應？請選出所有適用項目。"},
+    "options": [
+      {"en": "Cataracts", "zh": "白內障"},
+      {"en": "Increased intraocular pressure", "zh": "眼內壓升高"},
+      {"en": "Masking of signs of ocular infection", "zh": "掩蓋眼部感染徵象"},
+      {"en": "Improved wound healing", "zh": "傷口癒合改善"},
+      {"en": "Impaired wound healing", "zh": "傷口癒合受損"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Adverse effects of prolonged topical ophthalmic corticosteroid use include cataracts, increased intraocular pressure/glaucoma, impaired (not improved) healing, and masking of the signs and symptoms of infection, which can delay detection of a superimposed infection.", "zh": "長期使用局部眼用類固醇的不良反應包括白內障、眼內壓升高／青光眼、傷口癒合受損（而非改善），以及掩蓋感染徵象，可能延誤偵測合併感染。"},
+    "pdf_pages": [934],
+    "tags": ["sata"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is scheduled to administer cyclopentolate eye drops at 0900 for a cataract surgery scheduled at 0915. What is the nurse's most appropriate initial action?", "zh": "護理師原訂於0900為一名0915即將接受白內障手術的病人點cyclopentolate眼藥水。護理師最適當的初始行動為何？"},
+    "options": [
+      {"en": "Administer the medication as scheduled because the surgeon needs pupil constriction", "zh": "依時程給藥，因為外科醫師需要瞳孔縮小"},
+      {"en": "Give the medication immediately without further action", "zh": "立即給藥，不需進一步行動"},
+      {"en": "Consult the surgeon, because 15 minutes is not sufficient time for the dilating effect to occur", "zh": "與外科醫師確認，因為15分鐘不足以產生散瞳效果"},
+      {"en": "Withhold the medication and simply document the reason", "zh": "暫停給藥並僅記錄原因"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Cyclopentolate is a rapidly acting mydriatic and cycloplegic effective in 25 to 75 minutes; it is used for preoperative mydriasis (pupil dilation), not constriction. Because 15 minutes is not adequate time for the dilating effect to occur, the nurse should consult the surgeon about the timing before proceeding.", "zh": "Cyclopentolate為快速作用的散瞳劑及睫狀肌麻痺劑，約需25至75分鐘才能發揮效果，用於術前散瞳（瞳孔擴大），而非縮瞳。由於15分鐘不足以產生散瞳效果，護理師應先與外科醫師確認給藥時間後再執行。"},
+    "pdf_pages": [933],
+    "tags": ["priority", "dosage calc"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client is prescribed a pilocarpine Ocusert system for glaucoma. Which instruction would the nurse include in the teaching plan?", "zh": "病人因青光眼被處方pilocarpine Ocusert緩釋系統。護理師應在教學計畫中包含下列哪項指導？"},
+    "options": [
+      {"en": "\"Replace the disk every 24 hours.\"", "zh": "「應每24小時更換一次藥片。」"},
+      {"en": "\"Check for the presence of the disk in the eye daily at bedtime and upon arising.\"", "zh": "「每天睡前及起床時檢查藥片是否仍在眼睛內。」"},
+      {"en": "\"Store the disk at room temperature.\"", "zh": "「藥片應存放於室溫下。」"},
+      {"en": "\"The disk does not need to be replaced if some medication remains.\"", "zh": "「若藥片內還有剩餘藥物，就不需更換。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The Ocusert system releases pilocarpine over 1 week, and the disk is replaced every 7 days regardless of remaining medication. Because of the risk of unnoticed loss or migration of the system, the client checks for the presence of the disk in the upper or lower cul-de-sac daily at bedtime and on arising. The disk is stored in the refrigerator, not at room temperature.", "zh": "Ocusert系統在一週內持續釋放pilocarpine，藥片須每7天更換，不論藥物是否仍有剩餘。由於藥片可能在不知不覺中脫落或移位，病人應每天睡前及起床時檢查上下穹窿部是否仍有藥片。藥片應存放於冰箱中，而非室溫下。"},
+    "pdf_pages": [936],
+    "tags": ["patient education"]
+  }
+]

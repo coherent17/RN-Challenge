@@ -1,0 +1,116 @@
+[
+  {
+    "cat": "MC",
+    "stem": {"en": "A nursing graduate is 10 weeks from graduation and wants to avoid delays in scheduling the NCLEX-RN. What should the graduate do first?", "zh": "一位即將於10週後畢業的護理系學生,想避免NCLEX-RN報考時程延誤。該畢業生首先應該做什麼?"},
+    "options": [
+      {"en": "Wait until after graduation to contact the state board of nursing", "zh": "等到畢業後才聯絡州護理委員會"},
+      {"en": "Register with the state board of nursing and submit the signed application along with the license and fingerprinting fees", "zh": "向州護理委員會登記,並提交簽署完成的申請書及執照、指紋採集相關費用"},
+      {"en": "Schedule an appointment directly with Pearson VUE without first applying to the state board", "zh": "未先向州護理委員會申請,就直接向Pearson VUE預約考試"},
+      {"en": "Download practice questions from the NCSBN website and begin studying immediately", "zh": "從NCSBN網站下載練習題並立刻開始作答練習"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The chapter advises starting the state board application (with signed forms and required fees) about 2 months before graduation, when the state allows it, because processing takes time; completing this early avoids delays in receiving the Authorization to Test (ATT) and scheduling the exam. Pearson VUE registration and ATT issuance occur only after the state application is approved, so option 3 is out of sequence, and waiting until after graduation (option 1) or skipping the application step (option 4) increases the risk of delay.", "zh": "本章建議在州允許的情況下,於畢業前約2個月即開始辦理州護理委員會的申請(含簽署表格與相關費用),因為審核需要時間;提早完成可避免延誤取得應試授權書(ATT)及安排考試時間。Pearson VUE的註冊與ATT核發須在州申請核准後才會進行,因此選項3的順序有誤;而選項1延後至畢業後才聯絡,以及選項4跳過申請步驟,都會增加延誤的風險。"},
+    "pdf_pages": [40],
+    "tags": ["licensure", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nursing graduate arrives at the Pearson VUE testing center on the day of the NCLEX-RN. Which of the following are part of the standard security check-in process? Select all that apply.", "zh": "一位護理系畢業生於NCLEX-RN考試當天抵達Pearson VUE測驗中心。以下哪些屬於標準的安全查驗報到流程?請選出所有適用項目。"},
+    "options": [
+      {"en": "Presenting valid photo identification and the Authorization to Test (ATT) form", "zh": "出示有效的附照片身分證明文件及應試授權書(ATT)"},
+      {"en": "Having fingerprints and palm scanned", "zh": "進行指紋及掌紋掃描"},
+      {"en": "Having a photograph taken", "zh": "拍攝照片"},
+      {"en": "Storing personal belongings in a small locker provided at the center", "zh": "將個人物品存放於測驗中心提供的小型置物櫃"},
+      {"en": "Bringing personal study notes into the testing room for quick reference", "zh": "攜帶個人複習筆記進入測驗室以便隨時查閱"},
+      {"en": "Reviewing and signing the exam instructions", "zh": "閱讀並簽署考試須知"}
+    ],
+    "answer": [0, 1, 2, 3, 5],
+    "rationale": {"en": "Per the chapter, check-in involves showing ID and the ATT form, finger and palm scanning, having a photo taken, storing belongings in a provided locker, and signing the exam instructions before being guided to the assigned computer. Personal notes or any outside materials are not permitted in the testing room, which is why that option is incorrect; the strict, standardized check-in protects exam security and integrity.", "zh": "依本章內容,報到流程包含出示身分證明與ATT表格、進行指紋與掌紋掃描、拍照、將個人物品存放於提供的置物櫃,以及在被引導至指定電腦前簽署考試須知。個人筆記或任何外部資料均不得攜入測驗室,因此該選項不正確;嚴格、標準化的報到程序有助於維護考試的安全性與公正性。"},
+    "pdf_pages": [41],
+    "tags": ["security", "testing center", "sata"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nursing graduate is scheduled to take the NCLEX-RN tomorrow. Based on recommended self-care strategies, which action is most appropriate for today?", "zh": "一位護理系畢業生明天即將參加NCLEX-RN考試。依照建議的自我照顧策略,今天最適合採取的行動是什麼?"},
+    "options": [
+      {"en": "Complete several more hours of practice questions to review weak areas", "zh": "再花數小時練習題目,複習較弱的部分"},
+      {"en": "Engage in an enjoyable, relaxing activity, avoid reviewing content, and plan for a good night's sleep", "zh": "從事愉快、放鬆的活動,避免再複習內容,並安排充足的睡眠"},
+      {"en": "Stay up late reorganizing study notes for quick reference during the exam", "zh": "熬夜重新整理複習筆記,以便考試時快速查閱"},
+      {"en": "Contact classmates to compare answers from a recent practice exam", "zh": "聯絡同學比對最近一次模擬考的答案"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The chapter describes dedicating the day before the exam to self-care: avoiding content review to keep the mind clear, doing activities that reduce stress, and getting adequate rest, since the exam can last up to 5 hours. Continued cramming (options 1 and 3) or comparing answers with peers (option 4) increases anxiety and fatigue rather than supporting optimal performance.", "zh": "本章提到考試前一天應專注於自我照顧:避免再複習內容以保持思緒清晰,從事能減壓的活動,並確保充足的休息,因為考試可能長達5小時。持續臨時抱佛腳(選項1、3)或與同學比對答案(選項4)只會增加焦慮與疲勞,無助於發揮最佳表現。"},
+    "pdf_pages": [41],
+    "tags": ["self-care", "anxiety management"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nursing graduate feels overwhelmed by the large volume of NCLEX review material available. Using the approach described as effective, what should the graduate do first?", "zh": "一位護理系畢業生對於大量的NCLEX複習資料感到不堪負荷。依照本章所描述的有效方法,該畢業生應先做什麼?"},
+    "options": [
+      {"en": "Read every chapter of the review book from start to finish before doing any practice questions", "zh": "先把複習書從頭到尾每一章都讀完,之後才開始做練習題"},
+      {"en": "Take an initial practice assessment to identify personal strengths and areas needing improvement", "zh": "先進行一次初步的模擬測驗,找出個人的強項與待加強的部分"},
+      {"en": "Focus only on the content areas that were most difficult during nursing school", "zh": "只專注於護理學校時期覺得最困難的內容"},
+      {"en": "Complete 300 practice questions in a single day to cover as much material as possible", "zh": "一天內完成300題練習題,以盡量涵蓋所有內容"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The graduate's approach described in the chapter began with an initial assessment to identify areas needing improvement, which then guided a focused daily study plan. Reading cover-to-cover (option 1), relying only on memory of past difficulty (option 3), or cramming an excessive volume in one day (option 4) are less effective than first identifying one's actual knowledge gaps.", "zh": "本章所述的畢業生做法是先進行一次初步評量,找出需加強的部分,再據此規劃每日的複習重點。從頭讀到尾(選項1)、僅憑過去覺得困難的印象判斷(選項3),或一天內塞入過量題目(選項4),都不如先找出真正的知識缺口來得有效。"},
+    "pdf_pages": [41],
+    "tags": ["study plan", "first action"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "Immediately after completing the NCLEX-RN, a new graduate feels a mix of excitement and intense self-doubt and keeps mentally replaying the questions that were answered. Which response reflects a healthy coping strategy, as described in the chapter?", "zh": "一位新畢業生在完成NCLEX-RN考試後,立刻感到既興奮又強烈自我懷疑,並不斷在腦中重複回想作答過的題目。依照本章描述,哪一種反應代表健康的應對方式?"},
+    "options": [
+      {"en": "Continue mentally reviewing questions in an attempt to predict a pass or fail outcome", "zh": "持續在腦中複查題目,試圖預測通過或未通過的結果"},
+      {"en": "Recognize that post-exam doubt is a common, normal reaction, and resume ordinary daily activities", "zh": "認知到考後的自我懷疑是常見且正常的反應,並恢復日常生活作息"},
+      {"en": "Avoid contact with family and friends until the results become available", "zh": "在結果公布前避免與家人、朋友聯絡"},
+      {"en": "Immediately take more practice exams to try to estimate the actual score", "zh": "立刻再做更多模擬考題,試圖推估實際成績"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The chapter describes going through phases of confidence and doubt after the exam as a normal reaction experienced by many graduates, and recommends not dwelling on it but returning to day-to-day life while trusting the preparation already done. Continuing to analyze answers, isolating from support systems, or taking more exams to guess the score add stress without changing the outcome.", "zh": "本章提到考後在信心與懷疑之間交替是許多畢業生普遍會經歷的正常反應,並建議不要一直糾結在其中,而是信任自己已完成的準備並回到日常生活。持續分析答案、迴避親友的支持,或再做更多考題來猜測分數,只會增加壓力,並不會改變結果。"},
+    "pdf_pages": [41],
+    "tags": ["coping", "test anxiety"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nursing graduate receives the Authorization to Test (ATT) form from Pearson VUE. What is the most appropriate next step?", "zh": "一位護理系畢業生收到Pearson VUE寄發的應試授權書(ATT)。接下來最適當的步驟是什麼?"},
+    "options": [
+      {"en": "Wait for the state board of nursing to automatically schedule the test date", "zh": "等待州護理委員會自動安排考試日期"},
+      {"en": "Use the information on the ATT to schedule the test date and location within the authorized time frame", "zh": "依ATT上的資訊,在授權的時間範圍內安排考試日期與地點"},
+      {"en": "Submit a new licensure application to the state board of nursing", "zh": "向州護理委員會重新提交一份執照申請"},
+      {"en": "Disregard the ATT until fingerprinting has been completed", "zh": "在完成指紋採集前先忽略ATT"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The ATT is sent after the state application is approved, and the graduate needs this form to schedule the test date and location directly through Pearson VUE. The state board does not schedule the appointment automatically, a new application is not required at this point, and the ATT should be acted on promptly rather than set aside.", "zh": "ATT是在州申請核准後才會寄發,畢業生需要憑此表格直接向Pearson VUE安排考試日期與地點。州護理委員會並不會自動安排考試時間,此時也不需要重新提交申請,收到ATT後應盡快處理,而非擱置不理。"},
+    "pdf_pages": [40],
+    "tags": ["licensure", "scheduling"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nursing graduate is preparing to leave for the testing center on exam day. Based on the testing center's security procedures, which items are essential to bring? Select all that apply.", "zh": "一位護理系畢業生正準備在考試當天前往測驗中心。依照測驗中心的安全程序,哪些物品是必須攜帶的?請選出所有適用項目。"},
+    "options": [
+      {"en": "Photo identification", "zh": "附照片的身分證明文件"},
+      {"en": "The Authorization to Test (ATT) form", "zh": "應試授權書(ATT)"},
+      {"en": "A printed copy of personal study notes", "zh": "個人複習筆記的紙本影印"},
+      {"en": "A personal calculator brought from home", "zh": "自備的個人計算機"}
+    ],
+    "answer": [0, 1],
+    "rationale": {"en": "The chapter specifies that photo identification and the ATT form are required and checked at the testing center. Personal belongings, including notes and other outside materials, are stored in a locker rather than taken into the testing room, so bringing study notes or a personal calculator is unnecessary and not permitted, since the testing center provides everything needed for the exam.", "zh": "本章說明,測驗中心會查驗身分證明與ATT表格,此兩者為必備。個人物品(包括筆記及其他外部資料)須存放於置物櫃,不得攜入測驗室,因此攜帶複習筆記或個人計算機既不必要也不被允許,因為測驗中心會提供考試所需的一切。"},
+    "pdf_pages": [41],
+    "tags": ["testing center", "security", "sata"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "While taking the NCLEX-RN, a candidate begins to feel anxious while thinking about how many questions remain and how much time is left. Based on the test-taking strategy described in the chapter, what should the candidate do?", "zh": "考生在應考NCLEX-RN期間,開始因思考剩餘題數與時間而感到焦慮。依照本章所述的應試策略,考生應該怎麼做?"},
+    "options": [
+      {"en": "Calculate how many questions remain and how much time is left after every item", "zh": "每做完一題就計算剩餘題數與所剩時間"},
+      {"en": "Focus on one question at a time, applying knowledge and test-taking strategies to each item as it appears", "zh": "每次只專注於當前這一題,逐題運用知識與應試策略"},
+      {"en": "Skip difficult questions to answer later and return to them at the end of the exam", "zh": "跳過困難的題目留到最後再回頭作答"},
+      {"en": "Frequently review previously answered questions as new ones appear", "zh": "在新題目出現時,頻繁回頭檢查先前已作答的題目"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The chapter advises focusing on one question at a time and applying a consistent knowledge base and test-taking strategy to every item, which helps manage anxiety during the exam. Repeatedly calculating remaining questions or time increases anxiety rather than reducing it, and the computer-adaptive format does not allow skipping items or returning to previously answered questions.", "zh": "本章建議每次只專注於當前這一題,並對每一題都一致地運用知識基礎與應試策略,這有助於在考試過程中管理焦慮。反覆計算剩餘題數或時間只會增加焦慮而非減少;而且電腦適性測驗的形式並不允許跳題或回頭更改先前已作答的題目。"},
+    "pdf_pages": [41],
+    "tags": ["test anxiety", "test-taking strategy"]
+  }
+]

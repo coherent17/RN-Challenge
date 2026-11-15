@@ -1,0 +1,261 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client taking digoxin for heart failure. Which finding would be most concerning for early digoxin toxicity?", "zh": "護理師正在照護一位服用毛地黃（digoxin）治療心臟衰竭的病人。下列哪項發現最令人擔憂，可能代表毛地黃早期中毒？"},
+    "options": [
+      {"en": "Heart rate of 58 beats/min with new-onset nausea and anorexia", "zh": "心跳每分鐘58次，並新出現噁心及食慾不振"},
+      {"en": "Mild peripheral edema unchanged from baseline", "zh": "輕度周邊水腫，與基準值相比無變化"},
+      {"en": "Occasional ectopic beats that resolve spontaneously", "zh": "偶發性異位心搏，可自行緩解"},
+      {"en": "Blood pressure of 110/70 mm Hg", "zh": "血壓110/70 mmHg"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Early signs of digoxin toxicity present as gastrointestinal manifestations such as anorexia, nausea, and vomiting, followed by heart rate abnormalities (including bradycardia) and visual disturbances. The combination of a slow heart rate with new GI symptoms is the most concerning finding for toxicity among these options.", "zh": "毛地黃中毒的早期徵象通常表現為胃腸道症狀，如食慾不振、噁心及嘔吐，隨後出現心率異常（包括心搏過緩）及視覺障礙。在這些選項中，心跳變慢合併新出現的胃腸道症狀是最令人擔憂的中毒徵象。"},
+    "pdf_pages": [844, 845],
+    "tags": ["red flag", "digoxin", "recognize cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "Before administering a scheduled dose of digoxin, the nurse assesses the client's apical pulse for 1 full minute and obtains a rate of 52 beats/min. What is the nurse's best action?", "zh": "在給予預定劑量的毛地黃之前，護理師測量病人的心尖脈搏整整1分鐘，結果為每分鐘52次。護理師最適當的行動是下列哪一項？"},
+    "options": [
+      {"en": "Administer the dose as scheduled because the rate is within normal limits.", "zh": "依預定時間給藥，因為此心率仍在正常範圍內。"},
+      {"en": "Withhold the dose and notify the PHCP.", "zh": "暫停給藥並通知主治醫師。"},
+      {"en": "Administer the dose and recheck the pulse in 1 hour.", "zh": "先給藥，1小時後再複測脈搏。"},
+      {"en": "Administer half of the prescribed dose.", "zh": "給予醫囑劑量的一半。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The nurse should monitor the apical pulse for 1 full minute before administering digoxin. If the apical pulse rate is lower than 60 beats/min, the medication should be withheld and the PHCP notified, rather than given in full, in a reduced amount, or given with a plan to recheck afterward.", "zh": "護理師在給予毛地黃前應整整測量1分鐘心尖脈搏。若心尖脈搏低於每分鐘60次，應暫停給藥並通知主治醫師，而不是照常給藥、給予減少劑量，或先給藥再事後複測。"},
+    "pdf_pages": [845],
+    "tags": ["dosage", "safety", "first action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews laboratory results for a client receiving digoxin. Which results increase the client's risk for digoxin toxicity? Select all that apply.", "zh": "護理師查看一位使用毛地黃病人的實驗室檢驗結果。下列哪些結果會增加病人發生毛地黃中毒的風險？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Serum potassium 3.0 mEq/L (3.0 mmol/L)", "zh": "血清鉀 3.0 mEq/L（3.0 mmol/L）"},
+      {"en": "Serum potassium 4.4 mEq/L (4.4 mmol/L)", "zh": "血清鉀 4.4 mEq/L（4.4 mmol/L）"},
+      {"en": "Serum calcium 11.6 mg/dL (2.9 mmol/L)", "zh": "血清鈣 11.6 mg/dL（2.9 mmol/L）"},
+      {"en": "Serum magnesium 1.0 mEq/L (0.5 mmol/L)", "zh": "血清鎂 1.0 mEq/L（0.5 mmol/L）"},
+      {"en": "Thyroid-stimulating hormone (TSH) results consistent with hypothyroidism", "zh": "甲狀腺刺激素（TSH）結果符合甲狀腺功能低下"},
+      {"en": "Thyroid-stimulating hormone (TSH) results consistent with hyperthyroidism", "zh": "甲狀腺刺激素（TSH）結果符合甲狀腺功能亢進"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "An increased risk of digoxin toxicity exists with hypokalemia, hypercalcemia, hypomagnesemia, or hypothyroidism. A normal potassium level and findings consistent with hyperthyroidism are not associated with an increased risk of digoxin toxicity in the chapter content.", "zh": "低血鉀、高血鈣、低血鎂或甲狀腺功能低下都會增加毛地黃中毒的風險。正常的血鉀值及符合甲狀腺功能亢進的結果，依本章內容並不會增加毛地黃中毒的風險。"},
+    "pdf_pages": [845],
+    "tags": ["labs", "sata", "digoxin"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client exhibits severe digoxin toxicity with life-threatening dysrhythmias. Which medication would the nurse prepare to administer as the antidote?", "zh": "一位病人出現嚴重毛地黃中毒合併危及生命的心律不整。護理師應準備給予下列哪項藥物作為解毒劑？"},
+    "options": [
+      {"en": "Protamine sulfate", "zh": "硫酸魚精蛋白（protamine sulfate）"},
+      {"en": "Digoxin immune Fab", "zh": "毛地黃免疫Fab片段（digoxin immune Fab）"},
+      {"en": "Phytonadione (vitamin K)", "zh": "維生素K（phytonadione）"},
+      {"en": "Aminocaproic acid", "zh": "胺基己酸（aminocaproic acid）"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Digoxin immune Fab is the antidote used in cases of extreme digoxin toxicity. Protamine sulfate is the antidote for heparin, phytonadione is the antidote for warfarin, and aminocaproic acid is the antidote for thrombolytic medications.", "zh": "毛地黃免疫Fab片段是用於嚴重毛地黃中毒的解毒劑。硫酸魚精蛋白是肝素的解毒劑，維生素K是warfarin的解毒劑，而胺基己酸則是溶血栓藥物的解毒劑。"},
+    "pdf_pages": [845],
+    "tags": ["antidote", "digoxin"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client receiving a continuous heparin sodium infusion has a baseline (control) activated partial thromboplastin time (aPTT) of 30 seconds. Which aPTT result obtained during therapy indicates that the client is within the therapeutic range?", "zh": "一位接受持續性肝素（heparin sodium）輸注的病人，其基準（對照）活化部分凝血酶時間（aPTT）為30秒。治療期間測得下列哪項aPTT結果表示病人處於治療範圍內？"},
+    "options": [
+      {"en": "28 seconds", "zh": "28秒"},
+      {"en": "40 seconds", "zh": "40秒"},
+      {"en": "60 seconds", "zh": "60秒"},
+      {"en": "90 seconds", "zh": "90秒"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The therapeutic aPTT during continuous heparin infusion should be 1.5 to 2.5 times the control value. With a control of 30 seconds, the therapeutic range is 45 to 75 seconds, so a result of 60 seconds falls within range. A result of 40 seconds is subtherapeutic, and 90 seconds exceeds the therapeutic range and increases bleeding risk.", "zh": "持續性肝素輸注期間，治療範圍的aPTT應為對照值的1.5至2.5倍。對照值為30秒時，治療範圍為45至75秒，因此60秒的結果落在此範圍內。40秒的結果劑量不足，而90秒則超出治療範圍，會增加出血風險。"},
+    "pdf_pages": [841],
+    "tags": ["labs", "dosage calc", "heparin"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is preparing to administer a dose of subcutaneous heparin sodium. Which technique is correct?", "zh": "護理師正準備給予一劑皮下注射肝素（heparin sodium）。下列哪項技巧是正確的？"},
+    "options": [
+      {"en": "Inject into the deltoid muscle using a 1-inch needle.", "zh": "使用1吋針頭注射於三角肌。"},
+      {"en": "Inject into the abdomen at a 90-degree angle, and do not aspirate or rub the site after injection.", "zh": "以90度角注射於腹部，注射後不回抽、不按摩注射部位。"},
+      {"en": "Aspirate before injecting to verify that the needle is not in a blood vessel.", "zh": "注射前先回抽，以確認針頭不在血管內。"},
+      {"en": "Massage the site vigorously after injection to enhance absorption.", "zh": "注射後用力按摩注射部位以促進吸收。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Subcutaneous heparin is injected into the abdomen using a short needle at a 90-degree angle; the nurse should not aspirate before injecting or rub the site afterward, because this can increase the risk of local bleeding and bruising.", "zh": "皮下注射肝素應使用短針頭，以90度角注射於腹部；護理師在注射前不應回抽，注射後也不應按摩該部位，因為這會增加局部出血及瘀傷的風險。"},
+    "pdf_pages": [841],
+    "tags": ["medication administration", "heparin"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking warfarin sodium for atrial fibrillation has a prothrombin time (PT) of 34 seconds and an international normalized ratio (INR) of 3.8, and reports new-onset bleeding gums and dark, tarry stools. What is the nurse's priority action?", "zh": "一位因心房顫動服用warfarin的病人，凝血酶原時間（PT）為34秒，國際標準化比值（INR）為3.8，並表示新出現牙齦出血及黑色柏油狀糞便。護理師的優先行動是下列哪一項？"},
+    "options": [
+      {"en": "Administer the next scheduled dose of warfarin as prescribed.", "zh": "依醫囑給予下一劑預定的warfarin。"},
+      {"en": "Notify the PHCP and initiate bleeding precautions.", "zh": "通知主治醫師並啟動出血防護措施。"},
+      {"en": "Encourage the client to increase intake of green leafy vegetables.", "zh": "鼓勵病人增加攝取綠色葉菜類蔬菜。"},
+      {"en": "Prepare to administer protamine sulfate.", "zh": "準備給予硫酸魚精蛋白（protamine sulfate）。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A PT longer than 30 seconds and an INR greater than 3.0 in a client on standard warfarin therapy, especially with active signs of bleeding, requires the nurse to notify the PHCP and initiate bleeding precautions. Protamine sulfate is the antidote for heparin, not warfarin, and increasing vitamin K intake would counteract warfarin's effect but does not address an active bleeding emergency that needs provider notification first.", "zh": "接受標準warfarin治療的病人若PT超過30秒且INR大於3.0，尤其合併活動性出血徵象時，護理師應通知主治醫師並啟動出血防護措施。硫酸魚精蛋白是肝素的解毒劑而非warfarin的解毒劑；增加維生素K攝取雖可抵消warfarin的作用，但無法處理目前正在發生的出血急症，應先通知醫師。"},
+    "pdf_pages": [842],
+    "tags": ["red flag", "warfarin", "priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse teaches a client who is beginning warfarin sodium therapy about substances that can increase the risk of bleeding when combined with this medication. Which items would the nurse include? Select all that apply.", "zh": "護理師教導一位剛開始使用warfarin治療的病人，有關哪些物質與此藥物併用時會增加出血風險。護理師應納入下列哪些項目？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Ginkgo biloba supplements", "zh": "銀杏（ginkgo biloba）補充劑"},
+      {"en": "Eating a consistent amount of green leafy vegetables daily", "zh": "每天攝取固定分量的綠色葉菜類蔬菜"},
+      {"en": "Over-the-counter aspirin-containing products", "zh": "含阿斯匹靈成分的非處方藥品"},
+      {"en": "A fluoroquinolone antibiotic prescribed for a urinary tract infection", "zh": "因泌尿道感染開立的氟喹諾酮類抗生素"},
+      {"en": "A single large dose of a vitamin K supplement", "zh": "單次大劑量的維生素K補充劑"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Ginkgo, aspirin-containing products, and fluoroquinolone antibiotics can potentiate the effect of warfarin and increase bleeding risk. Eating a consistent (not erratic) amount of vitamin K-containing foods, such as green leafy vegetables, actually helps keep warfarin's effect stable, and vitamin K supplementation would counteract (decrease), not increase, the bleeding risk from warfarin.", "zh": "銀杏、含阿斯匹靈成分的藥品及氟喹諾酮類抗生素都會增強warfarin的作用並增加出血風險。每天攝取固定（而非不規律）分量的含維生素K食物，如綠色葉菜類蔬菜，實際上有助於維持warfarin效果的穩定；而補充維生素K則會抵消（降低）而非增加warfarin造成的出血風險。"},
+    "pdf_pages": [842],
+    "tags": ["patient education", "sata", "warfarin"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who has been stable on warfarin therapy for nonvalvular atrial fibrillation is being transitioned to dabigatran etexilate. Which statement by the nurse accurately reflects teaching about this medication?", "zh": "一位因非瓣膜性心房顫動長期穩定使用warfarin的病人，現正轉換為使用dabigatran etexilate。護理師下列哪項陳述能正確反映此藥物的教學內容？"},
+    "options": [
+      {"en": "\"You will need weekly blood draws to monitor your INR.\"", "zh": "「您需要每週抽血監測INR。」"},
+      {"en": "\"This medication requires routine PT/INR monitoring, just like warfarin.\"", "zh": "「這個藥物和warfarin一樣，需要定期監測PT/INR。」"},
+      {"en": "\"Routine coagulation blood testing is not required with this medication.\"", "zh": "「使用這個藥物不需要常規的凝血功能血液檢驗。」"},
+      {"en": "\"You will need to receive vitamin K injections while taking this medication.\"", "zh": "「服用這個藥物期間您需要接受維生素K注射。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Dabigatran etexilate works through direct thrombin inhibition and does not require routine blood testing, unlike warfarin, which requires PT/INR monitoring. Vitamin K is the antidote for warfarin, not a routine part of dabigatran therapy.", "zh": "Dabigatran etexilate是透過直接抑制凝血酶發揮作用，不像warfarin需要常規監測PT/INR，因此不需要常規抽血檢驗。維生素K是warfarin的解毒劑，並非dabigatran治療的常規項目。"},
+    "pdf_pages": [842],
+    "tags": ["patient education", "anticoagulant"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is preparing to administer enoxaparin subcutaneously to a client. Which action is correct?", "zh": "護理師正準備給予病人皮下注射enoxaparin。下列哪項行動是正確的？"},
+    "options": [
+      {"en": "Expel the air bubble from the prefilled syringe before injecting.", "zh": "注射前先排出預填充針筒內的氣泡。"},
+      {"en": "Inject into the deltoid muscle with the client sitting upright.", "zh": "讓病人端坐並注射於三角肌。"},
+      {"en": "Administer into the anterolateral or posterolateral abdominal wall with the client lying down, without expelling the air bubble.", "zh": "讓病人平躺，注射於腹壁前外側或後外側，且不排出氣泡。"},
+      {"en": "Aspirate before injecting to confirm correct needle placement.", "zh": "注射前先回抽以確認針頭位置正確。"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Enoxaparin is administered by subcutaneous injection into the anterolateral or posterolateral abdominal wall with the client recumbent. The air bubble in the prefilled syringe should not be expelled, and the nurse should not aspirate during injection.", "zh": "Enoxaparin應以皮下注射方式給予，注射部位為腹壁前外側或後外側，病人需平躺。預填充針筒內的氣泡不應排出，注射過程中也不應回抽。"},
+    "pdf_pages": [842],
+    "tags": ["medication administration", "low-molecular-weight heparin"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with an acute ischemic stroke is being considered for thrombolytic therapy with alteplase. Which finding in the client's history would be a contraindication to this therapy?", "zh": "一位急性缺血性腦中風病人正考慮接受alteplase溶血栓治療。病史中出現下列哪項發現會成為此治療的禁忌症？"},
+    "options": [
+      {"en": "A history of seasonal allergies", "zh": "季節性過敏病史"},
+      {"en": "Intracranial surgery performed 6 weeks ago", "zh": "6週前接受過顱內手術"},
+      {"en": "An appendectomy performed 2 years ago", "zh": "2年前接受過闌尾切除術"},
+      {"en": "A history of osteoarthritis", "zh": "骨關節炎病史"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Intracranial or intraspinal surgery within the previous 2 months is a contraindication to thrombolytic therapy because of the high risk of hemorrhage. Seasonal allergies, a remote appendectomy, and osteoarthritis are not contraindications.", "zh": "過去2個月內接受過顱內或脊椎內手術是溶血栓治療的禁忌症，因為出血風險極高。季節性過敏、多年前的闌尾切除術及骨關節炎皆非禁忌症。"},
+    "pdf_pages": [843],
+    "tags": ["contraindication", "thrombolytic", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving a continuous infusion of alteplase suddenly reports itching, becomes anxious, and the nurse auscultates stridor with new-onset hypotension. Which actions should the nurse take? Select all that apply.", "zh": "一位正接受持續輸注alteplase的病人突然表示搔癢、變得焦慮不安，護理師聽診發現喘鳴音並出現新發的低血壓。護理師應採取下列哪些行動？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Stop the infusion immediately.", "zh": "立即停止輸注。"},
+      {"en": "Continue the infusion at a slower rate and reassess in 15 minutes.", "zh": "以較慢速率繼續輸注，並於15分鐘後重新評估。"},
+      {"en": "Call for the Rapid Response Team.", "zh": "呼叫快速反應小組。"},
+      {"en": "Administer diphenhydramine as prescribed.", "zh": "依醫囑給予diphenhydramine。"},
+      {"en": "Administer protamine sulfate.", "zh": "給予硫酸魚精蛋白（protamine sulfate）。"},
+      {"en": "Raise the head of the bed.", "zh": "抬高床頭。"}
+    ],
+    "answer": [0, 2, 3, 5],
+    "rationale": {"en": "These findings suggest an acute hypersensitivity (anaphylactoid) reaction to the thrombolytic agent. The nurse should stop the infusion immediately, call for the Rapid Response Team, administer an antihistamine such as diphenhydramine as prescribed, and raise the head of the bed to ease breathing. Continuing the infusion would worsen the reaction, and protamine sulfate is the antidote for heparin, not alteplase; aminocaproic acid is the antidote for thrombolytics.", "zh": "這些發現提示對溶血栓藥物產生急性過敏（類過敏）反應。護理師應立即停止輸注、呼叫快速反應小組、依醫囑給予抗組織胺（如diphenhydramine），並抬高床頭以利呼吸。繼續輸注會使反應惡化；硫酸魚精蛋白是肝素的解毒劑而非alteplase的解毒劑，溶血栓藥物的解毒劑為胺基己酸。"},
+    "pdf_pages": [843],
+    "tags": ["sata", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is monitoring a client taking hydrochlorothiazide for adverse effects. Which findings would the nurse expect to note? Select all that apply.", "zh": "護理師正在監測一位服用hydrochlorothiazide病人的不良反應。護理師預期會觀察到下列哪些發現？請選出所有適用的選項。"},
+    "options": [
+      {"en": "Hypokalemia", "zh": "低血鉀"},
+      {"en": "Hyperglycemia", "zh": "高血糖"},
+      {"en": "Hypercalcemia", "zh": "高血鈣"},
+      {"en": "Hypouricemia", "zh": "低尿酸血症"},
+      {"en": "Hyponatremia", "zh": "低血鈉"},
+      {"en": "Bradycardia", "zh": "心搏過緩"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Thiazide diuretics are associated with hypokalemia, hyponatremia, hypercalcemia, hyperglycemia, and hyperuricemia (not hypouricemia). Bradycardia is not a typical adverse effect of thiazide diuretics.", "zh": "Thiazide類利尿劑與低血鉀、低血鈉、高血鈣、高血糖及高尿酸血症（而非低尿酸血症）有關。心搏過緩並非thiazide類利尿劑典型的不良反應。"},
+    "pdf_pages": [845],
+    "tags": ["sata", "labs", "diuretic"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is preparing to administer IV furosemide. Which action is essential to prevent a serious adverse effect of this medication?", "zh": "護理師正準備靜脈給予furosemide。下列哪項行動對預防此藥物嚴重不良反應至關重要？"},
+    "options": [
+      {"en": "Administer the dose as a rapid IV push over 15 seconds.", "zh": "以15秒內快速靜脈推注方式給藥。"},
+      {"en": "Administer the dose slowly, over 1 to 2 minutes.", "zh": "緩慢給藥，時間為1至2分鐘。"},
+      {"en": "Mix the medication only with a dextrose-containing solution.", "zh": "僅以含葡萄糖的溶液稀釋藥物。"},
+      {"en": "Administer the medication only through a central venous line.", "zh": "僅可經中央靜脈導管給藥。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "IV furosemide should be administered slowly, over 1 to 2 minutes, because rapid injection increases the risk of ototoxicity and hearing loss.", "zh": "靜脈給予furosemide應緩慢進行，時間為1至2分鐘，因為快速注射會增加耳毒性及聽力喪失的風險。"},
+    "pdf_pages": [846],
+    "tags": ["medication administration", "safety", "loop diuretic"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking spironolactone for heart failure reports nausea and muscle weakness. The nurse notes tall, peaked T waves on the client's ECG. Which electrolyte imbalance does the nurse suspect?", "zh": "一位因心臟衰竭服用spironolactone的病人表示噁心及肌肉無力，護理師在病人的心電圖上觀察到高尖的T波。護理師應懷疑下列哪項電解質失衡？"},
+    "options": [
+      {"en": "Hypokalemia", "zh": "低血鉀"},
+      {"en": "Hyperkalemia", "zh": "高血鉀"},
+      {"en": "Hypocalcemia", "zh": "低血鈣"},
+      {"en": "Hypercalcemia", "zh": "高血鈣"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Nausea, muscle weakness, and tall, peaked T waves on the ECG are classic findings of hyperkalemia, a primary concern with potassium-sparing diuretics such as spironolactone.", "zh": "噁心、肌肉無力及心電圖上高尖的T波是高血鉀的典型表現，而高血鉀正是使用保鉀型利尿劑（如spironolactone）時最需關注的主要問題。"},
+    "pdf_pages": [846],
+    "tags": ["red flag", "recognize cues", "potassium-sparing diuretic"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is caring for a client with type 1 diabetes mellitus who is newly prescribed propranolol for hypertension. Which teaching point is most important for the nurse to include?", "zh": "護理師正在照護一位第1型糖尿病病人，該病人新開立propranolol用於治療高血壓。護理師應納入下列哪項教學內容最為重要？"},
+    "options": [
+      {"en": "\"This medication may mask early warning signs of hypoglycemia, such as a fast heart rate.\"", "zh": "「這個藥物可能會掩蓋低血糖的早期警訊，例如心跳加快。」"},
+      {"en": "\"You may stop this medication abruptly if you experience dizziness.\"", "zh": "「如果出現頭暈，您可以立即停用這個藥物。」"},
+      {"en": "\"This medication will increase your blood glucose level.\"", "zh": "「這個藥物會提高您的血糖值。」"},
+      {"en": "\"You do not need to monitor your blood glucose as closely while taking this medication.\"", "zh": "「服用這個藥物期間您不需要那麼密切監測血糖。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Beta-adrenergic blockers such as propranolol can mask the early signs of hypoglycemia (e.g., tachycardia, nervousness) in clients with diabetes mellitus, who should be instructed to monitor blood glucose closely. Clients should never abruptly discontinue a beta blocker because rebound tachycardia, hypertension, or angina can occur.", "zh": "乙型腎上腺素受體阻斷劑（如propranolol）可能會掩蓋糖尿病病人低血糖的早期徵象（例如心搏過速、緊張），因此應指導病人密切監測血糖。病人絕不應突然停用乙型阻斷劑，因為可能會發生反彈性心搏過速、高血壓或心絞痛。"},
+    "pdf_pages": [849, 850],
+    "tags": ["patient education", "safety", "beta blocker"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is started on amiodarone for a ventricular dysrhythmia. Which assessment finding would require the nurse to notify the PHCP immediately?", "zh": "一位病人因心室性心律不整開始使用amiodarone治療。下列哪項評估發現需要護理師立即通知主治醫師？"},
+    "options": [
+      {"en": "A QT interval of 520 msec noted on the ECG", "zh": "心電圖顯示QT間隔為520毫秒"},
+      {"en": "Mild constipation", "zh": "輕度便秘"},
+      {"en": "Photosensitivity managed with sunscreen use", "zh": "使用防曬產品即可控制的光敏感反應"},
+      {"en": "Stable thyroid function test results", "zh": "穩定的甲狀腺功能檢驗結果"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Amiodarone can prolong the QT interval, which increases the risk for torsades de pointes, a life-threatening ventricular tachycardia. A markedly prolonged QT interval requires immediate notification of the PHCP, whereas mild constipation, photosensitivity managed with sunscreen, and stable thyroid studies do not require urgent reporting.", "zh": "Amiodarone可能延長QT間隔，進而增加發生扭轉型心室性心搏過速（torsades de pointes，一種危及生命的心室性心搏過速）的風險。明顯延長的QT間隔需要立即通知主治醫師，而輕度便秘、以防曬產品控制的光敏感反應及穩定的甲狀腺檢驗結果則不需要緊急報告。"},
+    "pdf_pages": [851],
+    "tags": ["red flag", "ecg", "antidysrhythmic"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse administers a sublingual nitroglycerin tablet to a hospitalized client reporting chest pain. The client's blood pressure before administration was 108/68 mm Hg. Five minutes later, the pain is unrelieved and the blood pressure is 84/52 mm Hg. What is the nurse's next action?", "zh": "護理師給予一位住院中表示胸痛的病人一劑舌下含服的硝化甘油（nitroglycerin）錠。給藥前病人血壓為108/68 mmHg，5分鐘後疼痛未緩解，血壓降為84/52 mmHg。護理師接下來應採取下列哪項行動？"},
+    "options": [
+      {"en": "Administer a second sublingual nitroglycerin tablet as originally prescribed.", "zh": "依原本醫囑再給予第二劑舌下硝化甘油錠。"},
+      {"en": "Withhold the next dose and notify the PHCP because of the significant drop in blood pressure.", "zh": "暫停下一劑給藥，並因血壓明顯下降而通知主治醫師。"},
+      {"en": "Have the client stand up to improve venous return.", "zh": "讓病人站立以改善靜脈回流。"},
+      {"en": "Apply a nitroglycerin transdermal patch immediately.", "zh": "立即貼上硝化甘油經皮貼片。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The nurse checks the blood pressure before each dose of sublingual nitroglycerin. A significant drop in blood pressure (from 108/68 to 84/52 mm Hg) indicates the client cannot safely tolerate another dose at this time; the nurse should withhold further nitroglycerin and notify the PHCP rather than giving another dose, having the client stand (which worsens orthostatic hypotension), or starting a different nitrate formulation.", "zh": "護理師在每次給予舌下硝化甘油前都應測量血壓。血壓明顯下降（由108/68降至84/52 mmHg）表示病人此時無法安全耐受再一劑藥物；護理師應暫停繼續給予硝化甘油並通知主治醫師，而不是再給一劑、讓病人站立（會使姿勢性低血壓惡化），或改用其他硝酸鹽製劑。"},
+    "pdf_pages": [848],
+    "tags": ["safety", "nitrates", "priority"]
+  }
+]

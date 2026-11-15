@@ -1,0 +1,284 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for two children with sickle cell anemia on a pediatric unit. One child reports severe pain in the hands and feet with a temperature of 38.3°C (101°F). The second child has become pale, lethargic, and hypotensive, with a rapidly enlarging, tender abdomen. Which child should the nurse assess first?",
+      "zh": "護理師照護兩名鐮形細胞貧血症兒童。第一名兒童手腳劇痛，體溫38.3°C（101°F）；第二名兒童出現臉色蒼白、意識昏沉、血壓偏低，且腹部迅速腫大並有壓痛。護理師應優先評估哪一位兒童？"
+    },
+    "options": [
+      {"en": "The child with manifestations of a vaso-occlusive crisis", "zh": "有血管閉塞危機（vaso-occlusive crisis）表現的兒童"},
+      {"en": "The child with manifestations consistent with splenic sequestration", "zh": "表現符合脾臟阻滯（splenic sequestration）的兒童"},
+      {"en": "Both children require the same priority because both have sickle cell anemia", "zh": "兩名兒童優先順序相同，因為都是鐮形細胞貧血症"},
+      {"en": "Neither child requires immediate assessment because pain and abdominal findings are expected in sickle cell disease", "zh": "兩名兒童都不需要立即評估，因為疼痛與腹部表現在鐮形細胞疾病中屬預期發現"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Splenic sequestration is caused by pooling and clumping of blood in the spleen (hypersplenism) and manifests as profound anemia, hypovolemia, and shock. Pallor, lethargy, hypotension, and a rapidly enlarging abdomen signal a life-threatening crisis that takes priority over the pain of a vaso-occlusive crisis, which, although serious, is not immediately life-threatening.",
+      "zh": "脾臟阻滯是因血液淤積聚集於脾臟（脾功能亢進）所致，表現為嚴重貧血、血容量不足與休克。臉色蒼白、意識昏沉、低血壓與腹部迅速腫大顯示危及生命的危機，優先順序高於血管閉塞危機的疼痛（雖然嚴重，但非立即威脅生命）。"
+    },
+    "pdf_pages": [446, 447],
+    "tags": ["priority", "first action", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is reviewing prescriptions for a child hospitalized with vaso-occlusive sickle cell crisis. Which prescription should the nurse question?",
+      "zh": "護理師審查一名因血管閉塞危機住院的鐮形細胞貧血症兒童的醫囑，下列哪項醫囑應提出質疑？"
+    },
+    "options": [
+      {"en": "Intravenous fluids at a rate above maintenance", "zh": "靜脈輸液速率高於基礎維持量"},
+      {"en": "Oxygen by nasal cannula", "zh": "經鼻導管給予氧氣"},
+      {"en": "Restrict oral and intravenous fluid intake to prevent fluid overload", "zh": "限制口服與靜脈輸液攝取量以預防體液過量"},
+      {"en": "Around-the-clock scheduled analgesics", "zh": "全日定時給予止痛藥"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Adequate hydration through oral and IV fluids is a cornerstone of treatment; without it, pain will not be controlled and sickling can worsen. A prescription restricting fluid intake during a crisis should be questioned.",
+      "zh": "充足的口服與靜脈水分補充是治療的核心；若缺乏足夠水分，疼痛將無法控制且鐮形化可能加劇。危機期間限制水分攝取的醫囑應提出質疑。"
+    },
+    "pdf_pages": [446],
+    "tags": ["red flag", "question prescription"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A child with sickle cell anemia is prescribed hydroxyurea. Which statement by the parent indicates an accurate understanding of the purpose of this medication?",
+      "zh": "一名鐮形細胞貧血症兒童醫囑開立hydroxyurea，父母下列哪一句話顯示對此藥物目的有正確了解？"
+    },
+    "options": [
+      {"en": "\"This medication will cure my child's sickle cell anemia.\"", "zh": "「這個藥會治癒我孩子的鐮形細胞貧血症。」"},
+      {"en": "\"This medication helps prevent painful crises by reducing the formation of sickle-shaped cells.\"", "zh": "「這個藥能減少鐮形細胞的形成，幫助預防疼痛性危機。」"},
+      {"en": "\"This medication replaces the clotting factor my child is missing.\"", "zh": "「這個藥能補充我孩子缺乏的凝血因子。」"},
+      {"en": "\"This medication removes excess iron from my child's blood.\"", "zh": "「這個藥能去除我孩子血液中過多的鐵質。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Hydroxyurea is an antimetabolite that helps prevent the formation of sickle-shaped red blood cells and decreases the incidence of vaso-occlusive events; it does not cure the disease, replace clotting factors, or chelate iron.",
+      "zh": "Hydroxyurea是一種抗代謝物，能幫助預防鐮形紅血球的形成並減少血管閉塞事件的發生；它並不能治癒疾病、補充凝血因子或螯合鐵質。"
+    },
+    "pdf_pages": [446, 447],
+    "tags": ["teaching", "evaluate outcomes"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse is positioning a child who is experiencing a vaso-occlusive sickle cell crisis to maximize comfort and venous return. Which action is appropriate?",
+      "zh": "護理師為一名血管閉塞危機中的兒童擺位，以促進舒適與靜脈回流，下列何項措施恰當？"
+    },
+    "options": [
+      {"en": "Raise the knee gatch of the bed to support the legs", "zh": "抬高床尾膝部支撐架以支托雙腿"},
+      {"en": "Elevate the head of the bed no more than 30 degrees and keep the extremities extended", "zh": "床頭抬高不超過30度，並讓四肢保持伸直"},
+      {"en": "Flex the hips and knees to relieve pressure on the joints", "zh": "彎曲髖與膝關節以減輕關節壓力"},
+      {"en": "Keep the child flat with the legs elevated above the level of the heart", "zh": "讓兒童平躺，雙腳抬高高於心臟水平"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The child should be positioned with extremities extended to promote venous return, with the head of the bed elevated no more than 30 degrees, avoiding strain on painful joints, and the knee gatch of the bed should not be raised.",
+      "zh": "應讓兒童四肢伸直以促進靜脈回流，床頭抬高不超過30度，避免讓疼痛關節承受壓力，且不應抬高床尾的膝部支撐架。"
+    },
+    "pdf_pages": [446],
+    "tags": ["comfort"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching the parent of a child with sickle cell anemia about recommended immunizations. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師教導鐮形細胞貧血症兒童的父母有關建議接種疫苗的知識，父母下列哪一句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"She should get the pneumococcal vaccine.\"", "zh": "「她應該接種肺炎鏈球菌疫苗。」"},
+      {"en": "\"She needs the meningococcal vaccine.\"", "zh": "「她需要接種腦膜炎雙球菌疫苗。」"},
+      {"en": "\"She should get a flu shot every year.\"", "zh": "「她應該每年接種流感疫苗。」"},
+      {"en": "\"Since she already had chickenpox, she doesn't need any other vaccines.\"", "zh": "「她已經得過水痘了，所以不需要再打其他疫苗。」"}
+    ],
+    "answer": [3],
+    "rationale": {
+      "en": "Because of functional asplenia and increased susceptibility to infection, children with sickle cell anemia need pneumococcal, meningococcal, and annual influenza vaccines in addition to the regularly scheduled childhood vaccines; having had chickenpox does not exempt the child from other recommended vaccines.",
+      "zh": "由於功能性無脾及感染風險增加，鐮形細胞貧血症兒童除了規律接種的兒童疫苗外，還需接種肺炎鏈球菌、腦膜炎雙球菌疫苗及每年的流感疫苗；曾得過水痘並不能免除其他建議的疫苗接種。"
+    },
+    "pdf_pages": [447],
+    "tags": ["requires further teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A 10-year-old with hemophilia A slips while playing basketball and bumps the knee. The knee becomes swollen, warm, and painful with limited range of motion. What is the nurse's priority action?",
+      "zh": "一名10歲血友病A兒童打籃球時滑倒撞到膝部，膝關節隨後出現腫脹、溫熱、疼痛且活動範圍受限。護理師的優先行動為何？"
+    },
+    "options": [
+      {"en": "Encourage active range-of-motion exercises to prevent stiffness", "zh": "鼓勵主動關節活動以預防僵硬"},
+      {"en": "Immobilize and elevate the extremity, apply ice, and prepare to administer factor VIII", "zh": "固定並抬高患肢、冰敷，並準備給予第八凝血因子"},
+      {"en": "Apply a warm compress to promote blood flow to the joint", "zh": "以溫熱敷促進關節血流"},
+      {"en": "Gently massage the joint to disperse the swelling", "zh": "輕輕按摩關節以消散腫脹"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Joint bleeding (hemarthrosis) is controlled by immobilization, elevation, and application of ice, along with replacement of the deficient factor VIII. Range-of-motion exercise, heat, and massage can increase bleeding into the joint.",
+      "zh": "關節出血（hemarthrosis）應以固定、抬高及冰敷處理，並補充缺乏的第八凝血因子。關節活動、熱敷與按摩反而可能加重關節內出血。"
+    },
+    "pdf_pages": [448],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse reviews laboratory results for a child suspected of having hemophilia A. Which result is most consistent with this diagnosis?",
+      "zh": "護理師審查一名疑似血友病A兒童的檢驗結果，下列何項結果最符合此診斷？"
+    },
+    "options": [
+      {"en": "Platelet count of 250,000/mm3 with a prolonged partial thromboplastin time", "zh": "血小板計數250,000/mm3，部分凝血酶時間（PTT）延長"},
+      {"en": "Decreased platelet count with a normal partial thromboplastin time", "zh": "血小板計數下降，部分凝血酶時間正常"},
+      {"en": "Prolonged prothrombin time with a normal partial thromboplastin time", "zh": "凝血酶原時間延長，部分凝血酶時間正常"},
+      {"en": "Decreased hemoglobin and hematocrit with a normal partial thromboplastin time", "zh": "血紅素與血球容積比下降，部分凝血酶時間正常"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "In hemophilia, test results that measure platelet function (platelet count) are normal, but test results that measure clotting factor function, such as the partial thromboplastin time, are abnormal (prolonged) because of the deficiency of a specific coagulation protein.",
+      "zh": "血友病患者測量血小板功能的檢驗結果（如血小板計數）正常，但測量凝血因子功能的檢驗結果（如部分凝血酶時間）會異常延長，因為缺乏特定的凝血蛋白。"
+    },
+    "pdf_pages": [448],
+    "tags": ["labs", "recognize cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse teaches the parent of a child with hemophilia about safe recreational activities. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師教導血友病兒童的父母有關安全休閒活動的知識，父母下列哪一句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"Swimming is a good activity for her.\"", "zh": "「游泳對她來說是個不錯的活動。」"},
+      {"en": "\"She should wear a helmet and knee and elbow pads when she rides her bike.\"", "zh": "「她騎腳踏車時應該戴安全帽、護膝和護肘。」"},
+      {"en": "\"Soccer would be a great way for her to stay active with her friends.\"", "zh": "「踢足球對她和朋友一起活動來說會是個很好的方式。」"},
+      {"en": "\"I will help her use protective padding while she is learning to walk.\"", "zh": "「她學走路時，我會幫她使用保護墊。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Children with hemophilia need to avoid contact sports, such as soccer, because of the high risk of trauma and joint bleeding. Swimming is a recommended safe activity, protective devices such as helmets and pads are appropriate for activities like biking, and protective padding is appropriate while learning to walk.",
+      "zh": "血友病兒童應避免接觸性運動如足球，因為創傷與關節出血風險高。游泳是建議的安全活動；騎腳踏車等活動應配戴安全帽與護墊；學走路時使用保護墊也是適當的做法。"
+    },
+    "pdf_pages": [448],
+    "tags": ["requires further teaching", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is providing in-service education about von Willebrand's disease. Which characteristics should the nurse include? Select all that apply.",
+      "zh": "護理師進行有關范威里氏病（von Willebrand's disease）的在職教育，應納入下列哪些特徵？請選出所有適用的答案。"
+    },
+    "options": [
+      {"en": "It is a hereditary bleeding disorder.", "zh": "它是一種遺傳性出血性疾病。"},
+      {"en": "The disorder causes platelets to adhere to damaged endothelium.", "zh": "此疾病會使血小板黏附於受損的血管內皮。"},
+      {"en": "It is characterized by extremely elevated creatinine levels.", "zh": "其特徵為肌酸酐水平極度升高。"},
+      {"en": "Treatment and care are similar to those for hemophilia, including clotting factor administration.", "zh": "治療與照護方式與血友病相似，包括給予凝血因子。"},
+      {"en": "Bleeding occurs primarily from mucous membranes, such as epistaxis and gum bleeding.", "zh": "出血主要發生於黏膜，如鼻出血與牙齦出血。"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "Von Willebrand's disease is a hereditary bleeding disorder caused by a deficiency of or defect in von Willebrand factor, which also causes platelets to adhere to damaged endothelium. It is characterized by an increased tendency to bleed from mucous membranes, and treatment is similar to hemophilia, including clotting factor administration. Elevated creatinine is not a feature of this disorder.",
+      "zh": "范威里氏病是一種遺傳性出血性疾病，因缺乏或缺陷的范威里因子所致，該因子也會使血小板黏附於受損的血管內皮。其特徵是容易從黏膜出血，治療方式與血友病相似，包括給予凝血因子。肌酸酐升高並非此疾病的特徵。"
+    },
+    "pdf_pages": [449],
+    "tags": ["sata"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A child with β-thalassemia major receiving long-term blood transfusion therapy develops signs of iron overload. Which medication would the nurse anticipate being prescribed?",
+      "zh": "一名接受長期輸血治療的β型重型地中海型貧血兒童出現鐵質過量的徵象，護理師應預期開立下列哪種藥物？"
+    },
+    "options": [
+      {"en": "Dalteparin", "zh": "Dalteparin"},
+      {"en": "Deferoxamine", "zh": "Deferoxamine（去鐵胺）"},
+      {"en": "Metoprolol", "zh": "Metoprolol"},
+      {"en": "Meropenem", "zh": "Meropenem"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Chelation therapy with deferoxamine or deferasirox is prescribed to treat iron overload and prevent organ damage from the elevated iron levels caused by multiple transfusions. Dalteparin is an anticoagulant, metoprolol is a beta blocker, and meropenem is an antibiotic.",
+      "zh": "螯合治療使用deferoxamine或deferasirox，用於治療因多次輸血造成的鐵質過量並預防器官損傷。Dalteparin是抗凝血劑，metoprolol是乙型阻斷劑，meropenem是抗生素。"
+    },
+    "pdf_pages": [449, 450],
+    "tags": ["pharmacology"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching a parent about reducing a toddler's risk of iron-deficiency anemia. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師教導父母如何降低幼兒缺鐵性貧血的風險，父母下列哪一句話顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will limit her cow's milk intake to about 16 to 20 ounces a day.\"", "zh": "「我會把她的牛奶攝取量限制在每天約16到20盎司左右。」"},
+      {"en": "\"I will offer her iron-rich foods like meat and fortified cereal.\"", "zh": "「我會給她吃富含鐵質的食物，像肉類和強化鐵質的穀片。」"},
+      {"en": "\"Since she loves milk, I let her drink about 32 ounces of cow's milk a day instead of eating much solid food.\"", "zh": "「因為她很愛喝奶，我讓她每天喝大約32盎司的牛奶，而不太吃固體食物。」"},
+      {"en": "\"I will talk to the pediatrician about her diet at her next well-child visit.\"", "zh": "「我會在下次健康檢查時跟兒科醫師討論她的飲食。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Excessive cow's milk intake (more than 24 ounces a day) combined with inadequate intake of iron-rich foods is a risk factor for iron-deficiency anemia in children. The other statements reflect appropriate measures to reduce risk.",
+      "zh": "過量攝取牛奶（每天超過24盎司）且缺乏富含鐵質食物的攝取，是兒童發生缺鐵性貧血的危險因子。其他敘述則為降低風險的適當做法。"
+    },
+    "pdf_pages": [450],
+    "tags": ["requires further teaching"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The nurse is teaching the parent of a toddler how to administer a prescribed liquid oral iron supplement. Which instructions should the nurse include? Select all that apply.",
+      "zh": "護理師教導幼兒父母如何給予醫囑開立的液態口服鐵劑，應納入下列哪些指導內容？請選出所有適用的答案。"
+    },
+    "options": [
+      {"en": "Give the iron between meals rather than with food.", "zh": "在餐與餐之間給予鐵劑，而非與食物一起服用"},
+      {"en": "Administer the liquid through a straw or dropper placed toward the back of the mouth.", "zh": "用吸管或滴管將藥液滴於口腔後側給藥"},
+      {"en": "Mix the iron into a bottle of milk for easier administration.", "zh": "把鐵劑混入牛奶奶瓶中較容易餵食"},
+      {"en": "Brush the child's teeth after each dose.", "zh": "每次服藥後幫兒童刷牙"},
+      {"en": "Give the iron with milk to improve absorption.", "zh": "與牛奶一起服用以增加吸收"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {
+      "en": "Liquid iron should be given through a straw or dropper placed at the back of the mouth because it stains the teeth, and teeth should be brushed after administration. Iron is given between meals because food (including milk) decreases absorption; it should not be mixed into formula or milk.",
+      "zh": "液態鐵劑會染色牙齒，應以吸管或滴管滴於口腔後側給藥，服藥後應刷牙。鐵劑應於餐間給予，因食物（包括牛奶）會降低其吸收，不應混入配方奶或牛奶中。"
+    },
+    "pdf_pages": [450],
+    "tags": ["sata", "teaching"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "A child hospitalized in vaso-occlusive sickle cell crisis is receiving IV fluids, oxygen, and scheduled analgesics. Which task can the nurse delegate to the unlicensed assistive personnel (UAP)?",
+      "zh": "一名因血管閉塞危機住院的兒童正接受靜脈輸液、氧氣與定時止痛藥治療，下列哪項任務可委派給無照護理佐理人員（UAP）？"
+    },
+    "options": [
+      {"en": "Assessing the child for new-onset abdominal distention", "zh": "評估兒童是否出現新發生的腹部膨脹"},
+      {"en": "Teaching the parent about the early signs of crisis", "zh": "教導父母有關危機早期徵象"},
+      {"en": "Repositioning the child for comfort and reporting any complaints of increased pain to the nurse", "zh": "為兒童擺位以增加舒適，並將任何疼痛加劇的反應回報給護理師"},
+      {"en": "Determining whether the ordered oxygen flow rate is appropriate", "zh": "判斷醫囑的氧氣流速是否合適"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Repositioning for comfort and reporting changes to the nurse is an appropriate task for the UAP. Assessment for new findings, patient teaching, and clinical judgment about treatment orders require the knowledge and scope of the licensed nurse.",
+      "zh": "為病人擺位以增加舒適並向護理師回報變化，屬於適合UAP執行的任務。評估新發現、病人教學及對治療醫囑的臨床判斷，則需要有照護理師的知識與職責範圍。"
+    },
+    "pdf_pages": [446],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A mother whose son was recently diagnosed with hemophilia A tells the nurse, \"I'm the one who passed this on to him. This is my fault.\" Which response by the nurse is most therapeutic?",
+      "zh": "一名兒子剛確診血友病A的母親告訴護理師：「是我把這個病遺傳給他的，這都是我的錯。」護理師以下何種回應最具治療性？"
+    },
+    "options": [
+      {"en": "\"It's no one's fault; let's focus on learning to manage his care.\"", "zh": "「這不是任何人的錯，我們來專注於學習如何照顧他吧。」"},
+      {"en": "\"Many mothers feel this way. You'll get used to the idea.\"", "zh": "「很多媽媽都有這種感覺，你會慢慢習慣的。」"},
+      {"en": "\"It sounds like you're feeling guilty about his diagnosis. Can you tell me more about that?\"", "zh": "「聽起來你對他的診斷感到自責，可以多告訴我一些你的感受嗎？」"},
+      {"en": "\"You shouldn't feel guilty; there was nothing you could have done.\"", "zh": "「你不應該覺得自責，這不是你能控制的事。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Reflecting the parent's feeling and inviting further exploration acknowledges her emotion and opens therapeutic communication. Dismissing, minimizing, or telling the parent how she should feel shuts down the expression of feelings.",
+      "zh": "反映父母的感受並邀請進一步表達，能認可其情緒並開啟治療性溝通。否定、淡化感受或告訴父母她應該有什麼感覺，都會阻斷情緒的表達。"
+    },
+    "pdf_pages": [448],
+    "tags": ["therapeutic communication"]
+  }
+]

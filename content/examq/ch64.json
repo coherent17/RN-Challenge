@@ -1,0 +1,230 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with HIV infection started abacavir 3 days ago. Today the client reports a sore throat, dry cough, and mild nausea, and the nurse notes a temperature of 100.9°F (38.3°C) and a new macular rash on the trunk. Which action should the nurse take first?", "zh": "一名 HIV 感染客戶 3 天前開始服用 abacavir。今天客戶表示喉痛、乾咳、輕微噁心，護理師並測得體溫 100.9°F（38.3°C），軀幹出現新的斑狀皮疹。護理師應優先採取下列哪項行動？"},
+    "options": [
+      {"en": "Administer an antipyretic and recheck the temperature in 4 hours", "zh": "給予退熱藥並於 4 小時後複測體溫"},
+      {"en": "Withhold the next dose and notify the primary health care provider immediately", "zh": "暫停下一劑並立即通知主要照護者"},
+      {"en": "Document the findings and reassess at the next scheduled dose", "zh": "記錄發現並於下次用藥時再評估"},
+      {"en": "Encourage fluids and recommend an over-the-counter cough remedy", "zh": "鼓勵攝取水分並建議使用成藥止咳藥"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fever, rash, pharyngitis, cough, and GI symptoms together suggest an abacavir hypersensitivity reaction, a potentially life-threatening adverse effect. The medication must be withheld and the provider notified immediately; the client should never be rechallenged once hypersensitivity is suspected. Treating only the fever or cough and continuing the drug risks a more severe reaction.", "zh": "發燒、皮疹、咽痛、咳嗽合併胃腸道症狀，提示 abacavir 過敏反應，可能危及生命。必須立即暫停藥物並通知醫療照護者；一旦懷疑過敏，絕不可再次給藥。僅處理發燒或咳嗽而繼續用藥，會增加更嚴重反應的風險。"},
+    "pdf_pages": [1031],
+    "tags": ["red flag", "requires immediate action", "recognize cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is caring for a client who is receiving gentamicin. Which findings would the nurse monitor for as adverse effects of this medication? Select all that apply.", "zh": "護理師正在照顧一名接受 gentamicin 治療的客戶。護理師應監測下列哪些為此藥物的不良反應？請選出所有適用項目。"},
+    "options": [
+      {"en": "Tinnitus or difficulty hearing", "zh": "耳鳴或聽力困難"},
+      {"en": "Rising blood urea nitrogen (BUN) and creatinine", "zh": "血尿素氮（BUN）與肌酸酐上升"},
+      {"en": "Visual disturbances such as blurred vision", "zh": "視力障礙，如視力模糊"},
+      {"en": "Episodes of confusion or disorientation", "zh": "意識混亂或定向力障礙的發作"},
+      {"en": "Numbness and tingling of the feet", "zh": "雙足麻木與刺痛感"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Aminoglycosides such as gentamicin are associated with ototoxicity (hearing loss, tinnitus), nephrotoxicity (rising BUN/creatinine), and confusion/disorientation, along with GI irritation, palpitations, blood pressure changes, and hypersensitivity. Visual disturbances and peripheral neuropathy are not characteristic adverse effects of aminoglycosides.", "zh": "Gentamicin 等氨基糖苷類藥物與耳毒性（聽力喪失、耳鳴）、腎毒性（BUN/肌酸酐上升）及意識混亂/定向力障礙有關，也可能有胃腸道刺激、心悸、血壓改變與過敏反應。視力障礙與周邊神經病變並非氨基糖苷類的典型不良反應。"},
+    "pdf_pages": [1034],
+    "tags": ["sata", "adverse effects"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with AIDS who is taking didanosine reports sudden severe epigastric pain radiating to the back, with nausea and vomiting. Which laboratory result would the nurse expect to confirm the suspected complication?", "zh": "一名服用 didanosine 的 AIDS 客戶突然出現劇烈上腹痛並放射至背部，伴隨噁心嘔吐。護理師預期哪項檢驗結果可確認此疑似併發症？"},
+    "options": [
+      {"en": "Elevated serum amylase", "zh": "血清澱粉酶升高"},
+      {"en": "Decreased serum albumin", "zh": "血清白蛋白下降"},
+      {"en": "Elevated serum sodium", "zh": "血清鈉上升"},
+      {"en": "Decreased platelet count", "zh": "血小板數量下降"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Didanosine can cause pancreatitis. Epigastric pain radiating to the back with nausea and vomiting is classic for pancreatitis, and an elevated serum amylase supports this diagnosis; the medication may need to be discontinued. Didanosine is also hepatotoxic and can cause peripheral neuropathy.", "zh": "Didanosine 可引起胰臟炎。上腹痛放射至背部合併噁心嘔吐是胰臟炎的典型表現，血清澱粉酶升高可支持此診斷；此藥物可能需要停用。Didanosine 同時具有肝毒性，也可能引起周邊神經病變。"},
+    "pdf_pages": [1031],
+    "tags": ["labs", "analyze cues"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking stavudine for HIV infection tells the nurse, \"My feet have been feeling numb and tingly for the past week.\" What is the nurse's best action?", "zh": "一名因 HIV 感染服用 stavudine 的客戶告訴護理師：「我的腳這一週一直覺得麻木刺痛。」護理師最佳的行動是什麼？"},
+    "options": [
+      {"en": "Reassure the client that this is an expected, temporary effect of the medication", "zh": "向客戶保證這是藥物的預期、暫時性作用"},
+      {"en": "Instruct the client to elevate the feet and wear supportive socks", "zh": "指導客戶抬高雙腳並穿著支撐性襪子"},
+      {"en": "Assess the client's gait and report the finding to the primary health care provider", "zh": "評估客戶的步態並將此發現回報主要照護者"},
+      {"en": "Document the finding and reassess at the client's next scheduled visit", "zh": "記錄此發現並於客戶下次預約時再評估"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Stavudine is associated with peripheral neuropathy, which can progress and may require discontinuing the medication. New numbness and tingling in the feet warrants a gait assessment and prompt reporting to the provider rather than reassurance or deferral to a later visit.", "zh": "Stavudine 與周邊神經病變有關，病情可能進展並需停藥。雙足新發的麻木刺痛需要評估步態並立即回報照護者，而非安慰客戶或延後至下次就診再處理。"},
+    "pdf_pages": [1031],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is providing teaching to a client who is newly prescribed efavirenz. Which statements by the nurse are appropriate? Select all that apply.", "zh": "護理師正在為一名新開立 efavirenz 處方的客戶進行衛教。下列護理師的陳述哪些是適當的？請選出所有適用項目。"},
+    "options": [
+      {"en": "\"Take this medication at bedtime to help reduce daytime dizziness and difficulty concentrating.\"", "zh": "「請在睡前服用此藥，有助於減少日間暈眩與注意力不集中。」"},
+      {"en": "\"Vivid or abnormal dreams can occur with this medication.\"", "zh": "「此藥物可能引起生動或異常的夢境。」"},
+      {"en": "\"Avoid activities that require alertness, such as driving, until you know how the medication affects you.\"", "zh": "「在了解此藥物對您的影響之前，請避免需要警覺性的活動，如駕駛。」"},
+      {"en": "\"This medication will cure your HIV infection if taken consistently.\"", "zh": "「只要持續服用，此藥物可以治癒您的 HIV 感染。」"},
+      {"en": "\"You may stop the medication on your own once your symptoms improve.\"", "zh": "「一旦症狀改善，您可以自行停藥。」"}
+    ],
+    "answer": [0, 1, 2],
+    "rationale": {"en": "Efavirenz can cause dizziness, confusion, difficulty concentrating, abnormal dreams, and even encephalopathy; taking it at bedtime and avoiding alertness-dependent activities until effects are known are appropriate safety teaching points. HIV therapy is not curative, and antiretrovirals must never be stopped without provider guidance.", "zh": "Efavirenz 可能引起暈眩、意識混亂、注意力不集中、異常夢境，甚至腦病變；於睡前服用並在了解藥效前避免需警覺性的活動，是適當的安全衛教重點。HIV 治療並非治癒性，抗病毒藥物絕不可未經照護者指示自行停藥。"},
+    "pdf_pages": [1032],
+    "tags": ["sata", "patient education", "safety"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is planning client care assignments. Which task is most appropriate to delegate to a nursing assistive personnel (UAP)?", "zh": "RN 正在規劃客戶照護分工。下列哪項任務最適合委派給無照護理輔助人員（UAP）？"},
+    "options": [
+      {"en": "Obtain a routine temperature on a stable client receiving IV ceftriaxone", "zh": "為一名接受 IV ceftriaxone 且狀況穩定的客戶測量常規體溫"},
+      {"en": "Assess a client receiving azathioprine for early signs of infection", "zh": "評估一名接受 azathioprine 的客戶是否有早期感染徵象"},
+      {"en": "Inspect the oral mucosa of a client on methotrexate for stomatitis", "zh": "檢查一名服用 methotrexate 的客戶口腔黏膜是否有口腔炎"},
+      {"en": "Monitor a client receiving a basiliximab infusion for signs of a hypersensitivity reaction", "zh": "監測一名接受 basiliximab 輸注的客戶是否有過敏反應徵象"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Obtaining a routine vital sign on a stable client is within the UAP's scope. Assessing for early infection in an immunosuppressed client, inspecting the oral mucosa for a specific adverse effect, and monitoring for a hypersensitivity reaction during an infusion all require nursing assessment and clinical judgment and must remain with the RN.", "zh": "對穩定客戶測量常規生命徵象在 UAP 的職責範圍內。評估免疫抑制客戶是否有早期感染、檢查特定不良反應的口腔黏膜，以及輸注期間監測過敏反應，皆需要護理評估與臨床判斷，須由 RN 負責。"},
+    "pdf_pages": [1033],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving a first-time basiliximab infusion suddenly develops facial swelling, audible wheezing, and a blood pressure drop from 128/78 to 86/50 mm Hg. What is the nurse's priority action?", "zh": "一名首次接受 basiliximab 輸注的客戶突然出現臉部腫脹、可聽到的喘鳴聲，血壓由 128/78 mmHg 降至 86/50 mmHg。護理師的優先行動是什麼？"},
+    "options": [
+      {"en": "Slow the infusion rate and recheck the blood pressure in 15 minutes", "zh": "降低輸注速度並於 15 分鐘後複測血壓"},
+      {"en": "Stop the infusion immediately and initiate emergency interventions", "zh": "立即停止輸注並啟動緊急處置"},
+      {"en": "Administer an oral antihistamine and continue the infusion", "zh": "給予口服抗組織胺並繼續輸注"},
+      {"en": "Lower the head of the bed and continue to monitor", "zh": "降低床頭並持續監測"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Basiliximab can cause severe acute hypersensitivity reactions, including anaphylaxis. Facial swelling, wheezing, and hypotension indicate anaphylaxis, a medical emergency; the infusion must be stopped immediately and emergency measures (airway support, epinephrine, provider notification) initiated. Slowing the infusion or giving an oral antihistamine while continuing it is unsafe.", "zh": "Basiliximab 可能引起嚴重急性過敏反應，包括過敏性休克。臉部腫脹、喘鳴與低血壓顯示過敏性休克，屬醫療急症；必須立即停止輸注並啟動緊急措施（維持呼吸道、給予腎上腺素、通知照護者）。僅降低輸注速度或給口服抗組織胺並持續輸注並不安全。"},
+    "pdf_pages": [1033],
+    "tags": ["priority", "requires immediate action", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who is 2 weeks post–kidney transplant and taking cyclosporine reports a headache. The nurse notes a blood pressure of 162/98 mm Hg. Which laboratory value is the priority for the nurse to review?", "zh": "一名腎臟移植後 2 週、服用 cyclosporine 的客戶表示頭痛。護理師測得血壓 162/98 mmHg。護理師應優先查閱哪項檢驗值？"},
+    "options": [
+      {"en": "Serum creatinine", "zh": "血清肌酸酐"},
+      {"en": "Serum potassium", "zh": "血清鉀"},
+      {"en": "Fasting blood glucose", "zh": "空腹血糖"},
+      {"en": "White blood cell count only", "zh": "僅白血球數"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cyclosporine's most common adverse effects are nephrotoxicity, infection, hypertension, and hirsutism. A new headache with an elevated blood pressure in a client on cyclosporine should prompt review of renal function (serum creatinine) to assess for nephrotoxicity, which often accompanies hypertension in this drug. Hyperkalemia and hyperglycemia are more associated with tacrolimus.", "zh": "Cyclosporine 最常見的不良反應是腎毒性、感染、高血壓與多毛症。服用 cyclosporine 的客戶出現新發頭痛合併血壓升高，應優先查閱腎功能（血清肌酸酐）以評估腎毒性，此藥物的高血壓常與腎毒性並存。高血鉀與高血糖較常見於 tacrolimus。"},
+    "pdf_pages": [1033],
+    "tags": ["labs", "analyze cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking tacrolimus after a liver transplant has a serum potassium level of 5.8 mEq/L (5.8 mmol/L) and new gum overgrowth. Which action should the nurse take first?", "zh": "一名肝臟移植後服用 tacrolimus 的客戶血清鉀為 5.8 mEq/L（5.8 mmol/L），並出現新發的牙齦增生。護理師應優先採取什麼行動？"},
+    "options": [
+      {"en": "Document the gum changes and schedule a routine dental referral", "zh": "記錄牙齦變化並安排常規牙科轉診"},
+      {"en": "Notify the primary health care provider of the potassium level and place the client on a cardiac monitor as indicated", "zh": "通知主要照護者鉀離子數值，並依指示將客戶接上心臟監測"},
+      {"en": "Encourage the client to increase intake of potassium-rich foods", "zh": "鼓勵客戶增加攝取富含鉀的食物"},
+      {"en": "Reassure the client that gum overgrowth is unrelated to the medication", "zh": "向客戶保證牙齦增生與藥物無關"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Tacrolimus can cause hyperkalemia, nephrotoxicity, hyperglycemia, and gum hyperplasia. A potassium of 5.8 mEq/L is a significant, potentially life-threatening finding that requires immediate notification of the provider and cardiac monitoring; increasing potassium intake would worsen the problem. Gum overgrowth is an expected adverse effect that can be addressed later, not the priority.", "zh": "Tacrolimus 可能引起高血鉀、腎毒性、高血糖與牙齦增生。鉀 5.8 mEq/L 是重大且可能危及生命的發現，須立即通知照護者並進行心臟監測；增加鉀攝取會使情況惡化。牙齦增生是預期的不良反應，可稍後處理，並非優先項目。"},
+    "pdf_pages": [1033],
+    "tags": ["priority", "red flag", "labs"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client who is starting cyclophosphamide for an autoimmune disorder. Which instruction is most important to include?", "zh": "護理師正在為一名因自體免疫疾病開始服用 cyclophosphamide 的客戶進行衛教。最重要的指導內容是什麼？"},
+    "options": [
+      {"en": "\"Report any pink, red, or bloody urine to your provider right away.\"", "zh": "「若出現粉紅色、紅色或帶血尿液，請立即告知您的照護者。」"},
+      {"en": "\"Limit your fluid intake to prevent fluid overload.\"", "zh": "「限制水分攝取以避免水分過多。」"},
+      {"en": "\"Expect your gums to become swollen and overgrown.\"", "zh": "「您的牙齦會變得腫脹增生，這是正常現象。」"},
+      {"en": "\"This medication will not increase your risk of infection.\"", "zh": "「此藥物不會增加您的感染風險。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Cyclophosphamide can cause neutropenia and hemorrhagic cystitis. Clients should be taught to increase (not limit) fluid intake and to report blood-tinged urine immediately, as this signals hemorrhagic cystitis. Gum hyperplasia is associated with cyclosporine/tacrolimus, not cyclophosphamide, and infection risk is increased, not absent.", "zh": "Cyclophosphamide 可能引起嗜中性球減少與出血性膀胱炎。應教導客戶增加（而非限制）水分攝取，並立即回報帶血尿液，因其提示出血性膀胱炎。牙齦增生與 cyclosporine/tacrolimus 相關，而非 cyclophosphamide；且此藥物會增加感染風險，並非沒有風險。"},
+    "pdf_pages": [1033],
+    "tags": ["patient education", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is receiving methotrexate for an autoimmune disorder. Which findings should the nurse recognize as possible serious adverse effects of this medication? Select all that apply.", "zh": "一名客戶因自體免疫疾病接受 methotrexate 治療。護理師應將下列哪些發現視為此藥物可能的嚴重不良反應？請選出所有適用項目。"},
+    "options": [
+      {"en": "Yellowing of the skin and sclera", "zh": "皮膚與眼白出現黃染"},
+      {"en": "Painful oral ulcers", "zh": "疼痛性口腔潰瘍"},
+      {"en": "Decreased urine output", "zh": "尿量減少"},
+      {"en": "Unusual bruising or petechiae", "zh": "不明原因的瘀傷或瘀點"},
+      {"en": "Increased appetite with weight gain", "zh": "食慾增加並體重增加"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Methotrexate can cause hepatic fibrosis and cirrhosis (jaundice), bone marrow suppression (bruising, petechiae), ulcerative stomatitis (oral ulcers), and renal damage (decreased urine output). Increased appetite and weight gain are not characteristic adverse effects of this medication.", "zh": "Methotrexate 可能引起肝纖維化與肝硬化（黃疸）、骨髓抑制（瘀傷、瘀點）、潰瘍性口腔炎（口腔潰瘍）以及腎損傷（尿量減少）。食慾增加與體重增加並非此藥物的典型不良反應。"},
+    "pdf_pages": [1033],
+    "tags": ["sata", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking mycophenolate mofetil after a kidney transplant makes several statements during a follow-up visit. Which statement indicates a need for further teaching?", "zh": "一名腎臟移植後服用 mycophenolate mofetil 的客戶於回診時表達了幾句話。下列哪一句顯示仍需要進一步衛教？"},
+    "options": [
+      {"en": "\"I will call my provider right away if I develop a fever.\"", "zh": "「如果我發燒，我會立即打電話給我的照護者。」"},
+      {"en": "\"I understand this medication increases my risk of infection and certain cancers like lymphoma.\"", "zh": "「我了解這個藥物會增加我感染和某些癌症（如淋巴瘤）的風險。」"},
+      {"en": "\"Since I feel well now, I can stop taking this medication on my own.\"", "zh": "「既然我現在感覺很好，我可以自己停藥。」"},
+      {"en": "\"I will keep all of my scheduled follow-up lab appointments.\"", "zh": "「我會準時出席所有安排好的追蹤檢驗。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Mycophenolate mofetil increases the risk of infection, sepsis, and malignancy (especially lymphoma), and causes neutropenia and GI effects. Stopping an immunosuppressant on one's own risks organ rejection and indicates a need for further teaching; the other statements reflect correct understanding.", "zh": "Mycophenolate mofetil 會增加感染、敗血症與惡性腫瘤（尤其是淋巴瘤）的風險，並引起嗜中性球減少與胃腸道症狀。自行停用免疫抑制劑有器官排斥的風險，顯示仍需進一步衛教；其他陳述則反映正確的理解。"},
+    "pdf_pages": [1033],
+    "tags": ["patient education", "evaluate outcomes"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigned to four clients. Which client should the nurse assess first?", "zh": "護理師被分配照顧四名客戶。護理師應優先評估哪一位客戶？"},
+    "options": [
+      {"en": "A client taking sulfamethoxazole/trimethoprim with mild redness after brief sun exposure", "zh": "服用 sulfamethoxazole/trimethoprim 的客戶，短暫曬太陽後有輕微發紅"},
+      {"en": "A client taking amikacin who reports new ringing in the ears and trouble hearing", "zh": "服用 amikacin 的客戶表示出現新的耳鳴與聽力困難"},
+      {"en": "A client taking fluconazole with a mild headache", "zh": "服用 fluconazole 的客戶有輕微頭痛"},
+      {"en": "A client taking fosamprenavir with altered taste sensation", "zh": "服用 fosamprenavir 的客戶出現味覺改變"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Aminoglycosides such as amikacin can cause ototoxicity, which may become permanent if the medication is not stopped promptly. New tinnitus and hearing loss require immediate assessment and provider notification. Mild photosensitivity, headache, and altered taste are expected, lower-priority adverse effects.", "zh": "Amikacin 等氨基糖苷類藥物可能引起耳毒性，若未及時停藥可能造成永久性損害。新發的耳鳴與聽力喪失需要立即評估並通知照護者。輕微光敏感、頭痛與味覺改變則屬預期、優先度較低的不良反應。"},
+    "pdf_pages": [1034],
+    "tags": ["priority", "analyze cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving IV ciprofloxacin reports sudden sharp pain and swelling just above the heel while walking in the hallway. What is the nurse's best action?", "zh": "一名接受 IV ciprofloxacin 的客戶在走廊行走時，突然出現腳跟上方劇烈疼痛並腫脹。護理師最佳的行動是什麼？"},
+    "options": [
+      {"en": "Apply ice to the area and encourage the client to continue walking", "zh": "於患處冰敷並鼓勵客戶繼續行走"},
+      {"en": "Have the client stop bearing weight on the leg and notify the primary health care provider", "zh": "讓客戶停止該側下肢負重並通知主要照護者"},
+      {"en": "Administer an as-needed analgesic and reassess in 2 hours", "zh": "給予必要時使用的止痛藥並於 2 小時後再評估"},
+      {"en": "Document the finding as a normal response to ambulation", "zh": "將此發現記錄為行走後的正常反應"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fluoroquinolones such as ciprofloxacin are associated with tendinopathy, including tendon rupture, most often involving the Achilles tendon. Sudden pain and swelling above the heel requires the client to stop weight-bearing immediately and prompt provider notification to prevent further injury; continuing to walk or simply treating pain could worsen a rupture.", "zh": "Ciprofloxacin 等氟喹諾酮類藥物與肌腱病變有關，包括肌腱斷裂，最常見於跟腱。腳跟上方突發疼痛與腫脹，須立即讓客戶該側下肢停止負重並盡快通知照護者，以避免進一步損傷；若繼續行走或僅處理疼痛，可能使斷裂惡化。"},
+    "pdf_pages": [1034],
+    "tags": ["red flag", "requires immediate action", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The primary health care provider prescribes an antimicrobial medication for a client. Before administering the first dose, what is the nurse's priority assessment?", "zh": "主要照護者為客戶開立抗微生物藥物處方。在給予第一劑之前，護理師的優先評估是什麼？"},
+    "options": [
+      {"en": "Assess the client for any known medication allergies", "zh": "評估客戶是否有已知的藥物過敏史"},
+      {"en": "Measure the client's intake and output for the past 8 hours", "zh": "測量客戶過去 8 小時的輸入輸出量"},
+      {"en": "Ask the client about dietary preferences", "zh": "詢問客戶的飲食偏好"},
+      {"en": "Determine the client's level of satisfaction with current pain control", "zh": "確認客戶對目前疼痛控制的滿意度"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Before administering any antimicrobial, the nurse's priority is to assess for allergies, since hypersensitivity reactions, including anaphylaxis, can occur with many antimicrobial classes (e.g., penicillins, sulfonamides). I&O monitoring, dietary needs, and pain control are important but come after confirming it is safe to give the medication.", "zh": "在給予任何抗微生物藥物之前，護理師的優先評估是確認是否有過敏史，因為許多抗微生物類別（如青黴素、磺胺類）皆可能引起過敏反應，包括過敏性休克。輸入輸出量監測、飲食需求與疼痛控制固然重要，但應在確認用藥安全之後再處理。"},
+    "pdf_pages": [1035],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A hospitalized client receiving ceftriaxone develops severe watery diarrhea. Which actions should the nurse include in the plan of care? Select all that apply.", "zh": "一名住院客戶接受 ceftriaxone 治療後出現嚴重水性腹瀉。護理師應將下列哪些行動納入照護計畫？請選出所有適用項目。"},
+    "options": [
+      {"en": "Place the client on contact precautions", "zh": "將客戶列入接觸隔離防護"},
+      {"en": "Encourage oral rehydration fluids and broth while limiting caffeine and sugary beverages", "zh": "鼓勵攝取口服補液液與清湯，並限制含咖啡因與含糖的飲料"},
+      {"en": "Give an over-the-counter antidiarrheal medication immediately without contacting the provider", "zh": "立即給予成藥止瀉劑，不需先聯絡照護者"},
+      {"en": "Monitor intake and output and assess for signs of fluid and electrolyte imbalance", "zh": "監測輸入輸出量並評估水分與電解質失衡的徵象"},
+      {"en": "Encourage fatty and spicy foods to stimulate appetite", "zh": "鼓勵攝取油膩與辛辣食物以刺激食慾"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Antibiotic-associated diarrhea can indicate pseudomembranous colitis (C. difficile). Appropriate care includes contact precautions, encouraging rehydration fluids while avoiding caffeine and high-sugar beverages, and monitoring for fluid/electrolyte imbalance. Antidiarrheal medications should only be used with a provider prescription since they can trap toxins and worsen the condition, and fatty/spicy foods would worsen diarrhea.", "zh": "抗生素相關性腹瀉可能提示偽膜性腸炎（C. difficile）。適當的照護包括接觸隔離防護、鼓勵補液並避免咖啡因與高糖飲料，以及監測水分/電解質失衡。止瀉藥物僅應依照護者處方使用，因其可能使毒素滯留而使病情惡化；油膩與辛辣食物則會使腹瀉加重。"},
+    "pdf_pages": [1035],
+    "tags": ["sata", "generate solutions", "infection control"]
+  }
+]

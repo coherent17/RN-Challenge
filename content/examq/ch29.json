@@ -1,0 +1,214 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in preterm labor is receiving intravenous magnesium sulfate. Which findings would indicate magnesium toxicity? Select all that apply.", "zh": "一位早產子宮收縮的產婦正接受靜脈注射硫酸鎂。下列哪些發現顯示鎂中毒?(請選出所有適用選項)"},
+    "options": [
+      {"en": "Respiratory rate of 10 breaths/minute", "zh": "呼吸速率10次/分"},
+      {"en": "Absent deep tendon reflexes", "zh": "深部肌腱反射消失"},
+      {"en": "Urine output of 20 mL in 1 hour", "zh": "1小時尿量20mL"},
+      {"en": "Serum magnesium level of 5 mEq/L (2.5 mmol/L)", "zh": "血清鎂濃度5 mEq/L(2.5 mmol/L)"},
+      {"en": "Flushing and extreme muscle weakness", "zh": "臉部潮紅及極度肌肉無力"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Magnesium toxicity presents with respiratory depression (respirations ≤12/minute), absent/depressed deep tendon reflexes, decreased urine output (<25-30 mL/hr), flushing, and extreme muscle weakness. A serum level of 5 mEq/L falls within the therapeutic range of 4 to 7.5 mEq/L and is not itself a sign of toxicity.", "zh": "鎂中毒表現為呼吸抑制(呼吸速率≤12次/分)、深部肌腱反射消失/抑制、尿量減少(<25-30mL/小時)、臉部潮紅及極度肌肉無力。血清鎂濃度5 mEq/L落在治療範圍4至7.5 mEq/L內,本身並非中毒徵象。"},
+    "pdf_pages": [426, 427],
+    "tags": ["sata", "magnesium sulfate", "toxicity", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving intravenous magnesium sulfate for preeclampsia has a respiratory rate of 10 breaths/minute and absent patellar reflexes. What is the nurse's first action?", "zh": "一位因子癲前症接受靜脈注射硫酸鎂的產婦,呼吸速率10次/分、膝反射消失。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Slow the infusion rate and recheck reflexes in 30 minutes", "zh": "減慢輸注速度,並於30分鐘後再次檢查反射"},
+      {"en": "Stop the magnesium sulfate infusion and prepare to administer calcium gluconate", "zh": "停止硫酸鎂輸注,並準備給予葡萄糖酸鈣"},
+      {"en": "Increase the intravenous fluid rate to flush the medication out faster", "zh": "增加靜脈輸液速度以加速沖洗藥物"},
+      {"en": "Reposition the client and reassess in 1 hour", "zh": "為產婦調整姿勢,並於1小時後再次評估"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A respiratory rate of 10 breaths/minute with absent reflexes indicates magnesium toxicity; the priority action is to stop the infusion immediately and prepare to administer calcium gluconate, the antidote, which should be readily accessible whenever magnesium sulfate is infusing. Slowing (not stopping) the infusion, increasing unrelated fluids, or simply repositioning and waiting delays essential treatment.", "zh": "呼吸速率10次/分合併反射消失代表鎂中毒;優先處理是立即停止輸注,並準備給予解毒劑葡萄糖酸鈣,此藥物應在硫酸鎂輸注期間隨時備妥。僅減慢(而非停止)輸注、增加不相關的輸液,或僅調整姿勢後等待,都會延誤必要的治療。"},
+    "pdf_pages": [426, 427],
+    "tags": ["first action", "antidote", "emergency"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is receiving an oxytocin infusion to induce labor. Before increasing the infusion rate per protocol, what should the nurse assess first?", "zh": "一位產婦正接受催產素輸注以引產。依照protocol增加輸注速率前,護理師應優先評估什麼?"},
+    "options": [
+      {"en": "Client's pain level using a numeric scale", "zh": "使用數字量表評估產婦的疼痛程度"},
+      {"en": "Uterine contraction pattern, resting tone, and fetal heart rate", "zh": "子宮收縮型態、靜止張力及胎心率"},
+      {"en": "Client's most recent oral intake", "zh": "產婦最近一次的口服攝取狀況"},
+      {"en": "Deep tendon reflexes", "zh": "深部肌腱反射"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Because oxytocin can cause uterine hyperstimulation and nonreassuring fetal heart rate patterns, the nurse must assess contraction frequency, duration, force, resting uterine tone, and fetal heart rate before each rate increase. Pain level, oral intake, and deep tendon reflexes (relevant to magnesium sulfate, not oxytocin) are not the priority assessments for this medication.", "zh": "由於催產素可能造成子宮過度刺激及胎心率型態不安,護理師在每次增加速率前須評估收縮的頻率、持續時間、強度、子宮靜止張力及胎心率。疼痛程度、口服攝取狀況,以及深部肌腱反射(與硫酸鎂相關而非催產素),並非此藥物的優先評估項目。"},
+    "pdf_pages": [428],
+    "tags": ["oxytocin", "monitoring", "reduction of risk"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving oxytocin for labor induction develops uterine tachysystole (14 contractions in 20 minutes) with a nonreassuring fetal heart rate pattern. Which actions should the nurse take? Select all that apply.", "zh": "一位接受催產素引產的產婦出現子宮過度收縮(20分鐘內14次收縮),合併胎心率型態不安。護理師應採取下列哪些行動?(請選出所有適用選項)"},
+    "options": [
+      {"en": "Stop the oxytocin infusion", "zh": "停止催產素輸注"},
+      {"en": "Turn the client onto her side", "zh": "將產婦轉向側臥"},
+      {"en": "Increase the rate of the intravenous solution that does not contain oxytocin", "zh": "增加不含催產素的靜脈輸液速度"},
+      {"en": "Administer oxygen via snug face mask", "zh": "以緊密面罩給予氧氣"},
+      {"en": "Increase the oxytocin rate to strengthen contractions and speed delivery", "zh": "增加催產素速率以加強收縮並加速分娩"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "When uterine hyperstimulation or a nonreassuring fetal heart rate occurs, the nurse stops the oxytocin, turns the client to her side to improve placental perfusion, increases the rate of the non-additive IV solution, administers oxygen by face mask, and notifies the PHCP. Increasing the oxytocin rate would worsen hyperstimulation and fetal compromise and is contraindicated.", "zh": "當發生子宮過度刺激或胎心率型態不安時,護理師須停止催產素、將產婦轉向側臥以改善胎盤灌流、增加不含藥物的靜脈輸液速度、以面罩給氧,並通報主要照護醫療提供者。增加催產素速率會使過度刺激及胎兒窘迫惡化,屬於禁忌。"},
+    "pdf_pages": [428, 429],
+    "tags": ["sata", "emergency", "oxytocin", "take action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in preterm labor is receiving nifedipine as a tocolytic. The nurse would question a prescription to also administer which medication concurrently?", "zh": "一位早產子宮收縮的產婦正接受硝苯地平作為子宮收縮抑制劑。護理師應對同時併用下列哪種藥物的處方提出質疑?"},
+    "options": [
+      {"en": "Betamethasone", "zh": "倍他米松(betamethasone)"},
+      {"en": "Magnesium sulfate", "zh": "硫酸鎂"},
+      {"en": "Acetaminophen", "zh": "乙醯胺酚(acetaminophen)"},
+      {"en": "Phytonadione", "zh": "phytonadione(維生素K)"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Nifedipine, a calcium channel blocker, relaxes smooth muscle; combining it with magnesium sulfate is avoided because severe hypotension can occur from the additive smooth-muscle-relaxing and vasodilatory effects of both medications. Betamethasone, acetaminophen, and phytonadione do not carry this specific interaction concern with nifedipine.", "zh": "硝苯地平為鈣離子通道阻斷劑,可放鬆平滑肌;與硫酸鎂併用應避免,因兩者皆具平滑肌放鬆及血管擴張作用,疊加後可能導致嚴重低血壓。倍他米松、乙醯胺酚及phytonadione則沒有與硝苯地平的這項特定交互作用顧慮。"},
+    "pdf_pages": [426],
+    "tags": ["tocolytics", "drug interaction", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client at 30 weeks' gestation in preterm labor is prescribed betamethasone. The nurse understands this medication is given for which purpose?", "zh": "一位妊娠30週、出現早產子宮收縮的產婦被開立倍他米松。護理師了解此藥物的給藥目的是什麼?"},
+    "options": [
+      {"en": "To stop uterine contractions directly", "zh": "直接停止子宮收縮"},
+      {"en": "To accelerate fetal lung maturity by increasing surfactant production", "zh": "透過增加表面張力素生成以加速胎兒肺部成熟"},
+      {"en": "To prevent maternal postpartum hemorrhage", "zh": "預防產後出血"},
+      {"en": "To treat maternal hypertension", "zh": "治療產婦高血壓"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Betamethasone is a corticosteroid given to a client in preterm labor between 28 and 32 weeks' gestation to increase surfactant production and accelerate fetal lung maturity, reducing the incidence or severity of respiratory distress syndrome. It is not a tocolytic, does not treat hypertension, and is unrelated to postpartum hemorrhage prevention.", "zh": "倍他米松是皮質類固醇,用於妊娠28至32週出現早產子宮收縮的產婦,以增加表面張力素生成、加速胎兒肺部成熟,降低呼吸窘迫症候群的發生率或嚴重度。它並非子宮收縮抑制劑,不治療高血壓,也與預防產後出血無關。"},
+    "pdf_pages": [427],
+    "tags": ["betamethasone", "fetal lung maturity", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in active labor receives an opioid analgesic. Which medication should the nurse ensure is readily available in case the client develops respiratory depression?", "zh": "一位正進入活動期產程的產婦接受類鴉片止痛劑。護理師應確保下列哪種藥物隨時備妥,以備產婦出現呼吸抑制?"},
+    "options": [
+      {"en": "Naloxone", "zh": "naloxone(鴉片類拮抗劑)"},
+      {"en": "Calcium gluconate", "zh": "葡萄糖酸鈣"},
+      {"en": "Betamethasone", "zh": "倍他米松"},
+      {"en": "Rho(D) immune globulin", "zh": "Rho(D)免疫球蛋白"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Naloxone is an opioid antagonist that rapidly reverses opioid toxicity, including respiratory depression, and should be readily accessible whenever an opioid analgesic is administered, especially if delivery is expected during peak absorption. Calcium gluconate is the magnesium sulfate antidote, betamethasone promotes fetal lung maturity, and Rho(D) immune globulin prevents Rh sensitization — none reverse opioid effects.", "zh": "naloxone是鴉片類拮抗劑,可迅速逆轉鴉片類藥物中毒(包括呼吸抑制),在給予類鴉片止痛劑時應隨時備妥,尤其若預期分娩會發生在藥物吸收高峰期。葡萄糖酸鈣是硫酸鎂的解毒劑、倍他米松促進胎兒肺部成熟、Rho(D)免疫球蛋白則預防Rh致敏——皆無法逆轉鴉片類藥物作用。"},
+    "pdf_pages": [427],
+    "tags": ["opioid", "antidote", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "An Rh-negative client who is unsensitized gives birth to an Rh-positive newborn. The nurse plans to administer Rho(D) immune globulin within which time frame after delivery?", "zh": "一位未致敏的Rh陰性產婦分娩出一名Rh陽性新生兒。護理師計劃於分娩後多久時間內給予Rho(D)免疫球蛋白?"},
+    "options": [
+      {"en": "Within 24 hours", "zh": "24小時內"},
+      {"en": "Within 72 hours", "zh": "72小時內"},
+      {"en": "Within 1 week", "zh": "1週內"},
+      {"en": "Within 1 month", "zh": "1個月內"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rho(D) immune globulin should be administered within 72 hours after delivery (or after any potential exposure to Rh-positive blood) to prevent formation of anti-Rh antibodies in an unsensitized Rh-negative client. It is contraindicated in Rh-positive clients and provides no benefit once a positive antibody titer has developed.", "zh": "Rho(D)免疫球蛋白應於分娩後(或任何可能暴露於Rh陽性血液後)72小時內給予,以預防未致敏的Rh陰性產婦形成anti-Rh抗體。此藥禁用於Rh陽性產婦,且一旦已產生陽性抗體效價,此藥便無效。"},
+    "pdf_pages": [429],
+    "tags": ["Rho(D) immune globulin", "timing", "medication safety"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A postpartum client who is nonimmune to rubella receives the rubella vaccine before discharge. Which instruction is most important for the nurse to provide?", "zh": "一位對德國麻疹無免疫力的產後產婦,於出院前接種德國麻疹疫苗。護理師最重要的衛教內容是什麼?"},
+    "options": [
+      {"en": "\"Avoid becoming pregnant for 1 to 3 months after this vaccine.\"", "zh": "「接種此疫苗後1至3個月內應避免懷孕。」"},
+      {"en": "\"You will need a booster dose in 2 weeks.\"", "zh": "「您將需要在2週後再接種一次追加劑量。」"},
+      {"en": "\"This vaccine will also protect your newborn from rubella.\"", "zh": "「這個疫苗也能保護您的新生兒免受德國麻疹感染。」"},
+      {"en": "\"You cannot breast-feed for 1 week after receiving this vaccine.\"", "zh": "「接種此疫苗後1週內不能哺乳。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Because the rubella vaccine is a live attenuated vaccine, the client should be instructed to avoid pregnancy for 1 to 3 months (or as prescribed) after vaccination and to use contraception during this time. A booster in 2 weeks is not indicated, the vaccine does not protect the already-born newborn, and breast-feeding is not contraindicated after rubella vaccination.", "zh": "由於德國麻疹疫苗為活性減毒疫苗,應指導產婦於接種後1至3個月內(或依醫囑)避免懷孕,並於此期間使用避孕方法。並不需要2週後追加劑量,此疫苗也無法保護已出生的新生兒,且接種德國麻疹疫苗後並不禁止哺乳。"},
+    "pdf_pages": [429],
+    "tags": ["rubella vaccine", "patient education", "health promotion"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nursing student is preparing to administer erythromycin ophthalmic ointment to a newborn's eyes. Which action by the student requires the nurse to intervene?", "zh": "一位護理學生正準備為新生兒雙眼投予紅黴素眼用藥膏。下列哪項學生的行動需要護理師介入?"},
+    "options": [
+      {"en": "Cleaning the newborn's eyes before instilling the ointment", "zh": "在投予藥膏前先清潔新生兒的眼睛"},
+      {"en": "Instilling a thin ribbon of ointment into each lower conjunctival sac", "zh": "在每側下結膜囊內投予一條細線狀藥膏"},
+      {"en": "Flushing the newborn's eyes with saline immediately after instillation", "zh": "在投予藥膏後立即以生理食鹽水沖洗新生兒的眼睛"},
+      {"en": "Administering the ointment within 1 hour after birth", "zh": "於出生後1小時內投予藥膏"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The eyes should not be flushed after instillation of erythromycin ointment because flushing would wash away the medication, reducing its prophylactic effectiveness against ophthalmia neonatorum. Cleaning the eyes first, instilling the ointment into the lower conjunctival sac, and administering it within the first hour (which may be delayed slightly to facilitate bonding) are correct actions.", "zh": "投予紅黴素藥膏後不應沖洗眼睛,因沖洗會將藥物洗去,降低其對新生兒淋病性結膜炎的預防效果。先清潔眼睛、將藥膏投予下結膜囊,以及於出生後第一小時內投予(可稍微延後以利親子聯結),皆為正確行動。"},
+    "pdf_pages": [430],
+    "tags": ["eye prophylaxis", "medication error", "evaluate outcomes"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The PHCP prescribes phytonadione 0.5 mg intramuscularly for a newborn. The medication is supplied as 1 mg/0.5 mL. How many milliliters should the nurse administer? (Fill in the blank.)", "zh": "醫療提供者開立phytonadione 0.5mg肌肉注射給新生兒。藥物濃度為1mg/0.5mL。護理師應給予多少毫升?(請填入答案)"},
+    "options": [
+      {"en": "0.25 mL", "zh": "0.25 mL"},
+      {"en": "0.5 mL", "zh": "0.5 mL"},
+      {"en": "0.75 mL", "zh": "0.75 mL"},
+      {"en": "1 mL", "zh": "1 mL"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Using the formula (desired dose/available dose) × volume: (0.5 mg/1 mg) × 0.5 mL = 0.25 mL. The nurse would administer 0.25 mL intramuscularly into the vastus lateralis muscle.", "zh": "使用公式(欲給劑量/可用劑量)×體積:(0.5mg/1mg)×0.5mL=0.25mL。護理師應於股外側肌肌肉注射0.25mL。"},
+    "pdf_pages": [431],
+    "tags": ["dosage calc", "phytonadione", "medication safety"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A PHCP prescribes oxytocin 4 milliunits (mU)/minute for labor induction. The infusion contains 30 units of oxytocin in 500 mL of 5% dextrose in water. How many milliliters per hour should the nurse set the infusion pump to deliver? (Fill in the blank.)", "zh": "醫療提供者開立催產素4毫單位(mU)/分鐘用於引產。輸液內含30單位催產素溶於500mL的5%葡萄糖溶液中。護理師應將輸液泵設定為每小時多少毫升?(請填入答案)"},
+    "options": [
+      {"en": "2 mL/hr", "zh": "2 mL/hr"},
+      {"en": "4 mL/hr", "zh": "4 mL/hr"},
+      {"en": "6 mL/hr", "zh": "6 mL/hr"},
+      {"en": "8 mL/hr", "zh": "8 mL/hr"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "30 units = 30,000 milliunits in 500 mL, so the solution contains 60 mU/mL (30,000/500). To deliver 4 mU/minute: 4 mU ÷ 60 mU/mL = 0.0667 mL/minute; 0.0667 mL/minute × 60 minutes = 4 mL/hr.", "zh": "30單位=30,000毫單位,溶於500mL中,故溶液濃度為60mU/mL(30,000/500)。欲給予4mU/分鐘:4mU÷60mU/mL=0.0667mL/分鐘;0.0667mL/分鐘×60分鐘=4mL/hr。"},
+    "pdf_pages": [429],
+    "tags": ["dosage calc", "oxytocin", "medication safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The PHCP prescribes carboprost tromethamine for a client with postpartum hemorrhage. Which finding in the client's history would cause the nurse to question this prescription?", "zh": "醫療提供者為一位產後出血的產婦開立carboprost tromethamine。病史中哪項發現會使護理師對此處方提出質疑?"},
+    "options": [
+      {"en": "History of asthma", "zh": "氣喘病史"},
+      {"en": "History of migraine headaches", "zh": "偏頭痛病史"},
+      {"en": "History of seasonal allergies", "zh": "季節性過敏病史"},
+      {"en": "History of mild anemia", "zh": "輕度貧血病史"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Carboprost tromethamine, a prostaglandin F2α used to contract the uterus and treat postpartum hemorrhage, is contraindicated in clients with asthma because it can cause bronchospasm. Migraine history, seasonal allergies, and mild anemia are not specific contraindications to this medication.", "zh": "carboprost tromethamine是前列腺素F2α,用於收縮子宮以治療產後出血,因可能引發支氣管痉挛,故禁用於有氣喘病史的產婦。偏頭痛病史、季節性過敏及輕度貧血並非此藥物的特定禁忌症。"},
+    "pdf_pages": [430],
+    "tags": ["carboprost", "contraindication", "medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with postpartum hemorrhage is prescribed methylergonovine. What is the nurse's priority assessment before administering this medication?", "zh": "一位產後出血的產婦被開立methylergonovine。護理師在給藥前的優先評估是什麼?"},
+    "options": [
+      {"en": "Blood pressure", "zh": "血壓"},
+      {"en": "Deep tendon reflexes", "zh": "深部肌腱反射"},
+      {"en": "Capillary blood glucose", "zh": "指尖血糖"},
+      {"en": "Oral temperature", "zh": "口溫"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Methylergonovine, an ergot alkaloid, causes vasoconstriction and can produce severe hypertension; it is contraindicated in clients with significant cardiovascular disease, peripheral vascular disease, or hypertension. The nurse must check the blood pressure before administration and notify the PHCP if hypertension is present, making this the priority assessment over reflexes, glucose, or temperature.", "zh": "methylergonovine為麥角生物鹼,會造成血管收縮,可能引發嚴重高血壓;禁用於有顯著心血管疾病、周邊血管疾病或高血壓的產婦。護理師給藥前須檢查血壓,若有高血壓須通報醫療提供者,這是優先於反射、血糖或體溫的評估項目。"},
+    "pdf_pages": [429, 430],
+    "tags": ["methylergonovine", "priority", "reduction of risk"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is caring for a client receiving an oxytocin infusion for labor induction. Which task is appropriate for the RN to delegate to a licensed practical nurse (LPN)?", "zh": "RN正照護一位接受催產素輸注引產的產婦。下列哪項任務適合RN委派給執照實務護士(LPN)?"},
+    "options": [
+      {"en": "Independently titrating the oxytocin infusion rate based on contraction pattern", "zh": "依收縮型態獨立調整催產素輸注速率"},
+      {"en": "Interpreting the fetal heart rate strip to decide whether to continue the infusion", "zh": "判讀胎心監測圖以決定是否繼續輸注"},
+      {"en": "Obtaining the client's blood pressure and pulse at a prescribed interval and reporting results to the RN", "zh": "依規定時間間隔測量產婦血壓及脈搏,並向RN報告結果"},
+      {"en": "Determining the priority nursing action if uterine tachysystole occurs", "zh": "決定若發生子宮過度收縮時的優先護理行動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Oxytocin is a high-alert medication; titrating the infusion rate, interpreting fetal heart rate patterns, and determining priority actions for complications require the clinical judgment of the RN and cannot be delegated. Obtaining vital signs at a prescribed interval and reporting the results to the RN is within the LPN's scope of practice.", "zh": "催產素屬高警訊藥物;調整輸注速率、判讀胎心率型態,以及決定併發症發生時的優先行動,皆需要RN的臨床判斷,不能委派。依規定時間測量生命徵象並向RN報告結果,則屬於LPN的執業範圍。"},
+    "pdf_pages": [428],
+    "tags": ["delegation", "management of care", "oxytocin"]
+  }
+]

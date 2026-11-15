@@ -1,0 +1,306 @@
+[
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is assessing a 5-year-old child newly diagnosed with acute lymphocytic leukemia (ALL). Which findings should the nurse expect as a direct result of bone marrow infiltration by leukemic blast cells? Select all that apply.",
+      "zh": "護理師正在評估一名剛被診斷為急性淋巴性白血病（ALL）的 5 歲孩童。下列哪些發現是白血病芽細胞浸潤骨髓所直接造成的？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Pallor and fatigue from decreased erythrocytes", "zh": "紅血球減少造成的臉色蒼白與疲倦"},
+      {"en": "Recurrent fever from neutropenia", "zh": "嗜中性白血球減少造成的反覆發燒"},
+      {"en": "Petechiae and easy bruising from thrombocytopenia", "zh": "血小板減少造成的瘀點與容易出現瘀傷"},
+      {"en": "Bone and joint pain from marrow expansion", "zh": "骨髓擴張造成的骨骼與關節疼痛"},
+      {"en": "Hepatosplenomegaly and lymphadenopathy", "zh": "肝脾腫大與淋巴結腫大"},
+      {"en": "An elevated hemoglobin and hematocrit", "zh": "血色素與血球容積比升高"}
+    ],
+    "answer": [0, 1, 2, 3, 4],
+    "rationale": {
+      "en": "Leukemic blast cells crowd the bone marrow, depressing production of erythrocytes (anemia/pallor/fatigue), normal neutrophils (infection/fever), and platelets (bleeding/petechiae); marrow expansion causes bone/joint pain, and leukemic infiltration causes hepatosplenomegaly and lymphadenopathy. Hemoglobin and hematocrit are decreased, not elevated, in leukemia.",
+      "zh": "白血病芽細胞擠滿骨髓，抑制紅血球生成（貧血／蒼白／疲倦）、正常嗜中性白血球生成（感染／發燒）及血小板生成（出血／瘀點）；骨髓擴張造成骨骼關節痛，白血病細胞浸潤則造成肝脾腫大與淋巴結腫大。白血病時血色素與血球容積比是降低，而非升高。"
+    },
+    "pdf_pages": [454, 455],
+    "tags": ["recognize cues", "sata", "pathophysiology"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A 6-year-old child with leukemia has an absolute neutrophil count (ANC) of 350/mm3 and is placed on neutropenic precautions. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "zh": "一名患有白血病的 6 歲孩童，絕對嗜中性白血球計數（ANC）為 350/mm3，正接受嗜中性白血球低下防護措施。護理師應將下列哪些措施納入照護計畫？請選出所有適用項目。"
+    },
+    "options": [
+      {"en": "Place the child in a private room and perform thorough hand hygiene before every contact", "zh": "安排孩童住單人房，每次接觸前皆徹底執行手部衛生"},
+      {"en": "Remove fresh flowers and standing water from the child's room", "zh": "移除病室內的新鮮花束及任何靜置的水"},
+      {"en": "Offer a tray that includes a fresh salad with raw vegetables to encourage the child to eat", "zh": "提供含生鮮蔬菜沙拉的餐盤以鼓勵孩童進食"},
+      {"en": "Avoid rectal temperatures and rectal suppositories", "zh": "避免肛溫測量及肛門栓劑"},
+      {"en": "Administer the varicella vaccine that is due on the child's immunization schedule", "zh": "依預防接種時程施打應打的水痘疫苗"},
+      {"en": "Notify the primary health care provider immediately if the child's temperature rises", "zh": "若孩童體溫上升，立即通知主要照護醫師"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "Neutropenic precautions include a private room, strict hand hygiene, removing fresh flowers/standing water and raw fruits/vegetables (sources of Aspergillus, Pseudomonas, and mold), avoiding invasive procedures such as rectal temperatures/suppositories, and prompt notification of fever. Live-virus vaccines, including varicella, are withheld in an immunosuppressed child because the attenuated virus can cause life-threatening infection.",
+      "zh": "嗜中性白血球低下防護措施包括單人房、嚴格手部衛生、移除新鮮花束／靜置水及生鮮水果蔬菜（可能帶有麴菌、綠膿桿菌與黴菌）、避免侵入性處置如肛溫與肛門栓劑，並於發燒時立即通知。免疫力低下的孩童應暫緩活性病毒疫苗（包括水痘疫苗），因減毒病毒可能造成致命感染。"
+    },
+    "pdf_pages": [455],
+    "tags": ["sata", "neutropenic precautions", "take action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "The parent of a child with leukemia and a platelet count of 22,000/mm3 (22 x 10^9/L) asks the nurse which over-the-counter medication can be given for a headache. Which response by the nurse is most appropriate?",
+      "zh": "一名白血病孩童的血小板計數為 22,000/mm3（22 x 10^9/L），家長詢問護理師頭痛時可以服用哪種非處方藥。護理師最適當的回應是什麼？"
+    },
+    "options": [
+      {"en": "\"You can give the children's ibuprofen you have at home.\"", "zh": "「可以給家裡的兒童用 ibuprofen（布洛芬）。」"},
+      {"en": "\"Low-dose aspirin is safe for occasional headaches.\"", "zh": "「低劑量阿斯匹靈偶爾用來止頭痛是安全的。」"},
+      {"en": "\"Give acetaminophen for the headache, and avoid aspirin and NSAIDs such as ibuprofen.\"", "zh": "「頭痛可給予 acetaminophen（乙醯胺酚），並避免使用阿斯匹靈與 ibuprofen 等非類固醇消炎止痛藥。」"},
+      {"en": "\"Any weight-based dose of an over-the-counter pain reliever is acceptable.\"", "zh": "「任何依體重計算劑量的非處方止痛藥都可以使用。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "A platelet count of 22,000/mm3 places the child at high risk for bleeding. Aspirin and NSAIDs (including ibuprofen) inhibit platelet function and increase bleeding risk and are avoided; acetaminophen does not affect platelet function and is the appropriate choice.",
+      "zh": "血小板計數 22,000/mm3 使孩童處於高出血風險。阿斯匹靈與 NSAIDs（包括 ibuprofen）會抑制血小板功能並增加出血風險，應避免使用；acetaminophen 不影響血小板功能，為合適的選擇。"
+    },
+    "pdf_pages": [455, 456],
+    "tags": ["pharmacology", "bleeding precautions"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A child with leukemia who is neutropenic develops a temperature of 38.6°C (101.5°F). Which action should the nurse take first?",
+      "zh": "一名患有白血病且嗜中性白血球低下的孩童體溫升至 38.6°C（101.5°F）。護理師應優先採取的行動是什麼？"
+    },
+    "options": [
+      {"en": "Administer the prescribed antipyretic and recheck the temperature in 1 hour", "zh": "給予醫囑中的退熱藥物，1 小時後再測體溫"},
+      {"en": "Obtain blood and urine cultures and a CBC with differential before antibiotics are started", "zh": "在開始使用抗生素前，先採集血液與尿液培養及含分類的全血球計數（CBC with differential）"},
+      {"en": "Apply a cooling blanket to lower the temperature", "zh": "使用降溫毯以降低體溫"},
+      {"en": "Reassure the family that low-grade fever is an expected effect of chemotherapy and continue routine monitoring", "zh": "安撫家屬發燒是化療的常見反應，並維持常規監測即可"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Fever in a neutropenic child with cancer is treated as a medical emergency because of the risk of overwhelming, rapidly progressing infection. Cultures and a CBC with differential are obtained first so that antibiotic therapy can be targeted, and empiric antibiotics are then started promptly; fever is never dismissed as expected in this population.",
+      "zh": "癌症孩童於嗜中性白血球低下時發燒須視為醫療急症，因有爆發性快速進展感染的風險。應先採集培養與含分類的 CBC，以便後續選用對症抗生素，並隨即開始經驗性抗生素治療；在此族群中發燒絕不能被視為理所當然而忽視。"
+    },
+    "pdf_pages": [455],
+    "tags": ["priority", "take action", "red flag"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "The nurse is caring for a child recovering from a nephrectomy for Wilms' tumor. Which task is most appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+      "zh": "護理師照護一名因 Wilms 腫瘤接受腎切除術後恢復中的孩童。下列哪項任務最適合委派給無照護理佐理人員（UAP）執行？"
+    },
+    "options": [
+      {"en": "Measuring the abdominal girth at the marked level and reporting the number to the nurse", "zh": "於標記位置測量腹圍並將數值回報給護理師"},
+      {"en": "Auscultating and interpreting bowel sounds for return of gastrointestinal function", "zh": "聽診並判讀腸音以評估胃腸功能恢復情況"},
+      {"en": "Gently palpating the abdomen to check whether a mass is still present", "zh": "輕輕觸診腹部以檢查腫塊是否仍存在"},
+      {"en": "Determining whether the hourly urine output meets the minimum acceptable level", "zh": "判斷每小時尿量是否達到最低可接受標準"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Obtaining a routine, non-interpretive measurement such as abdominal girth and reporting the raw number is within the scope of a UAP. Interpreting bowel sounds and judging the adequacy of urine output require nursing assessment and clinical judgment. Palpating the abdomen is contraindicated for anyone caring for a child with Wilms' tumor because manipulation risks rupturing the encapsulated tumor and seeding cancer cells.",
+      "zh": "測量腹圍等常規、不需判讀的數值測量並回報原始數字屬於 UAP 的職責範圍。判讀腸音與判斷尿量是否足夠需要護理評估與臨床判斷。對任何照護 Wilms 腫瘤孩童的人員而言，觸診腹部都是禁忌，因操作可能使包膜內腫瘤破裂並造成癌細胞擴散。"
+    },
+    "pdf_pages": [458],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A 3-year-old is admitted with a suspected diagnosis of Wilms' tumor after the parent reports noticing a firm, nontender abdominal mass while bathing the child. Which nursing action is the priority?",
+      "zh": "一名 3 歲孩童因家長在幫孩子洗澡時發現腹部有一硬且不痛的腫塊而入院，疑似 Wilms 腫瘤。護理師的優先措施是什麼？"
+    },
+    "options": [
+      {"en": "Palpate the abdomen each shift to monitor the size of the mass", "zh": "每班觸診腹部以監測腫塊大小"},
+      {"en": "Post a sign at the bedside indicating that the abdomen is not to be palpated", "zh": "於床旁張貼標示，告知不可觸診腹部"},
+      {"en": "Encourage increased oral fluid intake to help flush the kidneys", "zh": "鼓勵增加口服水分攝取以沖洗腎臟"},
+      {"en": "Obtain a stool sample to rule out a gastrointestinal cause of the mass", "zh": "採集糞便樣本以排除腹部腫塊為胃腸道原因"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A sign is posted and all staff and family are alerted not to palpate the abdomen; excessive manipulation of the encapsulated Wilms' tumor can cause seeding of cancer cells throughout the abdomen, lymphatic system, and bloodstream. Palpation is therefore avoided by everyone, not just performed less often.",
+      "zh": "應張貼標示並告知所有工作人員與家屬不可觸診腹部；過度操作包膜內的 Wilms 腫瘤可能造成癌細胞散佈至腹腔、淋巴系統及血流中。因此所有人都應避免觸診，而不只是減少觸診次數。"
+    },
+    "pdf_pages": [457, 458],
+    "tags": ["priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "Which combination of findings in a 12-year-old should lead the nurse to suspect Hodgkin's disease rather than a routine viral upper respiratory infection?",
+      "zh": "一名 12 歲孩童出現下列哪組發現，應使護理師懷疑是何杰金氏病而非單純病毒性上呼吸道感染？"
+    },
+    "options": [
+      {"en": "Painless, firm, movable lymphadenopathy in the cervical/supraclavicular area with night sweats and a 4-lb (1.8-kg) weight loss over one month", "zh": "頸部／鎖骨上區出現無痛、質硬、可移動的淋巴結腫大，合併夜間盜汗及一個月內體重減輕 4 磅（1.8 公斤）"},
+      {"en": "Tender, warm, mobile cervical nodes with a sore throat for 3 days", "zh": "頸部淋巴結壓痛、溫熱且可移動，合併喉痛 3 天"},
+      {"en": "Bilateral parotid gland swelling with fever for 2 days", "zh": "雙側腮腺腫脹合併發燒 2 天"},
+      {"en": "Generalized urticaria and pruritus after using a new laundry detergent", "zh": "更換新洗衣精後出現全身性蕁麻疹與搔癢"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Hodgkin's disease classically presents with painless, firm, nontender, movable lymphadenopathy (often first noted near the left clavicle) plus systemic symptoms such as low-grade fever, night sweats, weight loss, and pruritus. Tender, warm nodes with a sore throat suggest reactive lymphadenitis from infection, and parotid swelling or an allergic rash suggest other diagnoses entirely.",
+      "zh": "何杰金氏病典型表現為無痛、質硬、不壓痛且可移動的淋巴結腫大（常先於左鎖骨附近發現），並伴有低度發燒、夜間盜汗、體重減輕及搔癢等全身症狀。壓痛、溫熱的淋巴結合併喉痛則提示感染造成的反應性淋巴結炎，腮腺腫脹或過敏性皮疹則完全指向其他診斷。"
+    },
+    "pdf_pages": [457],
+    "tags": ["recognize cues", "differentiation"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching the parent of a child receiving chemotherapy for leukemia about infection prevention at school. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師向一名接受白血病化療孩童的家長衛教學校感染預防措施。家長的哪句話顯示需要再加強教育？"
+    },
+    "options": [
+      {"en": "\"I will ask the teacher to tell me right away if another child in the class comes down with a communicable disease.\"", "zh": "「我會請老師，如果班上有其他孩子得了傳染病要馬上告訴我。」"},
+      {"en": "\"I will make sure the school knows my child cannot receive the live measles-mumps-rubella vaccine right now.\"", "zh": "「我會讓學校知道我的孩子現在不能接種活性的麻疹腮腺炎德國麻疹混合疫苗。」"},
+      {"en": "\"Since my child was already vaccinated against chickenpox before diagnosis, there's no reason to worry about exposure now.\"", "zh": "「因為我的孩子在確診前就已經打過水痘疫苗，現在接觸到水痘就不用擔心了。」"},
+      {"en": "\"I will keep my child away from large crowds and classmates who are obviously sick.\"", "zh": "「我會讓孩子遠離人多的場合及明顯生病的同學。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "An immunosuppressed child remains susceptible to serious infection from exposures regardless of prior vaccination status, because chemotherapy can blunt immune protection; the family needs to continue precautions and notify the provider of exposures even after prior varicella vaccination. The other statements reflect correct infection-prevention teaching.",
+      "zh": "免疫力低下的孩童，無論先前是否已接種疫苗，接觸時仍有感染嚴重疾病的風險，因化療會削弱免疫保護力；即使先前已接種水痘疫苗，家庭仍需持續採取防護措施並於暴露時通知醫療團隊。其餘陳述皆反映正確的感染預防衛教內容。"
+    },
+    "pdf_pages": [455],
+    "tags": ["evaluate outcomes", "teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A toddler is being evaluated for a possible neuroblastoma. Which finding is most consistent with this diagnosis rather than Wilms' tumor?",
+      "zh": "一名學步期孩童正接受神經母細胞瘤的評估。下列哪項發現較符合此診斷而非 Wilms 腫瘤？"
+    },
+    "options": [
+      {"en": "A firm, nontender, irregular abdominal mass that crosses the midline", "zh": "質硬、不壓痛、不規則且跨越腹部中線的腫塊"},
+      {"en": "A firm, nontender mass confined to one flank that does not cross the midline", "zh": "質硬、不壓痛的腫塊，侵限於單側腰腹且不跨越中線"},
+      {"en": "Painless, isolated hematuria with no palpable mass", "zh": "無痛性、單獨出現的血尿但無可觸及腫塊"},
+      {"en": "Bilateral pitting edema of the lower extremities", "zh": "雙側下肢凹陷性水腫"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A neuroblastoma classically presents as a firm, nontender, irregular mass that crosses the midline, reflecting its origin from the adrenal gland or sympathetic chain. Wilms' tumor, by contrast, is characteristically confined to one side, deep within the flank, and does not cross the midline.",
+      "zh": "神經母細胞瘤典型表現為質硬、不壓痛、不規則且跨越腹部中線的腫塊，反映其源自腎上腺或交感神經鏈。相對地，Wilms 腫瘤典型特徵是侵限於單側、深藏於腰腹部，且不跨越中線。"
+    },
+    "pdf_pages": [458, 459],
+    "tags": ["analyze cues", "differentiation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "Which urine study would the nurse expect to be ordered to help confirm a diagnosis of neuroblastoma?",
+      "zh": "護理師會預期開立哪項尿液檢查以協助確診神經母細胞瘤？"
+    },
+    "options": [
+      {"en": "Urine vanillylmandelic acid (VMA) and homovanillic acid (HVA) levels", "zh": "尿液香草基杏仁酸（VMA）與高香草酸（HVA）濃度"},
+      {"en": "24-hour urine creatinine clearance", "zh": "24 小時尿液肌酸酐清除率"},
+      {"en": "Urine culture and sensitivity", "zh": "尿液培養及藥物敏感性試驗"},
+      {"en": "Urine osmolality", "zh": "尿液滲透壓"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Neuroblastoma cells secrete catecholamines; their breakdown products, vanillylmandelic acid and homovanillic acid, are elevated in the urine and are used to detect the tumor and monitor response to treatment.",
+      "zh": "神經母細胞瘤細胞會分泌兒茶酚胺；其代謝產物香草基杏仁酸與高香草酸會於尿液中升高，可用以偵測腫瘤及監測治療反應。"
+    },
+    "pdf_pages": [458],
+    "tags": ["diagnostics"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "A 14-year-old with suspected osteosarcoma of the distal femur reports leg pain. Which characteristic of the pain is most typical of this diagnosis?",
+      "zh": "一名疑似股骨遠端骨肉瘤的 14 歲青少年抱怨腿痛。下列哪種疼痛特性最符合此診斷？"
+    },
+    "options": [
+      {"en": "Pain that is sharp and constant and worsens when the limb is flexed", "zh": "疼痛銳利且持續，肢體彎曲時加劇"},
+      {"en": "Pain that is dull or intermittently severe, often first attributed to growing pains, and eased somewhat by keeping the limb in a flexed position", "zh": "疼痛呈鈍痛或間歇性劇痛，初期常被認為是生長痛，將肢體維持彎曲姿勢可稍微緩解"},
+      {"en": "Pain only with weight-bearing that resolves completely with rest and elevation", "zh": "僅於承重時疼痛，休息並抬高肢體後完全緩解"},
+      {"en": "Burning pain that radiates in a dermatomal pattern", "zh": "灼熱性疼痛，沿皮節分布放射"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Early osteosarcoma pain is often dull or intermittently severe and is commonly mistaken for extremity injury or normal growing pains; it is frequently relieved somewhat by a flexed position. This insidious presentation is why diagnosis is often delayed.",
+      "zh": "骨肉瘤早期疼痛常為鈍痛或間歇性劇痛，常被誤認為肢體受傷或正常生長痛；維持彎曲姿勢通常可稍微緩解。這種隱匿性的表現也是診斷常被延誤的原因。"
+    },
+    "pdf_pages": [459, 460],
+    "tags": ["recognize cues", "comfort"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "An adolescent is scheduled for a limb amputation to treat osteosarcoma. Which statement by the adolescent is most important for the nurse to address before surgery?",
+      "zh": "一名青少年即將接受截肢手術以治療骨肉瘤。手術前，護理師最需要優先處理下列哪句話？"
+    },
+    "options": [
+      {"en": "\"I'm worried about how I'll look at school after this.\"", "zh": "「我很擔心手術後在學校的樣子會被怎麼看。」"},
+      {"en": "\"I know I might still feel like my leg is there even after it's gone.\"", "zh": "「我知道就算腿沒了，我可能還是會感覺它在那裡。」"},
+      {"en": "\"I'm scared I won't be able to play my sport again.\"", "zh": "「我很害怕以後不能再打我的球類運動了。」"},
+      {"en": "\"I don't want to go through with this surgery; I'd rather just live with the pain.\"", "zh": "「我不想做這個手術，我寧可忍痛過日子就好。」"}
+    ],
+    "answer": [3],
+    "rationale": {
+      "en": "Concerns about body image, anticipation of phantom limb sensation, and grief about activity loss are expected reactions that the nurse supports with honest communication and teaching. A statement reflecting refusal of a potentially life-saving treatment requires immediate, in-depth exploration of the adolescent's understanding, fears, and coping before proceeding further.",
+      "zh": "對外觀的擔心、對幻肢感的預期，以及對活動喪失的哀傷都是可預期的反應，護理師可透過誠實溝通與衛教加以支持。而拒絕可能具救命意義之治療的陳述，則需要在進一步處理前，立即且深入地探討該青少年的理解程度、恐懼與應對方式。"
+    },
+    "pdf_pages": [459, 460],
+    "tags": ["therapeutic communication", "priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse notes clear, colorless drainage soaking through a child's head dressing on the second postoperative day after removal of a brain tumor. What is the nurse's priority action?",
+      "zh": "一名孩童於腦瘤切除術後第二天，護理師發現其頭部敷料滲出清澈無色的液體。護理師的優先措施是什麼？"
+    },
+    "options": [
+      {"en": "Reinforce the dressing and document the amount of drainage", "zh": "加強敷料並記錄滲液量"},
+      {"en": "Test the drainage for the presence of glucose and notify the surgeon immediately", "zh": "檢測滲液中是否含有葡萄糖，並立即通知外科醫師"},
+      {"en": "Apply firm, direct pressure over the site to stop the drainage", "zh": "於滲液處施加穩定直接的壓力以止住滲液"},
+      {"en": "Continue routine monitoring, since scant serosanguineous drainage is expected at this stage", "zh": "維持常規監測，因此階段少量血清樣滲液屬預期現象"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Colorless drainage on a postcraniotomy dressing or from the nose or ears suggests cerebrospinal fluid leakage. The nurse checks for glucose in the drainage (CSF is positive for glucose, unlike normal nasal/ear secretions) and reports the finding to the surgeon immediately because of the risk for meningitis and the need for intervention; the dressing is not changed or reinforced without a specific prescription.",
+      "zh": "顱骨切開術後敷料、鼻腔或耳部出現無色滲液，提示腦脊髓液滲漏。護理師應檢測滲液中是否含有葡萄糖（腦脊髓液葡萄糖檢測呈陽性，不同於一般鼻／耳分泌物），並立即將發現回報外科醫師，因有腦膜炎風險並需要進一步處置；未經特定醫囑不可更換或加強敷料。"
+    },
+    "pdf_pages": [460, 461],
+    "tags": ["red flag", "take action", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is orienting a new graduate nurse to the care of children after a supratentorial craniotomy. Which statement by the new nurse indicates correct understanding of postoperative positioning?",
+      "zh": "護理師正在訓練一名新進護理師，教導其照護幕上（supratentorial）顱骨切開術後孩童。新進護理師的哪句話顯示其對術後姿位擺位有正確理解？"
+    },
+    "options": [
+      {"en": "\"I will keep the head of the bed flat to prevent cerebrospinal fluid leakage.\"", "zh": "「我會讓床頭保持平躺，以預防腦脊髓液滲漏。」"},
+      {"en": "\"I will elevate the head of the bed above heart level unless the surgeon prescribes otherwise.\"", "zh": "「除非外科醫師另有醫囑，我會將床頭抬高至高於心臟的位置。」"},
+      {"en": "\"I will place the child in Trendelenburg's position if the blood pressure drops.\"", "zh": "「如果血壓下降，我會讓孩童採頭低腳高（Trendelenburg）姿位。」"},
+      {"en": "\"I will position the child on the operative side so the brain can settle into place.\"", "zh": "「我會讓孩童側躺在手術側，使腦部能定位。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "After a supratentorial craniotomy, the head of the bed is usually elevated above heart level to facilitate cerebrospinal fluid drainage and decrease blood flow to the brain, reducing the risk of hemorrhage. The child is never placed in Trendelenburg's position, which increases intracranial pressure, and is not positioned on the operative side if a large tumor was removed, because the brain may shift suddenly into that cavity.",
+      "zh": "幕上顱骨切開術後，通常將床頭抬高至高於心臟水平，以利腦脊髓液引流並減少腦部血流，降低出血風險。絕不可讓孩童採頭低腳高姿位，因會增加顱內壓；若切除大型腫瘤，也不應讓孩童側躺於手術側，因腦部可能突然移位至該腔室。"
+    },
+    "pdf_pages": [460, 461],
+    "tags": ["take action", "evaluate outcomes"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A child's complete blood count shows a WBC count of 2000/mm3, with 10% segmented neutrophils and 5% bands. Using the formula ANC = WBC x (% segs + % bands), what is this child's absolute neutrophil count (ANC), and what precaution level does it indicate?",
+      "zh": "一名孩童的全血球計數顯示白血球計數為 2000/mm3，分葉嗜中性白血球佔 10%、帶狀核球佔 5%。依公式 ANC = 白血球計數 x（分葉％ + 帶狀核％），此孩童的絕對嗜中性白血球計數（ANC）為多少，代表何種防護等級？"
+    },
+    "options": [
+      {"en": "ANC 300/mm3 — severe neutropenia requiring strict neutropenic precautions", "zh": "ANC 300/mm3 — 嚴重嗜中性白血球低下，需嚴格執行嗜中性白血球低下防護措施"},
+      {"en": "ANC 1500/mm3 — mild neutropenia; standard precautions are sufficient", "zh": "ANC 1500/mm3 — 輕度嗜中性白血球低下，標準防護措施即足夠"},
+      {"en": "ANC 300/mm3 — this value is within normal limits and no precautions are needed", "zh": "ANC 300/mm3 — 此數值在正常範圍內，不需任何防護措施"},
+      {"en": "ANC 3000/mm3 — this value is within normal limits", "zh": "ANC 3000/mm3 — 此數值在正常範圍內"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "ANC = 2000 x (0.10 + 0.05) = 2000 x 0.15 = 300/mm3. An ANC below 500/mm3 indicates severe neutropenia and places the child at very high risk for life-threatening infection, requiring strict neutropenic precautions.",
+      "zh": "ANC = 2000 x（0.10 + 0.05）= 2000 x 0.15 = 300/mm3。ANC 低於 500/mm3 代表嚴重嗜中性白血球低下，使孩童面臨極高的致命感染風險，須採取嚴格的嗜中性白血球低下防護措施。"
+    },
+    "pdf_pages": [454, 456],
+    "tags": ["dosage calc", "analyze cues"]
+  }
+]

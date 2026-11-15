@@ -1,0 +1,258 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse reviews the morning assessment data for a client in the oliguric phase of acute kidney injury. Which finding requires the most immediate intervention?", "zh": "護理師查閱急性腎損傷寡尿期病人的晨間評估資料。下列哪一項發現最需要立即處理？"},
+    "options": [
+      {"en": "Urine output of 250 mL over the past 24 hours", "zh": "過去24小時尿量250 mL"},
+      {"en": "Serum potassium 6.8 mEq/L (6.8 mmol/L) with new peaked T waves on the cardiac monitor", "zh": "血清鉀6.8 mEq/L（6.8 mmol/L），心電監視器出現新的高尖T波"},
+      {"en": "Serum creatinine rising from 2.1 to 2.4 mg/dL since yesterday", "zh": "血清肌酸酐自昨日2.1上升至2.4 mg/dL"},
+      {"en": "Mild bilateral ankle edema with a 1-lb (0.45-kg) weight gain since yesterday", "zh": "雙側腳踝輕度水腫，體重較昨日增加1磅（0.45公斤）"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A potassium level of 6.8 mEq/L with peaked T waves indicates hyperkalemia that is already affecting cardiac conduction and can progress rapidly to lethal dysrhythmias or asystole; this requires immediate action (cardiac monitoring, medications to shift or remove potassium). Low urine output, a gradually rising creatinine, and mild fluid retention are expected findings during the oliguric phase that require ongoing monitoring but are not immediately life-threatening.", "zh": "血鉀6.8 mEq/L合併高尖T波，顯示高血鉀已影響心臟傳導，可能快速惡化為致命性心律不整或心跳停止，需立即處理（心臟監測、使用降鉀或移除鉀的藥物）。尿量減少、肌酸酐緩慢上升及輕度水腫是寡尿期的預期表現，需持續監測但非立即威脅生命。"},
+    "pdf_pages": [867, 868],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client's laboratory report shows an estimated glomerular filtration rate (GFR) of 28 mL/min that has persisted for several months. Based on the staging criteria for chronic kidney disease, the nurse recognizes this value is consistent with which stage?", "zh": "病人的腎絲球過濾率（GFR）報告顯示為28 mL/分，且已持續數個月。依慢性腎臟病分期標準，護理師認為此數值符合哪一期？"},
+    "options": [
+      {"en": "Mild chronic kidney disease", "zh": "輕度慢性腎臟病"},
+      {"en": "Moderate chronic kidney disease", "zh": "中度慢性腎臟病"},
+      {"en": "Severe chronic kidney disease", "zh": "重度慢性腎臟病"},
+      {"en": "End-stage renal disease", "zh": "末期腎臟病"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A GFR of 15-29 mL/min sustained over time is classified as severe chronic kidney disease. Mild CKD is 60-89 mL/min, moderate CKD is 30-59 mL/min, and ESRD is less than 15 mL/min.", "zh": "持續性GFR在15-29 mL/分屬於重度慢性腎臟病。輕度CKD為60-89 mL/分，中度CKD為30-59 mL/分，末期腎臟病則小於15 mL/分。"},
+    "pdf_pages": [869],
+    "tags": ["labs", "staging"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Two hours into a client's first hemodialysis treatment, the client reports a headache and nausea and becomes increasingly restless. What should the nurse do first?", "zh": "病人第一次接受血液透析進行兩小時後，主訴頭痛、噁心並逐漸變得躁動不安。護理師應先採取何種行動？"},
+    "options": [
+      {"en": "Reassure the client that these symptoms are expected during the first few dialysis treatments", "zh": "安慰病人這些症狀在前幾次透析是常見的"},
+      {"en": "Notify the primary health care provider (PHCP)", "zh": "通知主治醫師"},
+      {"en": "Elevate the head of the bed and recheck the vital signs", "zh": "抬高床頭並重新測量生命徵象"},
+      {"en": "Ask the client to describe the pain and continue the treatment as scheduled", "zh": "請病人描述疼痛情形並依原計畫繼續治療"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Headache, nausea, and restlessness early in a client's first dialysis treatments are classic early signs of disequilibrium syndrome, caused by cerebral edema from the rapid removal of solutes. Because this can progress to seizures and increasing intracranial pressure, the PHCP must be notified promptly so that the dialysis rate can be adjusted or the treatment stopped and appropriate medications given. Monitoring vital signs and positioning are appropriate supporting actions but should not delay notification.", "zh": "病人在初次透析時出現頭痛、噁心及躁動，是透析失衡症候群的典型早期徵象，因快速移除溶質造成腦水腫所致。此情況可能惡化為癲癇及顱內壓升高，故須立即通知主治醫師以調整透析速率或停止治療並給予適當藥物。監測生命徵象與擺位雖為適當輔助措施，但不應延誤通報。"},
+    "pdf_pages": [876],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is planning morning care for a client who has a left forearm arteriovenous fistula used for hemodialysis. Which task is safe to delegate to unlicensed assistive personnel (UAP)?", "zh": "護理師為一位左前臂有動靜脈瘻管（用於血液透析）的病人規劃晨間照護。下列哪一項工作可安全授權給無照護理輔助人員（UAP）執行？"},
+    "options": [
+      {"en": "Measuring the client's blood pressure using the left arm every 4 hours", "zh": "每4小時以左手臂測量血壓"},
+      {"en": "Assisting the client with bathing while keeping the fistula arm dry and avoiding pressure on it", "zh": "協助病人沐浴，同時保持瘻管手臂乾燥並避免受壓"},
+      {"en": "Drawing a blood specimen from the fistula for the morning laboratory tests", "zh": "從瘻管抽取血液標本送晨間檢驗"},
+      {"en": "Auscultating the fistula for a bruit before breakfast", "zh": "早餐前聽診瘻管有無雜音"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The fistula arm must never be used for blood pressure measurement, venipuncture, or injections because this can occlude or damage the access; those actions, along with assessing for a bruit/thrill, require nursing judgment. Assisting with bathing while protecting the fistula arm from pressure or wetness is a basic care task appropriate to delegate, as long as the UAP is instructed on the precaution.", "zh": "瘻管手臂絕不可用於測量血壓、抽血或注射，以免阻塞或損傷通路；這些操作及聽診雜音/觸診震顫均需護理專業判斷。協助沐浴並保護瘻管手臂避免受壓或潮濕屬於基本照護，只要已告知UAP相關注意事項即可授權。"},
+    "pdf_pages": [875],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "During a continuous ambulatory peritoneal dialysis (CAPD) exchange, the nurse notes that the client's outflow is cloudy and the client reports new abdominal tenderness. What is the nurse's priority action?", "zh": "進行連續可攜式腹膜透析（CAPD）換液時，護理師發現病人流出液呈混濁狀，且病人主訴新發腹部壓痛。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Document the finding and proceed with the next exchange as scheduled", "zh": "記錄此發現並依原計畫進行下一次換液"},
+      {"en": "Warm the next bag of dialysate before infusing it", "zh": "將下一袋透析液加溫後再輸入"},
+      {"en": "Obtain a sample of the outflow for culture and sensitivity and notify the PHCP", "zh": "採集流出液標本送培養及藥敏檢驗，並通知主治醫師"},
+      {"en": "Increase the infusion rate to flush the catheter", "zh": "加快輸注速度以沖洗導管"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Cloudy or opaque outflow accompanied by abdominal tenderness is an early sign of peritonitis, a serious complication of peritoneal dialysis. The nurse should obtain the outflow specimen for culture to identify the organism and notify the PHCP promptly so that antibiotic therapy can be started. Continuing as scheduled, warming the dialysate, or increasing the infusion rate does not address the suspected infection.", "zh": "流出液混濁合併腹部壓痛是腹膜炎的早期徵象，是腹膜透析的嚴重併發症。護理師應採集流出液送培養以辨識病原菌，並立即通知主治醫師以開始抗生素治療。依原計畫繼續、加溫透析液或加快輸注速度均無法處理疑似感染。"},
+    "pdf_pages": [879],
+    "tags": ["red flag", "infection"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with type 1 diabetes mellitus who is receiving peritoneal dialysis asks why the dwell time cannot be extended past what was prescribed. The nurse's explanation should include that a prolonged dwell time increases the risk for which complication?", "zh": "一位第一型糖尿病病人正在接受腹膜透析，詢問為何留置時間不能超過醫囑時間。護理師的解釋應包含：延長留置時間會增加下列哪一項併發症的風險？"},
+    "options": [
+      {"en": "Peritonitis from catheter manipulation", "zh": "因導管操作造成腹膜炎"},
+      {"en": "Hyperglycemia from glucose absorption through the peritoneal membrane", "zh": "葡萄糖經腹膜吸收造成高血糖"},
+      {"en": "Disequilibrium syndrome from rapid solute removal", "zh": "因快速移除溶質造成透析失衡症候群"},
+      {"en": "Hyperphosphatemia from reduced phosphate clearance", "zh": "因磷清除減少造成高血磷"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The dialysate contains glucose, and the longer it dwells in the peritoneal cavity, the more glucose is absorbed across the peritoneal membrane into the bloodstream, raising the risk for hyperglycemia, especially in a client with diabetes. Disequilibrium syndrome is a complication of hemodialysis, not peritoneal dialysis; peritonitis is linked to breaks in aseptic technique, not dwell time; hyperphosphatemia relates to overall renal clearance, not a single extended dwell.", "zh": "透析液含葡萄糖，留置時間越長，經腹膜吸收進入血液的葡萄糖越多，增加高血糖風險，對糖尿病病人尤其重要。透析失衡症候群是血液透析的併發症，而非腹膜透析；腹膜炎與無菌技術破壞有關，而非留置時間；高血磷與整體腎臟清除能力有關，而非單次延長留置。"},
+    "pdf_pages": [877],
+    "tags": ["patient education", "complication"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client receiving hemodialysis suddenly develops dyspnea, chest pain, and anxiety; the pulse oximetry reading is 87%, and cyanosis is noted around the lips. The nurse suspects an air embolism. What is the nurse's first action?", "zh": "一位接受血液透析的病人突然出現呼吸困難、胸痛及焦慮；血氧飽和度為87%，並出現嘴唇發紺。護理師懷疑為空氣栓塞，應優先採取何種行動？"},
+    "options": [
+      {"en": "Administer oxygen via nasal cannula", "zh": "經鼻導管給氧"},
+      {"en": "Stop the dialysis treatment and clamp the lines without returning the blood to the client", "zh": "停止透析治療並夾住管路，不將血液回輸給病人"},
+      {"en": "Position the client supine with the legs elevated", "zh": "讓病人平躺並抬高雙腿"},
+      {"en": "Call for the Rapid Response Team and remain with the client", "zh": "呼叫快速反應小組並留在病人身旁"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The first priority with a suspected air embolism is to stop the dialysis treatment immediately and clamp the lines so that no additional air (or blood containing air) is returned to the client's circulation. After the treatment is stopped, the client is turned onto the left side with the head lower than the feet (Trendelenburg) to trap air in the right side of the heart, oxygen is given, and another staff member notifies the PHCP and Rapid Response Team while the nurse remains with the client. Oxygen and calling for help are essential but come after the infusion of air has been halted.", "zh": "疑似空氣栓塞時，第一優先是立即停止透析治療並夾住管路，避免更多空氣（或含空氣的血液）回流至病人循環。停止治療後，將病人轉為左側臥、頭部低於雙腳（Trendelenburg姿勢）以使空氣滯留於右心，並給予氧氣，由另一位工作人員通知醫師及快速反應小組，護理師則留在病人身旁。給氧與呼叫支援雖重要，但應在阻止空氣持續輸入之後進行。"},
+    "pdf_pages": [876],
+    "tags": ["priority", "first action", "emergency"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client in the oliguric phase of acute kidney injury has a prescription for daily fluid intake of \"500 mL plus the previous 24-hour urine output.\" The client's urine output yesterday was 180 mL. What is the client's total allowed fluid intake for today?", "zh": "一位急性腎損傷寡尿期病人的醫囑為「每日液體攝取量為500 mL加上前一個24小時的尿量」。病人昨日尿量為180 mL。病人今日的液體攝取總量上限應為多少？"},
+    "options": [
+      {"en": "500 mL", "zh": "500 mL"},
+      {"en": "680 mL", "zh": "680 mL"},
+      {"en": "800 mL", "zh": "800 mL"},
+      {"en": "1000 mL", "zh": "1000 mL"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "500 mL plus the prior day's urine output of 180 mL equals 680 mL, the total allowed fluid intake for the day. This formula reflects the typical fluid restriction strategy for an oliguric client with hypertension (400-1000 mL plus measured urinary output).", "zh": "500 mL加上前一日尿量180 mL，總計680 mL，為今日液體攝取上限。此計算方式反映寡尿合併高血壓病人常見的限水策略（400-1000 mL加上測得尿量）。"},
+    "pdf_pages": [868],
+    "tags": ["dosage calc", "fluids"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with chronic kidney disease has a serum potassium level of 6.9 mEq/L (6.9 mmol/L) and new widened QRS complexes on the cardiac monitor. Which prescribed interventions should the nurse anticipate implementing? Select all that apply.", "zh": "一位慢性腎臟病病人血清鉀為6.9 mEq/L（6.9 mmol/L），心電監視器出現新的QRS波變寬。護理師應預期執行下列哪些醫囑措施？請選出所有適用者。"},
+    "options": [
+      {"en": "IV calcium gluconate", "zh": "靜脈注射葡萄糖酸鈣"},
+      {"en": "IV regular insulin with dextrose", "zh": "靜脈注射一般型胰島素併葡萄糖"},
+      {"en": "Oral or rectal sodium polystyrene sulfonate", "zh": "口服或經肛門給予聚磺苯乙烯鈉（降鉀樹脂）"},
+      {"en": "IV potassium chloride supplementation", "zh": "靜脈補充氯化鉀"},
+      {"en": "Oral spironolactone", "zh": "口服螺內酯（spironolactone）"},
+      {"en": "Hemodialysis if other measures fail to lower the potassium level", "zh": "若其他措施無法降低血鉀則進行血液透析"}
+    ],
+    "answer": [0, 1, 2, 5],
+    "rationale": {"en": "IV calcium gluconate reduces myocardial irritability from hyperkalemia; IV insulin with dextrose shifts potassium into cells; sodium polystyrene sulfonate binds and removes potassium from the body; and hemodialysis is used if other measures fail to adequately lower a dangerously elevated potassium level. IV potassium chloride would worsen the hyperkalemia, and potassium-sparing medications such as spironolactone are avoided because they further increase serum potassium.", "zh": "葡萄糖酸鈣可降低高血鉀造成的心肌應激性；胰島素併葡萄糖可將鉀離子轉移入細胞內；聚磺苯乙烯鈉可結合並排除體內鉀離子；若其他措施無法有效降低危險性高血鉀，則需進行血液透析。靜脈補充氯化鉀會加重高血鉀；留鉀型藥物如螺內酯應避免使用，因其會進一步升高血鉀。"},
+    "pdf_pages": [870, 871],
+    "tags": ["sata", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client is progressing from the oliguric to the diuretic phase of acute kidney injury, with urine output now averaging 4 L/day. Which findings indicate a developing complication of this phase and warrant prompt follow-up? Select all that apply.", "zh": "一位急性腎損傷病人正從寡尿期進入利尿期，目前每日尿量平均達4 L。下列哪些發現顯示此階段正發生併發症，需立即追蹤處理？請選出所有適用者。"},
+    "options": [
+      {"en": "Blood pressure 88/52 mm Hg", "zh": "血壓88/52 mmHg"},
+      {"en": "Heart rate 118 beats/min", "zh": "心跳118次/分"},
+      {"en": "Serum potassium 3.1 mEq/L (3.1 mmol/L)", "zh": "血清鉀3.1 mEq/L（3.1 mmol/L）"},
+      {"en": "Serum sodium 152 mEq/L (152 mmol/L)", "zh": "血清鈉152 mEq/L（152 mmol/L）"},
+      {"en": "Poor skin turgor and dry mucous membranes", "zh": "皮膚彈性差及黏膜乾燥"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "The diuretic phase is characterized by excessive urine output that can cause hypovolemia, hypotension, tachycardia, hypokalemia, and hyponatremia (not hypernatremia); poor skin turgor and dry mucous membranes further support dehydration. A serum sodium of 152 mEq/L reflects hypernatremia, which is not an expected finding of this phase, so it is not part of the expected complication pattern described here and should prompt reconsideration of the data rather than confirming diuretic-phase dehydration alone.", "zh": "利尿期特徵為大量尿液排出，可導致血容量不足、低血壓、心搏過速、低血鉀及低血鈉（而非高血鈉）；皮膚彈性差與黏膜乾燥進一步支持脫水的判斷。血清鈉152 mEq/L代表高血鈉，並非此階段的預期發現，故不屬於此處描述的脫水併發症型態，應進一步確認資料而非單憑此項確認利尿期脫水。"},
+    "pdf_pages": [868],
+    "tags": ["sata", "labs"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Three days after kidney transplantation, a client develops a fever, hypertension, tenderness over the transplanted kidney, decreased urine output, and a rising serum creatinine. The nurse anticipates that the PHCP will do which of the following?", "zh": "腎臟移植後第三天，病人出現發燒、高血壓、移植腎部位壓痛、尿量減少及血清肌酸酐上升。護理師預期主治醫師將採取下列何種處置？"},
+    "options": [
+      {"en": "Schedule immediate surgical removal of the transplanted kidney", "zh": "安排立即手術移除移植腎"},
+      {"en": "Increase the client's immunosuppressive medication regimen", "zh": "增加病人的免疫抑制藥物劑量"},
+      {"en": "Begin peritoneal dialysis through a newly placed peritoneal catheter", "zh": "經新置腹膜導管開始腹膜透析"},
+      {"en": "Discontinue all immunosuppressive therapy", "zh": "停止所有免疫抑制治療"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "These findings describe acute rejection, which most often occurs within the first week after transplantation (though it can occur at any time) and is potentially reversible with increased immunosuppressive therapy. Removal of the transplanted kidney is reserved for hyperacute rejection, which occurs within 48 hours; peritoneal dialysis is not appropriate immediately after abdominal transplant surgery; and discontinuing immunosuppressants would worsen rejection.", "zh": "這些表現屬於急性排斥反應，最常發生於移植後第一週內（但也可能於任何時間發生），通常可透過增加免疫抑制治療逆轉。移除移植腎適用於超急性排斥（發生於移植後48小時內）；腹膜透析不適合在腹部移植手術後立即施行；停止免疫抑制治療反而會使排斥惡化。"},
+    "pdf_pages": [880, 881],
+    "tags": ["priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client has just undergone extracorporeal shock wave lithotripsy (ESWL) for a renal calculus. Which instruction should the nurse include in discharge teaching?", "zh": "一位病人剛接受體外震波碎石術（ESWL）治療腎結石。護理師應在出院教育中包含下列哪一項指導？"},
+    "options": [
+      {"en": "\"Strain all of your urine and bring any stone fragments to your follow-up visit.\"", "zh": "「請過濾所有尿液，並將排出的結石碎片帶至回診時交給醫師。」"},
+      {"en": "\"Limit your fluid intake to about 1000 mL per day until the fragments pass.\"", "zh": "「在碎片排出前，每日液體攝取量請限制在約1000 mL。」"},
+      {"en": "\"Expect your urine to remain grossly bloody for several weeks; this is not a concern.\"", "zh": "「尿液可能持續數週明顯帶血，這是正常現象，不需擔心。」"},
+      {"en": "\"Resume strenuous exercise within 24 hours to help pass the fragments faster.\"", "zh": "「請在24小時內恢復劇烈運動，以幫助碎片更快排出。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "After treatment for renal calculi, including lithotripsy, the client should strain all urine so that stone fragments can be collected and sent for analysis to guide future prevention. Fluids are increased (not restricted) to 3000-4000 mL/day to help flush fragments, mild hematuria is monitored but grossly bloody urine or clots should be reported, and strenuous activity is not specifically advised as a means to pass fragments faster.", "zh": "腎結石治療（包括碎石術）後，病人應過濾所有尿液以收集結石碎片送檢分析，作為日後預防之依據。液體攝取應增加（而非限制）至每日3000-4000 mL以幫助沖出碎片；輕微血尿需觀察，但明顯血尿或血塊應報告；劇烈運動並非建議用來加速碎片排出的方法。"},
+    "pdf_pages": [885],
+    "tags": ["patient education"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is assigned to care for four clients on a medical-surgical unit. Which client should the nurse assess first?", "zh": "護理師負責照護內外科病房的四位病人。護理師應優先評估哪一位？"},
+    "options": [
+      {"en": "A client with benign prostatic hyperplasia (BPH) who reports a weaker urinary stream and voiding twice nightly", "zh": "良性攝護腺肥大（BPH）病人，主訴尿流變弱且夜間排尿兩次"},
+      {"en": "A client with BPH who has not voided in 8 hours and now has a palpable, distended bladder and lower abdominal pain", "zh": "BPH病人8小時未排尿，現可觸及膨脹的膀胱並有下腹疼痛"},
+      {"en": "A client 2 days post-transurethral resection of the prostate (TURP) with pink-tinged urine and output 150 mL more than intake", "zh": "經尿道攝護腺切除術（TURP）後第2天病人，尿液呈粉紅色，輸出量比輸入量多150 mL"},
+      {"en": "A client with chronic prostatitis reporting perineal discomfort rated 3 on a 0-10 scale", "zh": "慢性攝護腺炎病人，會陰部不適評分為0-10分中的3分"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A distended, palpable bladder with no voiding for 8 hours and abdominal pain indicates acute urinary retention, an emergent problem that can lead to bladder rupture or back pressure on the kidneys if not relieved promptly (typically with catheterization). The client with early BPH symptoms, the post-TURP client with expected pink-tinged urine and a normal output-to-intake relationship, and the client with mild chronic prostatitis discomfort are stable and can be assessed after the client in retention.", "zh": "膀胱膨脹可觸及、8小時未排尿並伴隨腹痛，顯示急性尿滯留，屬緊急狀況，若未及時處理（通常需導尿）可能導致膀胱破裂或腎臟逆壓損傷。早期BPH症狀病人、TURP後出現預期中的粉紅尿且輸出入量正常的病人，以及慢性攝護腺炎輕微不適的病人皆屬穩定狀態，可於尿滯留病人之後評估。"},
+    "pdf_pages": [886, 887],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client arrives in the emergency department after a motor vehicle collision with a suspected pelvic fracture. The PHCP prescribes insertion of an indwelling urinary catheter. The nurse notes blood at the urinary meatus. What is the nurse's priority action?", "zh": "一位病人因車禍伴隨疑似骨盆骨折被送至急診，主治醫師開立置入導尿管的醫囑。護理師發現尿道口有血液。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Insert the catheter using a smaller size and anesthetic lubricant", "zh": "使用較小號導尿管並以麻醉潤滑劑插入"},
+      {"en": "Notify the PHCP before attempting catheterization", "zh": "在嘗試導尿前先通知主治醫師"},
+      {"en": "Clean the meatus thoroughly with soap and water, then proceed with catheter insertion", "zh": "以肥皂水徹底清潔尿道口後，繼續進行導尿"},
+      {"en": "Irrigate the urethra with sterile saline to clear the blood before inserting the catheter", "zh": "先以生理食鹽水灌洗尿道清除血液後再插入導尿管"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Blood at the urinary meatus after trauma, especially with a suspected pelvic fracture, suggests possible urethral injury or disruption. Catheterization should not be attempted until the PHCP evaluates the client and urethral integrity is confirmed, often with a retrograde urethrogram, because forcing a catheter through an injured urethra can worsen the injury.", "zh": "外傷後尿道口出血，尤其合併疑似骨盆骨折，提示可能有尿道損傷或斷裂。應先由主治醫師評估並確認尿道完整性（常以逆行性尿道攝影檢查），在此之前不應嘗試導尿，因為強行插入導尿管可能加重尿道損傷。"},
+    "pdf_pages": [887, 888],
+    "tags": ["red flag", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with chronic kidney disease returns to the nursing unit after a hemodialysis session via an arteriovenous graft. The nurse notes a temperature of 101.4°F (38.6°C). Which action should the nurse take first?", "zh": "一位慢性腎臟病病人經動靜脈人工血管進行血液透析後返回病房。護理師發現其體溫為101.4°F（38.6°C）。護理師應先採取何種行動？"},
+    "options": [
+      {"en": "Document the finding and recheck the temperature in 4 hours", "zh": "記錄此發現並於4小時後重測體溫"},
+      {"en": "Encourage oral fluids to help reduce the fever", "zh": "鼓勵口服補充水分以協助退燒"},
+      {"en": "Notify the primary health care provider", "zh": "通知主治醫師"},
+      {"en": "Apply a cooling blanket", "zh": "使用降溫毯"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A slight temperature elevation can occur from the warming of blood during dialysis, but a temperature this significantly elevated after treatment may indicate sepsis related to the vascular access, and the PHCP needs to be notified so that blood cultures and further evaluation can be initiated. Encouraging fluids is not appropriate for a dialysis client with fluid restrictions, and simply documenting or applying a cooling blanket delays needed evaluation and treatment of a possible infection.", "zh": "透析過程中血液稍微加溫可能造成輕微體溫上升，但治療後體溫顯著升高可能代表與血管通路相關的敗血症，須通知主治醫師以安排血液培養及進一步評估。鼓勵口服補液對有限水限制的透析病人並不適當；僅記錄或使用降溫毯則會延誤疑似感染所需的評估與治療。"},
+    "pdf_pages": [873, 874],
+    "tags": ["priority", "infection"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is evaluating a client's understanding of dietary teaching for chronic kidney disease. Which statement indicates a need for further teaching?", "zh": "護理師評估病人對慢性腎臟病飲食教育的理解程度。病人下列哪一句話顯示需要進一步指導？"},
+    "options": [
+      {"en": "\"I should limit foods like bananas and oranges.\"", "zh": "「我應該限制攝取香蕉和柳橙之類的食物。」"},
+      {"en": "\"I will choose low-phosphorus foods and take my phosphate binder with meals.\"", "zh": "「我會選擇低磷食物，並隨餐服用磷結合劑。」"},
+      {"en": "\"Since I am on dialysis now, I can eat as much protein as I want.\"", "zh": "「既然我現在在透析，我可以隨意吃蛋白質。」"},
+      {"en": "\"I'll keep track of my fluid intake and watch for swelling.\"", "zh": "「我會記錄我的液體攝取量並注意有無水腫。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A moderate- to high-quality protein diet is appropriate for a dialysis client, but protein intake is still individualized and monitored, not unlimited; believing it can be eaten \"as much as wanted\" indicates a misunderstanding. Limiting high-potassium fruits such as bananas and oranges, choosing low-phosphorus foods with binders taken as prescribed, and monitoring fluid intake and edema are all correct self-management behaviors for CKD.", "zh": "透析病人適合攝取中等至高品質蛋白質，但蛋白質攝取仍需個別化並受監控，並非「可以隨意吃」；此說法顯示病人有誤解。限制高鉀水果如香蕉、柳橙，選擇低磷食物並按醫囑服用磷結合劑，以及監測液體攝取與水腫，均為慢性腎臟病正確的自我照護行為。"},
+    "pdf_pages": [869, 870],
+    "tags": ["patient education", "evaluation"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A client newly diagnosed with end-stage kidney disease tells the nurse, \"I don't see the point of starting dialysis. I'd rather just let nature take its course.\" Which response by the nurse is most therapeutic?", "zh": "一位新診斷末期腎臟病的病人對護理師說：「我不覺得開始透析有什麼意義，我寧願順其自然。」護理師下列哪一項回應最具治療性？"},
+    "options": [
+      {"en": "\"You should at least try dialysis before deciding against it.\"", "zh": "「你至少應該先試試透析，再決定要不要拒絕。」"},
+      {"en": "\"Many people feel that way at first, but you'll adjust once you start treatment.\"", "zh": "「很多人一開始都有這種感覺，等你開始治療後就會適應了。」"},
+      {"en": "\"Tell me more about what is making you feel this way about your treatment options.\"", "zh": "「可以多跟我說說，是什麼讓你對治療選項有這樣的感受嗎？」"},
+      {"en": "\"I'll let your family know so they can convince you to start dialysis.\"", "zh": "「我會讓你的家人知道，讓他們來說服你開始透析。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Clients with CKD may experience emotional lability, denial, or grief over the loss of kidney function, and may consider declining dialysis or transplantation. The most therapeutic response invites the client to explore and express feelings without judgment, which supports informed decision-making. Telling the client what they \"should\" do, minimizing their feelings, or involving family to pressure the client are not therapeutic and do not respect client autonomy.", "zh": "慢性腎臟病病人可能出現情緒不穩、否認或對腎功能喪失的悲傷反應，也可能考慮拒絕透析或移植。最具治療性的回應是邀請病人不帶評判地表達與探索感受，有助於支持其做出知情決定。告訴病人「應該」怎麼做、淡化其感受，或找家人施壓，皆非治療性回應，也不尊重病人自主權。"},
+    "pdf_pages": [872],
+    "tags": ["therapeutic communication"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews the histories of four clients on the medical unit. Which clients are at the greatest risk for developing acute kidney injury? Select all that apply.", "zh": "護理師查閱內科病房四位病人的病史。下列哪些病人最有可能發生急性腎損傷？請選出所有適用者。"},
+    "options": [
+      {"en": "A client receiving IV gentamicin for a serious infection", "zh": "正接受靜脈注射健大黴素治療嚴重感染的病人"},
+      {"en": "A client who just had a cardiac catheterization using iodinated contrast dye", "zh": "剛接受使用含碘顯影劑的心導管檢查的病人"},
+      {"en": "A client taking a daily multivitamin", "zh": "每日服用綜合維生素的病人"},
+      {"en": "A client with uncontrolled hypotension after a motor vehicle collision", "zh": "車禍後出現未受控制低血壓的病人"},
+      {"en": "A client scheduled for an elective skin biopsy under local anesthesia", "zh": "預定在局部麻醉下接受選擇性皮膚切片的病人"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Gentamicin is an aminoglycoside antibiotic that is nephrotoxic; iodinated contrast dye used in cardiac catheterization is also nephrotoxic and can precipitate AKI; and sustained hypotension after trauma causes prerenal ischemia from decreased renal perfusion. A daily multivitamin and an elective skin biopsy under local anesthesia do not carry meaningful nephrotoxic or hypoperfusion risk.", "zh": "健大黴素屬於胺基糖苷類抗生素，具腎毒性；心導管檢查使用的含碘顯影劑同樣具腎毒性，可能誘發急性腎損傷；車禍後持續性低血壓則因腎灌流減少造成腎前性缺血。每日服用綜合維生素及局部麻醉下的選擇性皮膚切片並無明顯腎毒性或低灌流風險。"},
+    "pdf_pages": [866, 867],
+    "tags": ["sata", "risk factors"]
+  }
+]

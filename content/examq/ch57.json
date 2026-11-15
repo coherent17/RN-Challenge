@@ -1,0 +1,202 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client arrives in the emergency department reporting sudden onset of severe right eye pain, blurred vision, and nausea. The nurse notes halos around lights and a cloudy, hazy cornea. Which is the nurse's priority action?", "zh": "一名病人因右眼突然劇烈疼痛、視力模糊及噁心前往急診。護理師發現病人看燈光時有光暈，角膜呈霧狀混濁。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Document the findings and continue the routine assessment", "zh": "記錄發現並繼續常規評估"},
+      {"en": "Notify the primary health care provider (PHCP) immediately of a suspected ocular emergency", "zh": "立即通知主要醫療照護提供者（PHCP），告知疑似眼科急症"},
+      {"en": "Administer an over-the-counter analgesic for the eye pain", "zh": "給予非處方止痛藥緩解眼痛"},
+      {"en": "Apply a warm compress to the affected eye", "zh": "對患眼敷溫熱濕布"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sudden severe eye pain, blurred vision, halos around lights, nausea, and a cloudy cornea are classic findings of acute angle-closure glaucoma, a medical emergency. Delay in treatment can result in permanent vision loss within hours, so the nurse must notify the PHCP immediately rather than treating symptomatically.", "zh": "突發劇烈眼痛、視力模糊、燈光光暈、噁心及角膜混濁為急性隅角閉鎖型青光眼的典型表現，屬醫療急症。延誤治療可能在數小時內造成永久性視力喪失，因此護理師應立即通知PHCP，而非僅對症處理。"},
+    "pdf_pages": [913],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client reports sudden flashes of light, new floaters, and a sensation of 'a curtain coming down' over the field of vision in the left eye. Which action by the nurse is most appropriate?", "zh": "病人表示左眼突然出現閃光、新增的飄浮物，並感覺視野像「有簾子落下」。護理師最適當的行動為何？"},
+    "options": [
+      {"en": "Reassure the client that this is a normal effect of aging", "zh": "安慰病人這是正常的老化現象"},
+      {"en": "Instruct the client to rest and recheck the vision in 24 hours", "zh": "指示病人休息，24小時後再檢查視力"},
+      {"en": "Notify the PHCP immediately and prepare the client for urgent ophthalmic evaluation", "zh": "立即通知PHCP並為病人安排緊急眼科評估"},
+      {"en": "Apply a warm compress to the eye to relieve the floaters", "zh": "對眼睛敷溫熱濕布以緩解飄浮物"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Flashes of light, floaters, and a 'curtain' sensation across the visual field are classic signs of retinal detachment. This is typically painless but requires urgent evaluation, because a partial detachment can progress to complete detachment and blindness if untreated.", "zh": "閃光、飄浮物及視野出現「簾子」的感覺是視網膜剝離的典型徵象。此症狀通常無痛，但需緊急評估，因為部分剝離若未治療可能進展為完全剝離並導致失明。"},
+    "pdf_pages": [913],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is providing discharge teaching to a client following cataract extraction with intraocular lens implantation. Which instructions should the nurse include? Select all that apply.", "zh": "護理師正為一名接受白內障摘除併人工水晶體植入手術的病人進行出院教學。應包含以下哪些指導？請選出所有適用項目。"},
+    "options": [
+      {"en": "Avoid bending at the waist or straining during bowel movements", "zh": "避免彎腰或排便時用力"},
+      {"en": "Take acetaminophen for minor eye discomfort", "zh": "輕微眼部不適可服用acetaminophen止痛"},
+      {"en": "Expect some itching and mild discomfort for a few days after surgery", "zh": "術後數日內可能有輕微搔癢及不適感，屬正常現象"},
+      {"en": "Report any sudden increase in eye pain or decrease in vision to the PHCP", "zh": "若眼痛突然加劇或視力突然下降，應告知PHCP"},
+      {"en": "Sleep on the operative side at night", "zh": "夜間睡覺時應側臥於手術側"},
+      {"en": "Avoid lifting objects heavier than 5 lb (2.25 kg)", "zh": "避免提舉超過5磅（2.25公斤）的物品"}
+    ],
+    "answer": [0, 1, 2, 3, 5],
+    "rationale": {"en": "Activities that increase intraocular pressure (bending, straining, lifting heavy objects) should be avoided. Mild itching/discomfort is expected, and acetaminophen may relieve minor discomfort. Sudden severe pain, increased redness, or decreased vision must be reported immediately. The client should turn to the back or nonoperative side, not sleep on the operative side.", "zh": "應避免增加眼內壓的活動（彎腰、用力、提重物）。輕微搔癢及不適為預期現象，可用acetaminophen緩解不適。若突然劇痛、紅腫加重或視力下降須立即告知。病人應轉向平躺或非手術側，而非側臥於手術側。"},
+    "pdf_pages": [912],
+    "tags": ["sata", "priority", "patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client sustains a chemical splash to the eye at home and arrives at the emergency department 10 minutes later without having flushed the eye. What is the nurse's priority action?", "zh": "病人在家中發生化學藥劑潑濺入眼，10分鐘後抵達急診，在此之前未曾沖洗眼睛。護理師的優先行動為何？"},
+    "options": [
+      {"en": "Check visual acuity before beginning treatment", "zh": "先檢查視力再開始治療"},
+      {"en": "Begin continuous irrigation of the eye with water or normal saline immediately", "zh": "立即開始以水或生理食鹽水持續沖洗眼睛"},
+      {"en": "Obtain the pH of the unaffected eye for comparison", "zh": "先測量未受影響眼睛的pH值作為比較"},
+      {"en": "Apply a dry eye patch until the PHCP arrives", "zh": "先覆蓋乾燥眼罩，等待PHCP到達"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For a chemical splash to the eye, treatment must begin immediately. The eye is flushed continuously with water or saline for at least 15 to 20 minutes; all other assessments and interventions are secondary to irrigation because every minute of delay increases corneal damage.", "zh": "化學藥劑潑濺入眼應立即開始治療，持續以水或生理食鹽水沖洗眼睛至少15至20分鐘；其他評估及處置皆次於沖洗，因延遲每一分鐘都會增加角膜損傷。"},
+    "pdf_pages": [916],
+    "tags": ["priority", "red flag", "requires immediate action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse assesses a client in the emergency department with a piece of wood protruding from the eye after a workplace accident. Which action would the nurse take?", "zh": "急診護理師為一名工作意外中眼睛插入一塊木片的病人進行評估。護理師應採取下列哪項行動？"},
+    "options": [
+      {"en": "Carefully remove the object using sterile forceps", "zh": "小心使用無菌鉗將異物取出"},
+      {"en": "Irrigate the eye with sterile saline to dislodge the object", "zh": "使用無菌生理食鹽水沖洗眼睛以鬆動異物"},
+      {"en": "Cover the affected eye with a protective shield without applying pressure, and cover the unaffected eye as well", "zh": "以保護罩蓋住患眼但不加壓，並同時遮蓋健側眼睛"},
+      {"en": "Apply firm pressure over the object to control bleeding", "zh": "在異物上施加穩定壓力以止血"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A penetrating object must never be removed by the nurse, because it may be holding ocular structures in place; removal is performed only by the PHCP. The eye is covered with a protective shield without pressure, and the unaffected eye is also covered to decrease consensual eye movement.", "zh": "穿透性異物絕不可由護理師移除，因其可能支撐著眼內結構；僅能由PHCP取出。應以保護罩覆蓋患眼但不加壓，並同時遮蓋健側眼睛以減少眼球聯動。"},
+    "pdf_pages": [915],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A client is diagnosed with a hyphema following blunt trauma to the eye. Which position would the nurse place the client in?", "zh": "病人因眼部鈍傷被診斷為前房出血（hyphema）。護理師應將病人安置於何種姿勢？"},
+    "options": [
+      {"en": "Supine with legs elevated", "zh": "平躺且抬高雙腳"},
+      {"en": "Semi-Fowler's position", "zh": "半坐臥式（Semi-Fowler's position）"},
+      {"en": "Trendelenburg position", "zh": "頭低腳高姿勢（Trendelenburg position）"},
+      {"en": "Prone position", "zh": "俯臥姿勢"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The client with a hyphema is placed in a semi-Fowler's position to allow the blood in the anterior chamber to settle by gravity, which decreases intraocular pressure. Sudden eye movements are avoided for 3 to 5 days to decrease the likelihood of rebleeding.", "zh": "前房出血的病人應採半坐臥式，使前房內的血液因重力沉降，降低眼內壓。應在3至5天內避免突然的眼球運動，以減少再出血的可能性。"},
+    "pdf_pages": [914],
+    "tags": ["positioning"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Which nursing intervention is the priority for a client experiencing an acute attack of Ménière's disease?", "zh": "對於正經歷梅尼爾氏病急性發作的病人，護理師優先的措施為何？"},
+    "options": [
+      {"en": "Encouraging ambulation to prevent deconditioning", "zh": "鼓勵下床走動以預防體能退化"},
+      {"en": "Instituting safety measures to prevent injury during vertigo", "zh": "採取安全措施以預防眩暈發作時受傷"},
+      {"en": "Restricting fluids to less than 1000 mL/day", "zh": "限制水分攝取在每日1000毫升以下"},
+      {"en": "Placing the client in a brightly lit room to assist with orientation", "zh": "將病人安置於光線明亮的房間以協助定向"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A priority nursing intervention in the care of a client with Ménière's disease is to institute safety measures, because severe vertigo can cause the client to fall. Bed rest in a quiet, darkened (not brightly lit) room is recommended, along with sodium and fluid restriction as prescribed, but safety takes priority during an acute attack.", "zh": "梅尼爾氏病病人照護的優先護理措施是建立安全措施，因嚴重眩暈可能導致病人跌倒。建議臥床休息於安靜、昏暗（非明亮）的房間，並依醫囑限制鈉與水分攝取，但急性發作時安全防護為優先。"},
+    "pdf_pages": [922],
+    "tags": ["priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is caring for a client recovering from a mastoidectomy. Which finding would alert the nurse to possible damage to the facial cranial nerve?", "zh": "護理師照護一名乳突切除術後恢復中的病人。下列何種發現提示可能有顏面腦神經損傷？"},
+    "options": [
+      {"en": "Inability to look laterally with the eye on the affected side", "zh": "患側眼睛無法向外側看"},
+      {"en": "Drooping of the mouth on the affected side", "zh": "患側口角下垂"},
+      {"en": "Loss of the sense of smell", "zh": "嗅覺喪失"},
+      {"en": "Constriction of the pupil on the affected side", "zh": "患側瞳孔縮小"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mastoidectomy can damage the abducens (cranial nerve VI) and facial (cranial nerve VII) cranial nerves. Damage to cranial nerve VII is exhibited by drooping of the mouth on the affected side; damage to cranial nerve VI causes inability to look laterally.", "zh": "乳突切除術可能損傷外展神經（第六對腦神經）及顏面神經（第七對腦神經）。第七對腦神經受損表現為患側口角下垂；第六對腦神經受損則表現為無法向外側看。"},
+    "pdf_pages": [921],
+    "tags": ["red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "Following craniotomy for removal of an acoustic neuroma, which assessment finding requires the nurse to notify the PHCP immediately?", "zh": "病人因聽神經瘤接受開顱切除術後，下列哪項評估發現護理師須立即通知PHCP？"},
+    "options": [
+      {"en": "Mild hoarseness that resolves with rest", "zh": "輕微聲音嘶啞，休息後緩解"},
+      {"en": "New onset facial drooping and inability to close the eyelid on the operative side", "zh": "手術側新出現口角下垂且無法閉合眼瞼"},
+      {"en": "Mild headache relieved with the prescribed analgesic", "zh": "服用醫囑止痛藥後緩解的輕微頭痛"},
+      {"en": "A slight decrease in hearing on the operative side", "zh": "手術側聽力輕微下降"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Care is taken during acoustic neuroma removal to preserve the function of the facial nerve, but damage can still occur. New facial drooping and inability to close the eyelid indicate facial nerve (cranial nerve VII) injury and place the eye at risk for corneal injury, requiring immediate reporting.", "zh": "聽神經瘤切除術中會盡力保留顏面神經功能，但仍可能受損。新出現的口角下垂及眼瞼無法閉合提示顏面神經（第七對腦神經）受損，並使眼睛有角膜損傷風險，須立即通報。"},
+    "pdf_pages": [923],
+    "tags": ["red flag", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is caring for an older client diagnosed with presbycusis. Which communication approach would be most effective?", "zh": "護理師照護一名被診斷為老年性聽力喪失（presbycusis）的老年病人。下列何種溝通方式最為有效？"},
+    "options": [
+      {"en": "Speak loudly directly into the client's affected ear", "zh": "朝病人患側耳朵大聲說話"},
+      {"en": "Speak slowly and clearly at a normal tone and pitch while facing the client", "zh": "面對病人，以正常音量及音調緩慢清楚地說話"},
+      {"en": "Exaggerate mouth movements while speaking loudly", "zh": "說話時誇大嘴部動作並提高音量"},
+      {"en": "Communicate only in writing because speech will not be understood", "zh": "僅以書面方式溝通，因為病人無法理解言語"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Presbycusis is an age-related sensorineural hearing loss. Shouting is not helpful because higher frequencies are less easily heard; the nurse should talk at normal volume and a lower pitch, facing the client, and speak slowly and clearly.", "zh": "老年性聽力喪失屬年齡相關之感覺神經性聽力喪失。大聲喊叫並無幫助，因為較高頻率的聲音更難被聽到；護理師應面對病人以正常音量及較低音調，緩慢清楚地說話。"},
+    "pdf_pages": [920],
+    "tags": ["patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client recovering from labyrinthitis develops a headache, stiff neck, and increasing lethargy. Which complication should the nurse suspect?", "zh": "一名迷路炎恢復中的病人出現頭痛、頸部僵硬及嗜睡加重。護理師應懷疑發生何種併發症？"},
+    "options": [
+      {"en": "Otosclerosis", "zh": "耳硬化症"},
+      {"en": "Ménière's disease", "zh": "梅尼爾氏病"},
+      {"en": "Meningitis", "zh": "腦膜炎"},
+      {"en": "Presbycusis", "zh": "老年性聽力喪失"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Meningitis is the most common complication of labyrinthitis and is evidenced by headache, stiff neck, and lethargy. The nurse should notify the PHCP immediately, because this finding requires urgent evaluation and treatment.", "zh": "腦膜炎是迷路炎最常見的併發症，表現為頭痛、頸部僵硬及嗜睡。護理師應立即通知PHCP，因為此發現需緊急評估與治療。"},
+    "pdf_pages": [919],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is providing discharge teaching to a client following a stapedectomy. Which instructions should be included? Select all that apply.", "zh": "護理師為一名接受鐙骨切除術的病人進行出院教學。應包含以下哪些指導？請選出所有適用項目。"},
+    "options": [
+      {"en": "Avoid blowing the nose forcefully", "zh": "避免用力擤鼻涕"},
+      {"en": "Avoid air travel until cleared by the PHCP", "zh": "在PHCP許可前避免乘坐飛機旅行"},
+      {"en": "Move the head quickly when changing position", "zh": "改變姿勢時應快速轉動頭部"},
+      {"en": "Avoid showering or getting the head wet as prescribed", "zh": "依醫囑避免淋浴或讓頭部沾濕"},
+      {"en": "Report excessive ear drainage to the PHCP", "zh": "若耳朵分泌物過多應告知PHCP"},
+      {"en": "Expect hearing to be improved immediately after surgery", "zh": "預期手術後立即聽力改善"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "The client is instructed to avoid forceful nose blowing, air travel, and rapid pressure changes that could dislodge the graft or prosthesis, and to keep the head dry as prescribed. Excessive drainage should be reported. Hearing is initially worse after surgery because of ear canal packing and swelling, and the client should move the head slowly, not quickly, to prevent vertigo.", "zh": "病人應避免用力擤鼻涕、乘坐飛機及快速壓力變化，以免移位移植物或人工鐙骨，並依醫囑保持頭部乾燥。分泌物過多應告知醫療團隊。因耳道填塞及腫脹，術後初期聽力反而較差；病人應緩慢轉動頭部而非快速轉動，以預防眩暈。"},
+    "pdf_pages": [920, 921],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with a known history of tympanic membrane perforation asks the nurse about using an ear candle at home to remove earwax. What is the most appropriate response by the nurse?", "zh": "一名有鼓膜穿孔病史的病人詢問護理師是否可以在家使用耳燭來清除耳垢。護理師最適當的回應為何？"},
+    "options": [
+      {"en": "\"Ear candles are a safe alternative for your condition.\"", "zh": "「耳燭對您的情況是安全的替代方法。」"},
+      {"en": "\"Ear candles should never be used; they can cause burns and a vacuum effect that may lead to tympanic membrane perforation, and irrigation is also contraindicated with your history.\"", "zh": "「耳燭絕對不可使用，可能造成燒傷及真空效應導致鼓膜穿孔；而根據您的病史，耳道沖洗也屬禁忌。」"},
+      {"en": "\"You may irrigate the ear gently at home using cool water instead.\"", "zh": "「您可以改用冷水在家中輕輕沖洗耳朵。」"},
+      {"en": "\"Ear candles will help restore the normal pH of the ear canal.\"", "zh": "「耳燭有助於恢復耳道正常的酸鹼值。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Ear candles should never be used to remove cerumen because their use can cause burns and a vacuum effect that can perforate the tympanic membrane. Ear irrigation is also contraindicated in clients with a history of tympanic membrane perforation or otitis media.", "zh": "耳燭不應被用於清除耳垢，因其可能造成燒傷及真空效應，導致鼓膜穿孔。對於有鼓膜穿孔或中耳炎病史的病人，耳道沖洗也屬禁忌。"},
+    "pdf_pages": [924],
+    "tags": ["red flag", "contraindication", "patient education"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is delegating the ambulation of a legally blind client to unlicensed assistive personnel (UAP). Which instruction is most important for the nurse to provide?", "zh": "護理師將一名法定失明病人的行走協助工作委派給無照輔助人員（UAP）。護理師最應提供的指導為何？"},
+    "options": [
+      {"en": "\"Always walk slightly behind the client while holding their arm.\"", "zh": "「要一直走在病人後方並握住病人的手臂。」"},
+      {"en": "\"Allow the client to grasp your arm at the elbow, walk slightly ahead, and keep your arm close to your body.\"", "zh": "「讓病人握住您手肘處的手臂，您走在稍前方，並將手臂靠近身體。」"},
+      {"en": "\"Guide the client by pushing gently from behind.\"", "zh": "「從後方輕輕推動病人以引導方向。」"},
+      {"en": "\"Hold the client's hand and walk at a brisk pace.\"", "zh": "「牽著病人的手並快步行走。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "When ambulating a client who is blind, the client should be allowed to grasp the assistant's arm at the elbow while the assistant keeps the arm close to the body so the client can detect the direction of movement; the client remains one step behind the assistant, who walks slightly ahead.", "zh": "協助失明病人行走時，應讓病人握住協助者手肘處的手臂，協助者將手臂靠近身體，使病人能感知移動方向；病人應落後協助者一步，協助者則走在稍前方。"},
+    "pdf_pages": [912],
+    "tags": ["delegation"]
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse reviews a telemetry strip: P waves and QRS complexes are regular, the PR interval is 0.16 second, the QRS width is 0.08 second, and the atrial and ventricular rate is 52 beats/minute. The client is asymptomatic. How would the nurse interpret this rhythm?", "zh": "護理師查看心電監視器波形:P波與QRS複合波規律,PR間隔0.16秒,QRS寬度0.08秒,心房與心室速率為每分鐘52次。病人目前無症狀。護理師應如何判讀此心律?"},
+    "options": [
+      {"en": "Normal sinus rhythm", "zh": "正常竇性心律"},
+      {"en": "Sinus bradycardia", "zh": "竇性心搏過緩"},
+      {"en": "Sinus tachycardia", "zh": "竇性心搏過速"},
+      {"en": "First-degree atrioventricular block", "zh": "一度房室傳導阻滯"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sinus bradycardia is described as a regular atrial and ventricular rhythm with a rate less than 60 beats/minute and a normal PR interval and QRS width. Because the client is asymptomatic, treatment is not immediately necessary, but the rhythm must still be correctly identified as sinus bradycardia, not normal sinus rhythm (60 to 100 beats/minute).", "zh": "竇性心搏過緩的特徵為心房與心室節律規則,速率低於每分鐘60次,PR間隔與QRS寬度正常。由於病人無症狀,目前不需立即治療,但仍須正確判讀為竇性心搏過緩,而非正常竇性心律(每分鐘60至100次)。"},
+    "pdf_pages": [802, 803],
+    "tags": ["ecg interpretation"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client taking digoxin for heart failure is also prescribed furosemide. The nurse reviews a new serum potassium level of 3.0 mEq/L (3.0 mmol/L). This finding places the client at greatest risk for which complication?", "zh": "病人因心衰竭服用digoxin,同時使用furosemide。護理師查看最新血鉀值為3.0 mEq/L(3.0 mmol/L)。此結果使病人面臨下列何種風險最大?"},
+    "options": [
+      {"en": "Decreased absorption of digoxin", "zh": "digoxin吸收減少"},
+      {"en": "Digoxin toxicity and ventricular dysrhythmias", "zh": "digoxin中毒與心室性心律不整"},
+      {"en": "Resistance to the effects of furosemide", "zh": "對furosemide產生抗藥性"},
+      {"en": "Hypertensive crisis", "zh": "高血壓危象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Hypokalemia causes increased cardiac electrical instability, ventricular dysrhythmias, and an increased risk of digoxin toxicity. A loop diuretic such as furosemide can deplete potassium, so the combination with digoxin requires close monitoring of the serum potassium level.", "zh": "低血鉀會造成心臟電生理不穩定、心室性心律不整,並增加digoxin中毒的風險。furosemide為排鉀性利尿劑,可能造成血鉀流失,因此與digoxin併用時須密切監測血鉀濃度。"},
+    "pdf_pages": [801],
+    "tags": ["digoxin", "hypokalemia", "priority", "labs"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client who takes metformin for type 2 diabetes is scheduled for a cardiac catheterization with iodinated contrast dye tomorrow morning. What is the nurse's priority action?", "zh": "病人因第二型糖尿病服用metformin,明晨將接受含碘顯影劑的心導管檢查。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Administer the metformin as usual the morning of the procedure", "zh": "檢查當天早上照常給予metformin"},
+      {"en": "Hold the metformin for 24 hours before the procedure and notify the PHCP", "zh": "檢查前24小時暫停metformin並通知醫療人員"},
+      {"en": "Double the metformin dose to prevent hyperglycemia from the dye", "zh": "將metformin劇量加倍以預防顯影劑造成的高血糖"},
+      {"en": "Switch the client to a single dose of regular insulin only", "zh": "改為僅給予一次regular insulin"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "If a client taking metformin is scheduled to undergo a procedure requiring iodinated contrast dye, metformin is withheld for 24 hours before the procedure because of the risk of lactic acidosis; it is not resumed until prescribed by the PHCP, usually 48 hours after the procedure or after renal function studies are evaluated.", "zh": "服用metformin的病人若將接受含碘顯影劑的檢查,應於檢查前24小時暫停metformin,以避免乳酸中毒的風險;須等醫療人員開立處方才可恢復使用,通常是在檢查後48小時或腎功能檢查結果確認後。"},
+    "pdf_pages": [804, 805],
+    "tags": ["metformin", "contrast", "lactic acidosis", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "Following percutaneous transluminal coronary angioplasty (PTCA), a client reports new onset of chest pain. What is the nurse's priority action?", "zh": "病人接受經皮冠狀動脈氣球擴張術(PTCA)後,主訴出現新的胸痛。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Recognize this may indicate coronary artery vasospasm and prepare to administer IV nitroglycerin as prescribed", "zh": "辨識此現象可能為冠狀動脈痙攣,準備依醫囑給予靜脈nitroglycerin"},
+      {"en": "Reassure the client that chest discomfort after this procedure is never significant", "zh": "安慰病人此術後胸部不適絕不具臨床意義"},
+      {"en": "Instruct the client to perform deep-breathing exercises only", "zh": "僅指導病人進行深呼吸運動"},
+      {"en": "Wait 1 hour to see if the pain resolves before notifying the PHCP", "zh": "先等待一小時觀察疼痛是否緩解,再通知醫療人員"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Chest pain following PTCA may indicate coronary artery vasospasm or reocclusion. IV nitroglycerin may be prescribed to prevent coronary artery vasospasm, and the nurse must assess and intervene promptly rather than delaying or dismissing the report.", "zh": "PTCA術後出現胸痛可能提示冠狀動脈痙攣或再阻塞。可依醫囑給予靜脈nitroglycerin以預防冠狀動脈痙攣,護理師應立即評估並處置,不應延遲或輕忽此主訴。"},
+    "pdf_pages": [805, 806],
+    "tags": ["post-procedure", "vasospasm", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client is 6 hours post coronary artery bypass graft surgery. The nurse notes sudden cessation of previously heavy mediastinal chest tube drainage, jugular venous distention, and clear lung sounds. Which complication would the nurse suspect?", "zh": "病人接受冠狀動脈繞道手術後六小時,護理師發現原本量多的縱膈腔引流管引流液突然停止,合併頸靜脈怒張且肺部聽診清晰。護理師應懷疑發生下列何種併發症?"},
+    "options": [
+      {"en": "Hypovolemic shock", "zh": "低血容性休克"},
+      {"en": "Cardiac tamponade", "zh": "心包填塞"},
+      {"en": "Tension pneumothorax", "zh": "張力性氣胸"},
+      {"en": "Graft occlusion", "zh": "移植血管阻塞"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Signs of cardiac tamponade after cardiac surgery include sudden cessation of previously heavy mediastinal drainage, jugular vein distention with clear lung sounds, equalization of right atrial pressure and pulmonary artery wedge pressure, and pulsus paradoxus; the surgeon must be notified immediately.", "zh": "心臟手術後心包填塞的徵象包括:原本量多的縱膈腔引流液突然停止、頸靜脈怒張但肺部聽診清晰、右心房壓與肺動脈楔壓趨於相等,以及矛盾脈;須立即通知外科醫師。"},
+    "pdf_pages": [807, 808],
+    "tags": ["cardiac tamponade", "post-op", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client develops new-onset atrial fibrillation with a ventricular rate of 148 beats/minute. The nurse recognizes the client is at greatest risk for which complication if anticoagulation is not initiated?", "zh": "病人新發心房顫動,心室速率每分鐘148次。護理師了解若未開始抗凝治療,病人面臨下列何種併發症的風險最高?"},
+    "options": [
+      {"en": "Systemic embolization, such as an ischemic stroke, from atrial thrombus formation", "zh": "因心房內血栓形成導致全身性栓塞,例如缺血性腦中風"},
+      {"en": "Cardiac tamponade", "zh": "心包填塞"},
+      {"en": "Third-degree atrioventricular block", "zh": "三度房室傳導阻滯"},
+      {"en": "Pericarditis", "zh": "心包炎"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "In atrial fibrillation, multiple rapid, disorganized impulses cause the atria to quiver rather than contract effectively, which can lead to the formation of thrombi that may embolize systemically, including to the brain. Anticoagulants are administered as prescribed because of this risk of emboli.", "zh": "心房顫動時,大量快速且混亂的衝動使心房無法有效收縮而呈顫動狀態,容易形成血栓並可能造成全身性栓塞,包括腦部。因有此栓塞風險,應依醫囑給予抗凝藥物。"},
+    "pdf_pages": [809, 810],
+    "tags": ["atrial fibrillation", "anticoagulation", "priority"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is monitoring a client's cardiac rhythm and observes a premature ventricular contraction falling on the T wave of the preceding beat (R-on-T phenomenon). What is the nurse's priority concern?", "zh": "護理師監測病人心律時,發現一個早發性心室收縮落在前一心搏的T波上(R-on-T現象)。護理師最應關注的問題是什麼?"},
+    "options": [
+      {"en": "This finding is benign and requires no action", "zh": "此現象屬良性,不需任何處置"},
+      {"en": "This finding may precipitate ventricular fibrillation and the PHCP should be notified", "zh": "此現象可能誘發心室顫動,應通知醫療人員"},
+      {"en": "This indicates the client needs dietary potassium restriction", "zh": "此現象表示病人需限制飲食鉀攝取"},
+      {"en": "This indicates an urgent need for carotid sinus massage", "zh": "此現象表示需緊急執行頸動脈竇按摩"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The PHCP or cardiologist is notified if a client's premature ventricular contractions increase in frequency, are multifocal, occur on the T wave (R-on-T), or occur in runs of ventricular tachycardia, because R-on-T phenomenon may precipitate ventricular fibrillation.", "zh": "若病人早發性心室收縮頻率增加、呈多源性、落在T波上(R-on-T),或出現連續性心室頻脈,應通知醫療人員或心臟科醫師,因R-on-T現象可能誘發心室顫動。"},
+    "pdf_pages": [810, 811],
+    "tags": ["pvc", "r-on-t", "priority", "red flag"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client's cardiac monitor shows sustained ventricular tachycardia. The nurse assesses the client and finds no pulse and no respirations. What is the priority action?", "zh": "病人心臟監視器顯示持續性心室頻脈。護理師評估病人發現無脈搏且無呼吸。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Prepare for synchronized cardioversion", "zh": "準備進行同步化心臟電擊轉復"},
+      {"en": "Begin cardiopulmonary resuscitation and prepare for defibrillation", "zh": "開始心肺復甦術並準備進行電擊去顫"},
+      {"en": "Administer an IV antidysrhythmic and reassess in 5 minutes", "zh": "給予靜脈抗心律不整藥物,五分鐘後再評估"},
+      {"en": "Perform a vagal maneuver", "zh": "執行迷走神經刺激手法"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A pulseless client with ventricular tachycardia is treated with immediate CPR and defibrillation, not synchronized cardioversion, which is used for a client who has a pulse but is hemodynamically unstable. Antidysrhythmics and vagal maneuvers are not the priority when the client is pulseless.", "zh": "無脈搏的心室頻脈病人應立即施行心肺復甦術並進行電擊去顫,而非同步化電擊轉復(用於有脈搏但血行動力不穩定的病人)。在病人無脈搏時,抗心律不整藥物與迷走神經刺激手法均非首要處置。"},
+    "pdf_pages": [811],
+    "tags": ["pulseless vt", "defibrillation", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse finds a client unresponsive, with no pulse, no respirations, and the monitor shows coarse, chaotic waves with no identifiable QRS complexes. What is the nurse's first action?", "zh": "護理師發現病人無反應、無脈搏、無呼吸,監視器顯示粗大且雜亂的波形,無法辨識QRS複合波。護理師第一個應採取的行動是什麼?"},
+    "options": [
+      {"en": "Begin cardiopulmonary resuscitation until a defibrillator is available", "zh": "立即開始心肺復甦術,直到去顫器可供使用"},
+      {"en": "Administer intravenous amiodarone", "zh": "給予靜脈amiodarone"},
+      {"en": "Check the client's fingerstick blood glucose level", "zh": "檢測病人的指尖血糖"},
+      {"en": "Call the client's family to update them", "zh": "聯絡病人家屬告知最新狀況"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "This rhythm is ventricular fibrillation, in which impulses from many irritable foci fire in a disorganized manner, the ventricles quiver, and there is no cardiac output. CPR is initiated immediately until a defibrillator is available, after which the client is defibrillated as soon as possible.", "zh": "此心律為心室顫動,大量不穩定的異位點混亂發放衝動,心室呈顫動狀態且無心輸出量。應立即開始心肺復甦術,直到去顫器可供使用,並儘快執行電擊去顫。"},
+    "pdf_pages": [811, 812],
+    "tags": ["ventricular fibrillation", "cpr", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client has a heart rate of 38 beats/minute with associated hypotension and dizziness. Atropine has not sufficiently increased the heart rate. The nurse anticipates preparing for which intervention?", "zh": "病人心跳每分鐘38次,合併低血壓與頭暈。給予atropine後心跳仍未充分上升。護理師應預期準備執行下列何種處置?"},
+    "options": [
+      {"en": "Synchronized cardioversion", "zh": "同步化電擊轉復"},
+      {"en": "Transcutaneous pacing", "zh": "經皮心臟節律器置放"},
+      {"en": "Carotid sinus massage", "zh": "頸動脈竇按摩"},
+      {"en": "Immediate unsynchronized defibrillation", "zh": "立即進行非同步電擊去顫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For symptomatic sinus bradycardia, atropine is administered to increase the heart rate; if atropine does not increase the heart rate sufficiently, the nurse prepares to apply a noninvasive transcutaneous pacemaker, and the client may ultimately need a permanent pacemaker.", "zh": "對於有症狀的竇性心搏過緩,應給予atropine以提升心跳;若atropine無法有效提升心跳,應準備使用非侵入性經皮心臟節律器,病人最終可能需要永久性心臟節律器。"},
+    "pdf_pages": [808, 809],
+    "tags": ["bradycardia", "pacing", "priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The nurse is teaching a client who just had an automatic implantable cardioverter-defibrillator (AICD) inserted. Which instruction is most important to include?", "zh": "護理師正在教導剛植入自動植入型心臟電擊轉復去顫器(AICD)的病人。下列哪項指導內容最重要?"},
+    "options": [
+      {"en": "\"Move away from strong electromagnetic fields if you hear beeping tones from the device.\"", "zh": "「如果聽到裝置發出嗶嗶聲,請遠離強電磁場。」"},
+      {"en": "\"You may resume contact sports as soon as the incision heals.\"", "zh": "「傷口癒合後就可以恢復接觸性運動。」"},
+      {"en": "\"The device will deliver up to 10 consecutive shocks if needed.\"", "zh": "「這個裝置若有需要,會連續發出最多10次電擊。」"},
+      {"en": "\"You no longer need to learn how to check your own pulse.\"", "zh": "「您不再需要學習如何測量自己的脈搏。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Clients with an AICD are instructed to avoid electromagnetic fields directly over the device, because they can inactivate it, and to move away from the magnetic field immediately and notify the PHCP if beeping tones are heard. Contact sports should be avoided to prevent trauma to the device and leads, the device delivers up to 4 shocks, and clients are taught to check their own pulse.", "zh": "AICD病人應避免裝置部位直接暴露於電磁場,因其可能使裝置失效;若聽到嗶嗶聲應立即遠離磁場並通知醫療人員。應避免接觸性運動以防損傷裝置與導線,裝置最多可連續發出4次電擊,病人應學會自行測量脈搏。"},
+    "pdf_pages": [813],
+    "tags": ["aicd", "teaching"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with an acute myocardial infarction continues to report crushing substernal chest pain after receiving three sublingual nitroglycerin tablets 5 minutes apart. What is the nurse's priority action?", "zh": "急性心肌梗塞病人,在每5分鐘給予一次舌下nitroglycerin共三次後,仍主訴胸骨後壓榨性胸痛。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Administer a fourth nitroglycerin tablet immediately without notifying the PHCP", "zh": "立即再給第四劑nitroglycerin,不需先通知醫療人員"},
+      {"en": "Notify the PHCP immediately and prepare to administer morphine as prescribed", "zh": "立即通知醫療人員並準備依醫囑給予morphine"},
+      {"en": "Instruct the client to perform the Valsalva maneuver", "zh": "指導病人執行Valsalva操作法"},
+      {"en": "Reassure the client that the pain will resolve with rest alone", "zh": "安慰病人疼痛會隨休息自行緩解"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "If chest pain is not relieved after three sublingual nitroglycerin tablets given 5 minutes apart, the PHCP is notified immediately. Pain relief increases myocardial oxygen supply, and morphine is administered as a priority in managing pain in a client having an MI when nitroglycerin is insufficient.", "zh": "若每5分鐘給予一次舌下nitroglycerin共三次後疼痛仍未緩解,應立即通知醫療人員。緩解疼痛可增加心肌氧供,當nitroglycerin效果不足時,應優先依醫囑給予morphine以處理心肌梗塞病人的疼痛。"},
+    "pdf_pages": [817, 818],
+    "tags": ["mi", "pain management", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with heart failure suddenly develops severe dyspnea, tachycardia, and pink, frothy sputum, with an oxygen saturation of 88%. Which actions would the nurse take as a priority? Select all that apply.", "zh": "心衰竭病人突然出現嚴重呼吸困難、心搏過速與粉紅色泡沫痰,血氧飽和度為88%。護理師應採取下列哪些優先處置?(多選)"},
+    "options": [
+      {"en": "Place the client in a high-Fowler's position", "zh": "將病人置於高坡臥位"},
+      {"en": "Administer oxygen and increase the flow rate as prescribed", "zh": "依醫囑給予氧氣並提高流速"},
+      {"en": "Prepare to administer a diuretic and morphine as prescribed", "zh": "準備依醫囑給予利尿劑與morphine"},
+      {"en": "Lower the head of the bed to a flat, supine position", "zh": "將床頭放平,使病人平躺"},
+      {"en": "Ensure that IV access is in place", "zh": "確認靜脈輸液管路已建立"},
+      {"en": "Encourage the client to drink a full glass of water", "zh": "鼓勵病人喝下一整杯水"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "This presentation is acute pulmonary edema from left ventricular failure, a medical emergency. Priority actions include placing the client in a high-Fowler's position, increasing oxygen delivery, ensuring IV access, and preparing for diuretic and morphine administration. The client should never be placed flat, because this worsens dyspnea, and fluids would not be encouraged because fluid overload is contributing to the pulmonary edema.", "zh": "此表現為左心室衰竭引起的急性肺水腫,屬醫療急症。優先處置包括將病人置於高坡臥位、提高氧氣供應、確保靜脈通路已建立,以及準備給予利尿劑與morphine。絕不可讓病人平躺,因會加重呼吸困難;也不應鼓勵攝取水分,因液體過量正是造成肺水腫的原因之一。"},
+    "pdf_pages": [819, 820],
+    "tags": ["sata", "pulmonary edema", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse assesses a client following blunt chest trauma and notes jugular venous distention, muffled and distant heart sounds, and a narrowing pulse pressure. These findings are consistent with which complication?", "zh": "護理師評估一名鈍性胸部外傷病人,發現頸靜脈怒張、心音低沉遙遠,以及脈搏壓變窄。這些發現符合下列何種併發症?"},
+    "options": [
+      {"en": "Cardiac tamponade", "zh": "心包填塞"},
+      {"en": "Acute pericarditis without effusion", "zh": "無積液之急性心包炎"},
+      {"en": "Tension pneumothorax", "zh": "張力性氣胸"},
+      {"en": "Right ventricular failure", "zh": "右心室衰竭"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The assessment findings of cardiac tamponade include pulsus paradoxus, increased central venous pressure, jugular venous distention with clear lungs, distant and muffled heart sounds, decreased cardiac output, and a narrowing pulse pressure; acute tamponade can occur when even small volumes of fluid accumulate rapidly in the pericardium.", "zh": "心包填塞的評估發現包括矛盾脈、中心靜脈壓升高、頸靜脈怒張但肺部清晰、心音低沉遙遠、心輸出量下降及脈搏壓變窄;即使心包腔內快速累積少量液體,也可能引發急性心包填塞。"},
+    "pdf_pages": [821],
+    "tags": ["cardiac tamponade", "assessment", "priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client with a history of infective endocarditis asks the nurse about an upcoming dental cleaning. What is the nurse's best response?", "zh": "有感染性心內膜炎病史的病人詢問護理師關於即將進行的洗牙事宜。護理師最適當的回應為何?"},
+    "options": [
+      {"en": "\"You do not need to mention your heart history to the dentist.\"", "zh": "「您不需要向牙醫提及您的心臟病史。」"},
+      {"en": "\"Be sure to tell your dentist about your history so prophylactic antibiotics can be considered.\"", "zh": "「請務必告知牙醫您的病史,以便考慮使用預防性抗生素。」"},
+      {"en": "\"Dental procedures pose no risk once endocarditis has resolved.\"", "zh": "「心內膜炎痊癒後,牙科處置就不再有任何風險。」"},
+      {"en": "\"You should avoid all dental care permanently.\"", "zh": "「您應該永久避免所有牙科治療。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The oral cavity is a common port of entry for the organisms that cause infective endocarditis, especially with dental procedures. Clients with a history of endocarditis should inform all health care providers of this history and ask about prophylactic antibiotics before invasive dental procedures.", "zh": "口腔是感染性心內膜炎致病菌常見的入侵途徑,尤其在牙科處置時。有心內膜炎病史的病人應告知所有醫療人員此病史,並於接受侵入性牙科處置前詢問是否需要預防性抗生素。"},
+    "pdf_pages": [821, 822],
+    "tags": ["endocarditis", "prophylaxis", "teaching"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client reports sharp anterior chest pain that worsens with inspiration and when lying flat but improves when leaning forward. Auscultation reveals a scratchy, high-pitched sound. The nurse would document this as characteristic of which condition?", "zh": "病人主訴前胸尖銳疼痛,吸氣與平躺時加劇,前傾時緩解。聽診可聞及摩擦音樣的高調聲音。護理師應記錄此為下列何種情況的特徵表現?"},
+    "options": [
+      {"en": "Myocardial infarction", "zh": "心肌梗塞"},
+      {"en": "Pericarditis", "zh": "心包炎"},
+      {"en": "Stable angina", "zh": "穩定型心絞痛"},
+      {"en": "Aortic dissection", "zh": "主動脈剝離"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Pericarditis pain is grating and aggravated by breathing, coughing, and swallowing; it is worse in the supine position and relieved by leaning forward. A pericardial friction rub, a scratchy, high-pitched sound, is produced by the rubbing of inflamed pericardial layers.", "zh": "心包炎的疼痛呈刺痛感,會因呼吸、咳嗽與吞嚥而加重;平躺時加劇,前傾時緩解。心包摩擦音為高調、摩擦樣聲音,由發炎的心包層互相摩擦所產生。"},
+    "pdf_pages": [820, 821],
+    "tags": ["pericarditis", "assessment"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client received a mechanical mitral valve replacement. Which statement by the client indicates a correct understanding of long-term care?", "zh": "病人接受機械性二尖瓣置換手術。病人下列哪句話顯示對長期照護有正確的理解?"},
+    "options": [
+      {"en": "\"I will need to take an anticoagulant for the rest of my life.\"", "zh": "「我這一生都需要服用抗凝血劑。」"},
+      {"en": "\"I can stop my anticoagulant once my incision heals.\"", "zh": "「傷口癒合後我就可以停止服用抗凝血劑。」"},
+      {"en": "\"A bioprosthetic valve would also require lifelong anticoagulation.\"", "zh": "「生物瓣膜也需要終身抗凝治療。」"},
+      {"en": "\"I will only need antibiotics before dental work for the first 6 months.\"", "zh": "「我只需要在術後前6個月於牙科治療前使用抗生素。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Thromboembolism can be a complication after valve replacement with a mechanical prosthetic valve, and lifetime anticoagulant therapy is required because the body reacts to the artificial materials. Bioprosthetic (xenograft) valves have a smaller risk of clot formation, and long-term anticoagulation may not be indicated. Prophylactic antibiotics before invasive or dental procedures are needed indefinitely, not just for 6 months.", "zh": "機械瓣膜置換後可能發生血栓栓塞,因身體會對人工材質產生反應,因此需終身服用抗凝血劑。生物瓣膜(異種移植)形成血栓的風險較小,未必需要長期抗凝治療。侵入性或牙科處置前的預防性抗生素使用應為長期(非僅6個月)。"},
+    "pdf_pages": [823, 824],
+    "tags": ["valve replacement", "anticoagulation", "teaching"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with a new diagnosis of deep vein thrombosis is started on a continuous heparin infusion, with plans to transition to warfarin. Which laboratory value would the nurse monitor to evaluate the effectiveness of the heparin infusion?", "zh": "病人新診斷深部靜脈血栓,開始持續輸注heparin,並計畫轉換為warfarin治療。護理師應監測下列哪項檢驗值以評估heparin輸注的治療效果?"},
+    "options": [
+      {"en": "International normalized ratio (INR)", "zh": "國際標準化比值(INR)"},
+      {"en": "Activated partial thromboplastin time (aPTT)", "zh": "活化部分凝血酶時間(aPTT)"},
+      {"en": "Platelet count alone", "zh": "單獨的血小板計數"},
+      {"en": "Serum fibrinogen level alone", "zh": "單獨的血清纖維蛋白原濃度"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The aPTT is used to monitor heparin therapy; a therapeutic level of anticoagulation with a continuous infusion is generally 1.5 to 2.5 times the normal value. The INR and prothrombin time are used to monitor warfarin therapy, which is why both heparin and warfarin are monitored separately during bridge therapy.", "zh": "aPTT用於監測heparin治療,持續輸注時的治療性抗凝水平一般為正常值的1.5至2.5倍。INR與凝血酶原時間則用於監測warfarin治療,這也是為何在橋接治療期間heparin與warfarin須分別監測。"},
+    "pdf_pages": [824, 825],
+    "tags": ["dvt", "heparin", "labs"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has a lower extremity ulcer located on the lateral malleolus, with a pink wound bed, uneven edges, and surrounding brown discoloration and edema. These findings are most consistent with which condition?", "zh": "病人下肢外側踝部出現潰瘍,傷口床呈粉紅色、邊緣不規則,周圍皮膚呈棕色色素沉積合併水腫。這些發現最符合下列何種情況?"},
+    "options": [
+      {"en": "Arterial (ischemic) ulcer", "zh": "動脈性(缺血性)潰瘍"},
+      {"en": "Venous insufficiency ulcer", "zh": "靜脈功能不全性潰瘍"},
+      {"en": "Diabetic neuropathic ulcer", "zh": "糖尿病神經病變性潰瘍"},
+      {"en": "A stage 3 pressure injury", "zh": "第三期壓力性損傷"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Venous insufficiency results in stasis dermatitis or brown discoloration along the ankles and lower calf, edema, and ulcer formation with uneven edges and a pink, granulating wound bed, usually located on the lateral malleolus. Arterial ulcers typically occur on the toes or upper foot and have pale, poorly perfused wound beds.", "zh": "靜脈功能不全會造成腳踝與小腿下段的鬱滯性皮膚炎或棕色色素沉積、水腫,以及邊緣不規則、傷口床呈粉紅色肉芽組織的潰瘍,通常位於外側踝部。動脈性潰瘍則通常位於足趾或足背上方,傷口床蒼白、灌流不良。"},
+    "pdf_pages": [825, 826],
+    "tags": ["wound assessment", "venous insufficiency"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with a known abdominal aortic aneurysm suddenly reports severe back pain radiating to the flank and groin. The nurse notes a heart rate of 128 beats/minute and a blood pressure of 86/52 mm Hg. What is the nurse's priority action?", "zh": "有已知腹主動脈瘤的病人突然主訴嚴重背痛並放射至腰腹部與腹股溝。護理師發現心跳每分鐘128次,血壓86/52 mmHg。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Palpate the abdomen to assess the size of the pulsating mass", "zh": "觸診腹部以評估搏動性腫塊的大小"},
+      {"en": "Notify the PHCP immediately and prepare for emergency intervention", "zh": "立即通知醫療人員並準備緊急處置"},
+      {"en": "Administer an oral antihypertensive medication", "zh": "給予口服降血壓藥物"},
+      {"en": "Encourage the client to ambulate to relieve the pain", "zh": "鼓勵病人下床走動以緩解疼痛"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Severe abdominal or back pain radiating to the flank and groin, tachycardia, and hypotension are signs of a rupturing aortic aneurysm, a life-threatening emergency requiring immediate notification of the PHCP and preparation for emergency surgical intervention. The abdomen is never palpated if an abdominal aneurysm rupture is suspected, because this could accelerate rupture.", "zh": "嚴重腹痛或背痛放射至腰腹部與腹股溝,合併心搏過速與低血壓,是主動脈瘤破裂的徵象,屬危及生命的急症,須立即通知醫療人員並準備緊急手術處置。若懷疑腹主動脈瘤破裂,絕不可觸診腹部,以免加速破裂。"},
+    "pdf_pages": [828, 829],
+    "tags": ["aneurysm rupture", "priority", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client arrives in the emergency department with a blood pressure of 232/134 mm Hg, severe headache, and blurred vision. What is the nurse's priority action?", "zh": "病人至急診就醫,血壓為232/134 mmHg,合併劇烈頭痛與視力模糊。護理師的首要處置為何?"},
+    "options": [
+      {"en": "Administer an oral antihypertensive and recheck the BP in 4 hours", "zh": "給予口服降血壓藥物,4小時後再測量血壓"},
+      {"en": "Prepare to administer an IV antihypertensive medication as prescribed and monitor the BP every 5 minutes", "zh": "準備依醫囑給予靜脈降血壓藥物,並每5分鐘監測血壓"},
+      {"en": "Place the client supine and lower the head of the bed flat", "zh": "將病人置於平躺姿勢,床頭放平"},
+      {"en": "Encourage ambulation to help lower the blood pressure naturally", "zh": "鼓勵病人下床走動以自然降低血壓"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A hypertensive crisis (systolic BP over 180 mm Hg and/or diastolic BP over 120 mm Hg with target organ symptoms) is a life-threatening emergency requiring immediate reduction in BP with IV antihypertensive medications and BP monitoring every 5 minutes; the head of the bed is elevated to 45 degrees, not lowered flat.", "zh": "高血壓危象(收縮壓超過180 mmHg及/或舒張壓超過120 mmHg並合併靶器官症狀)屬危及生命的急症,須立即以靜脈降血壓藥物降低血壓,並每5分鐘監測血壓;床頭應抬高至45度,而非放平。"},
+    "pdf_pages": [832, 833],
+    "tags": ["hypertensive crisis", "priority", "requires immediate action"]
+  }
+]

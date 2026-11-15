@@ -1,0 +1,288 @@
+[
+  {
+    "cat": "PA",
+    "stem": {"en": "A client at 7 weeks' gestation reports sudden, severe right lower quadrant abdominal pain radiating to the right shoulder, along with light-headedness. Her blood pressure is 88/52 mmHg and heart rate is 128 beats/min. Which action should the nurse take first?", "zh": "一名懷孕 7 週的個案突然出現右下腹劇烈疼痛並轉移至右肩，同時感到頭暈。血壓為 88/52 mmHg，心跳 128 次/分。護理師應先採取下列何項行動？"},
+    "options": [
+      {"en": "Administer an oral analgesic and reassess the pain in 30 minutes", "zh": "給予口服止痛藥，30 分鐘後再評估疼痛"},
+      {"en": "Notify the PHCP immediately and prepare the client for emergency intervention", "zh": "立即通報醫療人員並準備緊急處置"},
+      {"en": "Instruct the client to use a heating pad on the abdomen for comfort", "zh": "指導個案於腹部使用熱敷墊以緩解不適"},
+      {"en": "Schedule an outpatient ultrasound for the following day", "zh": "安排隔天進行門診超音波檢查"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Severe unilateral abdominal pain, referred shoulder pain, hypotension, and tachycardia are classic findings of a ruptured ectopic pregnancy, a life-threatening emergency caused by hemorrhage into the abdominal cavity. The nurse must notify the PHCP immediately and prepare the client for emergency intervention; delaying care with oral analgesics, heat, or a next-day ultrasound risks maternal hemorrhage and shock.", "zh": "單側劇烈腹痛合併轉移性肩痛、低血壓與心跳過速，是輸卵管異位妊娠破裂的典型表現，為可能危及生命的腹腔內出血急症。護理師必須立即通報醫療人員並準備緊急處置；若以口服止痛藥、熱敷或延至隔天才做超音波，將使個案面臨出血與休克風險。"},
+    "pdf_pages": [341, 342],
+    "tags": ["priority", "requires immediate action", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client at 34 weeks' gestation is admitted with vaginal bleeding. Which assessment finding would lead the nurse to suspect abruptio placentae rather than placenta previa?", "zh": "一名懷孕 34 週的個案因陰道出血入院。下列哪一項評估發現會使護理師懷疑為胎盤早期剝離（abruptio placentae）而非前置胎盤？"},
+    "options": [
+      {"en": "The uterus is soft, relaxed, and nontender", "zh": "子宮柔軟、放鬆且無壓痛"},
+      {"en": "The bleeding is bright red and painless", "zh": "出血為鮮紅色且無痛"},
+      {"en": "The uterus is rigid and tender to palpation", "zh": "觸診子宮僵硬且有壓痛"},
+      {"en": "Fundal height is unchanged from the previous visit", "zh": "子宮底高度較前次產檢無變化"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Abruptio placentae presents with uterine pain, tenderness, and rigidity because blood penetrates the myometrium, whereas placenta previa classically presents with painless, bright red bleeding and a soft, relaxed, nontender uterus.", "zh": "胎盤早期剝離因血液滲入子宮肌層，呈現子宮疼痛、壓痛及僵硬；而前置胎盤典型表現則是無痛性鮮紅色出血，子宮柔軟、放鬆且無壓痛。"},
+    "pdf_pages": [349, 350],
+    "tags": ["analyzing cues", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client at 36 weeks' gestation suddenly develops a rigid, boardlike abdomen, severe abdominal pain, and dark red vaginal bleeding. The fetal heart rate tracing shows late decelerations. What should the nurse do first?", "zh": "一名懷孕 36 週的個案突然出現腹部僵硬如板狀、劇烈腹痛及暗紅色陰道出血。胎心監測顯示晚期減速。護理師應先採取下列何項行動？"},
+    "options": [
+      {"en": "Position the client on her side and prepare for emergency delivery", "zh": "將個案擺位於側臥，並準備緊急生產"},
+      {"en": "Perform a sterile vaginal examination to assess cervical dilation", "zh": "進行無菌陰道檢查以評估子宮頸擴張程度"},
+      {"en": "Administer a tocolytic medication to stop uterine activity", "zh": "給予子宮收縮抑制劑以停止子宮活動"},
+      {"en": "Reassure the client that this is a normal third-trimester discomfort", "zh": "安撫個案，告知這是第三孕期的正常不適"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "These findings indicate abruptio placentae with evidence of fetal compromise (late decelerations), a medical emergency. The nurse should position the client to optimize placental perfusion (lateral position, or Trendelenburg to decrease fetal pressure on the placenta) and prepare for immediate delivery; a vaginal examination is not the priority, and a tocolytic would not address an active abruption with a compromised fetus.", "zh": "這些發現顯示胎盤早期剝離並合併胎兒窘迫（晚期減速）的徵象，屬醫療急症。護理師應將個案擺位以改善胎盤灌流（側臥，或以特倫德倫伯格氏體位減輕胎兒對胎盤的壓力），並準備立即生產；陰道檢查並非優先，子宮收縮抑制劑也無法處理合併胎兒窘迫的活動性剝離。"},
+    "pdf_pages": [349, 350],
+    "tags": ["priority", "requires immediate action", "first action"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client at 32 weeks' gestation arrives with painless, bright red vaginal bleeding, and placenta previa is suspected. Which prescribed action should the nurse question?", "zh": "一名懷孕 32 週的個案因無痛性鮮紅色陰道出血入院，疑似前置胎盤。下列哪一項醫囑護理師應提出疑問？"},
+    "options": [
+      {"en": "Prepare the client for an abdominal ultrasound", "zh": "準備個案接受腹部超音波檢查"},
+      {"en": "Obtain equipment for a manual (digital) pelvic examination", "zh": "準備手指陰道內診所需器材"},
+      {"en": "Draw blood for a hemoglobin and hematocrit level", "zh": "抽血檢測血紅素及血球容積比"},
+      {"en": "Apply external electronic fetal heart rate monitoring", "zh": "施行外部電子胎心監測"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A digital (manual) pelvic examination is contraindicated when placenta previa is suspected because it can disrupt the placenta and precipitate severe hemorrhage; diagnosis is made by ultrasound instead. Hemoglobin/hematocrit monitoring and external fetal monitoring are appropriate and expected prescriptions.", "zh": "疑似前置胎盤時，手指內診屬禁忌，因可能擾動胎盤並引發大出血；診斷應以超音波確認。抽血監測血紅素及血球容積比，以及外部胎心監測，則是恰當且預期的醫囑。"},
+    "pdf_pages": [348, 349],
+    "tags": ["priority", "contraindicated"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with preeclampsia with severe features is receiving intravenous magnesium sulfate. Which assessment finding indicates magnesium toxicity and requires the nurse to stop the infusion immediately?", "zh": "一名有嚴重特徵的子癲前症個案正接受靜脈輸注硫酸鎂。下列哪一項評估發現提示鎂中毒，護理師應立即停止輸注？"},
+    "options": [
+      {"en": "Deep tendon reflexes rated 2+ with no clonus", "zh": "深部肌腱反射 2+、無陣攣"},
+      {"en": "Respiratory rate of 10 breaths/min and absent patellar reflex", "zh": "呼吸速率 10 次/分且膝反射消失"},
+      {"en": "Mild flushing and a sensation of warmth", "zh": "輕微臉部潮紅及溫熱感"},
+      {"en": "Urine output of 40 mL/hr", "zh": "尿量 40 mL/hr"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Signs of magnesium sulfate toxicity include flushing, sweating, hypotension, depressed or absent deep tendon reflexes, decreased urine output (less than 30 mL/hr), and central nervous system/respiratory depression. A respiratory rate of 10 breaths/min with an absent patellar reflex signals significant toxicity; the infusion should be stopped immediately and calcium gluconate, the antidote, kept available. Normal (2+) reflexes, mild flushing alone, and adequate urine output are not signs of toxicity.", "zh": "硫酸鎂中毒徵象包括潮紅、出汗、低血壓、深部肌腱反射減弱或消失、尿量減少（低於 30 mL/hr），以及中樞神經/呼吸抑制。呼吸速率降至 10 次/分且膝反射消失顯示明顯中毒，應立即停止輸注並備妥解毒劑葡萄糖酸鈣。正常（2+）反射、單純輕微潮紅及尿量充足皆非中毒徵象。"},
+    "pdf_pages": [346, 347],
+    "tags": ["priority", "requires immediate action", "antidote"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A client with preeclampsia begins having a generalized tonic-clonic seizure. What should the nurse do first?", "zh": "一名子癲前症個案開始出現全身性強直陣攣性發作。護理師應先採取下列何項行動？"},
+    "options": [
+      {"en": "Insert an oral airway immediately while the client is actively seizing", "zh": "在個案仍處於發作中立即放入口咽式氣道"},
+      {"en": "Remain with the client, call for help, and turn the client onto her side", "zh": "留在個案身旁呼叫協助，並將個案轉為側臥"},
+      {"en": "Leave briefly to retrieve the magnesium sulfate antidote", "zh": "暫時離開以取回硫酸鎂的解毒劑"},
+      {"en": "Begin chest compressions", "zh": "開始進行胸部按壓"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "During an eclamptic seizure, the nurse's first actions are to remain with the client and call for help, turn the client to the side to protect the airway and prevent aspiration, and ensure an open airway with oxygen by face mask. An oral airway and suctioning are performed after the seizure ends, not during active tonic-clonic movements, which could injure the client's mouth or teeth.", "zh": "子癲發作時，護理師應先留在個案身旁並呼叫協助，將個案轉為側臥以保護呼吸道並預防吸入，並以面罩給氧確保呼吸道通暢。口咽式氣道與抽吸應在發作結束後才進行，而非在強直陣攣發作期間進行，以免傷及個案口腔或牙齒。"},
+    "pdf_pages": [347],
+    "tags": ["priority", "first action", "requires immediate action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client at 35 weeks' gestation with preeclampsia reports persistent right upper quadrant and epigastric pain along with nausea. Laboratory results show a platelet count of 85,000/mm3 and elevated liver enzymes. Which complication should the nurse suspect?", "zh": "一名懷孕 35 週、有子癲前症的個案出現持續性右上腹及上腹部疼痛並伴隨噁心。檢驗結果顯示血小板 85,000/mm3，肝功能酶升高。護理師應懷疑下列何種併發症？"},
+    "options": [
+      {"en": "HELLP syndrome", "zh": "HELLP 症候群"},
+      {"en": "Gestational diabetes mellitus", "zh": "妊娠糖尿病"},
+      {"en": "Chorioamnionitis", "zh": "絨毛膜羊膜炎"},
+      {"en": "Hydatidiform mole", "zh": "葡萄胎"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "HELLP syndrome (hemolysis, elevated liver enzymes, low platelet count) is a life-threatening complication of severe preeclampsia. Persistent right upper quadrant or epigastric pain, nausea, elevated liver enzymes, and a low platelet count (less than 100,000/mm3) are characteristic findings and often precede seizure.", "zh": "HELLP 症候群（溶血、肝功能酶升高、血小板低下）是嚴重子癲前症可能危及生命的併發症。持續性右上腹或上腹部疼痛、噁心、肝功能酶升高及血小板低下（低於 100,000/mm3）為其特徵性表現，且常為癲發前兆。"},
+    "pdf_pages": [345, 347],
+    "tags": ["recognizing cues", "red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a client newly diagnosed with gestational diabetes mellitus about self-management. Which statements indicate correct understanding? Select all that apply.", "zh": "護理師正在教導一名剛被診斷妊娠糖尿病的個案如何自我管理。下列哪些陳述顯示理解正確？（請選出所有正確答案）"},
+    "options": [
+      {"en": "\"I will check my blood glucose level about 4 times a day, including a fasting level.\"", "zh": "「我會每天約測量血糖 4 次，包括空腹血糖。」"},
+      {"en": "\"I should avoid all exercise because it can lower my blood glucose too much.\"", "zh": "「我應該避免所有運動，因為運動會讓我的血糖降得太低。」"},
+      {"en": "\"I need to report any signs of infection to my obstetrician right away.\"", "zh": "「我需要立刻將任何感染徵象告知我的產科醫師。」"},
+      {"en": "\"My target fasting blood glucose should be less than 95 mg/dL.\"", "zh": "「我的空腹血糖目標值應低於 95 mg/dL。」"},
+      {"en": "\"If diet alone doesn't control my glucose, I may need insulin or certain oral medications.\"", "zh": "「如果單靠飲食無法控制血糖，我可能需要胰島素或某些口服藥物。」"},
+      {"en": "\"Once I deliver, I will definitely need to stay on insulin for life.\"", "zh": "「生產後我一定要終身使用胰島素。」"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "Correct self-management includes blood glucose monitoring about 4 times daily (fasting and postprandial), reporting infections promptly, a fasting target below 95 mg/dL, and the possibility of needing insulin or safe oral medications if diet fails to control glucose. Moderate exercise is encouraged, not avoided, because it helps lower glucose. Most clients with gestational diabetes return to a euglycemic state after birth, although they have an increased lifetime risk of developing diabetes.", "zh": "正確的自我管理包括每天約測量血糖 4 次（空腹及飯後）、立即回報感染徵象、空腹血糖目標低於 95 mg/dL，以及若飲食無法控制血糖時可能需要胰島素或安全的口服藥物。適度運動應被鼓勵而非避免，因為運動有助降低血糖。大多數妊娠糖尿病個案產後血糖會恢復正常，雖然終身發展為糖尿病的風險仍會增加。"},
+    "pdf_pages": [340, 341],
+    "tags": ["sata", "need for further teaching"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client with gestational diabetes mellitus is in active labor. The fetal heart rate tracing shows late decelerations and minimal variability. What should the nurse anticipate?", "zh": "一名妊娠糖尿病個案正處於活動期產程。胎心監測顯示晚期減速且變異性極小。護理師應預期下列何項處置？"},
+    "options": [
+      {"en": "Continue routine monitoring because this is an expected finding in diabetic pregnancies", "zh": "繼續常規監測，因為這是糖尿病孕婦常見的發現"},
+      {"en": "Prepare the client for an immediate cesarean delivery", "zh": "準備個案接受緊急剖腹產"},
+      {"en": "Increase the oxytocin infusion rate to expedite vaginal delivery", "zh": "提高催產素輸注速率以加速陰道生產"},
+      {"en": "Administer a bolus of 50% dextrose to the client", "zh": "給予個案 50% 葡萄糖靜脈注射"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Late decelerations with minimal variability indicate fetal distress, which must be addressed promptly; in a client with gestational diabetes who shows signs of fetal distress during labor, the nurse should prepare for immediate cesarean delivery. Increasing oxytocin would further stress a compromised fetus, and a dextrose bolus is not the priority intervention for this fetal heart rate pattern.", "zh": "晚期減速合併變異性極小提示胎兒窘迫，須立即處理；妊娠糖尿病個案於產程中出現胎兒窘迫徵象時，護理師應準備立即剖腹產。提高催產素會進一步使已受壓迫的胎兒更加惡化，給予葡萄糖靜脈注射也並非此胎心圖型的優先處置。"},
+    "pdf_pages": [341],
+    "tags": ["priority", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is reviewing the records of several postpartum clients. Which clients are at greatest risk for developing disseminated intravascular coagulation (DIC)? Select all that apply.", "zh": "護理師正在檢視幾位產後個案的病歷。下列哪些個案最有可能發生瀰漫性血管內凝血（DIC）？（請選出所有正確答案）"},
+    "options": [
+      {"en": "A client who experienced abruptio placentae", "zh": "曾發生胎盤早期剝離的個案"},
+      {"en": "A client diagnosed with HELLP syndrome", "zh": "被診斷為 HELLP 症候群的個案"},
+      {"en": "A client who delivered vaginally and lost 400 mL of blood", "zh": "經陰道分娩、失血 400 mL 的個案"},
+      {"en": "A client whose fetus died in utero and was retained for several weeks", "zh": "胎兒子宮內死亡且滯留數週的個案"},
+      {"en": "A client with severe postpartum hemorrhage", "zh": "發生嚴重產後出血的個案"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Predisposing conditions for DIC include abruptio placentae, amniotic fluid embolism, gestational hypertension, HELLP syndrome, intrauterine fetal death, liver disease, sepsis, and severe postpartum hemorrhage with significant blood loss. A blood loss of 400 mL after a vaginal birth is within the expected range and is not considered hemorrhage or a DIC risk factor.", "zh": "DIC 的誘發因子包括胎盤早期剝離、羊水栓塞、妊娠高血壓、HELLP 症候群、子宮內胎兒死亡、肝臟疾病、敗血症，以及嚴重產後出血造成的大量失血。經陰道分娩失血 400 mL 屬正常範圍，不視為出血或 DIC 的風險因子。"},
+    "pdf_pages": [341, 342],
+    "tags": ["sata", "analyzing cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "Which clients would the nurse identify as being at increased risk for developing preeclampsia? Select all that apply.", "zh": "護理師應將下列哪些個案判定為較易發生子癲前症的高風險族群？（請選出所有正確答案）"},
+    "options": [
+      {"en": "A primigravida who is 42 years old", "zh": "42 歲的初孕婦"},
+      {"en": "A client pregnant with twins", "zh": "懷有雙胞胎的個案"},
+      {"en": "A multigravida with no history of hypertension who had two prior uncomplicated pregnancies", "zh": "無高血壓病史、曾有兩次無併發症懷孕史的多孕婦"},
+      {"en": "A client with chronic hypertension and type 1 diabetes mellitus", "zh": "有慢性高血壓及第一型糖尿病的個案"},
+      {"en": "A client whose mother had preeclampsia", "zh": "母親曾患有子癲前症的個案"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {"en": "Risk factors for preeclampsia include primigravida status, age 40 years or older, multifetal pregnancy, chronic hypertension, diabetes mellitus, renal disease, and a family history of preeclampsia in a first-degree relative. A client with a history of two prior uncomplicated pregnancies and no predisposing conditions is not at increased risk.", "zh": "子癲前症的風險因子包括初孕、年齡 40 歲以上、多胎妊娠、慢性高血壓、糖尿病、腎臟疾病，以及一級親屬有子癲前症家族史。曾有兩次無併發症懷孕史且無其他誘發因子的多孕婦並非高風險族群。"},
+    "pdf_pages": [345, 346],
+    "tags": ["sata", "risk factors"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse is comparing assessment findings between a client with preeclampsia without severe features and a client with preeclampsia with severe features. Which finding is associated with severe features?", "zh": "護理師正在比較「無嚴重特徵」與「有嚴重特徵」子癲前症個案的評估發現。下列哪一項發現與嚴重特徵有關？"},
+    "options": [
+      {"en": "Blood pressure 142/92 mmHg on one occasion", "zh": "單次血壓 142/92 mmHg"},
+      {"en": "Platelet count of 90,000/mm3", "zh": "血小板 90,000/mm3"},
+      {"en": "Urine output of 35 mL/hr", "zh": "尿量 35 mL/hr"},
+      {"en": "Deep tendon reflexes rated 2+", "zh": "深部肌腱反射 2+"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Preeclampsia with severe features is characterized by findings such as a platelet count less than 100,000/mm3, blood pressure persistently 160/110 mmHg or greater, elevated liver enzymes, oliguria (often less than 500 mL/day), hyperreflexia, and severe headache or visual disturbances. A single blood pressure reading of 142/92, a normal urine output, and normal reflexes (2+) do not indicate severe features.", "zh": "有嚴重特徵的子癲前症特徵包括血小板低於 100,000/mm3、血壓持續達 160/110 mmHg 以上、肝功能酶升高、尿量減少（常低於 500 mL/天）、反射亢進，以及嚴重頭痛或視覺障礙。單次血壓 142/92、正常尿量及正常反射（2+）並不代表有嚴重特徵。"},
+    "pdf_pages": [344, 345],
+    "tags": ["analyzing cues", "labs"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The nurse is assessing deep tendon reflexes in a client with preeclampsia. Which technique is correct for eliciting the patellar reflex?", "zh": "護理師正在為一名子癲前症個案評估深部肌腱反射。下列哪一項技巧是正確引出膝反射的方式？"},
+    "options": [
+      {"en": "Position the client with the legs dangling over the edge of the examining table and strike the patellar tendon just below the kneecap", "zh": "讓個案雙腿懸垂於檢查台邊緣，於膝蓋骨下方輕擊髕骨韌帶"},
+      {"en": "Have the client stand and strike the Achilles tendon while bearing weight", "zh": "讓個案站立並於承重狀態下輕擊跟腱"},
+      {"en": "Position the client supine with legs fully extended and press firmly on the quadriceps muscle", "zh": "讓個案平躺、雙腿完全伸直，並用力按壓股四頭肌"},
+      {"en": "Ask the client to flex the knee tightly and resist while the nurse pulls the lower leg forward", "zh": "請個案緊繃彎曲膝部並施力抵抗，同時護理師向前拉小腿"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "To assess the patellar reflex, the client is positioned with the legs dangling over the edge of the examining table (or lying back with legs slightly flexed), and the patellar tendon just below the kneecap is struck with the percussion hammer; the normal response is extension or kicking out of the leg.", "zh": "評估膝反射時，應讓個案雙腿懸垂於檢查台邊緣（或平躺並微彎膝部），以叩診槌輕擊膝蓋骨下方的髕骨韌帶；正常反應為小腿伸展或向外踢出。"},
+    "pdf_pages": [346],
+    "tags": ["technique"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client at 10 weeks' gestation reports vaginal bleeding and hyperemesis. On examination, the fundal height is greater than expected for gestational age, and no fetal heart rate can be detected. What should the nurse suspect?", "zh": "一名懷孕 10 週的個案表示陰道出血並有劇吐。檢查發現子宮底高度大於預期的妊娠週數，且偵測不到胎心音。護理師應懷疑下列何種情況？"},
+    "options": [
+      {"en": "Threatened abortion", "zh": "脆弱性流產（threatened abortion）"},
+      {"en": "Hydatidiform mole", "zh": "葡萄胎"},
+      {"en": "Ectopic pregnancy", "zh": "輸卵管異位妊娠"},
+      {"en": "Placenta previa", "zh": "前置胎盤"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Hydatidiform mole (molar pregnancy) is suggested by the absence of a detectable fetal heart rate, hyperemesis, vaginal bleeding, a fundal height greater than expected for gestational age, markedly elevated hCG, and a characteristic \"snowstorm\" pattern on ultrasound. Placenta previa does not typically occur this early, and in ectopic pregnancy the uterus is not enlarged beyond dates.", "zh": "葡萄胎的提示性表現包括偵測不到胎心音、劇吐、陰道出血、子宮底高度大於預期妊娠週數、hCG 明顯升高，以及超音波顯示特徵性的「暴雪狀」圖像。前置胎盤通常不會這麼早發生，而輸卵管異位妊娠的子宮大小也不會大於妊娠週數。"},
+    "pdf_pages": [343, 344],
+    "tags": ["recognizing cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is teaching a pregnant client about preventing toxoplasmosis. Which instruction should the nurse include?", "zh": "護理師正在教導一名孕婦如何預防弓蟲病。護理師應提供下列哪項指導？"},
+    "options": [
+      {"en": "\"Avoid changing the cat litter box, or wear gloves and wash your hands immediately if you must.\"", "zh": "「避免清理貓砂，若必須清理則戴手套並立即洗手。」"},
+      {"en": "\"Cook all meat only to medium-rare to preserve nutrients.\"", "zh": "「所有肉類只要煮到五分熟即可，以保留營養素。」"},
+      {"en": "\"Toxoplasmosis is spread through airborne droplets, so avoid crowded places.\"", "zh": "「弓蟲病是透過空氣飛沫傳播，所以要避免人群聚集的場所。」"},
+      {"en": "\"This infection poses no risk to the fetus if acquired during pregnancy.\"", "zh": "「若在懷孕期間感染，對胎兒沒有任何風險。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Toxoplasmosis is caused by the protozoan parasite Toxoplasma gondii and is transmitted through ingestion of undercooked or raw meat or through handling litter from infected cats; the organism crosses the placenta and can cause miscarriage, especially in the first trimester. Meat should be cooked thoroughly (well-done), not medium-rare, and the infection is not transmitted by airborne droplets.", "zh": "弓蟲病由原蟲弓形蟲（Toxoplasma gondii）引起，經食入未煮熟或生肉，或接觸受感染貓的貓砂傳染；此病原體可通過胎盤，尤其於第一孕期感染可能造成流產。肉類應徹底煮熟（全熟），而非五分熟，且此病並非透過空氣飛沫傳播。"},
+    "pdf_pages": [347],
+    "tags": ["prevention"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client who is HIV-positive is in active labor with an HIV RNA viral load of 800 copies/mL, and a vaginal birth is planned. When should intravenous zidovudine be administered?", "zh": "一名 HIV 陽性個案正處於活動期產程，HIV RNA 病毒量為 800 copies/mL，計畫經陰道生產。靜脈注射齊多夫定（zidovudine）應於何時給予？"},
+    "options": [
+      {"en": "It should not be given during labor; it is only given to the newborn after birth", "zh": "產程中不應給予，僅於出生後給新生兒使用"},
+      {"en": "1 hour before the anticipated vaginal birth", "zh": "預期陰道分娩前 1 小時"},
+      {"en": "3 hours before the anticipated vaginal birth", "zh": "預期陰道分娩前 3 小時"},
+      {"en": "Only if the client develops a fever during labor", "zh": "僅在個案產程中發燒時才給予"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Intrapartum zidovudine is given intravenously 1 hour before a vaginal birth (or 3 hours before a scheduled cesarean section) when the HIV RNA viral load is greater than or equal to 400 copies/mL or unknown, to help reduce the risk of mother-to-child transmission. Since this client's viral load is 800 copies/mL, zidovudine should be given 1 hour before the vaginal birth.", "zh": "當 HIV RNA 病毒量大於或等於 400 copies/mL 或未知時，產程中應於陰道分娩前 1 小時（若排程剖腹產則為前 3 小時）靜脈給予齊多夫定，以降低母嬰垂直傳染風險。此個案病毒量為 800 copies/mL，應於陰道分娩前 1 小時給予。"},
+    "pdf_pages": [342, 343],
+    "tags": ["dosage calc", "timing"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client has just had a cervical cerclage placed for an incompetent cervix at 12 weeks' gestation. Which instruction should the nurse include in discharge teaching?", "zh": "一名個案於懷孕 12 週因子宮頸閉鎖不全剛接受子宮頸環紮術。護理師在出院指導中應包含下列哪一項內容？"},
+    "options": [
+      {"en": "\"You may resume sexual intercourse as soon as you feel comfortable.\"", "zh": "「只要您感覺舒適，就可以恢復性行為。」"},
+      {"en": "\"Report any increase in uterine contractions or vaginal bleeding to your provider immediately.\"", "zh": "「若子宮收縮增加或陰道出血，請立即告知您的醫療人員。」"},
+      {"en": "\"You will need the stitch removed and replaced every 4 weeks until delivery.\"", "zh": "「您需要每 4 週拆線並重新環紮一次，直到生產為止。」"},
+      {"en": "\"Prolonged standing and heavy lifting are encouraged to strengthen your pelvic floor.\"", "zh": "「建議長時間站立及提重物，以強化骨盆底肌肉。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "After cervical cerclage placement, the client should avoid intercourse, prolonged standing, and heavy lifting, and should be monitored for signs of contractions, rupture of membranes, and infection. Any increase in uterine contractions or vaginal bleeding after the procedure should be reported to the PHCP immediately. The cerclage is not removed and replaced repeatedly; it typically remains in place until about 37 weeks or until a cesarean birth.", "zh": "子宮頸環紮術後，個案應避免性行為、長時間站立及提重物，並需監測子宮收縮、破水及感染的徵象。術後若子宮收縮增加或陰道出血，應立即告知醫療人員。環紮線並不需反覆拆除重做，通常會留置至約懷孕 37 週或直到剖腹產為止。"},
+    "pdf_pages": [347],
+    "tags": ["red flag", "requires immediate action"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who is obese is being admitted in early labor. Which potential complications should the nurse anticipate in planning this client's care? Select all that apply.", "zh": "一名肥胖個案正因早期產程入院。護理師在規劃此個案照護時，應預期下列哪些潛在併發症？（請選出所有正確答案）"},
+    "options": [
+      {"en": "Increased risk for venous thromboembolism", "zh": "靜脈血栓栓塞風險增加"},
+      {"en": "Decreased risk for cesarean birth", "zh": "剖腹產風險降低"},
+      {"en": "Increased risk for gestational hypertension and preeclampsia", "zh": "妊娠高血壓及子癲前症風險增加"},
+      {"en": "Easier IV and epidural access", "zh": "靜脈及脊髓外麻醉置管較容易"},
+      {"en": "Increased risk for wound infection or dehiscence after cesarean birth", "zh": "剖腹產後傷口感染或裂開風險增加"}
+    ],
+    "answer": [0, 2, 4],
+    "rationale": {"en": "Obesity in pregnancy increases the risk for gestational diabetes, gestational hypertension, preeclampsia, venous thromboembolism, and the need for cesarean birth (not a decreased risk). Obesity is also associated with difficulty obtaining IV access, epidural access, or intubation, and an increased (not decreased) risk of wound infection or dehiscence from excess abdominal fat.", "zh": "懷孕期肥胖會增加妊娠糖尿病、妊娠高血壓、子癲前症、靜脈血栓栓塞及剖腹產需求（而非降低）的風險。肥胖也會造成靜脈及脊髓外麻醉置管或插管困難，且因腹部脂肪過多而使傷口感染或裂開風險增加（而非降低）。"},
+    "pdf_pages": [353, 354],
+    "tags": ["sata", "risk factors"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client at 28 weeks' gestation is suspected of having a multiple gestation. Which assessment findings would support this suspicion? Select all that apply.", "zh": "一名懷孕 28 週的個案疑似為多胎妊娠。下列哪些評估發現支持此懷疑？（請選出所有正確答案）"},
+    "options": [
+      {"en": "Uterus large for gestational age", "zh": "子宮大小大於妊娠週數"},
+      {"en": "Auscultation of only one fetal heart rate throughout the abdomen", "zh": "全腹部聽診僅聽到一個胎心音"},
+      {"en": "Excessive fetal activity reported by the client", "zh": "個案表示胎動異常頻繁"},
+      {"en": "Palpation of three or four large fetal parts", "zh": "觸診到三至四個較大的胎兒部位"},
+      {"en": "Weight gain less than expected for gestational age", "zh": "體重增加低於妊娠週數預期"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Findings suggestive of multiple gestation include a uterus that is large for gestational age, excessive fetal activity, palpation of three or four large fetal parts, auscultation of more than one fetal heart rate, and excessive (not reduced) weight gain.", "zh": "提示多胎妊娠的發現包括子宮大小大於妊娠週數、胎動異常頻繁、觸診到三至四個較大的胎兒部位、聽診到一個以上的胎心音，以及體重增加過多（而非減少）。"},
+    "pdf_pages": [348],
+    "tags": ["sata", "recognizing cues"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A client at her initial prenatal visit asks why she needs a blood test for syphilis if she has no symptoms. What should the nurse explain?", "zh": "一名個案於初次產檢時詢問，為何自己沒有任何症狀卻需要做梅毒血液檢測。護理師應如何解釋？"},
+    "options": [
+      {"en": "\"Syphilis screening is only necessary if you report genital lesions.\"", "zh": "「只有您主訴生殖器病灶時才需要梅毒篩檢。」"},
+      {"en": "\"A screening test (VDRL or RPR) is performed on all pregnant clients at the first visit, and may be repeated at 36 weeks in high-risk clients, because early treatment prevents transmission to the fetus.\"", "zh": "「所有孕婦於初次產檢都會進行篩檢（VDRL 或 RPR），高風險個案可能於懷孕 36 週時再複檢一次，因為及早治療可預防傳染給胎兒。」"},
+      {"en": "\"This test is only required in the third trimester.\"", "zh": "「這項檢測只需在第三孕期做就好。」"},
+      {"en": "\"If this test is positive, the pregnancy must be terminated.\"", "zh": "「如果這項檢測結果陽性，就必須終止妊娠。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Because syphilis is often asymptomatic yet can cross the placenta and cause severe congenital effects after the fourth month, VDRL or RPR serologic testing is performed on all pregnant clients at the first prenatal visit, with repeat testing at 36 weeks of gestation in high-risk clients; antibiotic treatment during pregnancy reduces transmission risk, and termination is not required.", "zh": "由於梅毒常無症狀，卻可通過胎盤並於懷孕第四個月後造成嚴重先天性影響，所有孕婦於初次產檢都應接受 VDRL 或 RPR 血清檢測，高風險個案於懷孕 36 週再複檢一次；懷孕期使用抗生素治療可降低傳染風險，不需終止妊娠。"},
+    "pdf_pages": [351],
+    "tags": ["screening"]
+  }
+]

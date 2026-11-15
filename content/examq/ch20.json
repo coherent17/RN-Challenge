@@ -1,0 +1,170 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "An 84-year-old client in a long-term care facility has no fever but develops new mild confusion, decreased appetite, and increased daytime sleepiness over 2 days. What should the nurse suspect first?", "zh": "一名住在長照機構的 84 歲個案沒有發燒，但在 2 天內出現新的輕微意識混亂、食慾下降及白天嗜睡增加。護理師應先懷疑什麼？"},
+    "options": [
+      {"en": "Normal age-related change requiring no action", "zh": "正常老化變化，不需處置"},
+      {"en": "A possible underlying infection, such as a urinary tract infection", "zh": "可能有潛在感染，例如泌尿道感染"},
+      {"en": "Early signs of irreversible dementia", "zh": "不可逆失智症的早期徵象"},
+      {"en": "Normal grief reaction to facility placement", "zh": "對入住機構的正常哀傷反應"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Older adults often present with nonspecific signs of infection such as anorexia, apathy, functional decline, and altered mental status rather than fever; a sudden change in mental status should prompt an infection workup before it is attributed to dementia or normal aging.", "zh": "老年人感染常呈現非特異性徵象，如厭食、冷漠、功能下降與意識狀態改變，而非發燒；突發的意識狀態改變應先評估是否有感染，不應直接歸因於失智或正常老化。"},
+    "pdf_pages": [304],
+    "tags": ["recognizing cues", "atypical presentation"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is beginning rounds on four older clients. Which client should the nurse assess first for fall risk?", "zh": "護理師開始巡視四名老年個案。護理師應優先評估哪位個案的跌倒風險？"},
+    "options": [
+      {"en": "A client with mild presbyopia who wears reading glasses", "zh": "有輕微老花、戴老花眼鏡的個案"},
+      {"en": "A client with slowed reflexes, muscle atrophy, and a new wide-based, shortened gait", "zh": "反射變慢、肌肉萎縮且新出現步態變短、底寬的個案"},
+      {"en": "A client with mild hearing loss who uses a hearing aid", "zh": "有輕微聽力喪失、使用助聽器的個案"},
+      {"en": "A client with constipation managed with increased fiber", "zh": "以增加纖維處理便秘的個案"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The combination of slowed neurologic reflexes and musculoskeletal changes such as muscle atrophy and an altered gait substantially increases fall risk and requires the most urgent assessment and intervention, such as evaluating the need for an assistive device.", "zh": "神經反射變慢加上肌肉骨骼變化（如肌肉萎縮與步態改變）會大幅增加跌倒風險，需要最優先的評估與處置，例如評估是否需要輔助器具。"},
+    "pdf_pages": [301, 302],
+    "tags": ["priority", "fall risk"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "An older client who was oriented and functioning normally yesterday is now disoriented, picking at the bedsheets, and unable to sustain attention; the behavior fluctuates throughout the shift and worsens in the evening. Which condition does this most likely represent?", "zh": "一名老年個案昨天意識清楚、功能正常，今天出現定向力障礙、玩弄床單且無法維持注意力；此行為在整班中起伏變化，且在晚上更嚴重。此情況最可能代表什麼？"},
+    "options": [
+      {"en": "Dementia", "zh": "失智症"},
+      {"en": "Major depressive disorder", "zh": "重度憂鬱症"},
+      {"en": "Delirium", "zh": "譫妄"},
+      {"en": "Normal age-related memory change", "zh": "正常老化的記憶變化"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Delirium has a sudden onset, fluctuates, often worsens at night, and involves impaired attention; dementia develops insidiously over years and is relatively stable day to day, and depression typically presents with flat affect and a recent onset without the acute fluctuation seen here.", "zh": "譫妄為突然發生、波動起伏，常在夜間加重且注意力受損；失智症則是數年間緩慢進展，日常相對穩定；憂鬱症通常是情感平淡、近期發作，但不會像此案例一樣急性波動。"},
+    "pdf_pages": [304],
+    "tags": ["analyzing cues", "delirium vs dementia"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "An older client recovering from a hip fracture tells the nurse, \"I don't need to keep taking all these pills, I won't be around much longer anyway.\" What is the nurse's best response?", "zh": "一名正在從髖部骨折復原的老年個案對護理師說：「我不需要再吃這些藥了，反正我也不會再活多久。」護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"That's a common feeling after an injury like this; let's talk more about what you're thinking and feeling.\"", "zh": "「受傷後有這樣的感覺很常見，我們多談談你現在的想法和感受好嗎？」"},
+      {"en": "\"You're probably just tired from physical therapy; try to rest more.\"", "zh": "「你可能只是因為物理治療太累了，多休息就好。」"},
+      {"en": "\"I understand, many people your age feel that way.\"", "zh": "「我了解，很多你這個年紀的人都有這種感覺。」"},
+      {"en": "\"Let's focus on your physical recovery for now and discuss this another time.\"", "zh": "「我們現在先專心復原身體就好，這件事以後再談。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Statements suggesting hopelessness or that one's life will not continue must always be taken seriously and explored further, regardless of the client's age; dismissing the comment as common or deferring the discussion could miss a suicide risk assessment.", "zh": "任何暗示無望感或認為生命即將結束的話語都必須嚴肅對待並進一步探討，無論個案年齡多大；將此話語視為常見現象或延後討論，可能錯失自殺風險評估的時機。"},
+    "pdf_pages": [303],
+    "tags": ["therapeutic communication", "suicide risk"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse reviews new orders for an 82-year-old client with insomnia and anxiety. Which order should the nurse question?", "zh": "護理師審閱一名 82 歲失眠合併焦慮個案的新醫囑。哪項醫囑護理師應提出質疑？"},
+    "options": [
+      {"en": "Acetaminophen 650 mg PO every 6 hours as needed for pain", "zh": "Acetaminophen 650 mg 口服每 6 小時 需要時使用，治療疼痛"},
+      {"en": "Diazepam 5 mg PO at bedtime as needed for sleep", "zh": "Diazepam 5 mg 口服睡前 需要時使用，助眠"},
+      {"en": "A low-sodium diet", "zh": "低鈉飲食"},
+      {"en": "Physical therapy consult for gait training", "zh": "會診物理治療進行步態訓練"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Benzodiazepines such as diazepam are on the Beers Criteria list of medications to avoid in older adults because of sedation, confusion, and increased fall risk; the nurse should clarify this order with the provider.", "zh": "Diazepam 等苯二氮平類藥物屬於 Beers 準則中老年人應避免使用的藥物，因為會造成鎮靜、意識混亂與跌倒風險增加；護理師應與醫師澄清此醫囑。"},
+    "pdf_pages": [305],
+    "tags": ["safety", "Beers criteria"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A nurse observes a UAP preparing to give oral medications to an older client with dysphagia. Which action by the UAP requires the nurse to intervene?", "zh": "護理師觀察一名 UAP 準備為一名有吞嚥困難的老年個案給口服藥。UAP 的哪項行為需要護理師介入？"},
+    "options": [
+      {"en": "Helping the client sit fully upright before giving medications", "zh": "給藥前協助個案完全坐直"},
+      {"en": "Crushing a sustained-release tablet and mixing it with applesauce", "zh": "磨碎長效錠並與蘋果泥混合"},
+      {"en": "Giving the pills one at a time", "zh": "一次給一顆藥"},
+      {"en": "Keeping the client sitting upright for 30 minutes after giving the medications", "zh": "給藥後維持個案坐直 30 分鐘"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Sustained-release and enteric-coated tablets must never be crushed; doing so can release the full dose at once, causing toxicity, and destroys the coating that protects the stomach or controls absorption. This action requires immediate correction.", "zh": "長效或腸溶錠絕對不可磨碎；磨碎會使整劑藥物一次釋出而造成中毒，並破壞保護胃部或控制吸收的包衣。此行為須立即糾正。"},
+    "pdf_pages": [305],
+    "tags": ["delegation", "aspiration precautions"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "An 70-year-old client at a wellness visit states, \"I already had my childhood vaccines, so I don't need any more shots now.\" Which response by the nurse is most appropriate?", "zh": "一名 70 歲個案在健康檢查時說：「我小時候已經打過疫苗了，現在不需要再打了。」護理師最適當的回應是什麼？"},
+    "options": [
+      {"en": "\"You're right, childhood vaccination provides lifelong protection.\"", "zh": "「你說得對，兒童時期的疫苗接種可以提供終身保護。」"},
+      {"en": "\"Adults your age should still receive the annual flu vaccine, as well as the pneumococcal and shingles vaccines.\"", "zh": "「像你這個年紀的成人仍應每年接種流感疫苗，以及肺炎鏈球菌與帶狀疱疹疫苗。」"},
+      {"en": "\"Vaccines are only recommended for people with chronic illnesses.\"", "zh": "「疫苗只建議慢性病患者接種。」"},
+      {"en": "\"You will not need any vaccines unless you are planning to travel.\"", "zh": "「除非你要出國旅行，否則不需要接種任何疫苗。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Reduced immune resistance with aging increases infection risk; current recommendations for older adults include yearly influenza vaccination along with pneumococcal and shingles (zoster) vaccination, regardless of childhood immunization history.", "zh": "老化造成免疫抵抗力下降，使感染風險增加；目前建議老年人每年接種流感疫苗，並接種肺炎鏈球菌與帶狀疱疹疫苗，與兒童時期是否接種無關。"},
+    "pdf_pages": [302],
+    "tags": ["need for further teaching", "health promotion"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A home health nurse is visiting several older clients. Which client is at GREATEST risk for mistreatment?", "zh": "居家護理師訪視數名老年個案。哪位個案發生受虐的風險最高？"},
+    "options": [
+      {"en": "A client who lives alone, is independent with all activities of daily living, and manages her own finances", "zh": "獨居、可完全自理日常生活並自行管理財務的個案"},
+      {"en": "A client with advanced Parkinson disease who is immobile, cognitively impaired, and depends on a grandson who controls her finances", "zh": "患有晚期帕金森氏症、行動不便、認知受損且財務由同住孫子掌控的個案"},
+      {"en": "A client with well-controlled hypertension who attends a weekly senior center program", "zh": "高血壓控制良好、每週參加老人中心活動的個案"},
+      {"en": "A client with mild osteoarthritis who uses a cane for long walks", "zh": "有輕度骨關節炎、長距離行走時使用拐杖的個案"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The highest risk for elder mistreatment occurs when a dependent, immobile, or cognitively impaired client lives with and relies on a caregiver who has control, such as over finances, creating opportunity for physical, financial, or other abuse.", "zh": "老人受虐的最高風險發生在依賴、行動不便或認知受損的個案，與擁有控制權（例如財務）的照顧者同住，這會提供身體、財務或其他虐待的機會。"},
+    "pdf_pages": [306],
+    "tags": ["priority", "elder abuse"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A nurse receives report on four older clients at the start of the shift. Which client should be assessed FIRST?", "zh": "護理師在交班時接獲四位老年個案的報告。應優先評估哪一位？"},
+    "options": [
+      {"en": "A client with stable, long-standing dementia who is at her baseline mental status", "zh": "長期穩定失智、目前意識狀態符合基準的個案"},
+      {"en": "A client with a known history of depression who reports feeling \"a little down\" today", "zh": "有憂鬱症病史、今天表示「有點低落」的個案"},
+      {"en": "A client with no cognitive history who became acutely confused and agitated within the last hour", "zh": "沒有認知功能病史、在過去一小時內突然出現意識混亂與躁動的個案"},
+      {"en": "A client with mild hearing loss waiting for breakfast", "zh": "有輕微聽力喪失、正在等早餐的個案"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A sudden, acute change in mental status in a client with no prior cognitive impairment suggests delirium from a potentially serious cause such as infection, medication reaction, or metabolic derangement, and requires the most urgent assessment.", "zh": "先前無認知功能障礙的個案突然出現急性意識狀態改變，提示可能是感染、藥物反應或代謝異常等潛在嚴重原因所致的譫妄，需要最優先的評估。"},
+    "pdf_pages": [304, 305],
+    "tags": ["priority", "delegation"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A provider prescribes a renally excreted antibiotic at the standard adult dose for an 88-year-old client. Which age-related change makes the nurse most concerned about potential toxicity?", "zh": "醫師為一名 88 歲個案開立標準成人劑量的腎臟排除抗生素。哪項老化相關變化最讓護理師擔心可能發生中毒？"},
+    "options": [
+      {"en": "Decreased glomerular filtration rate and reduced renal drug clearance", "zh": "腎絲球過濾率下降與腎臟藥物清除能力降低"},
+      {"en": "Increased gastric acid production", "zh": "胃酸分泌增加"},
+      {"en": "Increased hepatic blood flow", "zh": "肝血流量增加"},
+      {"en": "Increased serum albumin available to bind the drug", "zh": "可結合藥物的血清白蛋白增加"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Aging reduces kidney size, glomerular filtration rate, and the ability to excrete drugs, so standard adult doses of renally cleared medications can accumulate and cause toxicity; older adult doses are often one-third to one-half of the typical adult dose.", "zh": "老化使腎臟縮小、腎絲球過濾率下降、藥物排除能力減弱，因此標準成人劑量的腎臟排除藥物可能蓄積並造成中毒；老年人劑量常為一般成人劑量的三分之一至二分之一。"},
+    "pdf_pages": [302, 304],
+    "tags": ["dosage calc", "red flag"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "The family of a client with age-related high-frequency hearing loss asks how to best communicate with him. Which suggestion by the nurse is most appropriate?", "zh": "一名有老化相關高頻聽力喪失個案的家屬詢問護理師如何與他溝通最好。護理師最適當的建議是什麼？"},
+    "options": [
+      {"en": "Shout in a high-pitched voice from across the room", "zh": "在房間另一端用高音量尖聲喊叫"},
+      {"en": "Face him directly and speak slowly in a lower-pitched voice at a normal volume", "zh": "面對著他直接說話，用較低音調、正常音量緩慢說話"},
+      {"en": "Always communicate by passing written notes instead of speaking", "zh": "一律用寫字條代替說話"},
+      {"en": "Speak only from behind him so he is not startled", "zh": "只從他背後說話，避免驚嚇他"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Age-related hearing loss affects high-frequency sounds first, so lower-pitched voices are heard more easily than shouting in a high pitch; facing the client also allows lip-reading and visual cues, which shouting from behind or across a room does not provide.", "zh": "老化相關聽力喪失先影響高頻音，因此較低音調比高音量尖聲喊叫更容易聽清楚；面對個案說話也能讓對方讀唇與觀察表情，從背後或房間另一端喊叫則無法提供這些輔助。"},
+    "pdf_pages": [303],
+    "tags": ["therapeutic communication", "sensory changes"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is teaching an older client with a tendency toward orthostatic hypotension how to reduce fall risk. Which statement by the client indicates understanding?", "zh": "護理師教導一名有姿勢性低血壓傾向的老年個案如何降低跌倒風險。個案的哪句話顯示理解正確？"},
+    "options": [
+      {"en": "\"I will get out of bed quickly in the morning so I don't lose my balance.\"", "zh": "「我早上會快點起床，這樣就不會失去平衡。」"},
+      {"en": "\"I will sit on the edge of the bed for a minute before standing up.\"", "zh": "「我會先坐在床邊一分鐘再站起來。」"},
+      {"en": "\"I should hold my breath and stand up as fast as possible.\"", "zh": "「我應該憋住呼吸並盡快站起來。」"},
+      {"en": "\"Since my blood pressure is usually high, I don't need to worry about this.\"", "zh": "「因為我的血壓通常偏高，所以不需要擔心這個問題。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Rising slowly, such as sitting at the edge of the bed before standing, allows the cardiovascular system time to compensate and reduces the drop in blood pressure that causes dizziness and falls; older adults can have a higher baseline blood pressure yet still be prone to orthostatic hypotension on position change.", "zh": "緩慢起身，例如先坐在床邊再站起來，可讓心血管系統有時間代償，減少姿勢改變造成的血壓下降，降低眩暈與跌倒的風險；老年人基準血壓可能偏高，但在改變姿勢時仍容易發生姿勢性低血壓。"},
+    "pdf_pages": [301, 302],
+    "tags": ["evaluating outcomes", "fall risk"]
+  }
+]

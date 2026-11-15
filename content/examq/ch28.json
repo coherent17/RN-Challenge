@@ -1,0 +1,230 @@
+[
+  {
+    "cat": "RR",
+    "stem": {"en": "At 1 minute after birth, a newborn has a heart rate of 90 beats/minute, slow and irregular respirations with a weak cry, some flexion of the extremities, a grimace in response to suctioning, and a pink body with blue extremities. What is this newborn's Apgar score?", "zh": "新生兒出生後1分鐘,心跳90次/分、呼吸緩慢不規則且哭聲微弱、四肢有部分屈曲、抽吸時出現做臉表情、身體粉紅但四肢發紺。此新生兒的Apgar評分為多少?"},
+    "options": [
+      {"en": "3", "zh": "3分"},
+      {"en": "5", "zh": "5分"},
+      {"en": "7", "zh": "7分"},
+      {"en": "9", "zh": "9分"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Heart rate <100 = 1 point, slow/irregular respirations with weak cry = 1 point, some flexion of extremities = 1 point, grimace response = 1 point, and body pink with blue extremities (acrocyanosis) = 1 point, for a total of 5. A score of 4-7 indicates the newborn needs stimulation, back rubbing, and oxygen administration with rescoring, rather than full resuscitation (0-3) or routine support only (8-10).", "zh": "心跳<100次/分=1分、呼吸緩慢不規則合併哭聲微弱=1分、四肢部分屈曲=1分、做臉反應=1分、身體粉紅但四肢發紺(肢端發紺)=1分,總分為5分。評分4-7分代表新生兒需要刺激、拍背及給氧並重新評分,而非完全復甦(0-3分)或僅需一般支持(8-10分)。"},
+    "pdf_pages": [402],
+    "tags": ["Apgar", "scoring", "priority"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "Immediately after birth, a newborn has a heart rate of 80 beats/minute, is limp, and makes no spontaneous respiratory effort despite stimulation. What is the nurse's first action?", "zh": "新生兒出生後立即出現心跳80次/分、肌肉張力軟弱無力,且經刺激後仍無自發性呼吸。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Obtain a full set of vital signs and document the findings", "zh": "測量完整生命徵象並記錄發現"},
+      {"en": "Begin positive-pressure ventilation and call for additional help", "zh": "開始給予正壓通氣,並呼叫其他人員協助"},
+      {"en": "Wrap the newborn in a warm blanket and continue to observe", "zh": "將新生兒包裹保暖並持續觀察"},
+      {"en": "Place the newborn skin-to-skin with the birthing parent to encourage spontaneous breathing", "zh": "讓新生兒與生產者進行肌膚接觸,以促進自發性呼吸"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A heart rate below 100 beats/minute with absent spontaneous respirations after stimulation indicates the newborn is not establishing adequate ventilation; the priority action is to begin positive-pressure ventilation and summon additional help rather than simply documenting, observing, or attempting skin-to-skin contact, which do not address the immediate airway/breathing emergency.", "zh": "刺激後心跳低於100次/分且無自發性呼吸,代表新生兒無法建立足夠的通氣;優先行動是開始正壓通氣並呼叫額外支援,而非僅記錄、觀察或嘗試肌膚接觸,這些都無法處理立即的呼吸道/呼吸緊急狀況。"},
+    "pdf_pages": [402, 412],
+    "tags": ["emergency", "first action", "ABCs", "recognize cues"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse is assessing a preterm newborn for respiratory distress syndrome. Which findings would the nurse identify as consistent with this condition? Select all that apply.", "zh": "護理師正在評估一位早產新生兒是否出現呼吸窘迫症候群。下列哪些發現符合此疾病表現?(請選出所有適用選項)"},
+    "options": [
+      {"en": "Nasal flaring", "zh": "鼻翼煽動"},
+      {"en": "Seesaw (paradoxical) respirations", "zh": "矛盾式(搖擺式)呼吸"},
+      {"en": "Expiratory grunting", "zh": "呼氣性呻吟聲"},
+      {"en": "Bradycardia and apneic periods longer than 15 seconds", "zh": "心搏過慢及超過15秒的呼吸暫停"},
+      {"en": "Increased muscle tone with tight fist clenching", "zh": "肌肉張力增加並緊握拳頭"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Respiratory distress is characterized by nasal flaring, seesaw respirations, grunting, retractions, pallor, cyanosis, and bradycardia with apneic periods exceeding 15 seconds. Poor muscle tone, not increased tone, is associated with respiratory distress; firm fist clenching is a normal newborn finding, not a sign of respiratory compromise.", "zh": "呼吸窘迫的特徵包括鼻翼煽動、矛盾式呼吸、呻吟聲、凹陷、面色蒼白、發紺,以及超過15秒的呼吸暫停合併心搏過慢。呼吸窘迫伴隨的是肌肉張力降低而非增加;緊握拳頭是正常新生兒表現,並非呼吸功能受損的徵象。"},
+    "pdf_pages": [412, 419],
+    "tags": ["sata", "red flag", "recognize cues"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A nurse is assessing a 6-hour-old term newborn. Which finding requires the nurse to notify the primary health care provider (PHCP)?", "zh": "護理師正在評估一位出生6小時的足月新生兒。下列哪項發現需要通報主要照護醫療提供者(PHCP)?"},
+    "options": [
+      {"en": "Axillary temperature of 97.9° F (36.6° C)", "zh": "腋溫97.9°F(36.6°C)"},
+      {"en": "Apical heart rate of 150 beats/minute while crying", "zh": "哭鬧時心尖脈率150次/分"},
+      {"en": "Respiratory rate of 72 breaths/minute with grunting and retractions", "zh": "呼吸速率72次/分,伴隨呻吟聲及凹陷"},
+      {"en": "Acrocyanosis of the hands and feet", "zh": "手腳肢端發紺"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A normal newborn respiratory rate is 30 to 60 breaths/minute; a rate of 72 breaths/minute accompanied by grunting and retractions indicates respiratory distress and must be reported immediately. A temperature of 97.9° F, a heart rate of 150 while crying (up to 180 is expected with crying), and acrocyanosis in the first hours of life are normal findings.", "zh": "正常新生兒呼吸速率為每分鐘30至60次;呼吸速率72次/分合併呻吟聲及凹陷,代表呼吸窘迫,須立即通報。體溫97.9°F、哭鬧時心率150次/分(哭鬧時可達180次/分屬正常)及出生初期的肢端發紺皆屬正常發現。"},
+    "pdf_pages": [403, 412],
+    "tags": ["vital signs", "recognize cues", "priority"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse notes a soft, edematous swelling on the scalp of a newborn born vaginally after a prolonged second stage of labor. The swelling crosses the suture lines and was present immediately at birth. Which statement by the nurse to the parent is most accurate?", "zh": "護理師注意到一名經陰道分娩、第二產程延長的新生兒頭皮出現柔軟、水腫性腫塊,此腫塊跨越顱縫線,且出生時即已出現。護理師向父母的說明中,下列哪項最準確?"},
+    "options": [
+      {"en": "\"This is caput succedaneum, swelling of the soft tissue that typically resolves within a few days.\"", "zh": "「這是胎頭水腫,屬於軟組織腫脹,通常幾天內會消退。」"},
+      {"en": "\"This is a cephalhematoma, caused by bleeding between the skull bone and its periosteum, which may take weeks to resolve.\"", "zh": "「這是頭皮下血腫,是由顱骨與骨膜之間出血造成,可能需數週才會消退。」"},
+      {"en": "\"This swelling indicates a skull fracture and needs immediate imaging.\"", "zh": "「這個腫脹代表顱骨骨折,需要立即進行影像檢查。」"},
+      {"en": "\"This finding is abnormal and suggests increased intracranial pressure.\"", "zh": "「這個發現是異常的,可能代表顱內壓升高。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Caput succedaneum is edema of the soft tissue over the bone that crosses suture lines, is present at birth, and resolves within a few days. A cephalhematoma does not cross suture lines, appears from bleeding between the bone and periosteum, and may take up to 6 weeks to resolve, so it would not be the correct description here. Neither finding indicates a fracture or increased intracranial pressure.", "zh": "胎頭水腫是骨骼上方軟組織的水腫,會跨越顱縫線,出生時即出現,通常幾天內消退。頭皮下血腫不會跨越顱縫線,是由骨骼與骨膜間出血造成,可能需長達6週才消退,因此並非此處正確描述。這兩種發現皆不代表骨折或顱內壓升高。"},
+    "pdf_pages": [403],
+    "tags": ["growth and development", "head", "evaluate outcomes"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "While assessing a newly delivered newborn's umbilical cord, the nurse counts only two vessels instead of three. What is the nurse's priority action?", "zh": "護理師評估新生兒臍帶時,發現只有兩條血管而非三條。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Document the finding as a normal variation and take no further action", "zh": "將此發現記錄為正常變異,不需進一步處理"},
+      {"en": "Notify the PHCP and anticipate further evaluation for associated anomalies", "zh": "通報主要照護醫療提供者,並預期將進行相關異常的進一步評估"},
+      {"en": "Apply a second umbilical clamp to reinforce the cord", "zh": "再加上第二個臍帶夾以加強固定臍帶"},
+      {"en": "Remove the umbilical clamp immediately to inspect the vessels more closely", "zh": "立即移除臍帶夾以更仔細檢查血管"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "A normal umbilical cord has three vessels (two arteries, one vein); a two-vessel cord is associated with a higher correlation of intrauterine growth restriction and genetic or chromosomal anomalies, so the PHCP must be notified for further evaluation. This finding is not simply a normal variation requiring no action, and reinforcing the clamp or removing it early does not address the underlying concern.", "zh": "正常臍帶有三條血管(兩條動脈、一條靜脈);兩條血管的臍帶與子宮內生長限制及基因或染色體異常的相關性較高,因此須通報主要照護醫療提供者以進行進一步評估。此發現並非單純的正常變異、不需處理,而加強固定或提早移除臍帶夾也無法解決根本的疑慮。"},
+    "pdf_pages": [406],
+    "tags": ["recognize cues", "abdomen", "first action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A large-for-gestational-age newborn born to a birthing parent with gestational diabetes is being monitored in the nursery. Which findings would alert the nurse to the possibility of hypoglycemia in this newborn? Select all that apply.", "zh": "一名出生於妊娠糖尿病生產者的巨大兒,正於嬰兒室接受監測。下列哪些發現會提醒護理師此新生兒可能發生低血糖?(請選出所有適用選項)"},
+    "options": [
+      {"en": "Jitteriness and tremors", "zh": "顫抖與震顫"},
+      {"en": "High-pitched cry", "zh": "高音調哭聲"},
+      {"en": "Lethargy and poor feeding", "zh": "昏睡與進食不良"},
+      {"en": "Temperature instability", "zh": "體溫不穩定"},
+      {"en": "Sustained heart rate of 140 beats/minute while awake and quiet", "zh": "清醒安靜時持續心跳140次/分"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Signs of hypoglycemia in the newborn include jitteriness/tremors, a high-pitched cry, lethargy, poor feeding, temperature instability, apnea, seizures, and cyanosis. A heart rate of 140 beats/minute in an awake, quiet newborn is within the expected resting range (110 to 160 beats/minute) and is not a sign of hypoglycemia.", "zh": "新生兒低血糖的徵象包括顫抖/震顫、高音調哭聲、昏睡、進食不良、體溫不穩定、呼吸暫停、癲癇發作及發紺。清醒安靜時心跳140次/分屬於正常靜息範圍(110至160次/分),並非低血糖的徵象。"},
+    "pdf_pages": [416, 419],
+    "tags": ["sata", "hypoglycemia", "recognize cues", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A term newborn's axillary temperature drops to 96.2° F (35.7° C) 30 minutes after birth. What is the nurse's priority action?", "zh": "一名足月新生兒出生後30分鐘,腋溫下降至96.2°F(35.7°C)。護理師應優先採取的行動是什麼?"},
+    "options": [
+      {"en": "Recheck the temperature again in 4 hours per routine protocol", "zh": "依常規協定於4小時後再次測量體溫"},
+      {"en": "Dry the newborn thoroughly, apply a cap, and place the newborn in a radiant warmer", "zh": "徹底擦乾新生兒、戴上帽子,並放入輻射保溫箱"},
+      {"en": "Bathe the newborn in warm water to raise the temperature", "zh": "用溫水為新生兒洗澡以提高體溫"},
+      {"en": "Give the newborn warmed formula to raise core temperature", "zh": "給新生兒喝溫熱的配方奶以提高核心體溫"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Hypothermia causes cold stress, which diverts oxygen consumption and energy from maintaining normal brain and cardiac function and can lead to metabolic acidosis; the priority is to dry, wrap/cap, and warm the newborn using a radiant warmer, not wait for a scheduled recheck, bathe the hypothermic newborn (which increases heat loss via evaporation), or attempt oral feeding before stabilizing temperature.", "zh": "體溫過低會造成冷壓迫,使氧氣消耗及能量從維持正常腦部與心臟功能中轉移,可能導致代謝性酸中毒;優先處理是擦乾、包裹/戴帽並以輻射保溫箱為新生兒保暖,而非等待常規複測、為體溫過低的新生兒洗澡(會因蒸發增加熱量流失),或在穩定體溫前嘗試餵食。"},
+    "pdf_pages": [407, 419],
+    "tags": ["thermoregulation", "first action", "cold stress"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The nurse notes jaundice in a newborn who is 18 hours old. What is the most important nursing action?", "zh": "護理師注意到一名出生18小時的新生兒出現黃疸。護理師最重要的行動是什麼?"},
+    "options": [
+      {"en": "Document the finding as expected physiological jaundice", "zh": "將此發現記錄為正常的生理性黃疸"},
+      {"en": "Reassure the parent that jaundice is common and will resolve on its own", "zh": "向父母保證黃疸很常見,會自行消退"},
+      {"en": "Report the finding to the PHCP because jaundice within the first 24 hours is pathological", "zh": "通報主要照護醫療提供者,因為出生24小時內出現的黃疸屬於病理性"},
+      {"en": "Switch the newborn from breast-feeding to formula feeding", "zh": "將新生兒由母乳哺餵改為配方奶哺餵"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Physiological jaundice appears after the first 24 hours in a term newborn; jaundice occurring before 24 hours is pathological, may indicate early hemolysis of red blood cells, and must be reported to the PHCP promptly. Documenting it as expected, reassuring without reporting, or switching feeding method does not address this urgent finding.", "zh": "足月新生兒的生理性黃疸會在出生24小時後出現;若在24小時內即出現黃疸則屬病理性,可能代表早期紅血球溶血,須立即通報主要照護醫療提供者。單純記錄為正常、安撫而不通報,或改變哺餵方式皆無法處理此緊急發現。"},
+    "pdf_pages": [412, 413],
+    "tags": ["hyperbilirubinemia", "red flag", "recognize cues"]
+  },
+  {
+    "cat": "BC",
+    "stem": {"en": "A newborn is receiving phototherapy for hyperbilirubinemia. Which nursing actions are appropriate? Select all that apply.", "zh": "一名新生兒正接受光照治療以治療高膽紅素血症。下列哪些護理措施是適當的?(請選出所有適用選項)"},
+    "options": [
+      {"en": "Cover the newborn's eyes with eye shields, ensuring the eyelids are closed first", "zh": "為新生兒戴上眼罩,並先確認眼瞼已閉合"},
+      {"en": "Cover the genital area", "zh": "遮蓋生殖器部位"},
+      {"en": "Reposition the newborn every 2 hours", "zh": "每2小時為新生兒翻身"},
+      {"en": "Restrict fluid intake to minimize stooling", "zh": "限制液體攝取以減少排便"},
+      {"en": "Monitor skin temperature closely", "zh": "密切監測皮膚溫度"},
+      {"en": "Expect loose, green stools during treatment", "zh": "預期治療期間會出現稀軟、綠色大便"}
+    ],
+    "answer": [0, 1, 2, 4, 5],
+    "rationale": {"en": "Phototherapy care includes covering the eyes (with eyelids closed) and genitals, repositioning every 2 hours, monitoring skin temperature closely, and expecting loose green stools. Fluids are increased, not restricted, to compensate for water loss from the lights.", "zh": "光照治療的照護措施包括遮蓋眼睛(先閉合眼瞼)及生殖器、每2小時翻身、密切監測皮膚溫度,並預期會出現稀軟綠色大便。應增加而非限制液體攝取,以補充因燈光造成的水分流失。"},
+    "pdf_pages": [413],
+    "tags": ["sata", "phototherapy", "take action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A parent asks why their newborn must receive an intramuscular injection of phytonadione (vitamin K) shortly after birth. What is the nurse's best explanation?", "zh": "父母詢問為何新生兒出生後不久須接受肌肉注射的phytonadione(維生素K)。護理師最佳的說明是什麼?"},
+    "options": [
+      {"en": "\"It helps your baby develop immunity to common newborn infections.\"", "zh": "「這有助於寶寶對常見新生兒感染發展免疫力。」"},
+      {"en": "\"Newborns lack the intestinal bacteria needed to synthesize vitamin K, so the injection prevents bleeding problems.\"", "zh": "「新生兒缺乏合成維生素K所需的腸道細菌,因此注射可預防出血問題。」"},
+      {"en": "\"This prevents your baby from developing jaundice.\"", "zh": "「這可以預防寶寶出現黃疸。」"},
+      {"en": "\"The injection promotes healthy growth of bacteria in the bowel.\"", "zh": "「這項注射可促進腸道中細菌的健康生長。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Coagulation factors synthesized in the liver depend on vitamin K, which is not produced until intestinal bacteria are present; because the newborn's bowel is sterile at birth, phytonadione is given to prevent hemorrhagic disorders. It does not confer immunity, prevent jaundice, or promote bacterial growth (though rarely it can be associated with hyperbilirubinemia, not prevent it).", "zh": "肝臟合成凝血因子依賴維生素K,而維生素K須有腸道細菌存在才能合成;由於新生兒腸道在出生時是無菌的,因此給予phytonadione以預防出血性疾病。它不會提供免疫力、預防黃疸,也不會促進細菌生長(反而罕見情況下可能與高膽紅素血症有關,而非預防它)。"},
+    "pdf_pages": [406, 413],
+    "tags": ["medication safety", "patient education", "vitamin K"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is teaching new parents about preventing newborn abduction before discharge. Which parent statement indicates a correct understanding of the teaching?", "zh": "護理師在出院前向新手父母教導預防新生兒被誘拐的措施。下列哪項父母的陳述顯示其正確理解教學內容?"},
+    "options": [
+      {"en": "\"It's fine for anyone wearing scrubs to carry my baby to the nursery.\"", "zh": "「只要穿著手術服的人都可以把我的寶寶抱去嬰兒室。」"},
+      {"en": "\"I will ask to see identification badges on anyone who comes to take my baby from the room.\"", "zh": "「任何要把我寶寶帶離病房的人,我都會要求查看識別證。」"},
+      {"en": "\"I'll keep the crib near the doorway so I can watch the hallway.\"", "zh": "「我會把嬰兒床放在門口附近,這樣我就能看著走廊。」"},
+      {"en": "\"I can post photos and the room number on social media so family knows where to visit.\"", "zh": "「我可以在社群媒體上發布照片和病房號碼,讓家人知道去哪裡探訪。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Parents should be taught to check the identification of anyone removing the infant from the room, since all staff must wear visible identification badges. Newborns should never be carried by staff (they are transported in a bassinet), the crib should be positioned away from the doorway, and parents should avoid publicizing identifying details that could alert a potential abductor.", "zh": "父母應被教導查核任何要將新生兒帶離病房者的身分證件,因為所有工作人員都必須佩戴明顯的識別證。新生兒絕不應由工作人員用手抱著(應以嬰兒車/床運送)、嬰兒床應放置於遠離門口處,且父母應避免公開可能讓潛在誘拐者得知的識別資訊。"},
+    "pdf_pages": [417, 418],
+    "tags": ["evaluate outcomes", "patient education", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "An Rh-negative birthing parent delivers an Rh-positive newborn. On assessment, the nurse notes the newborn has jaundice that developed within the first 24 hours of life and mild edema. The nurse understands these findings are most consistent with which condition?", "zh": "一位Rh陰性生產者分娩出一名Rh陽性新生兒。評估時,護理師發現新生兒於出生後24小時內出現黃疸及輕度水腫。護理師了解這些發現最符合下列哪種疾病?"},
+    "options": [
+      {"en": "Transient tachypnea of the newborn", "zh": "新生兒暫時性呼吸急促"},
+      {"en": "Erythroblastosis fetalis from Rh incompatibility", "zh": "因Rh血型不合引起的胎兒紅血球造母細胞症"},
+      {"en": "Physiological jaundice related to normal bilirubin conjugation", "zh": "與正常膽紅素結合相關的生理性黃疸"},
+      {"en": "Necrotizing enterocolitis", "zh": "壞死性小腸結腸炎"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Erythroblastosis fetalis results from destruction of fetal red blood cells due to an antigen-antibody reaction when a sensitized Rh-negative parent's antibodies cross the placenta and attack Rh-positive fetal erythrocytes, presenting with anemia, edema, and jaundice that develops rapidly before 24 hours of age. The other options do not match this presentation or history.", "zh": "胎兒紅血球造母細胞症是因母體(已致敏之Rh陰性生產者)抗體穿過胎盤攻擊Rh陽性胎兒紅血球,造成抗原-抗體反應而破壞胎兒紅血球所致,表現為貧血、水腫,以及24小時內迅速發生的黃疸。其他選項均與此病史及表現不符。"},
+    "pdf_pages": [414, 415],
+    "tags": ["Rh incompatibility", "recognize cues", "PA"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A newborn with respiratory distress syndrome has been admitted to the NICU. The parents are tearful and say, \"We feel like we did something wrong to cause this.\" What is the nurse's most therapeutic response?", "zh": "一名患有呼吸窘迫症候群的新生兒已被送入新生兒加護病房。父母含淚說:「我們覺得是自己做錯了什麼才導致這種情況。」護理師最具治療性的回應是什麼?"},
+    "options": [
+      {"en": "\"You shouldn't feel guilty; there was nothing you could have done.\"", "zh": "「你們不應該感到罪惡感;這是你們無法做到的事情。」"},
+      {"en": "\"This condition is related to lung immaturity and is not caused by anything you did.\"", "zh": "「這個情況與肺部發育未成熟有關,並不是你們做了什麼而造成的。」"},
+      {"en": "\"Let's not focus on the cause right now; your baby needs you to stay positive.\"", "zh": "「我們現在先不要關注原因;你的寶寶需要你們保持積極。」"},
+      {"en": "\"Many parents feel this way, so try not to worry about it.\"", "zh": "「很多父母都有這種感覺,所以試著不要擔心。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The most therapeutic response acknowledges the parents' feelings while providing accurate information that respiratory distress syndrome results from lung immaturity and surfactant deficiency, not from anything the parents did; this directly addresses their guilt with facts. Dismissing the feeling, deflecting the question, or generalizing without addressing their specific concern are less therapeutic.", "zh": "最具治療性的回應會承認父母的感受,同時提供準確資訊,說明呼吸窘迫症候群是肺部未成熟及表面張力素不足所致,並非父母所造成;這能以事實直接回應他們的罪惡感。忽視感受、迴避問題或籠統回應而未處理他們的具體擔憂,治療效果較差。"},
+    "pdf_pages": [412],
+    "tags": ["therapeutic communication", "psychosocial"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "The parents of an infant who is choking and unable to cough or cry have performed back slaps and chest thrusts as taught, but the infant suddenly becomes unresponsive. What should the parents do next?", "zh": "一名嬰兒出現噎住、無法咳嗽或哭喊,父母已依指導施行拍背及胸部擠壓,但嬰兒突然失去反應。父母接下來應該怎麼做?"},
+    "options": [
+      {"en": "Continue back slaps and chest thrusts without interruption", "zh": "持續不間斷地進行拍背及胸部擠壓"},
+      {"en": "Perform a blind finger sweep of the mouth to remove the object", "zh": "用手指盲目探入口中清除異物"},
+      {"en": "Activate the emergency response system and begin cardiopulmonary resuscitation", "zh": "啟動緊急救援系統並開始心肺復甦術"},
+      {"en": "Hold the infant upright and pat the back gently until help arrives", "zh": "將嬰兒抱直並輕拍背部直到救援到達"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "If the infant becomes unresponsive during a choking episode, the caregiver must call for help/activate the emergency response system and begin CPR; blind finger sweeps are never performed because they can push the object farther into the airway, and continuing back slaps/chest thrusts or gentle patting is not appropriate once the infant is unresponsive.", "zh": "若嬰兒在噎住過程中失去反應,照護者須呼叫協助/啟動緊急應變系統並開始CPR;絕不可進行手指盲目探入清除異物,因為可能將異物推得更深入呼吸道;一旦嬰兒失去反應,繼續拍背/胸部擠壓或輕拍背部已不適當。"},
+    "pdf_pages": [419],
+    "tags": ["emergency", "choking", "evaluate outcomes"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The RN is planning assignments in the newborn nursery. Which task is most appropriate to delegate to an unlicensed assistive personnel (UAP)?", "zh": "RN正在規劃嬰兒室的工作分配。下列哪項任務最適合委派給非執照輔助人員(UAP)?"},
+    "options": [
+      {"en": "Assessing a newborn's Moro reflex during the initial physical examination", "zh": "於初次身體檢查時評估新生兒的驚嚇反射(Moro反射)"},
+      {"en": "Weighing a stable newborn and recording the result on the flow sheet", "zh": "為穩定的新生兒量體重並將結果記錄於流程表"},
+      {"en": "Interpreting a newborn's Apgar score to determine the need for resuscitation", "zh": "判讀新生兒的Apgar評分以決定是否需要復甦"},
+      {"en": "Teaching new parents about signs of newborn hypoglycemia to report", "zh": "教導新手父母應通報的新生兒低血糖徵象"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Weighing a stable newborn and recording the result is a task within the scope of a UAP. Assessing reflexes, interpreting Apgar scores to determine clinical actions, and patient teaching require the clinical judgment and education preparation of a licensed nurse, and cannot be delegated to a UAP.", "zh": "為穩定的新生兒量體重並記錄結果屬於UAP的職責範圍。評估反射、判讀Apgar評分以決定臨床處置,以及病人教育,皆需要具執照護理師的臨床判斷及教育訓練,不能委派給UAP。"},
+    "pdf_pages": [403, 404],
+    "tags": ["delegation", "management of care"]
+  }
+]

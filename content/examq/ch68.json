@@ -1,0 +1,248 @@
+[
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client arrives at the crisis clinic in acute distress after sudden job loss, stating, “I don’t know what to do; everything is falling apart.” Which nursing action is the priority at this time?",
+      "zh": "一名病人因突然失業而陷入急性困擾，前來危機門診，表示：「我不知道該怎麼辦，一切都在崩潰。」此時護理師的優先行動為下列何項？"
+    },
+    "options": [
+      {"en": "Refer the client to long-term individual psychotherapy", "zh": "將病人轉介接受長期個別心理治療"},
+      {"en": "Assess the client’s perception of the precipitating event and current level of danger to self", "zh": "評估病人對誘發事件的認知及目前對自身的危險程度"},
+      {"en": "Teach the client stress-management techniques for future crises", "zh": "教導病人應對未來危機的壓力管理技巧"},
+      {"en": "Explore the client’s childhood coping patterns in depth", "zh": "深入探討病人童年時期的應對模式"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The priority in an acute crisis is to assess the client's perception of the event and immediate safety, including suicidal risk, before addressing long-term coping, teaching, or history-taking.",
+      "zh": "急性危機的優先處置是評估病人對事件的認知及當下的安全狀況（包括自殺風險），其次才處理長期應對能力、衛教或病史探討。"
+    },
+    "pdf_pages": [1090],
+    "tags": ["crisis intervention", "priority", "recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client who recently lost a spouse tells the nurse, “There's no point going on without her. I keep thinking about the gun in our house.” Which is the nurse's priority response?",
+      "zh": "一名近期喪偶的病人告訴護理師：「沒有她，活下去也沒有意義了。我一直想到我們家裡的那把槍。」護理師的優先回應為下列何項？"
+    },
+    "options": [
+      {"en": "“Try to focus on the happy memories you shared.”", "zh": "「試著想想你們共度的美好回憶。」"},
+      {"en": "“Are you thinking about using the gun to hurt yourself?”", "zh": "「你是在想用那把槍傷害自己嗎？」"},
+      {"en": "“Grief takes time; these feelings will pass.”", "zh": "「悲傷需要時間，這些感覺會過去的。」"},
+      {"en": "“I'll let your family know you’re saying this.”", "zh": "「我會讓你的家人知道你說了這些話。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "When a client references both hopelessness and a specific lethal means, the nurse must directly assess suicidal intent and plan. Redirecting to memories, minimizing the feelings, or notifying family without first assessing risk all delay a critical safety assessment.",
+      "zh": "當病人同時表達絕望感並提及具體的致命工具時，護理師必須直接評估自殺意圖與計畫。將話題導向回憶、淡化感受，或在未先評估風險前就通知家屬，皆會延誤關鍵的安全評估。"
+    },
+    "pdf_pages": [1093],
+    "tags": ["suicide risk", "therapeutic communication", "priority"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The nurse is caring for a hospitalized client who has been treated for major depression for 2 weeks. Which behaviors should alert the nurse to an increased risk for suicide? Select all that apply.",
+      "zh": "護理師正在照顧一名已接受重度憂鬱症治療兩週的住院病人。下列哪些行為應提醒護理師病人自殺風險增加？（多選）"
+    },
+    "options": [
+      {"en": "The client gives a cherished family photo album to a roommate", "zh": "病人將珍視的家庭相簿送給室友"},
+      {"en": "The client asks the nurse detailed questions about discharge criteria", "zh": "病人詳細詢問護理師有關出院標準的問題"},
+      {"en": "The client, who has been withdrawn, suddenly appears calm and cheerful", "zh": "原本沉默退縮的病人突然顯得平靜愉快"},
+      {"en": "The client requests extra visits from the chaplain", "zh": "病人要求增加牧靈關懷人員的訪視"},
+      {"en": "The client asks what medications other clients on the unit are prescribed", "zh": "病人詢問病房其他病人被處方的藥物種類"},
+      {"en": "The client completes a will with the help of a family member", "zh": "病人在家人協助下完成遺囑"}
+    ],
+    "answer": [0, 2, 4, 5],
+    "rationale": {
+      "en": "Giving away prized possessions, a sudden unexplained lift in mood after depression, inquiries about lethal means such as medications, and making or changing a will are recognized suicidal cues. Routine questions about discharge criteria and requesting spiritual support are not, by themselves, warning signs.",
+      "zh": "將珍視的物品送出、憂鬱後突然且無法解釋的情緒好轉、詢問如藥物等致命手段，以及訂立或變更遺囑，皆為已知的自殺警訊。單純詢問出院標準或要求靈性支持，本身並非警訊。"
+    },
+    "pdf_pages": [1093, 1094],
+    "tags": ["sata", "suicide cues", "recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A client on the mental health unit becomes physically aggressive and attempts to strike another client. After less restrictive measures fail, the nurse places the client in physical restraints per emergency protocol. Which action must the nurse take next?",
+      "zh": "精神衛生病房中一名病人出現肢體攻擊行為並企圖打另一名病人。在較不具限制性的措施失敗後，護理師依緊急處置流程將病人置於身體約束中。護理師接下來必須採取的行動為下列何項？"
+    },
+    "options": [
+      {"en": "Obtain a written or verbal prescription from the primary health care provider as soon as possible", "zh": "盡快取得主治醫師的書面或口頭處方"},
+      {"en": "Wait until the next scheduled shift to document the behavior leading to restraint", "zh": "等到下一班次再記錄導致約束的行為"},
+      {"en": "Remove the restraints as soon as the client appears calm, without further evaluation", "zh": "病人看起來平靜後立即移除約束，不需進一步評估"},
+      {"en": "Delegate ongoing one-to-one supervision of the restrained client to a UAP without further nursing assessment", "zh": "將受約束病人的持續一對一監督完全委派給UAP，護理師不再進行評估"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A qualified nurse may initiate restraints in an emergency but must obtain a provider's written or verbal prescription as soon as possible afterward; documentation must occur promptly, continuous one-to-one supervision with ongoing nursing assessment is required, and restraints are discontinued only after reevaluation, not simply because the client appears calm.",
+      "zh": "在緊急情況下，合格護理師可先行啟動約束措施，但之後必須盡快取得醫師的書面或口頭處方；記錄必須即時完成，需持續一對一監督並由護理師持續評估，且約束措施只能在重新評估後才可解除，而非僅因病人看起來平靜就解除。"
+    },
+    "pdf_pages": [1095],
+    "tags": ["restraints", "legal", "safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse observes a client's aggressive behavior escalating, with pacing, clenched fists, and a raised voice, but the client has not yet become violent. Which nursing actions are most appropriate at this time? Select all that apply.",
+      "zh": "護理師觀察到一名病人的攻擊行為正在升高，出現來回走動、緊握拳頭及提高音量等表現，但尚未出現暴力行為。此時下列哪些護理措施最為適當？（多選）"
+    },
+    "options": [
+      {"en": "Move the client to a quiet area away from other clients", "zh": "將病人帶到遠離其他病人的安靜區域"},
+      {"en": "Maintain a safe distance and a nonthreatening stance", "zh": "保持安全距離並採取非威脅性的姿勢"},
+      {"en": "Acknowledge the client’s anger and ask what is needed", "zh": "承認病人的憤怒情緒，並詢問病人需要什麼"},
+      {"en": "Immediately initiate seclusion", "zh": "立即執行隔離措施"},
+      {"en": "Fold arms and stand directly in front of the client to show authority", "zh": "雙臂交叉並直接站在病人面前以展現權威"},
+      {"en": "Speak in a calm, clear, assertive tone of voice", "zh": "以平靜、清晰且堅定的語調說話"}
+    ],
+    "answer": [0, 1, 2, 5],
+    "rationale": {
+      "en": "During the escalation phase, least-restrictive de-escalation strategies are used: moving to a calm area, maintaining safe distance and a nonthreatening posture, acknowledging feelings, and using a calm, assertive tone. Immediate seclusion is a more restrictive measure reserved for when the client has lost control, and a confrontational, arms-crossed stance in front of the client can escalate aggression.",
+      "zh": "在升高階段應使用限制性最低的降級策略：移至安靜區域、保持安全距離與非威脅性姿勢、承認病人的感受，並以平靜堅定的語調說話。立即隔離屬於更具限制性的措施，應保留給病人已失去控制時使用；而雙臂交叉直接站在病人面前的對抗姿勢，則可能使攻擊行為升高。"
+    },
+    "pdf_pages": [1094],
+    "tags": ["de-escalation", "sata", "safety"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A nurse educator is teaching a group of new graduate nurses about types of crises. Which client situation best illustrates a maturational (developmental) crisis?",
+      "zh": "一位護理教育師正在向新畢業護理師講解危機的類型。下列哪種病人情境最能說明成熟（發展性）危機？"
+    },
+    "options": [
+      {"en": "A new parent who feels overwhelmed and anxious about role changes after the birth of a first child", "zh": "一位新手父母在第一個孩子出生後，因角色轉變而感到不堪負荷與焦慮"},
+      {"en": "A community devastated by a tornado that destroyed multiple homes", "zh": "一個因龍捲風摧毀多戶住宅而遭受重創的社區"},
+      {"en": "A person who survives a workplace shooting", "zh": "一名職場槍擊事件的倖存者"},
+      {"en": "A family coping with a sudden cancer diagnosis in a parent", "zh": "一個家庭正在應對父母突然被診斷出癌症"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "Maturational (developmental) crises are tied to normal developmental stages and associated role changes, such as becoming a new parent, marriage, or retirement. A natural disaster and a workplace shooting are adventitious crises, and a sudden diagnosis is a situational crisis.",
+      "zh": "成熟（發展性）危機與正常的發展階段及相關角色轉變有關，例如成為新手父母、結婚或退休。天然災害與職場槍擊事件屬於意外性危機，而突發的疾病診斷則屬於情境性危機。"
+    },
+    "pdf_pages": [1091],
+    "tags": ["crisis types", "knowledge"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The adult daughter of a dying client says to the nurse, “I don’t know what to do. I don’t want her to suffer, but I’m not ready to let her go.” Which response by the nurse is most therapeutic?",
+      "zh": "一名臨終病人的成年女兒對護理師說：「我不知道該怎麼辦。我不想讓她受苦，但我還沒準備好放手讓她走。」護理師下列回應何者最具治療性？"
+    },
+    "options": [
+      {"en": "“You need to start preparing yourself for her death.”", "zh": "「你需要開始為她的死亡做準備了。」"},
+      {"en": "“It sounds like this is a really difficult time for you. Tell me more about what you’re feeling.”", "zh": "「聽起來這對你來說是非常艱難的時刻。可以多告訴我你現在的感受嗎？」"},
+      {"en": "“Everyone feels this way; it’s completely normal.”", "zh": "「每個人都會有這種感覺，這完全是正常的。」"},
+      {"en": "“Have you talked to the chaplain about this?”", "zh": "「你有跟牧靈關懷人員談過這件事嗎？」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Reflecting feelings and inviting the client to elaborate acknowledges the emotional experience and keeps the focus on the daughter's feelings. Telling her to prepare is directive, generalizing minimizes her unique experience, and deflecting to the chaplain bypasses the nurse's own therapeutic role.",
+      "zh": "反映感受並邀請對方進一步表達，能肯定其情緒經驗，並將焦點維持在女兒的感受上。要求她做準備是指導性的做法；一般化的說法會淡化她獨特的經驗；轉介給牧靈關懷人員則回避了護理師自身的治療性角色。"
+    },
+    "pdf_pages": [1092],
+    "tags": ["therapeutic communication", "grief"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "An 84-year-old client is brought to the emergency department by a caregiver for a wrist injury. The client appears fearful of the caregiver, and the nurse suspects physical abuse. Which action is the nurse's priority?",
+      "zh": "一名84歲病人由照顧者帶至急診室，主訴手腕受傷。護理師觀察到病人對照顧者顯得畏懼，懷疑有身體虐待的情形。護理師的優先行動為下列何項？"
+    },
+    "options": [
+      {"en": "Confront the caregiver about the suspected abuse immediately", "zh": "立即當面質問照顧者是否有虐待情事"},
+      {"en": "Separate the client from the caregiver to complete a private assessment and ensure immediate safety", "zh": "將病人與照顧者分開，以進行私下評估並確保立即安全"},
+      {"en": "Discharge the client home once the wrist injury is treated", "zh": "手腕傷勢處理完後即讓病人出院回家"},
+      {"en": "Wait for definitive proof of abuse before taking any action", "zh": "在取得確切的虐待證據前，不採取任何行動"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The priority is to ensure the vulnerable client's immediate safety by separating the client from the suspected abuser to allow a private, honest assessment. Confronting the caregiver can escalate danger to the client, discharging the client home without addressing safety is unsafe, and nurses are mandated to report suspected abuse without waiting for definitive proof.",
+      "zh": "優先事項是確保此脆弱病人的立即安全，將病人與疑似施虐者分開，以進行私下且誠實的評估。當面質問照顧者可能使病人處於更危險的狀況；在未處理安全問題前讓病人出院並不安全；且護理師依法有義務在懷疑虐待時即予通報，不需等待確切證據。"
+    },
+    "pdf_pages": [1098],
+    "tags": ["elder abuse", "priority", "mandatory reporting"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A client who was recently sexually assaulted tells the nurse at the crisis center, “I feel so dirty, and maybe I did something to make this happen.” Which response by the nurse is most appropriate?",
+      "zh": "一名近期遭受性侵害的病人在危機中心對護理師說：「我覺得自己很髒，也許是我做了什麼才讓這件事發生。」護理師下列回應何者最適當？"
+    },
+    "options": [
+      {"en": "“Can you tell me what you were wearing that night?”", "zh": "「你可以告訴我那天晚上你穿了什麼嗎？」"},
+      {"en": "“What happened to you was not your fault.”", "zh": "「發生在你身上的事不是你的錯。」"},
+      {"en": "“Try not to think about it, and it will get easier with time.”", "zh": "「試著不要去想這件事，時間久了會好轉。」"},
+      {"en": "“Many people feel that way at first.”", "zh": "「很多人剛開始都會有這種感覺。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A direct statement affirming that the assault was not the victim's fault addresses the self-blame directly and is validating. Asking about clothing implies the victim is responsible, telling her not to think about it blocks expression of feelings, and a general statement minimizes her individual experience.",
+      "zh": "直接肯定「這不是受害者的錯」能直接處理自我歸咎的想法，並具肯定作用。詢問當晚穿著暗示受害者應負責任；要求她不要去想會阻斷情緒表達；而一般化的說法則淡化了她個人的獨特經驗。"
+    },
+    "pdf_pages": [1099],
+    "tags": ["rape trauma syndrome", "therapeutic communication"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "The nurse is assessing a client 3 months after a serious motor vehicle collision. Which statements by the client would support a diagnosis of post-traumatic stress disorder (PTSD)? Select all that apply.",
+      "zh": "護理師在一場嚴重車禍後3個月評估一名病人。病人的下列陳述中，哪些支持創傷後壓力症（PTSD）的診斷？（多選）"
+    },
+    "options": [
+      {"en": "“I have nightmares about the crash almost every night.”", "zh": "「我幾乎每晚都會夢到車禍的惡夢。」"},
+      {"en": "“I avoid driving on the highway where it happened.”", "zh": "「我會避免開車經過事故發生的那條高速公路。」"},
+      {"en": "“I get startled and my heart races whenever I hear tires screech.”", "zh": "「每次聽到輪胎摩擦聲，我就會嚇到而心跳加速。」"},
+      {"en": "“I feel nervous before every doctor's appointment, even ones unrelated to the crash.”", "zh": "「即使是跟車禍無關的看診，我在每次看醫生前都會感到緊張。」"},
+      {"en": "“I feel disconnected from my friends and family since the crash.”", "zh": "「車禍後，我覺得自己和朋友家人變得疏離。」"},
+      {"en": "“I've started double-checking that the stove is turned off before I leave the house.”", "zh": "「我開始在離開家前反覆確認爐子是否關好。」"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {
+      "en": "PTSD is characterized by intrusive re-experiencing (nightmares), avoidance of trauma reminders (avoiding the highway), hyperarousal triggered by trauma-related cues (startle response to tire screech), and negative alterations in mood such as feeling detached from others. Generalized nervousness unrelated to the trauma and unrelated checking behaviors are not specific to PTSD.",
+      "zh": "PTSD的特徵包括：侵入性再現經驗（惡夢）、迴避與創傷有關的提示（迴避該高速公路）、由創傷相關線索誘發的過度警醒反應（聽到輪胎摩擦聲而驚嚇），以及負向情緒改變，如與他人感到疏離。與創傷無關的一般性緊張及與創傷無關的反覆檢查行為，則不具PTSD的特異性。"
+    },
+    "pdf_pages": [1099],
+    "tags": ["sata", "ptsd", "recognizing cues"]
+  },
+  {
+    "cat": "MC",
+    "stem": {
+      "en": "A school nurse examines a 7-year-old child and notes several bruises in varying stages of healing on the child's upper arms and back, along with the child's reluctance to make eye contact. The child's parent explains that the child is “just clumsy.” What is the nurse's priority action?",
+      "zh": "學校護理師為一名7歲兒童進行檢查，發現其上臂及背部有多處不同癒合階段的瘀傷，且孩子不願與人眼神接觸。家長解釋孩子「只是比較笨拙」。護理師的優先行動為下列何項？"
+    },
+    "options": [
+      {"en": "Document the findings and continue to monitor the child over the next few visits", "zh": "記錄發現，並在接下來的幾次訪視中持續觀察"},
+      {"en": "Accept the parent's explanation, because young children are often clumsy", "zh": "接受家長的解釋，因為年幼兒童常常比較笨拙"},
+      {"en": "Report the suspected abuse to the appropriate child protective agency", "zh": "向適當的兒童保護機構通報懷疑的虐待情事"},
+      {"en": "Confront the parent directly about the suspected abuse", "zh": "直接當面質問家長是否有虐待情事"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Nurses are legally mandated to report all cases of suspected child abuse to the appropriate agency; the findings of bruises in multiple stages of healing and avoidance of eye contact are concerning and warrant reporting rather than continued observation, acceptance of the explanation, or direct confrontation of the parent, which could endanger the child.",
+      "zh": "護理人員依法有義務將所有疑似兒童虐待的案例通報予適當機構；多處不同癒合階段的瘀傷及避免眼神接觸等發現令人擔憂，應立即通報，而非持續觀察、接受該解釋，或直接質問家長（這可能使兒童處於更危險的情況）。"
+    },
+    "pdf_pages": [1097],
+    "tags": ["mandatory reporting", "child abuse", "legal"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A victim of ongoing intimate partner violence tells the nurse, “I’m not ready to leave him yet.” Which nursing response best supports the client’s safety at this time?",
+      "zh": "一名持續遭受親密伴侶暴力的受害者告訴護理師：「我還沒準備好離開他。」護理師此時下列回應，最能支持病人安全的是何項？"
+    },
+    "options": [
+      {"en": "“You need to leave as soon as possible, or you could be killed.”", "zh": "「你必須盡快離開，否則可能會被殺害。」"},
+      {"en": "“I understand. Let’s talk about a safety plan you can use if the violence happens again.”", "zh": "「我理解。我們來談談如果暴力再次發生時，你可以使用的安全計畫。」"},
+      {"en": "“I won’t be able to help you unless you’re ready to leave.”", "zh": "「除非你準備好離開，我沒辦法幫你。」"},
+      {"en": "“Have you considered what you did to provoke him?”", "zh": "「你有想過自己做了什麼激怒他嗎？」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Even when a victim is not ready to leave the relationship, the nurse should encourage development of a specific safety plan (such as a fast escape route) and provide information on resources, respecting the client's autonomy while promoting safety. Pressuring, withdrawing support, and implying the victim provoked the violence are nontherapeutic and unsafe.",
+      "zh": "即使受害者尚未準備好離開這段關係，護理師仍應協助制定具體的安全計畫（例如快速逃生路線），並提供相關資源資訊，在尊重病人自主權的同時促進其安全。施加壓力、撤回支持，或暗示受害者激怒了施暴者，皆不具治療性且不安全。"
+    },
+    "pdf_pages": [1096],
+    "tags": ["family violence", "safety planning", "priority"]
+  }
+]

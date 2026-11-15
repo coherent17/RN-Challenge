@@ -1,0 +1,265 @@
+[
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is assessing a 9-month-old infant brought to the emergency department after falling from a changing table 1 hour ago. The infant is awake, alert, and interactive. Which assessment finding would provide the nurse with the earliest indication that the infant's neurological status is beginning to deteriorate?",
+      "zh": "護理師在急診室評估一名9個月大的嬰兒，該嬰兒1小時前從換尿布台跌落。嬰兒目前清醒、警醒且能互動。下列哪項評估發現能讓護理師最早察覺嬰兒神經功能狀態開始惡化？"
+    },
+    "options": [
+      {"en": "A 2-cm increase in head circumference", "zh": "頭圍增加2公分"},
+      {"en": "A subtle decrease in the infant's level of consciousness, such as decreased alertness", "zh": "意識程度出現輕微下降，例如警醒度降低"},
+      {"en": "A bulging anterior fontanel", "zh": "前囟門膨出"},
+      {"en": "Dilated scalp veins", "zh": "頭皮靜脈擴張"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The child's level of consciousness is the earliest indicator of improvement or deterioration in neurological status after a head injury. Head circumference changes, fontanel bulging, and dilated scalp veins are findings associated with increased ICP but develop more slowly and are not as immediately sensitive as a change in alertness.",
+      "zh": "頭部外傷後，意識程度是神經功能狀態改善或惡化最早的指標。頭圍改變、囟門膨出與頭皮靜脈擴張都是顱內壓升高的相關徵象，但出現較慢，敏感度不如意識改變。"
+    },
+    "pdf_pages": [543],
+    "tags": ["recognize cues", "red flag", "increased ICP"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for a 6-year-old who is 18 hours post closed head injury from a fall. Which finding requires the nurse to notify the primary health care provider immediately?",
+      "zh": "護理師照護一名6歲兒童，其因跌倒造成閉鎖性頭部外傷已18小時。下列哪項發現需要護理師立即通知醫療人員？"
+    },
+    "options": [
+      {"en": "Mild headache relieved by acetaminophen", "zh": "服用乙醯胺酚後頭痛減輕"},
+      {"en": "Pulse rate that has slowed from 98 to 54 beats/min with a widening pulse pressure", "zh": "脈搏由每分鐘98次減緩至54次，且脈壓變寬"},
+      {"en": "Child asking for something to drink", "zh": "孩童要求喝水"},
+      {"en": "Slight irritability when awakened for neurological checks", "zh": "進行神經評估叫醒時略顯躁動"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "A slowing pulse with widening pulse pressure, together with altered respirations and pupil changes, indicates brainstem involvement and impending herniation from rising ICP; this is a neurological emergency requiring immediate notification of the PHCP. The other findings are expected or minor.",
+      "zh": "脈搏減緩合併脈壓變寬，加上呼吸型態與瞳孔改變，提示腦幹受壓與顱內壓升高導致的腦疝即將發生，屬於神經系統急症，需立即通知醫療人員。其他選項為預期或輕微發現。"
+    },
+    "pdf_pages": [543, 544],
+    "tags": ["requires immediate action", "red flag", "brainstem"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A 4-year-old child with a seizure disorder begins having a generalized tonic-clonic seizure while standing at the sink brushing their teeth. Which action should the nurse take first?",
+      "zh": "一名4歲患有癲癇的兒童在水槽邊刷牙時突然發生全身性強直-陣攣發作。護理師應優先採取下列哪項行動？"
+    },
+    "options": [
+      {"en": "Insert a padded tongue blade between the child's teeth", "zh": "在孩童牙齒間放入包墊過的壓舌板"},
+      {"en": "Ease the child to the floor and turn the child to a side-lying position", "zh": "將孩童輕緩放至地面並擺成側臥姿勢"},
+      {"en": "Restrain the child's arms and legs to prevent injury", "zh": "約束孩童的四肢以防止受傷"},
+      {"en": "Leave the child briefly to retrieve the suction equipment", "zh": "暫時離開去拿抽吸設備"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "The first priority is to protect the child from injury by easing the child to the floor and positioning on the side, which also helps maintain airway patency. Nothing is ever placed in the mouth during a seizure, the child is never restrained, and the nurse should not leave an actively seizing child unattended.",
+      "zh": "首要優先是保護孩童避免受傷，將孩童輕緩放至地面並採側臥姿勢，同時有助於維持呼吸道通暢。發作時絕不可在口中放置任何物品，也不可約束孩童，護理師亦不應在孩童仍在發作時離開。"
+    },
+    "pdf_pages": [547],
+    "tags": ["first action", "priority", "seizure safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is implementing seizure precautions for a hospitalized 7-year-old with a new diagnosis of a seizure disorder. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "zh": "護理師為一名新診斷為癲癇、住院中的7歲兒童執行癲癇防護措施。下列哪些行動應納入照護計畫？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Pad the side rails of the bed", "zh": "在床側護欄加裝護墊"},
+      {"en": "Keep suction equipment and oxygen at the bedside", "zh": "在床邊備妥抽吸設備與氧氣"},
+      {"en": "Keep a padded tongue blade taped to the head of the bed", "zh": "將包墊過的壓舌板用膠帶固定在床頭備用"},
+      {"en": "Clear the area of hard objects and hazards", "zh": "清除周圍的硬物與危險物品"},
+      {"en": "Place a waterproof mattress or pad on the bed", "zh": "在床上鋪防水床墊或防水墊"},
+      {"en": "Alert all caregivers that the child is on seizure precautions", "zh": "告知所有照護人員該孩童正執行癲癇防護措施"}
+    ],
+    "answer": [0, 1, 3, 4, 5],
+    "rationale": {
+      "en": "Seizure precautions include padding the side rails, keeping suction/oxygen available, clearing the area of hazards, using a waterproof mattress pad, and alerting caregivers. A tongue blade or any object is never placed in or near the mouth because it can cause injury to the teeth, gums, or airway.",
+      "zh": "癲癇防護措施包括在護欄加裝護墊、備妥抽吸設備與氧氣、清除周圍危險物品、使用防水床墊，以及告知所有照護人員。絕不可在口中或口邊放置壓舌板或任何物品，因可能造成牙齒、牙齦或呼吸道受傷。"
+    },
+    "pdf_pages": [544],
+    "tags": ["sata", "seizure precautions", "safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "A 5-year-old is admitted after a motor vehicle crash with a suspected basilar skull fracture. The nurse notes clear drainage from the child's nose. Which nursing action is most appropriate to determine whether this drainage is cerebrospinal fluid?",
+      "zh": "一名5歲兒童因車禍入院，疑似顱底骨折。護理師發現其鼻腔有清澈分泌物流出。下列哪項護理行動最適合用來判斷此分泌物是否為腦脊髓液？"
+    },
+    "options": [
+      {"en": "Measure the pH of the drainage with litmus paper", "zh": "使用石蕊試紙測量分泌物的酸鹼值"},
+      {"en": "Test the drainage for glucose using a reagent strip", "zh": "使用試紙檢測分泌物中的葡萄糖"},
+      {"en": "Send a sample of the drainage for a complete blood count", "zh": "將分泌物送驗全血球計數"},
+      {"en": "Culture the drainage for bacterial growth", "zh": "將分泌物送驗細菌培養"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Drainage from the nose or ear after a head injury is tested for glucose with a reagent strip; CSF contains glucose, so a positive glucose result suggests CSF leakage, and the PHCP must be notified immediately. pH testing, a CBC, or culture would not confirm CSF leakage.",
+      "zh": "頭部外傷後鼻腔或耳部的分泌物應使用試紙檢測葡萄糖；腦脊髓液含有葡萄糖，若葡萄糖檢測呈陽性，提示可能為腦脊髓液滲漏，須立即通知醫療人員。酸鹼值、全血球計數或培養皆無法確認腦脊髓液滲漏。"
+    },
+    "pdf_pages": [544],
+    "tags": ["diagnostic test", "CSF leak", "basilar skull fracture"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a 10-year-old with a basilar skull fracture. The child develops copious nasal secretions. Which prescription should the nurse clarify with the primary health care provider before implementing?",
+      "zh": "護理師照護一名10歲顱底骨折兒童，該兒童出現大量鼻腔分泌物。護理師應針對下列哪項醫囑向醫療人員澄清後再執行？"
+    },
+    "options": [
+      {"en": "Obtain daily weights", "zh": "每日測量體重"},
+      {"en": "Provide clear liquids as tolerated", "zh": "依耐受程度提供清流質"},
+      {"en": "Perform nasotracheal suctioning as needed for secretions", "zh": "依需要經鼻氣管抽吸分泌物"},
+      {"en": "Maintain the intravenous line", "zh": "維持靜脈輸液管路"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Nasotracheal (nasal) suctioning is contraindicated in a child with a basilar skull fracture because the catheter could enter the brain through the fracture, creating a high risk of secondary infection. The nurse should clarify this prescription rather than implement it as written.",
+      "zh": "顱底骨折的兒童禁止經鼻抽吸，因導管可能經骨折處進入腦部，造成嚴重續發性感染風險。護理師應先與醫療人員澄清此醫囑，而非直接執行。"
+    },
+    "pdf_pages": [544],
+    "tags": ["question a prescription", "basilar skull fracture", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "The nurse is caring for four pediatric clients. Which client should the nurse assess first?",
+      "zh": "護理師負責照護四名兒科病人。護理師應優先評估下列哪一位？"
+    },
+    "options": [
+      {"en": "An infant with a ventriculoperitoneal shunt who is now feeding poorly and has a high-pitched, shrill cry", "zh": "一名裝有腹腔靜脈引流分流管的嬰兒，目前餵食不佳且出現高音尖銳哭聲"},
+      {"en": "A child with cerebral palsy who is due for a scheduled physical therapy session", "zh": "一名腦性麻痺兒童，依排程須進行物理治療"},
+      {"en": "A child with a history of absence seizures who is sitting quietly in a chair", "zh": "一名有失神性發作病史的兒童，正安靜坐在椅子上"},
+      {"en": "A child with mild intellectual disability who is participating in a supervised play activity", "zh": "一名輕度智能障礙兒童，正參與有人監督的遊戲活動"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A high-pitched, shrill cry and poor feeding in an infant with a ventriculoperitoneal shunt are early signs of shunt malfunction or infection and increased ICP, requiring immediate assessment. The other clients are stable and do not reflect an acute change.",
+      "zh": "裝有腹腔靜脈分流管的嬰兒出現高音尖銳哭聲與餵食不佳，是分流管故障或感染及顱內壓升高的早期徵象，需立即評估。其他病人狀況穩定，並無急性變化。"
+    },
+    "pdf_pages": [545],
+    "tags": ["priority", "first assessment", "shunt malfunction"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "An infant returns to the pediatric unit after placement of a ventriculoperitoneal shunt. Which positioning instruction should the nurse follow unless increased ICP develops?",
+      "zh": "一名嬰兒在接受腹腔靜脈分流手術後返回兒科病房。除非出現顱內壓升高，護理師應遵循下列哪項擺位指示？"
+    },
+    "options": [
+      {"en": "Position the infant on the operative side", "zh": "使嬰兒側臥於手術側"},
+      {"en": "Position the infant on the nonoperative side and keep the infant flat as prescribed", "zh": "使嬰兒側臥於未手術側，並依醫囑保持平躺"},
+      {"en": "Keep the head of the bed elevated 45 degrees at all times", "zh": "床頭隨時抬高45度"},
+      {"en": "Place the infant in a prone position", "zh": "使嬰兒維持俯臥"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Postoperatively, the infant is positioned on the unoperated (nonoperative) side to prevent pressure on the shunt valve, and the infant is kept flat if prescribed to avoid a rapid reduction in intracranial fluid. If increased ICP develops, the head of the bed is elevated 15 to 30 degrees to enhance gravity flow through the shunt.",
+      "zh": "術後應讓嬰兒側臥於未手術側以避免壓迫分流閥，並依醫囑保持平躺以避免顱內液體過快減少。若出現顱內壓升高，則將床頭抬高15至30度以利藉重力促進分流管引流。"
+    },
+    "pdf_pages": [545],
+    "tags": ["postoperative", "positioning", "shunt"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A 3-year-old is admitted with suspected bacterial meningitis. A lumbar puncture is performed and antibiotics are started. Which precaution should the nurse maintain?",
+      "zh": "一名3歲兒童因疑似細菌性腦膜炎入院。已完成腰椎穿刺並開始使用抗生素。護理師應維持下列哪項防護措施？"
+    },
+    "options": [
+      {"en": "Enteric precautions for the duration of hospitalization", "zh": "住院期間全程採取腸道傳染防護措施"},
+      {"en": "Neutropenic precautions until the white blood cell count normalizes", "zh": "直到白血球數值恢復正常前採取嗜中性白血球低下防護措施"},
+      {"en": "Respiratory isolation precautions for at least 24 hours after antibiotics are started", "zh": "開始使用抗生素後至少維持24小時呼吸道隔離防護措施"},
+      {"en": "No special precautions once antibiotics have been administered", "zh": "一旦開始使用抗生素即不需任何特殊防護措施"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Bacterial meningitis is spread by droplets from nasopharyngeal secretions, so respiratory isolation precautions are maintained for at least 24 hours after antibiotics are initiated. Enteric and neutropenic precautions are unrelated to the mode of transmission of meningitis.",
+      "zh": "細菌性腦膜炎經由鼻咽分泌物飛沫傳播，因此在開始使用抗生素後需維持至少24小時的呼吸道隔離防護措施。腸道防護與嗜中性白血球低下防護與腦膜炎的傳播途徑無關。"
+    },
+    "pdf_pages": [545, 546],
+    "tags": ["isolation precautions", "infection control"]
+  },
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse reviews cerebrospinal fluid (CSF) analysis results for a 6-year-old with suspected bacterial meningitis. Which set of findings is most consistent with this diagnosis?",
+      "zh": "護理師查閱一名6歲疑似細菌性腦膜炎兒童的腦脊髓液分析結果。下列哪組結果最符合此診斷？"
+    },
+    "options": [
+      {"en": "Clear CSF, decreased pressure, decreased protein", "zh": "清澈腦脊髓液、壓力降低、蛋白質降低"},
+      {"en": "Cloudy CSF, increased pressure, increased protein, decreased glucose", "zh": "混濁腦脊髓液、壓力升高、蛋白質升高、葡萄糖降低"},
+      {"en": "Clear CSF, normal pressure, normal glucose", "zh": "清澈腦脊髓液、壓力正常、葡萄糖正常"},
+      {"en": "Cloudy CSF, decreased pressure, increased glucose", "zh": "混濁腦脊髓液、壓力降低、葡萄糖升高"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "In bacterial meningitis, CSF obtained by lumbar puncture is cloudy with increased pressure, an increased white blood cell count, elevated protein, and decreased glucose. Clear CSF with normal values is more consistent with viral meningitis or a normal finding.",
+      "zh": "細菌性腦膜炎經腰椎穿刺取得的腦脊髓液呈混濁狀，壓力升高、白血球數增加、蛋白質升高且葡萄糖降低。清澈且數值正常的腦脊髓液較符合病毒性腦膜炎或正常表現。"
+    },
+    "pdf_pages": [545],
+    "tags": ["labs", "diagnostic test", "meningitis"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is teaching the parents of a 4-year-old who has recovered from influenza about preventing Reye's syndrome during future febrile illnesses. Which statements by the parents indicate correct understanding? Select all that apply.",
+      "zh": "護理師針對一名剛從流感康復的4歲兒童之父母進行衛教，說明未來發燒疾病期間如何預防雷氏症候群。下列父母的敘述中，哪些顯示其理解正確？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "\"I will give acetaminophen for fever instead of aspirin.\"", "zh": "「我會給退燒藥乙醯胺酚，而不是阿斯匹靈。」"},
+      {"en": "\"Ibuprofen is an acceptable medication to give for fever.\"", "zh": "「布洛芬是可以用來退燒的藥物。」"},
+      {"en": "\"Aspirin is fine to use as long as the dose is low.\"", "zh": "「只要劑量低，使用阿斯匹靈沒關係。」"},
+      {"en": "\"I will avoid giving any aspirin-containing products during a viral illness.\"", "zh": "「病毒性疾病期間我會避免給予任何含阿斯匹靈的產品。」"},
+      {"en": "\"Reye's syndrome is linked to aspirin use during illnesses such as influenza or chickenpox.\"", "zh": "「雷氏症候群與流感或水痘等疾病期間使用阿斯匹靈有關。」"}
+    ],
+    "answer": [0, 1, 3, 4],
+    "rationale": {
+      "en": "Aspirin and aspirin-containing products are avoided in children with a febrile illness, varicella, or influenza because of the association with Reye's syndrome. Acetaminophen and ibuprofen are the medications of choice. There is no safe low dose of aspirin recommended during these illnesses.",
+      "zh": "患有發燒疾病、水痘或流感的兒童應避免使用阿斯匹靈及含阿斯匹靈的產品，因其與雷氏症候群有關。乙醯胺酚與布洛芬為首選退燒藥物。並無建議在這些疾病期間使用「低劑量」阿斯匹靈的安全做法。"
+    },
+    "pdf_pages": [546],
+    "tags": ["sata", "patient education", "Reye syndrome", "medication safety"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a newborn with a myelomeningocele before surgical repair. Which nursing action is most appropriate to protect the sac?",
+      "zh": "護理師照護一名尚未接受手術修補、患有脊髓脊膜膨出的新生兒。下列哪項護理措施最適合用來保護囊袋？"
+    },
+    "options": [
+      {"en": "Position the newborn supine to prevent pressure on the lesion", "zh": "使新生兒採仰臥姿勢以避免壓迫病灶"},
+      {"en": "Cover the sac with a sterile, dry gauze dressing", "zh": "以無菌乾紗布覆蓋囊袋"},
+      {"en": "Cover the sac with a sterile, moist, nonadherent dressing and position the newborn prone", "zh": "以無菌、濕潤（生理食鹽水）、不沾黏敷料覆蓋囊袋，並使新生兒採俯臥姿勢"},
+      {"en": "Apply a diaper snugly over the sac for protection", "zh": "在囊袋上緊密包覆尿布以保護"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "The sac is protected by covering it with a sterile, moist (normal saline) nonadherent dressing to keep the sac and its contents moist, and the newborn is positioned prone to minimize tension on the sac and risk of trauma; diapering may be contraindicated until repair.",
+      "zh": "應以無菌、濕潤（生理食鹽水）、不沾黏的敷料覆蓋囊袋，以維持囊袋與其內容物的濕潤，並使新生兒採俯臥姿勢以降低囊袋張力及受傷風險；修補前可能禁止包尿布。"
+    },
+    "pdf_pages": [547, 548],
+    "tags": ["myelomeningocele", "wound care", "positioning"]
+  },
+  {
+    "cat": "PH",
+    "stem": {
+      "en": "A child with ADHD is started on a stimulant medication. Which finding should the nurse instruct the parents to report to the primary health care provider?",
+      "zh": "一名罹患注意力不足過動症的兒童開始服用中樞神經興奮劑。護理師應指導父母將下列哪項發現報告醫療人員？"
+    },
+    "options": [
+      {"en": "Mild decrease in appetite at lunch", "zh": "午餐時食慾略微下降"},
+      {"en": "Difficulty falling asleep on the first night of the medication", "zh": "服藥第一晚入睡困難"},
+      {"en": "Development of a new facial tic", "zh": "出現新的臉部抽動（tic）"},
+      {"en": "Slightly increased talkativeness", "zh": "話變得稍微多一些"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "A new tic is a notable adverse effect of stimulant medications used for ADHD and should be reported to the PHCP. Appetite suppression, insomnia, and nervousness are known possible side effects, but a new tic warrants prompt provider notification and medication reevaluation.",
+      "zh": "新出現的抽動（tic）是ADHD用興奮劑藥物值得注意的不良反應，應報告醫療人員。食慾抑制、失眠與緊張為已知可能的副作用，但新出現的抽動需立即通知醫療人員並重新評估藥物。"
+    },
+    "pdf_pages": [548, 549],
+    "tags": ["medication side effect", "ADHD", "reportable finding"]
+  }
+]

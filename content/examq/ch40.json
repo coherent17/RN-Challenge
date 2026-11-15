@@ -1,0 +1,264 @@
+[
+  {
+    "cat": "RR",
+    "stem": {
+      "en": "The nurse is assisting with the examination of a 2-week-old infant for developmental dysplasia of the hip. The primary health care provider abducts the infant's flexed thighs and applies gentle forward pressure over the greater trochanter, eliciting a palpable clunk. Which test is being performed?",
+      "zh": "護理師協助醫療人員檢查一名2週大嬰兒是否有發展性髖關節發育不良。醫療人員將嬰兒屈曲的大腿外展，並於大轉子處施加輕柔向前的壓力，誘發出可觸及的「喀」聲。此為下列哪項測試？"
+    },
+    "options": [
+      {"en": "Barlow's test", "zh": "Barlow氏測試"},
+      {"en": "Ortolani's test", "zh": "Ortolani氏測試"},
+      {"en": "Trendelenburg's test", "zh": "Trendelenburg氏測試"},
+      {"en": "Galeazzi sign assessment", "zh": "Galeazzi徵象評估"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Ortolani's maneuver involves abducting the thighs and applying gentle forward pressure over the greater trochanter; a palpable clunk or click indicates the femoral head moving into the acetabulum, confirming hip instability. Barlow's test uses adduction with posterior pressure to detect a dislocatable hip.",
+      "zh": "Ortolani氏測試是將大腿外展並於大轉子處施加輕柔向前壓力；觸及「喀」聲或喀啦感表示股骨頭移入髖臼，確認髖關節不穩定。Barlow氏測試則是內收並向後下方施壓，以偵測可脫位的髖關節。"
+    },
+    "pdf_pages": [554],
+    "tags": ["assessment technique", "DDH"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse is teaching the parents of a newborn with developmental dysplasia of the hip about care of the Pavlik harness. Which instruction should the nurse include?",
+      "zh": "護理師針對一名患有發展性髖關節發育不良新生兒的父母，衛教Pavlik吊帶的照護方式。護理師應納入下列哪項指導？"
+    },
+    "options": [
+      {"en": "Remove the harness only for bathing", "zh": "僅在洗澡時取下吊帶"},
+      {"en": "Remove the harness for 2 hours each day for skin care", "zh": "每天取下吊帶2小時以進行皮膚護理"},
+      {"en": "The harness is worn only during sleep", "zh": "吊帶只在睡眠時穿戴"},
+      {"en": "The harness may be removed for feeding", "zh": "餵食時可以取下吊帶"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "The Pavlik harness is worn continuously, approximately 23 hours per day, and is removed only for bathing. It is not removed for feeding or for extended periods, as continuous positioning is needed to maintain hip flexion and abduction.",
+      "zh": "Pavlik吊帶需持續穿戴，每天約23小時，僅在洗澡時取下。不應在餵食時或長時間取下，因需持續維持髖關節屈曲外展的姿勢。"
+    },
+    "pdf_pages": [554],
+    "tags": ["patient education", "Pavlik harness"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A 3-day-old infant has a clubfoot deformity and the plan is to begin serial manipulation and casting. Which statement by the parent indicates understanding of the treatment plan?",
+      "zh": "一名3天大嬰兒有馬蹄足畸形，計畫開始進行連續手法矯正與石膏固定。下列哪項父母的敘述顯示其理解治療計畫？"
+    },
+    "options": [
+      {"en": "\"The cast will be changed about once a month.\"", "zh": "「石膏大約每個月更換一次。」"},
+      {"en": "\"My baby will need a new cast about once a week for several weeks.\"", "zh": "「我的寶寶在接下來幾週內大約每週都需要換一次新石膏。」"},
+      {"en": "\"Once this cast is removed in a few weeks, no further follow-up is needed.\"", "zh": "「這個石膏拆掉幾週後，就不需要再追蹤了。」"},
+      {"en": "\"Treatment can wait until my baby starts walking.\"", "zh": "「可以等寶寶開始走路後再治療。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Manipulation and casting for clubfoot are performed weekly for about 8 to 12 weeks because of the rapid growth of early infancy. Treatment begins as soon after birth as possible, and long-term interval follow-up is required until skeletal maturity.",
+      "zh": "馬蹄足的手法矯正與石膏固定因嬰兒早期生長快速，需每週進行，約持續8至12週。治療應盡早在出生後開始，且需長期間歇追蹤直到骨骼發育成熟。"
+    },
+    "pdf_pages": [555, 556],
+    "tags": ["patient education", "clubfoot", "evaluate outcomes"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A 13-year-old is 6 hours postoperative following spinal fusion for scoliosis. The nurse notes new-onset vomiting and abdominal distention. Which action should the nurse take first?",
+      "zh": "一名13歲兒童因脊椎融合術治療脊柱側彎，術後6小時。護理師發現新出現嘔吐與腹部膨脹。護理師應優先採取下列哪項行動？"
+    },
+    "options": [
+      {"en": "Administer the prescribed antiemetic and reassess", "zh": "給予醫囑止吐藥後再評估"},
+      {"en": "Increase the rate of the intravenous fluids", "zh": "增加靜脈輸液速率"},
+      {"en": "Notify the primary health care provider", "zh": "通知醫療人員"},
+      {"en": "Place the child in a left lateral position and encourage oral fluids", "zh": "使孩童採左側臥並鼓勵口服液體"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Vomiting and abdominal distention after spinal fusion surgery may indicate superior mesenteric artery syndrome, a complication caused by mechanical changes in abdominal contents after surgery that mimics intestinal obstruction. The PHCP should be notified promptly for further evaluation; administering an antiemetic, increasing fluids, or giving oral fluids would not address the underlying problem.",
+      "zh": "脊椎融合手術後出現嘔吐與腹部膨脹可能提示上腸系膜動脈症候群，這是手術後腹腔內容物機械性改變所致的併發症，表現類似腸阻塞。應立即通知醫療人員進一步評估；給予止吐藥、增加輸液或給予口服液體均無法處理根本問題。"
+    },
+    "pdf_pages": [556],
+    "tags": ["postoperative complication", "requires immediate action", "scoliosis"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse is teaching the parents of an adolescent who will be wearing a brace for scoliosis. Which statement by the parent indicates a need for further teaching?",
+      "zh": "護理師衛教一名需配戴脊柱側彎支架的青少年之父母。下列哪項父母的敘述顯示需要進一步指導？"
+    },
+    "options": [
+      {"en": "\"I will have my child wear a soft cotton shirt under the brace.\"", "zh": "「我會讓孩子在支架下穿柔軟的棉質上衣。」"},
+      {"en": "\"I will apply lotion to my child's skin under the brace each morning to prevent irritation.\"", "zh": "「我每天早上會在支架下的皮膚塗抹乳液以預防刺激。」"},
+      {"en": "\"I will check my child's skin daily for redness.\"", "zh": "「我會每天檢查孩子的皮膚是否有發紅。」"},
+      {"en": "\"The brace is usually worn 16 to 23 hours a day.\"", "zh": "「支架通常每天需配戴16到23小時。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Lotions and powders are avoided under a brace because they can become sticky or caked and lead to skin breakdown. Wearing soft clothing under the brace, checking the skin daily, and the typical wear schedule of 16 to 23 hours a day are all appropriate.",
+      "zh": "支架下應避免使用乳液或痱子粉，因其可能變得黏膩或結塊而導致皮膚破損。在支架下穿柔軟衣物、每天檢查皮膚，以及每天配戴16至23小時的配戴時程，皆為正確做法。"
+    },
+    "pdf_pages": [556],
+    "tags": ["patient education", "evaluate outcomes", "brace care"]
+  },
+  {
+    "cat": "PI",
+    "stem": {
+      "en": "A 12-year-old newly diagnosed with scoliosis will begin wearing a brace. Which nursing action best addresses the psychosocial needs of this child?",
+      "zh": "一名12歲兒童新診斷脊柱側彎，即將開始配戴支架。下列哪項護理措施最能滿足此孩童的心理社會需求？"
+    },
+    "options": [
+      {"en": "Encourage the child to verbalize feelings about body image and wearing the brace", "zh": "鼓勵孩童表達對身體意象與配戴支架的感受"},
+      {"en": "Discourage the child from discussing the brace with peers", "zh": "勸阻孩童與同儕討論支架的事"},
+      {"en": "Advise the child to avoid looking in the mirror while wearing the brace", "zh": "建議孩童配戴支架時避免看鏡子"},
+      {"en": "Focus teaching only on the mechanics of the brace", "zh": "僅針對支架的使用機制進行衛教"}
+    ],
+    "answer": [0],
+    "rationale": {
+      "en": "A child with a disabling condition requiring a body brace is at risk for altered body image, fear, anger, and isolation. Encouraging verbalization of feelings about body image and related psychosocial issues is an important nursing intervention.",
+      "zh": "需配戴身體支架的身心障礙狀況兒童，有身體意象改變、恐懼、憤怒與孤立感的風險。鼓勵其表達對身體意象與相關心理社會議題的感受，是重要的護理措施。"
+    },
+    "pdf_pages": [556],
+    "tags": ["psychosocial integrity", "body image", "adolescent"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "A child with juvenile idiopathic arthritis calls the clinic reporting a painful exacerbation with swollen, stiff joints. The parent asks whether the child should continue range-of-motion exercises. Which response by the nurse is most appropriate?",
+      "zh": "一名患有幼年型特異性關節炎的兒童家屬致電診所，表示孩童目前疾病急性惡化、關節腫脹僵硬疼痛，並詢問是否應繼續進行關節活動度運動。護理師應如何回應最為恰當？"
+    },
+    "options": [
+      {"en": "\"Avoid all exercise until the pain resolves completely.\"", "zh": "「在疼痛完全消失前，請避免所有運動。」"},
+      {"en": "\"Continue full range-of-motion exercises as usual.\"", "zh": "「請照常進行完整的關節活動度運動。」"},
+      {"en": "\"Have the child perform simple isometric exercises instead of full range-of-motion exercises during this time.\"", "zh": "「這段時間讓孩子做簡單的等長運動，而非完整的關節活動度運動。」"},
+      {"en": "\"Exercise is not helpful for this condition and can be stopped permanently.\"", "zh": "「運動對此疾病沒有幫助，可以永久停止。」"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "During a painful exacerbation of juvenile idiopathic arthritis, hot or cold packs, splinting, and neutral joint positioning help reduce pain; simple isometric exercises, which do not involve joint movement, should be started as soon as the child is able rather than full ROM exercises or complete avoidance of all activity.",
+      "zh": "幼年型特異性關節炎急性發作疼痛期間，冷熱敷、固定及將關節維持在中立姿勢有助於減輕疼痛；應儘快開始不涉及關節活動的簡單等長運動，而非完整關節活動度運動或完全避免所有活動。"
+    },
+    "pdf_pages": [557],
+    "tags": ["patient education", "juvenile idiopathic arthritis", "pain"]
+  },
+  {
+    "cat": "HP",
+    "stem": {
+      "en": "The nurse is caring for an adolescent diagnosed with Marfan syndrome. Which instruction is most important for the nurse to include in discharge teaching?",
+      "zh": "護理師照護一名診斷為馬凡氏症候群的青少年。下列哪項指導是護理師在出院衛教中最重要應納入的？"
+    },
+    "options": [
+      {"en": "\"Participate in competitive contact sports to build muscle strength.\"", "zh": "「參加競賽型接觸性運動以增強肌力。」"},
+      {"en": "\"Avoid competitive athletics and contact sports.\"", "zh": "「避免競賽型運動與接觸性運動。」"},
+      {"en": "\"No follow-up eye examinations are needed unless vision changes occur.\"", "zh": "「除非視力出現變化，否則不需要追蹤眼科檢查。」"},
+      {"en": "\"Dental visits do not require any special precautions.\"", "zh": "「牙科就診不需要任何特別預防措施。」"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Marfan syndrome affects the skeletal, cardiovascular, and ocular systems; children need to avoid competitive athletics and contact sports to prevent injury to the heart and aorta. Regular vision examinations are needed, and antibiotics are often required before dental procedures to prevent endocarditis.",
+      "zh": "馬凡氏症候群影響骨骼、心血管與眼部系統；兒童需避免競賽型運動與接觸性運動，以防心臟與主動脈受傷。需定期接受視力檢查，且牙科處置前常需使用抗生素以預防心內膜炎。"
+    },
+    "pdf_pages": [557],
+    "tags": ["patient education", "Marfan syndrome", "safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {
+      "en": "A 6-year-old with Legg-Calvé-Perthes disease reports hip and groin pain and has been limping for several weeks. Which pathophysiological process explains these findings?",
+      "zh": "一名6歲兒童患有Legg-Calvé-Perthes疾病，主訴髖部與腹股溝疼痛，且已跛行數週。下列哪項病理生理機轉可解釋這些發現？"
+    },
+    "options": [
+      {"en": "Autoimmune inflammation of the synovial joint", "zh": "滑膜關節的自體免疫發炎"},
+      {"en": "Temporary interruption of blood supply to the femoral head, causing bone death", "zh": "股骨頭血液供應暫時中斷，導致骨骼壞死"},
+      {"en": "Bacterial infection of the bone", "zh": "骨骼細菌感染"},
+      {"en": "Improper seating of the femoral head in the acetabulum present since birth", "zh": "自出生起股骨頭在髖臼中位置不正"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "Legg-Calvé-Perthes disease occurs when the blood supply to the femoral head is temporarily interrupted, causing the bone to die and stop growing, which results in limping and hip, groin, thigh, or knee pain with limited range of motion. It is not an autoimmune, infectious, or congenital dysplastic process.",
+      "zh": "Legg-Calvé-Perthes疾病是因股骨頭血液供應暫時中斷，導致骨骼壞死並停止生長，造成跛行及髖部、腹股溝、大腿或膝部疼痛，並伴隨活動度受限。並非自體免疫、感染或先天髖關節發育不良的過程。"
+    },
+    "pdf_pages": [557, 558],
+    "tags": ["pathophysiology", "Legg-Calve-Perthes"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "A child is in Russell skin traction for a fractured femur. Which assessment finding requires the nurse's immediate action?",
+      "zh": "一名兒童因股骨骨折正接受Russell皮膚牽引。下列哪項評估發現需要護理師立即採取行動？"
+    },
+    "options": [
+      {"en": "The weights are hanging freely without touching the floor", "zh": "重物懸空，未接觸地面"},
+      {"en": "The child reports mild discomfort relieved with position change", "zh": "孩童主訴輕微不適，變換姿勢後緩解"},
+      {"en": "The affected foot is cool, pale, and the child reports numbness and tingling", "zh": "患肢腳部冰冷、蒼白，孩童主訴麻木與刺痛感"},
+      {"en": "The ropes are seated properly within the pulley grooves", "zh": "繩索正確置於滑輪溝槽中"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Coolness, pallor, numbness, and tingling in the affected extremity are signs of neurovascular/circulatory impairment, which may indicate compartment syndrome and require immediate notification of the PHCP. Properly functioning traction with freely hanging weights and ropes seated in the pulleys are expected, correct findings.",
+      "zh": "患肢出現冰冷、蒼白、麻木與刺痛感，提示神經血管循環受損，可能為肌筋膜腔症候群的徵象，需立即通知醫療人員。重物自由懸空且繩索正確置於滑輪中則屬於牽引功能正常、預期的發現。"
+    },
+    "pdf_pages": [558],
+    "tags": ["requires immediate action", "neurovascular check", "traction"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is caring for a child who had a plaster cast applied to the right leg 2 hours ago for a tibial fracture. Which finding is the priority to report to the primary health care provider?",
+      "zh": "護理師照護一名兒童，其右腿因脛骨骨折於2小時前上了石膏。下列哪項發現是護理師最優先應報告醫療人員的？"
+    },
+    "options": [
+      {"en": "The cast still feels warm to the touch", "zh": "石膏摸起來仍感覺溫熱"},
+      {"en": "The child states the leg itches under the cast", "zh": "孩童表示石膏內的腿會癢"},
+      {"en": "Pain in the right foot that is increasing despite analgesics, with the toes cool and difficult to move", "zh": "右腳疼痛持續加劇，即使使用止痛藥仍無法緩解，且腳趾冰冷、活動困難"},
+      {"en": "The child wants to rest the leg on a pillow", "zh": "孩童想把腿放在枕頭上休息"}
+    ],
+    "answer": [2],
+    "rationale": {
+      "en": "Pain out of proportion to the injury that worsens despite analgesics, along with coolness and decreased mobility of the toes, are signs of compartment syndrome, a limb-threatening emergency that requires immediate reporting. A warm-feeling drying cast, itching, and elevating the leg on a pillow are expected or appropriate findings.",
+      "zh": "疼痛程度超出預期且使用止痛藥仍持續加劇，合併腳趾冰冷與活動度降低，是肌筋膜腔症候群的徵象，屬於威脅肢體的緊急狀況，須立即報告。石膏乾燥時感覺溫熱、搔癢及將腿抬高放於枕頭上均屬預期或恰當的發現。"
+    },
+    "pdf_pages": [559],
+    "tags": ["compartment syndrome", "red flag", "cast care"]
+  },
+  {
+    "cat": "SI",
+    "stem": {
+      "en": "The nurse is providing home care instructions to the parents of a child who just had a plaster cast applied to the forearm. Which instructions should be included? Select all that apply.",
+      "zh": "護理師為一名剛於前臂上石膏的兒童之父母提供居家照護指導。下列哪些指導應納入？（請選出所有適用項目）"
+    },
+    "options": [
+      {"en": "Use the palms of the hands, not the fingertips, to lift or handle the cast while it is drying", "zh": "石膏未乾前，應以手掌而非指尖來搬動或托扶石膏"},
+      {"en": "Keep small toys and sharp objects away from the cast", "zh": "將小玩具與尖銳物品遠離石膏"},
+      {"en": "Insert a padded object inside the cast if the skin itches", "zh": "若皮膚發癢，可將包墊過的物品放入石膏內止癢"},
+      {"en": "Elevate the extremity on pillows for the first 24 to 48 hours", "zh": "上石膏後最初24至48小時內，將肢體墊高"},
+      {"en": "Apply a heating pad to the cast if the fingers feel cold", "zh": "若手指感覺冰冷，可在石膏上使用電熱毯"},
+      {"en": "Notify the primary health care provider if the child reports numbness or tingling", "zh": "若孩童主訴麻木或刺痛感，應通知醫療人員"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {
+      "en": "The palms (not fingertips) are used to handle a drying cast to avoid creating indentations; small objects and sharp items are kept away from and out of the cast; the extremity is elevated for the first 24 to 48 hours to reduce swelling; and numbness or tingling is reported immediately. No object is ever inserted inside a cast, and a heating pad is never applied, since cold fingers may indicate neurovascular impairment requiring provider notification, not warming.",
+      "zh": "石膏未乾時應以手掌而非指尖搬動，以避免造成壓痕；應將小物品與尖銳物品遠離並禁止放入石膏內；最初24至48小時應將肢體墊高以減輕腫脹；出現麻木或刺痛應立即通知醫療人員。絕不可在石膏內放入任何物品，也不可使用電熱毯，因手指冰冷可能提示神經血管循環受損，需通知醫療人員而非加溫處理。"
+    },
+    "pdf_pages": [559],
+    "tags": ["sata", "patient education", "cast care", "safety"]
+  },
+  {
+    "cat": "BC",
+    "stem": {
+      "en": "The nurse is caring for a child with acute osteomyelitis of the tibia. Which intervention should the nurse anticipate during the acute phase of treatment?",
+      "zh": "護理師照護一名脛骨急性骨髓炎的兒童。在治療急性期，護理師應預期採取下列哪項措施？"
+    },
+    "options": [
+      {"en": "Encourage full weight-bearing ambulation to maintain muscle strength", "zh": "鼓勵完全負重行走以維持肌力"},
+      {"en": "Maintain non-weight-bearing status on the affected leg with positions of comfort", "zh": "使患肢維持不負重狀態，並採取舒適姿勢"},
+      {"en": "Apply a heating pad directly to the affected extremity", "zh": "直接在患肢上使用電熱毯"},
+      {"en": "Restrict all physical and occupational therapy until antibiotics are complete", "zh": "在抗生素療程結束前完全限制所有物理及職能治療"}
+    ],
+    "answer": [1],
+    "rationale": {
+      "en": "During the acute phase of osteomyelitis, the affected extremity is kept non-weight-bearing, with positions of comfort and temporary splints/casts as needed. Weight-bearing ambulation is avoided, and developmentally appropriate activities and physical/occupational therapy are initiated as appropriate, not withheld entirely.",
+      "zh": "骨髓炎急性期應使患肢維持不負重狀態，並依需要採取舒適姿勢或使用暫時性護木／石膏。應避免負重行走，並依狀況適時啟動符合發展年齡的活動與物理／職能治療，而非完全限制。"
+    },
+    "pdf_pages": [559],
+    "tags": ["osteomyelitis", "acute care", "mobility"]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "cat": "SI",
+    "stem": {"en": "A child is admitted with a suspected diagnosis of varicella (chickenpox). Which room assignment and precautions should the nurse anticipate for this child?", "zh": "一名兒童因疑似水痘入院。護理師應預期為此兒童安排哪種病室與防護措施？"},
+    "options": [
+      {"en": "Standard precautions only, in a semi-private room", "zh": "僅標準防護措施，安置於半私人病室"},
+      {"en": "Contact precautions only, in a private room", "zh": "僅接觸防護措施，安置於單人病室"},
+      {"en": "Airborne, droplet, and contact precautions in a private room (negative-pressure if available)", "zh": "空氣、飛沫及接觸防護措施，安置於單人病室（若有負壓病室則優先使用）"},
+      {"en": "Droplet precautions only, in a private room", "zh": "僅飛沫防護措施，安置於單人病室"},
+      {"en": "Protective (reverse) isolation in a private room", "zh": "保護性（逆向）隔離，安置於單人病室"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Varicella is spread by direct contact, airborne transmission, droplet spread, and contaminated objects. Hospitalized children with varicella require strict isolation, which includes airborne, droplet, and contact precautions, ideally in a private room.", "zh": "水痘可透過直接接觸、空氣傳播、飛沫及受污染物品傳播。住院水痘兒童需採取嚴格隔離，包括空氣、飛沫及接觸防護措施，最好安置於單人病室。"},
+    "pdf_pages": [568],
+    "tags": ["isolation precautions", "recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse learns that a child with active varicella has just been admitted to a room down the hall from a child who is immunocompromised from chemotherapy for leukemia. What is the nurse's priority action?", "zh": "護理師得知一名活動性水痘兒童剛被安排入住於正在接受白血病化療、免疫力低下兒童病房的同一走廊。護理師的優先行動是什麼？"},
+    "options": [
+      {"en": "Instruct the immunocompromised child to wear a surgical mask whenever leaving the room", "zh": "指示免疫低下兒童每次離開病室時配戴外科口罩"},
+      {"en": "Request that the immunocompromised child be moved to a different unit or room away from the child with varicella", "zh": "請求將免疫低下兒童轉至其他病房或離水痘兒童較遠的病室"},
+      {"en": "Document the room assignments in the chart and continue routine care", "zh": "將病室安排記錄於病歷中並繼續常規照護"},
+      {"en": "Ask unlicensed assistive personnel to disinfect any toys shared between the two children", "zh": "請無照助理人員消毒兩名兒童共用的玩具"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "High-risk children, such as those with immunosuppressive disorders, must be isolated from a child with a communicable disease such as varicella because of the serious risk of life-threatening infection. Moving the immunocompromised child away from the exposure source is the priority, not simply masking, documenting, or disinfecting toys.", "zh": "免疫功能受損等高風險兒童必須與罹患水痘等傳染病的兒童隔離，因為感染可能致命。優先做法是將免疫低下兒童移離暴露來源，而非僅配戴口罩、記錄或消毒玩具。"},
+    "pdf_pages": [568],
+    "tags": ["isolation precautions", "priority action"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A 9-year-old with mumps develops a sudden severe headache, nuchal rigidity, and forceful vomiting 4 days after parotid gland swelling began. Which complication should the nurse suspect?", "zh": "一名 9 歲腮腺炎兒童在腮腺腫脹開始後第 4 天，突然出現劇烈頭痛、頸部僵硬及劇烈嘔吐。護理師應懷疑發生哪種併發症？"},
+    "options": [
+      {"en": "Dehydration from poor oral intake", "zh": "因口服攝取不足導致的脱水"},
+      {"en": "Aseptic meningitis", "zh": "無菌性腦膜炎"},
+      {"en": "Normal progression of mumps that requires no further action", "zh": "腮腺炎正常病程，不需進一步處置"},
+      {"en": "An allergic reaction to the antipyretic given for fever", "zh": "對退熱藥產生的過敏反應"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Aseptic meningitis is a known complication of mumps. Sudden severe headache, nuchal rigidity, and vomiting are classic signs and must be reported to the primary health care provider immediately; this is not an expected, benign part of the mumps course.", "zh": "無菌性腦膜炎是腮腺炎常見的併發症。突發劇烈頭痛、頸部僵硬及嘔吐是典型徵象，須立即通報醫師，這並非腮腺炎病程中正常且無害的表現。"},
+    "pdf_pages": [567, 568],
+    "tags": ["recognizing cues", "red flag"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "An infant hospitalized with pertussis is currently in the catarrhal stage, before the paroxysmal coughing stage has begun. Which action is most important for the nurse to include in the plan of care?", "zh": "一名因百日咳住院的嬰兒目前處於卡他期，尚未進入陣發性咳嗽期。護理師在照護計畫中最重要應包含哪項措施？"},
+    "options": [
+      {"en": "Discontinue droplet and contact precautions because the characteristic whooping cough has not yet appeared", "zh": "因典型的咳嗽哮吼聲尚未出現，停止飛沫及接觸防護措施"},
+      {"en": "Institute droplet and contact precautions, because the catarrhal stage is when the child is most communicable", "zh": "採取飛沫及接觸防護措施，因為卡他期是兒童傳染力最強的階段"},
+      {"en": "Place the infant on airborne precautions only", "zh": "僅採取空氣防護措施"},
+      {"en": "Wait until the paroxysmal coughing stage begins before starting any precautions", "zh": "等到陣發性咳嗽期開始後才開始採取防護措施"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "The communicable period for pertussis is greatest during the catarrhal stage, when respiratory secretions are discharged. A hospitalized child needs droplet and contact precautions instituted during this stage, not delayed until later stages or discontinued based on symptom appearance.", "zh": "百日咳的傳染力在卡他期（出現呼吸道分泌物排出時）最強。住院兒童在此階段即需採取飛沫及接觸防護措施，不應延遲至後期階段才開始，也不應因症狀表現而停止。"},
+    "pdf_pages": [568, 569],
+    "tags": ["isolation precautions"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is reviewing the immunization plan for a 15-month-old child who has symptomatic HIV infection with severe immunosuppression. Which actions by the nurse are appropriate? Select all that apply.", "zh": "護理師正在檢視一名 15 個月大、患有嚴重免疫抑制的症狀性 HIV 感染兒童的疫苗接種計畫。護理師下列哪些行動是適當的？（請選出所有適用項目）"},
+    "options": [
+      {"en": "Administer the inactivated influenza vaccine intramuscularly each year", "zh": "每年以肌肉注射方式接種不活化流感疫苗"},
+      {"en": "Administer the inactivated polio vaccine (IPV) intramuscularly", "zh": "以肌肉注射方式接種不活化小兒麻痺疫苗（IPV）"},
+      {"en": "Administer the measles-mumps-rubella (MMR) vaccine as scheduled", "zh": "依照常規時程接種麻疹-腮腺炎-德國麻疹（MMR）疫苗"},
+      {"en": "Withhold the rotavirus vaccine", "zh": "暫緩接種輪狀病毒疫苗"},
+      {"en": "Withhold the varicella vaccine", "zh": "暫緩接種水痘疫苗"},
+      {"en": "Administer immunoglobulin if the child is exposed to measles", "zh": "若兒童暴露於麻疹，則給予免疫球蛋白"}
+    ],
+    "answer": [0, 1, 3, 4, 5],
+    "rationale": {"en": "For a child with symptomatic HIV and severe immunosuppression: only the inactivated (intramuscular) influenza and polio vaccines are used; the live measles, rotavirus, and varicella vaccines are withheld; immunoglobulin may be given after measles exposure and varicella-zoster immunoglobulin after varicella exposure. Administering live MMR vaccine on schedule is contraindicated in this situation.", "zh": "對於患有症狀性 HIV 感染合併嚴重免疫抑制的兒童：僅使用不活化（肌肉注射）流感疫苗及小兒麻痺疫苗；活性疫苗（麻疹、輪狀病毒、水痘疫苗）須暫緩；麻疹暴露後可給予免疫球蛋白，水痘暴露後可給予水痘帶狀疱疹免疫球蛋白。此情況下依常規時程接種活性 MMR 疫苗是禁忌。"},
+    "pdf_pages": [565, 566],
+    "tags": ["sata", "immunization safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "The nurse notes small blue-white spots with a red base on the buccal mucosa of a child who also has fever, cough, and conjunctivitis. Which disease is most consistent with this finding?", "zh": "護理師發現一名合併發燒、咳嗽及結膜炎的兒童，其口腔黏膜上有帶紅色基底的藍白色小點。這項發現最符合哪種疾病？"},
+    "options": [
+      {"en": "Rubella (German measles)", "zh": "德國麻疹（風疹）"},
+      {"en": "Scarlet fever", "zh": "猩紅熱"},
+      {"en": "Erythema infectiosum (fifth disease)", "zh": "傳染性紅斑（第五病）"},
+      {"en": "Rubeola (measles)", "zh": "麻疹"}
+    ],
+    "answer": [3],
+    "rationale": {"en": "Koplik's spots—small red spots with a bluish-white center and red base on the buccal mucosa—are a hallmark finding of rubeola (measles), occurring with the 3 'Cs' of coryza, cough, and conjunctivitis. Rubella presents with petechiae on the soft palate, scarlet fever with a strawberry tongue, and fifth disease with a slapped-cheek rash.", "zh": "Koplik 氏斑（口腔黏膜上帶藍白色中心、紅色基底的小紅點）是麻疹的特徵性發現，常伴隨鼻炎、咳嗽及結膜炎三大「C」症狀。德國麻疹表現為軟顎上的瘀點；猩紅熱表現為草莓舌；第五病則表現為「打巴掌樣」臉頰紅疹。"},
+    "pdf_pages": [566],
+    "tags": ["recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A child hospitalized with scarlet fever began an appropriate antibiotic 14 hours ago and has been fever-free for the past 3 hours. The parent asks whether droplet and contact precautions can now be discontinued. What is the nurse's best response?", "zh": "一名因猩紅熱住院的兒童在 14 小時前開始使用適當的抗生素治療，過去 3 小時已退燒。家長詢問現在是否可以停止飛沫及接觸防護措施。護理師最佳的回應是什麼？"},
+    "options": [
+      {"en": "\"Yes, precautions can stop now that the fever has resolved.\"", "zh": "「可以，現在已經退燒，防護措施可以停止了。」"},
+      {"en": "\"Precautions must continue until 24 hours have passed since the antibiotic was started, regardless of how your child feels.\"", "zh": "「防護措施必須持續到抗生素開始使用滿 24 小時為止，不論孩子目前感覺如何。」"},
+      {"en": "\"Precautions can be discontinued once the rash completely fades.\"", "zh": "「等皮疹完全消退後，防護措施就可以停止。」"},
+      {"en": "\"Precautions will continue for 2 full weeks regardless of treatment.\"", "zh": "「無論治療情況如何，防護措施都要持續整整 2 週。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "For scarlet fever, contact and droplet precautions are maintained until 24 hours after initiation of effective antibiotic therapy, not based on fever resolution or rash fading, which may vary independently of true infectivity.", "zh": "猩紅熱需持續採取接觸及飛沫防護措施，直到有效抗生素治療開始滿 24 小時，而非依據退燒或皮疹消退與否判斷，因這些表現與實際傳染力並不完全一致。"},
+    "pdf_pages": [569],
+    "tags": ["isolation precautions", "patient education"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "The parent of a teenager recovering at home from infectious mononucleosis calls the clinic to report that the teen suddenly developed severe left upper quadrant abdominal pain and left shoulder pain while lifting a heavy box. What is the nurse's priority instruction?", "zh": "一名在家休養的傳染性單核球增多症青少年，在抬起重物時突然出現嚴重左上腹痛及左肩痛，家長因此致電診所。護理師最優先應給予的指示是什麼？"},
+    "options": [
+      {"en": "\"This is just a normal muscle strain; apply heat and have your teen rest.\"", "zh": "「這只是一般的肌肉拉傷，敷熱並讓孩子休息就好。」"},
+      {"en": "\"Have your teen take an over-the-counter antacid and call back if the pain continues.\"", "zh": "「讓孩子服用非處方的胃藥，如果疼痛持續再回電。」"},
+      {"en": "\"Seek emergency care immediately; these findings may indicate splenic rupture.\"", "zh": "「請立即就醫，這些症狀可能代表脾臟破裂。」"},
+      {"en": "\"Schedule a follow-up appointment for later this week.\"", "zh": "「這週晚一點再安排回診即可。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "A major complication of infectious mononucleosis is splenic rupture; abdominal pain, left upper quadrant pain, and left shoulder pain are warning signs that parents must be taught to recognize and report for immediate evaluation, not managed as a muscle strain or minor complaint.", "zh": "傳染性單核球增多症的重大併發症是脾臟破裂；腹痛、左上腹痛及左肩痛是必須教導家長辨識並立即就醫評估的警訊，不應視為單純肌肉拉傷或輕微不適處理。"},
+    "pdf_pages": [570],
+    "tags": ["red flag", "recognizing cues"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A pediatrician prescribes diphtheria antitoxin for a hospitalized child with confirmed diphtheria. Before administering the antitoxin, what is the nurse's priority action?", "zh": "醫師為一名確診白喉的住院兒童開立白喉抗毒素處方。在給藥前，護理師的優先行動是什麼？"},
+    "options": [
+      {"en": "Administer the first dose intramuscularly as prescribed without delay", "zh": "立即依醫囑以肌肉注射方式給予第一劑"},
+      {"en": "Perform a skin or conjunctival test to rule out sensitivity to horse serum", "zh": "執行皮膚或結膜測試，以排除對馬血清的過敏反應"},
+      {"en": "Obtain three negative nasopharyngeal cultures first", "zh": "先取得三次鼻咽分泌物培養陰性結果"},
+      {"en": "Apply a tourniquet above the planned injection site", "zh": "在預計注射部位上方綁上止血帶"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Diphtheria antitoxin is derived from horse serum, so a skin or conjunctival test must be performed first to rule out sensitivity before administration; administering without this test risks a severe hypersensitivity reaction. Negative cultures determine when isolation can end, not when the antitoxin may be given.", "zh": "白喉抗毒素是由馬血清製成，給藥前必須先執行皮膚或結膜測試以排除過敏反應，否則可能引發嚴重過敏反應。培養陰性結果是用來判斷何時可解除隔離，而非給予抗毒素的前提條件。"},
+    "pdf_pages": [569],
+    "tags": ["priority action", "med safety"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "A child with scarlet fever is on droplet and contact precautions. The RN has instructed the unlicensed assistive personnel (UAP) on proper use of personal protective equipment for this child. Which task can the RN safely delegate to the UAP?", "zh": "一名猩紅熱兒童正採取飛沫及接觸防護措施。RN 已指導無照助理人員（UAP）正確使用個人防護裝備。RN 可以安全委派給 UAP 的任務是哪一項？"},
+    "options": [
+      {"en": "Assessing the child's throat and tonsils for exudate", "zh": "評估兒童的喉部及扁桃腺是否有滲出物"},
+      {"en": "Teaching the parent how to administer the antibiotic at home", "zh": "教導家長如何在家中給藥抗生素"},
+      {"en": "Taking and recording the child's oral temperature every 4 hours while wearing appropriate personal protective equipment", "zh": "穿戴適當個人防護裝備，每 4 小時測量並記錄兒童的口溫"},
+      {"en": "Determining whether droplet and contact precautions can be discontinued", "zh": "判斷是否可以停止飛沫及接觸防護措施"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Routine vital sign measurement using appropriate personal protective equipment is within the scope of a trained UAP. Assessment, patient/family teaching, and clinical decisions about discontinuing precautions require RN/professional judgment and cannot be delegated.", "zh": "使用適當個人防護裝備進行常規生命徵象量測屬於經訓練 UAP 的職責範圍。評估、病人與家屬教育，以及是否停止防護措施的臨床判斷，則需 RN 專業判斷，不可委派。"},
+    "pdf_pages": [569],
+    "tags": ["delegation"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A nurse is teaching a parent how to remove a tick found on a child's leg after a hike. Which statement by the parent indicates correct understanding?", "zh": "護理師正在教導家長如何移除健行後發現在兒童腿上的蜱蟲。家長的哪句話表示其理解正確？"},
+    "options": [
+      {"en": "\"I will twist and jerk the tick quickly to pop it off the skin.\"", "zh": "「我會快速扭轉並猛拉蜱蟲，把它從皮膚上彈出來。」"},
+      {"en": "\"I will cover the tick with petroleum jelly to suffocate it before removing it.\"", "zh": "「我會先用凡士林蓋住蜱蟲讓它窒息，再移除它。」"},
+      {"en": "\"I will grasp the tick close to the skin with tweezers and pull straight up with steady, even pressure.\"", "zh": "「我會用鑷子夾住靠近皮膚處的蜱蟲，以穩定、均勻的力量垂直向上拉出。」"},
+      {"en": "\"I will burn the tick with a match to make it release.\"", "zh": "「我會用火柴燒蜱蟲，讓它鬆開。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "The correct method to remove a tick is to grasp it at the point of closest contact to the skin with tweezers and pull straight up with steady, even pressure, then clean the site; twisting, suffocating with petroleum jelly, or burning are not recommended and may increase the risk of pathogen transmission.", "zh": "移除蜱蟲的正確方法是用鑷子夾住最接近皮膚處的蜱蟲，以穩定、均勻的力量垂直向上拉出，之後清潔傷口；扭轉、用凡士林窒息或用火燒等方式皆不建議，且可能增加病原傳播的風險。"},
+    "pdf_pages": [571],
+    "tags": ["patient education"]
+  },
+  {
+    "cat": "SI",
+    "stem": {"en": "A school nurse is teaching a youth wrestling team about preventing community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA). Which instructions should be included? Select all that apply.", "zh": "校護正在對一支青少年角力隊教導如何預防社區型抗藥性金黃色葡萄球菌（CA-MRSA）感染。應包含下列哪些指導內容？（請選出所有適用項目）"},
+    "options": [
+      {"en": "\"Shower and wash with soap immediately after each practice or match.\"", "zh": "「每次練習或比賽後要立刻沖澡並用肥皂清洗。」"},
+      {"en": "\"Sharing towels and water bottles is fine as long as your teammates look healthy.\"", "zh": "「只要隊友看起來健康，共用毛巾和水壺是沒問題的。」"},
+      {"en": "\"Clean and cover any cuts or scrapes before practice.\"", "zh": "「練習前先清潔並包覆任何傷口或擦傷。」"},
+      {"en": "\"Mats and other shared equipment should be cleaned on a regular basis.\"", "zh": "「墊子及其他共用器材應定期清潔。」"},
+      {"en": "\"Report any red, warm, swollen, or draining skin areas to an adult right away.\"", "zh": "「若皮膚出現紅、熱、腫或有分泌物，要立刻告知成人。」"}
+    ],
+    "answer": [0, 2, 3, 4],
+    "rationale": {"en": "CA-MRSA prevention includes frequent handwashing/showering and good personal hygiene, avoiding the sharing of personal items such as towels, cleaning cuts or wounds thoroughly, regular cleaning of shared equipment, and prompt reporting of possible skin infection. Sharing items such as towels or water bottles is a known risk factor regardless of how a teammate appears, because colonization can occur without visible symptoms.", "zh": "預防 CA-MRSA 的措施包括經常洗手／沖澡並維持良好個人衛生、避免共用毛巾等個人物品、徹底清潔傷口或擦傷、定期清潔共用器材，以及及時報告可能的皮膚感染徵象。共用毛巾或水壺是已知的風險因子，不論隊友外觀是否健康，因為定植可能沒有明顯症狀。"},
+    "pdf_pages": [571],
+    "tags": ["sata", "patient education"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 16-year-old with HIV infection tells the nurse, \"I don't want my friends to know, but I really want to start dating someone.\" Which response by the nurse is most appropriate?", "zh": "一名感染 HIV 的 16 歲青少年告訴護理師：「我不想讓朋友知道，但我真的很想開始跟某人交往。」護理師最適當的回應是什麼？"},
+    "options": [
+      {"en": "\"You should tell your friends so they can support you.\"", "zh": "「你應該告訴朋友，這樣他們才能支持你。」"},
+      {"en": "\"Dating isn't a good idea for you until you're older.\"", "zh": "「在你年紀更大之前，談感情對你來說不是個好主意。」"},
+      {"en": "\"Let's talk about how to protect yourself and any partner, such as abstinence or safer-sex practices, and how you might want to handle disclosure on your own terms.\"", "zh": "「我們來談談如何保護自己及伴侶，例如禁慾或安全性行為措施，以及你想以什麼方式在自己掌控的情況下決定是否告知對方。」"},
+      {"en": "\"Your parents should make that decision for you.\"", "zh": "「這件事應該由你的父母來決定。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Education for the adolescent with HIV infection emphasizes high-risk behaviors and their avoidance, methods of transmission, the importance of abstinence or safer-sex practices if sexually active, and connecting the teen with support resources—respecting the adolescent's autonomy rather than dictating disclosure or dismissing the relationship.", "zh": "對感染 HIV 青少年的衛教重點在於高風險行為及其避免、傳染途徑、若有性行為時禁慾或採取安全性行為措施的重要性，以及連結支持資源——應尊重青少年的自主權，而非強制要求揭露或否定其感情需求。"},
+    "pdf_pages": [565],
+    "tags": ["therapeutic communication", "patient education"]
+  }
+]

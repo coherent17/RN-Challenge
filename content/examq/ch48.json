@@ -1,0 +1,246 @@
+[
+  {
+    "cat": "PH",
+    "stem": {"en": "A client with diabetes insipidus is started on intranasal desmopressin. Which finding should the nurse report to the primary health care provider immediately?", "zh": "一位尿崩症病人開始使用鼻內 desmopressin 治療。護理師應立即向醫師報告哪一項發現？"},
+    "options": [
+      {"en": "Mild nasal congestion after each dose", "zh": "每次給藥後輕微鼻塞"},
+      {"en": "Headache and increasing drowsiness", "zh": "頭痛與嗜睡程度增加"},
+      {"en": "Urine output of 1800 mL in 24 hours", "zh": "24小時尿量為1800 mL"},
+      {"en": "Thirst that has decreased since starting therapy", "zh": "開始治療後口渴感減少"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Headache and drowsiness are early signs of water intoxication/dilutional hyponatremia from excess antidiuretic effect and indicate the dose should be decreased; the other findings are expected or improving.", "zh": "頭痛與嗜睡是水中毒/稀釋性低血鈉的早期徵象，因抗利尿效果過強所致，須減量處理；其他選項為預期或改善中的發現。"},
+    "pdf_pages": [694],
+    "tags": ["red flag", "priority", "medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client begins therapy with somatropin for growth hormone deficiency. Which parameters should the nurse plan to monitor? Select all that apply.", "zh": "病人開始使用 somatropin 治療生長激素缺乏。護理師應監測哪些項目？請選出所有適用項目。"},
+    "options": [
+      {"en": "Blood glucose level", "zh": "血糖值"},
+      {"en": "AST and ALT levels", "zh": "AST 與 ALT 數值"},
+      {"en": "Annual bone age determination in children", "zh": "兒童每年骨齡檢查"},
+      {"en": "Thyroid function tests", "zh": "甲狀腺功能檢查"},
+      {"en": "Serum magnesium level", "zh": "血清鎂離子"},
+      {"en": "Urine specific gravity", "zh": "尿液比重"}
+    ],
+    "answer": [0, 1, 2, 3],
+    "rationale": {"en": "Growth hormone therapy requires monitoring of glucose, liver enzymes, thyroid function, and (in children) annual bone age; serum magnesium and urine specific gravity are not specific monitoring parameters for this medication.", "zh": "生長激素治療需監測血糖、肝酵素、甲狀腺功能，兒童則需每年檢查骨齡；血清鎂與尿液比重並非此藥物的建議監測項目。"},
+    "pdf_pages": [694],
+    "tags": ["labs", "sata"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client taking methimazole for Graves' disease calls the clinic and reports a fever and sore throat for the past day. Which action should the nurse take first?", "zh": "一位服用 methimazole 治療 Graves 氏病的病人打電話至診所，表示過去一天出現發燒與喉嚨痛。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Advise the client to gargle with warm salt water and call back if symptoms worsen", "zh": "建議病人用溫鹽水漱口，若症狀加重再回電"},
+      {"en": "Instruct the client to come in immediately for a complete blood count", "zh": "指導病人立即回診接受全血球計數檢查"},
+      {"en": "Tell the client this is an expected effect of the medication", "zh": "告知病人這是藥物的預期效果"},
+      {"en": "Advise the client to take acetaminophen and continue the medication as scheduled", "zh": "建議病人服用 acetaminophen 並依原計畫繼續用藥"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Fever and sore throat may signal agranulocytosis, a life-threatening adverse effect of methimazole, and require prompt CBC and provider evaluation rather than symptomatic self-care.", "zh": "發燒與喉嚨痛可能為顆粒球低下症（嚴重且可能致命的不良反應）的徵象，須盡快進行 CBC 與醫師評估，而非僅症狀處理。"},
+    "pdf_pages": [696],
+    "tags": ["red flag", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is monitoring a client who takes levothyroxine for hypothyroidism. Which findings suggest the dose is too high? Select all that apply.", "zh": "護理師監測一位服用 levothyroxine 治療甲狀腺機能低下的病人。哪些發現提示劑量過高？請選出所有適用項目。"},
+    "options": [
+      {"en": "Resting heart rate of 118 beats/min", "zh": "休息時心跳118次/分"},
+      {"en": "Weight loss of 4 lb in 1 week", "zh": "一週內體重減輕4磅"},
+      {"en": "Constipation", "zh": "便秘"},
+      {"en": "Insomnia and tremor", "zh": "失眠與顫抖"},
+      {"en": "Cold intolerance", "zh": "畏寒"},
+      {"en": "Diaphoresis", "zh": "盜汗"}
+    ],
+    "answer": [0, 1, 3, 5],
+    "rationale": {"en": "Tachycardia, rapid weight loss, insomnia/tremor, and diaphoresis reflect hyperthyroid toxicity from overdose; constipation and cold intolerance indicate the dose is too low (persistent hypothyroidism).", "zh": "心搏過速、快速體重減輕、失眠/顫抖、盜汗為甲亢/藥物過量徵象；便秘與畏寒則屬於劑量不足（甲狀腺機能低下持續）的表現。"},
+    "pdf_pages": [695],
+    "tags": ["red flag", "sata", "medication safety"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A client with hyperthyroidism abruptly stopped taking propylthiouracil 3 days ago. The nurse should recognize which findings as possible signs of thyroid storm? Select all that apply.", "zh": "一位甲亢病人3天前自行驟然停用 propylthiouracil。護理師應將哪些發現視為甲狀腺風暴的可能徵象？請選出所有適用項目。"},
+    "options": [
+      {"en": "Temperature 103°F (39.4°C)", "zh": "體溫103°F（39.4°C）"},
+      {"en": "Heart rate 158 beats/min with a new dysrhythmia", "zh": "心跳158次/分併新發心律不整"},
+      {"en": "Confusion and agitation", "zh": "意識混亂與躁動"},
+      {"en": "Bradycardia with hypotension", "zh": "心搏過緩併低血壓"},
+      {"en": "Flushed, warm skin", "zh": "皮膚潮紅且溫熱"}
+    ],
+    "answer": [0, 1, 2, 4],
+    "rationale": {"en": "Thyroid storm presents with high fever, tachycardia/dysrhythmias, confusion/behavioral changes, and flushed warm skin; it can progress to heart failure. Bradycardia with hypotension is not a typical presentation.", "zh": "甲狀腺風暴表現為高熱、心搏過速/心律不整、意識混亂行為改變、皮膚潮紅溫熱，可能進展至心衰竭；心搏過緩併低血壓並非典型表現。"},
+    "pdf_pages": [696],
+    "tags": ["red flag", "sata", "priority"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse is caring for four clients who take long-term oral corticosteroids. Which client should the nurse assess first?", "zh": "護理師照顧四位長期口服皮質類固醇的病人。護理師應優先評估哪一位？"},
+    "options": [
+      {"en": "A client who reports a 2-lb weight gain and mild ankle swelling", "zh": "體重增加2磅並有輕微足踝水腫的病人"},
+      {"en": "A client who has not taken the prescribed prednisone for 3 days because of nausea and now reports weakness, dizziness, and abdominal pain", "zh": "因噁心已3天未服用 prednisone，現出現虛弱、頭暈與腹痛的病人"},
+      {"en": "A client who asks about taking the medication with food", "zh": "詢問是否可隨餐服藥的病人"},
+      {"en": "A client whose fasting glucose is 140 mg/dL this morning", "zh": "今晨空腹血糖為140 mg/dL的病人"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Abrupt discontinuation of long-term corticosteroids can precipitate acute adrenal insufficiency (addisonian crisis), a life-threatening emergency; this client's weakness, dizziness, and abdominal pain take priority over the other, non-emergent findings.", "zh": "驟然停用長期皮質類固醇可能引發急性腎上腺功能不全（腎上腺危象），屬危及生命的緊急狀況，應優先於其他較不緊急的發現處理。"},
+    "pdf_pages": [697, 698],
+    "tags": ["priority", "first action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client who will begin long-term prednisone therapy for an inflammatory condition. The client also takes ibuprofen for knee pain. Which statement by the nurse is most appropriate?", "zh": "護理師教導即將開始長期服用 prednisone 治療發炎性疾病的病人，該病人同時因膝痛服用 ibuprofen。護理師最適當的說法是？"},
+    "options": [
+      {"en": "\"You can continue the ibuprofen exactly as you have been taking it.\"", "zh": "「你可以照原本方式繼續服用 ibuprofen。」"},
+      {"en": "\"Taking these two medications together increases your risk of stomach bleeding and ulcers; let's discuss other options for your knee pain with your provider.\"", "zh": "「同時服用這兩種藥物會增加胃出血與潰瘍的風險；讓我們與醫師討論膝痛的其他治療方式。」"},
+      {"en": "\"Ibuprofen will prevent the stomach upset that prednisone can cause.\"", "zh": "「Ibuprofen 可以預防 prednisone 引起的胃部不適。」"},
+      {"en": "\"You should double your fluid intake to prevent this interaction.\"", "zh": "「你應該將水分攝取量加倍以避免此交互作用。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Glucocorticoids potentiate the GI bleeding/ulceration risk of NSAIDs/aspirin; the nurse should raise this safety concern and facilitate discussion of alternatives rather than endorsing continued concurrent use.", "zh": "糖皮質素合併NSAIDs會提高消化道出血與潰瘍風險，護理師應提出此安全性問題並協助討論替代止痛方式，而非認可同時使用。"},
+    "pdf_pages": [697],
+    "tags": ["medication safety"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client receiving fludrocortisone for Addison's disease has the following laboratory results: sodium 148 mEq/L, potassium 2.9 mEq/L, glucose 110 mg/dL. Which result should the nurse report to the primary health care provider immediately?", "zh": "一位服用 fludrocortisone 治療 Addison 氏病的病人檢驗結果為：鈉148 mEq/L、鉀2.9 mEq/L、血糖110 mg/dL。護理師應立即向醫師報告哪一項結果？"},
+    "options": [
+      {"en": "Sodium 148 mEq/L", "zh": "鈉148 mEq/L"},
+      {"en": "Potassium 2.9 mEq/L", "zh": "鉀2.9 mEq/L"},
+      {"en": "Glucose 110 mg/dL", "zh": "血糖110 mg/dL"},
+      {"en": "None of these results require immediate reporting", "zh": "以上皆不需立即報告"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Mineralocorticoid therapy promotes sodium retention and potassium excretion; a potassium of 2.9 mEq/L is significantly low and risks dysrhythmias, requiring immediate notification.", "zh": "礦物皮質素治療會促進留鈉排鉀，鉀離子2.9 mEq/L已明顯偏低，有心律不整風險，需立即報告處理。"},
+    "pdf_pages": [697],
+    "tags": ["labs", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client newly prescribed canagliflozin. Which instruction is most important to include?", "zh": "護理師教導新開始服用 canagliflozin 的病人。最重要應包含哪項指導？"},
+    "options": [
+      {"en": "\"Take this medication at bedtime only.\"", "zh": "「只能在睡前服用此藥。」"},
+      {"en": "\"Report genital itching, discharge, or signs of a urinary tract infection.\"", "zh": "「若出現生殖器搔癢、分泌物或泌尿道感染徵象應報告。」"},
+      {"en": "\"This medication commonly causes weight gain.\"", "zh": "「此藥物常造成體重增加。」"},
+      {"en": "\"You do not need to monitor your blood glucose while taking this medication.\"", "zh": "「服用此藥期間不需監測血糖。」"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "SGLT-2 inhibitors increase urinary glucose excretion and are associated with genital mycotic infections and orthostatic hypotension; clients should be taught to recognize and report these.", "zh": "SGLT-2抑制劑經尿液排糖，常見生殖器黴菌感染與姿位性低血壓，應教導病人及早辨識並報告相關徵象。"},
+    "pdf_pages": [700],
+    "tags": ["medication safety", "patient education"]
+  },
+  {
+    "cat": "MC",
+    "stem": {"en": "The nurse reviews a new prescription for semaglutide for a client with type 1 diabetes mellitus who uses insulin. Which action should the nurse take?", "zh": "護理師審閱一位使用胰島素的第一型糖尿病病人新開立的 semaglutide 處方。護理師應採取哪項行動？"},
+    "options": [
+      {"en": "Administer the medication as prescribed along with the client's scheduled insulin.", "zh": "依處方給藥，並與原排定的胰島素一起使用。"},
+      {"en": "Contact the prescriber to clarify the order because GLP-1 receptor agonists are not recommended for type 1 diabetes.", "zh": "聯絡醫師確認處方，因為 GLP-1 受體促效劑不建議用於第一型糖尿病。"},
+      {"en": "Withhold the client's insulin and give only the semaglutide.", "zh": "暫停病人的胰島素，只給予 semaglutide。"},
+      {"en": "Administer the medication and monitor closely for hyperglycemia.", "zh": "給藥後密切監測病人是否出現高血糖。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "GLP-1 receptor agonists are not recommended for type 1 diabetes and clients should not be taken off insulin and given one instead; the nurse should question the prescription before administering it.", "zh": "GLP-1受體促效劑不建議用於第一型糖尿病，亦不可用以取代胰島素，護理師應先澄清處方，而非直接給藥。"},
+    "pdf_pages": [700],
+    "tags": ["medication safety", "first action"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse observes a client with diabetes mellitus preparing a mixed dose of NPH and regular insulin in the same syringe. Which action by the client indicates a need for further teaching?", "zh": "護理師觀察一位糖尿病病人以同一支針筒混合NPH與常規型胰島素。病人哪一項動作顯示需要再加強教學？"},
+    "options": [
+      {"en": "Injects air into the NPH vial first, then into the regular insulin vial", "zh": "先將空氣注入NPH藥瓶，再注入常規型胰島素藥瓶"},
+      {"en": "Withdraws the regular insulin first, then the NPH insulin", "zh": "先抽取常規型胰島素，再抽取NPH胰島素"},
+      {"en": "Withdraws the NPH insulin first, then the regular insulin", "zh": "先抽取NPH胰島素，再抽取常規型胰島素"},
+      {"en": "Rolls the NPH vial between the palms before withdrawing the dose", "zh": "抽取前先將NPH藥瓶於掌心滾動"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Remember \"RN\": draw up the Regular (short-acting, clear) insulin before the NPH (cloudy) insulin to avoid contaminating the short-acting vial. Withdrawing NPH first is incorrect technique.", "zh": "口訣「RN」：應先抽取 Regular（常規/速效，透明）再抽取 NPH（混濁），以避免汙染速效胰島素藥瓶；先抽NPH的順序是錯誤的。"},
+    "pdf_pages": [702],
+    "tags": ["medication safety", "dosage calc"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client newly prescribed insulin glargine asks the nurse about the medication. Which statements by the nurse are accurate? Select all that apply.", "zh": "一位剛開始使用 insulin glargine 的病人詢問護理師相關資訊。護理師哪些說法是正確的？請選出所有適用項目。"},
+    "options": [
+      {"en": "\"This insulin has no pronounced peak of action.\"", "zh": "「此胰島素沒有明顯的作用高峰。」"},
+      {"en": "\"This insulin can be mixed in the same syringe with your rapid-acting insulin to reduce the number of injections.\"", "zh": "「可與速效胰島素混合於同一支針筒中注射，以減少注射次數。」"},
+      {"en": "\"This solution should look clear, not cloudy.\"", "zh": "「藥液應呈透明狀，不應混濁。」"},
+      {"en": "\"The effect of this insulin lasts about 18 to 24 hours.\"", "zh": "「此胰島素的作用可持續約18到24小時。」"},
+      {"en": "\"You should roll the vial between your palms before each dose.\"", "zh": "「每次使用前應將藥瓶於掌心滾動。」"}
+    ],
+    "answer": [0, 2, 3],
+    "rationale": {"en": "Insulin glargine has no pronounced peak, lasts about 18-24 hours, and is a clear solution, but it must never be mixed with any other insulin and does not require rolling because it is a solution, not a suspension.", "zh": "glargine無明顯高峰、作用可達18-24小時、外觀應清澈；但絕對不可與其他胰島素混合，也不需滾動瓶身（因其為溶液而非懸浮液）。"},
+    "pdf_pages": [701, 702],
+    "tags": ["medication safety", "sata"]
+  },
+  {
+    "cat": "PA",
+    "stem": {"en": "A home care nurse finds a client with type 1 diabetes mellitus unresponsive, with a blood glucose level of 32 mg/dL. The client's spouse is present. Which action should the nurse take first?", "zh": "居家護理師發現一位第一型糖尿病病人意識不清，血糖值為32 mg/dL，配偶在旁。護理師應優先採取哪項行動？"},
+    "options": [
+      {"en": "Attempt to give a tube of oral glucose gel", "zh": "嘗試給予口服葡萄糖凝膠"},
+      {"en": "Administer glucagon intramuscularly and call for emergency assistance", "zh": "肌肉注射glucagon並呼叫緊急協助"},
+      {"en": "Recheck the blood glucose level in 15 minutes before intervening", "zh": "15分鐘後再次測血糖，之後才處理"},
+      {"en": "Place the client in a supine position and wait for the client to awaken", "zh": "讓病人採平躺姿勢並等待其自行清醒"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "An unresponsive client cannot safely swallow oral glucose; glucagon raises blood glucose via hepatic glycogenolysis within 5-20 minutes and should be given immediately with emergency support activated.", "zh": "病人意識不清無法安全經口進食，glucagon可透過肝醣分解在5到20分鐘內升高血糖，應立即給予並同時啟動緊急應變。"},
+    "pdf_pages": [703],
+    "tags": ["priority", "first action", "red flag"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "The nurse is teaching a client with type 1 diabetes mellitus who is newly prescribed pramlintide in addition to insulin. Which instruction is essential for the nurse to include?", "zh": "護理師教導一位第一型糖尿病病人，該病人除胰島素外新增 pramlintide。護理師必須包含哪項重要指導？"},
+    "options": [
+      {"en": "\"Inject the pramlintide at the same time and in the same syringe as your insulin.\"", "zh": "「將 pramlintide 與胰島素以同一支針筒、同一時間注射。」"},
+      {"en": "\"Take your other oral medications at the same time as the pramlintide injection.\"", "zh": "「其他口服藥物應與 pramlintide 注射同時服用。」"},
+      {"en": "\"This medication increases your risk of severe hypoglycemia; know the signs and keep a fast-acting carbohydrate available.\"", "zh": "「此藥物會增加嚴重低血糖的風險；須了解徵象並隨身備有速效碳水化合物。」"},
+      {"en": "\"Pramlintide will replace the need for one of your daily insulin doses.\"", "zh": "「Pramlintide 可取代每日其中一次胰島素劑量。」"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Pramlintide is associated with an increased risk of insulin-induced severe hypoglycemia, particularly in type 1 diabetes; it is never mixed with insulin, oral medications must be spaced 1 hour before or 2 hours after it, and it does not replace insulin.", "zh": "pramlintide會提高（尤其第一型病人）胰島素相關嚴重低血糖風險，須教導辨識徵象並備妥簡單糖類；不可與胰島素混合，口服藥應間隔1小時前或2小時後服用，亦不可取代胰島素。"},
+    "pdf_pages": [703],
+    "tags": ["medication safety", "red flag"]
+  },
+  {
+    "cat": "RR",
+    "stem": {"en": "A client who takes metformin for type 2 diabetes mellitus is scheduled for a CT scan with IV contrast later today. Which action should the nurse take?", "zh": "一位服用 metformin 治療第二型糖尿病的病人當日稍晚將接受含靜脈顯影劑的CT檢查。護理師應採取哪項行動？"},
+    "options": [
+      {"en": "Administer the metformin as scheduled; it has no interaction with contrast dye.", "zh": "依排定時間給予 metformin，因其與顯影劑無交互作用。"},
+      {"en": "Hold the metformin and notify the PHCP to clarify the plan for withholding and resuming the medication around the contrast study.", "zh": "暫停 metformin 並通知醫師，確認檢查前後暫停與恢復用藥的時間安排。"},
+      {"en": "Double the next dose of metformin after the scan to compensate.", "zh": "檢查後將下一劑 metformin 加倍以補足。"},
+      {"en": "Discontinue metformin permanently and request another oral agent.", "zh": "永久停用 metformin 並要求更換其他口服藥物。"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Metformin must be withheld before and for about 48 hours after IV contrast administration because of the risk of contrast-induced nephropathy and lactic acidosis; the nurse clarifies timing with the PHCP and checks renal function before resuming.", "zh": "為降低顯影劑導致乳酸中毒與腎病變的風險，metformin須於檢查前暫停並於檢查後約48小時內持續暫停，待確認腎功能後再恢復，須與醫師確認時程。"},
+    "pdf_pages": [700],
+    "tags": ["medication safety", "priority"]
+  },
+  {
+    "cat": "PH",
+    "stem": {"en": "A client receiving testosterone replacement therapy should be instructed to report which finding to the primary health care provider immediately?", "zh": "接受睪固酮補充治療的病人應被教導立即報告哪項發現？"},
+    "options": [
+      {"en": "Mild acne", "zh": "輕微痤瘡"},
+      {"en": "Increased facial hair growth", "zh": "臉部毛髮增多"},
+      {"en": "Priapism lasting several hours", "zh": "持續數小時的陰莖異常勃起"},
+      {"en": "Occasional breast tenderness", "zh": "偶發性乳房觸痛"}
+    ],
+    "answer": [2],
+    "rationale": {"en": "Priapism is a urologic emergency requiring prompt reporting and treatment; acne, hirsutism, and breast tenderness are common, less urgent androgen effects.", "zh": "陰莖異常勃起（priapism）屬需緊急處理的泌尿科急症，須立即報告；痤瘡、多毛與乳房觸痛為較常見、非急迫的雄性激素效應。"},
+    "pdf_pages": [698],
+    "tags": ["red flag"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A nurse is completing a health history before a hormone-containing contraceptive is prescribed. Which finding is most important to report to the primary health care provider before therapy begins?", "zh": "護理師在開始含荷爾蒙避孕藥前完成健康史評估。以下哪項發現最重要須報告給醫師？"},
+    "options": [
+      {"en": "A sister with mild seasonal allergies", "zh": "姊妹有輕微季節性過敏"},
+      {"en": "A history of deep vein thrombosis 2 years ago", "zh": "2年前曾有深部靜脈血栓病史"},
+      {"en": "Occasional tension headaches relieved by rest", "zh": "偶發性緊張型頭痛，休息可緩解"},
+      {"en": "A family history of type 2 diabetes mellitus", "zh": "家族有第二型糖尿病病史"}
+    ],
+    "answer": [1],
+    "rationale": {"en": "Estrogen-containing preparations are contraindicated in clients with a history of thromboembolism because of increased risk of thromboembolism, stroke, and myocardial infarction.", "zh": "雌激素類藥物禁用於有血栓栓塞病史者，因其會增加血栓栓塞、中風與心肌梗塞的風險。"},
+    "pdf_pages": [698, 699],
+    "tags": ["health promotion", "screening"]
+  }
+]

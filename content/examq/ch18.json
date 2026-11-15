@@ -1,0 +1,227 @@
+[
+  {
+    "cat": "HP",
+    "stem": {"en": "A 10-month-old infant cries and reaches for the parent whenever the parent leaves the room and is comforted quickly when the parent returns. Based on Erikson's theory of psychosocial development, which interpretation of this behavior is correct?", "zh": "一位10個月大的嬰兒每當父母離開房間時就會哭泣並伸手要找父母,而父母返回時嬰兒很快就能被安撫。根據艾瑞克森(Erikson)的心理社會發展理論,下列對此行為的解釋何者正確?"},
+    "options": [
+      {"en": "The infant is developing a sense of trust in the caregiver", "zh": "嬰兒正在發展對照顧者的信任感"},
+      {"en": "The infant is showing early signs of role confusion", "zh": "嬰兒正顯現早期角色混淆的徵象"},
+      {"en": "The infant is demonstrating autonomy over the environment", "zh": "嬰兒正展現對環境的自主性"},
+      {"en": "The infant is exhibiting abnormal separation behavior requiring referral", "zh": "嬰兒正表現異常的分離行為,需要轉介"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Infancy (birth to 18 months) is Erikson's trust-versus-mistrust stage. An infant who protests separation but is readily soothed upon the caregiver's return, having learned that needs will reliably be met, is demonstrating healthy attachment and developing trust, not a problem requiring referral. Autonomy versus shame and doubt is the toddler task, and identity versus role confusion applies to adolescence.", "zh": "嬰兒期(出生至18個月)對應艾瑞克森的信任對不信任階段。嬰兒在分離時表達抗議,但在照顧者返回後能很快被安撫,表示其已學會需求會被可靠地滿足,這是健康依附與信任發展的表現,並非需要轉介的問題。自主對羞愧懷疑是幼兒期的任務,認同對角色混淆則屬於青少年期。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "infant", "trust vs mistrust"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A mother tells the nurse that her 2-year-old has started saying \"No!\" to almost everything and insists on choosing their own clothes each morning. Using Erikson's theory, which response by the nurse is most appropriate?", "zh": "一位媽媽告訴護理師她2歲的孩子最近對幾乎所有事情都說「不要!」,而且每天早上堅持自己選衣服。依據艾瑞克森的理論,護理師最適當的回應是什麼?"},
+    "options": [
+      {"en": "\"This is a normal part of developing autonomy; offer safe, limited choices.\"", "zh": "「這是發展自主性的正常過程;可以提供安全且有限的選擇。」"},
+      {"en": "\"This behavior suggests the child has not developed trust in you.\"", "zh": "「這種行為顯示孩子對您尚未發展出信任感。」"},
+      {"en": "\"You should firmly stop this behavior now before it becomes a pattern.\"", "zh": "「您應該現在就堅決阻止這種行為,以免形成習慣。」"},
+      {"en": "\"This is unusual for this age and should be evaluated further.\"", "zh": "「這在這個年齡並不常見,應該進一步評估。」"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Early childhood (18 months to 3 years) is the autonomy-versus-shame-and-doubt stage; toddlers assert independence and gain a sense of self-control by making choices. Offering safe, limited choices (e.g., allowing the toddler to pick from two outfits) supports this developmental task. This is normal, expected behavior, not a sign of poor trust or a reason for firm suppression or referral.", "zh": "幼兒期(18個月至3歲)對應自主對羞愧懷疑階段;幼兒透過做選擇來主張獨立並獲得自我控制感。提供安全且有限的選擇(例如讓孩子從兩套衣服中挑選)能支持此發展任務。這是正常、預期中的行為,並非信任不足的徵象,也不需要強力壓制或轉介。"},
+    "pdf_pages": [269, 270],
+    "tags": ["Erikson", "toddler", "autonomy vs shame and doubt"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 4-year-old child in the hospital insists on helping the nurse set up the stethoscope and bandages for \"playing doctor\" and becomes upset when told to simply watch. Which nursing action best supports this child's developmental stage according to Erikson?", "zh": "一位4歲住院兒童堅持要幫護理師準備聽診器與繃帶來玩「扮醫生」遊戲,當被告知只能在旁觀看時感到不開心。根據艾瑞克森理論,下列哪項護理措施最能支持此兒童的發展階段?"},
+    "options": [
+      {"en": "Provide medical play equipment and allow the child to direct the activity", "zh": "提供醫療遊戲器材,並讓孩子主導該活動"},
+      {"en": "Redirect the child to a quiet solitary activity to reduce stimulation", "zh": "引導孩子進行安靜的獨自活動以減少刺激"},
+      {"en": "Explain that only adults are permitted to handle medical equipment", "zh": "說明只有成人才能操作醫療器材"},
+      {"en": "Ask the parents to keep the child in bed for the remainder of the stay", "zh": "要求家長讓孩子在住院期間餘下時間都留在床上"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Late childhood/preschool age (3 to 6 years) is the initiative-versus-guilt stage, in which children become purposeful and directive. Offering medical play equipment and respecting the child's choices and self-directed play supports initiative. Restricting the child to passive observation or solitary quiet activity would not support this developmental task and could foster feelings of guilt or inadequacy.", "zh": "幼兒晚期/學前期(3至6歲)對應主動對愧疚階段,此階段兒童開始變得有目的性且具主導性。提供醫療遊戲器材並尊重孩子自主選擇與主導遊戲,能支持其主動性的發展。若限制孩子只能被動旁觀或進行安靜的獨自活動,則無法支持此發展任務,反而可能助長愧疚或自覺不足的感受。"},
+    "pdf_pages": [269, 270],
+    "tags": ["Erikson", "preschool", "initiative vs guilt"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A 9-year-old hospitalized child asks the nurse if they can continue doing their math homework and bring a favorite hobby kit to the hospital. Which Erikson developmental task is this child working to achieve?", "zh": "一位9歲住院兒童問護理師是否能繼續完成數學作業,並把自己喜愛的手作工具帶到醫院。此兒童正努力達成艾瑞克森理論中的哪一項發展任務?"},
+    "options": [
+      {"en": "Industry versus inferiority", "zh": "勤奮對自卑"},
+      {"en": "Identity versus role confusion", "zh": "自我認同對角色混淆"},
+      {"en": "Initiative versus guilt", "zh": "主動對愧疚"},
+      {"en": "Trust versus mistrust", "zh": "信任對不信任"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "School age (6 to 12 years) corresponds to Erikson's industry-versus-inferiority stage, during which children develop social, physical, and learning skills and gain competence and the ability to work. Encouraging the child to continue schoolwork and bring favorite activities to the hospital supports this task and helps prevent a sense of inferiority related to falling behind peers.", "zh": "學齡期(6至12歲)對應艾瑞克森的勤奮對自卑階段,此階段兒童發展社交、身體與學習技能,並獲得能力與工作感。鼓勵孩子繼續完成學校作業並帶自己喜愛的活動到醫院,能支持此任務,並有助於預防因落後同儕而產生的自卑感。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "school age", "industry vs inferiority"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 16-year-old client admitted for an elective procedure repeatedly asks the nurse not to discuss their diagnosis in front of the parents and wants to make decisions about the plan of care independently. Based on Erikson's theory, how should the nurse best respond?", "zh": "一位因選擇性手術入院的16歲病人反覆要求護理師不要在父母面前討論其診斷,並希望能獨立做出照護計畫的決定。依據艾瑞克森理論,護理師最適當的回應方式是什麼?"},
+    "options": [
+      {"en": "Take the health history and allow the adolescent a choice in the plan of care, with parents present only as appropriate", "zh": "採集病史並讓青少年在照護計畫中擁有選擇權,家長僅於適當時在場"},
+      {"en": "Insist that the parents be present for all discussions regardless of the client's preference", "zh": "不論病人意願,堅持所有討論都要家長在場"},
+      {"en": "Tell the client that minors cannot participate in care decisions", "zh": "告知病人未成年者不能參與照護決定"},
+      {"en": "Avoid discussing the diagnosis with the client until the parents agree to leave", "zh": "在家長同意離開前都不與病人討論診斷"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Adolescence (12 to 20 years) is the identity-versus-role-confusion stage, in which developing a sense of personal identity and autonomy is the central task. Appropriate interventions include taking the health history and performing examinations without parents present and allowing the adolescent choice in the plan of care, which supports healthy identity formation rather than fostering role confusion.", "zh": "青少年期(12至20歲)對應自我認同對角色混淆階段,其核心任務是發展個人認同感與自主性。恰當的措施包括在無父母在場的情況下採集病史與進行檢查,並讓青少年在照護計畫中有選擇權,這有助於健康的自我認同形成,而非助長角色混淆。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "adolescent", "identity vs role confusion"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 28-year-old client recovering from a severe traumatic injury tells the nurse, \"I'm so grateful my partner has been by my side through all of this; we're closer than ever.\" According to Erikson, which developmental task is reflected in this statement?", "zh": "一位28歲正在從嚴重外傷中復原的病人告訴護理師:「我很感激我的伴侶一直陪在我身邊經歷這一切,我們比以前更親密了。」依據艾瑞克森理論,此陳述反映哪一項發展任務?"},
+    "options": [
+      {"en": "Intimacy versus isolation", "zh": "親密對孤立"},
+      {"en": "Generativity versus stagnation", "zh": "生產力對停滯"},
+      {"en": "Integrity versus despair", "zh": "自我整合對絕望"},
+      {"en": "Industry versus inferiority", "zh": "勤奮對自卑"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Early adulthood (20 to 35 years) corresponds to Erikson's intimacy-versus-isolation stage, in which the task is establishing intimate bonds of love and friendship. A client describing a deepened, supportive bond with a partner during a health crisis reflects successful achievement of this task; including the partner in care and support planning is an appropriate nursing intervention at this stage.", "zh": "成年早期(20至35歲)對應艾瑞克森的親密對孤立階段,其任務是建立親密的愛與友誼關係。病人描述在健康危機中與伴侶的關係更加深厚、互相支持,反映此任務的成功達成;在此階段納入伴侶參與照護與支持計畫是恰當的護理措施。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "early adulthood", "intimacy vs isolation"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 50-year-old client newly diagnosed with a chronic illness tells the nurse, \"I was really looking forward to volunteering with the youth mentoring program this year, but now I'm not sure I can give back the way I wanted to.\" Using Erikson's theory, the nurse recognizes this client is struggling with which psychosocial crisis?", "zh": "一位50歲新診斷慢性疾病的病人告訴護理師:「我今年真的很期待參與青少年輔導志工計畫,但現在我不確定還能像原本計畫的那樣回饋社會。」依據艾瑞克森理論,護理師認為此病人正面臨哪一項心理社會危機?"},
+    "options": [
+      {"en": "Generativity versus stagnation", "zh": "生產力對停滯"},
+      {"en": "Intimacy versus isolation", "zh": "親密對孤立"},
+      {"en": "Integrity versus despair", "zh": "自我整合對絕望"},
+      {"en": "Identity versus role confusion", "zh": "自我認同對角色混淆"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Middle adulthood (35 to 65 years) corresponds to generativity versus stagnation, in which the task is fulfilling life goals involving family, career, and society, including the ability to give to and care for others, such as through mentoring or volunteer work. Helping this client find creative alternative ways to contribute and stay socially engaged, as the illness allows, supports achievement of this task and helps prevent self-absorption or a sense of stagnation.", "zh": "成年中期(35至65歲)對應生產力對停滯階段,其任務是達成與家庭、職業及社會相關的人生目標,包括透過輔導或志工活動等方式給予並照顧他人的能力。協助此病人在疾病允許的範圍內找到有創意的替代方式來貢獻社會並維持社交參與,能支持此任務的達成,並有助於預防自我沉溺或停滯感。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "middle adulthood", "generativity vs stagnation"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "An 80-year-old client in a long-term care facility frequently shares detailed stories about their career and family milestones with staff and expresses satisfaction with how their life has unfolded. Which nursing approach best supports this client's developmental stage per Erikson?", "zh": "一位80歲長期照護機構的病人經常向工作人員詳述自己的職業生涯與家庭重要事件,並表達對人生發展感到滿意。依據艾瑞克森理論,下列哪項護理方式最能支持此病人的發展階段?"},
+    "options": [
+      {"en": "Listen attentively to the client's reminiscent stories about life accomplishments", "zh": "專注傾聽病人回顧其人生成就的故事"},
+      {"en": "Redirect the client's focus toward planning future goals and new activities", "zh": "引導病人將重心轉向規劃未來目標與新活動"},
+      {"en": "Limit conversation time about the past to encourage socializing with peers instead", "zh": "限制談論過去的時間,轉而鼓勵與同儕社交"},
+      {"en": "Gently discourage reminiscing because it may indicate difficulty accepting aging", "zh": "溫和地勸阻回憶過去,因其可能代表難以接受老化"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Later adulthood (65 years to death) corresponds to integrity versus despair, in which the task is looking back over one's life and accepting its meaning. Listening attentively to reminiscent stories about life's accomplishments is a recommended intervention that supports a sense of integrity and fulfillment; discouraging reminiscence or redirecting away from it does not support this developmental task.", "zh": "成年晚期(65歲至死亡)對應自我整合對絕望階段,其任務是回顧自己的一生並接受其意義。專注傾聽病人回顧人生成就的故事,是建議的護理措施,能支持其整合感與滿足感;勸阻或轉移回憶話題則無法支持此發展任務。"},
+    "pdf_pages": [269],
+    "tags": ["Erikson", "later adulthood", "integrity vs despair"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse observes an 8-month-old infant repeatedly dropping a toy out of the crib and searching for it on the floor when it falls. According to Piaget, which cognitive concept is this infant beginning to develop?", "zh": "護理師觀察到一位8個月大的嬰兒反覆把玩具丟出嬰兒床,並在玩具掉落時在地上尋找它。依據皮亞傑理論,此嬰兒正開始發展哪一項認知概念?"},
+    "options": [
+      {"en": "Object permanence, within the sensorimotor stage", "zh": "物體恆存概念,屬於感覺運動期"},
+      {"en": "Egocentrism, within the preoperational stage", "zh": "自我中心主義,屬於前運思期"},
+      {"en": "Abstract reasoning, within the formal operational stage", "zh": "抽象推理,屬於形式運思期"},
+      {"en": "Conservation of mass, within the concrete operational stage", "zh": "質量保留概念,屬於具體運思期"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The sensorimotor stage (birth to 2 years) is when the infant learns about reality through the senses and movement. An infant who searches for a dropped object is beginning to grasp that objects continue to exist even when out of the visual field (object permanence), a hallmark cognitive achievement of this stage. Egocentrism is characteristic of the preoperational stage, abstract reasoning of the formal operational stage, and conservation of mass of the concrete operational stage.", "zh": "感覺運動期(出生至2歲)是嬰兒透過感官與動作學習現實世界的階段。嬰兒在玩具掉落後開始尋找,顯示其正開始理解物體即使離開視野仍持續存在(物體恆存),這是此階段重要的認知成就。自我中心主義是前運思期的特徵,抽象推理屬於形式運思期,質量保留概念則屬於具體運思期。"},
+    "pdf_pages": [270],
+    "tags": ["Piaget", "infant", "sensorimotor", "object permanence"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A 4-year-old child insists that a parent who is feeling sad must have been made sad by the child's own earlier misbehavior, even though the parent explains the sadness is unrelated. Which Piagetian concept explains this child's thinking?", "zh": "一位4歲兒童堅持父母感到難過一定是因為自己先前的不良行為所造成,即使父母解釋難過與此無關。下列哪一項皮亞傑的認知概念可以解釋此兒童的想法?"},
+    "options": [
+      {"en": "Egocentrism, characteristic of the preoperational stage", "zh": "自我中心主義,是前運思期的特徵"},
+      {"en": "Object permanence, characteristic of the sensorimotor stage", "zh": "物體恆存,是感覺運動期的特徵"},
+      {"en": "Conservation, characteristic of the concrete operational stage", "zh": "保留概念,是具體運思期的特徵"},
+      {"en": "Hypothetical-deductive reasoning, characteristic of the formal operational stage", "zh": "假設演繹推理,是形式運思期的特徵"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The preoperational stage (2 to 7 years) is characterized by egocentrism, in which the child believes others experience the world exactly as they do and has difficulty understanding that events can occur independent of their own actions. This explains why a preschooler may believe their behavior caused an unrelated event, such as a parent's sadness. The nurse can use this understanding to provide simple, concrete explanations rather than assuming the child can reason abstractly.", "zh": "前運思期(2至7歲)的特徵是自我中心主義,此階段兒童認為他人經歷世界的方式與自己完全相同,也難以理解事件可能獨立於自己的行為而發生。這可以解釋為何學前兒童會認為自己的行為導致了無關的事件,例如父母的難過。護理師可利用此理解,提供簡單、具體的解釋,而非假設孩子能進行抽象推理。"},
+    "pdf_pages": [270],
+    "tags": ["Piaget", "preschool", "preoperational", "egocentrism"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a 9-year-old child about a new medication regimen using a chart that sorts medications by time of day and purpose, and the child is able to follow the logical categories without difficulty. According to Piaget, which stage of cognitive development is consistent with this child's abilities?", "zh": "護理師使用一張依時間與用途分類藥物的圖表教導一位9歲兒童新的用藥方案,該兒童能毫無困難地理解此邏輯分類。依據皮亞傑理論,此兒童的能力符合哪一個認知發展階段?"},
+    "options": [
+      {"en": "Concrete operational stage", "zh": "具體運思期"},
+      {"en": "Preoperational stage", "zh": "前運思期"},
+      {"en": "Sensorimotor stage", "zh": "感覺運動期"},
+      {"en": "Formal operational stage", "zh": "形式運思期"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The concrete operational stage (7 to 11 years) is when the child is able to classify, order, and sort facts, moving from prelogical thought to solving concrete problems through logic, and is less egocentric. A 9-year-old successfully using a concrete sorting chart to organize information is demonstrating abilities typical of this stage, not yet the fully abstract reasoning of the formal operational stage (11 years to adulthood).", "zh": "具體運思期(7至11歲)是兒童能夠分類、排序並整理事實的階段,從前邏輯思考轉變為以邏輯解決具體問題,且自我中心程度降低。一位9歲兒童能成功利用具體的分類圖表來整理資訊,顯示其具備此階段的典型能力,尚未達到形式運思期(11歲至成年)完全抽象推理的能力。"},
+    "pdf_pages": [270],
+    "tags": ["Piaget", "school age", "concrete operational"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "A 14-year-old client newly diagnosed with type 1 diabetes is able to discuss how different food choices, activity levels, and insulin timing interact to affect blood glucose, and proposes several possible adjustments to try. This ability reflects which Piagetian stage?", "zh": "一位新診斷第一型糖尿病的14歲病人能夠討論不同食物選擇、活動量與胰島素注射時間之間如何交互影響血糖,並提出數種可能的調整方案。此能力反映皮亞傑理論中的哪一個階段?"},
+    "options": [
+      {"en": "Formal operational stage", "zh": "形式運思期"},
+      {"en": "Concrete operational stage", "zh": "具體運思期"},
+      {"en": "Preoperational stage", "zh": "前運思期"},
+      {"en": "Sensorimotor stage", "zh": "感覺運動期"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The formal operational stage (11 years to adulthood) is characterized by the ability to think abstractly and logically, expanding logical thinking to solve both abstract and concrete problems. An adolescent who can reason about multiple interacting variables (diet, activity, medication timing) and generate hypothetical solutions is demonstrating formal operational thought, which supports more complex diabetes self-management teaching at this age.", "zh": "形式運思期(11歲至成年)的特徵是能夠進行抽象且邏輯的思考,並將邏輯思維擴展到解決抽象與具體問題。青少年能夠就多個交互影響的變項(飲食、活動量、藥物時間)進行推理並提出假設性的解決方案,顯示其具備形式運思的能力,這也支持在此年齡進行更複雜的糖尿病自我照護教學。"},
+    "pdf_pages": [270],
+    "tags": ["Piaget", "adolescent", "formal operational"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 3-year-old in the clinic grabs a toy from another child and, when told to stop, says, \"I don't want to be punished,\" and gives the toy back. According to Kohlberg's theory of moral development, this child's reasoning reflects which stage?", "zh": "一位3歲兒童在診所從另一名孩子手中搶走玩具,被要求停止後說:「我不想被處罰」,然後把玩具還回去。依據柯爾伯格(Kohlberg)的道德發展理論,此兒童的推理反映哪一個階段?"},
+    "options": [
+      {"en": "Stage 1: Punishment-obedience orientation", "zh": "階段1:懲罰—服從取向"},
+      {"en": "Stage 3: Good boy or nice girl orientation", "zh": "階段3:好孩子取向"},
+      {"en": "Stage 4: Law and order orientation", "zh": "階段4:法律與秩序取向"},
+      {"en": "Stage 5: Social contract and legalistic orientation", "zh": "階段5:社會契約與法律取向"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "Children ages 2 to 4 years are typically in Kohlberg's preconventional stage 1, punishment-obedience orientation, in which behavior is motivated by avoiding punishment rather than an understanding of right and wrong. The child's statement, \"I don't want to be punished,\" is a clear example of this reasoning. The nurse can use this understanding to counsel parents that appropriate discipline for a toddler involves simple explanations, praise for good behavior, and distraction rather than relying on fear of punishment alone.", "zh": "2至4歲兒童通常處於柯爾伯格理論的前習俗期階段1,即懲罰—服從取向,其行為動機是避免被處罰,而非理解是非對錯。此兒童所說「我不想被處罰」正是此推理的典型範例。護理師可利用此理解,建議家長對幼兒的適當管教應包括簡單的解釋、對良好行為的讚美,以及使用分散注意力的方式,而非僅依賴對處罰的恐懼。"},
+    "pdf_pages": [271],
+    "tags": ["Kohlberg", "toddler", "preconventional"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "A 9-year-old child tells the school nurse, \"I returned the extra change to the cashier because that's what an honest person would do, and I want my friends and teachers to see me as trustworthy.\" According to Kohlberg, this reasoning reflects which level of moral development?", "zh": "一位9歲兒童告訴學校護理師:「我把多給的零錢還給收銀員,因為誠實的人就該這樣做,而且我希望朋友和老師都認為我值得信賴。」依據柯爾伯格理論,此推理反映哪一個道德發展層次?"},
+    "options": [
+      {"en": "Conventional morality, stage 3 (good boy or nice girl orientation)", "zh": "習俗期道德,階段3(好孩子取向)"},
+      {"en": "Preconventional morality, stage 1 (punishment-obedience orientation)", "zh": "前習俗期道德,階段1(懲罰—服從取向)"},
+      {"en": "Postconventional morality, stage 5 (social contract orientation)", "zh": "後習俗期道德,階段5(社會契約取向)"},
+      {"en": "Postconventional morality, stage 6 (universal ethical principles orientation)", "zh": "後習俗期道德,階段6(普遍倫理原則取向)"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "The school-age child (about 7 to 12 years) is typically at the conventional level, which includes stage 3, the good boy or nice girl orientation, in which being \"good\" is interpreted as having good motives, showing concern for others, and maintaining relationships such as trust and respect with people whose opinions matter to the child. This differs from the preconventional focus on avoiding punishment and the postconventional focus on individual conscience and universal principles, which typically does not emerge until adolescence.", "zh": "學齡兒童(約7至12歲)通常處於習俗期,包含階段3「好孩子取向」,此階段將「做好人」詮釋為具備良好動機、關心他人,並與自己重視意見的人維持信任與尊重等關係。這與前習俗期著重避免處罰、以及後習俗期著重個人良知與普遍原則(通常至青少年期才出現)不同。"},
+    "pdf_pages": [271],
+    "tags": ["Kohlberg", "school age", "conventional morality"]
+  },
+  {
+    "cat": "PI",
+    "stem": {"en": "The nurse is caring for a 2-year-old during a painful procedure. According to Freud's psychosexual theory, the toddler is in the anal stage. Which nursing approach is most consistent with supporting this child's developmental task?", "zh": "護理師正在照護一位接受疼痛處置的2歲幼兒。依據佛洛伊德的心理性發展理論,此幼兒正處於肛門期。下列哪項護理措施最能支持此兒童的發展任務?"},
+    "options": [
+      {"en": "Allow the toddler some control over simple aspects of care, such as choosing which arm to use for a procedure", "zh": "讓幼兒對照護中的簡單部分保有一定控制權,例如選擇要用哪一隻手臂進行處置"},
+      {"en": "Make all decisions for the toddler to minimize their distress", "zh": "由護理師為幼兒做所有決定,以減少其不安"},
+      {"en": "Explain the long-term purpose of the procedure in detail before beginning", "zh": "在開始前詳細解釋此處置的長期目的"},
+      {"en": "Encourage the toddler to form a close peer friendship during the hospital stay", "zh": "鼓勵幼兒在住院期間與同儕建立親密友誼"}
+    ],
+    "answer": [0],
+    "rationale": {"en": "In Freud's anal stage (1 to 3 years), the child gains pleasure and a sense of accomplishment and independence from learning to control bodily needs, and begins to gain a sense of control over instinctive drives. Allowing the toddler some control over simple, safe choices during care supports this developmental task of mastering control, which closely parallels Erikson's autonomy-versus-shame-and-doubt stage for this same age group. Toddlers cannot yet grasp long-term explanations, and peer friendship formation is not a toddler-stage task.", "zh": "在佛洛伊德的肛門期(1至3歲),兒童透過學習控制身體需求而獲得愉悅感、成就感與獨立感,並開始對本能驅力獲得控制感。在照護過程中讓幼兒對簡單且安全的選擇保有控制權,能支持其掌控感的發展任務,這也與同年齡艾瑞克森自主對羞愧懷疑階段的任務相呼應。幼兒尚無法理解長期目的的解釋,而建立同儕親密友誼也不是幼兒期的發展任務。"},
+    "pdf_pages": [272],
+    "tags": ["Freud", "toddler", "anal stage"]
+  },
+  {
+    "cat": "HP",
+    "stem": {"en": "The nurse is teaching a parenting class about expected development across the toddler, preschool, and school-age years. Which statements accurately reflect theories of growth and development discussed in the session? Select all that apply.", "zh": "護理師正在教導親職課程,內容涵蓋幼兒期、學前期及學齡期的預期發展。下列哪些陳述正確反映課程中討論的成長與發展理論?請選出所有適用項目。"},
+    "options": [
+      {"en": "According to Erikson, toddlers are working on autonomy versus shame and doubt", "zh": "根據艾瑞克森理論,幼兒正處於自主對羞愧懷疑的階段"},
+      {"en": "According to Piaget, preschoolers in the preoperational stage are typically egocentric", "zh": "根據皮亞傑理論,處於前運思期的學前兒童通常具有自我中心傾向"},
+      {"en": "According to Kohlberg, school-age children are usually at the postconventional level of morality", "zh": "根據柯爾伯格理論,學齡兒童通常處於道德發展的後習俗期"},
+      {"en": "According to Freud, school-age children are in the latency stage, during which sexual impulses are channeled into social and intellectual pursuits", "zh": "根據佛洛伊德理論,學齡兒童處於潛伏期,此階段性衝動會轉化為社交與智識活動"},
+      {"en": "Moral, cognitive, and psychosocial stages must all be completed in the same calendar year for normal development", "zh": "道德、認知與心理社會發展階段必須在同一年內全部完成才算正常發展"}
+    ],
+    "answer": [0, 1, 3],
+    "rationale": {"en": "Toddlers are in Erikson's autonomy-versus-shame-and-doubt stage, and preschoolers in Piaget's preoperational stage are characteristically egocentric; these statements are accurate. School-age children are typically at Kohlberg's conventional, not postconventional, level of morality, so that statement is incorrect. Freud's latency stage (6 to 12 years) accurately describes school-age children channeling sexual impulses into social and intellectual pursuits, so that statement is accurate. Developmental stages across theories are age-associated ranges, not fixed to a single calendar year, so the final statement is incorrect.", "zh": "幼兒處於艾瑞克森的自主對羞愧懷疑階段,學前兒童在皮亞傑的前運思期具有自我中心的特徵,這兩項陳述正確。學齡兒童通常處於柯爾伯格理論的習俗期而非後習俗期,因此該陳述不正確。佛洛伊德的潛伏期(6至12歲)準確描述了學齡兒童將性衝動轉化為社交與智識活動,此陳述正確。各理論的發展階段是與年齡相關的範圍,並非侷限於單一年度內完成,因此最後一項陳述不正確。"},
+    "pdf_pages": [269, 270, 271, 272],
+    "tags": ["sata", "Erikson", "Piaget", "Kohlberg", "Freud"]
+  }
+]
