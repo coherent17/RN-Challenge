@@ -37,7 +37,7 @@
       {"en": "Obtain a baseline serum phenytoin level", "zh": "取得基礎血清苯妥英濃度"}
     ],
     "answer": [0],
-    "rationale": {"en": "Flumazenil should not be given to clients with increased intracranial pressure or status epilepticus who were treated with benzodiazepines, because reversing the sedation can allow the seizures or increased ICP to recur.", "zh": "氟馬西尼不應用於顱內壓升高或以苯二氮平類藥物治療之癲癇持續狀態的患者,因為逆轉鎮靜作用可能導致癲癇發作或顱內壓升高復發。"},
+    "rationale": {"en": "Flumazenil carries a specific caution for this situation: when sedation from a benzodiazepine is reversed in someone who has elevated intracranial pressure or whose status epilepticus was being controlled by that benzodiazepine, the seizure activity or pressure elevation can resurface. Screening for that history comes first.", "zh": "氟馬西尼在此情境下有特別的注意事項:若患者有顱內壓升高、或其癲癇持續狀態正是靠該苯二氮平類藥物控制中,逆轉其鎮靜作用可能讓癲癇發作或顱內壓升高再次出現。因此應先篩查此病史。"},
     "pdf_pages": [973],
     "tags": ["antidote", "red flag", "priority"]
   },

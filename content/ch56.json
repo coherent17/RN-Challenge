@@ -28,8 +28,8 @@
      "zh": "Methenamine(烏洛托品)：用於慢性泌尿道感染預防；需酸性尿(pH≦5.5)；避免鹼化制酸劑與磺胺類(結晶尿)；腎功能不全與肝功能異常者禁用(產生氨)；大量飲水會稀釋療效。"
     },
     {
-     "en": "Nitrofurantoin (呋喃妥因): take with food/milk; may turn urine harmless brown; adverse effects include pulmonary reaction (dyspnea, cough, fever, chills; stop drug), peripheral neuropathy, hemolysis/blood dyscrasias, hypersensitivity; contraindicated in renal impairment; avoid antacids.",
-     "zh": "Nitrofurantoin(呋喃妥因)：隨餐或牛奶服用；尿液可變棕色(無害)；不良反應包括肺部反應(呼吸困難、咳嗽、發燒、寒顫，需停藥)、週邊神經病變、溶血/血球異常、過敏；腎功能不全禁用；避免制酸劑。"
+     "en": "Nitrofurantoin (呋喃妥因): take with food/milk; may turn urine harmless brown; adverse effects include pulmonary reaction (dyspnea, cough, fever, chills; stop drug), peripheral neuropathy, blood dyscrasias (agranulocytosis, leukopenia, thrombocytopenia, megaloblastic anemia), hypersensitivity; contraindicated in renal impairment; avoid antacids.",
+     "zh": "Nitrofurantoin(呋喃妥因)：隨餐或牛奶服用；尿液可變棕色(無害)；不良反應包括肺部反應(呼吸困難、咳嗽、發燒、寒顫，需停藥)、週邊神經病變、血球異常(顆粒球低下、白血球低下、血小板低下、巨母紅血球性貧血)、過敏；腎功能不全禁用；避免制酸劑。"
     }
    ],
    "pdf_pages": [
@@ -146,8 +146,8 @@
      "zh": "Tacrolimus(他克莫司)：比cyclosporine強效但毒性較高；腎毒性、神經毒性、高血糖(需監測血糖)、高血鉀、感染。"
     },
     {
-     "en": "Sirolimus (西羅莫司) and everolimus (依維莫司): mTOR inhibitors; infection, renal injury, raised cholesterol/triglycerides, lymphocele, rash, mouth ulcers, anemia, thrombocytopenia, edema; no grapefruit juice; avoid crowds and live vaccines.",
-     "zh": "Sirolimus與everolimus：mTOR抑制劑；感染、腎損傷、膽固醇/三酸甘油酯升高、淋巴囊腫、皮疹、口瘡、貧血、血小板低下、水腫；勿喝葡萄柚汁；避免人群與活疫苗。"
+     "en": "Sirolimus (西羅莫司) and everolimus (依維莫司): mTOR inhibitors; infection, renal injury, raised cholesterol/triglycerides, lymphocele, rash, acne, anemia, thrombocytopenia, hypokalemia, edema; no grapefruit juice; avoid crowds and live vaccines.",
+     "zh": "Sirolimus與everolimus：mTOR抑制劑；感染、腎損傷、膽固醇/三酸甘油酯升高、淋巴囊腫、皮疹、粉刺、貧血、血小板低下、低血鉀、水腫；勿喝葡萄柚汁；避免人群與活疫苗。"
     }
    ],
    "pdf_pages": [
