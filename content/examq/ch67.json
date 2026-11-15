@@ -47,7 +47,7 @@
     },
     "options": [
       {"en": "Temperature 101.2°F (38.4°C)", "zh": "體溫101.2°F（38.4°C）"},
-      {"en": "Visual hallucinations of insects crawling on the skin", "zh": "視幻覺，感覺皮膚上有蟲子爬行"},
+      {"en": "Tactile hallucinations of insects crawling on the skin", "zh": "觸幻覺，感覺皮膚上有蟲子在爬"},
       {"en": "Blood pressure 100/62 mm Hg", "zh": "血壓100/62 mmHg"},
       {"en": "Fluctuating level of consciousness", "zh": "意識程度起伏不定"},
       {"en": "Heart rate 128 beats/min", "zh": "心率128次/分"},
