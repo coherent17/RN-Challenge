@@ -315,6 +315,7 @@ body.nx-on{overflow:hidden}
 .nx-tool{flex:none;display:flex;align-items:center;min-height:30px;background:#82aee0;color:#fff;font-size:.95rem}
 .nx-tool button{display:flex;gap:6px;align-items:center;height:30px;padding:0 12px;border:0;background:none;color:#fff;font:inherit;cursor:pointer}.nx-tool button:hover{background:rgba(0,0,0,.14)}
 .nx-tool svg{width:16px;height:16px;fill:none;stroke:#fff;stroke-width:2}
+#ex-flag.on{background:rgba(0,0,0,.22)}#ex-flag.on svg{fill:#ffd54a;stroke:#ffd54a}
 .nx-main{flex:1;min-height:0;display:flex}.nx-gut{flex:none;width:200px;background:#f0f0f0}
 .nx-body{flex:1;min-width:0;max-width:900px;overflow:auto;padding:26px 34px 40px 20px;font-size:1rem;line-height:1.55}
 .nx-body h2{margin:0 0 14px;font-size:1.15rem;text-align:left}.nx-body.intro ul{margin:12px 0;padding-left:1.3em}.nx-body.intro li{margin:.4em 0}
