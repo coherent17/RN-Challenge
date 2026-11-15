@@ -73,7 +73,7 @@ def anchor_terms(text, n=2):
     viewer to search for and highlight on the cited page (best effort; not
     guaranteed to match, since our text is a paraphrase, not a verbatim quote)."""
     words = sorted(set(w for w in re.findall(r"[A-Za-z][A-Za-z'-]{4,}", text or "") if w.lower() not in STOP),
-                    key=len, reverse=True)
+                    key=lambda w: (-len(w), w))
     return " ".join(w.lower() for w in words[:n])
 ext_by_ch = {}
 TOPIC_CH = {"cardiology": {37, 53, 54}, "endocrine": {33, 47, 48}, "fluid-electrolytes": {8, 9}, "pediatrics": set(range(30, 43)),
@@ -115,10 +115,10 @@ for n, d in sorted(content.items()):
     for i, q in enumerate(d["questions"], 1):
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": q["stem"], "options": q["options"], "answer": q["answer"],
                       "why": q["rationale"], "refs": q.get("pdf_pages", [])[:3], "src": q["source"]["title"], "id": f"c{n}:p{i}"})
-    for q in ext_by_ch.get(n, []):
+    for i, q in enumerate(ext_by_ch.get(n, []), 1):
         bi = lambda t: {"en": t, "zh": t}
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": bi(q["stem"]), "options": [bi(o) for o in q["options"]], "answer": q["answer"],
-                      "why": {"en": "Correct answer: " + q["letters"], "zh": "正確答案：" + q["letters"]}, "refs": [], "src": q["source"]})
+                      "why": {"en": "Correct answer: " + q["letters"], "zh": "正確答案：" + q["letters"]}, "refs": [], "src": q["source"], "id": f"c{n}:e{i}"})
     for q in examq.get(n, []):
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": q["stem"], "options": q["options"], "answer": q["answer"],
                       "why": q["rationale"], "refs": q.get("pdf_pages", [])[:3], "src": "Original NCLEX-style item, written for this site", "cat0": q.get("cat")})
