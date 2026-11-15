@@ -4,6 +4,14 @@
 {% macro bi(o) %}<span class="en">{{ o.en }}</span><span class="zh">{{ o.zh }}</span>{% endmacro %}
 {% macro nav(prev, next) %}<nav class="pn">{% if prev %}<a class="prev" href="ch{{ '%02d' % prev.number }}.html"><small><span class="en">Previous</span><span class="zh">上一章</span></small><span class="en">{{ prev.number }}. {{ prev.title }}</span><span class="zh">{{ prev.number }}. {{ prev.zh }}</span></a>{% else %}<span></span>{% endif %}
 {% if next %}<a class="next" href="ch{{ '%02d' % next.number }}.html"><small><span class="en">Next</span><span class="zh">下一章</span></small><span class="en">{{ next.number }}. {{ next.title }}</span><span class="zh">{{ next.number }}. {{ next.zh }}</span></a>{% else %}<span></span>{% endif %}</nav>{% endmacro %}
+{% macro diagram(g) %}<div class="card dgm rv"><h4>{{ bi(g.title) }}</h4>
+{% if g.type == 'timeline' %}<div class="dg-tl">{% for s in g.stages %}<div class="dg-st"><span class="dg-n">{{ loop.index }}</span><b>{{ bi(s.label) }}</b>{% if s.sub %}<small>{{ bi(s.sub) }}</small>{% endif %}<p>{{ bi(s.detail) }}</p></div>{% endfor %}</div>
+{% elif g.type == 'table' %}<div class="dg-tbl-wrap"><table class="dg-tbl"><thead><tr>{% for c in g.cols %}<th>{{ bi(c) }}</th>{% endfor %}</tr></thead><tbody>
+{% for r in g.rows %}<tr>{% for cell in r.cells %}<td{% if cell.hi %} class="hi-{{ cell.hi }}"{% endif %}>{{ bi(cell) }}</td>{% endfor %}</tr>{% endfor %}
+</tbody></table></div>
+{% elif g.type == 'bars' %}<div class="dg-bars">{% for it in g.bars %}<div class="dg-bar-row"><span class="dg-bar-label">{{ bi(it.label) }}</span><div class="dg-bar-track"><i style="left:{{ (it.min / g.scale * 100)|round(2) }}%;width:{{ ((it.max - it.min) / g.scale * 100)|round(2) }}%"></i></div><span class="dg-bar-val">{{ it.min }}-{{ it.max }}{{ g.unit }}</span></div>{% endfor %}</div>
+{% endif %}
+</div>{% endmacro %}
 {% macro question(q, qid, idx, stem_is_bi) %}<article class="q rv" id="{{ qid }}" data-qid="{{ qid }}" data-answer="{{ q.answer|join(',') }}"><p class="stem"><b class="qn">{{ idx }}</b><span>{% if stem_is_bi %}{{ bi(q.stem) }}{% else %}{{ q.stem }}{% endif %}{% if q.answer|length > 1 %} <em class="sata"><span class="en">(Select all that apply)</span><span class="zh">（複選）</span></em>{% endif %}</span></p>
 <ul class="opts">{% for o in q.options %}<li><button type="button" data-i="{{ loop.index0 }}"><span class="ltr">{{ 'ABCDEFGH'[loop.index0] }}</span><span class="txt">{% if stem_is_bi %}{{ bi(o) }}{% else %}{{ o }}{% endif %}</span></button></li>{% endfor %}</ul>
 {% if q.answer|length > 1 %}<button class="check btn" type="button"><span class="en">Check answer</span><span class="zh">對答案</span></button>{% endif %}
@@ -28,6 +36,7 @@
 <a href="#cards" class="grp"><span class="en">Flashcards</span><span class="zh">單字卡</span></a>
 <a href="#critical" class="grp"><span class="en">Test-critical</span><span class="zh">考試關鍵點</span></a>
 {% if d.mnemonics %}<a href="#mnemonics" class="grp"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></a>{% endif %}
+{% if d.diagrams %}<a href="#diagrams" class="grp"><span class="en">Visual summary</span><span class="zh">圖解摘要</span></a>{% endif %}
 {% if d.figures %}<a href="#figures" class="grp"><span class="en">Book pages</span><span class="zh">原書圖表</span></a>{% endif %}
 <a href="#practice" class="grp"><span class="en">Practice</span><span class="zh">練習題</span></a>
 {% if ext %}<a href="#real" class="grp"><span class="en">Real-style</span><span class="zh">實戰題</span></a>{% endif %}
@@ -47,6 +56,7 @@
 <h2 id="critical"><span class="en">Test-critical points</span><span class="zh">考試關鍵點</span></h2>
 <ol class="crit">{% for c in d.critical_points %}<li class="rv" id="k{{ loop.index }}"><div>{{ bi(c) }}</div>{{ tag(c.refs) }}</li>{% endfor %}</ol>
 {% if d.mnemonics %}<h2 id="mnemonics"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></h2><ul class="mn">{% for m in d.mnemonics %}<li class="rv" id="m{{ loop.index }}"><div>{{ bi(m) }}</div>{{ tag(m.refs) }}</li>{% endfor %}</ul>{% endif %}
+{% if d.diagrams %}<h2 id="diagrams"><span class="en">Visual summary</span><span class="zh">圖解摘要</span></h2><div class="dgms">{% for g in d.diagrams %}{{ diagram(g) }}{% endfor %}</div>{% endif %}
 {% if d.figures %}<h2 id="figures"><span class="en">Book figures &amp; tables</span><span class="zh">原書圖表</span></h2>
 <div class="figs">{% for g in d.figures %}<figure class="card fig rv">{% if g.refs[0].img %}<a class="pgimg" href="{{ g.refs[0].img }}" data-p="{{ g.refs[0].pdf }}" data-q="{{ g.refs[0].q }}" data-cap="PDF p.{{ g.refs[0].pdf }} · book p.{{ g.refs[0].book }}"><canvas class="thumb" data-p="{{ g.refs[0].pdf }}" role="img" aria-label="PDF page {{ g.pdf_page }}"></canvas><span class="zoomhint"><span class="zm"></span></span></a>{% elif g.image_url %}<img loading="lazy" src="{{ g.image_url }}" alt="{{ g.caption.en }}"><small class="credit">{{ g.credit }}</small>{% endif %}<figcaption>{{ tag(g.refs) }}<div>{{ bi(g.caption) }}</div></figcaption></figure>{% endfor %}</div>{% endif %}
 <h2 id="practice"><span class="en">Practice questions</span><span class="zh">練習題</span></h2>

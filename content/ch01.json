@@ -694,5 +694,35 @@
     "zh": "NGN 變革的常見問答整理。"
    }
   }
+ ],
+ "diagrams": [
+  {
+   "type": "bars",
+   "title": {"en": "NCLEX-RN test plan: Client Needs categories", "zh": "NCLEX-RN 測驗藍圖：病人需求類別佔比"},
+   "unit": "%",
+   "scale": 25,
+   "bars": [
+    {"label": {"en": "Management of Care", "zh": "照護管理"}, "min": 17, "max": 23},
+    {"label": {"en": "Safety and Infection Control", "zh": "安全與感染控制"}, "min": 9, "max": 15},
+    {"label": {"en": "Health Promotion and Maintenance", "zh": "健康促進與維護"}, "min": 6, "max": 12},
+    {"label": {"en": "Psychosocial Integrity", "zh": "心理社會完整性"}, "min": 6, "max": 12},
+    {"label": {"en": "Basic Care and Comfort", "zh": "基本照護與舒適"}, "min": 6, "max": 12},
+    {"label": {"en": "Pharmacological and Parenteral Therapies", "zh": "藥理與注射治療"}, "min": 12, "max": 18},
+    {"label": {"en": "Reduction of Risk Potential", "zh": "降低風險潛能"}, "min": 9, "max": 15},
+    {"label": {"en": "Physiological Adaptation", "zh": "生理適應"}, "min": 11, "max": 17}
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": {"en": "Exam day, start to finish", "zh": "考試當天流程"},
+   "stages": [
+    {"label": {"en": "Check-in", "zh": "報到"}, "sub": {"en": "30 min early", "zh": "提前30分鐘"}, "detail": {"en": "Bring the ATT and a matching photo ID; fingerprint, palm scan and photo are taken.", "zh": "攜帶ATT與相符的照片證件；採集指紋、掌紋與照片。"}},
+    {"label": {"en": "Tutorial", "zh": "教學導覽"}, "sub": {"en": "On screen", "zh": "螢幕內建"}, "detail": {"en": "Covers mouse use, the on-screen calculator and each question type; counted in the 5-hour limit.", "zh": "介紹滑鼠操作、內建計算機與各題型；計入5小時時限。"}},
+    {"label": {"en": "Pretest items", "zh": "試測題"}, "sub": {"en": "15 unscored", "zh": "15題不計分"}, "detail": {"en": "Mixed in and indistinguishable from scored items, used to try out future questions.", "zh": "與計分題混合、無法分辨，用於測試未來題目。"}},
+    {"label": {"en": "Adaptive testing", "zh": "適性測驗"}, "sub": {"en": "85-150 items", "zh": "85-150題"}, "detail": {"en": "Each item is picked for your ability level; no skipping or going back.", "zh": "每題依能力程度出題；不可跳過或返回。"}},
+    {"label": {"en": "Stopping rule", "zh": "停止規則"}, "sub": {"en": "Pass/fail decided", "zh": "判定通過/未通過"}, "detail": {"en": "The CAT stops once it is statistically confident in a pass/fail decision, not at a fixed item count.", "zh": "一旦統計上能確信通過與否即停止，並非固定題數。"}},
+    {"label": {"en": "Results", "zh": "成績"}, "sub": {"en": "~6 weeks", "zh": "約6週"}, "detail": {"en": "Scored twice and sent to the board of nursing; some states offer paid Quick Results after 2 business days.", "zh": "計分兩次後送交護理委員會；部分州提供付費快速查詢（2個工作天後）。"}}
+   ]
+  }
  ]
 }

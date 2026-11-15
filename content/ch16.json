@@ -209,5 +209,19 @@
     {"title": "Mobility, Positioning, And Range Of Motion - NCLEX-RN Quiz (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/mobility-positioning-and-range-of-motion", "note": {"en": "NCLEX-RN mobility and positioning practice quiz.", "zh": "NCLEX-RN 活動與擺位練習測驗。"}},
     {"title": "Mobility, Body Mechanics & Positioning Review - GetOnCourse", "url": "https://getoncourse.ai/notes/nclex-rn/fundamentals-of-nursing/mobility-body-mechanics-positioning/", "note": {"en": "Review of crutch fitting, weight bearing and body mechanics.", "zh": "拐杖調整、承重與身體力學複習。"}},
     {"title": "NCLEX-RN Basic Care and Comfort Practice Questions: Mobility, Nutrition and Elimination", "url": "https://getoncourse.ai/blog/nclex-rn-basic-care-comfort-practice-questions-mobility-nutrition-elimination/", "note": {"en": "Original practice questions with rationales.", "zh": "附解析的原創練習題。"}}
+  ],
+  "diagrams": [
+   {
+    "type": "timeline",
+    "title": {"en": "Pressure injury stages", "zh": "壓傷分期"},
+    "stages": [
+     {"label": {"en": "Stage 1", "zh": "第1期"}, "sub": {"en": "Intact skin", "zh": "皮膚完整"}, "detail": {"en": "Nonblanchable redness; skin is not broken.", "zh": "按壓不退白的紅斑；皮膚未破損。"}},
+     {"label": {"en": "Stage 2", "zh": "第2期"}, "sub": {"en": "Partial thickness", "zh": "部分皮層缺損"}, "detail": {"en": "Exposed dermis; pink/moist wound bed or an intact blister.", "zh": "真皮層外露；傷口床粉紅濕潤或完整水泡。"}},
+     {"label": {"en": "Stage 3", "zh": "第3期"}, "sub": {"en": "Full thickness", "zh": "全皮層缺損"}, "detail": {"en": "Fat is visible; no muscle, tendon or bone exposed.", "zh": "可見脂肪組織；未露出肌肉、肌腱或骨骼。"}},
+     {"label": {"en": "Stage 4", "zh": "第4期"}, "sub": {"en": "Full thickness", "zh": "全皮層缺損"}, "detail": {"en": "Exposed fascia, muscle, tendon, cartilage or bone.", "zh": "可見筋膜、肌肉、肌腱、軟骨或骨骼外露。"}},
+     {"label": {"en": "Unstageable", "zh": "無法分期"}, "sub": {"en": "Obscured base", "zh": "基底被遮蓋"}, "detail": {"en": "Wound base covered by slough or eschar, so true depth can't be seen.", "zh": "傷口基底被腐肉或焦痂覆蓋，無法判斷真實深度。"}},
+     {"label": {"en": "Suspected DTI", "zh": "疑似深層組織損傷"}, "sub": {"en": "Intact or blistered skin", "zh": "皮膚完整或起水泡"}, "detail": {"en": "Persistent deep red, maroon or purple discoloration, or a blood-filled blister.", "zh": "持續深紅、暗紅或紫色變色，或含血水泡。"}}
+    ]
+   }
   ]
 }

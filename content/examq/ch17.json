@@ -43,7 +43,7 @@
   },
   {
     "cat": "PA",
-    "stem": {"en": "A client who underwent creation of an ileostomy 2 days ago has a stoma output that is pale pink in color. Which laboratory finding would the nurse expect to correlate with this stoma appearance?", "zh": "一位病人於2天前接受迴腸造口術,造口顏色呈淡粉紅色。護理師會預期哪一項檢驗結果與此造口外觀相符?"},
+    "stem": {"en": "A client who underwent creation of an ileostomy 2 days ago has a stoma that is pale pink in color. Which laboratory finding would the nurse expect to correlate with this stoma appearance?", "zh": "一位病人於2天前接受迴腸造口術,造口顏色呈淡粉紅色。護理師會預期哪一項檢驗結果與此造口外觀相符?"},
     "options": [
       {"en": "Low hemoglobin and hematocrit", "zh": "血紅素與血球比容偏低"},
       {"en": "Elevated white blood cell count", "zh": "白血球數偏高"},
@@ -68,7 +68,7 @@
     ],
     "answer": [0, 1, 2, 3],
     "rationale": {"en": "Emptying the pouch when one-third full prevents leakage from pulling on the appliance; cutting the skin barrier only slightly larger than the stoma protects surrounding skin; avoiding gas-forming or odor-causing foods is appropriate; and skin irritation should always be reported. Fluid intake should not be restricted (adequate hydration is encouraged), and an intact pouching system is typically left in place for 5 to 7 days, not changed every few hours.", "zh": "當引流袋三分之一滿時排空可避免因過重而拉脫造口袋;裁剪皮膚保護片開口時僅略大於造口可保護周圍皮膚;避免產氣或產生異味的食物是恰當的;皮膚刺激應隨時報告。液體攝取不應限制(應鼓勵適當補水),完整的造口系統通常可維持5至7天才更換,而非每幾小時更換一次。"},
-    "pdf_pages": [259, 260],
+    "pdf_pages": [255, 258, 259],
     "tags": ["sata", "patient teaching", "ostomy"]
   },
   {
@@ -144,7 +144,7 @@
   },
   {
     "cat": "PA",
-    "stem": {"en": "The nurse is caring for a client with a fecal impaction. The client reports repeated urges to defecate without successful passage of stool, and the nurse notes continuous oozing of liquid stool. What is the nurse's priority action?", "zh": "護理師正在照護一位有糞便嵌塞的病人。病人表示反覆有排便衝動但無法成功排出,護理師並注意到持續有液態糞便滲出。護理師最優先的措施是什�么?"},
+    "stem": {"en": "The nurse is caring for a client with a fecal impaction. The client reports repeated urges to defecate without successful passage of stool, and the nurse notes continuous oozing of liquid stool. What is the nurse's priority action?", "zh": "護理師正在照護一位有糞便嵌塞的病人。病人表示反覆有排便衝動但無法成功排出,護理師並注意到持續有液態糞便滲出。護理師最優先的措施是什麼?"},
     "options": [
       {"en": "Notify the primary health care provider of possible intestinal obstruction", "zh": "通知醫療照護提供者有腸阻塞的可能"},
       {"en": "Administer a hypertonic saline enema immediately without a prescription", "zh": "在未取得醫囑的情況下立即給予高張性生理食鹽水灌腸"},
@@ -153,7 +153,7 @@
     ],
     "answer": [0],
     "rationale": {"en": "Continuous oozing of liquid stool around a fecal impaction can be indicative of intestinal obstruction, and the primary health care provider should be notified when obstruction is suspected. Administering an enema without a prescription is outside the nurse's independent scope for a suspected obstruction, and encouraging ambulation or waiting 24 hours would delay recognition of a potentially serious complication.", "zh": "糞便嵌塞合併持續液態糞便滲出,可能代表腸阻塞,懷疑腸阻塞時應通知醫療照護提供者。在未取得醫囑的情況下給予灌腸,超出護理師在懷疑腸阻塞情況下的獨立執業範圍;鼓勵走動或等待24小時則會延誤辨識潛在的嚴重併發症。"},
-    "pdf_pages": [256],
+    "pdf_pages": [257],
     "tags": ["red flag", "requires immediate action", "impaction"]
   },
   {

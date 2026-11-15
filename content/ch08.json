@@ -270,5 +270,49 @@
     {"title": "Fluid & Electrolyte NCLEX: Imbalance Scenarios (GoodNurse)", "url": "https://goodnurse.com/free-nclex-practice-questions/fluid-electrolyte-nclex-questions", "note": {"en": "Free scenario-based imbalance quiz with explanations.", "zh": "免費情境式電解質失衡題,附解釋。"}},
     {"title": "Fluid and Electrolytes Practice Questions (Simple Nursing)", "url": "https://simplenursing.com/fluid-electrolytes-nclex-practice-questions-review/", "note": {"en": "Practice questions and review notes on fluid and electrolytes.", "zh": "體液電解質練習題與複習重點。"}},
     {"title": "10 Fluid and Electrolyte Quiz NCLEX Questions (Nursing.com)", "url": "https://admin.nursing.com/pop-quiz/fluid-and-electrolyte-nclex-questions", "note": {"en": "Short free quiz on fluid shifts, tonicity, potassium and phosphorus.", "zh": "短版免費測驗,涵蓋體液移動、張力、鉀與磷。"}}
+  ],
+  "diagrams": [
+   {
+    "type": "table",
+    "title": {"en": "Electrolyte quick reference", "zh": "電解質速查表"},
+    "cols": [
+     {"en": "Electrolyte", "zh": "電解質"},
+     {"en": "Normal range", "zh": "正常值"},
+     {"en": "Low: key signs", "zh": "過低：主要徵象"},
+     {"en": "High: key signs", "zh": "過高：主要徵象"}
+    ],
+    "rows": [
+     {"cells": [
+      {"en": "Sodium (Na+)", "zh": "鈉 (Na+)"},
+      {"en": "135-145 mEq/L", "zh": "135-145 mEq/L", "hi": "normal"},
+      {"en": "Confusion, seizures, hyperactive bowel sounds", "zh": "意識混亂、癲癇、腸音亢進", "hi": "low"},
+      {"en": "Extreme thirst, dry sticky mucosa, agitation", "zh": "極度口渴、黏膜乾黏、躁動", "hi": "high"}
+     ]},
+     {"cells": [
+      {"en": "Potassium (K+)", "zh": "鉀 (K+)"},
+      {"en": "3.5-5.0 mEq/L", "zh": "3.5-5.0 mEq/L", "hi": "normal"},
+      {"en": "Weak thready pulse, flat/inverted T, prominent U wave", "zh": "脈搏細弱、T波平坦或倒置、明顯U波", "hi": "low"},
+      {"en": "Muscle weakness to flaccid paralysis, tall peaked T", "zh": "肌肉無力至遲緩性麻痺、T波高尖", "hi": "high"}
+     ]},
+     {"cells": [
+      {"en": "Calcium (Ca2+)", "zh": "鈣 (Ca2+)"},
+      {"en": "9-10.5 mg/dL", "zh": "9-10.5 mg/dL", "hi": "normal"},
+      {"en": "Tetany, seizures, positive Chvostek's/Trousseau's", "zh": "手足抽搐、癲癇、Chvostek's/Trousseau's陽性", "hi": "low"},
+      {"en": "Muscle weakness, constipation, bradycardia", "zh": "肌肉無力、便秘、心搏過緩", "hi": "high"}
+     ]},
+     {"cells": [
+      {"en": "Magnesium (Mg2+)", "zh": "鎂 (Mg2+)"},
+      {"en": "1.8-2.6 mEq/L", "zh": "1.8-2.6 mEq/L", "hi": "normal"},
+      {"en": "Hyperreflexia, tremors, tetany", "zh": "反射亢進、顫抖、手足抽搐", "hi": "low"},
+      {"en": "Absent reflexes, drowsiness, respiratory depression", "zh": "反射消失、嗜睡、呼吸抑制", "hi": "high"}
+     ]},
+     {"cells": [
+      {"en": "Phosphorus (PO4)", "zh": "磷 (PO4)"},
+      {"en": "3.0-4.5 mg/dL", "zh": "3.0-4.5 mg/dL", "hi": "normal"},
+      {"en": "Often symptom-free; reciprocal rise in calcium", "zh": "常無症狀；鈣會相對上升", "hi": "low"},
+      {"en": "Problems come from the resulting low calcium", "zh": "問題源於隨之而來的低血鈣", "hi": "high"}
+     ]}
+    ]
+   }
   ]
 }

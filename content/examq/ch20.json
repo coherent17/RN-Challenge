@@ -136,7 +136,7 @@
     ],
     "answer": [0],
     "rationale": {"en": "Aging reduces kidney size, glomerular filtration rate, and the ability to excrete drugs, so standard adult doses of renally cleared medications can accumulate and cause toxicity; older adult doses are often one-third to one-half of the typical adult dose.", "zh": "老化使腎臟縮小、腎絲球過濾率下降、藥物排除能力減弱，因此標準成人劑量的腎臟排除藥物可能蓄積並造成中毒；老年人劑量常為一般成人劑量的三分之一至二分之一。"},
-    "pdf_pages": [302, 304],
+    "pdf_pages": [302, 305],
     "tags": ["dosage calc", "red flag"]
   },
   {
