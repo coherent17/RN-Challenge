@@ -112,9 +112,9 @@ for c in chapters:
 PART_OF = {c["number"]: c["part"]["roman"] for c in chapters}
 qdata = []
 for n, d in sorted(content.items()):
-    for q in d["questions"]:
+    for i, q in enumerate(d["questions"], 1):
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": q["stem"], "options": q["options"], "answer": q["answer"],
-                      "why": q["rationale"], "refs": q.get("pdf_pages", [])[:3], "src": q["source"]["title"]})
+                      "why": q["rationale"], "refs": q.get("pdf_pages", [])[:3], "src": q["source"]["title"], "id": f"c{n}:p{i}"})
     for q in ext_by_ch.get(n, []):
         bi = lambda t: {"en": t, "zh": t}
         qdata.append({"ch": n, "t": {"en": d["title"]["en"], "zh": d["title"]["zh"]}, "part": PART_OF[n], "stem": bi(q["stem"]), "options": [bi(o) for o in q["options"]], "answer": q["answer"],
@@ -162,6 +162,7 @@ for n, d in sorted(content.items()):
 (docs / "index.html").write_text(render("index.html", title="Home", page="home", chapter=None, parts=parts), encoding="utf-8")
 (docs / "exam.html").write_text(render("exam.html", title="Mock Exam", page="exam", chapter=None, parts=parts), encoding="utf-8")
 (docs / "quiz.html").write_text(render("quiz.html", title="Quick Quiz", page="quiz", chapter=None, parts=parts), encoding="utf-8")
+(docs / "review.html").write_text(render("review.html", title="Review Mistakes", page="review", chapter=None, parts=parts), encoding="utf-8")
 for i, c in enumerate(chapters):
     d = content.get(c["number"])
     if d: resolve_refs(d)

@@ -39,6 +39,8 @@ function bindReset(){var a=$('#reset-all');if(a)a.onclick=function(){ask(L('Rese
 var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared. Your XP and streak are kept.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除，XP 與連續天數保留。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.q,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
 
 bindReset();
+/* review-mistakes nav badge */
+(function(){var n=0,k;for(k in S.q)if(!S.q[k])n++;var b=$('#nav-review-n');if(b){b.hidden=!n;if(n)b.textContent=n>99?'99+':n}})();
 /* ---------- effects ---------- */
 var fx=$('#fx'),parts=[],raf=0;
 function confetti(){if(reduce||!fx)return;fx.width=innerWidth;fx.height=innerHeight;var ctx=fx.getContext('2d'),cols=['#ff5d8f','#ffb020','#12b5a6','#5b5bf0','#8b5cf6','#18b26b'];
@@ -165,6 +167,29 @@ setTimeout(function(){$$('.stars svg',res).forEach(function(s,i){setTimeout(func
 $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,behavior:'smooth'})}
 }
 
+/* ---------- REVIEW MY MISTAKES ---------- */
+if(page==='review'){
+var rlist=$('#rv-list'),rempty=$('#rv-empty');
+fetch(BASE+'questions.json').then(function(r){return r.json()}).then(function(d){
+var byId={};d.forEach(function(q){if(q.id)byId[q.id]=q});
+var wrong=Object.keys(S.q).filter(function(k){return !S.q[k]&&byId[k]}).map(function(k){var q=byId[k];q.key=k;return q});
+if(!wrong.length){rempty.hidden=false;return}
+wrong.sort(function(a,b){return a.ch-b.ch});
+rlist.innerHTML=wrong.map(function(q,i){return '<article class="q" data-key="'+q.key+'" data-answer="'+q.answer.join(',')+'">'+
+'<a class="qchap" href="ch'+('0'+q.ch).slice(-2)+'.html">'+L('Ch '+q.ch+' · '+esc(q.t.en),'第 '+q.ch+' 章 · '+esc(q.t.zh))+'</a>'+
+'<p class="stem"><b class="qn">'+(i+1)+'</b><span>'+bi(q.stem)+(q.answer.length>1?' <em class="sata">'+L('(Select all that apply)','（複選）')+'</em>':'')+'</span></p>'+
+'<ul class="opts">'+q.options.map(function(o,k){return '<li><button type="button" data-i="'+k+'"><span class="ltr">'+'ABCDEFGH'[k]+'</span><span class="txt">'+bi(o)+'</span></button></li>'}).join('')+'</ul>'+
+(q.answer.length>1?'<button class="btn check" type="button">'+L('Check answer','對答案')+'</button>':'')+
+'<div class="why" hidden><p>'+bi(q.why)+'</p>'+pageTag(q.refs,(q.why&&q.why.en)||(q.stem&&q.stem.en))+'</div></article>'}).join('');
+$$('.q',rlist).forEach(function(qq){var ans=qq.dataset.answer.split(',').map(Number),multi=ans.length>1,btns=$$('.opts button',qq),chk=$('.check',qq),key=qq.dataset.key;
+function grade(){if(qq.classList.contains('done'))return;var sel=btns.filter(function(b){return b.classList.contains('sel')}).map(function(b){return +b.dataset.i});if(!sel.length)return;
+qq.classList.add('done');var ok=sameSet(sel,ans);qq.classList.add(ok?'ok':'no');
+btns.forEach(function(b){var i=+b.dataset.i;b.classList.remove('sel');if(ans.indexOf(i)>=0)b.classList.add('right');else if(sel.indexOf(i)>=0)b.classList.add('wrong')});
+$('.why',qq).hidden=false;if(chk)chk.style.display='none';
+if(ok){S.q[key]=1;save();award(5,'fixed it!');var b=$('#nav-review-n');if(b){var n=0,k2;for(k2 in S.q)if(!S.q[k2])n++;b.hidden=!n;if(n)b.textContent=n>99?'99+':n}}
+fillBookLabels(qq)}
+btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade})
+})}
 /* ---------- global search (Ctrl/Cmd+K or /) ---------- */
 var SD=null,sov=null,sres=[],ssel=0,sq='';
 var KIND={h:['Topic','主題'],p:['Summary','重點'],c:['Test-critical','考試關鍵'],m:['Mnemonic','口訣'],q:['Question','題目'],f:['Figure','圖表']},KW={h:6,c:5,m:4,p:3,q:2,f:2};
