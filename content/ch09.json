@@ -235,5 +235,58 @@
     {"title": "NCLEX-RN Quiz: Acid Base ABG Interpretation (Varsity Tutors)", "url": "https://www.varsitytutors.com/practice/subjects/nclex-rn/quiz/acid-base-abg-interpretation", "note": {"en": "Free timed acid-base/ABG quiz.", "zh": "免費計時酸鹼/ABG 測驗。"}},
     {"title": "10 ROME ABG Interpretation NCLEX Style Questions (Nursing.com)", "url": "https://academy.nursing.com/pop-quiz/rome-abg-arterial-blood-gas-interpretation", "note": {"en": "Short quiz practicing the ROME method.", "zh": "練習 ROME 判讀法的短測驗。"}},
     {"title": "ABG Interpretation Made Simple: 15 Practice Cases (GoodNurse)", "url": "https://goodnurse.com/article/201/abg-interpretation-made-simple-2026-15-practice-cases-with-answers-nursing-rationale", "note": {"en": "15 practice ABG cases with nursing rationale.", "zh": "15 個 ABG 練習案例與護理解析。"}}
+  ],
+  "diagrams": [
+   {
+    "type": "table",
+    "title": {"en": "The acid-base \"tic-tac-toe\"", "zh": "酸鹼平衡「井字」速查表"},
+    "cols": [
+     {"en": "Disorder", "zh": "失衡類型"},
+     {"en": "pH", "zh": "pH"},
+     {"en": "PaCO2", "zh": "PaCO2"},
+     {"en": "HCO3-", "zh": "HCO3-"},
+     {"en": "Common cause", "zh": "常見原因"}
+    ],
+    "rows": [
+     {"cells": [
+      {"en": "Respiratory acidosis", "zh": "呼吸性酸中毒"},
+      {"en": "Low", "zh": "偏低", "hi": "acid"},
+      {"en": "High", "zh": "偏高", "hi": "acid"},
+      {"en": "Normal", "zh": "正常", "hi": "normal"},
+      {"en": "Hypoventilation (COPD, opioids, CNS depressants)", "zh": "換氣不足（COPD、鴉片類、中樞抑制劑）"}
+     ]},
+     {"cells": [
+      {"en": "Respiratory alkalosis", "zh": "呼吸性鹼中毒"},
+      {"en": "High", "zh": "偏高", "hi": "alk"},
+      {"en": "Low", "zh": "偏低", "hi": "alk"},
+      {"en": "Normal", "zh": "正常", "hi": "normal"},
+      {"en": "Hyperventilation (anxiety, pain, fever, hypoxia)", "zh": "過度換氣（焦慮、疼痛、發燒、低血氧）"}
+     ]},
+     {"cells": [
+      {"en": "Metabolic acidosis", "zh": "代謝性酸中毒"},
+      {"en": "Low", "zh": "偏低", "hi": "acid"},
+      {"en": "Normal", "zh": "正常", "hi": "normal"},
+      {"en": "Low", "zh": "偏低", "hi": "acid"},
+      {"en": "DKA, lactic acidosis, renal failure, severe diarrhea", "zh": "DKA、乳酸中毒、腎衰竭、嚴重腹瀉"}
+     ]},
+     {"cells": [
+      {"en": "Metabolic alkalosis", "zh": "代謝性鹼中毒"},
+      {"en": "High", "zh": "偏高", "hi": "alk"},
+      {"en": "Normal", "zh": "正常", "hi": "normal"},
+      {"en": "High", "zh": "偏高", "hi": "alk"},
+      {"en": "Vomiting, NG suction, diuretics, hyperaldosteronism", "zh": "嘔吐、鼻胃管抽吸、利尿劑、高醛固酮症"}
+     ]}
+    ]
+   },
+   {
+    "type": "timeline",
+    "title": {"en": "Reading an ABG in 4 steps", "zh": "判讀ABG的四個步驟"},
+    "stages": [
+     {"label": {"en": "Step 1", "zh": "步驟1"}, "sub": {"en": "Check pH", "zh": "看pH"}, "detail": {"en": "Below 7.35 = acidosis. Above 7.45 = alkalosis.", "zh": "低於7.35＝酸中毒；高於7.45＝鹼中毒。"}},
+     {"label": {"en": "Step 2", "zh": "步驟2"}, "sub": {"en": "Check PaCO2", "zh": "看PaCO2"}, "detail": {"en": "Moves opposite to pH? It's respiratory.", "zh": "與pH方向相反＝呼吸性。"}},
+     {"label": {"en": "Step 3", "zh": "步驟3"}, "sub": {"en": "Check HCO3-", "zh": "看HCO3-"}, "detail": {"en": "Moves same direction as pH? It's metabolic.", "zh": "與pH方向相同＝代謝性。"}},
+     {"label": {"en": "Step 4", "zh": "步驟4"}, "sub": {"en": "Check compensation", "zh": "看代償"}, "detail": {"en": "pH normal = fully compensated. Other value abnormal = partial. Other value normal = uncompensated.", "zh": "pH正常＝完全代償；另一數值異常＝部分代償；另一數值正常＝未代償。"}}
+    ]
+   }
   ]
 }
