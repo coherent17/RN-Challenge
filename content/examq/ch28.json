@@ -153,7 +153,7 @@
       {"en": "\"The injection promotes healthy growth of bacteria in the bowel.\"", "zh": "「這項注射可促進腸道中細菌的健康生長。」"}
     ],
     "answer": [1],
-    "rationale": {"en": "Coagulation factors synthesized in the liver depend on vitamin K, which is not produced until intestinal bacteria are present; because the newborn's bowel is sterile at birth, phytonadione is given to prevent hemorrhagic disorders. It does not confer immunity, prevent jaundice, or promote bacterial growth (though rarely it can be associated with hyperbilirubinemia, not prevent it).", "zh": "肝臟合成凝血因子依賴維生素K,而維生素K須有腸道細菌存在才能合成;由於新生兒腸道在出生時是無菌的,因此給予phytonadione以預防出血性疾病。它不會提供免疫力、預防黃疸,也不會促進細菌生長(反而罕見情況下可能與高膽紅素血症有關,而非預防它)。"},
+    "rationale": {"en": "Coagulation factors synthesized in the liver depend on vitamin K, which is not produced until intestinal bacteria are present; because the newborn's bowel is sterile at birth, phytonadione is given to prevent hemorrhagic disorders. It does not confer immunity, prevent jaundice, or promote bacterial growth.", "zh": "肝臟合成凝血因子依賴維生素K,而維生素K須有腸道細菌存在才能合成;由於新生兒腸道在出生時是無菌的,因此給予phytonadione以預防出血性疾病。它不會提供免疫力、不會預防黃疸,也不會促進細菌生長。"},
     "pdf_pages": [406, 413],
     "tags": ["medication safety", "patient education", "vitamin K"]
   },
