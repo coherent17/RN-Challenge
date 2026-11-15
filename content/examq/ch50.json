@@ -1,7 +1,7 @@
 [
   {
     "cat": "PH",
-    "stem": {"en": "A client with a gastric ulcer is prescribed sucralfate 1 gram orally 4 times daily. The nurse should schedule the doses for which times?", "zh": "一位胃潰瘍病人開立 sucralfate 每次1公克，每日4次口服。護理師應將給藥時間排在何時？"},
+    "stem": {"en": "A nurse is setting up the medication schedule for a client who has a new order for sucralfate 1 g by mouth, four times a day, for a gastric ulcer. What timing should the nurse use for each dose?", "zh": "護理師正在為一位新開立 sucralfate（每次1公克、每日4次口服）治療胃潰瘍的病人安排給藥時間。每次給藥應安排在何時？"},
     "options": [
       {"en": "With each meal and at bedtime", "zh": "隨三餐與睡前服用"},
       {"en": "Every 6 hours around the clock", "zh": "每6小時給藥一次，全日不間斷"},
