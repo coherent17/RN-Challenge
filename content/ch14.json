@@ -76,7 +76,7 @@
     }
   ],
   "critical_points": [
-    {"en": "Conversion comes first: g to mg multiply by 1000; mcg to mg divide by 1000 (150 mcg = 0.15 mg).", "zh": "先換算：g 轉 mg 乘1000；mcg 轉 mg 除以1000（150 mcg = 0.15 mg）。", "pdf_pages": [206, 213]},
+    {"en": "Conversion comes first: g to mg multiply by 1000; mcg to mg divide by 1000 (150 mcg = 0.15 mg).", "zh": "先換算：g 轉 mg 乘1000；mcg 轉 mg 除以1000（150 mcg = 0.15 mg）。", "pdf_pages": [206, 214]},
     {"en": "Drops/min = volume x drop factor / minutes; round to a whole number (drops cannot be fractional).", "zh": "滴/分＝總量 × 滴系數／分鐘；四捨五入至整數。", "pdf_pages": [210, 212]},
     {"en": "Heparin/insulin drip: units per mL = units / mL in bag; mL/hr = ordered units per hr / units per mL.", "zh": "肝素／胰島素點滴：每 mL 單位＝單位／袋容量；mL/hr＝醫囑單位數／每 mL 單位。", "pdf_pages": [211]},
     {"en": "Never speed up a behind-schedule IV without PHCP approval; assess for fluid overload when rate increases.", "zh": "IV 落後時未經醫師同意不可加速；速率增加時評估容積過量。", "pdf_pages": [209, 210]},
