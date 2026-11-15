@@ -117,7 +117,7 @@
   "mnemonics": [
     {"en": "Pulse grading 0-4+: 0 absent, 1+ weak, 2+ normal, 3+ full/increased, 4+ bounding.", "zh": "脈搏分級 0-4+:0 無、1+ 微弱、2+ 正常、3+ 飽滿、4+ 洪大。", "pdf_pages": [141]},
     {"en": "Heparin multiplies aPTT (30-40 sec) by 1.5-2.5; warfarin multiplies PT by 1.5-2 ('Heparin = aPTT, Warfarin = PT/INR').", "zh": "肝素看 aPTT(30-40 秒)乘 1.5-2.5 倍;warfarin 看 PT/INR 乘 1.5-2 倍(「肝素 aPTT、華法林 PT/INR」)。", "pdf_pages": [148]},
-    {"en": "Opioid safety check: RR 12 or less than 12 = hold (R-12 rule); also sedation, pulse, BP.", "zh": "鴉片類安全檢核:呼吸低於 12 次/分即暫停(12 規則),並檢查鎮靜程度、脈搏與血壓。", "pdf_pages": [146]}
+    {"en": "Opioid safety check: RR below 12/min = hold (under-12 rule); also sedation, pulse, BP.", "zh": "鴉片類安全檢核:呼吸低於 12 次/分即暫停(低於 12 規則),並檢查鎮靜程度、脈搏與血壓。", "pdf_pages": [146]}
   ],
   "figures": [
     {"pdf_page": 140, "caption": {"en": "Box 10.1: Fahrenheit/Celsius conversion formulas.", "zh": "Box 10.1:華氏與攝氏溫度換算公式。"}},

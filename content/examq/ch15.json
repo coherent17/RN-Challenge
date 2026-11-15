@@ -159,7 +159,7 @@
     "cat": "RR",
     "stem": {"en": "Which postoperative nursing instruction is most effective in preventing atelectasis?", "zh": "下列哪項術後護理指導對於預防肺擴張不全最有效？"},
     "options": [
-      {"en": "Encourage use of the incentive spirometer every 1 to 2 hours while awake", "zh": "鼓勵病人在清醒時每1至2小時使用誘發性肺量計"},
+      {"en": "Encourage use of the incentive spirometer about 10 times every hour while awake", "zh": "鼓勵病人清醒時每小時使用誘發性肺量計約10次"},
       {"en": "Restrict oral fluid intake to reduce pulmonary secretions", "zh": "限制經口攝水以減少肺部分泌物"},
       {"en": "Keep the client supine for the first 24 hours after surgery", "zh": "手術後前24小時讓病人維持平躺姿勢"},
       {"en": "Delay ambulation until the second postoperative day", "zh": "延遲下床活動至術後第二天"}
