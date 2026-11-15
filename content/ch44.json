@@ -7,7 +7,7 @@
  "points": [
  {"en": "Poison ivy: calamine, astringent/antiseptic wet compresses, colloidal oatmeal baths; topical steroids work best before blisters form; oral steroids for severe cases; diphenhydramine may aid sleep.", "zh": "毒藤：calamine、收斂/抗菌濕敷、膠體燕麥浴；外用類固醇於水泡形成前效果最佳；嚴重者口服類固醇；diphenhydramine可助眠。"},
  {"en": "Dermatitis (atopic, contact, stasis) is epidermal inflammation; first-line moisturizer plus topical glucocorticoid; systemic immunosuppressants (azathioprine, cyclosporine, methotrexate) if refractory.", "zh": "皮膚炎（異位性、接觸性、鬱滯性）為表皮發炎；首選保濕劑加外用糖皮質激素；無效時用全身免疫抑制劑（azathioprine、cyclosporine、methotrexate）。"},
- {"en": "Topical tacrolimus/pimecrolimus: burning, itching, sun sensitivity (protect from sun), possible increased skin cancer/lymphoma and varicella zoster risk.", "zh": "外用tacrolimus/pimecrolimus：灼熱、癢、光敏感（需防曬）、可能增加皮膚癌/淋巴瘤及帶狀疱疹風險。"},
+ {"en": "Topical tacrolimus/pimecrolimus: burning, itching, sun sensitivity (protect from sun); tacrolimus specifically is linked to a higher risk of skin cancer/lymphoma and, in children, varicella zoster infection.", "zh": "外用tacrolimus/pimecrolimus：灼熱、癢、光敏感（需防曬）；其中tacrolimus本身與皮膚癌/淋巴瘤風險上升有關，兒童使用則可能增加感染帶狀疱疹的風險。"},
  {"en": "Wear gloves for any topical medication or patch and wash hands before and after.", "zh": "使用任何外用藥或貼片時戴手套，前後洗手。"}],
  "pdf_pages": [598]},
 {"heading": {"en": "Topical glucocorticoids", "zh": "外用糖皮質激素"},

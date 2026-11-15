@@ -150,8 +150,8 @@
      "zh": "Azathioprine：嗜中性球與血小板減少（腎移植）。Cyclophosphamide：嗜中性球減少、出血性膀胱炎。Methotrexate：肝纖維化/肝硬化、骨髓抑制、口腔潰瘍、腎損傷。"
     },
     {
-     "en": "Mycophenolate: diarrhea, vomiting, neutropenia, sepsis, lymphoma risk. Basiliximab and antithymocyte globulin: anaphylactic/anaphylactoid reactions, fever, chills, leukopenia.",
-     "zh": "Mycophenolate：腹瀉、嘔吐、嗜中性球減少、敗血症、淋巴瘤風險。Basiliximab 與抗胸腺細胞球蛋白：過敏性/類過敏反應、發燒、畏寒、白血球減少。"
+     "en": "Mycophenolate: diarrhea, vomiting, neutropenia, sepsis, lymphoma risk. Basiliximab: severe acute hypersensitivity, including anaphylaxis. Antithymocyte/lymphocyte immune globulin and muromonab-CD3: fever, chills, leukopenia, skin reactions, and anaphylactoid reactions.",
+     "zh": "Mycophenolate：腹瀉、嘔吐、嗜中性球減少、敗血症、淋巴瘤風險。Basiliximab：嚴重急性過敏反應，包括過敏性休克。抗胸腺細胞/淋巴細胞球蛋白與 muromonab-CD3：發燒、畏寒、白血球減少、皮膚反應，以及類過敏反應。"
     },
     {
      "en": "Sirolimus: infection, elevated cholesterol/triglycerides, renal injury, rash, anemia, thrombocytopenia, hypokalemia. Everolimus: mouth sores, edema, infection.",
@@ -260,8 +260,8 @@
    ]
   },
   {
-   "en": "Zidovudine: anemia and neutropenia; monitor CBC.",
-   "zh": "Zidovudine：貧血與嗜中性球減少；監測全血球計數。",
+   "en": "Zidovudine: anemia and leukopenia (the lamivudine/zidovudine combination can also add neutropenia); monitor CBC.",
+   "zh": "Zidovudine：貧血與白血球減少（與 lamivudine 併用時可能再併發嗜中性球減少）；監測全血球計數。",
    "pdf_pages": [
     1031
    ]

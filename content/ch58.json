@@ -56,12 +56,12 @@
      "zh": "作用：散瞳並麻痺睫狀肌，用於檢查與手術。例：atropine、cyclopentolate、homatropine、phenylephrine、scopolamine、tropicamide。"
     },
     {
-     "en": "Adverse effects: tachycardia, photophobia, raised BP, burning; atropine toxicity: dry mouth, fever, flushing, urinary retention, constipation, confusion, hallucinations, worsening glaucoma.",
-     "zh": "不良反應：心搏過速、畏光、血壓上升、灼熱；atropine中毒：口乾、發燒、潮紅、尿滯留、便秘、混亂、幻覺、青光眼惡化。"
+     "en": "Side/adverse effects: tachycardia, photophobia, conjunctivitis, dermatitis, raised BP; a temporary burning on instillation is also expected. Atropine toxicity: dry mouth, blurred vision, fever, tachycardia, urinary retention, constipation, confusion, hallucinations, worsening glaucoma.",
+     "zh": "副作用/不良反應：心搏過速、畏光、結膜炎、皮膚炎、血壓上升；滴藥時也可能有暫時性灼熱感。Atropine中毒：口乾、視力模糊、發燒、心搏過速、尿滯留、便秘、混亂、幻覺、青光眼惡化。"
     },
     {
-     "en": "Contraindicated in glaucoma (raises IOP); caution with dysrhythmias, elderly, prostatic hypertrophy, diabetes, parkinsonism.",
-     "zh": "青光眼禁用(升高眼壓)；心律不整、老年人、攝護腺肥大、糖尿病、帕金森氏症者小心。"
+     "en": "Contraindicated in glaucoma, cardiac dysrhythmias, or cerebral atherosclerosis (risk of raised IOP/cardiac strain); use with caution in older clients and those with prostatic hypertrophy, diabetes, or parkinsonism.",
+     "zh": "青光眼、心律不整或腦動脈硬化病人禁用(升高眼壓/心臟負擔風險)；老年人、攝護腺肥大、糖尿病或帕金森氏症者須小心使用。"
     },
     {
      "en": "Teach: no driving or hazardous activity for 24 h, sunglasses, report eye pain, vision loss, flushing, difficulty breathing.",
@@ -200,8 +200,8 @@
    },
    "points": [
     {
-     "en": "Adults: pull pinna up and back; children <3 y: down and back. Tilt head away from affected ear and keep position about 5 minutes (gently move head per text).",
-     "zh": "成人：耳廓向上向後拉；3歲以下兒童：向下向後拉。頭偏向健側並維持姿勢(本書指示輕輕前後移動頭部5次)。"
+     "en": "Adults: pull pinna up and back; children under 3 y: down and back (older children up and back). Tilt the head away from the affected ear, instill the drops, then gently rock the head back and forth about 5 times to help the medication travel down the canal.",
+     "zh": "成人：耳廓向上向後拉；3歲以下兒童：向下向後拉(年齡較大兒童則向上向後拉)。頭偏向健側後滴入藥液，再輕輕前後搖動頭部約5次，幫助藥液流到耳道深處。"
     },
     {
      "en": "Irrigation requires a prescription and visible tympanic membrane; warm to 37 C (98.6 F); aim at canal wall; client ear up with emesis basin and fall precautions; never irrigate if perforation suspected.",
