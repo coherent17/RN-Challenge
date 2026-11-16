@@ -4,17 +4,25 @@
 <section class="hero quiz"><div class="blobs"><i></i><i></i><i></i></div><div class="wrap">
 <p class="eyebrow"><span class="en">Printable study guide</span><span class="zh">可列印讀書指南</span></p>
 <h1><span class="en">The whole book, <em>condensed to one PDF</em></span><span class="zh">把<em>整本書濃縮成一份 PDF</em></span></h1>
-<p class="lead"><span class="en">Every chapter's summary, test-critical points and mnemonics, concatenated for printing or saving as a PDF. This can take a minute to render and may print 100+ pages — use a chapter page's own "Download PDF" button instead if you only need one chapter.</span><span class="zh">集合所有章節的重點摘要、考試關鍵點與記憶口訣，方便列印或另存為 PDF。載入可能需要一些時間，列印可能超過100頁——若只需要單一章節，請改用該章節頁面上的「下載 PDF」按鈕。</span></p>
+<p class="lead"><span class="en">Every chapter's summary, test-critical points and mnemonics, concatenated for printing or saving as a PDF, with a clickable table of contents. This can take a minute to render and may print 100+ pages — use a chapter page's own "Download PDF" button instead if you only need one chapter.</span><span class="zh">集合所有章節的重點摘要、考試關鍵點與記憶口訣，附可點擊的目錄，方便列印或另存為 PDF。載入可能需要一些時間，列印可能超過100頁——若只需要單一章節，請改用該章節頁面上的「下載 PDF」按鈕。</span></p>
 <div class="cta"><button class="btn pri" type="button" id="print-all"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg><span class="en">Download PDF</span><span class="zh">下載 PDF</span></button></div>
 </div></section>
 <main class="wrap sg">
+<nav class="sgtoc" id="toc" aria-label="Table of contents">
+<h2><span class="en">Contents</span><span class="zh">目錄</span></h2>
+{% for part, chs in parts %}<div class="sgtocpart">
+<h3><span class="roman" style="--h:{{ chs[0].hue }}">{{ part.roman }}</span> <span class="en">{{ part.title }}</span><span class="zh">{{ chs[0].part_zh }}</span></h3>
+<ol>{% for c in chs %}<li><a href="#ch{{ c.number }}"><b>{{ c.number }}</b> <span class="en">{{ c.title }}</span><span class="zh">{{ c.zh }}</span></a></li>{% endfor %}</ol>
+</div>{% endfor %}
+</nav>
 {% for c in chapters %}{% set d = content.get(c.number) %}{% if d %}
-<article class="sgch">
+<article class="sgch" id="ch{{ c.number }}" style="--h:{{ c.hue }}">
 <h2><span class="sgno">{{ c.number }}</span> {{ bi({'en': d.title.en, 'zh': d.title.zh}) }}</h2>
 <p class="sgov">{{ bi(d.overview) }}</p>
 {% for s in d.sections %}<div class="sgsec"><h3>{{ bi(s.heading) }}</h3><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul>{{ pdfp(s.pdf_pages) }}</div>{% endfor %}
 {% if d.critical_points %}<h3 class="sgh"><span class="en">Test-critical points</span><span class="zh">考試關鍵點</span></h3><ol class="sgcrit">{% for k in d.critical_points %}<li>{{ bi(k) }} {{ pdfp(k.pdf_pages) }}</li>{% endfor %}</ol>{% endif %}
 {% if d.mnemonics %}<h3 class="sgh"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></h3><ul class="sgmn">{% for m in d.mnemonics %}<li>{{ bi(m) }} {{ pdfp(m.pdf_pages) }}</li>{% endfor %}</ul>{% endif %}
+<a class="sgback" href="#toc"><span class="en">↑ Back to contents</span><span class="zh">↑ 回目錄</span></a>
 </article>
 {% endif %}{% endfor %}
 </main>
