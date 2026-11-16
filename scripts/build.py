@@ -163,6 +163,7 @@ for n, d in sorted(content.items()):
 (docs / "exam.html").write_text(render("exam.html", title="Mock Exam", page="exam", chapter=None, parts=parts), encoding="utf-8")
 (docs / "quiz.html").write_text(render("quiz.html", title="Quick Quiz", page="quiz", chapter=None, parts=parts), encoding="utf-8")
 (docs / "review.html").write_text(render("review.html", title="Review Mistakes", page="review", chapter=None, parts=parts), encoding="utf-8")
+(docs / "studyguide.html").write_text(render("studyguide.html", title="Printable Study Guide", page="studyguide", chapter=None, parts=parts, content=content), encoding="utf-8")
 for i, c in enumerate(chapters):
     d = content.get(c["number"])
     if d: resolve_refs(d)

@@ -108,6 +108,7 @@ $$('.part').forEach(function(p){p.style.display=$$('.chlist li:not(.hide)',p).le
 /* ---------- CHAPTER ---------- */
 if(page==='chapter'&&body.dataset.ch){
 var ch=+body.dataset.ch,nsec=+body.dataset.secs,nq=+body.dataset.qs;S.last=ch;save();
+var pc=$('#print-ch');if(pc)pc.onclick=function(){window.print()};
 function refresh(){var t=nsec+nq,d=t?Math.min(t,chDone(ch)):0,p=t?Math.round(d/t*100):0;setRing($('#ring-ch'),p);
 if(p>=100&&!S.done[ch]){S.done[ch]=1;save();setTimeout(function(){award(50,'Chapter complete!');confetti()},600)}}
 /* learned toggles */
@@ -187,9 +188,10 @@ $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,b
 }
 
 /* ---------- REVIEW: MISSED QUESTIONS + BOOKMARKS (separate tabs) ---------- */
+if(page==='studyguide'){var pa=$('#print-all');if(pa)pa.onclick=function(){window.print()}}
 if(page==='review'){
 var rlist=$('#rv-list'),rempty=$('#rv-empty'),rbmlist=$('#rv-bm-list'),rbmempty=$('#rv-bm-empty');
-var rvTabs=$$('.rv-tab'),rvPanels={mistakes:$('#rv-panel-mistakes'),bookmarks:$('#rv-panel-bookmarks')};
+var rvTabs=$$('.rv-tabs .chip'),rvPanels={mistakes:$('#rv-panel-mistakes'),bookmarks:$('#rv-panel-bookmarks')};
 function selectTab(name){rvTabs.forEach(function(t){var on=t.dataset.tab===name;t.classList.toggle('on',on);t.setAttribute('aria-selected',on)});
 Object.keys(rvPanels).forEach(function(k){rvPanels[k].hidden=(k!==name)})}
 rvTabs.forEach(function(t){t.onclick=function(){selectTab(t.dataset.tab)}});
