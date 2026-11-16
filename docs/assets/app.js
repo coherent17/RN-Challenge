@@ -213,7 +213,7 @@ function render(){var keys=Object.keys(S.bm).filter(function(k){return S.bm[k]})
 keys.forEach(function(k){var m=/^c(\d+):(.+)$/.exec(k);if(!m)return;var ch=+m[1],id=m[2],it=byKey[ch+':'+id];if(!it)return;rows.push({key:k,ch:ch,id:id,en:it[3],zh:it[4]})});
 if(!rows.length){rbmempty.hidden=false;rbmlist.innerHTML='';return}
 rbmempty.hidden=true;rows.sort(function(a,b){return a.ch-b.ch});
-rbmlist.innerHTML='<ul class="bmlist">'+rows.map(function(r){var chT=sd.ch[r.ch]||['',''];return '<li class="rv"><a class="qchap" href="ch'+('0'+r.ch).slice(-2)+'.html#'+r.id+'">'+L('Ch '+r.ch+' · '+esc(chT[0]),'第 '+r.ch+' 章 · '+esc(chT[1]))+'</a><div>'+L(esc(r.en),esc(r.zh))+'</div><button class="bmbtn" type="button" data-bm="'+r.key+'" aria-pressed="true" title="Remove bookmark"><svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg></button></li>'}).join('')+'</ul>';
+rbmlist.innerHTML='<ul class="bmlist">'+rows.map(function(r){var chT=sd.ch[r.ch]||['',''];return '<li><a class="qchap" href="ch'+('0'+r.ch).slice(-2)+'.html#'+r.id+'">'+L('Ch '+r.ch+' · '+esc(chT[0]),'第 '+r.ch+' 章 · '+esc(chT[1]))+'</a><div>'+L(esc(r.en),esc(r.zh))+'</div><button class="bmbtn" type="button" data-bm="'+r.key+'" aria-pressed="true" title="Remove bookmark"><svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg></button></li>'}).join('')+'</ul>';
 $$('.bmbtn',rbmlist).forEach(function(b){b.onclick=function(){delete S.bm[b.dataset.bm];save();updateReviewBadge();render()}})}
 render()})}
 /* ---------- global search (Ctrl/Cmd+K or /) ---------- */
