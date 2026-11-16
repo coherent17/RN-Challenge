@@ -107,7 +107,7 @@ document.addEventListener('keydown',kd,true);$('[data-close]',m).onclick=close;m
 function finish(reason){if(run.done)return;run.done=true;clearInterval(timerId);var M=run.M,A=run.answered,n=A.length,ok=A.filter(function(a){return a.ok}).length,acc=n?ok/n:0,verdict=null;
 if(M.adaptive){if(reason==='ci-pass')verdict='pass';else if(reason==='ci-fail')verdict='fail';else if((reason==='max'||reason==='time')&&n>=M.min)verdict=run.theta>PASS_STD?'pass':'fail';else if(reason==='time'&&n<M.min)verdict='fail'}
 var S=store();S.exams.unshift({t:Date.now(),mode:run.mode,name:M.name,n:n,acc:acc,v:verdict,th:run.theta});S.exams=S.exams.slice(0,20);NX.save();
-if(n>=5){NX.award(Math.min(120,15+ok)+(verdict==='pass'?50:0),'exam finished');if(verdict==='pass'||acc>=.8)setTimeout(NX.confetti,500)}
+if(n>=5&&(verdict==='pass'||acc>=.8))setTimeout(NX.confetti,500);
 closeFrame();$$('.modal').forEach(function(m){m.remove()});box.hidden=true;res.hidden=false;renderResult(reason,verdict,n,ok,acc);scrollTo({top:0})}
 var WHY={'ci-pass':['Your ability estimate stayed above the passing standard with 95% confidence, so the test stopped.','你的能力估計值以 95% 信心高於通過標準，因此提前結束。'],
  'ci-fail':['Your ability estimate stayed below the passing standard with 95% confidence, so the test stopped.','你的能力估計值以 95% 信心低於通過標準，因此提前結束。'],

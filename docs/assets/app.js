@@ -15,37 +15,27 @@ $$('.lang button').forEach(function(b){b.setAttribute('aria-pressed',b.dataset.s
 $$('.lang button').forEach(function(b){b.onclick=function(){setLang(b.dataset.set)}});setLang(root.dataset.lang||'en');
 var jump=$('#jump');if(jump)jump.onchange=function(){location.href=jump.value+(location.search||'')};
 
-/* ---------- storage / XP / streak ---------- */
+/* ---------- storage / progress ---------- */
 var KEY='nclex.v2',S;
-function fresh(){return{xp:0,streak:{last:'',n:0},sec:{},secxp:{},q:{},bm:{},cards:{},done:{},bonus:{},last:0}}
+function fresh(){return{sec:{},q:{},bm:{},cards:{},done:{},bonus:{},last:0}}
 try{S=Object.assign(fresh(),JSON.parse(localStorage.getItem(KEY)||'{}'))}catch(e){S=fresh()}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
-function lvlOf(xp){return Math.floor(Math.sqrt(xp/40))+1}
 function day(d){return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
-function touchStreak(){var t=day(new Date()),y=new Date();y.setDate(y.getDate()-1);
-if(S.streak.last===t)return;S.streak.n=S.streak.last===day(y)?S.streak.n+1:1;S.streak.last=t}
-function hud(pop){$('#h-xp').textContent=S.xp;$('#h-lvl').textContent=lvlOf(S.xp);$('#h-streak').textContent=S.streak.n;
-if(pop)$$('.hchip.xp,.hchip.streak').forEach(function(c){c.classList.remove('pop');void c.offsetWidth;c.classList.add('pop')})}
 function toast(html,cls){var t=document.createElement('div');t.className='toast '+(cls||'');t.innerHTML=html;$('.toasts').appendChild(t);setTimeout(function(){t.remove()},2300)}
-function award(n,why){var before=lvlOf(S.xp);touchStreak();S.xp+=n;save();hud(true);
-toast('<svg viewBox="0 0 24 24"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg>+'+n+' XP'+(why?' · '+why:''));
-if(lvlOf(S.xp)>before){setTimeout(function(){toast('Level '+lvlOf(S.xp)+'!','lvl');confetti()},500)}}
-hud(false);
+function celebrate(why){if(why)toast('<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>'+why)}
 /* reset */
 function ask(title,msg,yes,onYes){var m=document.createElement('div');m.className='modal';m.innerHTML='<div class="mbox" role="alertdialog" aria-modal="true"><h3>'+title+'</h3><p>'+msg+'</p><div class="mbtns"><button class="btn" type="button" data-n>'+L('Cancel','取消')+'</button><button class="btn pri danger" type="button" data-y>'+yes+'</button></div></div>';document.body.appendChild(m);
 function bye(){m.remove();document.removeEventListener('keydown',esc)}function esc(e){if(e.key==='Escape')bye()}document.addEventListener('keydown',esc);
 $('[data-n]',m).onclick=bye;m.onclick=function(e){if(e.target===m)bye()};$('[data-y]',m).onclick=function(){bye();onYes()};$('[data-n]',m).focus()}
-function bindReset(){var a=$('#reset-all');if(a)a.onclick=function(){ask(L('Reset all progress?','重置全部進度？'),L('This erases your XP, level, streak, learned topics and quiz answers on this browser. It cannot be undone.','這會清除此瀏覽器上的 XP、等級、連續天數、已學主題與作答紀錄，且無法復原。'),L('Reset everything','全部重置'),function(){try{localStorage.removeItem(KEY)}catch(e){}S=fresh();location.reload()})};
-var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared. Your XP and streak are kept.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除，XP 與連續天數保留。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.secxp,S.q,S.bm,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
+function bindReset(){var a=$('#reset-all');if(a)a.onclick=function(){ask(L('Reset all progress?','重置全部進度？'),L('This erases your learned topics, bookmarks and quiz answers on this browser. It cannot be undone.','這會清除此瀏覽器上已學主題、書籤與作答紀錄，且無法復原。'),L('Reset everything','全部重置'),function(){try{localStorage.removeItem(KEY)}catch(e){}S=fresh();location.reload()})};
+var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.q,S.bm,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
 
 bindReset();
 /* export/import progress, for syncing between devices */
 function mergeFlags(a,b){var out=Object.assign({},a);for(var k in b){if(!(k in out)||b[k]>out[k])out[k]=b[k]}return out}
 function exportProgress(){var blob=new Blob([JSON.stringify(S)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='nclex-progress-'+day(new Date())+'.json';document.body.appendChild(a);a.click();a.remove()}
 function importProgress(file){var r=new FileReader();r.onload=function(){try{var imp=JSON.parse(r.result);
-S.xp=Math.max(S.xp||0,imp.xp||0);
-if(imp.streak&&(!S.streak.last||imp.streak.last>S.streak.last))S.streak=imp.streak;
-S.sec=mergeFlags(S.sec,imp.sec||{});S.secxp=mergeFlags(S.secxp,imp.secxp||{});S.q=mergeFlags(S.q,imp.q||{});S.bm=mergeFlags(S.bm,imp.bm||{});
+S.sec=mergeFlags(S.sec,imp.sec||{});S.q=mergeFlags(S.q,imp.q||{});S.bm=mergeFlags(S.bm,imp.bm||{});
 S.cards=mergeFlags(S.cards,imp.cards||{});S.done=mergeFlags(S.done,imp.done||{});S.bonus=mergeFlags(S.bonus,imp.bonus||{});
 S.last=S.last||imp.last||0;save();toast(L('Progress merged! Reloading…','進度已合併！重新載入中…'));setTimeout(function(){location.reload()},900)
 }catch(e){toast(L("That file couldn't be read as a progress backup.",'無法讀取此檔案，不是有效的進度備份。'))}};r.readAsText(file)}
@@ -84,7 +74,7 @@ uniq.sort(function(a,b){return b.length-a.length});return uniq.slice(0,n).join('
 function pageTag(pages,anchorText){if(!pages||!pages.length)return '';var q=anchorTerms(anchorText||'',2);
 return '<span class="src">'+pages.map(function(p){return '<a class="pgimg" data-p="'+p+'" data-q="'+q+'" data-cap="PDF p.'+p+'"><span class="pill"><span class="bk"></span>p.'+p+'<i class="bklbl"></i></span></a>'}).join('')+'</span>'}
 function fillBookLabels(container){getLabels().then(function(lab){$$('a.pgimg',container).forEach(function(a){var p=+a.dataset.p,l=lab&&lab[p];if(l){a.dataset.cap='PDF p.'+p+' · book p.'+l;var i=$('i.bklbl',a);if(i)i.textContent=' · book '+l}})}).catch(function(){})}
-window.NX={BASE:BASE,S:function(){return S},save:save,award:award,confetti:confetti,bi:bi,esc:esc,L:L,sameSet:sameSet,lvlOf:lvlOf,ask:ask,anchorTerms:anchorTerms,pageTag:pageTag,fillBookLabels:fillBookLabels};
+window.NX={BASE:BASE,S:function(){return S},save:save,celebrate:celebrate,confetti:confetti,bi:bi,esc:esc,L:L,sameSet:sameSet,ask:ask,anchorTerms:anchorTerms,pageTag:pageTag,fillBookLabels:fillBookLabels};
 /* ---------- progress helpers ---------- */
 function chDone(n){var p='c'+n+':',c=0,k;for(k in S.sec)if(k.indexOf(p)===0&&S.sec[k])c++;for(k in S.q)if(k.indexOf(p)===0)c++;return c}
 function setRing(el,p){if(!el)return;el.style.setProperty('--p',p);var b=$('b',el);if(b)b.textContent=el.classList.contains('sm')?(p>=100?'✓':p):p+'%';el.classList.toggle('done',p>=100)}
@@ -95,11 +85,9 @@ var tot=0,dn=0,full=0,first=null,lastLi=null;
 $$('.chlist li').forEach(function(li){var n=+li.dataset.ch,t=+li.dataset.total,d=Math.min(t,chDone(n)),p=t?Math.round(d/t*100):0;tot+=t;dn+=d;if(p>=100)full++;setRing($('.ring',li),p);
 if(!first&&p<100&&t)first=n;if(S.last===n)lastLi={n:n,p:p}});
 var allp=tot?Math.round(dn/tot*100):0;setRing($('#ring-all'),allp);countUp($('#d-done'),full);
-var lv=lvlOf(S.xp),base=40*(lv-1)*(lv-1),nxt=40*lv*lv;countUp($('#d-lvl'),lv);countUp($('#d-xp'),S.xp);$('#d-next').textContent=nxt-S.xp;
-setTimeout(function(){$('#d-xpbar').style.width=Math.round((S.xp-base)/(nxt-base)*100)+'%'},250);
-countUp($('#d-streak'),S.streak.n);var secs=0,qs=0,k;for(k in S.sec)if(S.sec[k])secs++;for(k in S.q)qs++;countUp($('#d-secs'),secs);countUp($('#d-qs'),qs);
+var secs=0,qs=0,k;for(k in S.sec)if(S.sec[k])secs++;for(k in S.q)qs++;countUp($('#d-secs'),secs);countUp($('#d-qs'),qs);
 var cont=$('#continue'),tgt=lastLi&&lastLi.p<100?lastLi.n:first;
-if(cont&&tgt&&(S.xp>0||lastLi)){cont.href='ch'+('0'+tgt).slice(-2)+'.html';cont.firstChild.textContent='Continue · Ch '+tgt;cont.childNodes[1].textContent='繼續學習 · 第 '+tgt+' 章'}
+if(cont&&tgt&&(secs>0||qs>0||lastLi)){cont.href='ch'+('0'+tgt).slice(-2)+'.html';cont.firstChild.textContent='Continue · Ch '+tgt;cont.childNodes[1].textContent='繼續學習 · 第 '+tgt+' 章'}
 var q=$('#q');if(q)q.oninput=function(){var t=q.value.trim().toLowerCase();
 $$('.chlist li').forEach(function(li){li.classList.toggle('hide',!!t&&li.dataset.s.indexOf(t)<0)});
 $$('.part').forEach(function(p){p.style.display=$$('.chlist li:not(.hide)',p).length?'':'none'})};
@@ -110,10 +98,10 @@ if(page==='chapter'&&body.dataset.ch){
 var ch=+body.dataset.ch,nsec=+body.dataset.secs,nq=+body.dataset.qs;S.last=ch;save();
 var pc=$('#print-ch');if(pc)pc.onclick=function(){window.print()};
 function refresh(){var t=nsec+nq,d=t?Math.min(t,chDone(ch)):0,p=t?Math.round(d/t*100):0;setRing($('#ring-ch'),p);
-if(p>=100&&!S.done[ch]){S.done[ch]=1;save();setTimeout(function(){award(50,'Chapter complete!');confetti()},600)}}
+if(p>=100&&!S.done[ch]){S.done[ch]=1;save();setTimeout(function(){celebrate(L('Chapter complete!','本章完成！'));confetti()},600)}}
 /* learned toggles */
 function setLearned(i,on,silent){var sec=$('#s'+i),key='c'+ch+':'+i;if(!sec)return;S.sec[key]=on?1:0;sec.classList.toggle('done',on);var b=$('.learned',sec);if(b)b.setAttribute('aria-pressed',on);save();
-if(on&&!silent&&!S.secxp[key]){S.secxp[key]=1;award(10,'topic learned')}refresh()}
+refresh()}
 $$('.sec').forEach(function(sec){var i=+sec.dataset.i;if(S.sec['c'+ch+':'+i]){sec.classList.add('done');$('.learned',sec).setAttribute('aria-pressed',true)}
 $('.learned',sec).onclick=function(){setLearned(i,!S.sec['c'+ch+':'+i]);syncCards()}});
 /* flashcards */
@@ -122,7 +110,7 @@ function known(i){return !!S.sec['c'+ch+':'+cards[i].dataset.id]}
 function syncCards(){var k=cards.filter(function(c,i){return known(i)}).length;var el=$('#fc-k');if(el)el.textContent=k}
 function showCard(i){ptr=i;cards.forEach(function(c,j){c.classList.toggle('cur',j===i);c.classList.remove('flipped')});$('#fc-i').textContent=i+1;syncCards()}
 function nextUnknown(from,dir){var n=cards.length;for(var s=1;s<=n;s++){var j=(from+dir*s+n*2)%n;if(!known(j))return j}return -1}
-function deckDone(){var st=$('.fstack');if(!st||$('.fdone',st))return;cards.forEach(function(c){c.classList.remove('cur')});var d=document.createElement('div');d.className='fdone';d.innerHTML='<div>'+L('Deck complete — you know every topic!','全部學會了！太強了！')+'</div>';st.appendChild(d);if(!S.bonus['d'+ch]){S.bonus['d'+ch]=1;save();award(20,'deck complete')}confetti()}
+function deckDone(){var st=$('.fstack');if(!st||$('.fdone',st))return;cards.forEach(function(c){c.classList.remove('cur')});var d=document.createElement('div');d.className='fdone';d.innerHTML='<div>'+L('Deck complete — you know every topic!','全部學會了！太強了！')+'</div>';st.appendChild(d);if(!S.bonus['d'+ch]){S.bonus['d'+ch]=1;save()}confetti()}
 if(cards.length){var fr=$('.fstack');
 cards.forEach(function(c,i){c.tabIndex=0;c.onclick=function(){c.classList.toggle('flipped')}});
 var unk=nextUnknown(-1,1);showCard(unk<0?0:unk);if(unk<0)deckDone();
@@ -138,7 +126,7 @@ function grade(){if(qq.classList.contains('done'))return;var sel=btns.filter(fun
 qq.classList.add('done');var ok=sameSet(sel,ans);qq.classList.add(ok?'ok':'no');
 btns.forEach(function(b){var i=+b.dataset.i;b.classList.remove('sel');if(ans.indexOf(i)>=0)b.classList.add('right');else if(sel.indexOf(i)>=0)b.classList.add('wrong')});
 $('.why',qq).hidden=false;if(chk)chk.style.display='none';
-var key='c'+ch+':'+qq.dataset.qid;if(!(key in S.q)){S.q[key]=ok?1:0;save();award(ok?5:1,ok?'correct!':'keep going')}
+var key='c'+ch+':'+qq.dataset.qid;if(!(key in S.q)){S.q[key]=ok?1:0;save()}
 refresh();score()}
 btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});
 if(chk)chk.onclick=grade});
@@ -146,7 +134,7 @@ function score(){var qs=$$('.q[data-qid^=p]'),all=qs.every(function(q){return q.
 sc.hidden=false;var stars=$$('.stars svg',sc),n=pct>=.9?3:pct>=.7?2:1;stars.forEach(function(s,i){setTimeout(function(){s.classList.toggle('on',i<n)},300+i*250)});
 $('.sc-t',sc).innerHTML=L(okn+' / '+qs.length+' correct',okn+' / '+qs.length+' 題答對');
 $('.sc-s',sc).innerHTML=pct>=.8?L('Crushed it! 🎉'.replace(' 🎉',''),'太厲害了！'):pct>=.7?L('Nice work — keep going!','不錯喔，繼續加油！'):L('Review the topics above and try again tomorrow.','回頭複習上面的主題，明天再挑戰。');
-if(pct>=.7&&!S.bonus['s'+ch]){S.bonus['s'+ch]=1;save();setTimeout(function(){award(20,'quiz bonus')},900)}if(pct>=.8)setTimeout(confetti,500);sc.scrollIntoView({behavior:reduce?'auto':'smooth',block:'center'})}
+if(pct>=.8)setTimeout(confetti,500);sc.scrollIntoView({behavior:reduce?'auto':'smooth',block:'center'})}
 refresh();
 /* toc scroll-spy */
 var links=$$('.toc a');if(links.length&&'IntersectionObserver'in window){var map={};links.forEach(function(a){map[a.getAttribute('href').slice(1)]=a});
@@ -163,9 +151,9 @@ function upPool(){pool=poolFor();$('#qz-pool').innerHTML=L(pool.length+' questio
 $$('#qz-parts .chip').forEach(function(c){c.onclick=function(){$$('#qz-parts .chip').forEach(function(x){x.classList.remove('on')});c.classList.add('on');partSel=c.dataset.p;upPool()}});upPool();fetch(BASE+'questions.json').then(function(r){return r.json()}).then(function(d){DATA=d;upPool()});
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
 $('#qz-start').onclick=startQuiz;
-function startQuiz(){if(!pool.length)return;run={qs:shuffle(pool).slice(0,10),i:0,ok:0,combo:0,xp:0,missed:[]};setup.hidden=true;res.hidden=true;play.hidden=false;renderQ();$('#qz').scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'})}
+function startQuiz(){if(!pool.length)return;run={qs:shuffle(pool).slice(0,10),i:0,ok:0,missed:[]};setup.hidden=true;res.hidden=true;play.hidden=false;renderQ();$('#qz').scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'})}
 function renderQ(){var q=run.qs[run.i],multi=q.answer.length>1,n=run.qs.length;
-play.innerHTML='<div class="qtop"><span class="qmeta">'+(run.i+1)+' / '+n+'</span><div class="qprog"><i style="width:'+(run.i/n*100)+'%"></i></div>'+(run.combo>=2?'<span class="combo">×'+run.combo+' '+L('combo','連對')+'</span>':'')+'</div>'+
+play.innerHTML='<div class="qtop"><span class="qmeta">'+(run.i+1)+' / '+n+'</span><div class="qprog"><i style="width:'+(run.i/n*100)+'%"></i></div></div>'+
 '<article class="q"><a class="qchap" href="ch'+('0'+q.ch).slice(-2)+'.html">'+L('Ch '+q.ch+' · '+esc(q.t.en),'第 '+q.ch+' 章 · '+esc(q.t.zh))+'</a><p class="stem"><b class="qn">'+(run.i+1)+'</b><span>'+bi(q.stem)+(multi?' <em class="sata">'+L('(Select all that apply)','（複選）')+'</em>':'')+'</span></p>'+
 '<ul class="opts">'+q.options.map(function(o,k){return '<li><button type="button" data-i="'+k+'"><span class="ltr">'+'ABCDEFGH'[k]+'</span><span class="txt">'+bi(o)+'</span></button></li>'}).join('')+'</ul>'+
 (multi?'<button class="btn check" type="button">'+L('Check answer','對答案')+'</button>':'')+'<div class="why" hidden><p>'+bi(q.why)+'</p>'+pageTag(q.refs,(q.why&&q.why.en)||(q.stem&&q.stem.en))+'</div></article><div class="nextrow" hidden><button class="btn pri big" id="qz-next">'+(run.i+1<n?L('Next','下一題'):L('See results','看結果'))+'</button></div>';
@@ -174,13 +162,13 @@ function grade(){if(qq.classList.contains('done'))return;var sel=btns.filter(fun
 qq.classList.add('done');var ok=sameSet(sel,q.answer);qq.classList.add(ok?'ok':'no');
 btns.forEach(function(b){var i=+b.dataset.i;b.classList.remove('sel');if(q.answer.indexOf(i)>=0)b.classList.add('right');else if(sel.indexOf(i)>=0)b.classList.add('wrong')});
 $('.why',qq).hidden=false;if(chk)chk.style.display='none';
-if(ok){run.ok++;run.combo++;var g=4+(run.combo>=3?1:0);run.xp+=g;award(g,run.combo>=3?'combo ×'+run.combo:'correct!')}else{run.combo=0;run.missed.push(q);run.xp+=0}
+if(ok){run.ok++}else{run.missed.push(q)}
 $('.nextrow',play).hidden=false;$('.nextrow',play).scrollIntoView({behavior:reduce?'auto':'smooth',block:'nearest'});
 fillBookLabels(qq);$('#qz-next').onclick=function(){run.i++;if(run.i<run.qs.length)renderQ();else finish()}}
 btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade}
-function finish(){play.hidden=true;res.hidden=false;var n=run.qs.length,pct=run.ok/n,st=pct>=.9?3:pct>=.7?2:pct>=.4?1:0,bonus=0;if(run.ok===n){bonus=25;award(25,'perfect run!')}
+function finish(){play.hidden=true;res.hidden=false;var n=run.qs.length,pct=run.ok/n,st=pct>=.9?3:pct>=.7?2:pct>=.4?1:0;
 var star='<svg viewBox="0 0 24 24"><path d="M12 2l3 6.5 7 .9-5.2 4.8 1.4 7-6.2-3.5-6.2 3.5 1.4-7L2 9.4l7-.9z"/></svg>';
-res.innerHTML='<div class="card result rv in"><div class="scorecard" style="margin:0"><div class="stars">'+star+star+star+'</div><div class="big" style="color:#fff;-webkit-text-fill-color:#fff">'+run.ok+' / '+n+'</div><p class="sc-t">'+(pct>=.8?L('Crushed it!','太厲害了！'):pct>=.5?L('Good run!','不錯喔！'):L('Keep practicing!','繼續加油！'))+'</p><p class="sc-s">+'+(run.xp+bonus)+' XP</p></div>'+
+res.innerHTML='<div class="card result rv in"><div class="scorecard" style="margin:0"><div class="stars">'+star+star+star+'</div><div class="big" style="color:#fff;-webkit-text-fill-color:#fff">'+run.ok+' / '+n+'</div><p class="sc-t">'+(pct>=.8?L('Crushed it!','太厲害了！'):pct>=.5?L('Good run!','不錯喔！'):L('Keep practicing!','繼續加油！'))+'</p></div>'+
 (run.missed.length?'<div class="missed"><h3>'+L('Review these','這些要複習')+'</h3>'+run.missed.map(function(q){return '<a href="ch'+('0'+q.ch).slice(-2)+'.html#practice"><b>'+L('Ch '+q.ch,'第 '+q.ch+' 章')+'</b> · '+bi(q.stem).slice(0,0)+L(esc(q.stem.en.slice(0,110))+(q.stem.en.length>110?'…':''),esc(q.stem.zh.slice(0,70))+(q.stem.zh.length>70?'…':''))+'</a>'}).join('')+'</div>':'')+
 '<div class="cta" style="justify-content:center"><button class="btn pri big" id="qz-again">'+L('Play again','再來一次')+'</button><a class="btn big" href="index.html">'+L('Back to chapters','回章節列表')+'</a></div></div>';
 setTimeout(function(){$$('.stars svg',res).forEach(function(s,i){setTimeout(function(){s.classList.toggle('on',i<st)},i*250)})},200);if(pct>=.8)setTimeout(confetti,400);
@@ -213,7 +201,7 @@ function grade(){if(qq.classList.contains('done'))return;var sel=btns.filter(fun
 qq.classList.add('done');var ok=sameSet(sel,ans);qq.classList.add(ok?'ok':'no');
 btns.forEach(function(b){var i=+b.dataset.i;b.classList.remove('sel');if(ans.indexOf(i)>=0)b.classList.add('right');else if(sel.indexOf(i)>=0)b.classList.add('wrong')});
 $('.why',qq).hidden=false;if(chk)chk.style.display='none';
-if(ok){S.q[key]=1;save();award(5,'fixed it!');updateReviewBadge();setTimeout(renderMissed,900)}
+if(ok){S.q[key]=1;save();updateReviewBadge();setTimeout(renderMissed,900)}
 fillBookLabels(qq)}
 btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade;
 $('[data-dismiss]',qq).onclick=function(){S.q[key]=1;save();updateReviewBadge();renderMissed()}})}
