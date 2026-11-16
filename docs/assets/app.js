@@ -17,7 +17,7 @@ var jump=$('#jump');if(jump)jump.onchange=function(){location.href=jump.value+(l
 
 /* ---------- storage / XP / streak ---------- */
 var KEY='nclex.v2',S;
-function fresh(){return{xp:0,streak:{last:'',n:0},sec:{},q:{},bm:{},cards:{},done:{},bonus:{},last:0}}
+function fresh(){return{xp:0,streak:{last:'',n:0},sec:{},secxp:{},q:{},bm:{},cards:{},done:{},bonus:{},last:0}}
 try{S=Object.assign(fresh(),JSON.parse(localStorage.getItem(KEY)||'{}'))}catch(e){S=fresh()}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
 function lvlOf(xp){return Math.floor(Math.sqrt(xp/40))+1}
@@ -36,7 +36,7 @@ function ask(title,msg,yes,onYes){var m=document.createElement('div');m.classNam
 function bye(){m.remove();document.removeEventListener('keydown',esc)}function esc(e){if(e.key==='Escape')bye()}document.addEventListener('keydown',esc);
 $('[data-n]',m).onclick=bye;m.onclick=function(e){if(e.target===m)bye()};$('[data-y]',m).onclick=function(){bye();onYes()};$('[data-n]',m).focus()}
 function bindReset(){var a=$('#reset-all');if(a)a.onclick=function(){ask(L('Reset all progress?','重置全部進度？'),L('This erases your XP, level, streak, learned topics and quiz answers on this browser. It cannot be undone.','這會清除此瀏覽器上的 XP、等級、連續天數、已學主題與作答紀錄，且無法復原。'),L('Reset everything','全部重置'),function(){try{localStorage.removeItem(KEY)}catch(e){}S=fresh();location.reload()})};
-var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared. Your XP and streak are kept.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除，XP 與連續天數保留。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.q,S.bm,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
+var c=$('#reset-ch');if(c)c.onclick=function(){var n=+body.dataset.ch;ask(L('Reset this chapter?','重置本章進度？'),L('Chapter '+n+' goes back to 0%: learned topics and answers are cleared. Your XP and streak are kept.','第 '+n+' 章會回到 0%：已學主題與作答紀錄將清除，XP 與連續天數保留。'),L('Reset chapter','重置本章'),function(){var pre='c'+n+':';[S.sec,S.secxp,S.q,S.bm,S.cards].forEach(function(o){Object.keys(o).forEach(function(k){if(k.indexOf(pre)===0)delete o[k]})});delete S.done[n];delete S.bonus['d'+n];delete S.bonus['s'+n];save();location.reload()})}}
 
 bindReset();
 /* export/import progress, for syncing between devices */
@@ -45,7 +45,7 @@ function exportProgress(){var blob=new Blob([JSON.stringify(S)],{type:'applicati
 function importProgress(file){var r=new FileReader();r.onload=function(){try{var imp=JSON.parse(r.result);
 S.xp=Math.max(S.xp||0,imp.xp||0);
 if(imp.streak&&(!S.streak.last||imp.streak.last>S.streak.last))S.streak=imp.streak;
-S.sec=mergeFlags(S.sec,imp.sec||{});S.q=mergeFlags(S.q,imp.q||{});S.bm=mergeFlags(S.bm,imp.bm||{});
+S.sec=mergeFlags(S.sec,imp.sec||{});S.secxp=mergeFlags(S.secxp,imp.secxp||{});S.q=mergeFlags(S.q,imp.q||{});S.bm=mergeFlags(S.bm,imp.bm||{});
 S.cards=mergeFlags(S.cards,imp.cards||{});S.done=mergeFlags(S.done,imp.done||{});S.bonus=mergeFlags(S.bonus,imp.bonus||{});
 S.last=S.last||imp.last||0;save();toast(L('Progress merged! Reloading…','進度已合併！重新載入中…'));setTimeout(function(){location.reload()},900)
 }catch(e){toast(L("That file couldn't be read as a progress backup.",'無法讀取此檔案，不是有效的進度備份。'))}};r.readAsText(file)}
@@ -111,8 +111,8 @@ var ch=+body.dataset.ch,nsec=+body.dataset.secs,nq=+body.dataset.qs;S.last=ch;sa
 function refresh(){var t=nsec+nq,d=t?Math.min(t,chDone(ch)):0,p=t?Math.round(d/t*100):0;setRing($('#ring-ch'),p);
 if(p>=100&&!S.done[ch]){S.done[ch]=1;save();setTimeout(function(){award(50,'Chapter complete!');confetti()},600)}}
 /* learned toggles */
-function setLearned(i,on,silent){var sec=$('#s'+i),key='c'+ch+':'+i;if(!sec)return;var was=!!S.sec[key];S.sec[key]=on?1:0;sec.classList.toggle('done',on);var b=$('.learned',sec);if(b)b.setAttribute('aria-pressed',on);save();
-if(on&&!was&&!silent)award(10,'topic learned');refresh()}
+function setLearned(i,on,silent){var sec=$('#s'+i),key='c'+ch+':'+i;if(!sec)return;S.sec[key]=on?1:0;sec.classList.toggle('done',on);var b=$('.learned',sec);if(b)b.setAttribute('aria-pressed',on);save();
+if(on&&!silent&&!S.secxp[key]){S.secxp[key]=1;award(10,'topic learned')}refresh()}
 $$('.sec').forEach(function(sec){var i=+sec.dataset.i;if(S.sec['c'+ch+':'+i]){sec.classList.add('done');$('.learned',sec).setAttribute('aria-pressed',true)}
 $('.learned',sec).onclick=function(){setLearned(i,!S.sec['c'+ch+':'+i]);syncCards()}});
 /* flashcards */
