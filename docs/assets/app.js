@@ -53,8 +53,10 @@ var ep=$('#export-progress');if(ep)ep.onclick=exportProgress;
 var ip=$('#import-progress'),ifl=$('#import-file');
 if(ip&&ifl){ip.onclick=function(){ifl.click()};ifl.onchange=function(){if(ifl.files[0])importProgress(ifl.files[0]);ifl.value=''}}
 /* review nav badge: wrong quiz answers + bookmarked points */
-function reviewCount(){var n=0,k;for(k in S.q)if(!S.q[k])n++;for(k in S.bm)if(S.bm[k])n++;return n}
-function updateReviewBadge(){var n=reviewCount(),b=$('#nav-review-n');if(b){b.hidden=!n;if(n)b.textContent=n>99?'99+':n}}
+function missedCount(){var n=0,k;for(k in S.q)if(!S.q[k])n++;return n}
+function bookmarkCount(){var n=0,k;for(k in S.bm)if(S.bm[k])n++;return n}
+function badgeSet(el,n){if(el){el.hidden=!n;if(n)el.textContent=n>99?'99+':n}}
+function updateReviewBadge(){badgeSet($('#nav-review-n'),missedCount()+bookmarkCount());badgeSet($('#rv-tab-q-n'),missedCount());badgeSet($('#rv-tab-bm-n'),bookmarkCount())}
 updateReviewBadge();
 /* bookmark buttons (critical points, mnemonics) */
 $$('.bmbtn').forEach(function(b){var key=b.dataset.bm;b.setAttribute('aria-pressed',!!S.bm[key]);b.onclick=function(){S.bm[key]=!S.bm[key];b.setAttribute('aria-pressed',S.bm[key]);save();updateReviewBadge()}});
@@ -184,16 +186,22 @@ setTimeout(function(){$$('.stars svg',res).forEach(function(s,i){setTimeout(func
 $('#qz-again').onclick=function(){res.hidden=true;startQuiz()};scrollTo({top:0,behavior:'smooth'})}
 }
 
-/* ---------- REVIEW: MISSED QUESTIONS + BOOKMARKS ---------- */
+/* ---------- REVIEW: MISSED QUESTIONS + BOOKMARKS (separate tabs) ---------- */
 if(page==='review'){
 var rlist=$('#rv-list'),rempty=$('#rv-empty'),rbmlist=$('#rv-bm-list'),rbmempty=$('#rv-bm-empty');
+var rvTabs=$$('.rv-tab'),rvPanels={mistakes:$('#rv-panel-mistakes'),bookmarks:$('#rv-panel-bookmarks')};
+function selectTab(name){rvTabs.forEach(function(t){var on=t.dataset.tab===name;t.classList.toggle('on',on);t.setAttribute('aria-selected',on)});
+Object.keys(rvPanels).forEach(function(k){rvPanels[k].hidden=(k!==name)})}
+rvTabs.forEach(function(t){t.onclick=function(){selectTab(t.dataset.tab)}});
 fetch(BASE+'questions.json').then(function(r){return r.json()}).then(function(d){
 var byId={};d.forEach(function(q){if(q.id)byId[q.id]=q});
+function renderMissed(){
 var wrong=Object.keys(S.q).filter(function(k){return !S.q[k]&&byId[k]}).map(function(k){var q=byId[k];q.key=k;return q});
-if(!wrong.length){rempty.hidden=false;return}
-wrong.sort(function(a,b){return a.ch-b.ch});
+if(!wrong.length){rempty.hidden=false;rlist.innerHTML='';return}
+rempty.hidden=true;wrong.sort(function(a,b){return a.ch-b.ch});
 rlist.innerHTML=wrong.map(function(q,i){return '<article class="q" data-key="'+q.key+'" data-answer="'+q.answer.join(',')+'">'+
-'<a class="qchap" href="ch'+('0'+q.ch).slice(-2)+'.html">'+L('Ch '+q.ch+' · '+esc(q.t.en),'第 '+q.ch+' 章 · '+esc(q.t.zh))+'</a>'+
+'<div class="qhead"><a class="qchap" href="ch'+('0'+q.ch).slice(-2)+'.html">'+L('Ch '+q.ch+' · '+esc(q.t.en),'第 '+q.ch+' 章 · '+esc(q.t.zh))+'</a>'+
+'<button class="learned" type="button" data-dismiss="'+q.key+'"><span class="chk"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span class="en">Mark known</span><span class="zh">標記已熟悉</span></button></div>'+
 '<p class="stem"><b class="qn">'+(i+1)+'</b><span>'+bi(q.stem)+(q.answer.length>1?' <em class="sata">'+L('(Select all that apply)','（複選）')+'</em>':'')+'</span></p>'+
 '<ul class="opts">'+q.options.map(function(o,k){return '<li><button type="button" data-i="'+k+'"><span class="ltr">'+'ABCDEFGH'[k]+'</span><span class="txt">'+bi(o)+'</span></button></li>'}).join('')+'</ul>'+
 (q.answer.length>1?'<button class="btn check" type="button">'+L('Check answer','對答案')+'</button>':'')+
@@ -203,19 +211,21 @@ function grade(){if(qq.classList.contains('done'))return;var sel=btns.filter(fun
 qq.classList.add('done');var ok=sameSet(sel,ans);qq.classList.add(ok?'ok':'no');
 btns.forEach(function(b){var i=+b.dataset.i;b.classList.remove('sel');if(ans.indexOf(i)>=0)b.classList.add('right');else if(sel.indexOf(i)>=0)b.classList.add('wrong')});
 $('.why',qq).hidden=false;if(chk)chk.style.display='none';
-if(ok){S.q[key]=1;save();award(5,'fixed it!');updateReviewBadge()}
+if(ok){S.q[key]=1;save();award(5,'fixed it!');updateReviewBadge();setTimeout(renderMissed,900)}
 fillBookLabels(qq)}
-btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade})
+btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade;
+$('[data-dismiss]',qq).onclick=function(){S.q[key]=1;save();updateReviewBadge();renderMissed()}})}
+renderMissed()
 });
 fetch(BASE+'search.json').then(function(r){return r.json()}).then(function(sd){
 var byKey={};sd.items.forEach(function(it){if(it[1]==='c'||it[1]==='m'||it[1]==='h')byKey[it[0]+':'+it[2]]=it});
-function render(){var keys=Object.keys(S.bm).filter(function(k){return S.bm[k]}),rows=[];
+function renderBm(){var keys=Object.keys(S.bm).filter(function(k){return S.bm[k]}),rows=[];
 keys.forEach(function(k){var m=/^c(\d+):(.+)$/.exec(k);if(!m)return;var ch=+m[1],id=m[2],it=byKey[ch+':'+id];if(!it)return;rows.push({key:k,ch:ch,id:id,en:it[3],zh:it[4]})});
 if(!rows.length){rbmempty.hidden=false;rbmlist.innerHTML='';return}
 rbmempty.hidden=true;rows.sort(function(a,b){return a.ch-b.ch});
 rbmlist.innerHTML='<ul class="bmlist">'+rows.map(function(r){var chT=sd.ch[r.ch]||['',''];return '<li><a class="qchap" href="ch'+('0'+r.ch).slice(-2)+'.html#'+r.id+'">'+L('Ch '+r.ch+' · '+esc(chT[0]),'第 '+r.ch+' 章 · '+esc(chT[1]))+'</a><div>'+L(esc(r.en),esc(r.zh))+'</div><button class="bmbtn" type="button" data-bm="'+r.key+'" aria-pressed="true" title="Remove bookmark"><svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg></button></li>'}).join('')+'</ul>';
-$$('.bmbtn',rbmlist).forEach(function(b){b.onclick=function(){delete S.bm[b.dataset.bm];save();updateReviewBadge();render()}})}
-render()})}
+$$('.bmbtn',rbmlist).forEach(function(b){b.onclick=function(){delete S.bm[b.dataset.bm];save();updateReviewBadge();renderBm()}})}
+renderBm()})}
 /* ---------- global search (Ctrl/Cmd+K or /) ---------- */
 var SD=null,sov=null,sres=[],ssel=0,sq='';
 var KIND={h:['Topic','主題'],p:['Summary','重點'],c:['Test-critical','考試關鍵'],m:['Mnemonic','口訣'],q:['Question','題目'],f:['Figure','圖表']},KW={h:6,c:5,m:4,p:3,q:2,f:2};

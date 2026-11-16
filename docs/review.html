@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#5b5bf0">
 <title>Review Mistakes · NCLEX-RN Study Guide</title>
-<link rel="stylesheet" href="assets/style.css?v=a23d01dd">
+<link rel="stylesheet" href="assets/style.css?v=33c3e3f7">
 <script>try{var l=new URLSearchParams(location.search).get('lang')||localStorage.getItem('lang')||(navigator.language||'').toLowerCase().startsWith('zh')&&'zh'||'en';document.documentElement.dataset.lang=l}catch(e){}document.documentElement.classList.add('js')</script>
 </head>
 <body data-page="review" >
@@ -22,21 +22,27 @@
 <section class="hero quiz"><div class="blobs"><i></i><i></i><i></i></div><div class="wrap">
 <p class="eyebrow"><span class="en">Review</span><span class="zh">複習</span></p>
 <h1><span class="en">Missed questions and bookmarks, <em>in one place</em></span><span class="zh">把答錯的題目與書籤<em>集中在這裡</em></span></h1>
-<p class="lead"><span class="en">Pulled from your Practice Questions and the bookmark button on critical points and mnemonics. Answer a question again or unbookmark a point, and it drops off the list.</span><span class="zh">來自各章節的練習題與考試關鍵點/記憶口訣上的書籤按鈕。重新作答或取消書籤後，該項目就會從清單中移除。</span></p></div></section>
+<p class="lead"><span class="en">Clear items as you get comfortable with them — a missed question drops off once you answer it right or mark it known, and a bookmark drops off once you unbookmark it. The lists should get shorter.</span><span class="zh">熟悉後即可將項目移除——答對或標記為「已熟悉」後，該題就會從清單消失；取消書籤後，該重點也會消失。清單應該會越來越短。</span></p></div></section>
 <main class="wrap qz" id="rv">
-<h2 id="rv-mistakes-h"><span class="en">Missed questions</span><span class="zh">答錯的題目</span></h2>
+<div class="chips rv-tabs" role="tablist">
+<button class="chip on" type="button" data-tab="mistakes" role="tab" aria-selected="true"><span class="en">Missed Questions</span><span class="zh">答錯的題目</span><b class="cnt" id="rv-tab-q-n" hidden>0</b></button>
+<button class="chip" type="button" data-tab="bookmarks" role="tab" aria-selected="false"><span class="en">Bookmarked Points</span><span class="zh">書籤重點</span><b class="cnt" id="rv-tab-bm-n" hidden>0</b></button>
+</div>
+<section id="rv-panel-mistakes" class="rv-panel">
 <div id="rv-empty" class="card setup rv" hidden><h3><span class="en">Nothing to review 🎉</span><span class="zh">沒有要複習的題目 🎉</span></h3>
 <p class="note"><span class="en">Missed questions from chapter Practice Questions will show up here.</span><span class="zh">章節練習題答錯時會出現在這裡。</span></p>
 <div class="cta"><a class="btn pri big" href="index.html#chapters"><span class="en">Browse chapters</span><span class="zh">瀏覽章節</span></a></div></div>
 <div id="rv-list"></div>
-<h2 id="rv-bm-h"><span class="en">Bookmarked points</span><span class="zh">已加書籤的重點</span></h2>
+</section>
+<section id="rv-panel-bookmarks" class="rv-panel" hidden>
 <div id="rv-bm-empty" class="card setup rv" hidden><h3><span class="en">No bookmarks yet</span><span class="zh">尚無書籤</span></h3>
-<p class="note"><span class="en">Tap the ribbon icon next to any Test-critical point or mnemonic to save it here for a focused second pass.</span><span class="zh">點擊「考試關鍵點」或「記憶口訣」旁的書籤圖示，即可存到這裡做第二輪重點複習。</span></p>
+<p class="note"><span class="en">Tap the ribbon icon next to any chapter summary topic, Test-critical point or mnemonic to save it here for a focused second pass.</span><span class="zh">點擊「章節重點」「考試關鍵點」或「記憶口訣」旁的書籤圖示，即可存到這裡做第二輪重點複習。</span></p>
 <div class="cta"><a class="btn pri big" href="index.html#chapters"><span class="en">Browse chapters</span><span class="zh">瀏覽章節</span></a></div></div>
 <div id="rv-bm-list"></div>
+</section>
 </main>
 
 <footer><p class="en">Original summaries of <em>Saunders Comprehensive Review for the NCLEX-RN® Examination</em>. Page tags show the PDF page and the printed book page of the source. For personal study only; not affiliated with the publisher.</p>
 <p class="zh">本站為《Saunders Comprehensive Review for the NCLEX-RN® Examination》重點整理。頁碼標籤標示 PDF 頁碼與書本印刷頁碼。僅供個人學習，與出版社無關。</p><p class="resetrow"><span class="en">Progress is saved only in this browser.</span><span class="zh">進度只儲存在此瀏覽器。</span> <button class="linkbtn" id="export-progress" type="button"><span class="en">Export to file</span><span class="zh">匯出備份檔</span></button> <button class="linkbtn" id="import-progress" type="button"><span class="en">Import from file</span><span class="zh">從備份檔匯入</span></button> <button class="linkbtn" id="reset-all" type="button"><span class="en">Reset all progress</span><span class="zh">重置全部進度</span></button><input type="file" id="import-file" accept="application/json" hidden></p></footer>
 <canvas id="fx" aria-hidden="true"></canvas><div class="toasts" aria-live="polite"></div>
-<script src="assets/app.js?v=a23d01dd"></script></body></html>
+<script src="assets/app.js?v=33c3e3f7"></script></body></html>
