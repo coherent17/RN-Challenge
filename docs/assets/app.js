@@ -208,7 +208,7 @@ fillBookLabels(qq)}
 btns.forEach(function(b){b.onclick=function(){if(qq.classList.contains('done'))return;if(multi)b.classList.toggle('sel');else{btns.forEach(function(x){x.classList.remove('sel')});b.classList.add('sel');grade()}}});if(chk)chk.onclick=grade})
 });
 fetch(BASE+'search.json').then(function(r){return r.json()}).then(function(sd){
-var byKey={};sd.items.forEach(function(it){if(it[1]==='c'||it[1]==='m')byKey[it[0]+':'+it[2]]=it});
+var byKey={};sd.items.forEach(function(it){if(it[1]==='c'||it[1]==='m'||it[1]==='h')byKey[it[0]+':'+it[2]]=it});
 function render(){var keys=Object.keys(S.bm).filter(function(k){return S.bm[k]}),rows=[];
 keys.forEach(function(k){var m=/^c(\d+):(.+)$/.exec(k);if(!m)return;var ch=+m[1],id=m[2],it=byKey[ch+':'+id];if(!it)return;rows.push({key:k,ch:ch,id:id,en:it[3],zh:it[4]})});
 if(!rows.length){rbmempty.hidden=false;rbmlist.innerHTML='';return}

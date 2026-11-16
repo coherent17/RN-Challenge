@@ -46,7 +46,7 @@
 <main class="content">
 <p class="lead rv">{{ bi(d.overview) }}</p>
 <h2 id="summary"><span class="en">Chapter summary</span><span class="zh">章節重點摘要</span></h2>
-{% for s in d.sections %}<section class="card sec rv" id="s{{ loop.index }}" data-i="{{ loop.index }}"><h3><span class="num">{{ loop.index }}</span><span class="ttl">{{ bi(s.heading) }}</span></h3><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul><div class="tags">{{ tag(s.refs) }}<button class="learned" type="button" aria-pressed="false"><span class="chk"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span class="en">Got it</span><span class="zh">已學會</span></button></div></section>{% endfor %}
+{% for s in d.sections %}<section class="card sec rv" id="s{{ loop.index }}" data-i="{{ loop.index }}"><h3><span class="num">{{ loop.index }}</span><span class="ttl">{{ bi(s.heading) }}</span></h3><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul><div class="tags">{{ tag(s.refs) }}<button class="learned" type="button" aria-pressed="false"><span class="chk"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span class="en">Got it</span><span class="zh">已學會</span></button>{{ bmbtn('c' ~ chapter.number ~ ':s' ~ loop.index) }}</div></section>{% endfor %}
 
 <h2 id="cards"><span class="en">Flashcards</span><span class="zh">單字卡</span></h2>
 <div class="deck rv" id="deck"><div class="fhead"><span class="fcount"><b id="fc-i">1</b> / {{ d.sections|length }}</span><span class="fknown"><span class="en">Known:</span><span class="zh">已會：</span> <b id="fc-k">0</b></span></div>

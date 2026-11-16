@@ -281,7 +281,7 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
   .pn{grid-template-columns:1fr}.pn .next,.pn .prev{grid-column:1;text-align:left}
   .chlist{grid-template-columns:1fr}.figs{grid-template-columns:repeat(2,1fr);gap:12px}.lb-nav{display:none}.lb-hint{white-space:normal;text-align:center;width:max-content;max-width:92vw}.lb-zl{display:none}
   .fcard,.fdone{height:380px}.face{padding:18px 18px}.fctl .btn{flex:1;justify-content:center;padding:0 12px}
-  .learned{margin-left:0;width:100%;justify-content:center}.sech{font-size:1.5rem}.search{width:100%}.search input{width:100%}
+  .learned{margin-left:0;width:100%;justify-content:center}.sec .bmbtn{margin-left:auto}.sech{font-size:1.5rem}.search{width:100%}.search input{width:100%}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.js .rv{opacity:1;transform:none}.ecg path{stroke-dashoffset:0}}
 
