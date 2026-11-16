@@ -287,14 +287,24 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
 
 /* ===== printable study guide ===== */
 .sg{padding-top:8px;padding-bottom:60px}
-.sgch{padding:26px 0;border-bottom:1px solid var(--line)}.sgch:last-child{border-bottom:0}
+.sgtoc{padding:28px 30px 32px;margin-bottom:34px;border-radius:var(--r);background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow)}
+.sgtoc>h2{margin:0 0 18px;font-size:1.3rem}
+.sgtocpart{margin-bottom:22px}.sgtocpart:last-child{margin-bottom:0}
+.sgtocpart h3{display:flex;align-items:center;gap:10px;margin:0 0 10px;font-size:.98rem;color:var(--achi);padding-bottom:6px;border-bottom:2px solid var(--acsoft)}
+.sgtocpart ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:4px 14px;counter-reset:none}
+.sgtocpart li a{display:flex;gap:8px;align-items:baseline;padding:5px 8px;border-radius:8px;color:var(--ink);font-size:.88rem;line-height:1.3;transition:background .15s,color .15s}
+.sgtocpart li a:hover{background:var(--acsoft);color:var(--achi);text-decoration:none}
+.sgtocpart li a b{flex:none;color:var(--ac);font-weight:800;min-width:1.4em}
+.sgch{padding:26px 0 30px;border-bottom:1px solid var(--line);border-left:4px solid var(--ac);padding-left:20px;margin-bottom:4px}.sgch:last-child{border-bottom:0}
 .sgch h2{display:flex;align-items:center;gap:12px;margin:0 0 10px;font-size:1.4rem}
-.sgno{flex:none;display:grid;place-items:center;width:38px;height:38px;border-radius:12px;background:var(--grad);color:#fff;font-weight:850;font-size:1rem}
+.sgno{flex:none;display:grid;place-items:center;width:38px;height:38px;border-radius:12px;background:var(--grad);color:#fff;font-weight:850;font-size:1rem;box-shadow:0 6px 14px -4px color-mix(in srgb,var(--ac) 60%,transparent)}
 .sgov{color:var(--mut);margin:0 0 16px}
 .sgsec{margin-bottom:14px}.sgsec h3{margin:0 0 6px;font-size:1rem}.sgsec ul{margin:0 0 4px;padding-left:22px}
 .sgh{margin:20px 0 8px;font-size:1.05rem;color:var(--achi)}
 .sgcrit,.sgmn{margin:0;padding-left:22px}.sgcrit li,.sgmn li{margin-bottom:6px}
 .sgp{color:var(--mut);font-size:.78rem;margin-left:6px}
+.sgback{display:inline-block;margin-top:16px;font-size:.82rem;font-weight:700;color:var(--ac)}
+.printjump{display:none}
 /* ===== print / PDF export ===== */
 @media print{
   .top,.scrollbar,#fx,.toasts,.modal,.sov,.lb,.hero .blobs,.hero .ecg,.herorank,.cta,.toc,.jumpwrap,
@@ -311,16 +321,21 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
   .card,.sec,.crit li,.mn li,.dgm{box-shadow:none;border:1px solid #bbb;break-inside:avoid;page-break-inside:avoid}
   .sec,.dgm{margin-bottom:10px}
   .en,.zh{color:#000!important}
+  .printjump{display:flex!important;gap:14px;flex-wrap:wrap;margin:0 0 16px;padding:10px 0;border-bottom:1px solid #999;border-top:1px solid #999}
+  .printjump a{color:#000;font-weight:700;font-size:.85rem;text-decoration:underline}
   .pill{border:1px solid #999;background:none;color:#333}
   .dg-tbl td.hi-acid,.dg-tbl td.hi-alk,.dg-tbl td.hi-low,.dg-tbl td.hi-high{background:#eee!important}
   .dg-tbl td.hi-normal{background:#f5f5f5!important}
   a{color:#000;text-decoration:none}
   h1,h2,h3{color:#000}
-  .sgch{break-before:page;page-break-before:always;border-bottom:0}
-  .sgch:first-child{break-before:avoid;page-break-before:avoid}
+  .sgtoc{break-after:page;page-break-after:always;border:0;box-shadow:none;padding:0}
+  .sgtocpart h3{color:#000;border-bottom-color:#999}
+  .sgtocpart li a{color:#000}.sgtocpart li a b{color:#000}
+  .sgch{break-before:page;page-break-before:always;border-bottom:0;border-left:1px solid #000}
   .sgsec,.sgcrit li,.sgmn li{break-inside:avoid;page-break-inside:avoid}
-  .sgno{background:none;color:#000;border:1px solid #000}
+  .sgno{background:none;color:#000;border:1px solid #000;box-shadow:none}
   .sgh{color:#000}
+  .sgback{color:#000;text-decoration:underline}
 }
 
 /* ===== global search ===== */

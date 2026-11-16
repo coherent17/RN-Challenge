@@ -44,6 +44,7 @@
 {% if d.resources %}<a href="#resources" class="grp"><span class="en">Resources</span><span class="zh">延伸資源</span></a>{% endif %}
 </div></nav>
 <main class="content">
+<nav class="printjump" aria-label="Jump to"><a href="#summary"><span class="en">Summary</span><span class="zh">重點摘要</span></a><a href="#critical"><span class="en">Test-critical</span><span class="zh">考試關鍵</span></a>{% if d.mnemonics %}<a href="#mnemonics"><span class="en">Mnemonics</span><span class="zh">記憶口訣</span></a>{% endif %}{% if d.diagrams %}<a href="#diagrams"><span class="en">Visual summary</span><span class="zh">圖解摘要</span></a>{% endif %}</nav>
 <p class="lead rv">{{ bi(d.overview) }}</p>
 <h2 id="summary"><span class="en">Chapter summary</span><span class="zh">章節重點摘要</span></h2>
 {% for s in d.sections %}<section class="card sec rv" id="s{{ loop.index }}" data-i="{{ loop.index }}"><h3><span class="num">{{ loop.index }}</span><span class="ttl">{{ bi(s.heading) }}</span></h3><ul>{% for p in s.points %}<li>{{ bi(p) }}</li>{% endfor %}</ul><div class="tags">{{ tag(s.refs) }}<button class="learned" type="button" aria-pressed="false"><span class="chk"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span class="en">Got it</span><span class="zh">已學會</span></button>{{ bmbtn('c' ~ chapter.number ~ ':s' ~ loop.index) }}</div></section>{% endfor %}
