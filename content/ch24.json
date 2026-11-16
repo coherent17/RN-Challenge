@@ -52,7 +52,7 @@
        {"en": "Bishop score (dilation, effacement, consistency, position, station) of 8 or more means a favorable cervix for induction.", "zh": "Bishop評分（擴張、變薄、質地、位置、站位）達8分以上代表子宮頸有利於引產。"},
        {"en": "Oxytocin induction: baseline tracing first; do not increase once contractions reach every 2-3 min lasting 60 sec; stop if contractions closer than 2 min, longer than 90 sec, or fetal distress.", "zh": "催產素引產：先取得基準圖形；宮縮達每2至3分鐘、持續60秒即不再加量；宮縮間隔小於2分鐘、持續超過90秒或胎兒窘迫時停藥。"},
        {"en": "Amniotomy at 0 or plus station: risks cord prolapse and infection; check FHR before and after, note fluid color (meconium = distress, bloody = abruption, foul = infection).", "zh": "人工破水於站位0或正值時進行：有臍帶脫垂與感染風險；破水前後檢查胎心，記錄羊水顏色（胎便＝窘迫、血性＝胎盤早剝、臭味＝感染）。"},
-       {"en": "External version after 34 weeks: give RhoGAM if Rh-negative, nonstress test afterward, Kleihauer-Betke test.", "zh": "外轉胎位術於34週後進行：Rh陰性者確認已給予RhoGAM，術後做無壓力試驗與Kleihauer-Betke試驗。"},
+       {"en": "External version after 34 weeks: for Rh-negative clients, confirm RhoGAM was already given at 28 weeks (not administered during the procedure); a nonstress test is done both before and after; Kleihauer-Betke test afterward.", "zh": "外轉胎位術於34週後進行：Rh陰性者應確認28週時已給予RhoGAM（非於此時才給藥）；術前與術後皆需做無壓力試驗；術後加做Kleihauer-Betke試驗。"},
        {"en": "Episiotomy: ice 24 hours then sitz baths; front-to-back, blot dry. Forceps/vacuum: check infant for injury; vacuum no longer than 25 minutes; watch for cephalhematoma (caput resolves in 24 hr).", "zh": "會陰切開：24小時冰敷後改坐浴；由前往後、輕拍擦乾。產鉗與真空吸引：檢查新生兒有無傷害；真空吸引不超過25分鐘；注意頭血腫（產瘤24小時內消退）。"},
        {"en": "Cesarean: consent, IV, Foley, Rh status; postop watch for UTI, endometritis (tender uterus, foul lochia), pneumonia, thrombophlebitis.", "zh": "剖腹產：同意書、靜脈留置、導尿、確認Rh；術後注意泌尿道感染、子宮內膜炎（子宮壓痛、惡露惡臭）、肺炎、血栓靜脈炎。"}
      ], "pdf_pages": [370, 371, 372]}
@@ -62,7 +62,7 @@
     {"en": "Late decelerations = uteroplacental insufficiency: turn side-lying, oxygen 8-10 L/min by face mask, IV fluids, stop oxytocin, notify provider.", "zh": "晚期減速＝子宮胎盤功能不全：側臥、面罩給氧8至10 L/分、靜脈輸液、停催產素、通知醫師。", "pdf_pages": [367, 374]},
     {"en": "Variable decelerations = cord compression: stop oxytocin, reposition, oxygen, assist with amnioinfusion if prescribed.", "zh": "變異減速＝臍帶受壓：停催產素、變換姿勢、給氧、依醫囑協助羊水灌注。", "pdf_pages": [367, 368]},
     {"en": "Early decelerations and accelerations are reassuring; early decelerations need no intervention.", "zh": "早期減速與加速為安心圖形；早期減速不需處置。", "pdf_pages": [366, 367]},
-    {"en": "Nonreassuring patterns: bradycardia, tachycardia, late or prolonged decelerations, hypertonic uterus, absent variability, severe variables (<70 bpm for >60 sec).", "zh": "不安心圖形：心搏過緩、過速、晚期或延長減速、子宮張力過高、變異性消失、嚴重變異減速（低於70次/分超過60秒）。", "pdf_pages": [367]},
+    {"en": "Nonreassuring patterns: bradycardia, tachycardia, late or prolonged decelerations, hypertonic uterus, decreased or absent variability, severe variables (<70 bpm for >60 sec).", "zh": "不安心圖形：心搏過緩、過速、晚期或延長減速、子宮張力過高、變異性減少或消失、嚴重變異減速（低於70次/分超過60秒）。", "pdf_pages": [367]},
     {"en": "If oxytocin is running and fetal distress or hyperstimulation appears, the priority is to stop the oxytocin infusion.", "zh": "使用催產素時若出現胎兒窘迫或過度刺激，首要處置為停止催產素。", "pdf_pages": [371, 375]},
     {"en": "After rupture of membranes (spontaneous or amniotomy) check FHR first because of cord prolapse risk.", "zh": "破水後（自然或人工）首先確認胎心率，以排除臍帶脫垂。", "pdf_pages": [369, 371, 375]},
     {"en": "Avoid supine position: use side-lying or a wedge under the right hip to prevent vena cava compression, including on the cesarean table.", "zh": "避免仰臥：採側臥或右臀下墊楔形枕，以防下腔靜脈受壓，剖腹產手術台亦然。", "pdf_pages": [366, 370, 374]},
@@ -75,7 +75,7 @@
   ],
   "mnemonics": [
     {"en": "VEAL CHOP: Variable decels - Cord compression; Early - Head compression; Accelerations - OK; Late - Placental insufficiency.", "zh": "VEAL CHOP：變異減速－臍帶受壓；早期－胎頭受壓；加速－正常；晚期－胎盤功能不全。", "pdf_pages": [367]},
-    {"en": "Cardinal movements: \"EDFIREE\" - Engagement, Descent, Flexion, Internal rotation, Extension, Restitution/External rotation, Expulsion.", "zh": "分娩機轉口訣：入盆、下降、屈曲、內旋轉、伸展、復位與外旋轉、娩出。", "pdf_pages": [365]},
+    {"en": "Cardinal movements: \"EDFIEREE\" - Engagement, Descent, Flexion, Internal rotation, Extension, Restitution, External rotation, Expulsion.", "zh": "分娩機轉口訣：入盆、下降、屈曲、內旋轉、伸展、復位、外旋轉、娩出。", "pdf_pages": [365]},
     {"en": "4 Ps of labor: Powers, Passageway, Passenger, Psyche.", "zh": "分娩4P：產力、產道、胎兒、心理。", "pdf_pages": [363]}
   ],
   "figures": [

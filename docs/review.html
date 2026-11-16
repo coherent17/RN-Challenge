@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#5b5bf0">
 <title>Review Mistakes · NCLEX-RN Study Guide</title>
-<link rel="stylesheet" href="assets/style.css?v=fe92c4bf">
+<link rel="stylesheet" href="assets/style.css?v=573955b7">
 <script>try{var l=new URLSearchParams(location.search).get('lang')||localStorage.getItem('lang')||(navigator.language||'').toLowerCase().startsWith('zh')&&'zh'||'en';document.documentElement.dataset.lang=l}catch(e){}document.documentElement.classList.add('js')</script>
 </head>
 <body data-page="review" >
@@ -21,14 +21,22 @@
 
 <section class="hero quiz"><div class="blobs"><i></i><i></i><i></i></div><div class="wrap">
 <p class="eyebrow"><span class="en">Review</span><span class="zh">複習</span></p>
-<h1><span class="en">Every question you've missed, <em>in one place</em></span><span class="zh">把答錯的題目<em>集中在這裡</em></span></h1>
-<p class="lead"><span class="en">Pulled from your Practice Questions on each chapter page. Answer again — a question drops off this list once you get it right.</span><span class="zh">來自各章節頁面的練習題。重新作答，答對後該題就會從清單中移除。</span></p></div></section>
-<main class="wrap qz" id="rv"><div id="rv-empty" class="card setup rv" hidden><h3><span class="en">Nothing to review 🎉</span><span class="zh">沒有要複習的題目 🎉</span></h3>
+<h1><span class="en">Missed questions and bookmarks, <em>in one place</em></span><span class="zh">把答錯的題目與書籤<em>集中在這裡</em></span></h1>
+<p class="lead"><span class="en">Pulled from your Practice Questions and the bookmark button on critical points and mnemonics. Answer a question again or unbookmark a point, and it drops off the list.</span><span class="zh">來自各章節的練習題與考試關鍵點/記憶口訣上的書籤按鈕。重新作答或取消書籤後，該項目就會從清單中移除。</span></p></div></section>
+<main class="wrap qz" id="rv">
+<h2 id="rv-mistakes-h"><span class="en">Missed questions</span><span class="zh">答錯的題目</span></h2>
+<div id="rv-empty" class="card setup rv" hidden><h3><span class="en">Nothing to review 🎉</span><span class="zh">沒有要複習的題目 🎉</span></h3>
 <p class="note"><span class="en">Missed questions from chapter Practice Questions will show up here.</span><span class="zh">章節練習題答錯時會出現在這裡。</span></p>
 <div class="cta"><a class="btn pri big" href="index.html#chapters"><span class="en">Browse chapters</span><span class="zh">瀏覽章節</span></a></div></div>
-<div id="rv-list"></div></main>
+<div id="rv-list"></div>
+<h2 id="rv-bm-h"><span class="en">Bookmarked points</span><span class="zh">已加書籤的重點</span></h2>
+<div id="rv-bm-empty" class="card setup rv" hidden><h3><span class="en">No bookmarks yet</span><span class="zh">尚無書籤</span></h3>
+<p class="note"><span class="en">Tap the ribbon icon next to any Test-critical point or mnemonic to save it here for a focused second pass.</span><span class="zh">點擊「考試關鍵點」或「記憶口訣」旁的書籤圖示，即可存到這裡做第二輪重點複習。</span></p>
+<div class="cta"><a class="btn pri big" href="index.html#chapters"><span class="en">Browse chapters</span><span class="zh">瀏覽章節</span></a></div></div>
+<div id="rv-bm-list"></div>
+</main>
 
 <footer><p class="en">Original summaries of <em>Saunders Comprehensive Review for the NCLEX-RN® Examination</em>. Page tags show the PDF page and the printed book page of the source. For personal study only; not affiliated with the publisher.</p>
-<p class="zh">本站為《Saunders Comprehensive Review for the NCLEX-RN® Examination》重點整理。頁碼標籤標示 PDF 頁碼與書本印刷頁碼。僅供個人學習，與出版社無關。</p><p class="resetrow"><span class="en">Progress is saved only in this browser.</span><span class="zh">進度只儲存在此瀏覽器。</span> <button class="linkbtn" id="reset-all" type="button"><span class="en">Reset all progress</span><span class="zh">重置全部進度</span></button></p></footer>
+<p class="zh">本站為《Saunders Comprehensive Review for the NCLEX-RN® Examination》重點整理。頁碼標籤標示 PDF 頁碼與書本印刷頁碼。僅供個人學習，與出版社無關。</p><p class="resetrow"><span class="en">Progress is saved only in this browser.</span><span class="zh">進度只儲存在此瀏覽器。</span> <button class="linkbtn" id="export-progress" type="button"><span class="en">Export to file</span><span class="zh">匯出備份檔</span></button> <button class="linkbtn" id="import-progress" type="button"><span class="en">Import from file</span><span class="zh">從備份檔匯入</span></button> <button class="linkbtn" id="reset-all" type="button"><span class="en">Reset all progress</span><span class="zh">重置全部進度</span></button><input type="file" id="import-file" accept="application/json" hidden></p></footer>
 <canvas id="fx" aria-hidden="true"></canvas><div class="toasts" aria-live="polite"></div>
-<script src="assets/app.js?v=fe92c4bf"></script></body></html>
+<script src="assets/app.js?v=573955b7"></script></body></html>
