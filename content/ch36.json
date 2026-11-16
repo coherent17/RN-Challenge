@@ -44,8 +44,8 @@
    },
    "points": [
     {
-     "en": "Viral (parainfluenza 2 and 3, RSV, influenza), under 5 years, gradual onset after URI.",
-     "zh": "病毒性（副流感 2、3 型、RSV、流感），5 歲以下，上呼吸道感染後逐漸發生。"
+     "en": "Usually viral (parainfluenza 2 and 3, RSV, influenza) but can also be bacterial; under 5 years, gradual onset after URI.",
+     "zh": "多為病毒性（副流感 2、3 型、RSV、流感），但也可能是細菌性；好發於 5 歲以下，常於上呼吸道感染後逐漸發生。"
     },
     {
      "en": "Stages (Box 36.1): I low fever, hoarseness, seal-bark cough, inspiratory stridor; II continuous stridor, retractions; III restlessness, pallor, tachypnea, hypoxia; IV cyanosis, apnea.",
@@ -647,7 +647,7 @@
      "zh": "抬高 30–40 度頸稍伸展"
     },
     {
-     "en": "Place in a room with another infant with RSV only if unavailable",
+     "en": "Place the infant in a room with another infant who does not have RSV",
      "zh": "可與其他非 RSV 嬰兒同房"
     },
     {

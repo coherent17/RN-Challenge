@@ -50,12 +50,12 @@
       {"en": "Serum potassium of 3.1 mEq/L (3.1 mmol/L)", "zh": "血清鉀3.1 mEq/L（3.1 mmol/L）"},
       {"en": "Muscle weakness and leg cramping", "zh": "肌肉無力與小腿抽筋"},
       {"en": "Increased restlessness and confusion", "zh": "躁動不安與意識混亂加重"},
-      {"en": "Flattened T waves with prominent U waves on the ECG", "zh": "心電圖上T波平坦合併明顯U波"},
+      {"en": "Inverted T waves with prominent U waves on the ECG", "zh": "心電圖上T波倒置合併明顯U波"},
       {"en": "Bounding peripheral pulses", "zh": "周邊脈搏洪大"},
       {"en": "Serum potassium of 4.6 mEq/L (4.6 mmol/L)", "zh": "血清鉀4.6 mEq/L（4.6 mmol/L）"}
     ],
     "answer": [0, 1, 2, 3],
-    "rationale": {"en": "Hypokalemia (potassium below 3.5 mEq/L) presents with muscle weakness/cramping, confusion, irritability/restlessness, and flattened T waves or prominent U waves on the ECG. Because hypokalemia potentiates digoxin toxicity, these findings must be reported promptly. A potassium of 4.6 mEq/L is within the normal range (3.5-5.0), and bounding pulses are unrelated to hypokalemia.", "zh": "低血鉀（K+ <3.5 mEq/L）表現為肌肉無力/抽筋、意識混亂、躁動不安，以及心電圖T波平坦/U波明顯；因低血鉀會加重毛地黃中毒風險，須及時通報。血鉀4.6 mEq/L屬正常範圍（3.5-5.0），脈搏洪大與低血鉀無關。"},
+    "rationale": {"en": "Hypokalemia (potassium below 3.5 mEq/L) presents with muscle weakness/cramping, confusion, irritability/restlessness, and inverted T waves or prominent U waves on the ECG. Because hypokalemia potentiates digoxin toxicity, these findings must be reported promptly. A potassium of 4.6 mEq/L is within the normal range (3.5-5.0), and bounding pulses are unrelated to hypokalemia.", "zh": "低血鉀（K+ <3.5 mEq/L）表現為肌肉無力/抽筋、意識混亂、躁動不安，以及心電圖T波倒置/U波明顯；因低血鉀會加重毛地黃中毒風險，須及時通報。血鉀4.6 mEq/L屬正常範圍（3.5-5.0），脈搏洪大與低血鉀無關。"},
     "pdf_pages": [521],
     "tags": ["sata", "medication safety", "labs"]
   },
