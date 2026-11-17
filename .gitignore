@@ -4,3 +4,4 @@ __pycache__/
 site-local/
 !docs/book.pdf
 docs/figures/
+docs/pages/

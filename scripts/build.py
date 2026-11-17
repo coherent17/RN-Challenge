@@ -19,8 +19,10 @@ PART_ZH = {"I": "NCLEX-RN 考試準備", "II": "護理專業標準", "III": "照
  "XIV": "成人眼耳問題", "XV": "成人神經問題", "XVI": "成人肌肉骨骼問題", "XVII": "成人免疫問題",
  "XVIII": "成人心理健康問題", "XIX": "複雜照護"}
 
+rendered_pages = set()   # populated below: pdf pages that have a pre-rendered preview JPEG (for fast citation previews)
 def pg(p):
-    return {"pdf": p, "book": labels.get(str(p), "?"), "img": f"book.pdf#page={p}" if (docs / "book.pdf").exists() else None}
+    return {"pdf": p, "book": labels.get(str(p), "?"), "img": f"book.pdf#page={p}" if (docs / "book.pdf").exists() else None,
+            "thumb": f"pages/{p:04d}.jpg" if p in rendered_pages else None}
 def pagerefs(lst):
     return [pg(p) for p in lst or []]
 
@@ -41,6 +43,43 @@ for c in chapters:
     c["ready"] = d is not None
     c["part_zh"] = PART_ZH.get(c["part"]["roman"], c["part"]["title"])
     c["range"] = {"pdf": f"{c['pdf_start']}–{c['pdf_end']}", "book": f"{c['printed_start']}–{c['printed_end']}"}
+
+# ---- pre-render every cited book page as a small JPEG, for instant citation/figure previews ----
+# (avoids loading the PDF.js viewer against the 85MB book.pdf just to show a thumbnail or a
+# single cited page; the full interactive PDF.js viewer is still used when a reader opens the
+# lightbox, pre-rendered JPEGs just make that open instant instead of a multi-second page-tree walk)
+BOOK = root / "docs/book.pdf"
+if BOOK.exists():
+    cited = set()
+    for d in content.values():
+        for key in ("sections", "critical_points", "mnemonics", "questions"):
+            for x in d.get(key, []):
+                cited.update(x.get("pdf_pages") or [])
+        for g in d.get("figures", []):
+            if g.get("pdf_page"):
+                cited.add(g["pdf_page"])
+    for qs in examq.values():
+        for q in qs:
+            cited.update(q.get("pdf_pages") or [])
+    try:
+        import fitz
+        page_dir = docs / "pages"; page_dir.mkdir(exist_ok=True)
+        src_mtime = BOOK.stat().st_mtime
+        bookdoc = None
+        for p in sorted(cited):
+            out = page_dir / f"{p:04d}.jpg"
+            if out.exists() and out.stat().st_mtime >= src_mtime:
+                rendered_pages.add(p); continue
+            if bookdoc is None:
+                bookdoc = fitz.open(BOOK)
+            if 1 <= p <= bookdoc.page_count:
+                pix = bookdoc.load_page(p - 1).get_pixmap(dpi=140)
+                out.write_bytes(pix.tobytes("jpeg", jpg_quality=76))
+                rendered_pages.add(p)
+        if bookdoc:
+            bookdoc.close()
+    except ImportError:
+        print("pymupdf not installed - skipping pre-rendered page previews (pip install pymupdf)")
 
 env = Environment(loader=FileSystemLoader(str(root / "scripts/templates")), autoescape=select_autoescape(["html"]))
 env.globals["pagerefs"] = pagerefs
@@ -171,4 +210,4 @@ for i, c in enumerate(chapters):
                   prev=chapters[i - 1] if i else None, next=chapters[i + 1] if i + 1 < len(chapters) else None)
     (docs / f"ch{c['number']:02d}.html").write_text(page, encoding="utf-8")
 (docs / ".nojekyll").write_text("")
-print(f"{'LOCAL ' if LOCAL else ''}built {len(chapters)} pages ({len(content)} with content), {len(qdata)} quiz questions ({sum(len(v) for v in examq.values())} from examq, {sum(len(v) for v in ext_by_ch.values())} from free UWorld samples)")
+print(f"{'LOCAL ' if LOCAL else ''}built {len(chapters)} pages ({len(content)} with content), {len(qdata)} quiz questions ({sum(len(v) for v in examq.values())} from examq, {sum(len(v) for v in ext_by_ch.values())} from free UWorld samples), {len(rendered_pages)} page previews rendered")
