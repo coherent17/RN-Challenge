@@ -294,7 +294,7 @@ function computeFit(){fit=Math.min(st.clientWidth/vpw,st.clientHeight/vph)}
 function applySize(){if(!cv)return;var w=vpw*fit*z,h=vph*fit*z;cv.style.width=w+'px';cv.style.height=h+'px';if(wrapEl){wrapEl.style.width=w+'px';wrapEl.style.height=h+'px'}}
 function updZ(){$('.lb-zl',lb).textContent=Math.round(z*100)+'%'}
 function zoomCenter(nz){var r=st.getBoundingClientRect();setZ(nz,r.left+r.width/2,r.top+r.height/2)}
-function setZ(nz,cx,cy){nz=Math.max(1,Math.min(ZMAX,nz));if(!cv||nz===z)return;var r=cv.getBoundingClientRect(),fx=Math.min(1,Math.max(0,(cx-r.left)/r.width)),fy=Math.min(1,Math.max(0,(cy-r.top)/r.height));
+function setZ(nz,cx,cy){nz=Math.max(1,Math.min(ZMAX,nz));if(!cv||!curPage||nz===z)return;var r=cv.getBoundingClientRect(),fx=Math.min(1,Math.max(0,(cx-r.left)/r.width)),fy=Math.min(1,Math.max(0,(cy-r.top)/r.height));
 z=nz;applySize();var r2=cv.getBoundingClientRect();st.scrollLeft+=r2.left+fx*r2.width-cx;st.scrollTop+=r2.top+fy*r2.height-cy;if(z<=1.001){st.scrollLeft=0;st.scrollTop=0}
 updZ();clearTimeout(rtimer);rtimer=setTimeout(renderCurrent,180)}
 function renderCurrent(){if(!curPage)return;var my=++rid,page=curPage,k=Math.min(window.devicePixelRatio||1,2.5),cssW=vpw*fit*z,cssH=vph*fit*z,px=cssW*k*cssH*k;if(px>3.6e7)k*=Math.sqrt(3.6e7/px);
