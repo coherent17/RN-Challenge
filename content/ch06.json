@@ -100,6 +100,10 @@
      "zh": "自行投保責任險可有只為護理師利益的律師；好撒馬利亞人法保護提供合理且無償緊急救助者。"
     },
     {
+     "en": "Sources of law affecting nurses include constitutional, statutory, common/case, and administrative law. Civil law (standard of proof: preponderance of the evidence) covers contracts and torts, both intentional (e.g., assault, battery, false imprisonment, invasion of privacy, defamation, fraud) and unintentional (negligence/malpractice); criminal law (standard of proof: beyond a reasonable doubt) covers felonies and misdemeanors, such as manslaughter or Nurse Practice Act violations.",
+     "zh": "影響護理師的法律來源包括憲法、法規（statutory）、普通法/案例法與行政法。民事法（舉證標準為證據優勢）涵蓋契約與侵權行為，侵權行為分為故意（如傷害威脅、傷害行為、非法拘禁、侵犯隱私、毀謗、詐欺）與非故意（過失/醫療疏失）；刑事法（舉證標準為無合理懷疑）涵蓋重罪與輕罪，例如過失致死或違反護理執業法。"
+    },
+    {
      "en": "Controlled substances: locked, signed out, inventory counted.",
      "zh": "管制藥品：上鎖、簽領、清點庫存。"
     },
@@ -170,6 +174,10 @@
     {
      "en": "Minors need parent/guardian consent except in emergencies, emancipated minors, or services like STI, HIV, birth control, pregnancy, substance abuse and psychiatric care in many states.",
      "zh": "未成年人需父母或監護人同意，除非緊急、已解除監護的未成年人，或多州允許自行同意的服務（性傳染病、HIV、避孕、懷孕、物質濫用、精神科）。"
+    },
+    {
+     "en": "Besides general informed consent, specific forms exist: admission agreement (facility's responsibility to the client), immunization consent, blood transfusion consent (some clients hold religious beliefs that prohibit transfusion even if life-threatening), surgical consent, research consent (risks/benefits of a study), and special consents (restraints, photographs, disposal of body parts, organ donation, autopsy).",
+     "zh": "除一般知情同意外，尚有其他特定同意書：入院同意書（說明機構對病人的責任）、疫苗接種同意書、輸血同意書（部分病人因宗教信仰拒絕輸血，即使情況危及生命）、手術同意書、研究同意書（說明研究的風險與益處），以及特殊同意書（約束、拍照、手術中處置器官組織、器官捐贈、驗屍）。"
     }
    ],
    "pdf_pages": [
@@ -232,6 +240,10 @@
     {
      "en": "Document teaching: what was taught, understanding, who was present.",
      "zh": "記錄衛教：教了什麼、理解程度、在場者。"
+    },
+    {
+     "en": "Safeguarding valuables: give to family or lock in agency safekeeping and document the location; agencies often require a release form; a wedding band may be taped in place unless there is risk of finger swelling; religious items may be pinned to the gown per policy.",
+     "zh": "保管貴重物品：交給家屬或鎖存於機構保險設施並記錄存放位置；機構常需簽署免責聲明；婚戒可用膠帶固定於手指，除非有手指腫脹風險；宗教物品可依政策別於病人衣袍上。"
     }
    ],
    "pdf_pages": [
@@ -315,7 +327,7 @@
    "en": "A sedated, intoxicated, or unconscious client cannot give informed consent.",
    "zh": "受鎮靜、醉酒或昏迷者不能給予知情同意。",
    "pdf_pages": [
-    78
+    77
    ]
   },
   {
@@ -650,8 +662,8 @@
      "zh": "填寫事件報告"
     },
     {
-     "en": "Modify the entry silently",
-     "zh": "悄悄修改記錄"
+     "en": "Correct the entry in the record per agency policy (e.g., right-click and amend in the EHR)",
+     "zh": "依機構政策更正記錄（如於電子病歷中點選並修改該筆記錄）"
     },
     {
      "en": "Document the correction with signature and title",
@@ -667,14 +679,14 @@
     }
    ],
    "answer": [
-    0,
+    1,
     2,
     3,
     4
    ],
    "rationale": {
-    "en": "Errors are corrected transparently per policy; silent edits are not acceptable.",
-    "zh": "錯誤須依政策公開更正，不可悄悄修改。"
+    "en": "The nurse corrects the entry per agency policy (e.g., amending the EHR record), documents the correction with signature and title, obtains a cosignature from the RN who witnessed the wasted opioid, and writes a nurse's note detailing the correction. An occurrence report is not necessary for a documentation correction of this kind.",
+    "zh": "護理師應依機構政策更正記錄（如修改電子病歷），記錄更正內容並簽名與職稱，取得見證浪費鴉片類藥物的護理師共同簽名，並寫護理記錄說明更正內容。此類文件更正不需填寫事件報告。"
    },
    "pdf_pages": [
     81,
@@ -713,12 +725,13 @@
     }
    ],
    "answer": [
+    0,
     1,
     4
    ],
    "rationale": {
-    "en": "Document objective measurable findings; avoid interpretations and judgments.",
-    "zh": "記錄客觀可測量的發現；避免推測與評斷。"
+    "en": "Accurate documentation is descriptive and objective. A direct observation such as the client sleeping through the night, a dressing assessment, and an objective wound measurement are all acceptable. Vague, judgmental words such as 'seemed' or 'appears' suggest the nurse is stating an opinion rather than an observed fact and are not acceptable.",
+    "zh": "正確的記錄應具描述性且客觀。直接觀察（如病人整夜睡眠）、傷口敷料評估與客觀的傷口測量皆為可接受的記錄。使用『似乎』等含糊、帶評斷性的字眼，顯示護理師在陳述個人看法而非觀察到的事實，故不可接受。"
    },
    "pdf_pages": [
     81,

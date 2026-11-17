@@ -101,7 +101,7 @@
   },
   {
     "cat": "PH",
-    "stem": {"en": "Losartan is prescribed for a client with heart failure. After administering the first dose, which assessment is the priority?", "zh": "心臟衰竭病人被開立Losartan(Losartan)。給予第一劑之後,護理師應優先評估的項目是什麼?"},
+    "stem": {"en": "Lisinopril is prescribed for a client with heart failure. After administering the first dose, which assessment is the priority?", "zh": "心臟衰竭病人被開立Lisinopril(Lisinopril)。給予第一劑之後,護理師應優先評估的項目是什麼?"},
     "options": [
       {"en": "Daily weight", "zh": "每日體重"},
       {"en": "Blood pressure", "zh": "血壓"},
@@ -109,7 +109,7 @@
       {"en": "Urine output", "zh": "尿量"}
     ],
     "answer": [1],
-    "rationale": {"en": "Angiotensin receptor blockers such as losartan carry a risk of significant hypotension with the first dose, particularly in clients who are volume-depleted, as can occur in heart failure. Blood pressure is the priority assessment immediately after the first dose, while weight, creatinine, and urine output are important but are monitored over a longer trend rather than as the immediate priority.", "zh": "像Losartan這類血管張力素受體阻斷劑,在首劑給藥後有造成明顯低血壓的風險,尤其對體液不足的病人(如心臟衰竭病人)更為顯著。因此給予第一劑之後,血壓是優先評估項目;而體重、肌酸酐與尿量雖然重要,但屬於長期追蹤的指標,並非立即的優先項目。"},
+    "rationale": {"en": "ACE inhibitors, recognized by the name stem \"-pril\" such as lisinopril, carry a risk of significant first-dose hypotension, particularly in clients who are volume-depleted, as can occur in heart failure. Blood pressure is the priority assessment immediately after the first dose, while weight, creatinine, and urine output are important but are monitored over a longer trend rather than as the immediate priority.", "zh": "ACE 抑制劑(藥名字尾為「-pril」,如 Lisinopril)在首劑給藥後有造成明顯低血壓的風險,尤其對體液不足的病人(如心臟衰竭病人)更為顯著。因此給予第一劑之後,血壓是優先評估項目;而體重、肌酸酐與尿量雖然重要,但屬於長期追蹤的指標,並非立即的優先項目。"},
     "pdf_pages": [55],
     "tags": ["pharmacology", "priority", "first dose"]
   },
@@ -125,7 +125,7 @@
     ],
     "answer": [0, 1, 3, 4],
     "rationale": {"en": "The heart rate is rising, the blood pressure is falling, the urine output is declining, and the lactate level is rising — all abnormal and worsening trends consistent with progressing septic shock and impaired tissue perfusion, requiring immediate follow-up. The oral temperature has remained within the normal range and essentially unchanged across all three time points, so it is not an immediate concern.", "zh": "心跳持續上升、血壓持續下降、尿量持續減少、乳酸值持續上升,這些都是異常且持續惡化的趨勢,符合敗血性休克進展及組織灌流不良的表現,需要立即追蹤處理。口溫在三個時間點皆維持在正常範圍且基本沒有變化,因此並非立即需要關注的項目。"},
-    "pdf_pages": [44, 45],
+    "pdf_pages": [45, 46],
     "tags": ["trend analysis", "sata", "sepsis", "recognize cues"]
   },
   {
@@ -139,7 +139,7 @@
     ],
     "answer": [2],
     "rationale": {"en": "Soaking the feet in hot water is unsafe for a client with diabetes because peripheral neuropathy may prevent the client from accurately sensing water temperature, creating a risk for burns; this statement indicates a need for further teaching. Daily inspection, proper nail trimming, and wearing protective, well-fitting footwear all reflect correct diabetic foot care.", "zh": "對糖尿病病人而言,用熱水泡腳並不安全,因為周邊神經病變可能使病人無法正確感受水溫,造成燙傷風險;此說法顯示仍需進一步教導。每日檢查足部、正確修剪指甲,以及穿著合腳且具保護性的鞋襪,皆屬正確的糖尿病足部照護方式。"},
-    "pdf_pages": [53],
+    "pdf_pages": [52],
     "tags": ["negative event query", "client teaching", "diabetes"]
   },
   {

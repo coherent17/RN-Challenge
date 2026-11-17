@@ -234,6 +234,10 @@
      "zh": "依全國標準與護理執業法；假設理想狀況且設備齊全（例：胸管脫出，用無菌敷料覆蓋傷口）。"
     },
     {
+     "en": "LPN/LVN may reinforce teaching the RN already started, but may not initiate new client teaching; per the PN test plan, an LPN/LVN may also give select piggyback IV medications.",
+     "zh": "LPN/LVN 可強化 RN 已開始的衛教，但不可自行開始新的衛教；依 PN 考試計畫，LPN/LVN 亦可給予部分背袋式（piggyback）靜脈藥物。"
+    },
+    {
      "en": "Pharmacology: identify drug class from name stems (-lol beta blocker, -pril ACE inhibitor), know the question focus (intended, side, adverse, toxic effect).",
      "zh": "藥理：由藥名字尾辨識類別（-lol 乙型阻斷劑、-pril ACE 抑制劑），確認題目焦點（預期、副作用、不良反應、毒性）。"
     },
@@ -532,9 +536,9 @@
     "zh": "應假設題中病人是唯一病人，且資源齊備。"
    },
    "pdf_pages": [
+    48,
     53,
-    54,
-    51
+    54
    ],
    "source": {
     "type": "original",

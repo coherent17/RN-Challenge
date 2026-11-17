@@ -124,6 +124,10 @@
     {
      "en": "Use social work and refer the uninsured to Medicaid or financial services; lack of insurance leads to missed preventive care.",
      "zh": "運用社工，並轉介無保險者申請 Medicaid 或財務服務；缺乏保險導致預防照護缺漏。"
+    },
+    {
+     "en": "Disability from illness can become a barrier to employment that worsens homelessness; infants affected by homelessness often have low birth weight and a higher risk of death within the first 12 months of life than infants in other populations.",
+     "zh": "疾病造成的失能可能成為就業障礙，使無家可歸問題加劇；受無家可歸影響的嬰兒常有低出生體重，且出生後12個月內死亡風險高於其他族群嬰兒。"
     }
    ],
    "pdf_pages": [
@@ -142,8 +146,16 @@
      "zh": "智能障礙病人症狀可能不典型；問診需花更多時間並以不同方式提問；評估噎嗆/吸入風險；行為改變可能是疾病訊號。"
     },
     {
+     "en": "Common health conditions in intellectually disabled clients include motor deficits, epilepsy, allergies, otitis media, GERD, dysmenorrhea, sleep problems, mental health problems, vision/hearing impairment, constipation and oral health problems; these are often underrecognized because of atypical symptom presentation.",
+     "zh": "智能障礙病人常見健康問題包括動作缺損、癲癇、過敏、中耳炎、胃食道逆流、痛經、睡眠問題、心理健康問題、視力/聽力障礙、便秘與口腔健康問題；因症狀表現不典型，常被低估或延誤發現。"
+    },
+    {
      "en": "Abuse victims: bruises (eyes, neck), sprains/fractures, fatigue, PTSD, depression; safety is the priority; nurses are mandated reporters; photograph injuries when needed.",
      "zh": "受虐者：瘀傷（眼周、頸部）、扭傷/骨折、疲倦、創傷後壓力症、憂鬱；安全為優先；護理師為強制通報者；必要時拍攝傷處。"
+    },
+    {
+     "en": "Women are affected by abuse more often than men; infants from birth to age 1 are at the highest risk of maltreatment, and most of these cases are neglect, influenced by maternal socioeconomic status and parental behavioral issues.",
+     "zh": "受虐者女性多於男性；出生至1歲的嬰兒受虐風險最高，且多數為忽略，受母親社經狀況與父母行為問題影響。"
     },
     {
      "en": "Single parents need a therapeutic relationship and community resources (child care, food security, immunizations); preventive screenings matter.",
@@ -331,15 +343,15 @@
   {
    "pdf_page": 58,
    "caption": {
-    "en": "Box 5.1 and 5.2: chronic health problems, risk factors and common infectious diseases.",
-    "zh": "Box 5.1、5.2：慢性病、危險因子與常見傳染病。"
+    "en": "Box 5.1: chronic health problems in the U.S. and risk factors.",
+    "zh": "Box 5.1：美國慢性病與危險因子。"
    }
   },
   {
    "pdf_page": 59,
    "caption": {
-    "en": "Box 5.3: population health needs assessment tool (general background questions).",
-    "zh": "Box 5.3：族群健康需求評估工具（一般背景問題）。"
+    "en": "Box 5.2: common infectious diseases; Box 5.3: population health needs assessment tool (general background questions).",
+    "zh": "Box 5.2：常見傳染病；Box 5.3：族群健康需求評估工具（一般背景問題）。"
    }
   },
   {
@@ -354,6 +366,13 @@
    "caption": {
     "en": "Box 5.4 and Clinical Judgment box: homelessness and health, priority needs of a homeless client.",
     "zh": "Box 5.4 與臨床判斷框：無家與健康、無家病人的優先需求。"
+   }
+  },
+  {
+   "pdf_page": 66,
+   "caption": {
+    "en": "Box 5.5: health problems that occur in older adults.",
+    "zh": "Box 5.5：老年人常見健康問題。"
    }
   }
  ],

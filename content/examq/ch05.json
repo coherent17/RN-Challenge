@@ -68,7 +68,7 @@
     ],
     "answer": [0, 1, 3, 4],
     "rationale": {"en": "Common health problems among people who are homeless include dental problems, malnutrition, sexually transmitted diseases (including HIV/AIDS), lung diseases, infectious diseases, mental health problems, substance abuse problems, and wounds or skin infections. Osteoporosis and seasonal allergic rhinitis are not specifically identified as more prevalent in this population.", "zh": "無家可歸族群常見的健康問題包括牙齒問題、營養不良、性傳染病（包括HIV/AIDS）、肺部疾病、感染性疾病、心理健康問題、物質濫用問題，以及傷口或皮膚感染。骨質疏鬆症與季節性過敏性鼻炎並未被列為此族群中較常見的問題。"},
-    "pdf_pages": [64],
+    "pdf_pages": [63],
     "tags": ["sata", "population health"]
   },
   {
@@ -112,7 +112,7 @@
     ],
     "answer": [2],
     "rationale": {"en": "LGBTQIA youth are at increased risk for depression and suicide, and a statement implying that others would be better off without the client suggests passive suicidal ideation that requires an immediate, direct safety assessment. The other findings are concerning but do not indicate the same level of immediate risk.", "zh": "LGBTQIA青少年罹患憂鬱症及自殺的風險較高，而暗示『他人沒有自己會更好』的陳述顯示出被動自殺意念，需要立即進行直接的安全評估。其他發現雖值得關注，但未顯示同等程度的立即風險。"},
-    "pdf_pages": [63],
+    "pdf_pages": [62],
     "tags": ["recognize cues", "mental health", "LGBTQIA"]
   },
   {
@@ -140,7 +140,7 @@
     ],
     "answer": [0],
     "rationale": {"en": "PTSD and related mental health or behavioral adjustment disorders are common among military veterans and are associated with increased risk for suicide and substance use; identifying and treating these problems is a priority. The hypertension is currently well controlled and is not the priority at this time.", "zh": "PTSD及相關的心理健康或適應障礙在退伍軍人族群中相當常見，且與自殺及物質使用風險增加有關；辨識並治療這些問題應為優先事項。病人目前的高血壓控制良好，並非此時的優先事項。"},
-    "pdf_pages": [65, 66],
+    "pdf_pages": [66],
     "tags": ["priority", "veterans", "PTSD"]
   },
   {
@@ -212,7 +212,7 @@
     ],
     "answer": [0],
     "rationale": {"en": "Social work services help connect socioeconomically disadvantaged clients and families to resources and financial assistance to pay for needed health care, including medications. The other referrals do not directly address the client's inability to afford medications.", "zh": "社工服務能協助社經地位較低的病人及家庭連結資源，獲得財務協助以支付所需的醫療費用，包括藥物費用。其他轉介並未直接解決病人無法負擔藥物費用的問題。"},
-    "pdf_pages": [65, 66],
+    "pdf_pages": [64],
     "tags": ["case management", "social determinants of health"]
   },
   {
