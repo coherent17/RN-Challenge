@@ -106,7 +106,7 @@ html[data-lang=both] .titlebox>.en+.zh{font-size:.6em;font-weight:600;opacity:.8
 /* ===== index ===== */
 .searchrow{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:44px 0 6px}
 .sech{margin:0;font-size:1.8rem;font-weight:850}.sech .en,.sech .zh{display:inline}
-.search input{width:min(100%,340px);height:46px;padding:0 18px;border:1.5px solid var(--line2);border-radius:14px;background:var(--card);color:var(--ink);font:inherit;box-shadow:var(--shadow);transition:border-color .2s,box-shadow .2s}
+.search input{width:min(100%,400px);height:46px;padding:0 18px;border:1.5px solid var(--line2);border-radius:14px;background:var(--card);color:var(--ink);font:inherit;font-size:.92rem;box-shadow:var(--shadow);transition:border-color .2s,box-shadow .2s}
 .search input:focus{outline:none;border-color:var(--ac);box-shadow:0 0 0 4px color-mix(in srgb,var(--ac) 20%,transparent)}
 .part{margin:40px 0 8px}.part h2{display:flex;align-items:center;gap:14px;margin:0 0 18px;font-size:1.25rem;font-weight:800}
 .roman{display:grid;place-items:center;min-width:46px;height:34px;padding:0 10px;border-radius:11px;background:var(--grad);color:#fff;font-size:.9rem;font-weight:800;box-shadow:0 8px 18px -6px color-mix(in srgb,var(--ac) 70%,transparent)}
@@ -362,6 +362,18 @@ footer{max-width:1180px;margin:50px auto 56px;padding:22px 28px 0;border-top:1px
 }
 
 /* ===== global search ===== */
+.hambtn{display:none;width:36px;height:36px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);align-items:center;justify-content:center;cursor:pointer;flex:none}
+.hambtn svg{width:19px;height:19px}
+@media(max-width:960px){.hambtn{display:inline-flex}}
+.mnav{position:fixed;inset:0;z-index:120;display:none;justify-content:flex-end;background:rgba(8,9,22,.55);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.mnav.open{display:flex;animation:fade .15s}
+.mnavbox{position:relative;width:min(300px,82vw);height:100%;background:var(--card);box-shadow:var(--shadow2);padding:96px 20px 24px;display:flex;flex-direction:column;gap:4px;animation:slidein .3s var(--ease);overflow-y:auto}
+.mnavbox a{position:relative;padding:15px 16px;border-radius:14px;font-weight:750;font-size:1.02rem;color:var(--ink);display:flex;align-items:center;justify-content:space-between;gap:10px}
+.mnavbox a:hover,.mnavbox a:focus-visible{background:var(--acsoft);color:var(--achi);text-decoration:none}
+.mnavbox .navbadge{position:static;margin-left:auto}
+.mnavclose{position:absolute;top:18px;right:18px;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:var(--bg2);color:var(--ink);display:grid;place-items:center;cursor:pointer}
+.mnavclose svg{width:18px;height:18px}
+@keyframes slidein{from{transform:translateX(100%)}to{transform:translateX(0)}}
 .searchbtn{display:inline-flex;gap:8px;align-items:center;height:36px;padding:0 12px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--mut);font:650 .85rem var(--sans);cursor:pointer;transition:all .2s}
 .searchbtn:hover{border-color:var(--ac);color:var(--achi)}.searchbtn svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round}
 .searchbtn kbd{padding:1px 6px;border-radius:6px;background:var(--bg2);border:1px solid var(--line);font:600 .7rem var(--sans)}
