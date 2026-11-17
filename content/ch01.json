@@ -119,8 +119,8 @@
      "zh": "NGN：每位考生會有 3 個漸進式個案、每個 6 題（涵蓋六項認知技能），出現在前 85 題內；之後可能出現蝴蝶結與趨勢單題。"
     },
     {
-     "en": "NGN item types include highlight in text/table, matrix choice/response, multiple response select N or SATA, grouping, drag-and-drop and drop-down cloze/rationale/in table.",
-     "zh": "NGN 題型包含文字/表格標示、矩陣選擇/回應、選 N 項或 SATA、分組、拖放與下拉式填空/理由/表格。"
+     "en": "NGN item types include highlight in text/table, matrix choice/response, multiple response select N/SATA/grouping, drag-and-drop cloze/rationale, and drop-down cloze/rationale/in table.",
+     "zh": "NGN 題型包含文字/表格標示、矩陣選擇/回應、選 N 項/SATA/分組、拖放式填空/理由題，以及下拉式填空/理由/表格。"
     },
     {
      "en": "NGN scoring: plus-minus (+/-) for select-any-number items, 0/1 for items like cloze and bow-tie, and rationale scoring for paired answers; most NGN items give partial credit.",
@@ -211,6 +211,10 @@
      "zh": "未通過者會收到表現報告；重考須等待 45 天（依州別而異）。"
     },
     {
+     "en": "The performance report breaks down standing by Client Needs category/subcategory and also gives an overall clinical judgment score plus a score for each of the six NCJMM cognitive skills, guiding what to restudy.",
+     "zh": "表現報告會依病人需求類別/子類別列出表現，並提供整體臨床判斷分數及 NCJMM 六項認知技能各自的分數，作為重新準備的依據。"
+    },
+    {
      "en": "Interstate endorsement or the Nurse Licensure Compact allows practice in other states; international nurses need credential evaluation, English proficiency and visa documents.",
      "zh": "可透過州際認可或護理執照互惠協定到他州執業；國際護理人員需學歷認證、英語能力及簽證文件。"
     }
@@ -271,7 +275,7 @@
    "pdf_pages": [
     25,
     26,
-    29
+    27
    ]
   },
   {
@@ -282,8 +286,8 @@
    ]
   },
   {
-   "en": "Oral contraceptives are contraindicated with thromboembolic disease, cardiovascular disease, hypertension, estrogen-dependent cancer, liver tumors/impairment.",
-   "zh": "口服避孕藥禁忌：血栓栓塞症、心血管疾病、高血壓、雌激素依賴性癌、肝腫瘤或肝功能受損。",
+   "en": "Oral contraceptives are contraindicated with thromboembolic disease, cardiovascular disease, hypertension, estrogen-dependent cancer, liver tumors/impairment, and diabetes mellitus with vascular involvement.",
+   "zh": "口服避孕藥禁忌：血栓栓塞症、心血管疾病、高血壓、雌激素依賴性癌、肝腫瘤或肝功能受損，以及合併血管病變的糖尿病。",
    "pdf_pages": [
     30
    ]
@@ -303,15 +307,15 @@
    ]
   },
   {
-   "en": "Magnesium 3.5 mEq/L is high (normal 1.8-2.6): expect drowsiness, weak reflexes, respiratory depression, bradycardia, hypotension.",
-   "zh": "鎂 3.5 mEq/L 偏高（正常 1.8-2.6）：預期嗜睡、反射減弱、呼吸抑制、心搏過緩、低血壓。",
+   "en": "Magnesium 3.5 mEq/L is high (normal 1.8-2.6): expect drowsiness, sedation, lethargy, absent/diminished reflexes (areflexia), muscle weakness, respiratory depression, bradycardia, hypotension.",
+   "zh": "鎂 3.5 mEq/L 偏高（正常 1.8-2.6）：預期嗜睡、鎮靜、昏沉、反射消失或減弱（無反射）、肌肉無力、呼吸抑制、心搏過緩、低血壓。",
    "pdf_pages": [
     26
    ]
   },
   {
-   "en": "Ventricular fibrillation: start CPR immediately and defibrillate as soon as possible.",
-   "zh": "心室顫動：立即 CPR 並盡快去顫。",
+   "en": "Ventricular fibrillation: defibrillate immediately; start CPR only as a bridge if a defibrillator is not right away available.",
+   "zh": "心室顫動：應立即去顫；若當下沒有去顫器，才先以 CPR 作為過渡措施。",
    "pdf_pages": [
     30
    ]

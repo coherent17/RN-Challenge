@@ -32,8 +32,8 @@
      "zh": "臨床路徑：循證、設定時間的照護計畫；變異分析比較實際與預期結果，及早發現負向變異。"
     },
     {
-     "en": "Care planning tools: nursing care plan, ADPIE, nursing process, SBAR, SOAP, NCJMM.",
-     "zh": "照護規劃工具：護理計畫、ADPIE、護理過程、SBAR、SOAP、NCJMM。"
+     "en": "Care planning tools: nursing care plan, ADPIE, nursing process, SBAR, SOAP; NCSBN Clinical Judgment Measurement Model (NCJMM) cognitive skills: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes.",
+     "zh": "照護規劃工具：護理計畫、ADPIE、護理過程、SBAR、SOAP；NCSBN 臨床判斷測量模式（NCJMM）認知技能：辨識線索、分析線索、排列假設優先順序、產生解決方案、採取行動、評估結果。"
     }
    ],
    "pdf_pages": [
@@ -84,8 +84,12 @@
      "zh": "領導是影響他人達成目標；管理是自己或透過他人完成任務。"
     },
     {
-     "en": "Styles: authoritarian (leader decides), democratic (participative), laissez-faire (passive), situational, bureaucratic (policies), transformational (shared vision), servant.",
-     "zh": "風格：權威式（領導者決定）、民主式（參與）、放任式（被動）、情境式、官僚式（依規定）、轉型式（共同願景）、服務式。"
+     "en": "Styles: authoritarian (leader decides), democratic (participative), laissez-faire (passive), situational, bureaucratic (policies), transformational (shared vision), servant, transactional (reward-and-punishment, social exchange theory).",
+     "zh": "風格：權威式（領導者決定）、民主式（參與）、放任式（被動）、情境式、官僚式（依規定）、轉型式（共同願景）、服務式、交易式（獎懲、社會交換理論）。"
+    },
+    {
+     "en": "Effective leaders treat followers as individuals, communicate a vision and build trust, and are credible, persuasive critical thinkers who take initiative and appropriate risks.",
+     "zh": "有效的領導者把追隨者視為獨立個體，傳達願景並建立信任，且具備可信度、說服力、批判思考、主動性與適度冒險的特質。"
     },
     {
      "en": "Management functions: planning, organizing, directing, controlling. Problem-solving steps parallel the nursing process and NCJMM.",
@@ -146,6 +150,10 @@
     {
      "en": "Conflict types: intrapersonal, interpersonal, organizational. Modes: avoidance, accommodation, competition, compromise (assertive and cooperative).",
      "zh": "衝突類型：個人內在、人際、組織。處理方式：迴避、順應、競爭、妥協（堅定且合作）。"
+    },
+    {
+     "en": "Change can be planned (a deliberate effort to improve a situation) or unplanned (a reactive response to a disruption).",
+     "zh": "變革可分為計畫性變革（有意改善現況的努力）與非計畫性變革（因突發狀況而產生的被動回應）。"
     }
    ],
    "pdf_pages": [
@@ -211,6 +219,10 @@
     {
      "en": "Give clear directions, validate understanding, give feedback; match task to the nurse practice act and job description.",
      "zh": "指示清楚、確認理解、給予回饋；依護理執業法與職務說明配對任務。"
+    },
+    {
+     "en": "LPN/VN may collect data and reinforce teaching plans the RN already initiated, but only the RN analyzes data (assessment) and initiates teaching.",
+     "zh": "LPN/VN 可收集資料並複習 RN 已起始的衛教計畫，但僅 RN 可分析資料（評估）與起始衛教。"
     },
     {
      "en": "Time management: list tasks, prioritize, begin rounds early, delegate, document concurrently, evaluate the day.",
@@ -365,7 +377,8 @@
    "zh": "勒溫：解凍、移動、再凍結；面質抗拒者以探索感受。",
    "pdf_pages": [
     93,
-    94
+    94,
+    104
    ]
   },
   {
@@ -398,8 +411,8 @@
    ]
   },
   {
-   "en": "Report impaired staff or short staffing to administration; never abandon an assignment.",
-   "zh": "通報受物質影響的同事或人力不足；不可擅離工作。",
+   "en": "Prioritization differs in a disaster or emergency: the nurse may need to act immediately, before gathering complete assessment data.",
+   "zh": "災難或緊急情況下的優先順序判斷不同於常規照護：護理師可能需先行動，之後才蒐集完整評估資料。",
    "pdf_pages": [
     98
    ]
@@ -787,7 +800,8 @@
    },
    "pdf_pages": [
     99,
-    103
+    103,
+    104
    ],
    "source": {
     "type": "original",

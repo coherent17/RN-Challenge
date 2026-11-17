@@ -53,7 +53,7 @@
     ],
     "answer": [0],
     "rationale": {"en": "Think survivability. Pulsating bright red blood indicates arterial bleeding and an immediate threat to circulation and life; this victim can likely be saved with rapid intervention and is tagged as the highest priority. The other victims have injuries that are not immediately life-threatening and can wait.", "zh": "請以「存活可能性」為考量。鮮紅色搏動性出血代表動脈出血，對循環與生命構成立即威脅；此傷者若能迅速處置極可能獲救，因此應列為最高優先。其餘傷者的傷害並非立即威脅生命，可稍後處理。"},
-    "pdf_pages": [100, 101],
+    "pdf_pages": [101],
     "tags": ["triage", "disaster", "mass casualty", "first action"]
   },
   {
@@ -125,7 +125,7 @@
     ],
     "answer": [1],
     "rationale": {"en": "SBAR (Situation, Background, Assessment, Recommendation) is a structured communication technique that organizes up-to-date information about the client's situation, background, assessment findings, and a specific recommendation for care. A vague statement or a report limited to one data type does not meet the SBAR structure.", "zh": "SBAR（情況、背景、評估、建議）是一種結構化溝通技巧，能整理病人目前情況、背景資訊、評估發現，以及具體照護建議。含糊的陳述或僅侵蓋單一類型資料的報告，皆不符合 SBAR 結構。"},
-    "pdf_pages": [96],
+    "pdf_pages": [95],
     "tags": ["communication", "SBAR"]
   },
   {
