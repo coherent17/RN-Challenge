@@ -146,6 +146,10 @@
      "zh": "病毒、細菌（A 群鏈球菌）或黴菌；扁桃腺/腺樣體腫大造成打鼾、口呼吸、鼻音、阻塞性睡眠呼吸中止。"
     },
     {
+     "en": "Group A strep ('strep throat') tonsillitis can rarely progress to streptococcal toxic shock syndrome, a severe complication; infectious mononucleosis is another possible cause of tonsillitis/adenoiditis.",
+     "zh": "A 群鏈球菌（鏈球菌性咽喉炎）扁桃腺炎罕見情況下可進展為鏈球菌性毒性休克症候群，屬嚴重併發症；傳染性單核球增多症也是扁桃腺炎/腺樣體炎的可能病因之一。"
+    },
+    {
      "en": "Signs: sore throat, bright red tonsils with exudate, dysphagia, fever, bad breath, cough.",
      "zh": "徵象：喉嚨痛、扁桃腺鮮紅有滲出物、吞嚥困難、發燒、口臭、咳嗽。"
     },
@@ -312,6 +316,13 @@
    "pdf_pages": [
     495,
     499
+   ]
+  },
+  {
+   "en": "Group A strep throat/tonsillitis is a potential trigger for streptococcal toxic shock syndrome; watch for rapid deterioration.",
+   "zh": "A 群鏈球菌咽喉炎/扁桃腺炎可能誘發鏈球菌性毒性休克症候群；需留意病況快速惡化。",
+   "pdf_pages": [
+    497
    ]
   }
  ],

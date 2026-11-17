@@ -72,7 +72,9 @@
 {"en": "Fifth disease: slapped-cheek rash; pregnant contacts notify provider.", "zh": "第五病：拍臉頰疹；孕婦接觸者通知醫師。", "pdf_pages": [570]},
 {"en": "Mononucleosis: avoid contact sports; report LUQ or left-shoulder pain (splenic rupture).", "zh": "單核球增多症：避免接觸性運動；左上腹或左肩痛需通報（脾破裂）。", "pdf_pages": [570]},
 {"en": "RMSF: rash on wrists/ankles and palms/soles after tick bite; remove tick with tweezers straight up.", "zh": "落磯山斑疹熱：蜱咬後手腕腳踝及掌蹠出疹；用鑷子垂直向上移除蜱。", "pdf_pages": [570, 571]},
-{"en": "Influenza: return to school after 24 h fever-free without antipyretics.", "zh": "流感：無退燒藥下退燒24小時後才可返校。", "pdf_pages": [571, 572]}
+{"en": "Influenza: return to school after 24 h fever-free without antipyretics.", "zh": "流感：無退燒藥下退燒24小時後才可返校。", "pdf_pages": [571, 572]},
+{"en": "Scarlet fever is caused by the same group A beta-hemolytic streptococcus that, after an untreated or partially treated strep throat, can trigger rheumatic fever 2-6 weeks later; when rheumatic fever is suspected, ask about a recent family history of sore throat.", "zh": "猩紅熱與可能在未經治療或治療不完全的鏈球菌咽炎後2-6週誘發風濕熱的A群乙型溶血性鏈球菌相同；評估疑似風濕熱時應詢問家人近期是否有喉嚨痛病史。", "pdf_pages": [574, 576]},
+{"en": "A child with HIV infection who has a tetanus-prone wound may also receive tetanus immunoglobulin, since the usual toxoid may not reliably protect an immunosuppressed child.", "zh": "若HIV感染兒童有易感染破傷風風險的傷口，也可能給予破傷風免疫球蛋白，因為免疫抑制兒童單靠破傷風類毒素疫苗可能無法產生可靠保護力。", "pdf_pages": [566]}
 ],
 "mnemonics": [
 {"en": "Measles '3 Cs + K': Coryza, Cough, Conjunctivitis, Koplik spots.", "zh": "麻疹「3C+K」：鼻炎、咳嗽、結膜炎、Koplik斑。", "pdf_pages": [566]},
