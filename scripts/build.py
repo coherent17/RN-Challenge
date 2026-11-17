@@ -134,6 +134,7 @@ for q in ext:
     if score(best) > 0: ext_by_ch.setdefault(best, []).append(q)
 if LOCAL:
     shutil.copytree(root / "docs/assets", docs / "assets", dirs_exist_ok=True)
+    shutil.copytree(root / "docs/icons", docs / "icons", dirs_exist_ok=True)
     if (root / "docs/book.pdf").exists() and not (docs / "book.pdf").exists(): (docs / "book.pdf").symlink_to(root / "docs/book.pdf")
 
 parts = []
@@ -203,6 +204,9 @@ for n, d in sorted(content.items()):
 (docs / "quiz.html").write_text(render("quiz.html", title="Quick Quiz", page="quiz", chapter=None, parts=parts), encoding="utf-8")
 (docs / "review.html").write_text(render("review.html", title="Review Mistakes", page="review", chapter=None, parts=parts), encoding="utf-8")
 (docs / "studyguide.html").write_text(render("studyguide.html", title="Printable Study Guide", page="studyguide", chapter=None, parts=parts, content=content), encoding="utf-8")
+(docs / "offline.html").write_text(render("offline.html", title="Offline", page="offline", chapter=None, parts=parts), encoding="utf-8")
+(docs / "manifest.json").write_text(render("manifest.json"), encoding="utf-8")
+(docs / "sw.js").write_text(render("sw.js"), encoding="utf-8")
 for i, c in enumerate(chapters):
     d = content.get(c["number"])
     if d: resolve_refs(d)
