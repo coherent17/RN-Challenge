@@ -173,6 +173,10 @@
      "zh": "巨結腸症照護：不量肛溫、量腹圍、分期手術含暫時性結腸造口；造口應紅潤濕潤。"
     },
     {
+     "en": "Hirschsprung can run in families and is sometimes seen with Down syndrome or genitourinary anomalies. Mild-to-moderate disease may first be managed without surgery: a low-fiber, high-calorie, high-protein diet, stool softeners, and prescribed daily rectal irrigations to keep stool moving before surgery becomes necessary.",
+     "zh": "巨結腸症可能有家族傾向，也常合併唐氏症或泌尿生殖道異常。輕中度病例可先採非手術治療：低纖維、高熱量、高蛋白飲食，搭配軟便劑與醫囑每日直腸灌洗以維持排便，之後再評估是否需要手術。"
+    },
+    {
      "en": "Intussusception: colicky pain with knees drawn up, currant-jelly stool, sausage-shaped mass; hydrostatic (air/fluid) reduction if no perforation or shock; normal brown stool means reduction.",
      "zh": "腸套疊：陣發性絞痛屈膝、果醬樣血便、香腸狀腫塊；無穿孔休克可行水（空氣）壓灌腸整復；排出正常棕色便代表已復位。"
     },
@@ -350,8 +354,8 @@
    "en": "Cleft lip repair: back-lying, protect suture line; no prone or repair-side positioning.",
    "zh": "唇裂修補後：仰臥、保護縫線；避免趴臥或壓術側。",
    "pdf_pages": [
-    477,
-    490
+    476,
+    477
    ]
   },
   {

@@ -187,6 +187,10 @@
     {
      "en": "After splenectomy report infection (sepsis risk); give pneumococcal, meningococcal, annual flu vaccines; genetic counseling.",
      "zh": "切脾後有感染應回報（敗血症風險）；接種肺炎鏈球菌、腦膜炎雙球菌與每年流感疫苗；遺傳諮詢。"
+    },
+    {
+     "en": "Beta-thalassemia is a spectrum, not just the severe form: minor is an asymptomatic carrier state, trait causes only mild microcytic anemia, intermedia brings splenomegaly with moderate-to-severe anemia, and major (Cooley anemia) is the transfusion-dependent severe form described above.",
+     "zh": "β 型地中海型貧血其實是一個疾病光譜，不只有嚴重型：輕型（minor）為無症狀帶因者，特徵型（trait）僅造成輕度小球性貧血，中間型（intermedia）有脾腫大合併中重度貧血，重型（major，即 Cooley 貧血）才是上述需終身輸血的嚴重型。"
     }
    ],
    "pdf_pages": [
@@ -256,8 +260,8 @@
    ]
   },
   {
-   "en": "Safe sport for hemophilia: swimming; avoid contact sports like soccer, football, hockey.",
-   "zh": "血友病安全運動：游泳；避免足球等接觸運動。",
+   "en": "Safe sport for hemophilia: swimming; avoid contact/collision sports like soccer, basketball, field hockey.",
+   "zh": "血友病安全運動：游泳；避免足球、籃球、曲棍球等碰撞性運動。",
    "pdf_pages": [
     448,
     450
