@@ -406,6 +406,8 @@ mark,mark.hl{background:#ffe27a;color:#1a1500;border-radius:4px;padding:0 2px}ma
 .mode:hover{transform:translateY(-4px);border-color:var(--ac);box-shadow:var(--shadow2)}.mode[data-mode=cat]{background:linear-gradient(160deg,var(--acsoft),var(--card));border-color:var(--ac)}
 .mtag{display:inline-block;padding:2px 11px;border-radius:99px;background:var(--grad);color:#fff;font:800 .7rem var(--sans);letter-spacing:.05em;text-transform:uppercase}.mode h3{margin:12px 0 6px;font-size:1.25rem;font-weight:850}.mode p{margin:0 0 10px;color:var(--mut);font-size:.9rem}.mode ul{margin:0;padding-left:1.1em;font-size:.84rem;color:var(--mut)}
 .exinfo{margin-top:22px}.exinfo h3{margin:0 0 8px}.exinfo ul{padding-left:1.1em}.exinfo li{margin:.5em 0;font-size:.92rem}
+#ex-blueprint h4{margin:16px 0 8px;font-size:.92rem;font-weight:700;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.bplist{display:grid;gap:5px;margin:0;padding:0;list-style:none}.bplist li{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:7px 12px;border-radius:9px;background:var(--bg2);font-size:.86rem}.bplist b{color:var(--ac)}
 .hist{display:grid;gap:6px}.hrow{display:grid;grid-template-columns:90px 1fr 80px 56px 90px;gap:10px;align-items:center;padding:8px 12px;border-radius:12px;background:var(--bg2);font-size:.86rem}.hrow b{text-align:right}
 .vb{justify-self:end;padding:1px 10px;border-radius:99px;font:800 .72rem var(--sans)}.vb.pass{background:#d8f3ea;color:#0b6b52}.vb.fail{background:#fde1e4;color:#a3202f}
 .ex-top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}.ex-q{font-weight:850}.ex-prog{flex:1;min-width:80px}.ex-sp{flex:1}
