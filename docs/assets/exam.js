@@ -19,6 +19,11 @@ function clock(ms){ms=Math.max(0,Math.round(ms/1000));var h=Math.floor(ms/3600),
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
 function P(th,b){return 1/(1+Math.exp(-(th-b)))}
 
+(function(){var el=$('#ex-blueprint');if(!el)return;
+var rows=Object.keys(CATS).sort(function(a,b){return CATS[b].w-CATS[a].w}).map(function(k){var c=CATS[k];return '<li><span class="bpk">'+L(c.en,c.zh)+'</span><b>'+Math.round(c.w*100)+'%</b></li>'}).join('');
+el.innerHTML='<h4><span class="en">Question mix, matching the official test plan</span><span class="zh">題目分配，依照官方測驗藍圖</span> '+NX.pageTag([24],'Client Needs categories exam percentages')+'</h4><ul class="bplist">'+rows+'</ul>';
+NX.fillBookLabels(el)})();
+
 fetch(NX.BASE+'questions.json').then(function(r){return r.json()}).then(function(d){ALL=d.filter(function(q){return q.cat});ALL.forEach(function(q,i){q.id=i});var n=$('#ex-n');if(n)n.textContent=ALL.length;renderHist()});
 $$('.mode').forEach(function(b){b.onclick=function(){if(ALL.length)start(b.dataset.mode)}});
 
