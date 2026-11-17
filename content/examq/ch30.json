@@ -87,15 +87,15 @@
       "zh": "學校護理師於校園健康園遊會向家長教導膿皰瘡相關知識。家長的哪句話顯示需要進一步指導？"
     },
     "options": [
-      {"en": "\"My child can safely return to school 24 hours after starting the prescribed antibiotic.\"", "zh": "「我的孩子在開始服用醫師開立的抗生素 24 小時後就能安全返校。」"},
+      {"en": "\"My child can go back to school right away, even before starting the prescribed antibiotic, as long as the lesions are covered.\"", "zh": "「即使還沒開始服用醫師開立的抗生素，只要把病灶遮蓋起來，我的孩子就能馬上回學校上課。」"},
       {"en": "\"I need to keep a separate towel and washcloth for my child while the infection is active.\"", "zh": "「在感染活動期間，我需要讓孩子使用專屬的毛巾和洗臉布。」"},
       {"en": "\"Impetigo can develop at a site of a mosquito bite or a patch of eczema.\"", "zh": "「膿皰瘡可能出現在蚊蟲咬傷處或濕疹的皮膚上。」"},
       {"en": "\"I should make sure my child finishes the entire course of antibiotics even if the lesions look better.\"", "zh": "「即使病灶看起來好轉，我也要確保孩子完成整個療程的抗生素。」"}
     ],
     "answer": [0],
     "rationale": {
-      "en": "Impetigo remains communicable for 24 hours beyond initiation of antibiotic treatment, meaning the child is not yet safe to return until that time has passed; this statement reflects a misunderstanding. Completing the full antibiotic course is essential because untreated streptococcal impetigo can progress to glomerulonephritis.",
-      "zh": "膿皰瘡在開始抗生素治療後仍具傳染性長達 24 小時，意即此時間尚未過去前孩子還不能安全返校；此陳述顯示誤解。完整完成抗生素療程非常重要，因未治療的鏈球菌性膿皰瘡可能進展為腎小球腎炎。"
+      "en": "Impetigo remains communicable until the child has been on the prescribed antibiotic for at least 24 hours; simply covering the lesions does not make the child noninfectious, so returning to school before treatment has even started is unsafe. Completing the full antibiotic course is essential because untreated streptococcal impetigo can progress to glomerulonephritis.",
+      "zh": "膿皰瘡在孩子開始服用醫師開立的抗生素至少 24 小時前仍具傳染性；僅遮蓋病灶並不能使孩子不具傳染力，因此在尚未開始治療前就返校並不安全。完整完成抗生素療程非常重要，因未治療的鏈球菌性膿皰瘡可能進展為腎小球腎炎。"
     },
     "pdf_pages": [439],
     "tags": ["requires further teaching", "evaluate teaching"]
