@@ -238,8 +238,19 @@ inp.onkeydown=function(e){var items=$$('.sitem',sov);if(e.key==='ArrowDown'||e.k
 sov.classList.add('open');document.body.classList.add('lbopen');var inp2=$('input',sov);inp2.focus();inp2.select();sload().then(function(d){renderSearch(d,inp2.value)})}
 function closeSearch(){if(sov){sov.classList.remove('open');if(!isOpen())document.body.classList.remove('lbopen')}}
 var sb0=$('#open-search');if(sb0)sb0.onclick=openSearch;
+/* mobile nav drawer */
+var mnavEl=null,mnavBtn=$('#open-mnav');
+function openMnav(){if(!mnavEl){mnavEl=document.createElement('div');mnavEl.className='mnav';
+mnavEl.innerHTML='<div class="mnavbox"><button class="mnavclose" type="button" aria-label="Close menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button><nav>'+$('.mainnav').innerHTML+'</nav></div>';
+document.body.appendChild(mnavEl);
+mnavEl.onclick=function(e){if(e.target===mnavEl)closeMnav()};
+$('.mnavclose',mnavEl).onclick=closeMnav;
+$$('a',mnavEl).forEach(function(a){a.onclick=closeMnav})}
+mnavEl.classList.add('open');document.body.classList.add('lbopen');if(mnavBtn)mnavBtn.setAttribute('aria-expanded','true')}
+function closeMnav(){if(mnavEl)mnavEl.classList.remove('open');if(!isOpen()&&!(sov&&sov.classList.contains('open')))document.body.classList.remove('lbopen');if(mnavBtn)mnavBtn.setAttribute('aria-expanded','false')}
+if(mnavBtn)mnavBtn.onclick=openMnav;
 document.addEventListener('keydown',function(e){var typing=/input|textarea|select/i.test((e.target||{}).tagName||'');
-if((e.key==='k'||e.key==='K')&&(e.ctrlKey||e.metaKey)){e.preventDefault();openSearch()}else if(e.key==='/'&&!typing&&!(lb&&lb.classList.contains('open'))){e.preventDefault();openSearch()}else if(e.key==='Escape'&&sov&&sov.classList.contains('open'))closeSearch()});
+if((e.key==='k'||e.key==='K')&&(e.ctrlKey||e.metaKey)){e.preventDefault();openSearch()}else if(e.key==='/'&&!typing&&!(lb&&lb.classList.contains('open'))){e.preventDefault();openSearch()}else if(e.key==='Escape'&&sov&&sov.classList.contains('open'))closeSearch();else if(e.key==='Escape'&&mnavEl&&mnavEl.classList.contains('open'))closeMnav()});
 /* highlight search terms on arrival (?hl=...) */
 var PAGE_HL=(function(){var m=location.search.match(/[?&]hl=([^&]*)/);return m?decodeURIComponent(m[1]).toLowerCase().split(/\s+/).filter(Boolean):[]})();
 (function(){var terms=PAGE_HL;var rt=$('.content');if(!terms.length||!rt)return;
